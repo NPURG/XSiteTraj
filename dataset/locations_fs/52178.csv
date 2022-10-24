@@ -1,0 +1,112 @@
+,time,poi,latitude,longitude
+0,2016-09-12 21:44:22,"I Vizi degli Angeli, via Ridola 36, Matera",40.6635819818,16.6098731155
+1,2016-09-01 16:06:12,"Bird, Regeringsgatan 89, Stockholm",59.3378448486,18.0671958923
+2,2016-09-01 14:52:37,"Sempre, Jakobsbergsgatan 5, Stockholm",59.334932,18.072286
+3,2016-08-19 17:31:13,"Marks & Spencer, Kalverstraat 266, Amsterdam",52.3672425875,4.8927489513
+4,2016-08-19 17:29:58,"Worst, Barentszstraat 171, Amsterdam",52.388868,4.887576
+5,2016-08-14 00:00:34,"Westergasfabriek, Gosschalklaan, Amsterdam",52.3863083782,4.87111600205
+6,2016-08-13 23:59:06,"Van Dijk & Ko, Papaverweg, Amsterdam",52.3977959293,4.90434854975
+7,2016-08-13 23:58:09,"1105, Kristen Bernikows gade 4, Kbenhavn",55.6805661816,12.5824115893
+8,2016-08-13 23:56:17,"IJ-Hallen - Lasloods, T.T. Neveritaweg 1, Amsterdam",52.4023141412,4.894323349
+9,2016-08-10 22:48:30,"Retour Steak, Ny stergade 21, Kbenhavn K",55.6818905099,12.5821803304
+10,2016-08-10 22:45:27,"Meneer Nieges, Westerdoksdijk 40, Amsterdam",52.3872034189,4.89273509224
+11,2016-08-10 22:45:05,"Restaurant Gebr. Hartering, Peperstraat 10HS, Amsterdam",52.37159,4.90750234
+12,2016-08-10 22:44:14,"BurgerBar, Warmoestraat 21, Amsterdam",52.3759296899,4.89902031496
+13,2016-08-10 22:43:12,"Banh Mi, Elmegade 20, Copenhagen N",55.6901740353,12.5592409368
+14,2016-08-10 22:41:49,"Gasoline Grill, Landegreven 10, Kbenhavn",55.683253,12.585145
+15,2016-08-10 22:41:35,"Osteria 16, Haderslevgade, Kbenhavn",55.6676892049,12.5458530394
+16,2016-08-10 22:40:40,"McKluud, Istedgade 126, Kbenhavn V",55.668449,12.550028
+17,2016-08-10 22:40:01,"Vkst, Sankt Peders Strde 34, Kbenhavn",55.6788200154,12.5669882529
+18,2016-08-10 22:38:40,"FAMO, Saxogade 3, Kbenhavn",55.672544,12.550482
+19,2016-07-21 03:34:41,"Caf Wildschut, Roelof Hartplein 1-3, Amsterdam",52.3532555468,4.8822426796
+20,2016-07-21 03:33:51,"Van Krimpen, Frans Halsstraat 67, Amsterdam",52.355777159,4.88867071013
+21,2016-07-21 03:30:23,"Julius bar&grill, Ceintuurbaan 256-260, Amsterdam",52.3525887061,4.89013918962
+22,2016-07-21 03:21:28,"Brouwerij 't IJ, Funenkade 7, Amsterdam",52.3667217129,4.92638111115
+23,2016-07-14 09:11:46,"Retour Steak, Trommesalen 5, Kbenhavn V",55.6740256351,12.5607367893
+24,2016-07-13 21:18:40,"Enghave Kaffe, Enghave Plads 3, Kbenhavn",55.6670710058,12.5479095458
+25,2016-07-13 21:17:09,"Dansk Made For Rooms, Istedgade 80, Kbenhavn",55.669275,12.553657
+26,2016-07-13 21:14:31,"Thiemers Magasin, Tullinsgade 24, Kbenhavn",55.6734463715,12.5502705574
+27,2016-07-13 21:13:07,"Lauras Bakery, Frederiksborggade 21, Kbenhavn K",55.683707,12.569577
+28,2016-07-13 21:12:41,"Drive In Bottleshop, Amager Strandvej 418, Kbenhavns Kommune",55.6337255634,12.6516151428
+29,2016-07-13 21:11:55,"Playtype, Vrnedamsvej 6, Kbenhavn",55.673194,12.549886
+30,2016-07-11 02:11:53,"sterberg, Rosenvngets All 7c, Copenhagen",55.6988995531,12.5796225002
+31,2016-07-11 02:11:29,"Neighbourhood, Istedgade 27, Kbenhavn",55.6706675001,12.5582793128
+32,2016-07-11 02:10:54,"Sushi Stop, Vesterbrogade 187, Frederiksberg",55.6707999007,12.5322817005
+33,2016-07-11 02:10:37,"Copenhagen Zoo, Roskildevej 38, Frederiksberg",55.6720195732,12.5227504058
+34,2016-07-11 02:09:35,"Palads Biograf, Axeltorv 9, Kbenhavn V",55.6762673671,12.5637623778
+35,2016-07-11 02:07:24,"Cafe Dyrehaven, Snder Boulevard 72, Kbenhavn V",55.6656688,12.5496236
+36,2016-06-19 03:00:51,"InterContinental Boston, 510 Atlantic Avenue, Boston",42.3537013069,-71.0519269988
+37,2016-06-19 02:59:01,"Blackbird Doughnuts, 492 Tremont St, Boston",42.3457253482,-71.0694301483
+38,2016-06-19 01:00:34,"Five Guys, 58 Summer St, Boston",42.3543965749,-71.0587983509
+39,2016-06-19 00:55:24,"Masa, 439 Tremont St, Boston",42.3469130509,-71.0688614238
+40,2016-06-19 00:53:36,"Row 34, 383 Congress St, Boston",42.3495136747,-71.0474234152
+41,2016-06-19 00:25:03,"The Chicken & Rice Guys Store, 85 Bedford St, Boston",42.3533879424,-71.0594367308
+42,2016-06-19 00:24:44,"North East of the Border Food Truck, Dewey Square, Boston",42.3531540034,-71.0552466191
+43,2016-06-19 00:20:16,"Sorelle Bakery, 280 Congress St, Boston",42.3533883789,-71.0532734215
+44,2016-06-19 00:20:01,"Bobby from Boston, 19 Thayer St, Boston",42.3427366805,-71.0650196108
+45,2016-06-19 00:18:58,"Fenway Park, 4 Yawkey Way, Boston",42.3464066919,-71.0979988275
+46,2016-06-05 21:00:42,"Chicks Loves Donuts, Hannie Dankbaarpassage, Amsterdam",52.3669936336,4.86810700517
+47,2016-06-05 20:59:46,"Viet View, Foodhallen, Amsterdam",52.3669139218,4.86828460001
+48,2016-06-05 20:58:42,"Berry, Bilderdijkkade 27, Amsterdam",52.3686459174,4.86988609768
+49,2016-05-24 13:52:50,"Waterkant, Marnixstraat 246, Amsterdam",52.3696426062,4.87590031745
+50,2016-05-24 13:52:15,"Azurmendi, Barrio Legina s/n, Larrabetz",43.2608389064,-2.81490325928
+51,2016-05-24 13:50:53,"Guggenheim Museum, Av. Abandoibarra, 2, Bilbao",43.2687156064,-2.93451756986
+52,2016-05-24 13:50:24,"Gure Toki, Plaza Nueva 12, Bilbao",43.2592801548,-2.92236251369
+53,2016-05-24 13:49:42,"Cafe Bar Bilbao, Plaza Berria, 6, Bilbao",43.2589251781,-2.92259173367
+54,2016-05-24 13:48:14,"Baster, Calle Correo 22, Bilbao",43.257559,-2.923537
+55,2016-05-24 13:46:09,"The Flying Elk, Mlartorget 15, Stockholm",59.3230972161,18.068883419
+56,2016-05-24 13:45:30,"Gaston - Wine Exploring, Mlartorget 15, Stockholm",59.3229675421,18.0682020945
+57,2016-05-18 18:45:12,"Crate, Jgersborggade 50, Kbenhavn",55.6935144941,12.5428652163
+58,2016-05-18 18:03:26,"The Donut Shop, Jgersborgsgade 5, Kbenhavn",55.6918271396,12.5454277245
+59,2016-05-18 17:57:37,"Assistens Kirkegrd, Kapelvej 4, Kbenhavn",55.6904836833,12.5498126772
+60,2016-05-18 16:23:24,"MAD & KAFFE, Snder Boulevard 68, Copenhagen V",55.6659197743,12.5503501104
+61,2016-05-18 16:21:01,"Kent Kaffe Laboratorium, Nrre Farimagsgade 70, Kbenhavn K",55.6845285582,12.5679302216
+62,2016-05-18 16:02:35,"forloren espresso, Store Kongensgade 32, Kbenhavn",55.682553,12.586237
+63,2016-05-18 15:57:14,"The Coffee Collective, Linnesgade 17, Stade C1 og D1, Kbenhavn",55.6836707492,12.5697027226
+64,2016-05-18 15:54:51,"Torvehallerne, Frederiksborggade, Kbenhavn",55.6838435179,12.5698349503
+65,2016-05-18 04:16:25,"NOHO, Flsketorvet 26, Kbenhavn",55.6675955013,12.557952404
+66,2016-05-18 04:10:10,"Mother, Hkerboderne 9-15, Kbenhavn",55.6684712616,12.5577559316
+67,2016-05-18 02:24:56,"Vinhanen, Baggesensgade 13, Kbenhavn",55.6870620197,12.5594362216
+68,2016-05-18 02:20:04,"Amsterdam Airport Schiphol (AMS), Aankomstpassage, Schiphol",52.3101631812,4.76312800258
+69,2016-05-18 02:17:32,"Rosforth & Rosforth, Knippelsbrogade 10, Kbenhavn",55.6743165005,12.5869059855
+70,2016-05-18 01:45:51,"Tivoli, Vesterbrogade 3, Kbenhavn",55.6738179941,12.567337084
+71,2016-05-18 01:43:42,"Wakeup Copenhagen, Borgergade 9, Kbenhavn",55.6831031048,12.584368877
+72,2016-05-18 01:41:36,"Papiren, Trangravsvej 14, Kbenhavn",55.679538546,12.5978577276
+73,2016-05-17 00:44:58,"Oriental City, Oudezijds Voorburgwal 177-179, Amsterdam",52.371829,4.896035
+74,2016-05-17 00:44:02,"O'Reilly's, Paleisstraat 103, Amsterdam",52.3725,4.89032
+75,2016-05-17 00:38:02,"Happyhappyjoyjoy, Bilderdijkstraat 158, Amsterdam",52.3675492904,4.87195209292
+76,2016-05-15 21:58:01,"Het Rembrandthuis, Jodenbreestraat 4, Amsterdam",52.3695160266,4.90121348868
+77,2016-05-15 21:23:00,"Flat Iron, 17 Beak St, London",51.5120595195,-0.138398337766
+78,2016-05-15 20:23:46,"La Cabrera, Cabrera 5099, Buenos Aires",-34.5892563015,-58.4332062636
+79,2016-05-15 20:21:17,"Hawksmoor Spitalfields, 157 Commercial St, London",51.5214129067,-0.0757354916337
+80,2016-05-15 19:43:08,"Path Tuschinski, Reguliersbreestraat 26-34, Amsterdam",52.3664031701,4.89482040202
+81,2016-05-15 00:11:30,"Monte Pelmo, Tweede Anjeliersdwarsstraat 17, Amsterdam",52.377463,4.881654
+82,2016-05-15 00:09:14,"IJscuypje, Gosschalklaan 7, Amsterdam",52.3863822744,4.87228069165
+83,2016-05-15 00:07:41,"Eastside, Sumatrastraat 47, Amsterdam",52.3632038865,4.93587298781
+84,2016-05-15 00:07:06,"Linnaeushof, Rijksstraatweg 4, Bennebroek",52.3255246865,4.59834449163
+85,2016-05-15 00:06:36,"Gelateria Garrone, Grote Houtstraat 179, Haarlem",52.37658,4.63141
+86,2016-05-15 00:05:40,"Beigel Shop, 155 Brick Ln, Brick Lane",51.5243736519,-0.0716966413893
+87,2016-05-15 00:05:23,"Caboose, Ely's Yard, Spitalfields",51.5210141908,-0.0732135772705
+88,2016-05-15 00:04:56,"Nude Espresso, 26 Hanbury St, London",51.5203215234,-0.072731885911
+89,2016-05-15 00:03:03,"HPS, Rapenburg 18, Amsterdam",52.3717018934,4.90762710571
+90,2016-05-15 00:00:03,"C.T. - Coffee & Coconuts, Ceintuurbaan 282-284, Amsterdam",52.3526878357,4.89153814316
+91,2016-05-04 19:36:50,"Tenue de Nmes, Elandsgracht 60, Amsterdam",52.3698612081,4.88129854202
+92,2016-05-04 19:24:11,"Het Scheepvaartmuseum, Kattenburgerplein 1, Amsterdam",52.3714882143,4.91461524605
+93,2016-05-04 19:22:03,"Hutspot, Rozengracht 204-206, Amsterdam",52.3725984484,4.87738160511
+94,2016-04-29 19:15:14,"Grandpa, Gamla Brogatan 32, Stockholm",59.3334386043,18.0588094495
+95,2016-04-08 22:01:44,"Quartier Putain, Oudekerksplein 4, Amsterdam",52.3746560002,4.89862561226
+96,2016-04-08 22:00:39,"The Hoxton, Herengracht 255, Amsterdam",52.3719160681,4.88732869161
+97,2016-04-02 21:53:02,"Marqt, Haarlemmerstraat 165, Amsterdam",52.3811464808,4.88956511021
+98,2016-03-30 00:10:35,"Papercut, Krukmakargatan 241326, Stockholm",59.3171716926,18.0548809649
+99,2016-03-30 00:07:50,"Nitty Gritty, Krukmakargatan 26, Stockholm",59.31715055,18.054398
+100,2016-03-28 23:01:21,"Sunday Market, Westergasfabriek, Amsterdam",52.3859342535,4.87203519858
+101,2016-03-28 22:59:10,"BAK restaurant, Van Diemenstraat 410, Amsterdam",52.3903470628,4.88716316758
+102,2016-03-28 21:53:58,"Stedelijk Museum, Museumplein 10, Amsterdam",52.357780217,4.87988233566
+103,2016-03-28 20:11:55,"Dignita Restaurant, Koninginneweg 218HS, Amsterdam",52.3518951974,4.85731179834
+104,2016-03-09 20:57:07,"Black & Bloom, Oude Kijk In T Jatstraat 32, Groningen",53.2193884492,6.5617381975
+105,2016-03-07 00:05:40,"Bakers & Roasters, Kadijksplein 16, Amsterdam",52.370355,4.912786
+106,2016-03-07 00:02:30,"Louie Louie, Linnaeusstraat 11, Amsterdam",52.3631161051,4.92355313832
+107,2016-03-06 23:51:38,"Japan Inn, Leidsekruisstraat 4, Amsterdam",52.3638804946,4.8854541753
+108,2016-03-06 23:49:23,"TOKI, Binnen Dommersstraat 15, Amsterdam",52.3828557221,4.88559007645
+109,2016-02-13 23:20:05,"Urban Deli, Nytorget 4, Stockholm",59.3124763619,18.0825519562
+110,2016-02-13 23:18:55,"Bioscoop het Ketelhuis, Westergasfabriek, Amsterdam",52.3863557,4.8735217

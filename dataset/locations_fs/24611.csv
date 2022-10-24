@@ -1,0 +1,58 @@
+,time,poi,latitude,longitude
+0,2016-09-29 08:46:56,"Parker Library, 20105 E Mainstreet, Parker",39.51814,-104.755554
+1,2016-09-23 02:44:35,"L&L Hawaiian Barbecue, 14221 E Cedar Ave, Aurora",39.7128399216,-104.822334135
+2,2016-09-22 06:02:01,"Cuba Cuba Sandwicheria, 9567 S. University, Highlands Ranch",39.5425101537,-104.942464516
+3,2016-08-05 01:08:35,"Starbucks, 17761 Cottonwood Dr, Parker",39.560039,-104.782425
+4,2016-04-30 10:42:35,"Las Delicias, 19553 E Mainstreet, Parker",39.5187696666,-104.762066898
+5,2016-04-07 01:46:51,"Deep Space Workplace & Event Center, 11020 S Pikes Peak Dr #50, Parker",39.5169791088,-104.761776331
+6,2016-04-06 10:12:22,"Lubo's New York Pizza, 15352 E Ida Dr Unit H, Centennial",39.61151768,-104.80943699
+7,2016-04-06 09:23:33,"Lubo's New York Pizza, 15352 E Ida Dr Unit H, Centennial",39.61151768,-104.80943699
+8,2016-03-30 02:39:28,"Parker Garage, 19420 E Mainstreet, Parker",39.5183582268,-104.763001272
+9,2016-03-17 09:14:10,"Wholly Cannoli Cafe, 22691 E Aurora Pkwy, Aurora",39.5756746012,-104.723739606
+10,2016-03-12 03:38:44,"Elev 5900, 19751 E Mainstreet, Parker",39.5182897449,-104.760870451
+11,2016-03-11 23:54:08,"Fika Coffee House, 19559 E Mainstreet, Parker",39.5185250044,-104.762341976
+12,2016-03-06 05:15:50,"Barrio Cafe, Phoenix Sky Harbor International Airport, Phoenix",33.4343483978,-111.999294299
+13,2016-03-05 09:01:05,"Barrio Queen, 7114 E Stetson Dr, Scottsdale",33.4988613533,-111.928136793
+14,2016-02-20 00:19:33,"Fika Coffee House, 19559 E Mainstreet, Parker",39.5185250044,-104.762341976
+15,2016-01-13 10:01:35,"The Chicken Shack, 11211 Dransfeldt Rd #134, Parker",39.512641,-104.770834
+16,2015-11-22 03:57:04,"The Chicken Shack, 11211 Dransfeldt Rd #134, Parker",39.512641,-104.770834
+17,2015-10-29 12:13:12,"BARNETT & SON BREWING CO., 18425 Pony Express Dr #125, Parker",39.5221926208,-104.775205631
+18,2015-10-13 02:00:14,"Red Robin Gourmet Burgers, 9130 Crown Crest Blvd, Parker",39.5511325007,-104.774459212
+19,2015-10-08 03:22:42,"The Chicken Shack, 11211 Dransfeldt Rd #134, Parker",39.512641,-104.770834
+20,2015-10-08 03:22:14,"The Chicken Shack, 11211 Dransfeldt Rd #134, Parker",39.512641,-104.770834
+21,2015-09-17 23:35:02,"Starbucks, 9700 S Parker Rd, Parker",39.5388329621,-104.768465197
+22,2015-09-01 08:28:40,"Crepes a GO-GO Bistro, 6902 S Vine St Kiosk B, Centennial",39.5758248369,-104.956448078
+23,2015-04-19 07:06:36,"Food Network Kitchen, Terminal 3, Fort Lauderdale",26.0710515912,-80.146239996
+24,2015-04-19 00:12:01,"Sixt rent a car, 400 SE 29th Street, Fort Lauderdale",26.0879160981,-80.1366405428
+25,2015-03-29 00:42:06,"Starbucks, 9700 S Parker Rd, Parker",39.5388329621,-104.768465197
+26,2015-03-28 01:05:27,"Starbucks, 9700 S Parker Rd, Parker",39.5388329621,-104.768465197
+27,2015-03-24 12:57:21,"Lil Ricci's, 16526 Keystone Blvd, Parker",39.5324786158,-104.795300961
+28,2015-02-23 03:13:03,"Buffalo Wild Wings, 8255 S Chester St Ste 200, Centennial",39.5670386139,-104.880566224
+29,2014-11-29 11:43:52,"Tonti's Pizza, 17805 Cottonwood Dr, Parker",39.5586133003,-104.7824049
+30,2014-08-10 08:50:37,"Starbucks, 15725 E Briarwood Cir, Aurora",39.5919400668,-104.804974147
+31,2014-08-10 08:49:07,"Tonti's Pizza, 17805 Cottonwood Dr, Parker",39.5586133003,-104.7824049
+32,2014-08-09 03:41:43,"McCabes Bistro & Pub, 6100 S Main St, Aurora",39.6057047104,-104.708225727
+33,2014-08-09 03:40:28,"Colorado Mountain Brewery at the Roundhouse, 600 S 21st St, Colorado Springs",38.8401923021,-104.8594594
+34,2014-08-06 11:49:09,"Dairy Queen, 19320 E Plaza DR, Parker",39.5270511489,-104.764944106
+35,2014-06-07 06:33:45,"Cottage Vet, 11017 S Pikes Peak Dr, Parker",39.516978,-104.762222683
+36,2014-05-10 09:52:53,"Old Santa Fe Grille, 20 Mile Road, Parker",39.5084114326,-104.766311646
+37,2014-02-22 07:43:47,"Dad & Dude's Breweria, 6730 S Cornerstar Way Ste D, Centennial",39.5939909528,-104.806507175
+38,2014-02-03 05:04:42,"Coloradough Pizza, 17860 Cottonwood Dr, Parker",39.5572994101,-104.782026131
+39,2013-10-19 10:07:55,"Mellow Mushroom, 9271 Park Meadows Dr, Lone Tree",39.5551977862,-104.881432884
+40,2013-09-06 05:37:29,"Tacos Junior, 1901 S Federal Blvd, Denver",39.6813286305,-105.025723384
+41,2013-08-29 03:41:37,"Mike's Cafe, 4110 S Federal Blvd, Sheridan",39.6416759491,-105.02491512
+42,2013-08-19 12:41:06,"Mellow Mushroom, 9271 Park Meadows Dr, Lone Tree",39.5551977862,-104.881432884
+43,2013-08-19 12:38:40,"Golden Flame Hot Wings, 16524 Keystone Blvd, Parker",39.5322593668,-104.795924465
+44,2013-07-29 06:10:21,"Ponzetti's Pizza & Subs, 1025 S Salisbury Blvd, Salisbury",38.3759550218,-75.5915074117
+45,2013-07-17 21:27:52,"Starbucks, 9301 East Arapahoe Rd, Greenwood Village",39.595608,-104.88034
+46,2013-07-16 02:27:09,"Starbucks, 9301 East Arapahoe Rd, Greenwood Village",39.595608,-104.88034
+47,2013-06-24 04:15:07,"Parker Farmer's Market, 10335 S Parker Rd, Parker",39.5184405293,-104.76208399
+48,2013-06-23 22:42:49,"Starbucks, 6470 E Hampden Ave, Denver",39.6535996386,-104.915755305
+49,2013-04-20 10:48:59,"The Rock Wood Fired Kitchen, 19340 E Cottonwood Dr, Parker",39.5521495774,-104.773478055
+50,2013-04-06 04:05:46,"Bamboo Forest, Pemberton Dr, Salisbury",38.357371953,-75.6340295274
+51,2013-02-04 05:14:56,"Rosi's Little Bavarian Restaurant, 141 W 6th St, Glenwood Springs",39.551539,-107.328025103
+52,2013-01-06 02:24:47,"Bagel Stop Cafe, 10401 S Parker Rd, Parker",39.5276459856,-104.766998291
+53,2012-12-30 04:51:02,"Les Schwab, 11265 S Pikes Peak Dr, Parker",39.5121018355,-104.763474159
+54,2012-11-12 01:59:03,"Old Santa Fe Grille, 20 Mile Road, Parker",39.5084114326,-104.766311646
+55,2012-10-21 04:55:15,"Red Robin Gourmet Burgers, 9130 Crown Crest Blvd, Parker",39.5511325007,-104.774459212
+56,2012-10-18 04:14:26,"Las Delicias, 19553 E Mainstreet, Parker",39.5187696666,-104.762066898

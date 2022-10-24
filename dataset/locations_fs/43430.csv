@@ -1,0 +1,63 @@
+,time,poi,latitude,longitude
+0,2014-08-15 22:42:26,"Osteria Acquacheta, Via del Teatro 22, Montepulciano",43.091455,11.781339
+1,2014-03-27 22:57:42,"Philippe, 8620 Wilshire Blvd, Beverly Hills",34.0655955041,-118.378953813
+2,2014-02-26 23:25:51,"Jones Hollywood, 7205 Santa Monica Blvd, West Hollywood",34.0908467117,-118.346477331
+3,2014-02-15 16:23:53,"El Tinieblo Bar, Sexta, Tijuana",32.5312812983,-117.034574863
+4,2014-01-20 20:38:09,"Kaimug, Theatinerstr. 15, Mnchen",48.1405469889,11.5753734112
+5,2013-12-24 06:46:27,"Choco Museo, Calle Garcilaso 210, Cusco",-13.5174360573,-71.9804477692
+6,2013-12-24 06:06:47,"La Valeriana - Bake shop, Av. El Sol, Cusco",-13.5213542144,-71.9758813417
+7,2013-12-24 04:32:43,"Greens Organic Restaurant, Santa Catalina Angosta 135, 2do. piso, Cusco",-13.516984,-71.977543
+8,2013-12-23 12:01:03,"MapCafe, Plazoleta de Nazarenas, Cusco",-13.514937,-71.977508
+9,2013-12-23 03:36:31,"Cicciolina, Cl. Triunfo 393, Cusco",-13.5160555319,-71.9766859046
+10,2013-10-16 05:23:53,"The London Edition, 10 Berners St, London",51.516814392,-0.136411297786
+11,2013-08-22 03:21:26,"Kabab Mahaleh, 8762 W Pico Blvd, Los Angeles",34.0545541048,-118.383146524
+12,2013-07-06 21:28:49,"SagardI BCN Gotic, Carrer de l'Argenteria, 62, Barcelona",41.383553,2.180658
+13,2013-07-06 19:34:49,"Sagrada Famlia, C. de Mallorca, 401, Barcelona",41.403318739,2.17422812148
+14,2013-07-04 18:56:08,"Es Torrent, Porroig Beach, San Jose de la Atalaya",38.8750353403,1.29885956998
+15,2013-07-03 18:32:49,"Palma de Mallorca Airport (PMI), Aeroport de Palma, Palma",39.5472471285,2.73210231641
+16,2013-07-03 06:34:59,"Castillo Hotel Son Vida, C. Raixa, 2, Son Vida",39.5918287902,2.59632468224
+17,2013-06-05 10:05:10,"SUGARFISH by sushi nozawa, 212 N Canon Dr, Beverly Hills",34.06824948,-118.3982615
+18,2013-04-27 15:20:42,"Bathtub Gin, 132 9th Ave, New York",40.7435910599,-74.0033499976
+19,2013-04-16 00:09:56,"Joe's Shanghai 7f2325, 24 W 56th St, New York",40.7629816629,-73.9758833921
+20,2013-04-12 22:03:30,"Sotto, 9575 W Pico Blvd, Los Angeles",34.0552979644,-118.397583158
+21,2013-04-09 03:24:51,"Cafe Alexander, 8670 Wilshire Blvd, Beverly Hills",34.0664275042,-118.380909562
+22,2013-04-02 22:13:16,"Sushi by H, 480 S San Vicente Blvd, Los Angeles",34.0692781689,-118.374858499
+23,2013-03-01 01:21:43,"Shanghai Asian Manor, 21 Mott St, New York",40.714487214,-73.9988394544
+24,2013-02-12 04:16:56,"ROC Sawtelle, 2049 Sawtelle Blvd, Los Angeles",34.0397679492,-118.442690103
+25,2013-02-04 05:45:25,"Le Petit Jardin, 1456 S Robertson Blvd, Los Angeles",34.05318954,-118.383892179
+26,2013-01-26 01:23:56,"John F. Kennedy International Airport (JFK), at JFK Access Rd, Queens",40.6444587547,-73.7827213373
+27,2013-01-21 05:12:57,"Nomiya, Wrthstr. 7, Mnchen",48.131811762,11.5985423326
+28,2013-01-15 04:55:51,"Ruby Room, 8560 Wilshire, Los Angeles",34.0654571616,-118.378132135
+29,2012-12-30 04:26:34,"Hotel Fasano Las Piedras, Cno. Cerro Egusquiza y Paso del Barranco, Punta del Este",-34.8465672283,-54.8921491491
+30,2012-12-22 21:53:42,"Aeropuerto Internacional de Mendoza / Gobernador Francisco Gabrielli (El Plumerillo) (MDZ), RN 40, km 15, El Plumerillo",-32.827797,-68.798609
+31,2012-12-22 21:53:22,"Aeropuerto Internacional de Mendoza / Gobernador Francisco Gabrielli (El Plumerillo) (MDZ), RN 40, km 15, El Plumerillo",-32.827797,-68.798609
+32,2012-12-17 11:54:02,"Restaurant Las Olas, Hotel Sheraton Miramar, Via del Mar",-33.0210739088,-71.5681558877
+33,2012-11-06 04:30:47,"Soho House, 9200 W Sunset Blvd, West Hollywood",34.0894878078,-118.392791748
+34,2012-10-31 22:07:48,"PHOnomenal, 8543 Santa Monica Blvd, West Hollywood",34.0890120522,-118.377470224
+35,2012-10-16 05:58:07,"Goodman, Discovery Dock East 3 South Quay, Canary Wharf",51.5015354375,-0.0184461444286
+36,2012-09-21 10:15:31,"Allen Pacheco salon, Pier Ave, Santa Monica",33.998334,-118.48056
+37,2012-07-09 03:38:53,"MUMEDI Caf & Shop, MUMEDI, Cuauhtemoc",19.4332703656,-99.1346303607
+38,2012-06-17 18:03:58,"Crowne Plaza, 100 Shoreditch High St, London",51.5256163106,-0.0775365935871
+39,2012-06-01 11:35:37,"Picca Peruvian Cantina, 9575 W Pico Blvd, Los Angeles",34.0553957556,-118.397611685
+40,2012-05-29 09:29:22,"SUGARFISH by sushi nozawa, 11640 San Vicente Blvd, Los Angeles",34.05346487,-118.4627634
+41,2012-05-26 09:36:22,"Los Angeles International Airport (LAX), 1 World Way, Los Angeles",33.9435869099,-118.408083022
+42,2012-05-22 02:08:39,"The Ritz-Carlton Millenia Singapore, 7 Raffles Avenue, Singapore",1.29080580766,103.860089779
+43,2012-05-20 13:29:12,"Hong Kong International Airport (HKG), 1 Cheong Hong Rd, 992f",22.314469073,113.934080836
+44,2012-05-20 12:48:30,"W Hong Kong, 1 Austin Rd W, West Kowloon",22.3045081958,114.160333969
+45,2012-05-18 00:39:49,"Lily & Bloom, 5-6/F, LKF Tower, 33 Wyndham St, 2db0",22.2806292271,114.155335204
+46,2012-05-17 23:03:13,"Yardbird, 33-35 Bridges St, Sheung Wan",22.2836016067,114.150113761
+47,2012-05-14 22:22:46,"Sheraton Miyako, 7dd1f01-1-50, 71ac",35.6391863107,139.73042425
+48,2012-05-12 01:19:46,"Los Angeles International Airport (LAX), 1 World Way, Los Angeles",33.9435869099,-118.408083022
+49,2012-01-03 11:53:33,"Blade Sushi Lounge @ Fontaineblea, 4441 Collins Ave, Miami Beach",25.817655,-80.122027
+50,2011-12-06 18:57:29,"Chez Ly, 5 rue des Saussaies, Paris",48.8730513017,2.31660766138
+51,2011-12-05 17:56:34,"Crowne Plaza, 10 place de la Rpublique, Paris",48.8673723601,2.36540335349
+52,2011-11-20 03:39:46,"Palace Hotel, 2 New Montgomery St, San Francisco",37.7881661722,-122.401664257
+53,2011-10-25 05:01:55,"Nashville International Airport (BNA), 1 Terminal Dr, Nashville",36.1314251921,-86.6696250751
+54,2011-09-11 12:46:46,"Sheraton Guangzhou Hotel 7fde9c657b5297, 208 Tianhe Road (Junction of Tiyu Xi Road and Tianhe Road), 7fde",23.1356638579,113.316915035
+55,2011-07-31 23:37:08,"Terminal 2, SFO Airport, San Francisco",37.6170003405,-122.383669837
+56,2011-07-22 09:07:13,"Aspen/Pitkin County Airport (ASE), 233 E Airport Rd, Aspen",39.2196009525,-106.864471869
+57,2011-07-18 09:13:10,"Oceanside Health Center, 1718 Main St, Venice",33.9931610667,-118.478550683
+58,2010-09-23 19:41:00,"a Santa Lucia, Via San Pietro all'Orto 3, Milano",45.465872376,9.19566767833
+59,2010-07-25 03:26:10,"Grateful Deli, 233 E Main St, Aspen",39.190858,-106.8207
+60,2010-07-19 08:53:45,"Mobile Roadie HQ, 8075 W 3rd St, Los Angeles",34.0667680659,-118.38052298
+61,2010-07-16 07:23:22,"San Francisco International Airport (SFO), N McDonnell Rd, San Francisco",37.6174791639,-122.384289472

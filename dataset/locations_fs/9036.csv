@@ -1,0 +1,136 @@
+,time,poi,latitude,longitude
+0,2016-08-29 00:15:59,"Full Tilt Ice Cream, 5453 Leary Ave NW, Seattle",47.66796767,-122.38394575
+1,2016-05-15 02:25:32,"Sonic Boom Records, 2209 NW Market St, Seattle",47.6685231002,-122.385125756
+2,2016-05-15 02:24:17,"Portage Bay Cafe, 900 NE 65th St, Seattle",47.6758402571,-122.318486023
+3,2016-05-15 02:23:59,"Pestle Rock, 2305 NW Market St, Seattle",47.668583,-122.386582
+4,2016-05-04 09:13:33,"Surdyk's Flights, 4300 Glumack Dr, Saint Paul",44.8835157395,-93.2112264633
+5,2016-03-18 07:49:43,"La Esquina, 114 Kenmare St, New York",40.7214492219,-73.9976137877
+6,2015-12-20 13:01:54,"River Rock Inn & Bait Shop, 1200 Lake Shore Dr W, Ashland",46.585891945,-90.8977928849
+7,2015-12-20 13:00:55,"Du Nord Craft Spirits, 2610 E 32nd St, Minneapolis",44.9449143483,-93.2343018402
+8,2015-12-15 01:37:38,"LIC Market, 2152 44th Dr, Queens",40.7475466429,-73.9453992487
+9,2015-12-15 01:37:16,"Peacefood Caf, 41 E 11th St, New York",40.7332693156,-73.9929916582
+10,2015-12-15 01:36:41,"Jack's Stir Brew Coffee, 222 Front St, New York",40.7075822,-74.0023126
+11,2015-12-15 01:36:01,"Hanjan, 36 W 26th St, New York",40.7444780945,-73.9905755883
+12,2015-12-15 01:35:05,"Ace Hotel Lobby Bar, 16 W 29th St, New York",40.7457593388,-73.9883869886
+13,2015-12-15 01:34:18,"Spot Dessert Bar, 11 W 32nd St, New York",40.747687,-73.986254
+14,2015-12-11 07:11:40,"Caff Fior, 5405 Leary Ave NW, Seattle",47.667081,-122.382915
+15,2015-12-11 07:11:04,"MUJI 21706fc1, 620 8th Ave, New York",40.7559924273,-73.9900016954
+16,2015-12-11 07:10:31,"Caf Grumpy, 200 W 39th St, New York",40.7544128465,-73.9886759965
+17,2015-12-11 07:08:52,"Intelligentsia Coffee, 180 10th Ave, New York",40.7459076802,-74.0050166845
+18,2015-08-04 09:22:00,"Uptown Espresso, 525 Queen Anne Ave N, Seattle",47.62411,-122.35671
+19,2015-07-18 12:21:02,"Little Water Cantina, 2865 Eastlake Ave E, Seattle",47.6472222805,-122.324938
+20,2015-07-05 06:31:33,"Kisaku Sushi, 2101 N 55th St, Green Lake",47.6685917377,-122.333074808
+21,2015-07-05 06:30:30,"Fainting Goat Gelato, 1903 N 45th St, Seattle",47.6612741163,-122.334783375
+22,2015-06-12 23:01:53,"Fogn Cocina Mexicana, 600 E Pine St, Seattle",47.6152910852,-122.32439518
+23,2015-06-12 23:00:59,"Safeco Field, 1250 1st Ave S, Seattle",47.5912826389,-122.332738187
+24,2015-06-12 22:59:42,"Simply Soulful Cafe & Espresso, 2909B E Madison St, Seattle",47.6240954193,-122.294945676
+25,2015-04-04 08:51:34,"Din Tai Fung Dumpling House, 700 Bellevue Way NE, Bellevue",47.6171316897,-122.200798988
+26,2015-02-19 10:48:29,"Rancho Bravo Tacos, 211 NE 45th St, Seattle",47.6542175731,-122.339577365
+27,2015-01-11 12:22:06,"Ballard Annex Oyster House, 5410 Ballard Ave NW, Seattle",47.668047844,-122.385110165
+28,2015-01-11 12:21:07,"Spielman Coffee Roasters, 2111 SE Division St, Portland",45.5048706248,-122.644117988
+29,2015-01-11 12:19:46,"Powell's City of Books, 1005 W Burnside St, Portland",45.5232145766,-122.681392736
+30,2015-01-11 12:19:12,"Finnegan's Toys & Gifts, 820 SW Washington St, Portland",45.5210432624,-122.68044997
+31,2015-01-11 12:18:20,"Ground Kontrol Classic Arcade, 511 NW Couch St, Portland",45.5239181576,-122.675869167
+32,2015-01-11 12:17:32,"Guardian Games, 345 SE Taylor St, Portland",45.5154472377,-122.662066987
+33,2015-01-11 12:16:42,"Hair of the Dog Brewery & Tasting Room, 61 SE Yamhill St, Portland",45.5159270313,-122.66571416
+34,2015-01-11 12:15:44,"Boke Bowl, 1028 SE Water Ave, Portland",45.5153989358,-122.665898676
+35,2014-12-30 05:16:22,"Elliott Bay Book Company, 1521 10th Ave, Seattle",47.614683563,-122.319760323
+36,2014-12-30 05:15:52,"Hokkaido Ramen Santouka, 103 Bellevue Way NE Ste 3, Bellevue",47.611333,-122.20207
+37,2014-12-30 05:15:23,"The Grizzled Wizard, 2317 N 45th St, Seattle",47.6613098984,-122.330654274
+38,2014-12-30 05:14:43,"Royal Solaris Cancun, Blvd. Kulkulcan Km. 20.5, Cancn",21.0496420606,-86.7824828578
+39,2014-10-12 11:14:46,"Teriyaki Madness, 2320 N 45th St, Seattle",47.661507,-122.330671549
+40,2014-10-12 09:55:01,"Pagliacci Pizza, 4003 Stone Way N, Seattle",47.6554384881,-122.342606962
+41,2014-10-12 05:28:17,"Bastille Caf & Bar, 5307 Ballard Ave NW, Seattle",47.6665044298,-122.383555104
+42,2014-10-12 05:26:16,"Eltana Wood-Fired Bagel Cafe, 3920 Stone Way N, Seattle",47.654385,-122.342505
+43,2014-10-12 05:23:43,"Kangaroo & Kiwi, 2026 NW Market St, Seattle",47.6687687496,-122.383704185
+44,2014-10-12 05:20:05,"Liberty, 517 15th Ave E, Seattle",47.6235653027,-122.312867157
+45,2014-10-12 05:19:23,"Tavern Law, 1406 12th Ave, Seattle",47.613291298,-122.316713333
+46,2014-10-12 05:18:01,"Lost Lake Cafe & Lounge, 1505 10th Ave, Seattle",47.6142062192,-122.319288254
+47,2014-10-12 05:16:20,"Uneeda Burger, 4302 Fremont Ave N, Seattle",47.6594574926,-122.34994619
+48,2014-10-12 05:15:33,"Ballard Farmer's Market, 5330 Ballard Ave NW, Seattle",47.6674662266,-122.384315533
+49,2014-10-12 05:13:14,"Quinn's Pub, 1001 E Pike St, Seattle",47.6140451812,-122.319369909
+50,2014-10-12 05:11:08,"Jack's BBQ, 3942 Airport Way S, Seattle",47.5682931,-122.3223683
+51,2014-10-05 04:45:21,"Poquitos, 1000 E Pike St, Seattle",47.614182423,-122.319060548
+52,2014-09-22 09:35:06,"Japonessa, 1400 1st Ave, Seattle",47.6080419449,-122.339013219
+53,2014-09-22 09:34:00,"Alki Beach Park, 1702 Alki Ave. SW, Seattle",47.5809550142,-122.406728268
+54,2014-09-22 09:32:48,"Alki Beach Park, 1702 Alki Ave. SW, Seattle",47.5809550142,-122.406728268
+55,2014-09-22 09:31:53,"Alki Lighthouse, Alki Point, Seattle",47.5759888081,-122.419095942
+56,2014-09-22 09:31:22,"Rancho Bravo Tacos, 211 NE 45th St, Seattle",47.6542175731,-122.339577365
+57,2014-09-09 10:00:26,"Taco Time, 2212 N 45th St, Seattle",47.6615523167,-122.331618369
+58,2014-09-07 04:26:43,"The Octopus Bar, 2109 N 45th St, Seattle",47.6612958117,-122.333193201
+59,2014-09-07 04:23:55,"Pho Than Brothers, 2309 N 45th St, Seattle",47.661275,-122.330862
+60,2014-09-05 03:45:28,"Rancho Bravo Tacos, 211 NE 45th St, Seattle",47.6542175731,-122.339577365
+61,2014-09-05 03:44:34,"Fremont Brewing Company, 3409 Woodland Park Ave N, Seattle",47.6490274393,-122.344645488
+62,2014-09-05 03:43:18,"Stoneway Hardware & Supply, 4318 Stone Way N, Seattle",47.659769,-122.342085
+63,2014-09-05 03:42:54,"Stoneway Hardware & Supply, 4318 Stone Way N, Seattle",47.659769,-122.342085
+64,2014-09-05 03:42:06,"A Muddy Cup, 266 NE 45th St, Seattle",47.66151,-122.325258
+65,2014-09-05 03:40:55,"Oddfellows Cafe & Bar, 1525 10th Ave, Seattle",47.6148863124,-122.3195344
+66,2014-09-05 03:39:43,"Fuel Coffee, 1705 N 45th St, Seattle",47.6612488253,-122.336934507
+67,2014-09-02 03:41:04,"Dick's Drive-In, 111 NE 45th St, Seattle",47.6611673744,-122.327789662
+68,2014-09-02 03:39:42,"Julia's in Wallingford, 4401 Wallingford Avenue North, Seattle",47.6604406814,-122.336396064
+69,2014-08-28 22:11:00,"Borough, 730 Washington Ave N, Minneapolis",44.988898861,-93.278356758
+70,2014-08-28 22:10:10,"Tiny Diner, 1024 E 38th St, Minneapolis",44.934484,-93.258968
+71,2014-08-28 22:09:06,"In the Heart of the Beast Puppet and Mask Theatre, 1500 E Lake St, Minneapolis",44.9484140141,-93.2535839081
+72,2014-08-28 22:05:15,"Aster Cafe, 121 Main St SE, Minneapolis",44.9844668731,-93.2549679279
+73,2014-08-28 22:03:56,"Punch Neapolitan Pizza, 210 E Hennepin Ave, Minneapolis",44.9876273917,-93.257060051
+74,2014-08-28 22:02:30,"Empire Coffee + Pastry, 451 Stinson Blvd, Minneapolis",44.99477005,-93.2263412476
+75,2014-08-26 06:43:57,"Tavern On France, 6740 France Ave S, Edina",44.8805025894,-93.329420787
+76,2014-08-21 11:55:32,"Pizzeria Lola, 5557 Xerxes Ave S, Minneapolis",44.901807337,-93.3186609669
+77,2014-08-21 11:54:24,"Cuzzy's Grill & Bar, 507 Washington Ave N, Minneapolis",44.98612498,-93.275207199
+78,2014-08-21 11:53:09,"The Bulldog Northeast, 401 E Hennepin Ave, Minneapolis",44.9887504152,-93.2549357414
+79,2014-08-21 11:52:12,"Rusty Taco, 522 E Hennepin Ave, Minneapolis",44.9894219279,-93.252278475
+80,2014-08-21 11:51:23,"Brasa Premium Rotisserie, 600 E Hennepin Ave, Minneapolis",44.9893663857,-93.251292
+81,2014-08-21 11:50:12,"Clockwork Active Media Systems, 1501 E Hennepin Ave, Minneapolis",44.9920140837,-93.2303820095
+82,2014-08-21 11:49:18,"Maya, 1840 Central Ave NE, Minneapolis",45.0073983461,-93.2475248896
+83,2014-08-21 11:48:34,"Zen Box Izakaya, 602 Washington Ave S, Minneapolis",44.9783843764,-93.2595491409
+84,2014-08-21 11:47:29,"Bauhaus Brew Labs, 1315 Tyler St NE, Minneapolis",45.0008889973,-93.2449422427
+85,2014-08-16 06:24:31,"Hola Arepa, 3501 Nicollet Ave, Minneapolis",44.9393775356,-93.2775760219
+86,2014-08-13 11:08:22,"Dangerous Man Brewing Co, 1300 2nd St NE, Minneapolis",45.0010020235,-93.2661996347
+87,2014-08-13 10:57:59,"Fine Line Music Cafe, 318 1st Ave N, Minneapolis",44.9815416015,-93.2721471939
+88,2014-08-13 10:57:07,"First Avenue & 7th St Entry, 701 1st Ave N, Minneapolis",44.9785470003,-93.2758496604
+89,2014-08-13 10:53:56,"7th Street Entry, 701 1st Ave N, Minneapolis",44.9786201189,-93.2756501485
+90,2014-08-13 10:50:03,"Masu Sushi & Robata, 330 E Hennepin Ave, Minneapolis",44.988295138,-93.2550483942
+91,2014-08-13 10:49:25,"(yo)gurt[lab], 3100 Excelsior Blvd, Minneapolis",44.9465427364,-93.3221866631
+92,2014-08-13 10:48:06,"Jax Cafe, 1928 University Ave NE, Minneapolis",45.00846693,-93.2634866238
+93,2014-08-13 10:14:40,"Dunn Bros Coffee, 337 Washington Ave N, Minneapolis",44.9849032095,-93.2735180855
+94,2014-08-13 10:13:12,"Fulton Brewing Company, 414 6th Ave N, Minneapolis",44.9848535533,-93.2787085948
+95,2014-08-13 10:11:54,"Moose and Sadie's, 212 3rd Ave N, Minneapolis",44.9852598647,-93.271780014
+96,2014-08-13 10:04:44,"Triple Rock Social Club, 629 Cedar Ave S, Minneapolis",44.9667753758,-93.2470849156
+97,2014-08-12 06:53:36,"Rachel's Ginger Beer, 1530 Post Aly, Seattle",47.6095672981,-122.341269932
+98,2014-08-12 06:50:33,"Tin Fish, 3000 E Calhoun Pkwy, Minneapolis",44.9481091536,-93.306566359
+99,2014-08-09 14:44:33,"Ian's Pizza, 146 E Juneau Ave, Milwaukee",43.0458527751,-87.9113596191
+100,2014-08-07 20:47:21,"Bier Zot Beer Cafe, 10677 N Bay Shore Dr, Sister Bay",45.1890428709,-87.1215692261
+101,2014-08-07 20:46:15,"Floyd's 99 Barbershop, 1220 W Lake St, Minneapolis",44.9485118915,-93.2956395256
+102,2014-08-07 12:14:38,"US Post Office, 1600 18th Ave NE, Minneapolis",45.00585902,-93.2361458291
+103,2014-07-31 21:08:40,"Spyhouse Coffee, 945 Broadway St NE, Minneapolis",44.9988889876,-93.2463877964
+104,2014-02-14 10:34:59,"Day Block Brewing Company, 1105 Washington Ave S, Minneapolis",44.975280271,-93.2531735301
+105,2014-02-03 06:27:40,"Eat My Words, 1228 2nd St NE, Minneapolis",45.000852,-93.266345
+106,2013-10-14 06:38:59,"Minnesota's Largest Candy Store, 20430 Johnson Memorial Dr, Jordan",44.6542301951,-93.6847849268
+107,2013-07-07 05:56:14,"Mason's Restaurant Barre, 528 Hennepin Ave, Minneapolis",44.9787990342,-93.2739373903
+108,2013-07-06 03:39:33,"Wise Acre Eatery, 5401 Nicollet Ave, Minneapolis",44.9049371481,-93.27778
+109,2013-06-27 07:51:55,"Republic, 221 Cedar Ave S, Minneapolis",44.9732689639,-93.2472538948
+110,2013-06-14 06:31:15,"Mason's Restaurant Barre, 528 Hennepin Ave, Minneapolis",44.9787990342,-93.2739373903
+111,2013-04-10 08:09:36,"New Bohemia Wurst + BierHaus, 233 E Hennepin Ave, Minneapolis",44.9880277921,-93.2565204674
+112,2013-03-07 08:29:52,"The Anchor Fish & Chips, 302 13th Ave NE, Minneapolis",45.0007935276,-93.2642892537
+113,2013-01-31 07:34:20,"Runyon's, 107 Washington Ave N, Minneapolis",44.9828562259,-93.2704145202
+114,2013-01-29 02:02:27,"Obento-Ya, 1510 Como Ave SE, Minneapolis",44.9878031719,-93.2298623204
+115,2013-01-21 09:38:36,"Burnside, 506 Grand St, Brooklyn",40.710931,-73.950951
+116,2013-01-21 08:23:30,"Mayfield, 688 Franklin Ave, Brooklyn",40.67493467,-73.956609662
+117,2013-01-20 07:55:50,"UNIQLO, 546 Broadway, New York",40.7234860762,-73.9981663227
+118,2012-12-21 14:39:56,"Burrito Loco, 418 13th Ave SE, Minneapolis",44.9815252574,-93.2366260438
+119,2012-12-09 13:53:19,"Toast Wine Bar & Cafe, 415 N 1st St, Minneapolis",44.9865906996,-93.271746848
+120,2012-09-21 09:31:14,"Indeed Brewing Company, 711 15th Ave NE Ste 102, Minneapolis",45.0033279245,-93.2514679232
+121,2012-08-29 02:57:06,"Madden's Resort on Gull Lake, 11266 Pine Beach Peninsula Rd, Brainerd",46.3963595602,-94.3758248259
+122,2012-08-25 09:37:12,"Psycho Suzi's Motor Lounge & Tiki Garden, 1900 Marshall St NE, Minneapolis",45.007467664,-93.2721233516
+123,2012-04-25 07:45:45,"Ginger Hop, 201 E Hennepin Ave, Minneapolis",44.98759,-93.257683
+124,2012-04-07 02:17:46,"Beans & Barley, 1901 E North Ave, Milwaukee",43.0599501044,-87.8867036104
+125,2011-10-25 06:29:27,"Republic, 221 Cedar Ave S, Minneapolis",44.9732689639,-93.2472538948
+126,2011-04-23 13:43:27,"Williams Uptown Pub & Peanut Bar, 2911 Hennepin Ave, Minneapolis",44.9495853298,-93.2981805469
+127,2011-02-03 10:39:21,"Stub & Herb's, 227 Oak St SE, Minneapolis",44.973707838,-93.2270413995
+128,2010-09-18 13:23:15,"The Front Cafe, 15 4th St NE, Minneapolis",44.9890464603,-93.2551209557
+129,2010-09-03 06:09:02,"Williams Uptown Pub & Peanut Bar, 2911 Hennepin Ave, Minneapolis",44.9495853298,-93.2981805469
+130,2010-08-07 06:16:45,"Orientation & First-Year Programs, 300 Washington Ave SE, Minneapolis",44.972874284,-93.2350873947
+131,2010-06-28 22:19:58,"Welcome Week Check-In, 300 Washington Ave SE, Minneapolis",44.97293,-93.23477
+132,2010-04-02 11:18:56,"Varsity Theater & Cafe des Artistes, 1308 4th St SE, Minneapolis",44.9807115301,-93.2368705363
+133,2010-02-14 12:14:22,"Cedar Cultural Center, 416 Cedar Ave S, Minneapolis",44.9695281573,-93.2473225989
+134,2009-09-28 10:45:43,"Espresso Royale Cafe, 411 14th Ave SE, Minneapolis",44.980929,-93.23551496

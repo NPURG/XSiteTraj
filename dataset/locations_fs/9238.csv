@@ -1,0 +1,77 @@
+,time,poi,latitude,longitude
+0,2013-01-13 06:22:36,"Dangerous Man Brewing Co, 1300 2nd St NE, Minneapolis",45.0010020235,-93.2661996347
+1,2012-12-08 23:57:28,"Dangerous Man Brewing Co, 1300 2nd St NE, Minneapolis",45.0010020235,-93.2661996347
+2,2012-10-14 07:24:51,"Mayslack's, 1428 4th St NE, Minneapolis",45.0029355599,-93.2618113679
+3,2012-10-06 07:29:27,"Northbound Smokehouse and Brewpub, 2716 East 38th Street, Minneapolis",44.9341937932,-93.2323040603
+4,2012-09-28 10:10:32,"Indeed Brewing Company, 711 15th Ave NE Ste 102, Minneapolis",45.0033279245,-93.2514679232
+5,2012-09-18 11:10:02,"Blackbird, 3800 Nicollet Ave, Minneapolis",44.9340317759,-93.2780968023
+6,2012-09-09 07:06:33,"Beer Dabbler Store, 1095 7th St W, Saint Paul",44.9254356755,-93.1302270443
+7,2012-07-22 06:35:48,"Devil's Advocate, 89 S 10th St, Minneapolis",44.9735736686,-93.2738931831
+8,2012-07-09 06:36:39,"Burnsville Ale House, 3809 Highway 13 W, Burnsville",44.777584789,-93.3294404597
+9,2012-06-15 09:06:02,"Target Field, 1 Twins Way, Minneapolis",44.9816615078,-93.2779494887
+10,2012-06-11 01:32:53,"Theodore Wirth Golf Course, 1301 Theodore Wirth Pkwy, Minneapolis",44.9920890037,-93.3228492737
+11,2012-04-29 02:53:13,"Fireside Bar & Restaurant, 3410 150th St W, Rosemount",44.7305539435,-93.1334960461
+12,2012-04-27 04:50:29,"Woody's Grill, 6399 City West Pkwy, Eden Prairie",44.8883398969,-93.4186190325
+13,2012-04-23 07:53:39,"The Muddy Pig, 162 Dale St N, Saint Paul",44.9464092704,-93.1262645988
+14,2012-04-10 09:28:15,"Robbinsdale Armstrong High School, 10635 36th Ave N, Plymouth",45.0205562296,-93.4155576673
+15,2012-03-25 05:15:27,"Ale Jail, 1787 Saint Clair Ave, Saint Paul",44.9343616,-93.175978
+16,2012-03-25 05:13:06,"Asian Food Market, 2105 Cliff Rd, Eagan",44.7906320828,-93.2149999357
+17,2012-03-24 00:59:27,"JR Macs, 1420 7th St W, Saint Paul",44.9198329989,-93.138133312
+18,2012-03-24 00:59:04,"Punta Cana International Airport (PUJ), Carretera Aeropuerto, Punta Cana",18.5628660776,-68.3637356758
+19,2012-03-24 00:53:36,"Maeve's Cafe, 300 13th Ave NE, Minneapolis",45.000884,-93.26448506
+20,2012-02-15 06:29:02,"Lunds & Byerly's Edina, 7171 France Ave S, Edina",44.8731315577,-93.3279896148
+21,2012-01-18 03:27:27,"Pittsburgh Blue, 11900 Main St, Maple Grove",45.0914891839,-93.4321704136
+22,2011-12-31 09:09:43,"Target Center, 600 1st Ave N, Minneapolis",44.9794695191,-93.2755027837
+23,2011-12-25 00:17:16,"Macy's, Mall of America, Bloomington",44.85370881,-93.24431419
+24,2011-12-23 04:44:31,"Check Engine Express, 15400 Minnetonka Industrial Rd, Minnetonka",44.9356551324,-93.4701239804
+25,2011-11-27 10:43:49,"Muddy Waters Bar & Eatery, 2933 Lyndale Ave S, Minneapolis",44.9492303529,-93.2878796588
+26,2011-09-22 00:31:34,"US Social Security Office, 1811 Chicago Ave, Minneapolis",44.9647713615,-93.2619577646
+27,2011-09-06 04:21:53,"Southdale Center, 10 Southdale Center, Edina",44.8806577077,-93.3247801852
+28,2011-09-04 23:56:51,"Osaka Seafood Steakhouse, 7537 148th St W, Apple Valley",44.7337342689,-93.2191610023
+29,2011-08-31 02:46:47,"Goodwill/Easter Seals, 553 Fairview Ave N, Saint Paul",44.9579056021,-93.1783554236
+30,2011-08-29 04:12:36,"Fairview Acute Rehabilitation Center, 2512 S 7th St, Minneapolis",44.9668930336,-93.2353878021
+31,2011-08-28 05:57:39,"Starbucks, 815 25th Ave, Minneapolis",44.964817,-93.235701
+32,2011-08-27 07:29:29,"Koyi Sushi Too, 2111 E Franklin Ave, Minneapolis",44.9625812885,-93.2418572903
+33,2011-08-26 04:37:07,"Fairview Transitional Center, 2512 S 7th St, Minneapolis",44.966567149,-93.2341777949
+34,2011-08-24 08:30:03,"Republic, 221 Cedar Ave S, Minneapolis",44.9732689639,-93.2472538948
+35,2011-08-23 21:20:14,"Rusty Taco, 508 Lexington Pkwy S, Saint Paul",44.926073,-93.146347
+36,2011-08-21 09:26:36,"Osaka Japanese Steakhouse, 2631 Southtown Dr, Bloomington",44.8610899712,-93.3131737757
+37,2011-08-16 06:01:27,"Fairview Ridges Hospital, 201 E Nicollet Blvd, Burnsville",44.7491297984,-93.2727959097
+38,2011-08-12 07:42:38,"CRAVE, 825 Hennepin Ave, Minneapolis",44.9765516556,-93.2765357102
+39,2011-08-05 10:57:01,"Las Tortillas, 15051 Crestone Ave W, Rosemount",44.7301455292,-93.1450707284
+40,2011-08-05 08:01:16,"Caribou Coffee, 1700 66th Street East, Richfield",44.88399139,-93.24982142
+41,2011-07-26 02:30:56,"Target Field, 1 Twins Way, Minneapolis",44.9816615078,-93.2779494887
+42,2011-05-06 23:12:26,"Muddy Paws Cheesecake, 7600 W 27th St Ste B2, Saint Louis Park",44.9552837245,-93.3773687988
+43,2011-03-02 11:02:13,"Paciugo Gelato, 392 West, Bloomington",44.8539122556,-93.24325183
+44,2011-02-24 11:42:02,"Taco John's, 15085 Canada Ave W, Rosemount",44.7298984456,-93.1324017048
+45,2010-12-24 06:48:11,"Perkins Restaurant & Bakery, 7620 150th St W, Apple Valley",44.7315530042,-93.2181943077
+46,2010-12-24 02:03:34,"Davanni's Pizza and Hot Hoagies, 8605 Lyndale Ave S, Bloomington",44.8478091058,-93.2883907206
+47,2010-12-18 09:06:10,"Best Buy, 15300 Cedar Ave, Apple Valley",44.72877036,-93.21448803
+48,2010-12-09 21:47:16,"Starbucks, 14903 South Robert Trail, Rosemount",44.732547,-93.127758
+49,2010-11-21 03:16:43,"C. McGee's Deli, 901 N 3rd St Ste 123, Minneapolis",44.9885062799,-93.281388542
+50,2010-11-21 02:31:33,"Subway, 15075 Crestone Ave W, Rosemount",44.730253,-93.14469305
+51,2010-11-16 03:31:48,"Cuzzy's Grill & Bar, 507 Washington Ave N, Minneapolis",44.98612498,-93.275207199
+52,2010-10-31 02:20:22,"West Elm, 3879 Gallagher Dr, Edina",44.870037,-93.32823661
+53,2010-10-31 01:17:02,"Potbelly Sandwich Shop, 7644 Lyndale Ave S #200, Richfield",44.86409247,-93.28888714
+54,2010-10-20 06:47:12,"Dunn & Semington, 7512 Lyndale Ave S, Minneapolis",44.8667892594,-93.2887530327
+55,2010-10-14 20:29:22,"Dunn Bros Coffee, 337 Washington Ave N, Minneapolis",44.9849032095,-93.2735180855
+56,2010-10-14 06:56:56,"Wild Bill's Sports Saloon, 15020 Glazier Ave, Apple Valley",44.7322231431,-93.2142305374
+57,2010-09-26 02:03:41,"Raising Cane's Chicken Fingers, 7501 150th St W, Apple Valley",44.7323799207,-93.2186948274
+58,2010-09-26 01:32:32,"Apple Valley Liquor, 15700 Pilot Knob, Apple Valley",44.7206211004,-93.1757375642
+59,2010-09-24 04:28:08,"Lone Spur Grill & Bar, 11032 Cedar Lake Road, Minnetonka",44.9532063201,-93.4171933647
+60,2010-09-14 23:48:47,"The Loop Bar + Restaurant, 606 Washington Ave N, Minneapolis",44.9871919591,-93.2761138421
+61,2010-09-14 23:47:53,"Black Sheep Coal Fired Pizza, 600 Washington Ave N, Minneapolis",44.9871475247,-93.2758720037
+62,2010-08-31 01:22:32,"Adam Commercial Real Estate Services, 615 N 3rd St, Minneapolis",44.985479,-93.278031
+63,2010-06-25 09:19:43,"Osaka Seafood Steakhouse, 7537 148th St W, Apple Valley",44.7337342689,-93.2191610023
+64,2010-06-07 12:25:31,"Carbone's Pizza & Pub, 14550 S Robert Trl, Rosemount",44.7386309787,-93.1258287006
+65,2010-06-05 05:26:01,"Black Diamond Liquor, 525 Diffley Rd, Eagan",44.8052833906,-93.1078353524
+66,2010-05-30 05:16:33,"Fitz's Bar and Grill, 3883 Cedar Grove Pkwy, Eagan",44.8169497657,-93.2091343403
+67,2010-05-17 20:22:59,"Mediterranean Cruise & Cafe, 12500 Nicollet Ave, Burnsville",44.7744884956,-93.2783964992
+68,2010-05-06 07:58:24,"Salut Bar Americain, 5034 France Ave S, Minneapolis",44.911575,-93.329318
+69,2010-05-01 02:05:58,"Uncle Franky's, 10160 6th Ave N, Plymouth",44.985610172,-93.4096093359
+70,2010-04-29 10:33:43,"Rudy's Redeye Grill, 14845 S Robert Trl, Rosemount",44.733244456,-93.1275308132
+71,2010-04-09 11:45:26,"Tractorworks Building, 800 Washington Ave N, Minneapolis",44.9896548775,-93.2789098125
+72,2010-03-17 10:10:33,"Buffalo Tap, 4990 W 123rd St, Savage",44.778648,-93.34344005
+73,2010-03-06 10:21:58,"El Azteca, 6670 150th St W, Apple Valley",44.7313405,-93.201614
+74,2010-03-03 21:37:29,"Caribou Coffee, 2864 Highway 55, Eagan",44.85402415,-93.13121478
+75,2010-02-21 19:54:27,"Roberto's Taco Shop, 4770 Voltaire St, San Diego",32.749772,-117.242459

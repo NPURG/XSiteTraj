@@ -1,0 +1,50 @@
+,time,poi,latitude,longitude
+0,2015-08-09 21:41:04,"Best Western Plus Silver Creek Inn, 801 Cedar Point Blvd, Swansboro",34.6804247235,-77.0917968943
+1,2015-05-10 01:27:22,"Laurel Hills Park, 3808 Edwards Mill Rd, Raleigh",35.8307392933,-78.6981948884
+2,2015-05-02 03:32:55,"Bruegger's, 6325 Falls of Neuse Rd, Raleigh",35.86939221,-78.62286426
+3,2014-11-09 06:47:55,"Sylvan Heights Waterfowl Park, 1829 Lees Meadow Rd, Scotland Neck",36.1449470571,-77.4141504537
+4,2014-09-08 20:49:39,"BREW | Coffee Bar, 111 Seaboard Ave Ste 116, Raleigh",35.788583195,-78.6401369289
+5,2014-07-02 20:54:46,"Windstream Hosted Solutions Data Center, 5301 Departure Dr, Raleigh",35.8545378297,-78.5966073485
+6,2014-05-27 20:09:50,"Lazzara's Pizza, 9104C Coast Guard Rd, Emerald Isle",34.6602246404,-77.0607384262
+7,2014-05-25 07:07:04,"Exxon, Hwy 58 South Indian Beach Plaza, Salter Path",34.687330096,-76.8907445778
+8,2014-05-24 21:33:07,"Food Lion Grocery Store, 1010 W Fort Macon Rd, Atlantic Beach",34.701545225,-76.7529244029
+9,2014-05-12 01:44:58,"Cottons Restaurant, 117 W Saint James St, Tarboro",35.8968402833,-77.5353931
+10,2014-03-13 05:10:03,"Millbrook Exchange Park, 1905 Spring Forest Rd, Raleigh",35.8684560397,-78.6067485809
+11,2014-02-18 12:40:12,"NC License Plate Agency, 2533 Atlantic Ave, Raleigh",35.81644,-78.6172
+12,2014-01-01 04:13:32,"Man-Mur Barber Shop, 2708 Hillsborough St, Raleigh",35.78876675,-78.671328
+13,2013-12-19 00:43:05,"Wake County Detention Center, 3301 Hammond Rd, Raleigh",35.7350325275,-78.6392669942
+14,2013-10-21 20:07:57,"Joule Coffee & Table, 223 S Wilmington St, Raleigh",35.7774194736,-78.6382973128
+15,2013-09-12 01:32:48,"Cook-Out, 6505 Falls of Neuse Rd, Raleigh",35.8716021996,-78.622326696
+16,2013-08-28 07:37:29,"Lowes Foods, 2900 E Millbrook Rd, Raleigh",35.8486095796,-78.5826052657
+17,2013-08-06 00:44:01,"Kroger, 6300 Creedmoor Rd Ste 150, Raleigh",35.871941,-78.6786281333
+18,2013-06-19 08:56:41,"Millbrook Exchange Park, 1905 Spring Forest Rd, Raleigh",35.8684560397,-78.6067485809
+19,2013-06-13 23:50:37,"Stansell Dentistry, 10207 Cerny St, Raleigh",35.90184383,-78.8015362067
+20,2013-03-18 07:38:12,"Millbrook Exchange Park, 1905 Spring Forest Rd, Raleigh",35.8684560397,-78.6067485809
+21,2013-01-08 20:54:07,"Wasp Auto, 4906 Meadow Dr, Durham",35.8981072668,-78.8954350721
+22,2012-12-04 07:44:58,"Han-Dee Hugo's, 6927 Buffaloe Rd, Raleigh",35.8478649611,-78.5261723962
+23,2012-11-09 23:16:37,"BP, Leesville Rd 10100, Raleigh",35.9089628259,-78.727551661
+24,2012-10-29 05:49:22,"Tanger Outlet Mebane, 4000 Arrowhead Blvd Ste 198, Mebane",36.0744742529,-79.2664859662
+25,2012-10-27 06:03:18,"Catawba County Rest Stop, I-40 WB, Claremont",35.7291486443,-81.1273669807
+26,2012-09-29 08:11:10,"Penn Station East Coast Subs, 6301 Falls of Neuse Rd Ste B, Raleigh",35.8682315094,-78.6215175686
+27,2012-07-28 08:41:37,"Lowes Foods, 2900 E Millbrook Rd, Raleigh",35.8486095796,-78.5826052657
+28,2012-01-11 02:50:07,"McDonald's, 4801 NW Cary Pkwy, Cary",35.78916,-78.8297432167
+29,2012-01-08 07:47:18,"Alamance County Rest Area, I-40 / I-85, Burlington",36.0625691549,-79.5351684093
+30,2011-12-20 21:52:49,"McDonald's, 9145 Chamberlayne Rd, Mechanicsville",37.6485243354,-77.4063205719
+31,2011-11-20 20:56:08,"Whole Foods Market, 621 Broad St, Durham",36.0071123312,-78.9206421375
+32,2011-11-16 04:11:15,"Firehouse Subs, 2608 Erwin Rd Ste 128, Durham",36.00930697,-78.94510032
+33,2011-10-14 07:26:51,"CVS, 7201 Knightdale Blvd, Knightdale",35.7988515681,-78.4869348183
+34,2011-09-22 20:52:27,"Ticketmaster, Rexwoods, Raleigh",35.8152292704,-78.7026965618
+35,2011-08-03 03:33:19,"Hock Plaza, 2424 Erwin Rd, Durham",36.0093093624,-78.9417706352
+36,2011-07-31 08:07:48,"Target, 1000 Shoppes At Midway Dr, Knightdale",35.7980854114,-78.5092852272
+37,2011-07-02 01:51:53,"Whole Foods Market, 621 Broad St, Durham",36.0071123312,-78.9206421375
+38,2011-06-22 09:01:20,"Dunkin Donuts, 7137 Knightdale Blvd, Knightdale",35.7987785746,-78.4898315483
+39,2011-05-28 07:54:51,"101 Lounge, 101 Palladium Plaza, 444 S Blount St, Raleigh",35.7752074197,-78.6374759674
+40,2011-03-10 23:37:40,"Taylor's Wine Shop, 10005 Six Forks Rd, Raleigh",35.9158429993,-78.6500179768
+41,2010-12-11 03:01:04,"Wendy's, 4819 NC Highway 55, Durham",35.9006105208,-78.8955566586
+42,2010-11-21 22:44:28,"Harris Teeter, 6024 Falls of the Neuse Rd, Raleigh",35.86564774,-78.61885071
+43,2010-06-11 23:44:04,"Wells Fargo, 6002 Falls of Neuse Rd, Raleigh",35.8648063707,-78.6197662844
+44,2010-06-04 08:17:32,"McDonald's, 6250 Capital Blvd, Raleigh",35.8701676505,-78.580082653
+45,2010-06-02 02:31:53,"I-40 Rest Area, I-40 EB, Claremont",35.7253934669,-81.1275422573
+46,2010-05-20 08:10:47,"Jumbo China, 6108 Falls of Neuse Rd, Raleigh",35.8660865429,-78.6184583433
+47,2010-04-23 07:07:02,"Wells Fargo, 6002 Falls of Neuse Rd, Raleigh",35.8648063707,-78.6197662844
+48,2010-02-02 08:43:47,"Lowes Foods, 2900 E Millbrook Rd, Raleigh",35.8486095796,-78.5826052657

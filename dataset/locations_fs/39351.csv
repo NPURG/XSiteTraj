@@ -1,0 +1,59 @@
+,time,poi,latitude,longitude
+0,2014-11-25 09:24:28,"Saigon Pho, 943 E University Blvd #107, Tucson",32.2322282788,-110.957471479
+1,2014-11-02 08:21:31,"Zip Fusion Sushi, 744 E 3rd St, Los Angeles",34.04571934,-118.236524533
+2,2013-02-04 02:05:40,"John Wayne Airport (SNA), 18601 Airport Way, Santa Ana",33.6788413179,-117.861880801
+3,2013-01-06 05:47:22,"Irvine Farmers Market, 4143 Campus Dr, Irvine",33.6506367155,-117.840138674
+4,2013-01-02 07:05:25,"The Frieze Ice Cream Factory, 1626 Michigan Ave, Miami Beach",25.7899847333,-80.138757
+5,2012-12-02 08:14:44,"Roots & Culture, 1034 N Milwaukee Ave, Chicago",41.9006204369,-87.6623298019
+6,2012-07-28 07:31:50,"Messe Wien, Messeplatz 1, Wien",48.2166911061,16.4093259931
+7,2012-06-26 23:24:03,"Intelligentsia Coffee & Tea, 1331 Abbot Kinney Blvd, Venice",33.9910867996,-118.466930017
+8,2012-06-26 23:23:15,"Fix Coffee, 2100 Echo Park Ave, Los Angeles",34.0895240333,-118.249883652
+9,2012-06-26 23:18:47,"Repa Copy, Franz-Josefs-Kai 33, Wien",48.2135013943,16.3746310918
+10,2012-06-26 23:17:32,"MuseumsQuartier, Museumsplatz 1, Wien",48.2034123153,16.3588705662
+11,2012-06-26 23:16:56,"MuseumsQuartier, Museumsplatz 1, Wien",48.2034123153,16.3588705662
+12,2012-01-07 11:05:45,"Spring For Coffee, 548 S Spring St #106, Los Angeles",34.0460590148,-118.250701725
+13,2012-01-07 11:04:30,"Intelligentsia Coffee & Tea, 1331 Abbot Kinney Blvd, Venice",33.9910867996,-118.466930017
+14,2012-01-07 11:02:32,"John Wayne Airport (SNA), 18601 Airport Way, Santa Ana",33.6788413179,-117.861880801
+15,2012-01-07 10:49:58,"Trader Joe's, 4225 Campus Dr, Irvine",33.6503933448,-117.837491333
+16,2011-10-21 09:02:17,"Filter Coffeehouse & Espresso Bar, 1726 20th St NW, Washington",38.9136930036,-77.0450672507
+17,2011-10-21 09:01:48,"Big Bear Cafe, 1700 1st St NW, Washington",38.91277,-77.012359
+18,2011-10-21 09:01:17,"Peregrine Espresso, 1718 14th St NW, Washington",38.9132630786,-77.0321926475
+19,2011-10-21 09:00:54,"Peregrine Espresso, 660 Pennsylvania Ave SE, Washington",38.8850922545,-76.9961812112
+20,2011-10-21 08:58:21,"Baked & Wired, 1052 Thomas Jefferson St NW, Washington",38.9040065376,-77.0603075624
+21,2011-10-21 08:57:03,"Pho 14, 1436 Park Rd NW, Washington",38.9305999296,-77.0341211557
+22,2011-10-21 08:56:49,"Lighthouse Tofu (5be044 1c5080), 4121 Chatelain Rd Ste 100, Annandale",38.8338451272,-77.1900808811
+23,2011-10-21 08:53:01,"Dupont Threading, 1314 18th St NW, Washington",38.908278,-77.041748
+24,2011-10-21 08:52:32,"Foodland, 4-771 Kuhio Hwy, Kapa18a",22.0609865374,-159.322362838
+25,2011-10-14 08:11:47,"Momofuku Milk Bar, 251 E 13th St, New York",40.7317954706,-73.9856725931
+26,2011-03-14 11:13:35,"Big Save Markets, 4-1105 Kuhio Hwy, Kapa18a",22.069147,-159.32018
+27,2010-08-03 12:00:49,"Ara's Sakana-ya, 3-4301 Kuhio Hwy, Lihue",21.9958391819,-159.353680051
+28,2010-08-03 11:58:31,"M&M Donuts, 1614 W Katella Ave, Anaheim",33.8028293817,-117.937760353
+29,2010-08-03 11:56:40,"Po's kitchen, 4100 Rice St, Lihue",21.970268,-159.361552
+30,2010-08-03 11:41:38,"Kukui Grove Four Cinema, 4368 Kukui Grove St, Lihue",21.9714651918,-159.376173671
+31,2010-08-03 11:38:41,"Harry Thomas Sr. Recreation Center, 1743 Lincoln Rd NE, Washington",38.9142366277,-77.0076601893
+32,2010-01-20 18:32:53,"Costco Wholesale, 4300 Nuhou St., Lihue",21.9672026073,-159.380078727
+33,2010-01-20 18:31:57,"Longs Drugstore, 645 Aleka Loop, Kapa18a",22.0580196631,-159.323637426
+34,2010-01-20 18:30:51,"Kauai Coffee Plantation, 870 Halewili Rd., Kal01heo",21.8999616531,-159.561022172
+35,2010-01-20 18:29:54,"Ishihara Market, 9894 Kaumualii Hwy, Waimea",21.9545014288,-159.667137536
+36,2010-01-20 18:29:01,"Conrad Miami, 1395 Brickell Ave, Miami",25.7606812932,-80.1915303571
+37,2010-01-20 18:17:11,"Sunshine Farmers Market, Kapaa Ball Park, Kapa18a",22.0776555627,-159.320331643
+38,2010-01-20 18:10:23,"Small Town Coffee, 4-1613 Kuhio Hwy, Kapa18a",22.0796648826,-159.314546585
+39,2010-01-20 18:09:27,"All Saints Church, 4-1065 Kuhio Hwy, Kapa18a",22.0674187614,-159.319953339
+40,2010-01-20 18:08:36,"Hamura Saimin Stand, 2956 Kress St, Lihue",21.9717378579,-159.365954116
+41,2010-01-20 18:05:43,"Hawaiian Blizzard Shave Ice Co, 4-1105 Kuhio Hwy, Kapa18a",22.069086062,-159.319831118
+42,2010-01-02 02:19:15,"Tokyo Market, 2820 W Cary St, Richmond",37.5522648309,-77.4773588777
+43,2010-01-02 02:00:30,"Lux Central, 4402 N Central Ave, Phoenix",33.5004692924,-112.074053138
+44,2010-01-02 01:58:27,"Kabuki Japanese Restaurant, 2000 E Rio Salado Pkwy #1051, Tempe",33.4329969399,-111.905343029
+45,2010-01-02 01:57:56,"Kabuki Japanese Restaurant, 2000 E Rio Salado Pkwy #1051, Tempe",33.4329969399,-111.905343029
+46,2010-01-02 01:50:39,"Cabela's, 9380 W Glendale Ave, Glendale",33.5393489331,-112.261166153
+47,2010-01-02 01:47:35,"University of Phoenix Stadium, 1 Cardinals Dr, Glendale",33.5277156,-112.262749554
+48,2010-01-02 01:43:23,"Cartel Coffee Lab, 225 W University Dr #101, Tempe",33.4211509789,-111.942669154
+49,2010-01-02 01:40:50,"Pane Bianco, 4404 N Central Ave, Phoenix",33.500596,-112.074195
+50,2009-11-11 01:43:48,"Dogma, 7030 Biscayne Blvd, Miami",25.840187,-80.18444608
+51,2009-10-23 01:38:36,"Seventh Hill, 327 7th St SE, Washington",38.8853123684,-76.9963636994
+52,2009-10-13 23:25:57,"Paper Source, 3019 M St NW, Washington",38.9052300464,-77.0597996388
+53,2009-09-29 05:18:00,"D'Vines, 3103 14th St NW, Washington",38.9292916752,-77.0324635506
+54,2009-09-25 23:33:38,"Full Kee Restaurant, 509 H St NW, Washington",38.8997925179,-77.019329277
+55,2009-09-24 04:21:40,"Yechon Korean & Japanese Restaurant, 4121 Hummer Rd, Annandale",38.833705,-77.210034
+56,2009-09-24 04:06:34,"The Gibson, 2009 14th St NW, Washington",38.9173456486,-77.0319306294
+57,2009-09-24 04:04:26,"The Greek Spot, 2017 11th St NW, Washington",38.9175350816,-77.0268148184

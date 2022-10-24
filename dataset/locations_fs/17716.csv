@@ -1,0 +1,123 @@
+,time,poi,latitude,longitude
+0,2014-12-19 05:21:51,"Montanya Distillers, 130 Elk Avenue, Crested Butte",38.8696432025,-106.987027215
+1,2014-12-16 00:03:43,"Killen's Barbecue, 3613 Broadway St, Pearland",29.5639772965,-95.2821964855
+2,2014-12-16 00:02:19,"Lei Low, 6412 N Main St Ste C, Houston",29.8087764329,-95.3895200943
+3,2014-12-16 00:01:34,"Skinny Rita's Grille, 4002 N Main St, Houston",29.793694,-95.376511
+4,2014-12-16 00:00:06,"Laurenzo's Restaurant, 4412 Washington Ave, Houston",29.770577637,-95.4056668095
+5,2014-12-15 23:59:36,"Denver Airport Marriott at Gateway Park, 16455 E. 40th Circle, Aurora",39.7699413934,-104.796652794
+6,2014-11-11 02:50:49,"Caf Fleur de Lis, 307 Chartres St, New Orleans",29.954471,-90.066541
+7,2014-10-31 01:42:04,"Bojangles Music School, 3619 S Shepherd Dr, Houston",29.7336569871,-95.4095864296
+8,2014-10-31 01:35:47,"Bojangles Music School, 3619 S Shepherd Dr, Houston",29.7336569871,-95.4095864296
+9,2014-05-20 03:07:14,"Pappas Seafood House, 3001 S Shepherd Dr, Houston",29.739149,-95.41042136
+10,2014-03-08 03:10:26,"Liberty Kitchen & Oyster Bar, 1050 Studewood St, Houston",29.7905223289,-95.3874701214
+11,2014-02-18 05:00:05,"Barnaby's Cafe, 801 Congress St, Houston",29.7631185281,-95.3625439758
+12,2014-02-11 04:03:04,"Lacey's Delicatessen, 415 Caroline St, Houston",29.7595485406,-95.3592226652
+13,2014-02-11 00:24:23,"Bellisimo Ristorante, 1848 Airline Dr, Houston",29.804599,-95.381746
+14,2014-02-07 04:28:17,"Lowbrow, 1601 W Main St, Houston",29.7360232945,-95.39935112
+15,2014-01-15 05:35:15,"The Pastry War, 310 Main St, Houston",29.7619630127,-95.3611847702
+16,2014-01-15 05:34:03,"Rose Garden, 2621 Link Rd, Houston",29.8113477319,-95.3843671834
+17,2014-01-15 05:30:13,"The Impeccable Pig, 2511 University Blvd, Houston",29.7150271499,-95.4169742361
+18,2012-05-05 02:32:29,"Chick-fil-A Sawyer Heights, 2222 Shearn St, Houston",29.7748095868,-95.3810871752
+19,2012-04-29 23:51:59,"Crowne Plaza Dallas Downtown, 1015 Elm St, Dallas",32.780764214,-96.803495625
+20,2012-04-20 01:57:36,"Chick-fil-A Sawyer Heights, 2222 Shearn St, Houston",29.7748095868,-95.3810871752
+21,2012-04-02 20:48:51,"Catalina Coffee, 2201 Washington Ave, Houston",29.7679173946,-95.38064083
+22,2012-03-15 02:26:03,"Zelko Bistro, 705 E 11th St, Houston",29.790973,-95.389727354
+23,2012-03-02 12:05:08,"Mustang by Luis Jimnez, 8500 Pea Blvd, Denver",39.834070785,-104.678440453
+24,2012-02-19 06:14:02,"Jimmy John's, 3231 Southwest Fwy, Houston",29.728962172,-95.4299106736
+25,2012-02-14 03:39:18,"Beaver's, 2310 Decatur St, Houston",29.7670223534,-95.3823566437
+26,2012-02-13 06:23:23,"Beaver's, 2310 Decatur St, Houston",29.7670223534,-95.3823566437
+27,2012-02-11 03:16:25,"Les Givral's Kahve, 4601 Washington Ave Ste 100, Houston",29.7703308062,-95.4081648588
+28,2012-02-02 05:40:05,"Memorial Park 3 Mile Trail, Memorial Dr, Houston",29.7709681732,-95.4354769406
+29,2012-01-20 08:14:39,"H-E-B, 1701 W Alabama St, Houston",29.73772,-95.402634
+30,2012-01-09 03:24:54,"BB's Cafe, 2701 White Oak Dr, Houston",29.7813372203,-95.3878586394
+31,2011-12-16 11:11:46,"Kohl's, 11785 Westheimer Rd, Houston",29.734196,-95.582838
+32,2011-12-09 02:37:56,"Birraporetti's, 500 Louisiana St, Houston",29.7625225488,-95.3646441647
+33,2011-11-30 05:14:53,"Space By Lineart, 2608 Dunlavy St, Houston",29.742417,-95.4021674395
+34,2011-11-29 06:42:08,"US Post Office-Sam Houston Station, 701 San Jacinto, Houston",29.7577526924,-95.3619461258
+35,2011-11-20 06:12:58,"Studio 31, 2600 Travis St, Houston",29.753116,-95.391293
+36,2011-11-19 02:23:27,"Catalina Coffee, 2201 Washington Ave, Houston",29.7679173946,-95.38064083
+37,2011-11-19 00:54:17,"Tacos A Go-Go, 2912 White Oak Dr, Houston",29.7818791538,-95.3899955348
+38,2011-11-16 08:18:48,"Allen Parkway Running Trail, Allen Parkway, Houston",29.7613411863,-95.3933799663
+39,2011-11-07 22:18:49,"Poblano's Mexican Grill #2, 1000 Main St, Houston",29.7565065605,-95.3654771075
+40,2011-10-13 02:03:20,"Canyon Creek, 6603 Westcott St, Houston",29.7750463233,-95.4276904551
+41,2011-10-10 04:17:44,"Edwards Houston Marq'E 23 IMAX & RPX, 7600 Katy Fwy, Houston",29.78614889,-95.46357053
+42,2011-10-08 01:01:24,"Irma's, 22 N Chenevert St, Houston",29.7600097997,-95.3519471086
+43,2011-10-06 01:44:46,"City Hall Farmer's Market, 901 Bagby St, Houston",29.7591638807,-95.3684461609
+44,2011-09-30 22:06:49,"Chick-fil-A Houston Center, 1200 McKinney St Ste 363, Houston",29.7550452,-95.3621103
+45,2011-09-25 02:54:48,"Bliss Nail Spa, 701 Shepherd Dr #100, Houston",29.768488,-95.409552
+46,2011-09-25 02:32:37,"Tila's Restaurante & Bar, 1111 S Shepherd Dr, Houston",29.7556284734,-95.4086276997
+47,2011-09-25 02:31:42,"Tila's Restaurante & Bar, 1111 S Shepherd Dr, Houston",29.7556284734,-95.4086276997
+48,2011-09-24 23:30:48,"Sabine Street Bridge, Sabine st, Houston",29.7619180412,-95.3754733586
+49,2011-09-24 07:25:29,"Shepard and Kirby, Shepard Dr, Houston",29.7596425045,-95.4085962229
+50,2011-09-24 07:24:35,"Shepard and Kirby, Shepard Dr, Houston",29.7596425045,-95.4085962229
+51,2011-09-09 21:09:15,"GMS Dental, 1445 North Loop W, Houston",29.8118697518,-95.4261762534
+52,2011-09-08 09:02:16,"Aladdin's Mediterranean Cuisine, 912 Westheimer Rd, Houston",29.7447590504,-95.391073823
+53,2011-09-08 08:41:39,"Discovery Green, 1500 McKinney St, Houston",29.7532378979,-95.3594827652
+54,2011-09-08 06:14:55,"Arne's, 2830 Hicks St, Houston",29.7721251933,-95.3894996454
+55,2011-08-26 01:43:40,"Bombay Pizza Co., 914 Main St Ste 105, Houston",29.757779,-95.364356
+56,2011-08-22 03:23:14,"Lizzard's Pub, 2715 Sackett St, Houston",29.7410968358,-95.4227182924
+57,2011-08-22 03:21:39,"Lizzard's Pub, 2715 Sackett St, Houston",29.7410968358,-95.4227182924
+58,2011-08-18 03:54:51,"FedEx Office Print & Ship Center, 801 Louisiana St, Suite 101, Houston",29.7596256277,-95.3663127436
+59,2011-08-14 07:48:52,"Sabine Street Bridge, Sabine st, Houston",29.7619180412,-95.3754733586
+60,2011-08-11 23:01:09,"Whataburger, 1000 Main St, Houston",29.7566484853,-95.365410676
+61,2011-08-06 09:08:46,"The Oasis on Lake Travis, 6550 Comanche Trl, Austin",30.4053293661,-97.8743257512
+62,2011-08-04 10:01:20,"Kroger, 3300 Montrose Blvd, Houston",29.7429355737,-95.3919911385
+63,2011-08-01 03:15:05,"Albuquerque International Sunport (ABQ), 2200 Sunport Blvd SE, Albuquerque",35.0477122719,-106.616670946
+64,2011-08-01 03:07:59,"Albuquerque International Sunport (ABQ), 2200 Sunport Blvd SE, Albuquerque",35.0477122719,-106.616670946
+65,2011-07-31 03:08:53,"Vdara Hotel & Spa, 2600 W Harmon Ave, Las Vegas",36.1094149603,-115.177657867
+66,2011-07-28 06:40:20,"Azuma Sushi & Robata Bar, 909 Texas St, Houston",29.7602186804,-95.3630805131
+67,2011-07-28 01:26:40,"Taco Bell, 2093 Taylor St, Houston",29.7757367313,-95.3818931315
+68,2011-07-22 07:42:17,"Gus S. Wortham Memorial Fountain, 2900 Allen Pkwy., Houston",29.7616247145,-95.3959669915
+69,2011-07-21 21:51:22,"Cafe Express, 650 Main St, Houston",29.7593612218,-95.3630651834
+70,2011-07-07 08:05:09,"Flying Saucer Draught Emporium, 705 Main St, Houston",29.7592036857,-95.3632491402
+71,2011-06-29 06:35:56,"JPMorgan Chase Tower, 600 Travis St, Houston",29.7604178,-95.3641512
+72,2011-06-17 08:29:31,"Allen Parkway Running Trail, Allen Parkway, Houston",29.7613411863,-95.3933799663
+73,2011-06-17 03:36:20,"Chuy's, 2706 Westheimer Rd, Houston",29.7425024058,-95.4203689098
+74,2011-06-08 01:09:54,"Brown Bag Deli, 810 Capitol St, Houston",29.7592401992,-95.3632951295
+75,2011-06-03 09:20:45,"Lucky's Pub, 801 St Emanuel St, Houston",29.7524794705,-95.3541644212
+76,2011-06-03 04:44:19,"Minuti Coffee, 909 Texas Ave., Houston",29.7600552806,-95.3627790296
+77,2011-05-06 22:04:52,"Cafe Express, 650 Main St, Houston",29.7593612218,-95.3630651834
+78,2011-05-03 03:25:11,"Brown Bag Deli, 810 Capitol St, Houston",29.7592401992,-95.3632951295
+79,2011-04-15 22:12:33,"Bon Jour, 945 Capitol St, Houston",29.759477,-95.363699
+80,2011-04-03 06:11:01,"Rosemont Bridge, Studemont Dr., Houston",29.7629043867,-95.3915036785
+81,2011-03-29 21:54:13,"Alonti Market Cafe, 600 Travis St, Houston",29.7602143717,-95.3647310355
+82,2011-03-16 07:47:49,"Buffalo Bayou Art Park, 100 Sabine St., Houston",29.7618343332,-95.3741240703
+83,2011-03-14 03:29:59,"1886 Caf & Bakery, 604 Brazos St, Austin",30.2677037551,-97.7418422699
+84,2011-03-13 08:43:52,"Embassy Suites by Hilton Austin Central, 5901 N Interstate 35, Austin",30.3193033577,-97.7057316899
+85,2011-03-12 10:47:49,"Aladdin's Mediterranean Cuisine, 912 Westheimer Rd, Houston",29.7447590504,-95.391073823
+86,2011-03-06 00:53:56,"Chick-fil-A 59 & Kirby, 2715 Southwest Fwy, Houston",29.72977202,-95.42090535
+87,2011-02-23 09:26:44,"Amli Memorial Heights Pool, 3003 Memorial Ct, Houston",29.7645423718,-95.3905067656
+88,2011-02-16 09:05:17,"Red Lion Pub, 2316 S Shepherd Dr, Houston",29.745685,-95.410765
+89,2010-11-13 04:17:54,"Planet Beach Contempo Spa, 5182 Buffalo Speedway, Houston",29.7271057909,-95.4287852066
+90,2010-10-31 00:49:41,"DoubleTree Suites by Hilton Hotel Austin, 303 W 15th St, Austin",30.2776740757,-97.7424633233
+91,2010-10-26 01:23:01,"Shandy's Cafe, 5814 Memorial Dr, Houston",29.7617404816,-95.4206517987
+92,2010-10-21 01:34:58,"Blues and Burgers @ Discovery Green, Discovery Green, Houston",29.7532392301,-95.3612307578
+93,2010-09-27 05:42:59,"Fadi's Mediterranean Grill, 8383 Westheimer Rd Ste 112, Houston",29.7371689329,-95.5136604752
+94,2010-09-21 10:47:27,"Porch Swing Pub, 69 Heights Blvd, Houston",29.7700185082,-95.3975826628
+95,2010-09-16 02:47:30,"Canyon Creek, 6603 Westcott St, Houston",29.7750463233,-95.4276904551
+96,2010-09-14 02:38:21,"Soft Touch Dental, Westheimer, Houston",29.735516,-95.585705
+97,2010-09-13 00:19:18,"Table Seven Restaurant, 700 Durham Dr, Houston",29.768354,-95.410437
+98,2010-09-02 07:28:01,"Eleanor Tinsley Park, 500 Allen Parkway, Houston",29.7614398435,-95.3792709566
+99,2010-08-21 03:28:05,"Source Logistics, 550 Aleen St, Houston",29.777485,-95.2749
+100,2010-08-20 06:28:08,"Liberty Station, 2101 Washington Ave, Houston",29.7678764218,-95.37973609
+101,2010-08-15 07:23:21,"Diamond Club, Minute Maid Park, Houston",29.7565607771,-95.3553253412
+102,2010-08-10 22:29:44,"Bon Jour, 945 Capitol St, Houston",29.759477,-95.363699
+103,2010-08-10 08:44:53,"Allen Parkway Running Trail, Allen Parkway, Houston",29.7613411863,-95.3933799663
+104,2010-07-29 00:46:55,"Kwik Kar, 2710 Washington Ave, Houston",29.7688179917,-95.3869180214
+105,2010-07-02 01:50:24,"Irma's Southwest Grill, 1314 Texas St, Houston",29.7576941474,-95.3591153645
+106,2010-06-27 23:16:29,"IHOP, 15444 Highway 105 West, Montgomery",30.3595757609,-95.5968327884
+107,2010-06-10 00:44:42,"Guadalajara Del Centro, 1201 San Jacinto St, Houston",29.754150711,-95.3645253181
+108,2010-06-07 22:13:42,"Salvex, 723 Main St Ste 600, Houston",29.75848,-95.363652
+109,2010-05-11 23:20:44,"T.G.I. Friday's, Karl Johans gate 35, Oslo",59.9140525294,10.7380843163
+110,2010-04-20 03:37:19,"Forever 21, 1201 Main St, Houston",29.7550687204,-95.3660187823
+111,2010-04-20 01:26:34,"Jimmy John's, 820 Main St, Houston",29.7579928179,-95.3640210629
+112,2010-04-17 02:19:25,"Post Office, 2802 Timmons Ln, Houston",29.73939,-95.43685
+113,2010-04-12 07:17:43,"Le Viet Restaurant, 11328A Westheimer Rd, Houston",29.7370226333,-95.57829822
+114,2010-04-10 11:59:40,"L'Auberge Casino Resort, 777 Ave Lauberge, Lake Charles",30.2067266216,-93.2586318254
+115,2010-04-07 09:03:46,"Amli Memorial Heights Pool, 3003 Memorial Ct, Houston",29.7645423718,-95.3905067656
+116,2010-04-06 01:40:55,"Table 7 Bistro, 720 Fannin St, Unit A, Houston",29.7579353038,-95.363198041
+117,2010-03-31 02:45:33,"Planet Beach, 8366 Westheimer Rd, Houston",29.7377430341,-95.5132506226
+118,2010-03-18 03:13:23,"Azuma Sushi & Robata Bar, 909 Texas St, Houston",29.7602186804,-95.3630805131
+119,2010-03-16 02:43:13,"Mia Bella Trattoria - Greenstreet Downtown, 1201 San Jacinto St, Houston",29.7535095969,-95.3638521137
+120,2010-02-10 03:32:44,"Chick-fil-A 59 & Kirby, 2715 Southwest Fwy, Houston",29.72977202,-95.42090535
+121,2009-09-05 03:40:57,"West End Tavern, 926 Pearl St, Boulder",40.0170606328,-105.283208105

@@ -1,0 +1,59 @@
+,time,poi,latitude,longitude
+0,2016-12-24 00:00:00,"West Spa at Oglebay Resort, 465 Lodge Dr, Wheeling",40.0990500142,-80.6610838342
+1,2016-11-30 09:58:16,"Giant Eagle Supermarket, 1901 Murray Ave, Pittsburgh",40.435711,-79.922532
+2,2016-11-08 07:07:28,"Midtown Scholar, 1302 N 3rd St, Harrisburg",40.26971232,-76.88934194
+3,2016-10-28 08:57:16,"Aspinwall Beans N Cream, 16 Brilliant Ave, Aspinwall",40.489447867,-79.9009663252
+4,2016-09-29 04:11:19,"Wyndham Grand's Three Rivers Pub, 600 Commonwealth Pl, Pittsburgh",40.4417055031,-80.0066314946
+5,2016-09-26 01:26:20,"The Home Depot, 3550 William Penn Hwy, Pittsburgh",40.4290353618,-79.8053526878
+6,2016-09-04 08:34:58,"Pasqualino's Italian Eatery, 4430 William Penn Hwy, Murrysville",40.4268802625,-79.679314052
+7,2016-08-23 21:12:04,"La Gourmandine Bakery, 4605 Butler St, Pittsburgh",40.472918,-79.9587785333
+8,2016-08-21 10:17:01,"Tender Bar + Kitchen, 4300 Butler St, Pittsburgh",40.470615,-79.960504
+9,2016-08-19 21:49:58,"Homer's Service Station, 4157 Murray Ave, Pittsburgh",40.4234533572,-79.9285805337
+10,2016-08-09 08:10:29,"Arctic Avenue, 3446 5th Ave, North Versailles",40.3670900882,-79.8189854782
+11,2016-07-31 01:40:45,"SONIC Drive In, 1799 Stringtown Rd, Grove City",39.8782749523,-83.0445728577
+12,2016-07-29 23:45:45,"Kuhn's Quality Foods, 700 Beulah Rd, Wilkins Township",40.4267822463,-79.8351207594
+13,2016-07-20 11:53:58,"Lili Coffee Shop, 3138 Dobson St, Pittsburgh",40.457545,-79.96584
+14,2016-07-20 11:53:16,"Legacy the Salon, 4366 Old William Penn Hwy, Monroeville",40.442912,-79.770523
+15,2016-05-13 21:45:03,"Omelette Shoppe, 2001 Harper Rd, Beckley",37.7913192185,-81.214442591
+16,2016-05-13 00:27:22,"City Fresh Pasta, 2549 Penn Ave, Pittsburgh",40.4535781892,-79.9805712917
+17,2016-05-06 00:28:02,"Jamison's, 3113 W Liberty Ave, Pittsburgh",40.3909382643,-80.0393217802
+18,2016-04-04 10:33:23,"Flying Pigs, WV 32S, Thomas",39.149064,-79.4988194
+19,2016-03-15 06:34:34,"Cambod-Ican Kitchen, 1701 E Carson St, Pittsburgh",40.4289557345,-79.9818366766
+20,2016-03-09 21:20:02,"Lili Coffee Shop, 3138 Dobson St, Pittsburgh",40.457545,-79.96584
+21,2016-01-28 04:39:47,"Peet's Coffee & Tea, 2911 Penn Ave, Pittsburgh",40.4600615905,-79.9712692091
+22,2016-01-16 07:15:19,"Lili Coffee Shop, 3138 Dobson St, Pittsburgh",40.457545,-79.96584
+23,2015-12-31 01:55:17,"Salem Halal Market, 2923 Penn Ave, Pittsburgh",40.458275,-79.973581
+24,2015-12-23 22:06:47,"Gryphon's Tea, 4127 Butler St, Pittsburgh",40.4700329194,-79.9607491493
+25,2015-11-08 06:58:07,"Pittsburgh Winery, 2815 Penn Ave, Pittsburgh",40.4570746307,-79.9752679467
+26,2015-11-01 04:38:33,"Cricket Wireless, 3839 William Penn Hwy, Monroeville",40.43708015,-79.78300396
+27,2015-10-29 22:07:24,"George's Lounge, 229 Cleveland Ave NW, Canton",40.8000200617,-81.3763332367
+28,2015-10-28 11:39:22,"Advance Auto Parts, 349 Rodi Rd, Pittsburgh",40.45933966,-79.8229884333
+29,2015-10-03 08:37:08,"Anthony's Coal Fired Pizza, 2740 Stroschein Road, Monroeville",40.4379784862,-79.769045437
+30,2015-09-26 12:36:10,"Rehoboth Diner, 4440 Hwy 1, Rehoboth Beach",38.7257644971,-75.1254451275
+31,2015-09-26 10:44:05,"Sunrise Cafe, 2300 Coastal Hwy, Dewey Beach",38.6974121094,-75.0753193089
+32,2015-09-25 07:49:52,"Thomas Edison Service Area, New Jersey Tpke., Woodbridge",40.5601752925,-74.2644273495
+33,2015-09-24 05:04:20,"La Baie d19Hudson, 585 rue Sainte-Catherine Ouest, Montral",45.5044520578,-73.5699999332
+34,2015-09-21 23:11:49,"Nacho Libre, 913 rue Beaubien Est, Montral",45.536651,-73.602664
+35,2015-09-21 23:10:59,"Holder, 407 rue McGill, Montral",45.5003989703,-73.5577095946
+36,2015-09-20 00:05:12,"Brutopia, 1215 rue Crescent, Montral",45.496641,-73.574457
+37,2015-09-19 09:03:35,"Griffintown Caf, 1378, rue Notre-Dame Ouest, Montral",45.4920248512,-73.5655202279
+38,2015-09-10 11:52:23,"Henry Ford Museum, 20900 Oakwood Blvd, Dearborn",42.3022253982,-83.2338999783
+39,2015-09-10 11:51:36,"Ford River Rouge Factory Tour, 20900 Oakwood Blvd, Dearborn",42.3142000519,-83.162196558
+40,2015-09-06 12:05:33,"Central Kitchen + Bar, 660 Woodward Ave, Detroit",42.3314888233,-83.0458156335
+41,2015-08-21 08:29:25,"Taipei-Tokyo, 304 Mall Plaza, Monroeville",40.434579351,-79.7859671131
+42,2015-08-05 01:28:54,"Tsuki Japanese Restaurant, 11655 Frankstown Rd, Penn Hills",40.4661967102,-79.8270142078
+43,2015-08-02 07:29:18,"Hilton Garden Inn Cleveland Downtown, 1100 Carnegie Ave, Cleveland",41.4961786893,-81.6814325584
+44,2015-07-15 01:20:53,"Miller's Seafood House, 3853 California Ave, Pittsburgh",40.4850626835,-80.0420176021
+45,2015-07-08 06:57:10,"Christ Lutheran Church School, 400 Barclay Ave, Pittsburgh",40.422352639,-79.8450609029
+46,2015-07-01 06:23:42,"Black Bear Burritos, 132 Pleasant St, Morgantown",39.6293755243,-79.9580217243
+47,2015-05-31 07:40:28,"Chipotle Mexican Grill, 4137 William Penn Hwy, Monroeville",40.4390469164,-79.7668225512
+48,2015-05-29 06:28:02,"Smashburger, 4145 William Penn Hwy, Monroeville",40.4391437454,-79.76602865
+49,2015-04-30 23:22:16,"Nancy's East End Diner, 616 South Ave, Pittsburgh",40.442161,-79.88630998
+50,2015-04-08 08:30:28,"Voodoo Homestead, 205 E 9th Ave, Munhall",40.406605546,-79.9101720273
+51,2015-04-02 06:53:06,"China Wok, 1202 5th Ave, Pittsburgh",40.43875,-79.98892
+52,2014-12-07 01:08:47,"H. Arnold Papernick OD, 705 W Main St, Mount Pleasant",40.1503682882,-79.5452427864
+53,2014-11-08 22:39:04,"Firestone Complete Auto Care, 600 Monroeville Mall, Monroeville",40.4270263582,-79.793854765
+54,2014-09-29 02:15:50,"Anchor & Anvil Coffee Bar, 7221 Church Ave, Ben Avon",40.5089816744,-80.0849397348
+55,2014-09-29 02:14:44,"Anchor & Anvil Coffee Bar, 7221 Church Ave, Ben Avon",40.5089816744,-80.0849397348
+56,2014-07-01 11:55:16,"Pittsburgh International Airport (PIT), 1000 Airport Blvd, Pittsburgh",40.4957225125,-80.2544213592
+57,2014-07-01 11:53:23,"Pittsburgh International Airport (PIT), 1000 Airport Blvd, Pittsburgh",40.4957225125,-80.2544213592

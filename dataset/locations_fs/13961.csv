@@ -1,0 +1,138 @@
+,time,poi,latitude,longitude
+0,2016-11-07 08:44:12,"Mm Mediterranean, 581 Hudson Street, New York",40.73635,-74.00588
+1,2016-11-05 10:11:40,"Barclays Center, 620 Atlantic Ave, Brooklyn",40.6830957067,-73.9759924399
+2,2016-11-04 10:24:55,"Carla Hall's Southern Kitchen, @ Barclays Center, Brooklyn",40.6829667486,-73.9760096579
+3,2016-10-27 05:44:51,"The Black Derby, 310 W 4th St, New York",40.737422,-74.003884
+4,2016-10-22 22:27:13,"New Haven Hotel, 229 George St, New Haven",41.3049332401,-72.9296050669
+5,2016-10-20 02:18:35,"Tacos Chukis, 219 Broadway E, Seattle",47.6204785619,-122.32153228
+6,2016-10-18 06:41:21,"Hotel Deca, 4507 Brooklyn Ave NE, Seattle",47.66146,-122.31437
+7,2016-10-09 21:14:16,"Bobwhite Counter, 57 7th Ave S, New York",40.7316930596,-74.0038435112
+8,2016-10-01 02:04:54,"Via Carota, 51 Grove St, New York",40.7329916287,-74.0034188601
+9,2016-08-06 22:13:14,"Tacos El Bronco, 37th St, Brooklyn",40.6523555737,-74.0029425611
+10,2016-07-15 06:49:52,"Stoller Vineyard, 16161 NE McDougall Rd, Dayton",45.2414627827,-123.069505408
+11,2016-07-14 04:06:54,"Hood River Taqueria, 1210 13th St, Hood River",45.7012311609,-121.524795699
+12,2016-06-26 08:05:46,"The High Line Hotel, 180 10th Ave, New York",40.746006365,-74.005249444
+13,2016-04-29 20:35:37,"Mole Restaurante Mexicano & Tequileria, 57 Jane St, New York",40.7381965897,-74.005588014
+14,2016-04-09 23:33:10,"Tweed, Lilla Nygatan 5, Stockholm",59.3243397487,18.0679392815
+15,2016-04-08 23:42:01,"Prinsen, Mster Samuelsgatan 4, Stockholm",59.3344181904,18.0734129476
+16,2016-04-07 02:17:46,"Nobis Hotel, Norrmalmstorg 2-4, Stockholm",59.3334947832,18.0737856049
+17,2016-04-06 03:34:51,"Ol Ol, Hantverkargatan, Stockholm",59.3291337705,18.0421337737
+18,2016-04-03 23:18:38,"Scandic Grand Central, Kungsgatan 70, Stockholm",59.3336873919,18.0561804771
+19,2016-04-03 21:34:37,"Scandic Grand Central, Kungsgatan 70, Stockholm",59.3336873919,18.0561804771
+20,2016-04-03 02:34:00,"Bakfickan, Karl XII:s Torg, Stockholm",59.3303065007,18.070961175
+21,2016-03-07 03:56:26,"Ofrenda, 113 7th Ave S, New York",40.7339483631,-74.0025925093
+22,2016-01-18 02:14:23,"Coffee Depot, 505 S Main St, Breckenridge",39.4765266455,-106.044957346
+23,2015-06-11 21:48:16,"Bar Del Corso, 3057 Beacon Ave S, Seattle",47.575383,-122.30951085
+24,2015-05-25 11:11:34,"Randolph Beer, 343 Broome St, New York",40.719810749,-73.9947867393
+25,2015-04-10 10:36:58,"ViVe Sol, 2020 W El Camino Real, Mountain View",37.3952500835,-122.099668904
+26,2015-03-07 22:01:17,"Dubh Linn Gate Irish Pub, 4320 Sundial Crescent, Whistler",50.1135828328,-122.953470463
+27,2015-02-12 07:04:27,"Java Kai, 4-1384 Kuhio Hwy, #C, Kapa18a",22.07636022,-159.31786716
+28,2015-02-10 09:39:53,"Merriman's Gourmet Pizza & Burgers, 2829 Ala Kalanikaumaka St. #G-149, Po18ip6b",21.8837303651,-159.469710696
+29,2015-02-03 19:46:35,"Jack's Caf Bar, Choquechaca 509, Cusco",-13.5155218446,-71.9756627083
+30,2014-10-24 20:45:55,"Pallino, 17801 International Blvd, SeaTac",47.4434940809,-122.303002833
+31,2014-09-07 07:53:48,"Nic L Inn Wine Cellar on the Hudson, 135 N Water St, Poughkeepsie",41.7115064776,-73.9379999052
+32,2014-09-04 11:21:16,"Randolph Beer, 343 Broome St, New York",40.719810749,-73.9947867393
+33,2014-09-04 11:08:20,"El Techo, 2518 Mission St, San Francisco",37.756699,-122.418971
+34,2014-09-04 11:04:32,"CityRow, 80 5th Ave, New York",40.7359005003,-73.9936860575
+35,2014-06-15 12:23:27,"Rye House, 11 W 17th St, New York",40.73830504,-73.9930088747
+36,2014-04-20 05:30:46,"Circle Brewing Company, 2340 W Braker Ln, Austin",30.3853019037,-97.7158594366
+37,2014-04-16 10:59:38,"Benji's Cantina, 716 W 6th St, Austin",30.2703109633,-97.7503785405
+38,2014-04-05 11:56:53,"El Borracho, 5465 Leary Ave NW, Seattle",47.6682088118,-122.384251356
+39,2014-01-30 13:42:47,"The Tippler, 425 W 15th St, New York",40.7422415088,-74.006173337
+40,2014-01-05 07:44:49,"La Maison du Croque Monsieur, 17 E 13th St, New York",40.734901171,-73.993146607
+41,2013-12-30 05:49:36,"Jai Dee Thai Restaurant, 420 7th Ave, Brooklyn",40.6640336758,-73.9839584999
+42,2013-12-15 12:00:48,"El Toro Blanco, 257 6th Ave, New York",40.7290333079,-74.0024662609
+43,2013-12-15 02:20:48,"Ambos Mundos, Plaa Reial, 10, Barcelona",41.380206609,2.17522629628
+44,2013-12-15 00:23:21,"Moshi Moshi Sushi, 5324 Ballard Ave NW, Seattle",47.666979796,-122.383966317
+45,2013-12-15 00:22:30,"Stoneburner, 5214 Ballard Ave NW, Seattle",47.666127,-122.382735
+46,2013-12-15 00:21:09,"El Borracho, 1521 1st Ave, Seattle",47.6093197583,-122.340458995
+47,2013-12-15 00:19:56,"Can Can, 94 Pike St, Seattle",47.608935,-122.340146
+48,2013-12-15 00:18:53,"Long Provincial Vietnamese Restaurant, 1901 2nd Ave, Seattle",47.6108764705,-122.340567693
+49,2013-12-15 00:18:12,"Hotel Ballard, 5216 Ballard Avenue Northwest, Seattle",47.666281,-122.382621
+50,2013-12-15 00:15:39,"Picasso Museum, C. Montcada, 15-23, Barcelona",41.3850077499,2.1811006193
+51,2013-12-01 06:01:20,"17th Street Photo, 33 W 17th St, New York",40.73865,-73.99397
+52,2013-11-18 22:51:09,"Blue Ginger, 106 8th Ave, New York",40.7407582467,-74.0018924037
+53,2013-09-22 20:55:22,"Dairy Queen, 827 12th Ave, Belmar",40.1780973806,-74.0309847936
+54,2013-09-01 13:13:49,"The Press Lounge, 653 11th Ave, New York",40.764555348,-73.9958954929
+55,2013-09-01 03:49:47,"Hester Street Fair, Hester St, New York",40.7153545491,-73.989572525
+56,2013-08-20 23:55:56,"Dolores Park Cafe, 501 Dolores St, San Francisco",37.7613131702,-122.425785363
+57,2013-08-20 13:16:35,"Tacolicious, 741 Valencia St, San Francisco",37.7609920052,-122.421438743
+58,2013-08-19 20:27:06,"Blue Smoke On The Road, Concourse B - Terminal 4, Queens",40.6384233785,-73.781187411
+59,2013-08-16 09:08:59,"Sotto 13, 140 W 13th St, New York",40.737250405,-73.9991895131
+60,2013-08-14 07:16:12,"French Roast, 78 W 11th St, New York",40.7351916978,-73.9981636405
+61,2013-08-14 07:14:22,"French Roast, 78 W 11th St, New York",40.7351916978,-73.9981636405
+62,2013-08-10 07:57:04,"Blue Ginger, 106 8th Ave, New York",40.7407582467,-74.0018924037
+63,2013-07-30 11:34:27,"Wilde Rover, 111 Central Way, Kirkland",47.6762243813,-122.207724452
+64,2013-07-28 04:39:09,"Down to Earth Organic & Natural, 305 Dairy Rd, Kahului",20.882587,-156.454933
+65,2013-07-08 10:20:32,"French Roast, 78 W 11th St, New York",40.7351916978,-73.9981636405
+66,2013-06-24 04:50:51,"The Carousel Bar & Lounge, 214 Royal St, New Orleans",29.9542036502,-90.068091512
+67,2013-06-18 07:12:41,"7-Eleven, 1160 1st Ave, New York",40.762348,-73.959629
+68,2013-06-01 22:46:05,"Olio e Pi, 3 Greenwich Ave, New York",40.7338653661,-73.999629
+69,2013-06-01 09:45:06,"Jekyll and Hyde Pub, 91 7th Ave S, New York",40.7329236244,-74.0031261946
+70,2013-05-20 06:17:04,"Nitehawk Cinema, 136 Metropolitan Ave, Brooklyn",40.7162199324,-73.9622863718
+71,2013-05-19 07:56:26,"Rite Aid, 501 Avenue of the Americas, New York",40.7365766541,-73.9974392133
+72,2013-05-12 08:25:14,"Anthropologie, 85 5th Ave, New York",40.7372423579,-73.9926195145
+73,2013-05-05 04:15:52,"The Hummus & Pita Co, 585 Avenue of the Americas, New York",40.739065,-73.995587
+74,2013-04-29 09:15:42,"Bennie's Thai, 88 Fulton St, New York",40.7092542289,-74.0056396602
+75,2013-04-21 00:05:21,"Delta Sky Club, South Satellite, SeaTac",47.4385380593,-122.302036285
+76,2013-04-06 11:01:16,"Bathtub Gin, 132 9th Ave, New York",40.7435910599,-74.0033499976
+77,2013-03-25 08:23:02,"The Grey Dog, 242 W 16th St, New York",40.7407868672,-74.0007102524
+78,2013-03-19 04:32:57,"Davanza's, 690 Park Ave, Park City",40.6465372266,-111.498181429
+79,2013-03-18 11:24:02,"High West Distillery & Saloon, 703 Park Ave, Park City",40.6465709288,-111.498538256
+80,2013-03-17 12:42:42,"Mission Manor, 3567 17th St, San Francisco",37.7630963,-122.425511237
+81,2013-03-17 12:25:40,"Baja Cantina, 1284 Lowell Ave., Park City",40.6515055555,-111.506961528
+82,2013-03-16 19:42:40,"Concourse S Terminal, 17801 International Blvd, SeaTac",47.4387412487,-122.30235815
+83,2013-03-16 19:04:02,"Ballard Inn, 5300 Ballard Ave NW, Seattle",47.6665456273,-122.383310364
+84,2013-02-23 10:00:57,"Pad Thai Noodle Lounge, 114 8th Ave, New York",40.7410329737,-74.0016915533
+85,2013-02-07 00:55:29,"Roaring Brook Umbrella Bars & Deck, 4763 Killington Rd, Killington",43.6168340241,-72.8028110933
+86,2012-11-12 02:50:04,"Dig Inn, 17 E 17th St, New York",40.7373944928,-73.9911839128
+87,2012-11-12 02:42:09,"Dig Inn, 17 E 17th St, New York",40.7373944928,-73.9911839128
+88,2012-07-07 05:33:23,"Pepi's Restraurant & Bar, 231 E Gore Creek Dr, Vail",39.6408712864,-106.37395
+89,2012-07-06 07:50:08,"Prost, 313 Main St., Frisco",39.5759084667,-106.098392
+90,2012-06-28 10:21:46,"RAM Restaurant & Brewery, 2650 NE University Village, Seattle",47.6641228902,-122.298066616
+91,2012-05-28 03:53:01,"Best Pizza, 33 Havemeyer St, Brooklyn",40.7157326746,-73.9535559938
+92,2012-05-20 12:57:51,"Red Square Euro Bistro / Vodka Bar, 1512 Larimer St Unit R38, Denver",39.7484641014,-104.997613779
+93,2012-05-14 05:46:29,"On Tap at Whole Foods, 10 Columbus Circle, New York",40.7682229043,-73.982070321
+94,2012-05-07 09:41:39,"Porteo, 299 10th Ave, New York",40.7503892273,-74.0020473453
+95,2012-05-01 08:08:32,"The Cannibal Beer & Butcher, 113 E 29th St, New York",40.7437008127,-73.9827758074
+96,2012-05-01 08:07:16,"Whole Foods Market, 250 7th Ave, New York",40.7449988788,-73.9954880405
+97,2012-05-01 08:06:24,"Trader Joe's, 675 6th Ave, New York",40.7417972551,-73.9936860575
+98,2012-04-15 23:39:55,"Palisades Market, 243 Route 9W, Palisades",41.0143361294,-73.91321665
+99,2012-04-08 11:13:45,"Carnegie Deli, 854 7th Ave, New York",40.7640950956,-73.9810602238
+100,2012-03-26 13:05:40,"Brave Horse Tavern, 310 Terry Ave N, Seattle",47.6212613389,-122.337091624
+101,2012-02-23 09:54:58,"Faculty Club, 1230 York Ave, New York",40.7635199323,-73.9560471478
+102,2012-02-21 03:11:35,"Manhattan Barber Shop, 261 W 21st St, New York",40.7438852009,-73.9989943985
+103,2012-02-13 13:45:27,"Serious Pie, 401 Westlake Ave N, Seattle",47.622043,-122.338621
+104,2012-02-13 09:00:31,"Alpine Inn Restaurant, 33818 Crystal Mountain Blvd, Enumclaw",46.94876,-121.473976
+105,2012-02-12 11:21:52,"Bullwheel, Crystal Mountain Blvd., Enumclaw",46.9351923466,-121.474993229
+106,2012-02-05 07:23:13,"Chipotle Mexican Grill, 680 Avenue of the Americas, New York",40.7417979042,-73.9935368479
+107,2012-01-31 00:11:02,"The Grey Dog, 242 W 16th St, New York",40.7407868672,-74.0007102524
+108,2012-01-31 00:09:16,"The Grey Dog, 242 W 16th St, New York",40.7407868672,-74.0007102524
+109,2011-12-23 06:49:17,"New Belgium Brewing, 500 Linden St, Fort Collins",40.592969181,-105.068693161
+110,2011-12-04 12:42:26,"Kuruma Zushi, 7 E 47th St, New York",40.7564299967,-73.9778060676
+111,2011-12-03 11:36:41,"Pure Thai Cookhouse, 766 9th Ave, New York",40.7642988614,-73.9883373966
+112,2011-11-27 07:23:31,"Triumph Brewing Company, 138 Nassau St, Princeton",40.3506855957,-74.6582740545
+113,2011-11-27 06:35:53,"The Bent Spoon, 35 Palmer Sq W, Princeton",40.3498986125,-74.6617770195
+114,2011-11-21 04:02:36,"Bill's Bar & Burger, 22 9th Ave, New York",40.7401424382,-74.0055421062
+115,2011-10-31 23:05:34,"The Pony Bar, 637 10th Ave, New York",40.7617234528,-73.994153738
+116,2011-09-15 04:09:14,"Purple Cafe & Wine Bar, 323 Parkplace Ctr, Kirkland",47.6778425172,-122.199811935
+117,2011-09-12 00:59:00,"Triple Shot World Atlas Cafe, 37 Clinton St, New York",40.720012,-73.98451536
+118,2011-09-05 08:17:52,"Blue Ginger, 106 8th Ave, New York",40.7407582467,-74.0018924037
+119,2011-08-10 12:50:33,"Trellis Restaurant, 220 Kirkland Ave, Kirkland",47.6755844878,-122.203541
+120,2011-08-05 09:33:16,"AA Jing, 689 9th Ave, New York",40.7618797967,-73.9900705627
+121,2011-08-05 09:04:19,"Crank Indoor Cycling Studio, 4630 Center Blvd, Queens",40.7460121098,-73.9565924422
+122,2011-06-28 09:29:49,"Barbounia, 250 Park Ave S, New York",40.7382300398,-73.9878323651
+123,2011-06-19 05:46:20,"Zen Bikes, 134 W 24th St, New York",40.7441356893,-73.9938640594
+124,2011-06-07 14:17:29,"Bourbon & Branch, 501 Jones St, San Francisco",37.7858282342,-122.41311504
+125,2011-06-06 12:17:34,"Puerto Alegre, 546 Valencia St, San Francisco",37.7641261172,-122.421864589
+126,2011-05-24 01:40:09,"Good Luck Restaurant, 50 Anderson Ave, Rochester",43.157988793,-77.5841026396
+127,2011-05-07 13:04:21,"Blind Pig, 208 S 1st St, Ann Arbor",42.2802650417,-83.7513520798
+128,2011-05-03 20:59:46,"Bacchus Restaurant & Bar, 4 S Chestnut St, New Paltz",41.7472521703,-74.086798731
+129,2011-05-03 20:56:28,"Libertador Parrilla Argentina, 1725 2nd Ave, New York",40.7798519468,-73.950325
+130,2011-05-03 12:25:33,"The Corner Cafe, 729 Avenue of the Americas, New York",40.7435126686,-73.9922456066
+131,2011-05-03 12:14:08,"2 Bros Pizza, 755 Avenue of the Americas, New York",40.7441983709,-73.9919012741
+132,2011-04-26 11:12:54,"Wilde Rover, 111 Central Way, Kirkland",47.6762243813,-122.207724452
+133,2011-04-25 03:29:09,"Village Square Cafe, 16150 NE 85th St #104, Redmond",47.678882721,-122.124838829
+134,2011-04-24 04:40:34,"Crystal Mountain Ski Area, 33914 Crystal Mountain Blvd, Enumclaw",46.9333268055,-121.474628448
+135,2011-04-17 00:03:45,"Pad Thai, 217 Raritan Ave, Highland Park",40.4988015828,-74.4294655323
+136,2009-09-09 12:51:33,"Klong, 7 Saint Marks Pl, New York",40.7293963777,-73.9894564957

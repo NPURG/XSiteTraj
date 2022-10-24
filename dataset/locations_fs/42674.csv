@@ -1,0 +1,51 @@
+,time,poi,latitude,longitude
+0,2016-05-21 06:35:17,"The Galway House, 720 Centre St, Boston",42.3113590479,-71.11428965
+1,2016-04-30 10:59:49,"Pet Cabaret, 4404 Washington St, Roslindale",42.281409,-71.133428
+2,2016-04-30 10:58:54,"Lookout Farm Hard Cider Taproom, 89 Pleasant St, Natick",42.2631394352,-71.3089473073
+3,2016-04-30 10:58:10,"Eat with Jack O'Neill, 1885 Centre St, West Roxbury",42.2859865966,-71.1557103101
+4,2015-11-30 04:58:26,"Brown's Lobster Pound, 407 NH Route 286, Seabrook",42.8716612269,-70.8231064157
+5,2015-11-30 04:57:36,"Tandem Coffee + Bakery, 742 Congress St, Portland",43.6531732998,-70.2706020993
+6,2015-11-30 04:57:18,"The Green Hand, 661 Congress St, Portland",43.6532951499,-70.2657651901
+7,2015-11-30 04:56:53,"Gritty McDuffs Brewing Company, 396 Fore St, Portland",43.6562185,-70.2533346
+8,2015-11-18 07:48:04,"Chilacates, 224 Amory St, Jamaica Plain",42.3163904657,-71.1033432623
+9,2015-08-24 03:04:45,"Black Cow, 54 Merrimac St, Newburyport",42.8132217505,-70.8716996032
+10,2015-08-09 04:00:31,"Regina Pizzeria, 11 Thacher St, Boston",42.3653449859,-71.056749725
+11,2015-07-18 05:18:45,"Fiore Italian Bakery, 55 South St, Jamaica Plain",42.3079915299,-71.1154651755
+12,2015-07-12 14:36:09,"Pleasant Cafe, 4515 Washington St, Boston",42.2787172833,-71.1367208167
+13,2015-07-12 14:35:13,"Sunset Grill & Tap, 130 Brighton Ave, Allston",42.3527522476,-71.1316439509
+14,2015-07-11 21:46:09,"Ula Cafe, 284 Amory St, Jamaica Plain",42.3145850169,-71.1041672622
+15,2015-06-15 23:14:46,"Fenway Park, 4 Yawkey Way, Boston",42.3464066919,-71.0979988275
+16,2015-06-15 23:13:51,"7 Pond Coffee Bar, 7 Pond St, Jamaica Plain",42.314848272,-71.114327855
+17,2015-06-15 23:09:56,"Cheers, 2 Faneuil Hall Market Pl, Boston",42.3599381044,-71.0553806892
+18,2015-06-15 23:08:59,"Thomas Edison Service Area, New Jersey Tpke., Woodbridge",40.5601752925,-74.2644273495
+19,2015-04-12 03:06:07,"Caff Nero, 733 Centre St, Jamaica Plain",42.3108880176,-71.1147456466
+20,2015-04-12 03:03:55,"Tough Luck Club, 101 E Pennington St, Tucson",32.2232763255,-110.969824158
+21,2015-04-12 03:01:13,"Jimmies Ice Cream and Sandwiches, 48A Corinth st, Roslindale",42.285916,-71.129266
+22,2015-01-03 00:56:55,"The Gallows, 1395 Washington St, Boston",42.3412054749,-71.0701787742
+23,2015-01-03 00:55:16,"Pastoral - Artisan Pizza + Kitchen and Bar, 345 Congress St, Boston",42.3506312767,-71.0489702225
+24,2015-01-03 00:53:13,"Fornax Bread Company, 27 Corinth St, Boston",42.2861277279,-71.1297568412
+25,2014-11-28 12:53:03,"Charlie's Kitchen, 10 Eliot St, Cambridge",42.3725035722,-71.1215722561
+26,2014-11-28 12:52:27,"Roche Bros, 1800 Centre St, West Roxbury",42.2866117045,-71.1520957947
+27,2014-11-28 12:52:00,"Starbucks, 222 Cambridge St, Boston",42.3612270229,-71.066441434
+28,2014-11-28 12:51:42,"Sam LaGrassa's, 44 Province St, Boston",42.3569985669,-71.0600751097
+29,2014-11-11 00:20:07,"Magnolia Gastropub & Brewery, 1398 Haight St, San Francisco",37.770223,-122.445354
+30,2014-11-11 00:17:39,"Sutro Baths, Point Lobos Ave., San Francisco",37.7804298401,-122.512850846
+31,2014-11-11 00:15:48,"Taqueria El Farolito, 2779 Mission St, San Francisco",37.7524554349,-122.418344915
+32,2014-11-11 00:13:29,"Flywheel Coffee, 672 Stanyan St, San Francisco",37.7695739793,-122.453361348
+33,2014-11-08 12:56:59,"B05Star Cafe, 127 Clement St, San Francisco",37.7830453376,-122.460719918
+34,2014-11-08 11:23:18,"Boston Logan International Airport (BOS), 1 Harborside Dr, Boston",42.3646964,-71.0181141004
+35,2014-10-30 11:52:43,"Redd's In Rozzie, 4257 Washington St, Boston",42.2855642516,-71.129321658
+36,2014-10-30 11:47:31,"Haley House Bakery Cafe, 12 Dade St, Boston",42.331867,-71.082289
+37,2014-10-13 11:39:21,"Arnold Arboretum, 125 Arborway, Jamaica Plain",42.3020244542,-71.1214592655
+38,2014-10-13 11:31:56,"Forest Hills Cemetery, 95 Forest Hills Ave, Boston",42.2967998231,-71.1075212727
+39,2014-09-15 12:29:13,"Atlas Liquors, 591 Hyde Park Ave, Boston",42.280245,-71.1191046238
+40,2014-09-15 12:28:28,"Polka Dog Bakery, 42 South St, Jamaica Plain",42.30822,-71.11545
+41,2014-09-15 12:27:11,"IKEA, 1 Ikea Way, Stoughton",42.1376636656,-71.06798172
+42,2014-09-11 12:33:37,"Harpoon Brewery, 306 Northern Ave, Boston",42.3470996759,-71.0347597243
+43,2014-09-03 12:25:21,"Eugene O'Neill's Pub, 3700 Washington St, Jamaica Plain",42.300569,-71.112808
+44,2014-09-03 12:24:13,"Sophia's Grotto, 22 Birch St, Roslindale",42.2866434291,-71.1298960998
+45,2014-09-03 12:17:48,"Johnson's Drive-In, 164 Boston Rd, Groton",42.596236,-71.5561330318
+46,2014-09-03 12:17:03,"Render Coffee, 563 Columbus Ave, Boston",42.3411078301,-71.0814115405
+47,2011-11-24 09:27:48,"Thai Parima, 1734 Lakeview Ave, Dracut",42.6788992389,-71.3423407732
+48,2010-01-11 06:12:09,"City, O' City, 206 E 13th Ave, Denver",39.7367256631,-104.984627723
+49,2009-11-23 07:11:44,"Snooze: An A.M. Eatery, 700 Colorado Blvd, Denver",39.7275301654,-104.940473861

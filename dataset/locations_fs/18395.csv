@@ -1,0 +1,53 @@
+,time,poi,latitude,longitude
+0,2014-09-04 01:01:22,"A Chau Restaurant, 2231 11th Ave E, Maplewood",45.0160241413,-93.0059425828
+1,2014-09-03 00:34:15,"Acapulco, 3069 White Bear Ave N, Maplewood",45.0336772811,-93.0187664112
+2,2014-09-03 00:21:02,"5-8 Tavern & Grill, 2289 Minnehaha Ave E, Maplewood",44.9633717537,-93.00366711
+3,2014-08-17 20:54:01,"Lake Elmo Inn, 3442 Lake Elmo Ave N, Lake Elmo",44.9989554,-92.880131
+4,2014-08-17 20:52:45,"Ward 6 Food & Drink, 858 Payne Ave, Saint Paul",44.9671116021,-93.073306802
+5,2014-08-17 20:51:26,"Shar'els Cafe, 6030 50th St N, Oakdale",45.0215011,-92.98450464
+6,2014-06-16 05:35:59,"Reve 324, 324 Main St S, Stillwater",45.0544799171,-92.8053841745
+7,2014-06-05 06:51:55,"Como Park Grill, 1341 Pascal St N, Saint Paul",44.9816400912,-93.1620025635
+8,2014-03-10 07:15:40,"Osaka Japanese Sushi & Steakhouse, 1900 County Road D E, Maplewood",45.0349011499,-93.0213303758
+9,2014-03-01 22:59:19,"The Woodbury Cafe, 803 Bielenberg Dr, Saint Paul",44.9373568097,-92.9526388391
+10,2014-02-10 07:49:11,"Tavern Grill, 772 Bielenberg Dr, Woodbury",44.9370362528,-92.9565528433
+11,2013-07-01 03:23:16,"Hometown Creamery, 2231 11th Ave E Ste C, North Saint Paul",45.016033266,-93.0060331875
+12,2013-06-29 08:44:04,"TOT BOSS, 1473 Skillman Ave E, Maplewood",44.9818590227,-93.1703083723
+13,2013-01-20 00:48:58,"The Woodbury Cafe, 803 Bielenberg Dr, Saint Paul",44.9373568097,-92.9526388391
+14,2012-10-15 01:02:12,"Tavern Grill, 772 Bielenberg Dr, Woodbury",44.9370362528,-92.9565528433
+15,2012-08-17 01:13:24,"Vertical Endeavors, 845 Phalen Blvd, Saint Paul",44.9663161287,-93.0645847321
+16,2012-08-06 02:34:33,"Minnesota Food Truck Fair, 300 N 3rd Ave, Minneapolis",44.9830558744,-93.2766352654
+17,2012-03-15 07:54:17,"Duffy's Dinkytown Pizza, 1308 5th St SE, Minneapolis",44.9817985296,-93.236061
+18,2012-03-04 12:50:33,"Smalley's Caribbean Barbeque and Pirate Bar, 423 Main St S, Stillwater",45.0540122668,-92.8042502659
+19,2012-02-25 10:12:55,"Maverick's, 1746 Lexington Ave N, Roseville",44.9942248395,-93.1457483768
+20,2012-02-03 10:01:45,"Buffalo Wild Wings, 3085 White Bear Ave N, Maplewood",45.0346465421,-93.0194753408
+21,2012-01-08 02:37:58,"Nacho Mama's, 312 Main St S, Stillwater",45.0544413458,-92.805766533
+22,2011-11-17 02:53:59,"The Library Bar & Grill, 1301 4th St SE, Minneapolis",44.9810993821,-93.2369193435
+23,2011-09-03 08:04:34,"Olive Garden, 1749 Beam Ave, Maplewood",45.028639,-93.02627005
+24,2011-08-16 02:30:23,"North Saint Paul Post Office, 2523 7th Ave E, North Saint Paul",45.0118242465,-92.9935319965
+25,2011-08-16 02:29:13,"North Saint Paul Post Office, 2523 7th Ave E, North Saint Paul",45.0118242465,-92.9935319965
+26,2011-07-15 02:41:59,"Lakes Tavern And Grill, 9240 Hudson Rd, Woodbury",44.9475028156,-92.9191178083
+27,2011-04-06 03:16:55,"Silver Lake, Silver Lake, North Saint Paul",45.0266690423,-92.9878742145
+28,2011-04-06 01:55:43,"Sidewinders, 2573 7th Ave E, North Saint Paul",45.0131458667,-92.99117
+29,2011-04-06 01:54:09,"Shangri-La III, 2552 7th Ave E, North Saint Paul",45.012398,-92.9916025778
+30,2011-04-06 01:51:35,"North Saint Paul Post Office, 2523 7th Ave E, North Saint Paul",45.0118242465,-92.9935319965
+31,2011-03-29 07:38:26,"Acapulco, 3069 White Bear Ave N, Maplewood",45.0336772811,-93.0187664112
+32,2011-03-26 07:21:06,"Surly Brewing Co, 4811 Dusharme Dr, Minneapolis",45.0425566724,-93.3247362178
+33,2011-03-13 22:47:41,"Poblano's On Main, 100 N Main Ave Ste 100, San Antonio",29.4241688374,-98.4943304148
+34,2011-03-13 10:39:33,"La Villita, 418 Villita St, San Antonio",29.4218153901,-98.4888482094
+35,2011-03-13 04:52:26,"The Sandbar Fish House and Market, 200 E Grayson St, San Antonio",29.4437556896,-98.480717629
+36,2011-03-13 02:03:26,"Hyatt Regency San Antonio Riverwalk, 123 Losoya Street, San Antonio",29.4255655112,-98.4881288409
+37,2011-01-09 09:14:18,"The Dock Cafe, 425 Nelson St E, Stillwater",45.0544492579,-92.8032857472
+38,2010-10-14 03:04:02,"The Taste Of India, 1745 Cope Ave E, Saint Paul",45.0111277921,-93.0269723951
+39,2010-10-14 03:03:22,"Schmelz Countryside Volkswagen Saab, 1180 Highway 36 E, Maplewood",45.0110545649,-93.0509805679
+40,2010-10-14 03:01:49,"Panera Bread, 2515 White Bear Avenue N, Maplewood",45.0175401582,-93.0209120014
+41,2010-10-14 02:59:54,"Jake's City Grille, 1745 Beam Ave, Maplewood",45.0285709087,-93.0275728068
+42,2010-10-14 02:58:08,"Loggers Trail Golf Club, 11950 80th St N, Stillwater",45.0663610033,-92.864714297
+43,2010-10-14 02:48:38,"Northern Brewer, 1150 Grand Ave, Saint Paul",44.9399312,-93.148822
+44,2010-07-10 09:55:35,"Roddy's Bar & Grill, 2541 7th Ave E, Saint Paul",45.0124282078,-92.9926724662
+45,2010-03-31 04:18:27,"Restaurant Max, 215 S 4th St, Minneapolis",44.9784160069,-93.2670872046
+46,2010-03-28 03:45:07,"Northrop Mall, 301 Washington Ave S, Minneapolis",44.974786938,-93.2354092598
+47,2010-03-28 03:40:31,"TGI Fridays, 3087 White Bear Ave N, Maplewood",45.03500558,-93.01855714
+48,2009-10-26 05:00:49,"Gasthaus Bavarian Hunter, 8390 Lofton Ave N, Stillwater",45.0706641167,-92.8687649333
+49,2009-10-26 04:59:34,"Old Chicago, 2100 Snelling Ave N, Saint Paul",45.0051531551,-93.1655430794
+50,2009-10-26 04:58:45,"Old Chicago, 2100 Snelling Ave N, Saint Paul",45.0051531551,-93.1655430794
+51,2009-10-26 04:54:55,"Acapulco, 3069 White Bear Ave N, Maplewood",45.0336772811,-93.0187664112

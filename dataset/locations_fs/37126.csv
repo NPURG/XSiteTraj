@@ -1,0 +1,56 @@
+,time,poi,latitude,longitude
+0,2016-04-06 10:26:27,"Albertsons, 14201 Jeffrey Rd, Irvine",33.6951993,-117.7655431
+1,2016-04-02 00:05:59,"Dos Lagos, 2785 Cabot Dr, Corona",33.8136770048,-117.507459739
+2,2016-03-21 08:51:20,"Rubio's, 14148 US Highway 395 #C, Adelanto",34.5071828202,-117.399988975
+3,2016-03-17 22:30:23,"Bagel Shack, 23653 El Toro Rd Ste C, Lake Forest",33.618219,-117.704248
+4,2015-08-01 09:00:11,"Northwood Pizza, 4900 Irvine Blvd, Suite 105, Irvine",33.711492,-117.759806
+5,2015-01-03 16:07:50,"In-N-Out Burger, 2895 Park Ave, Tustin",33.6950413353,-117.827201806
+6,2014-11-22 02:08:19,"Whole Foods Market, 100 S. Green Valley Pkwy, Henderson",36.0234238974,-115.082789387
+7,2014-08-23 11:13:58,"Massage Envy - La Jolla, 7650 Girard Avenue Ste 200, La Jolla",32.842998,-117.273534
+8,2014-08-05 10:54:00,"In-N-Out Burger, 2585 N Tustin St, Orange",33.8318924584,-117.835691571
+9,2014-04-13 10:24:11,"Angel Stadium of Anaheim, 2000 E Gene Autry Way, Anaheim",33.7999839705,-117.883111914
+10,2014-04-11 11:38:09,"24 Hour Fitness, 22331 El Paseo, Rancho Santa Margarita",33.6381163076,-117.593133075
+11,2014-02-09 01:17:48,"Dream Body Boot Camp, 8148 Ronson Rd, San Diego",32.8294390806,-117.148031654
+12,2014-01-12 00:38:11,"Spreckels Theatre, 121 Broadway, San Diego",32.7154930689,-117.16327054
+13,2013-07-25 08:52:32,"Hennessey's Tavern, 7811 Herschel Ave, La Jolla",32.8457093824,-117.272689323
+14,2013-07-20 00:49:56,"iTAN Sun Spray Spa - Pacific Beach, 1764 Garnet Ave, San Diego",32.8022300076,-117.238076627
+15,2013-07-13 10:05:15,"Urban Athletica San Diego, 925 B St Ste 307, San Diego",32.7177243529,-117.155735493
+16,2013-07-04 09:10:56,"Coastal Pacific Real Estate, 1237 Prospect St Ste G, La Jolla",32.8490103394,-117.271861732
+17,2013-07-03 00:11:20,"Mission Bay Yacht Club, 1215 El Carmel Pl, San Diego",32.7789076419,-117.247503268
+18,2013-07-02 22:27:29,"Urban Athletica San Diego, 925 B St Ste 307, San Diego",32.7177243529,-117.155735493
+19,2013-06-14 12:38:00,"NOSH, 7734 Girard Ave, La Jolla",32.8443576176,-117.273871904
+20,2013-05-06 05:17:12,"Coronado Municipal Golf Course, 2000 Visalia Row, Coronado",32.6849143642,-117.166349197
+21,2013-05-01 11:12:08,"Fred's Mexican Cafe, 2470 San Diego Ave, San Diego",32.7525368182,-117.194198596
+22,2013-04-27 05:37:42,"Mission Bay Golf Course, 2702 N Mission Bay Dr, San Diego",32.7996420308,-117.216256017
+23,2013-04-02 02:11:14,"Urban Athletica San Diego Gym, 925 B St Ste 307, San Diego",32.7176521397,-117.15575695
+24,2013-03-25 03:02:57,"The Rock Church, 3012 Rosecrans St, San Diego",32.7355013696,-117.218552929
+25,2013-03-07 07:32:38,"Urban Athletica San Diego Gym, 925 B St Ste 307, San Diego",32.7176521397,-117.15575695
+26,2012-07-10 09:50:38,"Excel: Training And Sport, 7437 Girard Ave, San Diego",32.8396442226,-117.272287473
+27,2012-07-03 10:35:51,"Denny's, 4280 Clairemont Mesa Blvd, San Diego",32.8325785382,-117.201625407
+28,2012-02-26 19:27:42,"BJ's Restaurant and Brewhouse, 13130 Jamboree Rd, Irvine",33.72956,-117.7870843
+29,2012-01-16 05:55:16,"Windansea Beach, 6800 Neptune Pl, La Jolla",32.8306202102,-117.280261171
+30,2012-01-12 05:38:25,"Mimi's Cafe, 10788 Westview Pkwy, San Diego",32.9167985091,-117.121043471
+31,2011-12-01 06:38:23,"A Better Deal Tuxedos & Suits, 369 Bird Rock Ave, La Jolla",32.815486,-117.271204
+32,2011-11-28 03:11:51,"Urban Athletica San Diego, 925 B St Ste 307, San Diego",32.7177243529,-117.155735493
+33,2011-11-27 15:31:30,"CVS/Pharmacy, 1792 Garnet Ave, San Diego",32.8009972771,-117.237782801
+34,2011-11-22 08:40:27,"Restaurant Depot, 7466 Carroll Rd, San Diego",32.8864728708,-117.161064906
+35,2011-11-06 02:36:14,"Urban Athletica San Diego, 925 B St Ste 307, San Diego",32.7177243529,-117.155735493
+36,2011-10-31 11:23:10,"Urban Athletica San Diego, 925 B St Ste 307, San Diego",32.7177243529,-117.155735493
+37,2011-10-29 00:19:36,"Excel: Training And Sport, 7437 Girard Ave, San Diego",32.8396442226,-117.272287473
+38,2011-10-28 07:26:47,"Kerut, 7944 Girard Ave, La Jolla",32.8468740426,-117.274793386
+39,2011-10-27 00:36:21,"Excel: Training And Sport, 7437 Girard Ave, San Diego",32.8396442226,-117.272287473
+40,2011-10-25 04:20:49,"Chase Bank, 7777 Girard Ave, La Jolla",32.8450118577,-117.273728388
+41,2011-10-24 03:07:43,"La Jolla Open Aire Market, 7200 Girard Ave, San Diego",32.8383718553,-117.271414882
+42,2011-10-21 11:51:32,"Contemporary Fine Arts Gallery, 7946 Ivanhoe Ave, San Diego",32.848254,-117.272465
+43,2011-10-20 23:54:59,"CorePower Yoga, 7728 Regents Rd, San Diego",32.8619591787,-117.224631384
+44,2011-10-20 11:23:51,"Hilton San Diego Bayfront, 1 Park Blvd, San Diego",32.7035135902,-117.158738626
+45,2011-10-20 00:25:24,"Excel: Training And Sport, 7437 Girard Ave, San Diego",32.8396442226,-117.272287473
+46,2011-10-19 08:13:13,"Shell, 8920 Miramar Rd, San Diego",32.8939256553,-117.13305589
+47,2011-10-19 07:25:49,"Dilliard Chiropractic P.C., 531 N Magnolia Ave, El Cajon",32.801662124,-116.962128177
+48,2011-10-18 05:19:33,"VisionPulse Creative Event & Meeting Center, 5945 Pacific Center Blvd Ste 510, San Diego",32.9043798283,-117.189273834
+49,2011-10-16 07:07:13,"Excel: Training And Sport, 7437 Girard Ave, San Diego",32.8396442226,-117.272287473
+50,2011-10-12 10:56:37,"Urban Athletica San Diego, 925 B St Ste 307, San Diego",32.7177243529,-117.155735493
+51,2011-10-12 10:44:16,"Nine-Ten Restaurant and Bar, 910 Prospect St, La Jolla",32.8472520128,-117.275037257
+52,2011-10-12 10:41:16,"Smashburger, 1000 Prospect St, La Jolla",32.8475028048,-117.274853557
+53,2011-10-12 10:16:57,"Crab Catcher, 1298 Prospect St, La Jolla",32.8492507129,-117.270628399
+54,2011-10-12 10:00:54,"Aquamore, 1250 Prospect St, La Jolla",32.8492300986,-117.271724882

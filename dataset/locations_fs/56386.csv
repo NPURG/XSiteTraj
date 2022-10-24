@@ -1,0 +1,135 @@
+,time,poi,latitude,longitude
+0,2017-01-04 04:31:17,"Sunset Sabi, 26/28 Pittwater road, Manly",-33.794883,151.285216
+1,2016-12-09 04:42:31,"County Line on the Lake, 5204 Ranch Road 2222, Austin",30.3570640864,-97.785680294
+2,2016-12-09 04:41:42,"North By Northwest (NXNW), 10010 N Capital of Texas Hwy, Austin",30.3910621981,-97.7385981381
+3,2016-12-07 18:25:28,"Black's BBQ, The Original, 3110 Guadalupe St, Austin",30.2985092039,-97.7413121895
+4,2016-12-07 18:23:32,"Slab BBQ, 9012 Research Blvd, Austin",30.3713326388,-97.7247209778
+5,2016-12-07 18:22:21,"Mighty Fine Burgers, 1335 E Whitestone Blvd, Cedar Park",30.5268559903,-97.8155908154
+6,2016-12-05 01:10:08,"United Club, SFO Airport, San Francisco",37.6173793099,-122.389290674
+7,2016-12-05 01:09:42,"Foreign & Domestic, 306 E 53rd St, Austin",30.317062072,-97.7196550369
+8,2016-12-05 01:08:41,"Courtyard Austin Northwest/Arboretum, 9409 Stonelake Blvd, Austin",30.385116,-97.740299
+9,2016-11-12 01:32:50,"Starbucks, 6101 W Century Blvd, Los Angeles",33.9459944641,-118.390860558
+10,2016-11-03 08:17:09,"Mezcalera Los Amantes, Allende 107, Oaxaca de Jurez",17.065954074,-96.724448204
+11,2016-11-03 08:16:28,"McCarthy's Irish Pub, Macedonio Alcal, Interior Plaza Santo Domingo Altos, Oaxaca de Jurez",17.0655021667,-96.7239074707
+12,2016-11-03 08:15:49,"Starbucks, Terminal 2, Venustiano Carranza",19.4219797266,-99.0782082837
+13,2016-11-03 08:15:25,"El Asado Argentino, Dinamarca 72, Cuauhtemoc",19.4261443387,-99.1578017485
+14,2016-11-03 08:14:46,"Caf de Tacuba, Tacuba 28, Cuauhtemoc",19.4356274038,-99.1377000354
+15,2016-10-21 10:29:18,"Ottimo, ITC Gardenia, Bangalore",12.9670412133,77.5956304324
+16,2016-10-16 01:51:14,"25 Degrees, Pullman Bangkok Hotel G, 1a3207233101",13.7255646759,100.525933914
+17,2016-10-16 01:50:04,"Som Tam Nua, 392/14 Siam Square 5, 1b173821273119",13.7444911994,100.534250583
+18,2016-10-14 07:09:39,"Namsaah Bottling Trust, 401 Silom Soi 7, 1e2330190423",13.7252138678,100.529257195
+19,2016-10-12 23:09:44,"McDonald's & McCaf, Sathorn Thani Bldg., 1a3207233101",13.7231135446,100.529718619
+20,2016-10-12 23:08:52,"Supanniga Eating Room, 28 Sathorn 10 Road, 1a3207233101",13.7230876932,100.527477439
+21,2016-10-12 07:48:55,"T&K Seafood, 49-51 Phadung Dao Rd, 2a31211e3119182707284c",13.7400572942,100.510442555
+22,2016-10-11 12:44:16,"Freebird, Sukhumvit Soi 47, 1e2330190423",13.730984,100.574664
+23,2016-10-11 12:43:58,"Freebird, Sukhumvit Soi 47, 1e2330190423",13.730984,100.574664
+24,2016-08-28 15:00:11,"Smally's RestoCafe, Church Street, Bangalore",12.9744382861,77.607151453
+25,2016-08-28 14:59:04,"McDonald's, Commercial Street, Bangalore",12.9824312253,77.6075598988
+26,2016-08-28 14:58:31,"La Tapenade, Departure Hall, kempegowda International Airport, Bangalore, Bangalore",13.201001,77.710405
+27,2016-08-25 00:49:25,"Kebabs & Kurries, ITC Royal Gardenia, Bangalore",12.9669790313,77.5957927084
+28,2016-08-25 00:48:59,"Punjabi Times, 15/1, Opp. Shoppers Stop, Bangalore",12.9118606903,77.5999502535
+29,2016-08-25 00:47:59,"Sing Kong, UB City, Bangalore",12.9719552445,77.5960333242
+30,2016-08-25 00:47:29,"Subway, UB City, Bangalore",12.9720969948,77.5958776474
+31,2016-08-25 00:46:30,"Barbeque Nation, #67,15th Crs, Nr Delmia, Bangalore",12.9063509934,77.5968782734
+32,2016-08-21 21:28:13,"The 1925 Microbrewery & Restaurant, 369 Jalan Besar, Singapore",1.312773,103.859841
+33,2016-08-21 21:27:01,"Truffles - Ice & Spice, #22, Bangalore",12.9715567888,77.6010693512
+34,2016-08-21 21:26:25,"Starbucks, Church Street, Bangalore",12.9744545734,77.60722419
+35,2016-08-21 21:25:42,"The Biere Club, 20/2 Vittal Mallya Rd., Bangalore",12.97109732,77.5976448773
+36,2016-08-21 21:24:58,"ITC Gardenia, No 1, Residency Road, Bangalore",12.967003393,77.5955856665
+37,2016-07-25 08:41:01,"Kunming Changshui International Airport (KMG), 98213a3a3ad81f, 060e02",25.0998607,102.9274599
+38,2016-07-17 14:17:07,"Belgrave Cartel, 6 Belgrave St, Manly",-33.7975374815,151.284957164
+39,2016-06-27 11:42:40,"Fat Matt's Rib Shack, 1811 Piedmont Ave NE, Atlanta",33.8046057171,-84.3671438098
+40,2016-06-27 11:41:35,"CNN Center, 190 Marietta St NW, Atlanta",33.7577600949,-84.3947303295
+41,2016-06-27 11:41:01,"World of Coca-Cola, 121 Baker St NW, Atlanta",33.7629561946,-84.3931773768
+42,2016-06-27 11:40:22,"The Varsity, 61 North Ave NW, Atlanta",33.7716485965,-84.3893184966
+43,2016-06-27 11:39:49,"Turner Field, 755 Hank Aaron Dr SE, Atlanta",33.7360358805,-84.3895494208
+44,2016-06-27 11:38:57,"Orange Julius, 4400 Ashford Dunwoody Rd NE Ste 1635, Atlanta",33.9239954847,-84.3412409196
+45,2016-06-27 11:38:04,"Grindhouse Killer Burgers, Concourse T, near Gate T10, Atlanta",33.6416193027,-84.4427199241
+46,2016-06-23 21:00:18,"Ponce City Market, 675 Ponce de Leon Ave NE, Atlanta",33.7724784368,-84.3658313485
+47,2016-06-23 20:59:45,"South City Kitchen, 1144 Crescent Ave NE, Atlanta",33.7858976408,-84.384284125
+48,2016-06-23 20:59:08,"Hop's Chicken, 675 Ponce De Leon (Ponce City Market), Atlanta",33.77291859,-84.3657389417
+49,2016-06-23 20:58:33,"FLiP Burger Boutique, 3655 Roswell Rd NE, Atlanta",33.854539744,-84.3823170662
+50,2016-06-22 02:40:41,"Eclipse di Luna, 4505 Ashford Dunwoody Rd NE, Atlanta",33.9250288368,-84.3352265423
+51,2016-06-22 02:39:35,"The Brass Tap, 4505 Ashford Dunwoody Rd NE, Atlanta",33.9248043706,-84.3354782237
+52,2016-06-22 02:38:33,"Bagel Boys Cafe, 6355 Peachtree Dunwoody Rd, Sandy Springs",33.9291034674,-84.35197899
+53,2016-06-10 05:12:47,"Noosa Heads Surf Club, 69 Hastings St., Noosa",-26.3867783546,153.091906
+54,2016-06-10 05:11:49,"Betty's Burgers, 2/50 Hastings Street, Noosa",-26.3872543469,153.091744332
+55,2016-06-10 05:11:06,"Zachary's, 32 Hastings St., Noosa",-26.386765,153.089874025
+56,2016-06-10 05:10:14,"Ricky's Restaurant, 2 Quamby Pl., Noosa",-26.3909780731,153.078540889
+57,2016-06-10 05:08:48,"Bistro C, 49 Hastings St., Noosa",-26.3862689463,153.090705872
+58,2016-06-10 05:07:44,"Aromas, 32 Hastings St, Noosa",-26.3868335963,153.090394735
+59,2016-06-06 06:30:59,"Toby's Estate, T2 Sydney Airport, Mascot",-33.934319453,151.179030941
+60,2016-05-28 06:57:59,"The SG (Spooning Goats), 32 York St., Sydney",-33.8691684002,151.206228733
+61,2016-05-28 06:56:40,"Allianz Stadium, Moore Park Rd., Moore Park",-33.8890886416,151.224824207
+62,2016-05-13 11:44:06,"Vatos Urban Tacos, South Beach, Singapore",1.29625722023,103.856269829
+63,2016-05-12 11:04:33,"Kith Caf, 9 Raffles Blvd, Singapore",1.29178115149,103.859876523
+64,2016-05-08 20:23:05,"Burger Joint, #01-03 115 Amoy Street, Singapore",1.28241797312,103.847504854
+65,2016-05-08 04:51:05,"Holy Goat Coffee, Sydney Airport International Terminal, Mascot",-33.938402,151.165442
+66,2016-05-05 16:39:29,"Kafeine, 57-59 York St., Sydney",-33.8672567023,151.205972578
+67,2016-04-26 15:30:06,"Burgers Anonymous, 80 Oxford St., Sydney",-33.878993,151.215147
+68,2016-04-25 08:19:30,"Daisy's Milkbar, 340 Stanmore Rd., Petersham",-33.8956785958,151.157300007
+69,2016-04-25 04:52:09,"4 Pines Brewing HQ, 9-13 Winbourne Rd, Brookvale",-33.764758556,151.277531835
+70,2016-04-24 08:04:45,"The Collaroy Beach Hotel, 1064, Sydney",-33.7316120543,151.301192729
+71,2016-04-14 18:51:13,"VASHON / SEATTLE'S BEST COFFEE 9d6c1297, 9d6c122-3-27, 71ac",35.6569016584,139.751707164
+72,2016-04-14 18:50:37,"5a1a89fc8193 3138 9d278097, 9d27802-1-15, 71ac",35.656219,139.752759
+73,2016-04-14 18:49:52,"Devil Craft, 5c7e3a2-13-12, 71ac",35.6532338481,139.756071568
+74,2016-04-12 18:30:34,"3c89 4f6b8268 2c97, 5c7e3a2-12-2, 71ac",35.6536900487,139.755028271
+75,2016-04-12 06:21:42,"abecfccfa6b9 CoCof16a4b JR5c7e3ac517e397, 5c7e3a1-27-10, 71ac",35.6567503693,139.75496838
+76,2016-04-12 06:20:23,"444d6a8a!b9c6fcad 71ac6bcd32300b5797, 6bcd322-1, 2d2e3a",35.6794568338,139.768340357
+77,2016-04-10 20:18:35,"Shake Shack, 1752712-1-15, 2f3a",35.6733661823,139.720037772
+78,2016-04-10 07:51:56,"7f1d9c6251, 53e346ce742, 17ac02",39.9692057738,116.314891289
+79,2016-04-10 07:51:09,"17ac2d735187a047e55297 Crowne Plaza Beijing Zhongguancun, 106 Zhichun Rd, 17ac02",39.9745741503,116.316972753
+80,2016-04-10 07:50:30,"Yokohama Stadium, 2d3a2a5c6c12, 2a5c02",35.443313,139.640075
+81,2016-04-10 07:49:25,"adeaf3b7c6a3 CIAL5c283a97, 2d3a5c283a1-1, 2a5c02",35.451446,139.630529
+82,2016-04-10 07:48:48,"Burger Mania, 7dd16-5-7, 71ac",35.6443825927,139.725346863
+83,2016-04-10 07:47:09,"77955e6b05 Haidilao Hot Pot, 23 N 3rd Ring Rd W, 17ac02",39.9647034013,116.336293187
+84,2016-03-12 05:08:42,"In-N-Out Burger, 641 Leavesley Rd, Gilroy",37.0237735055,-121.564179562
+85,2016-03-12 05:08:06,"McDonald's, 8390 Arroyo Cir, Gilroy",37.0235460579,-121.562490629
+86,2016-03-11 23:22:22,"Faultline Brewing Company, 1235 Oakmead Pkwy, Sunnyvale",37.387604713,-121.992525458
+87,2016-03-11 23:21:29,"The Melt, 180 El Camino Real, Palo Alto",37.4431556802,-122.172684073
+88,2016-03-11 23:21:10,"Tap Room, 233 University Ave, Palo Alto",37.445201,-122.162502
+89,2016-03-11 23:20:31,"Taqueria El Grullense, 3636 El Camino Real, Palo Alto",37.4182484687,-122.133146621
+90,2016-03-11 23:19:58,"Gott's Roadside, 65 Town & Country Village, Palo Alto",37.437918014,-122.159733929
+91,2016-02-28 16:31:47,"Little Island Brewing Co., Blk 6 Changi Village Road. #01-01/02., Singapore",1.39001898797,103.988641689
+92,2016-02-21 17:45:41,"Molly Roffey's Irish Pub, #01-13E Esplanade Mall, Singapore",1.2891310922,103.856581235
+93,2016-02-18 11:20:29,"Barrio Cellar, Basement Level, 58 Elizabeth Street, Martin Place",-33.8679056643,151.210377921
+94,2016-02-04 18:06:30,"Bar Luca, 52 Philip Street, Sydney",-33.8641774322,151.211675642
+95,2016-02-02 13:27:25,"Cove Expresso, Manly Wharf, Manly",-33.7997189454,151.284655361
+96,2016-02-01 14:24:54,"Porsena Deli, Pasarbella @ Suntec, Singapore",1.29465246962,103.858829043
+97,2016-01-31 11:12:57,"Wolf Burgers, PasarBella (@ #01-455, Suntec City), Singapore",1.29510531306,103.858761099
+98,2016-01-31 11:11:48,"Hajah Maimunah Restaurant (Arab St), 11 &15 Jln Pisang, Singapore",1.30319980148,103.858587742
+99,2016-01-31 11:11:06,"Jerry's Bar & Grill, 92 Club St, Singapore",1.28165707265,103.845574873
+100,2016-01-31 11:08:14,"Bao Makers, 78 Horne Road, Singapore",1.31054015706,103.860776796
+101,2016-01-31 11:06:47,"Chye Seng Huat Hardware Coffee Bar, 150 Tyrwhitt Rd, Singapore",1.3116302403,103.860403097
+102,2016-01-31 10:56:49,"iNCOGNiTO, 150 Tyrwhitt Road, Singapore",1.311715,103.860449
+103,2016-01-30 11:07:02,"Public House, 42 Circular Road, Singapore",1.28620105932,103.84927187
+104,2016-01-29 22:51:03,"The Butchers Club, 3A River Valley Road #01-01B, Singapore",1.290503,103.845
+105,2016-01-21 18:39:33,"White Rabbit, 28-34 O'Connell St., Sydney",-33.865795594,151.208915151
+106,2016-01-21 18:38:37,"1 Abercrombie Lane, 1 Abercrombie Ln, Sydney",-33.8641395307,151.207742669
+107,2015-12-11 05:16:56,"Porteo, 358 Cleveland St., Surry Hills",-33.8907437648,151.210160851
+108,2015-12-01 11:20:13,"Kansas City Shuffle, 195 Gloucester St., The Rocks",-33.8631197432,151.206040877
+109,2015-11-28 17:27:09,"Bar At The End Of The Wharf, Hickson Rd, Sydney",-33.8543327387,151.205494486
+110,2015-11-28 17:26:19,"Cafe Splat, Queenscliff rd, Manly",-33.7840214768,151.287975226
+111,2015-11-26 14:35:17,"Burger Project, MLC Centre, Sydney",-33.8678144045,151.209461554
+112,2015-11-25 13:55:02,"Eat Istanbul, MLC Centre, Sydney",-33.8682338883,151.209364795
+113,2015-11-25 13:54:25,"Eat Istanbul, MLC Centre, Sydney",-33.8682338883,151.209364795
+114,2015-11-23 16:34:45,"New Shanghai, Westfield Sydney, Sydney",-33.8704844888,151.208704559
+115,2015-11-21 17:12:09,"LongPlay, 4 Haji Lane / 33 Arab Street, Singapore",1.30053106497,103.85942922
+116,2015-11-17 20:14:24,"Foong Kee Coffee Shop, 6 Keong Saik Road, Singapore",1.2794672574,103.841498669
+117,2015-11-16 19:37:57,"Chic-A-Boo, #03-147/148 Marina Square, Singapore",1.2911807287,103.857073825
+118,2015-11-14 17:55:19,"Rosso Espresso, 85 St Georges Tce, Perth",-31.955187,115.85776
+119,2015-11-14 17:54:48,"Tiger Tiger, 329 Murray St, Perth",-31.9522714777,115.855679512
+120,2015-11-12 20:34:54,"Krua Thai, 120 Hannan St, Kalgoorlie",-30.744847,121.475408
+121,2015-11-12 20:34:00,"Cheeky Sparrow, Wolf Ln., Perth",-31.95244302,115.855902
+122,2015-11-12 20:31:28,"Varsity Burgers, 70 Aberdeen St, Northbridge",-31.9466202919,115.859497872
+123,2015-11-10 07:52:30,"Bobeche, 131 St Georges Terrace, Perth",-31.9544362347,115.855154119
+124,2015-11-10 07:51:24,"Gordon St Garage, 16 Gordon St, West Perth",-31.94826537,115.847506169
+125,2015-11-10 07:50:47,"Frisk. Small Bar, 103 Francis St., Northbridge",-31.9465734273,115.856638628
+126,2015-11-10 07:50:16,"Brass Monkey, 209 William St, Northbridge",-31.9489739374,115.859105089
+127,2015-11-10 07:49:09,"The Laneway Lounge, 414a Murray St, Perth",-31.951166153,115.853744507
+128,2015-11-10 07:48:28,"Small Print, Brookfield Place, Perth",-31.9546816394,115.85531008
+129,2015-11-09 21:00:04,"Palace Hotel, 137 Hannan St, Kalgoorlie",-30.7463355643,121.474199295
+130,2015-11-05 17:33:49,"Soda Cafe, West Coast Drv., North Beach",-31.8658268729,115.752891898
+131,2015-11-05 07:23:34,"UWA Guild Tavern, Hackett Dr, Crawley",-31.9809697038,115.819802284
+132,2015-11-05 07:22:44,"Red Rooster, Cnr Beach Rd, Warwick",-31.8448786098,115.812630057
+133,2015-11-05 07:22:34,"Red Rooster, Cnr Beach Rd, Warwick",-31.8448786098,115.812630057

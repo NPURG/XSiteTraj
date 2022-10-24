@@ -1,0 +1,76 @@
+,time,poi,latitude,longitude
+0,2014-05-23 06:47:36,"Everlasting Life Restaurant & Lounge, 9185 Central Ave Ste A, Capitol Heights",38.8893255763,-76.8479882032
+1,2013-09-25 22:48:17,"DC Cafe, 2035 P St NW, Washington",38.9096844314,-77.0465434055
+2,2013-09-15 06:35:01,"Trader Joe's, 160 F Jennifer Rd, Annapolis",38.9893791787,-76.5400878111
+3,2012-04-05 05:54:26,"Vocelli Pizza, 16693 River Ridge Blvd, Woodbridge",38.5879511217,-77.3031703916
+4,2012-03-18 03:14:14,"Chick-fil-A Woodbridge, 2425 Prince William Pkwy, Woodbridge",38.652955011,-77.2868060965
+5,2011-10-18 19:43:45,"Staples, 3600 North Duke St., Durham",36.049576,-78.90464
+6,2011-10-18 19:43:22,"Target, 4310 Fortuna Center Plz, Dumfries",38.5973106467,-77.3330211639
+7,2011-10-18 19:43:01,"Silver Diner, 14375 Smoketown Rd, Woodbridge",38.6392658984,-77.2987747192
+8,2011-10-18 19:42:44,"Pet Nutrition Center, 12468 Dillingham Sq, Woodbridge",38.6838071947,-77.3187202563
+9,2011-10-18 19:42:17,"IHOP, 1821 N Pointe Drive, Durham",36.0291991088,-78.9218489393
+10,2011-09-27 08:12:26,"Walmart Supercenter, 17041 Jefferson Davis Hwy, Dumfries",38.5816277523,-77.3084436656
+11,2011-09-13 06:10:16,"William III, 720 Kennel St SE, Washington",38.8737735809,-76.9958156209
+12,2011-08-23 00:54:30,"Total Wine & More, 6240 Little River Turnpike, Alexandria",38.820099,-77.141484
+13,2011-08-23 00:53:41,"McDonald's, 4835 Silver Hill Rd, Suitland",38.8506113338,-76.9219888998
+14,2011-08-23 00:52:54,"Eddy's Carry Out, 10216 Lake Arbor Way, Mitchellville",38.90598554,-76.8286424875
+15,2011-08-23 00:52:00,"Arby's, 4817 Beauregard St, Alexandria",38.8189945205,-77.1426720329
+16,2011-08-16 01:18:42,"Truckeroo, Half St SE, Washington",38.8755769406,-77.0077108047
+17,2011-08-09 02:14:51,"ZIPS Dry Cleaners, 3930 Fettler Park Dr, Dumfries",38.5823169925,-77.3301962092
+18,2011-08-09 02:14:39,"Fati' African Hair Braiding, 9171 Central Ave, Capitol Heights",38.8890968286,-76.8485400652
+19,2011-07-19 08:23:37,"Wawa, 1401 Hampton Park Blvd, Capitol Heights",38.8700448532,-76.8508206934
+20,2011-07-19 08:22:36,"Chipotle Mexican Grill, 907 Ellsworth Dr, Silver Spring",38.9964321502,-77.0259940624
+21,2011-07-12 00:24:36,"Centralwood Car Wash, 8411 Central Ave, Capitol Heights",38.8892154043,-76.8612265817
+22,2011-07-12 00:24:19,"Chick-fil-A Steeplechase, 9121 Alaking Ct, Capitol Heights",38.8696926736,-76.8488666763
+23,2011-07-12 00:24:06,"LongHorn Steakhouse, 9695 Liberia Ave, Manassas",38.75503,-77.45728
+24,2011-07-12 00:23:48,"Dunkin Donuts, 9183A Central Ave, Capitol Heights",38.8898650025,-76.8493847472
+25,2011-07-05 03:51:09,"Florida Avenue Grill, 1100 Florida Ave NW, Washington",38.9207830922,-77.0271792695
+26,2011-07-05 03:50:55,"Florida Avenue Grill, 1100 Florida Ave NW, Washington",38.9207830922,-77.0271792695
+27,2011-07-05 03:50:47,"Walmart Supercenter, 17041 Jefferson Davis Hwy, Dumfries",38.5816277523,-77.3084436656
+28,2011-07-05 03:50:24,"IHOP, 3914 Fettler Park Drive, Dumfries",38.5823546581,-77.3298204261
+29,2011-07-05 03:49:45,"Dunkin Donuts, 1335 10th St SE Washington Navy Yard, Bldg 184, Washington",38.8736693149,-76.9929752274
+30,2011-06-27 23:51:05,"Redbox, 16712 Jefferson Davis Hwy, Dumfries",38.58914,-77.30496
+31,2011-06-27 23:50:46,"Chipotle Mexican Grill, 10201 Martin Luther King Jr Hwy, Bowie",38.9547433641,-76.8282265452
+32,2011-06-27 23:50:34,"Chick-fil-A Vista Gardens Marketplace, 10631 Martin Luther King Jr Hwy, Bowie",38.9554254998,-76.8234102046
+33,2011-06-27 23:50:06,"Panera Bread, 10531 Martin Luther King Jr Hwy, Bowie",38.9540261084,-76.8227294402
+34,2011-06-21 08:46:51,"Target, 2460 Prince William Pkwy, Woodbridge",38.6543946158,-77.2885442274
+35,2011-06-21 08:46:24,"Matchbox Vintage Pizza Bistro, 521 8th St SE, Washington",38.8821275872,-76.9952025514
+36,2011-06-21 08:45:22,"Redbox, Wegmans, Woodbridge",38.8258266922,-77.4190095704
+37,2011-06-21 08:44:34,"The Chesapeake Room, 501 8th St SE, Washington",38.8826350307,-76.9951856779
+38,2011-06-21 08:44:06,"Matchbox Vintage Pizza Bistro, 521 8th St SE, Washington",38.8821275872,-76.9952025514
+39,2011-06-06 20:00:06,"Wegmans, 14801 Dining Way, Woodbridge",38.6307826879,-77.2892062874
+40,2011-06-06 19:59:36,"BGR - The Burger Joint, 3129 Lee Hwy, Arlington",38.896556988,-77.096637334
+41,2011-06-06 19:58:49,"Elevation Burger, 108 Waterfront St, Oxon Hill",38.7858554334,-77.0152410063
+42,2011-06-06 19:48:29,"Uno Pizzeria & Grill - Bowie, 4001 Town Center Blvd. Bowie Town Center, Bowie",38.94504922,-76.7343426
+43,2011-06-06 19:46:35,"Spirit Of Washington, 600 Water St SW, Washington",38.874521579,-77.021112442
+44,2011-06-06 19:45:47,"Ann Taylor Loft, 15522 emerald way, Bowie",38.9440326104,-76.7349231472
+45,2011-05-28 07:41:44,"Redbox, 4100 Talon Dr, Dumfries",38.586049,-77.335499
+46,2011-05-28 07:40:56,"Chipotle Mexican Grill, 9141 Alaking Ct, Capitol Heights",38.8697520625,-76.8482065201
+47,2011-05-14 01:23:02,"Volvo Cars Fredericksburg, 1001 Noble Way, Fredericksburg",38.3120838292,-77.5059177478
+48,2011-04-12 23:54:05,"The Chesapeake Room, 501 8th St SE, Washington",38.8826350307,-76.9951856779
+49,2011-01-07 23:53:38,"Panera Bread, 10531 Martin Luther King Jr Hwy, Bowie",38.9540261084,-76.8227294402
+50,2011-01-07 00:17:36,"Dunkin Donuts, 3325 Jefferson Davis Hwy, Alexandria",38.8350360491,-77.0511102676
+51,2011-01-06 04:48:29,"Navy Federal Credit Union, 9th and M Streets, SE, Building 218, Washington",38.886953,-76.99329
+52,2010-12-31 07:28:23,"Wegmans, 14801 Dining Way, Woodbridge",38.6307826879,-77.2892062874
+53,2010-12-16 09:18:57,"Wawa, 15809 Jefferson Davis Hwy, Woodbridge",38.6092583091,-77.2905135642
+54,2010-12-09 08:22:01,"Five Guys, 14001 Jefferson Davis Hwy, Woodbridge",38.649469,-77.260466
+55,2010-11-27 04:05:24,"Chipotle Mexican Grill, 7923 L Tysons Corner Center, McLean",38.9173159573,-77.2209692001
+56,2010-11-13 01:06:00,"Wawa, 105 Garrisonville Rd, Stafford",38.4674298725,-77.4117012019
+57,2010-07-31 06:07:57,"Starbucks, 1200 New Jersey Ave SE, Washington",38.8763197077,-77.0038471068
+58,2010-07-24 03:55:53,"The Village Cafe, 1001 W Grace St, Richmond",37.5508551285,-77.453252964
+59,2010-07-23 09:00:55,"McDonald's, 1420 Addison Rd S, Capitol Heights",38.8684573677,-76.8924052126
+60,2010-07-17 21:45:55,"Dunkin Donuts, 18021 Main St, Dumfries",38.5612169667,-77.3306215833
+61,2010-06-25 21:42:13,"Volvo Cars Fredericksburg, 1001 Noble Way, Fredericksburg",38.3120838292,-77.5059177478
+62,2010-06-10 06:09:11,"Wegmans, 14801 Dining Way, Woodbridge",38.6307826879,-77.2892062874
+63,2010-06-05 09:59:10,"Giant Food & Pharmacy, 3500 Crain Hwy, Bowie",38.9371137177,-76.71916008
+64,2010-06-05 09:45:33,"Chipotle Mexican Grill, 15500 Excelsior Dr, Bowie",38.9445239367,-76.7352747917
+65,2010-06-05 08:49:53,"Best Buy, 15800 Collington Rd, Bowie",38.94485771,-76.73085451
+66,2010-03-06 03:16:31,"Calvin Klein, 2700 Potomac Mills Cir, Woodbridge",38.6414955532,-77.2986318197
+67,2010-03-06 02:13:05,"Northern Virginia Oral Maxillofacial Surgical Associates, 2020 Opitz Blvd Ste A, Woodbridge",38.6355593176,-77.2746737729
+68,2010-03-06 01:21:07,"Dunkin Donuts, 8985 Centreville Rd, Manassas",38.7607475871,-77.4606987535
+69,2010-02-28 05:57:04,"Panera Bread, 4402 Fortuna Center Plz, Dumfries",38.597289,-77.334645
+70,2010-02-25 09:20:32,"Panera Bread, 4402 Fortuna Center Plz, Dumfries",38.597289,-77.334645
+71,2010-02-22 04:22:44,"Hollister, 2700 Potomac Mills Cir, Woodbridge",38.6433029059,-77.2940930718
+72,2010-02-21 12:45:35,"Uno Pizzeria & Grill - Bowie, 4001 Town Center Blvd. Bowie Town Center, Bowie",38.94504922,-76.7343426
+73,2010-02-21 08:59:36,"Rams Head Live, 20 Market Pl, Baltimore",39.2893959295,-76.6072626777
+74,2010-02-19 09:37:58,"House of Dynasty, 7550 Telegraph Rd, Alexandria",38.7536021847,-77.1394085884

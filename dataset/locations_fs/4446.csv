@@ -1,0 +1,64 @@
+,time,poi,latitude,longitude
+0,2013-10-09 20:12:24,"Polish Village Cafe, 2990 Yemans St, Hamtramck",42.3982862908,-83.0567800999
+1,2013-09-01 22:02:42,"Kirschbaum's Bakery, 800 Burlington, Western Springs",41.8091488436,-87.8998484406
+2,2013-08-14 04:27:58,"Kramarczuk's East European Deli, 215 E Hennepin Ave, Minneapolis",44.9877488007,-93.2576608658
+3,2013-07-22 03:50:37,"Three Floyds Brewery & Pub, 9750 Indiana Pkwy, Munster",41.5353743701,-87.5164541602
+4,2012-11-24 22:34:40,"Starbucks, 5070 28th St SE, Grand Rapids",42.9104232186,-85.5431556702
+5,2012-10-04 22:45:03,"Sergio's World Beers, 1605 Story Ave, Louisville",38.259176,-85.72138888
+6,2012-06-05 04:45:12,"Red Hat Chicago, 101 N Wacker Dr Ste 150, Chicago",41.8836673295,-87.635857053
+7,2012-06-01 07:20:51,"Wild Monk, 88 S La Grange Rd, La Grange",41.8124510642,-87.8697252274
+8,2012-05-08 04:24:37,"Dunn Bros Coffee, 901 Nicollet Mall, Minneapolis",44.97442652,-93.27362508
+9,2012-04-29 13:16:48,"Mitchell Street Pub, 426 E Mitchell St, Petoskey",45.3739674147,-84.9542745935
+10,2012-03-10 12:51:04,"Serious Cookie, 483 Mandalay Ave, Clearwater",27.9815430049,-82.8271533049
+11,2012-01-07 09:33:05,"Al's Char-House, 32 S La Grange Rd, La Grange",41.8142816042,-87.8697942994
+12,2011-12-12 11:43:14,"Panera Bread, 439 N La Grange Rd, La Grange Park",41.8230898473,-87.8702449488
+13,2011-11-29 05:30:07,"Standard Market, 333 E Ogden Ave, Westmont",41.8096623808,-87.9667662528
+14,2011-09-20 02:53:06,"GRK Greek Kitchen, 219 W Washington St, Chicago",41.8830683234,-87.6345077119
+15,2011-09-03 06:56:24,"UB Dogs, 185 N Franklin St, Chicago",41.8854098353,-87.6352143288
+16,2011-09-03 06:54:13,"The Pasta House Co., 1701 Lambert International Blvd, St Louis",38.7425696661,-90.3660786152
+17,2011-08-13 23:51:59,"Aurelio's Pizza - LaGrange, 11 W Calendar Ave, La Grange",41.815156,-87.870357
+18,2011-07-19 22:04:15,"Four Points by Sheraton Minneapolis Airport, 7745 Lyndale Ave S, Richfield",44.8632984457,-93.2877076681
+19,2011-03-14 00:20:53,"Starbucks, 1900 W Montrose Ave, Chicago",41.961671,-87.676137
+20,2011-03-04 09:04:25,"#WolfgangPuck Express, St Louis Airport, St Louis",38.74236,-90.3636968136
+21,2011-02-20 02:26:00,"Floyd's 99 Barbershop, 71 A S La Grange Rd, La Grange",41.8133834904,-87.869310086
+22,2011-02-13 08:14:11,"Andies Restaurant, 1467 W Montrose Ave, Chicago",41.9615726293,-87.6675406422
+23,2011-02-08 03:02:41,"Burger Island #2, 1600 Independence Pkwy, Plano",33.02114,-96.749533
+24,2011-01-26 01:34:39,"Legacy Dry Cleaners, 7200 Bishop Rd Ste D2, Plano",33.0759926366,-96.8204065531
+25,2011-01-25 09:26:26,"369 Chinese BBQ, 4140 Legacy Dr #310, Plano",33.06986,-96.7744606733
+26,2011-01-13 00:32:01,"Bulkogi Korean BBQ, 340 SW 5th Ave, Portland",45.5208800929,-122.676208257
+27,2011-01-12 01:02:58,"The Club Lounge, 525 SW Morrison St, Portland",45.5191504598,-122.678049803
+28,2011-01-09 02:19:11,"Anna Maria Pasteria, 4400 N Clark St, Chicago",41.9616732715,-87.6661055534
+29,2010-12-07 22:06:46,"Kenny's Burger Joint, 1377 Legacy Dr, Frisco",33.089153,-96.83968505
+30,2010-12-06 22:12:26,"Sheraton Stonebriar, 5444 State Highway 121, Frisco",33.0875891451,-96.8408708844
+31,2010-11-18 11:16:20,"Fireside Pies, 5717 Legacy Dr, Plano",33.0782819557,-96.8208827599
+32,2010-09-25 03:33:34,"TownePlace Suites Kalamazoo, 5683 S. 9th Street, Kalamazoo",42.2344594751,-85.6763756275
+33,2010-08-23 01:15:24,"Pizza Hut, 2309 W Lawrence Ave, Chicago",41.9686091737,-87.6869628663
+34,2010-08-21 22:11:07,"Red Eyes Coffee, 4164 N Lincoln Ave, Chicago",41.957709,-87.6814530237
+35,2010-08-17 08:11:36,"Courtyard Little Rock Downtown, 521 President Clinton Avenue, Little Rock",34.7473957304,-92.2642189264
+36,2010-08-11 20:54:31,"Boulevard Bread Company, 400 President Clinton Ave, Little Rock",34.747543,-92.265762
+37,2010-08-08 07:54:55,"El Gallo Bravo #5, 1429 W Montrose Ave, Chicago",41.9615367105,-87.6662596591
+38,2010-08-08 07:54:17,"Sarpino's Pizza, 1425 W Montrose Ave, Chicago",41.9615416469,-87.6663415275
+39,2010-07-29 09:23:59,"Courtyard Little Rock West, 10900 Financial Centre Pkwy, Little Rock",34.7486651661,-92.3969775438
+40,2010-07-21 23:33:54,"Umaiya, 1605 W Montrose Ave, Chicago",41.9616734543,-87.66963059
+41,2010-07-12 07:41:37,"Chase Park, 4701 N Ashland Ave, Chicago",41.9671646197,-87.6692461967
+42,2010-07-02 20:34:09,"Prt A Manger, 211 W Adams St, Chicago",41.879204,-87.63518
+43,2010-05-10 19:50:15,"Highland Queen Drive-In Ice Cream, 1511 W 55th St, La Grange Highlands",41.7899376154,-87.8888332844
+44,2010-04-25 04:42:34,"Jaiya, 396 3rd Ave, New York",40.7421717896,-73.9807962202
+45,2010-01-24 09:15:19,"Duke Of Perth, 2913 N Clark St, Chicago",41.9352708125,-87.6467756106
+46,2010-01-11 00:08:26,"Montrose Beach, 4400 N Lake Shore Dr, Chicago",41.966646,-87.638015
+47,2010-01-10 12:58:12,"Lou Malnati's Pizzeria, 6649 N Lincoln Ave, Lincolnwood",42.0021119019,-87.7255708293
+48,2009-11-22 08:33:43,"Romano's Macaroni Grill, Terminal 3, Gate K3, Chicago",41.9758591654,-87.9007959366
+49,2009-10-27 07:03:49,"Umaiya, 1605 W Montrose Ave, Chicago",41.9616734543,-87.66963059
+50,2009-10-11 01:08:24,"Five Guys, 2140 N Clybourn Ave, Chicago",41.92011875,-87.662402
+51,2009-09-25 01:37:02,"Venice Caf, 500 W Monroe St, Chicago",41.8806620827,-87.6402999585
+52,2009-09-24 00:49:30,"Ditka's, 100 E Chestnut St, Chicago",41.8984466293,-87.6253504162
+53,2009-09-19 22:30:32,"Lincoln Park Zoo, 2001 N Clark St, Chicago",41.9213526287,-87.6337751958
+54,2009-09-16 07:47:48,"Zatterberg (Helen) Park, 4246 N Hermitage Ave, Chicago",41.9591808716,-87.6723223401
+55,2009-09-16 07:46:25,"Carol's Pub, 4659 N Clark St, Chicago",41.9669527534,-87.6669338652
+56,2009-08-13 09:59:41,"Pequod's Pizzeria, 2207 N Clybourn Ave, Chicago",41.92189,-87.66452
+57,2009-06-29 08:54:33,"Great Harvest Bread, 2126 Central St, Evanston",42.0643935081,-87.7031625743
+58,2009-04-27 21:36:46,"Mixteco Grill, 1601 W Montrose Ave, Chicago",41.96152328,-87.6694
+59,2009-04-27 11:28:29,"Hopleaf Bar, 5148 N Clark St, Chicago",41.9758870818,-87.6684522629
+60,2009-04-18 09:44:04,"Glenn's Diner & Seafood House, 1820 W Montrose Ave, Chicago",41.9616114061,-87.6754328227
+61,2009-04-16 21:20:39,"Monk's Pub, 205 W Lake St, Chicago",41.8855695835,-87.6342916489
+62,2009-04-15 01:49:21,"Arie Crown Theater, 2301 S Lake Shore Dr, Chicago",41.8520575179,-87.6122764031

@@ -1,0 +1,111 @@
+,time,poi,latitude,longitude
+0,2014-09-02 02:27:27,"Kids' Hair, 8251 Flying Cloud Dr, Eden Prairie",44.8541328143,-93.4242460856
+1,2014-08-07 06:42:25,"Tommy's Malt Shop, 2 River Bend Pl, Chaska",44.784043827,-93.6002472843
+2,2013-12-13 09:04:06,"Perkins Restaurant & Bakery, 1207 N 25th St, Clear Lake",43.146551863,-93.3579742377
+3,2013-09-30 07:15:18,"Target, 8225 Flying Cloud Dr, Eden Prairie",44.8557623304,-93.425245285
+4,2013-08-11 20:28:39,"Des Moines International Airport (DSM), 5800 Fleur Dr, Des Moines",41.5332093165,-93.6500687778
+5,2013-07-28 07:44:12,"Perkins Restaurant & Bakery, 184 Pioneer Trl, Chaska",44.8295722737,-93.6015330181
+6,2013-06-18 00:05:52,"Weber Shandwick Engagement Lab, 8000 Norman Center Dr Fl 5, Bloomington",44.8523905408,-93.3513017561
+7,2013-04-15 09:24:33,"Pizza Ranch, 1266 Vierling Dr E, Shakopee",44.7797635869,-93.506872606
+8,2013-04-07 05:06:12,"Osman shrine circus, State Fair Coliseum, Saint Paul",44.9781808206,-93.1744774456
+9,2013-03-14 00:12:21,"Austin Bergstrom International Airport (AUS), 3600 Presidential Blvd, Austin",30.202491212,-97.6669793192
+10,2013-03-03 23:38:34,"Kum & Go, 409 Nile Kinnick Dr, Adel",41.6142940816,-94.0175108163
+11,2013-03-03 02:22:35,"QuikTrip, 11925 University Ave, Clive",41.600910634,-93.782048492
+12,2012-12-23 00:40:03,"Bakers Square, 1310 NW 114th St, Clive",41.6020109621,-93.7719599649
+13,2012-12-23 00:37:39,"Jordan Creek Town Center, 101 Jordan Creek Pkwy, West Des Moines",41.5698856484,-93.8042770975
+14,2012-11-05 00:06:39,"Cross of Grace Church, 1661 Park Ridge Dr, Chaska",44.8059551608,-93.5940957069
+15,2012-10-02 04:15:09,"Highway 212 Medical Center, 2265 N Chestnut St, Chaska",44.8181013137,-93.6010780624
+16,2012-09-23 20:04:56,"Hy-Vee, 1700 Valley West Dr, West Des Moines",41.5975886633,-93.7533761111
+17,2012-09-22 08:03:35,"Kum & Go, 1111 IA Highway 175, Ellsworth",42.3096849895,-93.572607032
+18,2012-09-20 01:59:13,"Poor Richard's Commonhouse, 8301 Normandale Blvd, Bloomington",44.8525709727,-93.3495452132
+19,2012-07-07 07:19:36,"Mills Fleet Farm, 1935 Levi Griffin Rd, Carver",44.7796209207,-93.6504895266
+20,2012-06-10 23:36:54,"Buzzard Billy's, 615 3rd St, Des Moines",41.5901549161,-93.6211752892
+21,2012-06-10 01:47:40,"QuikTrip, 1900 SE 37th St, Grimes",41.6579794195,-93.7741432444
+22,2012-06-09 06:34:18,"Target, 11148 Plum Dr, Urbandale",41.6474224711,-93.7677526474
+23,2012-06-09 06:32:32,"Greater Des Moines Botanical Garden, 909 Robert D Ray Dr, Des Moines",41.5966542127,-93.6139655113
+24,2012-06-09 04:42:00,"I-35 Rest Area, Exit 119, Story City",42.1096211953,-93.5569524765
+25,2012-06-01 21:02:23,"Caribou Coffee, 8000 Normandale Center Drive, Bloomington",44.8522653,-93.35171655
+26,2012-05-31 08:55:03,"Chanticlear Stadium Pizza, 207 Washington Ave N, Minneapolis",44.9838085679,-93.2718765736
+27,2012-05-30 05:12:23,"Tiger Sushi, 224 W Market, Bloomington",44.8547038714,-93.2435162467
+28,2012-05-30 05:09:34,"Yeager Airport (CRW), 100 Airport Rd, Charleston",38.3706835928,-81.5964855679
+29,2012-05-30 01:07:52,"Taco Bell, 301 Maccorkle Ave, Saint Albans",38.389066,-81.83345
+30,2012-05-28 04:51:12,"Panera Bread, 2830 Mountaineer Blvd, Charleston",38.3174845679,-81.7183685303
+31,2012-05-28 00:15:47,"Buffalo Wild Wings, 2501 Mountaineer Blvd, Charleston",38.3227526643,-81.7151767944
+32,2012-05-27 07:54:24,"Target, 30 R H L Blvd, Charleston",38.3381474933,-81.7143483416
+33,2012-05-26 08:08:05,"Verizon Wireless (Shock City Cellular), Trails Travel Center, 810 Happy Trails Ln, Albert Lea",43.6571634682,-93.3173530324
+34,2012-05-20 05:49:16,"Papa Murphy's, 7878 Market Blvd, Chanhassen",44.8606999654,-93.5397512384
+35,2012-05-07 07:52:30,"Kwik Trip, 8921 Crossroads Blvd, Chanhassen",44.8425481102,-93.5399043507
+36,2012-04-30 01:50:44,"Shell, 904 Cardinal Ave, Dows",42.67418358,-93.4620013
+37,2012-04-28 22:09:28,"Jordan Creek Town Center, 101 Jordan Creek Pkwy, West Des Moines",41.5698856484,-93.8042770975
+38,2012-04-28 22:07:30,"Fong's Pizza, 223 4th St, Des Moines",41.5859582959,-93.6219162921
+39,2012-04-28 22:06:19,"Drake Stadium, Drake University, Des Moines",41.6049866987,-93.655553638
+40,2012-04-28 21:56:50,"Target, 11148 Plum Dr, Urbandale",41.6474224711,-93.7677526474
+41,2012-04-08 06:13:08,"The Home Depot, 300 Pioneer Trail E, Chaska",44.8310902719,-93.6002126689
+42,2012-04-08 02:09:37,"Holiday Station Store, 123 W Market, Bloomington",44.8548648735,-93.2444000244
+43,2012-04-08 02:08:01,"Bruegger's, 9641 Anderson Lakes Pkwy, Eden Prairie",44.83624329,-93.40009689
+44,2012-04-08 02:06:46,"Lunds & Byerlys, 5159 W 98th St, Bloomington",44.824160388,-93.3490276337
+45,2012-04-08 02:06:10,"Kowalski's Market, 1261 Grand Ave, Saint Paul",44.9401932975,-93.1537389943
+46,2012-04-08 02:05:21,"Cub Foods, 4801 County Road 101, Minnetonka",44.9159819592,-93.5022380614
+47,2012-04-08 01:57:52,"Lakewinds Natural Foods, 435 Pond Promenade, Chanhassen",44.857169332,-93.5317504406
+48,2012-04-08 01:56:09,"Science Museum of Minnesota, 120 Kellogg Blvd W, Saint Paul",44.9426013907,-93.0985218778
+49,2012-04-08 01:54:44,"Eden Prairie Center, 8251 Flying Cloud Dr, Eden Prairie",44.8542577933,-93.4244579749
+50,2012-04-08 01:52:32,"Costco Wholesale, 5801 W 16th St, Saint Louis Park",44.966939112,-93.3539326737
+51,2012-04-08 01:51:50,"Toys""R""Us, 14100 Wayzata Blvd, Minnetonka",44.9722096926,-93.4560297473
+52,2012-04-08 01:50:34,"IKEA Twin Cities, 8000 Ikea Way, Bloomington",44.8584348145,-93.2445767268
+53,2012-04-08 01:49:44,"Champps, 8010 Glen Lane, Eden Prairie",44.8588761355,-93.4283460575
+54,2012-04-06 20:20:11,"Caribou Coffee, 8000 Normandale Center Drive, Bloomington",44.8522653,-93.35171655
+55,2011-12-27 11:18:57,"Kum & Go, 2905 4th Ave S, Clear Lake",43.1336922188,-93.3535270759
+56,2011-12-27 03:31:01,"Rest Area, Interstate 80 Westbound, Underwood",41.4038114078,-95.6588772049
+57,2011-12-25 05:38:54,"Kowalski's Market, 1261 Grand Ave, Saint Paul",44.9401932975,-93.1537389943
+58,2011-12-25 05:33:14,"US Post Office, 4023 Urbandale Ave, Des Moines",41.619963,-93.6715054333
+59,2011-12-23 08:50:20,"Red Lobster, 3838 Westown Pkwy, West Des Moines",41.5950146609,-93.7564167308
+60,2011-12-23 01:27:31,"The Tavern II, 1755 50th St, West Des Moines",41.5974880935,-93.7706004246
+61,2011-12-22 23:59:13,"Caribou Coffee, 6228 Penn Avenue South, Richfield",44.889536,-93.3091753721
+62,2011-12-22 07:38:38,"John & Nicks Steak & Prime Rib, 15970 Hickman Rd, Clive",41.6143162953,-93.8379561421
+63,2011-12-22 07:17:01,"Hy-Vee Gas, 7280 University Ave, West Des Moines",41.59978327,-93.80727768
+64,2011-12-22 07:16:15,"US Post Office, 2323 Forest Ave, Des Moines",41.6043332806,-93.6492074912
+65,2011-12-22 07:15:22,"Kum & Go, 409 Nile Kinnick Dr, Adel",41.6142940816,-94.0175108163
+66,2011-12-22 02:07:34,"Bakers Square, 1310 NW 114th St, Clive",41.6020109621,-93.7719599649
+67,2011-12-22 01:43:01,"Best Buy, 6825 Mills Civic Pkwy, West Des Moines",41.56305141,-93.8016665
+68,2011-12-22 01:41:09,"Best Buy, 6825 Mills Civic Pkwy, West Des Moines",41.56305141,-93.8016665
+69,2011-12-22 01:39:43,"Buffalo Wild Wings, 6925 Mills Civic Pkwy Ste 115, West Des Moines",41.5649218172,-93.8035440445
+70,2011-12-22 01:38:49,"Portrait Innovations, 6925 Mills Civic Pkwy, West Des Moines",41.5650622114,-93.802459925
+71,2011-12-21 06:39:45,"Shugars Super Val, Nile Kinnick, Adel",41.6099646597,-94.0172919987
+72,2011-12-21 01:25:01,"Cracker Barrel Old Country Store, 11701 University Avenue I-35/80 & University Avenue, Clive",41.60097549,-93.78022219
+73,2011-12-20 10:45:57,"Casey's General Store, 10010 NW 62nd Ave, Johnston",41.6725009495,-93.7564613742
+74,2011-12-20 07:48:47,"Casey's General Store, 206 E 1st St, Grimes",41.6880243209,-93.7931746244
+75,2011-12-20 01:45:13,"The Corn Patch, 312 E 1st St, Grimes",41.6885433617,-93.7914192634
+76,2011-12-20 01:44:15,"Kum & Go, 801 N 1st St, Grimes",41.6888738945,-93.7843513184
+77,2011-12-20 01:26:36,"Wells Fargo Bank, 9801 University Ave, Clive",41.601040411,-93.7529644262
+78,2011-12-20 00:39:57,"Target, 1800 Valley West Dr, West Des Moines",41.5993725983,-93.7528602655
+79,2011-12-18 00:56:59,"Jo Stop Convenience Store, 700 Diamond Jo Ln, Northwood",43.44655539,-93.35439126
+80,2011-12-18 00:51:47,"Iowa Welcome Center, 4705 Wheelerwood Rd, Northwood",43.4455410993,-93.3541999428
+81,2011-12-07 09:44:59,"Tommy's Malt Shop, 2 River Bend Pl, Chaska",44.784043827,-93.6002472843
+82,2011-11-27 06:01:27,"Dows Rest Area, I-35, Dows",42.6725508474,-93.4601964443
+83,2011-11-26 09:16:34,"Chili's Grill & Bar, 11411 Forest Ave, Clive",41.602222,-93.773406
+84,2011-11-26 03:38:51,"BP, NW 86th St 1229, Des Moines",41.6007464975,-93.7359196314
+85,2011-11-26 01:19:38,"Applebee's, 11410 Forest Rd., Clive",41.6011916,-93.77433259
+86,2011-11-26 00:35:44,"Kum & Go, 409 Nile Kinnick Dr, Adel",41.6142940816,-94.0175108163
+87,2011-11-25 11:06:24,"Walmart Supercenter, 2150 E 1St St, Grimes",41.6859501359,-93.7714737018
+88,2011-11-25 08:23:27,"Perkins Restaurant & Bakery, 1245 Jordan Creek Pkwy, West Des Moines",41.5869592008,-93.809629692
+89,2011-11-25 08:14:14,"Perkins Restaurant & Bakery, 1245 Jordan Creek Pkwy, West Des Moines",41.5869592008,-93.809629692
+90,2011-11-24 00:33:24,"Target, 5901 Douglas Ave, Des Moines",41.630361606,-93.6998503722
+91,2011-11-23 23:45:29,"Merle Hay Mall, 3800 Merle Hay Rd, Des Moines",41.6314031764,-93.7004003632
+92,2011-11-23 23:10:17,"Casey's General Store, 1202 Sugar Grove Ave, Dallas Center",41.688038684,-93.9589280555
+93,2011-07-30 05:32:02,"Chasers Beverage Center, 3050 Chaska Blvd, Chaska",44.7907081735,-93.5997280551
+94,2011-06-12 06:56:50,"Greysolon Ballroom, 231 E Superior St, Duluth",46.78972,-92.094832
+95,2011-06-12 04:07:17,"Duluth Lift Bridge, S Lake Ave, Duluth",46.7789548895,-92.0929062366
+96,2011-05-22 02:17:46,"US Post Office, 8725 Columbine Rd, Eden Prairie",44.8456278405,-93.4412000906
+97,2011-04-18 01:14:09,"Cooper's County Market, 710 N Walnut St, Chaska",44.7914328713,-93.6002720097
+98,2011-02-07 00:27:22,"Village Inn, 8510 Birchwood Ct, Johnston",41.6544068841,-93.7357807971
+99,2011-02-06 08:34:52,"Sports Page Bar & Grill, 1802 W 2nd Ave, Indianola",41.3565999952,-93.5843711871
+100,2010-12-24 05:54:32,"Hyatt Place Des Moines/Downtown, 418 6th Ave, Des Moines",41.587539,-93.625499
+101,2010-12-23 05:15:45,"Josephs Jewelers, 5425 Mills Civic Pkwy, West Des Moines",41.559812,-93.78088
+102,2010-10-07 00:20:46,"Walmart Supercenter, 12195 Singletree Ln, Eden Prairie",44.856144269,-93.4320077374
+103,2010-08-08 22:08:29,"Embassy Suites by Hilton Des Moines Downtown, 101 E Locust St, Des Moines",41.5883240309,-93.6157623532
+104,2010-08-07 09:00:59,"Embassy Suites by Hilton Des Moines Downtown, 101 E Locust St, Des Moines",41.5883240309,-93.6157623532
+105,2010-06-15 20:04:26,"Caribou Coffee, 2111 Snelling Avenue North, Roseville",45.00479876,-93.16731406
+106,2010-04-03 07:17:55,"SuperAmerica, 13195 Pioneer Trl, Eden Prairie",44.828332,-93.444493
+107,2010-03-21 08:49:23,"Kohl's, 7931 Southtown Ctr, Bloomington",44.860808,-93.306087
+108,2010-03-21 08:09:37,"Babies""R""Us, 900 W 78th St, Richfield",44.862809,-93.291296
+109,2009-12-13 00:53:02,"Kwik Trip, 2201 W 78th St, Chanhassen",44.8641160511,-93.5781229895

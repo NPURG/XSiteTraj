@@ -1,0 +1,78 @@
+,time,poi,latitude,longitude
+0,2014-10-31 10:48:37,"Umami Burger, 500 Broadway, Santa Monica",34.0154904357,-118.49186182
+1,2014-10-26 15:29:28,"SHOREbar, 112 W Channel Rd, Santa Monica",34.02837984,-118.518930674
+2,2014-04-12 23:30:43,"Plow, 1299 18th St, San Francisco",37.7626490352,-122.395442269
+3,2014-04-09 07:13:16,"Goody Cafe, Fort Mason Center, San Francisco",37.806422,-122.43132
+4,2014-03-09 04:31:36,"Turf N' Surf Poboys, 407 Lavaca St, Austin",30.2671663094,-97.7457046509
+5,2014-02-02 11:47:51,"Lolinda, 2518 Mission St, San Francisco",37.7568049127,-122.418808937
+6,2014-01-30 07:09:57,"Verve Coffee Roasters, 1540 Pacific Ave., Santa Cruz",36.9761975185,-122.026704244
+7,2014-01-07 03:30:50,"Indian Oven, 233 Fillmore St, San Francisco",37.7717041097,-122.430419859
+8,2013-11-17 05:01:28,"Cafe Gratitude, 512 Rose Ave Unit A, Venice",33.9981397702,-118.473830555
+9,2013-11-13 02:18:53,"Flake, 513 Rose Ave, Venice",33.998374,-118.473671
+10,2013-11-11 05:04:16,"Cafe Gratitude, 512 Rose Ave Unit A, Venice",33.9981397702,-118.473830555
+11,2013-07-05 12:56:58,"Cassiano's Pizza, 930 3rd Ave, New York",40.7593709547,-73.9681293626
+12,2013-02-07 01:45:21,"GTA  (Gjelina Take Away), 1427 Abbot Kinney Blvd, Venice",33.9904950686,-118.465104974
+13,2013-01-01 03:37:38,"Huckleberry Cafe & Bakery, 1014 Wilshire Blvd, Santa Monica",34.0239065561,-118.492055843
+14,2012-12-17 09:42:15,"Cerveteca Venice, 523 Rose Ave, Venice",33.9985888756,-118.47330019
+15,2012-11-16 06:03:04,"Venice Ale House, 2 Rose Ave, Venice",33.994598,-118.480366
+16,2012-06-11 02:20:57,"Shade Hotel, 1221 N Valley Dr, Manhattan Beach",33.8864487226,-118.408488035
+17,2012-06-08 03:26:44,"Venice Beach Boardwalk, Ocean Front Walk, Venice",33.9875008398,-118.474155617
+18,2012-06-05 11:18:11,"Los Angeles International Airport (LAX), 1 World Way, Los Angeles",33.9428692485,-118.40485175
+19,2012-06-02 09:25:25,"Sports Basement, 610 Old Mason St, San Francisco",37.8031933197,-122.45855391
+20,2012-05-31 09:01:59,"NextSpace San Francisco, 28 2nd St Fl 3, San Francisco",37.7888867368,-122.400902062
+21,2012-05-31 06:42:11,"Savant Wellness, 1 Shrader St Ste 550, San Francisco",37.7745734034,-122.453291416
+22,2012-05-26 11:10:05,"Epicenter Cafe, 764 Harrison St, San Francisco",37.7814803347,-122.398933768
+23,2012-05-25 22:56:14,"94123 LGW CC 94123, 2000 Greenwich St, San Francisco",37.799514,-122.432784
+24,2012-05-25 06:13:54,"Beach Hut Caf, 1199 East Beach, San Francisco",37.8059970825,-122.44914832
+25,2012-05-25 03:55:23,"Blue Barn Gourmet, 2105 Chestnut St, San Francisco",37.800587,-122.438143
+26,2012-05-24 07:48:13,"Blue Barn Gourmet, 2105 Chestnut St, San Francisco",37.800587,-122.438143
+27,2012-05-24 02:11:29,"Donahue's Marina Lounge, 2138 Chestnut St, San Francisco",37.800650671,-122.43860395
+28,2012-05-23 00:13:43,"La Boulangerie de San Francisco, 1909 Union St, San Francisco",37.7975446844,-122.430961798
+29,2012-05-22 15:45:22,"Safeway, 15 Marina Blvd, San Francisco",37.8045623549,-122.43288517
+30,2012-05-08 03:39:44,"Abbot's Habit, 1401 Abbot Kinney Blvd, Venice",33.9907242874,-118.465857787
+31,2012-04-27 09:00:37,"Intelligentsia Coffee & Tea, 1331 Abbot Kinney Blvd, Venice",33.9910867996,-118.466930017
+32,2012-04-14 09:38:05,"Crave, 2164 Polk St, San Francisco",37.7967967804,-122.421953076
+33,2012-04-13 16:22:32,"Boom Boom Room, 1601 Fillmore St, San Francisco",37.7845472001,-122.433157177
+34,2012-04-11 12:23:22,"Bloodhound, 1145 Folsom St, San Francisco",37.7759217685,-122.408895493
+35,2012-03-29 08:15:35,"Intelligentsia Coffee & Tea, 1331 Abbot Kinney Blvd, Venice",33.9910867996,-118.466930017
+36,2012-03-29 07:55:30,"Gjelina, 1429 Abbot Kinney Blvd, Venice",33.9905041397,-118.464978039
+37,2012-03-15 14:06:39,"Kebabalicious, 1311 E 7th St, Austin",30.2644668388,-97.7283486453
+38,2012-01-31 04:58:26,"Starbucks, 1960 Squaw Valley Rd, Olympic Valley",39.1969130964,-120.235194755
+39,2012-01-12 04:23:33,"Mixt Greens, 120 Sansome St, San Francisco",37.7915342993,-122.40075767
+40,2011-12-15 04:36:20,"Venice Ale House, 2 Rose Ave, Venice",33.994598,-118.480366
+41,2011-11-19 17:35:59,"Seven Bar Lounge, 555 W 7th St, Los Angeles",34.047437477,-118.256565274
+42,2011-11-15 02:40:16,"Peet's Coffee & Tea, 370 4th St, San Francisco",37.7811623502,-122.40034461
+43,2011-11-08 17:34:54,"The Creamery, 685 4th St, San Francisco",37.7773726801,-122.395154613
+44,2011-11-08 17:33:25,"Caffe Centro, 102 South Park, San Francisco",37.7816338068,-122.394201525
+45,2011-11-08 17:32:04,"Epicenter Cafe, 764 Harrison St, San Francisco",37.7814803347,-122.398933768
+46,2011-11-01 04:24:13,"Epicenter Cafe, 764 Harrison St, San Francisco",37.7814803347,-122.398933768
+47,2011-10-27 11:20:05,"Cerveteca Venice, 523 Rose Ave, Venice",33.9985888756,-118.47330019
+48,2011-10-27 04:37:10,"SuperFood Cafe, 530 Wilshire Blvd, Santa Monica",34.020529,-118.496574
+49,2011-09-24 06:54:23,"Contraband Coffeebar, 1415 Larkin St, San Francisco",37.7910642148,-122.419055079
+50,2011-09-14 14:18:58,"The Brazen Head, 3166 Buchanan St, San Francisco",37.79942056,-122.432615249
+51,2011-08-19 00:44:19,"Flake, 513 Rose Ave, Venice",33.998374,-118.473671
+52,2011-08-19 00:43:59,"San Francisco Bagelry, 2139 Polk St, San Francisco",37.7964711989,-122.422024972
+53,2011-07-21 22:14:59,"Gjelina, 1429 Abbot Kinney Blvd, Venice",33.9905041397,-118.464978039
+54,2011-06-23 16:57:45,"25, 7000 Hollywood Blvd, Los Angeles",34.1015176255,-118.341854445
+55,2011-04-27 09:54:45,"San Francisco International Airport (SFO), N McDonnell Rd, San Francisco",37.6165694807,-122.387393122
+56,2011-04-17 00:08:00,"Moby Dick House of Kabob, 6854 Old Dominion Dr, Mc Lean",38.9357479679,-77.1817874908
+57,2011-04-16 01:45:02,"Pitango Gelato, 11942 Democracy Dr, Reston",38.958252,-77.35920047
+58,2011-04-02 05:22:47,"Blue Barn Gourmet, 2105 Chestnut St, San Francisco",37.800587,-122.438143
+59,2011-03-19 11:07:13,"Koriente Restaurant, 621 E 7th St, Austin",30.267046,-97.735982
+60,2011-03-07 10:00:52,"Ruby's Diner, Terminal E, Houston",29.9863844938,-95.3337366976
+61,2011-03-02 13:40:27,"Swensen's Ice Cream, 1999 Hyde St, San Francisco",37.799060629,-122.419224679
+62,2011-02-19 15:40:19,"Kitchen, 6/F, W Hong Kong, 1 Austin Rd W, West Kowloon",22.304754439,114.160136574
+63,2011-02-16 13:28:34,"ThreeSixty, 3-4/F, The Landmark, 2db0",22.2805339483,114.157900214
+64,2011-02-10 07:56:44,"The Peninsula Beijing, 8 Goldfish Lane, Wangfujing, 17ac02",39.9137850877,116.409888268
+65,2011-02-08 14:12:50,"The Peninsula Beijing, 8 Goldfish Lane, Wangfujing, 17ac02",39.9137850877,116.409888268
+66,2011-02-07 04:40:01,"La Locanda, 35-37 Heddon St, London",51.511471,-0.139516
+67,2010-12-03 21:51:58,"Kaffe 1668, 275 Greenwich St, New York",40.7149316825,-74.0114378929
+68,2010-11-15 09:13:49,"St. Dominic's Catholic Church, 2390 Bush St, San Francisco",37.787226261,-122.435601348
+69,2010-10-27 05:04:33,"Lucca's Delicatessen, 2120 Chestnut St, San Francisco",37.80064,-122.43834
+70,2010-10-24 06:13:51,"Madrone Art Bar, 500 Divisadero St, San Francisco",37.7742066269,-122.437442243
+71,2010-05-15 03:28:45,"Balboa Cafe, 3199 Fillmore St, San Francisco",37.7988179773,-122.435910702
+72,2010-05-09 02:10:33,"The Plant, 3352 Steiner St, San Francisco",37.8004170247,-122.437691689
+73,2010-04-07 04:27:00,"Blue Barn Gourmet, 2105 Chestnut St, San Francisco",37.800587,-122.438143
+74,2010-04-04 01:19:48,"The Plant, 3352 Steiner St, San Francisco",37.8004170247,-122.437691689
+75,2010-03-30 02:16:19,"The Dam Cafe, 55 W Lake Blvd., Sunnyside-Tahoe City",39.167108,-120.144894
+76,2009-11-16 04:10:17,"The Plant, 3352 Steiner St, San Francisco",37.8004170247,-122.437691689

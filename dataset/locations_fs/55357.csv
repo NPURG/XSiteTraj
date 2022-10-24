@@ -1,0 +1,38 @@
+,time,poi,latitude,longitude
+0,2016-08-27 05:39:08,"Sibi40la, C. Blanquerna, 7, Palma",39.578593,2.650875
+1,2016-08-23 15:58:50,"La Molienda Cafe, C. Bisbe Campins, 11, Palma",39.5750751637,2.64564683029
+2,2016-08-23 01:03:56,"Es Rac des Port, C. Santa Catalina, 6, Port de Soller",39.7981188702,2.69426840927
+3,2016-08-23 01:01:48,"Es Rac des Port, C. Santa Catalina, 6, Port de Soller",39.7981188702,2.69426840927
+4,2016-08-23 00:59:51,"Estaci del Ferrocarril de Sller, Eusebi Estada, 1, Palma",39.5767889368,2.654103341
+5,2016-08-23 00:57:41,"Autobs, Cetre, Sller",39.7673561017,2.709851861
+6,2016-07-24 04:01:33,"Madame Jeanette, Javastraat 54, Amsterdam",52.3637526682,4.93389836785
+7,2016-07-14 14:04:19,"Bloemen Op Locatie - de winkel, Javaplein 4, Amsterdam",52.3640453271,4.93930181536
+8,2016-07-14 14:01:07,"Cocomo Beachclub, Strandweg 1, Den Haag",52.112285703,4.2781417709
+9,2016-01-11 16:21:33,"Brasserie Luden, Spuistraat 304, Amsterdam",52.3693205304,4.88857474485
+10,2015-09-14 00:50:45,"Grand Caf de Tropen, Koninklijk Instituut voor de Tropen, Amsterdam",52.362529,4.921889
+11,2015-03-16 05:10:01,"Le Bistrot d'Henri, 16 rue Princesse, Paris",48.8521128326,2.3345334752
+12,2014-11-30 01:51:35,"Gare de l'Est, Cruquiusweg 9, Amsterdam",52.368565,4.93535
+13,2014-09-03 00:31:49,"Yatta Sushi, Linnaeusstraat 227, Amsterdam",52.3561442005,4.92966365949
+14,2014-08-19 05:20:47,"Comestibles Kinders, Westerstraat 189, Amsterdam",52.377947,4.881443
+15,2014-08-10 01:19:35,"Star BBQ, Javastraat 28, Amsterdam",52.363544279,4.93296138882
+16,2014-08-02 03:53:00,"Bedford Stuyvesant, Javastraat 55, Amsterdam",52.363824,4.933865
+17,2014-06-25 04:17:00,"IJs van Oost, Javastraat 83, Amsterdam",52.3637890358,4.93471192204
+18,2014-02-15 01:01:14,"Pension Paris, C/ Salv 12, Valencia",39.4716324648,-0.372934341431
+19,2014-01-13 02:57:29,"Drover's Dog, Eerste Atjehstraat 62, Amsterdam",52.362410901,4.93502398404
+20,2013-12-12 07:24:03,"Bedford Stuyvesant, Javastraat 55, Amsterdam",52.363824,4.933865
+21,2013-12-02 16:50:49,"Mezzo IJssalon, Dapperstraat 36, Amsterdam",52.36217,4.92762503
+22,2013-09-23 21:29:06,"Fysio Oostpoort, Oranje Vrijstaatkade 21, Amsterdam",52.356108,4.929103
+23,2013-07-26 04:57:33,"Caf Restaurant Hesp, Weesperzijde 130+131, Amsterdam",52.3497833743,4.91225690909
+24,2013-07-14 22:22:24,"Skin & Spa +Store, Halmaheirastraat 28, Amsterdam",52.359844,4.939229
+25,2013-07-01 02:24:56,"Flevoparkbad, Insulindeweg 1002, Amsterdam",52.3645810945,4.95213031769
+26,2013-01-05 00:59:17,"Welch Optiek, Javastraat 57, Amsterdam",52.3637812165,4.93385879314
+27,2012-08-10 03:19:10,"Kinki Kappers, Azartplein 2B, Amsterdam",52.3766737767,4.93758733624
+28,2012-06-09 21:28:48,"Meester Schoenmaker Hillie's, Javastraat 85, Amsterdam",52.363842,4.9350595
+29,2012-01-11 20:54:39,"Coffee Company, Javaplein 14, Amsterdam",52.363922,4.939201
+30,2011-11-27 06:49:34,"Rosa & Rita, Conradstraat 471, Amsterdam",52.3718943542,4.931182
+31,2011-11-14 02:57:27,"Groninger Forum, Hereplein 73, Groningen",53.2138714586,6.56922340393
+32,2011-10-18 04:26:01,"Bozar Brasserie, Rue Baron Hortastraat 3, Brussel",50.844366,4.359708
+33,2011-05-15 21:59:00,"Distilleerderij 't Nieuwe Diep, Flevopark 13, Amsterdam",52.3619901124,4.95010134911
+34,2011-04-21 01:44:43,"Thai Tiger, Javaplein 7a, Amsterdam",52.3638080225,4.93985652924
+35,2010-10-02 01:51:34,"Bondjuk, merkez mah.cumhuriyet cad. no 12, Turunc",36.7758971758,28.24685812
+36,2010-07-10 00:01:50,"Eetcaf Van Beeren, Koningsstraat 54, Amsterdam",52.372100697,4.90235773826

@@ -1,0 +1,58 @@
+,time,poi,latitude,longitude
+0,2015-08-08 03:35:29,"La Tostaderia, 317 S Broadway, Los Angeles",34.0508433532,-118.2490105
+1,2015-02-19 16:59:07,"The Luggage Room Pizzeria, 260 S Raymond Ave, Pasadena",34.1416756064,-118.148608453
+2,2015-02-04 04:06:55,"Javista Organic Coffee Bar, 6707 W Sunset Blvd, Los Angeles",34.0981326923,-118.336529732
+3,2015-01-25 04:08:20,"Javista Organic Coffee Bar, 6707 W Sunset Blvd, Los Angeles",34.0981326923,-118.336529732
+4,2015-01-21 03:52:19,"County Line On the Hill, 6500 FM 2244 Rd, Austin",30.2976478001,-97.835842967
+5,2014-09-20 04:46:09,"Graffiti Sublime Coffee, 180 S LA Brea Ave, Los Angeles",34.0713613337,-118.343760687
+6,2014-09-16 01:49:39,"Graffiti Sublime Coffee, 180 S LA Brea Ave, Los Angeles",34.0713613337,-118.343760687
+7,2014-09-12 23:21:07,"Vapor Spot 4.0, 7551 W Sunset Blvd, Los Angeles",34.0981722757,-118.354022066
+8,2014-09-02 07:07:28,"Cinespia, 6000 Santa Monica Blvd, Los Angeles",34.0876396604,-118.31756115
+9,2014-09-02 07:05:35,"Food + Lab, 7253 Santa Monica Blvd, West Hollywood",34.0908578334,-118.347949779
+10,2014-08-14 13:02:58,"Le Pain Quotidien, 9630 Santa Monica Blvd, Beverly Hills",34.069456,-118.405839
+11,2013-08-03 03:25:21,"Tint, 1422B 2nd St, Santa Monica",34.0144177758,-118.496509214
+12,2013-04-21 04:24:31,"US Post Office, 1425 N Cherokee Ave, Los Angeles",34.0971287582,-118.335478306
+13,2013-04-06 11:53:33,"Ace Hotel & Swim Club, 701 E Palm Canyon Dr, Palm Springs",33.80073098,-116.539866341
+14,2013-04-01 10:05:12,"The Vapor Spot, 4553 Van Nuys Blvd, Sherman Oaks",34.1543731689,-118.44884491
+15,2013-03-10 06:15:51,"Eveleigh, 8752 W Sunset Blvd, West Hollywood",34.0910871336,-118.38180542
+16,2013-03-10 06:14:35,"Eveleigh, 8752 W Sunset Blvd, West Hollywood",34.0910871336,-118.38180542
+17,2012-12-25 06:53:31,"In-N-Out Burger, 7009 W Sunset Blvd, Los Angeles",34.0982015457,-118.341701031
+18,2012-12-08 06:02:09,"In-N-Out Burger, 7009 W Sunset Blvd, Los Angeles",34.0982015457,-118.341701031
+19,2012-12-08 05:59:08,"In-N-Out Burger, 7009 W Sunset Blvd, Los Angeles",34.0982015457,-118.341701031
+20,2012-02-25 12:01:46,"Z Garden, 2350 Pico Blvd, Santa Monica",34.0217264323,-118.465002317
+21,2011-11-01 23:23:52,"Le Pain Quotidien, 1103 Newport Center Dr, Newport Beach",33.6146192923,-117.876176834
+22,2011-10-27 06:59:54,"Francis-orr, 2823 E Coast Hwy, Corona del Mar",33.6005043983,-117.872813
+23,2011-09-08 23:27:37,"Wingate by Wyndham St. George, 144 Brigham Rd, Saint George",37.0610792916,-113.587041225
+24,2010-12-23 04:23:33,"Cafe Boheme, 1110 Maple Way, Jackson",43.47031,-110.787306
+25,2010-06-20 03:03:41,"ink! Coffee, 2415 E 2nd Ave, Denver",39.7194021105,-104.957728929
+26,2010-06-20 03:02:09,"Qdoba Mexican Grill, 1156 S Colorado Blvd, Glendale",39.6956852405,-104.940165854
+27,2010-06-20 03:01:35,"Black Pearl, 1529 S Pearl St, Denver",39.688684,-104.980587959
+28,2010-06-20 02:59:57,"Red Square Euro Bistro / Vodka Bar, 1512 Larimer St Unit R38, Denver",39.7484641014,-104.997613779
+29,2010-06-20 02:58:10,"3rd Ave Studio, 5575 E 3rd Ave, Denver",39.721128,-104.92260424
+30,2010-06-20 02:55:41,"SEE, 2800 E 2nd Ave Unit 101E, Denver",39.7192724059,-104.953940213
+31,2010-06-20 02:53:51,"Summit Natural Health, 121 S Madison St Ste D, Denver",39.7142297029,-104.946438074
+32,2010-06-20 02:52:41,"Ace Hardware, 1417 S Holly St, Denver",39.6903788352,-104.922770103
+33,2010-06-20 02:51:02,"Infinity Park, 4400 E Kentucky Ave, Denver",39.6983595597,-104.935003966
+34,2010-06-20 02:50:28,"Ogden Street South, 103 S Ogden St, Denver",39.71457635,-104.97590737
+35,2010-06-20 02:49:44,"Tuesday Morning, 2890 S Colorado Blvd, Denver",39.6647813146,-104.938973757
+36,2010-06-20 02:48:16,"Colorado Liquor Mart, 865 S Colorado Blvd, Denver",39.701618,-104.941141
+37,2010-06-20 02:47:15,"Sushi Sasa, 2401 15th St, Denver",39.7566856835,-105.009522387
+38,2010-06-20 02:46:32,"Corridor 44, 1433 Larimer St, Denver",39.7478821488,-104.999194315
+39,2010-06-20 02:44:53,"Pajama Baking Company, 1595 S Pearl St, Denver",39.68774565,-104.980506
+40,2010-06-20 02:43:33,"Second Home Kitchen + Bar, 150 Clayton Ln, Denver",39.7186261555,-104.95558977
+41,2010-06-20 02:42:16,"Great Divide Brewing Co., 2201 Arapahoe St, Denver",39.7536508057,-104.988381932
+42,2010-06-20 02:41:05,"Petco, 4100 E Mexico Ave, Denver",39.6841885319,-104.939307876
+43,2010-06-20 02:40:19,"Steuben's, 523 E 17th Ave, Denver",39.7434447695,-104.980373383
+44,2010-06-20 02:38:05,"Carte Blanche, 2488 S Colorado Blvd, Denver",39.6712651721,-104.939412949
+45,2010-06-20 02:36:58,"Virginia Village Liquor, 1417 S Holly St, Denver",39.6903086337,-104.923112296
+46,2010-06-20 02:35:56,"Landmark Theater at Greenwood Village, 5415 Landmark Pl, Greenwood Village",39.618288668,-104.900956807
+47,2010-06-20 02:33:31,"Guiry's Paint Wallpaper & Art Supplies, 2121 S Colorado Blvd, Denver",39.67716,-104.94126707
+48,2010-06-20 02:32:26,"Basil Doc's Pizza, 1481 S Holly St, Denver",39.6897900604,-104.923254877
+49,2010-06-20 02:31:27,"Gaia Bistro, 1551 S Pearl St, Denver",39.688436,-104.980636
+50,2010-04-07 23:59:02,"Museum Of Contemporary Art Denver, 1485 Delgany St, Denver",39.7522689758,-105.004130024
+51,2010-04-07 23:57:28,"Pier 1 Imports, 2780 S Colorado Blvd Unit 306A, Denver",39.66638688,-104.9383349
+52,2010-04-07 23:52:26,"Sojourner's Coffee & Tea, 1501 S Holly St, Denver",39.689219,-104.922529
+53,2010-01-29 03:05:15,"Table 6, 609 Corona St, Denver",39.7259322,-104.97422
+54,2010-01-29 02:56:34,"Bull & Bush Pub And Brewery, 4700 E Cherry Creek South Dr, Denver",39.7030812406,-104.932488675
+55,2009-11-18 11:33:49,"Mici Handcrafted Italian, 3030 E 2nd Ave Ste 208, Denver",39.7194129093,-104.95201316
+56,2009-11-18 11:03:00,"Pure Barre, 201 University Blvd, Denver",39.7197544869,-104.959423163

@@ -1,0 +1,56 @@
+,time,poi,latitude,longitude
+0,2014-10-10 21:16:55,"Modcup Cafe, 479 Palisade Ave, Jersey City",40.7449973054,-74.0438497066
+1,2014-08-02 08:13:49,"Marisma Fish Taco - Vallarta Centro, Naranjo 320, Pto Vallarta",20.6037848392,-105.230659823
+2,2014-08-02 08:11:38,"Joe Jack's Fish Shack, Basillo Badillo 212, Pto Vallarta",20.6022,-105.236559
+3,2014-06-16 23:22:16,"Dirty Cookie, 1553 Platte St, Denver",39.757579337,-105.008592263
+4,2014-06-11 08:32:59,"Bucket of Blood Saloon, 1 South C St., Virginia City",39.3111744449,-119.649213552
+5,2014-06-09 10:08:29,"Off The Hook Sushi, 2660 Lake Tahoe Blvd, South Lake Tahoe",38.927691,-119.982459
+6,2014-06-05 02:22:14,"Knotty Pine Cafe, 1530 Norris Rd, Bakersfield",35.41986515,-119.052176
+7,2014-05-27 10:00:59,"Lilly's Taqueria, 310 Chapala St, Santa Barbara",34.4143339316,-119.694562054
+8,2014-02-22 02:14:30,"Mission Beach Cafe, 198 Guerrero St, San Francisco",37.7680371663,-122.424469403
+9,2014-01-10 23:17:11,"Sqirl Kitchen, 720 N Virgil Ave, Los Angeles",34.0845205839,-118.2867639
+10,2013-10-23 07:41:40,"Menotti's Coffee Stop, 56 Windward Ave, Venice",33.9873837,-118.4727405
+11,2013-10-10 09:06:55,"Downtown Cocktail Room, 111 Las Vegas Blvd S, Las Vegas",36.1689027167,-115.14067352
+12,2013-03-31 10:59:15,"Vinoteca Farfalla, 1968 Hillhurst Ave, Los Angeles",34.1073567121,-118.287346237
+13,2013-03-16 04:19:47,"Perla's Seafood and Oyster Bar, 1400 S Congress Ave Ste B100, Austin",30.249957,-97.749762
+14,2013-03-15 23:18:31,"Porfirio's Tacos, 1512 Holly St, Austin",30.2552688121,-97.7306186844
+15,2013-03-12 06:13:44,"Frank Restaurant, 407 Colorado St, Austin",30.2665964687,-97.7445958882
+16,2013-03-12 04:41:02,"Midnight Cowboy, 313 E 6th St, Austin",30.2671634065,-97.7400443727
+17,2013-01-27 09:22:30,"Post Ranch Inn, 47900 Highway 1, Big Sur",36.2297696697,-121.771688461
+18,2012-12-20 12:07:41,"Public School 310, 9411 Culver Blvd, Culver City",34.0243821,-118.394468
+19,2012-11-21 11:34:41,"Cafe Katja, 79 Orchard St, New York",40.7177756338,-73.990449332
+20,2012-09-30 21:01:30,"Nashville International Airport (BNA), 1 Terminal Dr, Nashville",36.1296063481,-86.6695562191
+21,2012-06-07 22:03:09,"Ngurah Rai International Airport (DPS), Jalan Airport Ngurah Rai, Badung",-8.74449803302,115.166541239
+22,2012-06-06 10:59:53,"Aritsug, 5bb64b3a219, acfd02",35.005128501,135.76617658
+23,2012-06-05 11:15:55,"Ubud Art Market, Jalan Raya Ubud, Ubud",-8.50738416454,115.263265371
+24,2012-05-28 16:15:35,"Shibuya Granbell Hotel, 5c183a15-17, 71ac",35.6564783255,139.701954393
+25,2012-05-17 01:25:11,"Bottino Restaurant, 246 10th Ave, New York",40.748536,-74.0032253
+26,2012-05-15 10:07:18,"McCarren Hotel & Pool, 160 N 12th St, Brooklyn",40.7209693,-73.9557681
+27,2012-03-15 00:18:56,"Uncommon Objects, 1512 S Congress Ave, Austin",30.248447,-97.750318
+28,2012-03-14 15:12:35,"Austin Convention Center, 500 E Cesar Chavez St, Austin",30.263577,-97.740086
+29,2012-03-14 15:11:17,"Hampton Inn & Suites Austin Downtown Conv Ctr, 200 San Jacinto Blvd, Austin",30.2640231655,-97.7419646732
+30,2012-03-11 21:02:40,"Le Caf Crpe, 200 San Jacinto Blvd, Austin",30.2636977132,-97.7419222351
+31,2012-02-20 11:21:57,"Shintori Sushi Factory, 3001 State St #A, Santa Barbara",34.440274,-119.728325
+32,2012-02-19 01:26:40,"WhitneyHoustonRIPocolypse, 9876 Wilshire Boulevard, Los Angeles",34.0670407496,-118.413047791
+33,2012-02-06 00:34:26,"IPG Emerging Media Lab, 5700 Wilshire Blvd, Los Angeles",34.061494,-118.353736
+34,2012-02-06 00:32:46,"Carlo's Bake Shop, 95 Washington St, Hoboken",40.737147,-74.030994
+35,2012-02-06 00:30:41,"Gimme Coffee, 495 Lorimer St, Brooklyn",40.7117743293,-73.9491301775
+36,2012-01-04 22:53:52,"Palm Springs Rendezvous, 1420 N Indian Canyon Dr, Palm Springs",33.842179,-116.545379
+37,2011-12-30 01:30:37,"Pancake Pantry, 1796 21st Ave S, Nashville",36.1369259378,-86.8006825447
+38,2011-11-20 06:50:14,"Maison Premiere, 298 Bedford Ave, Brooklyn",40.7142283599,-73.9615516806
+39,2011-11-18 04:55:04,"L'Auberge Restaurant on Oak Creek, 301 Lauberge Ln, Sedona",34.868247,-111.759972
+40,2011-10-22 23:40:12,"Hotel Lucia, 400 SW Broadway, Portland",45.521204,-122.678561
+41,2011-05-31 00:24:45,"Cha Cha Lounge, 2375 Glendale Blvd, Los Angeles",34.0993806127,-118.259471745
+42,2011-05-16 23:18:30,"Pho Cafe, 2841 W Sunset Blvd, Los Angeles",34.0826814504,-118.272414207
+43,2011-05-16 23:17:48,"Los Angeles Public Library - Central, 630 W 5th St, Los Angeles",34.0505615701,-118.255366087
+44,2011-04-16 20:55:39,"Tan Son Nhat International Airport (SGN), Trb0ddng Sa1n, Thnh phd1 Hd3 Ch Minh",10.8162126971,106.664192645
+45,2011-04-16 15:09:00,"Paris Saigon, Wat bo area, Si15mrab",13.3571785799,103.859724998
+46,2011-04-15 19:23:56,"Soria Moria Boutique Hotel Siem Reap, Wat Bo Road Salakamrouk, Si15mrab",13.355174,103.859049
+47,2011-04-08 06:56:54,"Central Hotel, 784 Quang Trung Str, Thnh phd1 Qua3ng Ngi",15.1135145548,108.808098096
+48,2011-03-14 05:33:57,"Halcyon Coffee, Bar & Lounge, 218 W 4th St, Austin",30.2669534786,-97.7456940251
+49,2011-02-11 07:10:36,"The Standard, Downtown LA, 550 S Flower St, Los Angeles",34.0499456977,-118.256919306
+50,2011-01-30 06:26:47,"Intelligentsia Coffee & Tea, 55 E Colorado Blvd, Pasadena",34.1459434692,-118.149257898
+51,2011-01-28 04:57:04,"IPG Emerging Media Lab, 5700 Wilshire Blvd, Los Angeles",34.061494,-118.353736
+52,2011-01-17 03:26:01,"Ritual Coffee Roasters, 1026 Valencia St, San Francisco",37.756501,-122.421146
+53,2011-01-08 23:49:55,"Dr. Philip Bretsky, 1301 20th Street, Suie 230, Santa Monica",34.030124,-118.481267
+54,2010-12-27 07:38:19,"Rusack Vinyards, 1819 Ballard Canyon Rd, Solvang",34.6373184154,-120.14177527

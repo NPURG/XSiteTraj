@@ -1,0 +1,69 @@
+,time,poi,latitude,longitude
+0,2016-01-02 09:11:08,"Avalon, 2800 Old Milton Pkwy, Alpharetta",34.0703664177,-84.2763396714
+1,2016-01-02 09:10:23,"Lake Lanier's Magical Nights of Lights, 7000 Lanier Islands Pkwy, Buford",34.1769342841,-84.0166519742
+2,2016-01-02 09:07:49,"Greenway Grille & Bar, 2771 Scottsville Rd, Scottsville",43.0376872167,-77.737012
+3,2015-07-03 22:06:52,"IHOP, 556 Jefferson Road, Rochester",43.08757,-77.63023
+4,2014-04-08 11:52:43,"US Post Office, 18 Bow St, Somerville",42.3807564504,-71.097041348
+5,2014-03-29 07:12:57,"TF Brown's Restaurant, 214 E Main St, Batavia",42.9963321886,-78.1805820038
+6,2014-01-18 02:57:58,"Shake Shack, 92 Winthrop St, Cambridge",42.3722412981,-71.1208499962
+7,2013-10-03 04:24:43,"Darwin's Ltd., 148 Mount Auburn St, Cambridge",42.3740818086,-71.1250974545
+8,2013-09-27 09:46:03,"The Steakhouse, 777 Harrahs Blvd, Atlantic City",39.3850114193,-74.4264598055
+9,2013-09-20 05:00:49,"Texas Roadhouse, 31 Mystic View Rd, Everett",42.400085,-71.069695
+10,2013-08-24 03:07:58,"Fortissimo Coffeehouse, 365 Somerville Ave, Somerville",42.3810674135,-71.099095574
+11,2013-08-10 12:59:08,"Dirty Bird's, 4656 Mission Blvd, San Diego",32.7987617204,-117.256350609
+12,2013-07-17 01:36:26,"Caledonia Liquor Store, 3180 State St, Caledonia",42.972198,-77.852203
+13,2013-07-17 01:12:35,"Firehouse Subs, 5205 Transit Rd Ste 200, Williamsville",42.9880993,-78.69636039
+14,2013-07-10 01:48:22,"Starbucks, 1 College Cir, Geneseo",42.7968877533,-77.8221567294
+15,2013-07-08 06:20:42,"Insomnia Cookies, 65 Mount Auburn St, Cambridge",42.3718781207,-71.1183084627
+16,2013-07-08 06:16:27,"Ramada Inn, 21000 State Route 3, Watertown",43.9744837787,-75.9524616802
+17,2013-06-04 23:01:16,"The Wooden Spoon, 7007 US - 1, Middle Keys",24.7192846333,-81.063898
+18,2013-06-02 00:36:05,"Cuban Coffee Queen, 284 Margaret St, Key West",24.5612281108,-81.8003828856
+19,2013-05-29 17:23:32,"Coffee Beanery, Gate 7, Cheektowaga",42.9346918129,-78.7322598696
+20,2013-05-16 06:22:14,"Bronwyn, 255 Washington St, Somerville",42.3797378286,-71.0945758224
+21,2013-04-14 00:57:00,"Trade, 540 Atlantic Ave, Boston",42.3535332226,-71.0536265373
+22,2013-04-10 05:59:05,"Brian's Garage, 43 Fremont St, Needham",42.3058482188,-71.2250196934
+23,2013-03-14 11:53:48,"The Beale, 689 South Ave, Rochester",43.1419804123,-77.60437622
+24,2013-03-02 10:39:22,"Kappy's Fine Wine & Spirits, 10 Revere Beach Pkwy, Medford",42.4053729985,-71.0808026791
+25,2013-02-15 04:02:18,"Buffalo Niagara International Airport (BUF), 4200 Genesee St, Cheektowaga",42.9346421861,-78.7319029451
+26,2012-12-29 22:11:14,"Starbucks, 1380 Mount Hope Ave, Rochester",43.1228402181,-77.6180111331
+27,2012-12-08 02:47:38,"All Star Sandwich Bar, 1245 Cambridge St, Cambridge",42.3733627257,-71.0981032797
+28,2012-11-21 20:52:21,"Le Caprice, 25 Arlington St, London",51.50672931,-0.140623341086
+29,2012-11-17 03:00:33,"The Garrick, 29 Chichester Street, Belfast",54.5972916666,-5.92660903931
+30,2012-10-24 08:38:09,"Edward Leathers Community Park, Walnut Street, Somerville",42.386953,-71.09347
+31,2012-10-24 08:35:22,"Quincy Street Park, Quincy St., Somerville",42.3827918902,-71.1008306324
+32,2012-10-24 08:27:07,"Somerville Junction Park, 2 Woodbine St., Somerville",42.3909848491,-71.1038887272
+33,2012-10-07 07:29:28,"Pacific Catch, 2027 Chestnut St, San Francisco",37.8007292098,-122.436701759
+34,2012-10-05 06:48:16,"Hand Touch Nails, 2371 Chestnut St, San Francisco",37.7999068269,-122.442352936
+35,2012-09-28 10:38:55,"Rye, 688 Geary St, San Francisco",37.786556,-122.414502
+36,2012-08-25 23:07:38,"Fresh Pond Golf Course, 691 Huron Ave, Cambridge",42.3810495613,-71.1534126871
+37,2012-04-08 05:02:04,"Battistoni Golf Center, 9030 Main St, Clarence",42.968724192,-78.6559772856
+38,2012-04-05 07:14:14,"VIM Fitness II, 579 Massachusetts Ave, Cambridge",42.3651580201,-71.1026991485
+39,2012-04-03 06:58:18,"Brick & Mortar, 569 Massachusetts Ave, Cambridge",42.3648529476,-71.102438021
+40,2012-04-02 03:55:39,"The Joshua Tree, 256 Elm St, Somerville",42.3955409172,-71.1220121384
+41,2012-04-02 03:37:28,"Flatbread Company at Sacco's Bowl Haven, 45 Day St, Somerville",42.3956933064,-71.1237454679
+42,2012-04-01 08:51:58,"Stoddard's Fine Food & Ale, 48 Temple Pl, Boston",42.355100082,-71.0618045312
+43,2012-04-01 04:13:06,"Sunset Grill & Tap, 130 Brighton Ave, Allston",42.3527522476,-71.1316439509
+44,2012-04-01 01:16:36,"White Horse Tavern, 116 Brighton Ave, Allston",42.35275505,-71.1306678233
+45,2012-03-27 02:42:38,"The Friendly Toast, 1 Hampshire St, Cambridge",42.3662494597,-71.0907053947
+46,2012-03-27 02:40:32,"Four Burgers, 704 Massachusetts Ave, Cambridge",42.3660368178,-71.1048345848
+47,2012-03-27 02:38:38,"Border Cafe, 32 Church St, Cambridge",42.3743468,-71.120141
+48,2012-03-27 02:37:08,"Aceituna Cafe, 605 W Kendall St, Cambridge",42.3642664186,-71.0818606432
+49,2012-03-26 22:14:55,"Buffalo Billiards, 201 E 6th St, Austin",30.2674906304,-97.7412843704
+50,2012-03-25 04:51:34,"Burlington Mall, 75 Middlesex Turnpike, Burlington",42.48251569,-71.2137168646
+51,2012-03-24 04:41:41,"Five Horses Tavern, 400 Highland Ave, Somerville",42.395832,-71.120845
+52,2012-03-13 15:55:25,"SHORTY'S, 201 W 5th St, Austin",30.267431,-97.744694
+53,2012-03-12 14:04:01,"The Blind Pig Pub, 317 E 6th St, Austin",30.2670273144,-97.7398467064
+54,2011-10-12 05:39:30,"Journeyman, 9 Sanborn Ct, Somerville",42.3798999242,-71.0945054671
+55,2011-10-12 05:36:52,"Bloc 11 Cafe, 11 Bow St, Somerville",42.380855,-71.096912
+56,2011-08-17 03:57:53,"The Wave Hotel, 900 N Sepulveda Blvd, Manhattan Beach",33.885078,-118.395558
+57,2011-08-15 09:01:43,"PBR Rock Bar & Grill, 3663 Las Vegas Blvd S #730, Las Vegas",36.1093001787,-115.173078095
+58,2011-05-29 07:15:00,"Green Street, 280 Green St, Cambridge",42.3646499126,-71.1041846706
+59,2010-04-25 00:32:41,"Center for Digital Arts, 274 Moody St, Waltham",42.3713706912,-71.2366189063
+60,2009-07-20 09:59:59,"Bourbon, 2321 18th St NW, Washington",38.920236,-77.041704
+61,2009-05-13 04:50:12,"Sweet, 0 Brattle St, Cambridge",42.37346764,-71.119906
+62,2009-04-27 07:51:30,"The Independent, 75 Union Sq, Somerville",42.3796695471,-71.094828
+63,2009-04-24 22:56:11,"Starbucks, 31 Church St, Cambridge",42.374494,-71.12017
+64,2009-04-24 09:08:22,"The Cheesecake Factory, 100 Cambridgeside Pl, Cambridge",42.3672808114,-71.0762530125
+65,2009-04-18 09:49:56,"Hillstone Restaurant, 60 State St, Boston",42.3595269816,-71.0566949844
+66,2009-03-26 07:33:10,"Boloco, 71 Mount Auburn St, Cambridge",42.3720042173,-71.1182463169
+67,2009-03-15 03:01:31,"Stubb's Bar-B-Q, 801 Red River St, Austin",30.2686176874,-97.7361508854

@@ -1,0 +1,286 @@
+,time,poi,latitude,longitude
+0,2016-10-10 13:12:59,"Wingstop, 2600 SW Barton St Ste B8, Seattle",47.5227150921,-122.366760671
+1,2016-08-11 12:32:16,"Alaska Governor's Mansion, 716 Calhoun Ave, Junea",58.3027360489,-134.414707792
+2,2016-08-11 12:31:41,"Tracy's King Crab Shack, 406 S Franklin St, Junea",58.2974095819,-134.402642041
+3,2016-07-29 22:15:30,"White House Cafe, 3602 Kern Way, Yakima",46.6103179815,-120.55824404
+4,2016-05-25 10:07:19,"Red Cow, 1025 N Federal Hwy, Fort Lauderdale",26.1379140458,-80.1212426247
+5,2016-05-23 09:53:52,"Mr. Holmes Bakehouse, 1042 Larkin St, San Francisco",37.7876563622,-122.41844118
+6,2015-09-20 23:26:10,"Babbo Ristorante, 110 Waverly Pl, New York",40.732317822,-73.9992365241
+7,2015-09-06 12:40:18,"8th Floor Sports Cafe, 1325 6th Ave, Seattle",47.610015,-122.332645
+8,2015-09-06 12:39:45,"Bakeman's, 122 Cherry St, Seattle",47.6029964276,-122.333552241
+9,2015-09-06 12:37:13,"Smitty's In & Out, 1424 W Main St, Elma",47.00355698,-123.41905707
+10,2015-09-06 12:36:35,"Calhoun's Wings N' Things, 185 W Chance a La Mer NW, Ocean Shores",47.0069388205,-124.163798737
+11,2015-09-06 12:36:12,"Calhoun's Wings N' Things, 185 W Chance a La Mer NW, Ocean Shores",47.0069388205,-124.163798737
+12,2015-08-24 23:40:08,"Hampton San Francisco, 300 Gateway Blvd., San Francisco",37.6560503457,-122.400655746
+13,2015-07-27 07:33:24,"B & B Ristorante, 3355 Las Vegas Blvd S, Las Vegas",36.1231255786,-115.169042514
+14,2015-07-27 07:32:32,"B & B Ristorante, 3355 Las Vegas Blvd S, Las Vegas",36.1231255786,-115.169042514
+15,2015-07-27 07:31:47,"Starbucks, 425 S Sunrise Way, Palm Springs",33.8169375045,-116.528616098
+16,2015-07-19 02:40:54,"Kettle & Stone Coffee and Tea, 1621 W Lewis St, San Diego",32.7517426484,-117.178209635
+17,2015-07-08 23:08:03,"King County District Court, 1309 114th Ave SE Ste 100, Bellevue",47.6040188489,-122.191500468
+18,2015-07-07 14:55:00,"Castillo de Feliciana Vineyard and Winery, 85728 Telephone Pole Rd, Milton-Freewater",45.99911832,-118.367171
+19,2015-07-07 14:53:16,"Vineyard Lounge, 6 W Rose St, Walla Walla",46.0679025176,-118.340381986
+20,2015-05-26 08:23:34,"Cafe Pesto, 61-3665 Hwy 270, Kawaihae",20.0389207019,-155.829912505
+21,2015-05-26 08:18:28,"Kona Mountain Coffee, 73-4038 Hulikoa Dr, Ste 5, Kailua",19.699881,-156.027983
+22,2015-04-05 02:40:26,"Otto Las Vegas, 3355 Las Vegas Blvd S, Las Vegas",36.1227199725,-115.168776176
+23,2015-04-05 01:07:22,"Holsteins, 3708 Las Vegas Blvd S, Las Vegas",36.1094889962,-115.174189752
+24,2015-04-05 01:03:10,"Otto Las Vegas, 3355 Las Vegas Blvd S, Las Vegas",36.1227199725,-115.168776176
+25,2015-04-04 13:38:52,"The Coffee Bean & Tea Leaf, 3325 Las Vegas Blvd S, Las Vegas",36.1244954195,-115.168948174
+26,2015-03-25 15:02:39,"Zinburger, 2502 E Camelback Rd, Phoenix",33.5102423001,-112.028200477
+27,2015-03-25 15:01:54,"Hotel Valley Ho, 6850 E Main St, Scottsdale",33.493767469,-111.933894889
+28,2015-03-25 15:00:14,"Hotel Valley Ho, 6850 E Main St, Scottsdale",33.493767469,-111.933894889
+29,2015-03-22 16:09:11,"Windsor, 5223 N Central Ave, Phoenix",33.5136242323,-112.073389292
+30,2015-03-22 16:08:35,"Zoyo Neighborhood Yogurt, 1515 N 7th Ave, Phoenix, AZ 85007, Phoenix",33.4655830331,-112.082245179
+31,2015-03-22 16:07:06,"Kimpton Hotel Palomar Phoenix Cityscape, 2 East Jefferson St, Phoenix",33.4473359,-112.0734243
+32,2015-03-22 07:21:44,"Steele Indian School Park, 300 E Indian School Rd, Phoenix",33.498100287,-112.069757304
+33,2015-03-22 07:21:11,"Lux Central, 4402 N Central Ave, Phoenix",33.5004692924,-112.074053138
+34,2015-03-22 07:20:30,"The Vig Uptown, 6015 N 16th St, Phoenix",33.5243488814,-112.047103643
+35,2015-03-22 07:19:51,"University of Phoenix Stadium, 1 Cardinals Dr, Glendale",33.5277977922,-112.262493416
+36,2015-03-22 07:18:34,"Camelback Ranch - Glendale, 10710 W Camelback Rd, Phoenix",33.5145030953,-112.296321094
+37,2015-03-22 07:18:06,"Otro Cafe, 6035 N 7th St, Phoenix",33.5252528554,-112.064564192
+38,2015-03-22 07:17:16,"Lo-Lo's Chicken & Waffles, 1220 S Central Ave, Phoenix",33.4352734361,-112.074365616
+39,2015-03-22 07:16:27,"Postino Winecaf, 3939 E Campbell Ave, Phoenix",33.50228346,-111.996026
+40,2015-03-21 10:11:52,"BoSa Donuts, 3722 E Indian School Rd, Phoenix",33.4953972,-112.0010971
+41,2015-03-15 13:23:00,"Wingstop, 17424 Southcenter Pkwy, Tukwila",47.4465384499,-122.261609029
+42,2015-03-10 11:33:00,"Frank's Oyster House & Champagne Parlor, 2616 NE 55th St, Seattle",47.668687,-122.298848
+43,2015-03-10 11:32:28,"The Westy Sports and Spirits, 7808 35th Ave SW, Seattle",47.5316300961,-122.376420043
+44,2015-03-07 13:20:26,"Chase Bank, 600 5th Ave S Ste 107, Seattle",47.596822,-122.326563
+45,2015-03-02 21:21:04,"TSA Security Checkpoint, Terminal 1, San Francisco",37.6147370875,-122.385361791
+46,2015-03-02 21:17:27,"Bertram & Brood, Beethovenstraat, Amsterdam",52.349464,4.877378
+47,2015-03-02 21:16:49,"Stedelijk Museum, Museumplein 10, Amsterdam",52.357780217,4.87988233566
+48,2015-03-02 21:15:54,"Markt, Markt 1, Delft",52.0117120148,4.35929775238
+49,2015-03-02 21:14:16,"Amsterdam Centraal Railway Station, Stationsplein 15, Amsterdam",52.3789789097,4.89936896812
+50,2015-03-02 21:12:44,"Starbucks, Arena Boulevard 618, Amsterdam",52.3123749241,4.94755983353
+51,2015-03-02 21:11:53,"Seward Park, 5895 Lake Washington Blvd. S, Seattle",47.5502069311,-122.257331819
+52,2015-03-02 21:10:52,"Morning Star mini-mart, 8855 9th Ave SW, Seattle",47.5230413675,-122.34700145
+53,2015-03-02 21:10:02,"Stockbox South Park Grocery, 8520 14th Ave S, Seattle",47.5266936263,-122.314888947
+54,2015-03-02 21:08:26,"Super Deli Mart, 9051 35th Ave SW, Seattle",47.5212550282,-122.37721426
+55,2015-03-02 21:04:39,"Sam's Social Club, 1712 Lincoln Ave, Calistoga",38.5826730667,-122.575989795
+56,2015-03-02 21:03:21,"Golden Gate Park, 501 Stanyan St, San Francisco",37.768789571,-122.481905222
+57,2015-03-02 21:02:33,"QFC, 2500 W Bertona St, Seattle",47.522084309,-122.365593469
+58,2015-03-02 21:01:19,"PCC Natural Markets, 2749 California Ave SW, Seattle",47.5775994898,-122.387071336
+59,2015-03-02 20:59:52,"Duty Free, Terminal 1/2, Schiphol",52.3084944195,4.76500807213
+60,2015-03-02 20:57:27,"Vondelpark, Vondelpark, Amsterdam",52.3604865828,4.8760260172
+61,2015-03-02 20:53:48,"Anne Frank House, Prinsengracht 263-267, Amsterdam",52.3750128599,4.88392006901
+62,2015-03-02 20:52:25,"Leonidas Fresh Belgian Chocolates Caf, Groenplaats 22, Antwerpen",51.2196530594,4.40145172647
+63,2015-03-02 20:51:17,"Antwerp-Central Railway Station, Koningin Astridplein 27, Antwerpen",51.2162314491,4.42098560371
+64,2015-03-02 20:47:42,"Cheese Factory Volendam, Haven 25, Volendam",52.4947812899,5.07683470111
+65,2015-03-02 20:46:15,"Noordeinde, Volendam, Netherlands, Noordeinde, Volendam",52.4980729249,5.07906381742
+66,2015-03-02 20:43:53,"Rijksmuseum, Museumstraat 1, Amsterdam",52.3600929616,4.88508295951
+67,2015-03-02 20:42:21,"Rijksmuseum, Museumstraat 1, Amsterdam",52.3600929616,4.88508295951
+68,2015-03-02 20:40:14,"Albert Heijn To Go, Arena Boulevard 616, Amsterdam",52.3122843621,4.94748833661
+69,2015-03-02 20:38:34,"Gate E24, Concourse E, Schiphol",52.3139883485,4.76898246757
+70,2015-02-28 23:32:39,"Hilton Amsterdam Airport Schiphol, Schiphol Boulevard 701, Schiphol",52.3071404211,4.75529909134
+71,2015-02-27 07:50:12,"art hotel Spaander, Haven 15-19, Volendam",52.4949185134,5.0773491909
+72,2015-02-27 07:49:05,"Small Talk, Van Baerlestraat 52, Amsterdam",52.3579554936,4.878436625
+73,2015-02-27 07:47:38,"Hilton Antwerp Old Town, Groenplaats 32, Antwerpen",51.2192084383,4.40254689755
+74,2015-02-24 11:46:45,"Ray's Boathouse, 6049 Seaview Ave NW, Seattle",47.6733943287,-122.407645583
+75,2015-02-24 11:43:52,"Inn at the WAC, 1325 6th Ave, Seattle",47.6098630753,-122.334372502
+76,2015-02-24 11:42:54,"Best Western Delphi Hotel, Apollolaan 101-105, Amsterdam",52.350548,4.876944
+77,2015-02-24 11:41:53,"Best Western Delphi Hotel, Apollolaan 101-105, Amsterdam",52.350548,4.876944
+78,2015-02-15 05:25:32,"Starbucks, 5455 Geary Blvd, San Francisco",37.780175,-122.478147
+79,2015-02-15 05:25:06,"Cassava, 3519 Balboa St, San Francisco",37.7757413724,-122.496642864
+80,2015-01-24 16:44:58,"The Art Study, 2623 NE University Village St #7, Seattle",47.6625862283,-122.299241758
+81,2015-01-24 16:44:31,"Red Robin Gourmet Burgers, 21215 Bothell Everett Hwy, Bothell",47.8055239095,-122.206270695
+82,2015-01-24 16:43:34,"Novilhos Brazillian Steakhouse, 901 Fairview Ave N, Seattle",47.6279468296,-122.332972023
+83,2015-01-24 16:43:14,"Lucky Brand, 2614 NE University Village, Seattle",47.663782239,-122.29932
+84,2015-01-24 16:42:46,"Victoria's Secret, 2676 NE University Village St, Seattle",47.6636532235,-122.298259735
+85,2015-01-24 16:42:16,"Green Lake Loop, 7201 E Green Lake Dr N, Seattle",47.6806660273,-122.334539962
+86,2015-01-24 16:41:45,"Park's Pharmacy, 401 NE Ravenna Blvd, Seattle",47.678505867,-122.325091445
+87,2015-01-24 16:41:17,"Icon Grill, 1933 5th Ave, Seattle",47.6136183092,-122.339026843
+88,2015-01-24 16:40:35,"Hotel Sorrento, 900 Madison St, Seattle",47.608915875,-122.326572213
+89,2015-01-24 16:39:30,"Altstadt, 209 1st Ave S, Seattle",47.6005074768,-122.334255031
+90,2015-01-24 16:37:59,"13 Coins, 125 Boren Ave N, Seattle",47.619335,-122.335952
+91,2015-01-24 16:37:41,"PCC Natural Markets, 2749 California Ave SW, Seattle",47.5775994898,-122.387071336
+92,2015-01-24 16:35:26,"Hotwire Coffeehouse, 4410 California Ave SW, Seattle",47.5643721631,-122.386609018
+93,2015-01-24 16:34:55,"Anjou Bakery, 3898 Old Monitor Rd, Cashmere",47.5093062427,-120.436641759
+94,2015-01-24 16:34:16,"National Pride Car Wash, 3151 Rainier Ave S, Seattle",47.5749341533,-122.296504771
+95,2015-01-24 16:33:50,"Albuquerque International Sunport (ABQ), 2200 Sunport Blvd SE, Albuquerque",35.0471850206,-106.616463727
+96,2015-01-24 16:33:18,"Quinault Beach Resort and Casino, 78 State Route 115, Ocean Shores",47.0427513132,-124.17106181
+97,2015-01-24 16:32:53,"Ocean shores IGA, 101 E Chance A La Mer NE, Ocean Shores",47.0072396049,-124.160542512
+98,2015-01-24 16:31:45,"Patxi's Pizza, 5323 Ballard Ave NW, Seattle",47.6669192894,-122.383870784
+99,2015-01-24 16:31:11,"Metropolitan Market, 2320 42nd Ave SW, Seattle",47.5816714835,-122.384841442
+100,2015-01-24 16:30:42,"Terra Cole Butchery, 4541 California Ave SW, Seattle",47.5617396854,-122.38682325
+101,2015-01-24 16:29:50,"Caf Presse, 1117 12th Ave, Seattle",47.6121955413,-122.317142487
+102,2015-01-24 16:28:58,"Thriftway, 4201 SW Morgan St, Seattle",47.5445719998,-122.386615823
+103,2015-01-24 16:28:35,"Caffe Fiore, 2206 California Ave SW Ste B, Seattle",47.5836939659,-122.386346879
+104,2015-01-24 16:27:49,"Mercer Island Municipal Court, 9611 SE 36th St, Mercer Island",47.5771541091,-122.210078462
+105,2015-01-24 16:26:55,"Pazzo's on Eastlake, 2307 Eastlake Ave E, Seattle",47.6400331485,-122.325950206
+106,2015-01-24 16:24:41,"Pet Pros, 2500-2548 SW Henderson St, Seattle",47.5223654509,-122.365498467
+107,2015-01-24 16:24:06,"Brave Horse Tavern, 310 Terry Ave N, Seattle",47.6212613389,-122.337091624
+108,2015-01-24 16:23:28,"Espresso Vivace, 532 Broadway E, Seattle",47.62375214,-122.320998
+109,2015-01-24 16:23:09,"Endolyne Joe's, 9261 45th Ave SW, Seattle",47.5205662732,-122.390486627
+110,2015-01-24 16:22:24,"Starbucks, 1962 1st Ave S., Seattle",47.5842,-122.333936
+111,2015-01-24 16:21:54,"Cactus, 2820 Alki Ave SW, Seattle",47.5782521087,-122.413130699
+112,2015-01-24 16:18:32,"Locl Barley & Vine, 7902 35th Ave SW, Seattle",47.53175055,-122.376373
+113,2015-01-24 16:17:26,"Enterprise Rent-A-Car, 6313 35th Ave SW, Seattle",47.54605593,-122.3766375
+114,2015-01-11 11:56:33,"Torchy's - Washington Athletic Club, 1325 6th Ave, Seattle",47.610084,-122.33313
+115,2015-01-09 15:02:39,"The Black Drop Coffeehouse, 300 W Champion St, Bellingham",48.751873961,-122.47961998
+116,2015-01-09 15:01:54,"Calico Cupboard Old Town Cafe and Bakery, 121 Freeway Dr Ste B, Mount Vernon",48.4221124649,-122.336534
+117,2015-01-09 15:01:31,"Sprinkles Cupcakes, 4501 N Scottsdale Rd, Scottsdale",33.5027419262,-111.92595931
+118,2015-01-09 15:00:54,"Giant Coffee, 1437 N 1st St, Phoenix",33.465341407,-112.072353855
+119,2015-01-09 14:59:52,"Ocean Beach Roasters, 841 PT Brown Ave NW, Ocean Shores",47.0129374344,-124.162378222
+120,2015-01-09 14:59:23,"The Brooklyn Seafood, Steak & Oyster House, 1212 2nd Ave, Seattle",47.6072474237,-122.336937494
+121,2015-01-09 14:58:56,"Pagliacci Pizza, 6504 NE Bothell Way, Kenmore",47.758843,-122.253273726
+122,2015-01-09 14:58:14,"Round Table Pizza, 15730 1st Ave S, Burien",47.4617336535,-122.333613763
+123,2015-01-09 14:56:27,"Benson Vineyards, 754 Winesap Ave, Manson",47.8706799833,-120.09056467
+124,2015-01-09 14:56:06,"Hi-Life, 5425 Russell Ave NW, Seattle",47.6683677625,-122.382910252
+125,2015-01-09 14:55:48,"Circa Grill and Ale House, 2605 California Ave SW, Seattle",47.5809863333,-122.386739
+126,2014-12-19 12:30:45,"Valhalla Coffee Roasters, 3918 6th Ave, Tacoma",47.25523,-122.490102053
+127,2014-12-19 12:30:13,"The Grove Cafe & Market, 600 Central Ave SE Ste A, Albuquerque",35.0828831748,-106.640433374
+128,2014-12-19 12:28:32,"Tommy Bahama Tropical Caf, 68-1330 Mauna Lani Dr, Kamuela",19.9418044009,-155.858646333
+129,2014-12-19 12:28:20,"Cafe Pesto, 61-3665 Hwy 270, Kawaihae",20.0389207019,-155.829912505
+130,2014-12-19 12:12:05,"Sidestreet Kitchen & Bar, 717 SW 148th St, Burien",47.470163,-122.34422
+131,2014-12-01 09:13:06,"Wingstop, 804 N Landing Way, Renton",47.4965959707,-122.205237681
+132,2014-11-30 04:20:38,"Fresh Bistro, 4725 42nd Ave SW, Seattle",47.5597894193,-122.385807037
+133,2014-11-22 07:41:37,"The Cromwell, 3595 Las Vegas Blvd S, Las Vegas",36.1149232654,-115.1722154
+134,2014-11-12 16:45:20,"Polar Bar, 700 3rd Ave, Seattle",47.603783,-122.331585
+135,2014-11-12 16:44:07,"Four Seasons Hotel Vancouver, 791 West Georgia Street, Vancouver",49.2832103061,-123.118407192
+136,2014-11-12 16:43:32,"Pagliacci Pizza, 4449 California Ave SW, Seattle",47.5633303468,-122.386920072
+137,2014-11-12 16:42:59,"Giorgio's Pizzeria, 151 Clement St, San Francisco",37.7831170403,-122.461095849
+138,2014-11-12 16:42:21,"Bar Del Corso, 3057 Beacon Ave S, Seattle",47.575383,-122.30951085
+139,2014-11-12 16:41:09,"Zanze's Cheesecake, 2405 Ocean Ave, San Francisco",37.7301267861,-122.46987456
+140,2014-11-12 16:40:18,"Aziza, 5800 Geary Blvd, San Francisco",37.7803824382,-122.481642847
+141,2014-11-12 16:39:43,"Chez Maman, 401 Gough St, San Francisco",37.776918161,-122.423086813
+142,2014-11-12 16:37:35,"Haggen Northwest Fresh, 1313 Cooper Point Rd SW, Olympia",47.0343025633,-122.940816105
+143,2014-11-12 16:37:17,"Grays Harbor County Courthouse, 102 W Broadway Ave, Montesano",46.9815750938,-123.604107124
+144,2014-11-12 16:36:50,"Sundance Cinemas Seattle, 4500 9th Ave NE, Seattle",47.6617531067,-122.318059326
+145,2014-11-12 16:36:00,"Next To Nature, 4543 California Ave SW, Seattle",47.5615515667,-122.38689
+146,2014-11-12 16:35:22,"Fresh Bistro, 4725 42nd Ave SW, Seattle",47.5597894193,-122.385807037
+147,2014-11-12 16:34:17,"Red Lion Hotel Olympia, 2300 Evergreen Park Dr SW, Olympia",47.0270460938,-122.912079819
+148,2014-08-24 13:00:11,"Del Posto, 85 10th Ave, New York",40.7434854055,-74.0075540543
+149,2014-08-23 11:18:09,"Tamarind TriBeCa, 99 Hudson St, New York",40.7192689255,-74.0087498848
+150,2014-06-02 11:43:34,"Starbucks, 3730 Las Vegas Blvd S, Las Vegas",36.1083835934,-115.177825771
+151,2014-05-27 01:55:42,"China Beach, Sea Cliff Ave, San Francisco",37.7880898629,-122.491185665
+152,2014-05-21 00:28:47,"Shack Coffee, 2920 SW Avalon Way, Seattle",47.57049,-122.370894
+153,2014-02-11 00:41:35,"Grays Harbor County Courthouse, 102 W Broadway Ave, Montesano",46.9815750938,-123.604107124
+154,2014-02-02 11:17:47,"Tap Station, 7900 35th Ave SW, Seattle",47.5318217817,-122.376403891
+155,2014-01-23 04:55:52,"Calico Cupboard Old Town Cafe and Bakery, 121 Freeway Dr Ste B, Mount Vernon",48.4221124649,-122.336534
+156,2014-01-22 15:31:30,"Tia Betty Blue's, 1248 San Mateo SE, Albuquerque",35.0618984405,-106.586244106
+157,2014-01-22 15:30:07,"Casa Rondea Winery, 733 Chavez Rd NW, Los Ranchos",35.1558776747,-106.647358816
+158,2013-12-12 06:56:49,"Spokane Tap Room, Concourse C, Spokane",47.6237390807,-117.538903481
+159,2013-12-08 03:31:39,"Macy's, 1400 Redwood Hwy, Corte Madera",37.92805239,-122.5136518
+160,2013-11-03 18:23:33,"Van Gogh Museum, Museumplein 6, Amsterdam",52.3582752657,4.88105880766
+161,2013-10-22 00:12:45,"Chase Bank, 4201 SW Morgan St Ste 100, Seattle",47.5446283896,-122.386886958
+162,2013-09-07 10:07:05,"Pappadeaux Seafood Kitchen, 5011 Pan American West Fwy NE, Albuquerque",35.1412511276,-106.598062322
+163,2013-09-01 10:01:10,"Nk Nails, 2600 SW Barton St, Seattle",47.5225259764,-122.367409047
+164,2013-08-31 13:44:34,"Westcity Sardine Kitchen, 3405 California Ave SW, Seattle",47.573575,-122.387017
+165,2013-08-21 07:44:46,"Tougo Coffee Co., 1410 18th Ave, Seattle",47.61328,-122.308684
+166,2013-08-09 11:05:39,"Buddha Ruksa, 3520 SW Genesee St, Seattle",47.5647703288,-122.377309799
+167,2013-07-22 07:25:04,"Brown Chicken Brown Cow, 397 E Campbell Ave, Campbell",37.287292,-121.942901
+168,2013-07-21 00:45:53,"Panera Bread, 1975 Diamond Boulevard, Concord",37.9702812787,-122.056286667
+169,2013-07-20 08:08:30,"Hilton Concord, 1970 Diamond Blvd, Concord",37.9712327523,-122.054104954
+170,2013-07-20 03:18:15,"Firehouse Pizzeria, 6001 California St, San Francisco, CA 94121, San Francisco",37.7837179848,-122.481956219
+171,2013-07-18 01:41:08,"Pop's In & Out, 504 W Valley Rd, Moses Lake",47.1392680396,-119.285407716
+172,2013-07-17 13:49:13,"The Boar's Nest, 2008 NW 56th St, Seattle",47.6696777344,-122.3826828
+173,2013-07-06 06:46:53,"Bistronomy B2B, 3118 Central Ave SE, Albuquerque",35.0803383363,-106.610040665
+174,2013-06-24 04:49:08,"Hugo's, 8110 164th Ave NE, Redmond",47.6756979062,-122.121347458
+175,2013-06-07 03:49:59,"Mokuleia Beach, Farrington Hwy., Waialua",21.5805001324,-158.191090761
+176,2013-06-05 05:00:08,"H01lona Blowhole Lookout, 8480 Kalanianaole Hwy, Honolul",21.2823530115,-157.676925144
+177,2013-06-05 04:18:42,"Waimanalo Beach Park, 41-741 Kalanianaole Highway, Waim01nalo",21.3319280088,-157.693911242
+178,2013-05-30 08:41:58,"Postino Winecaf, 5144 N Central Ave, Phoenix",33.5126670889,-112.074078619
+179,2013-05-29 03:01:58,"Origins, 2502 E Camelback Rd, Phoenix",33.5105697474,-112.028759385
+180,2013-05-28 06:49:33,"America's Taco Shop, 2041 N 7th St, Phoenix",33.4709113333,-112.064866
+181,2013-05-11 12:18:54,"Sundance Cinemas Seattle, 4500 9th Ave NE, Seattle",47.6617531067,-122.318059326
+182,2013-02-28 15:41:11,"Banana Republic, 4613 26th Ave NE, Seattle",47.6620490994,-122.299987078
+183,2013-01-24 05:49:14,"King County Superior Courthouse, 516 3rd Ave, Seattle",47.6026473828,-122.330596447
+184,2013-01-15 02:50:07,"Tumwater City Hall, 555 Israel Rd SW, Tumwater",46.98499598,-122.911691666
+185,2013-01-13 08:25:15,"Barking Frog, 14580 NE 145th St., Woodinville",47.7336348639,-122.147371015
+186,2013-01-08 13:43:01,"Hop Jack's, 4739 Avery Ln SE, Lacey",46.9986686868,-122.82370206
+187,2013-01-06 10:57:54,"Jak's Grill, 4548 California Ave SW, Seattle",47.5614226163,-122.386674066
+188,2013-01-03 11:05:45,"Five Guys, 311 NE 103rd St, Seattle",47.7028489231,-122.325041973
+189,2012-12-29 15:34:07,"Square Knot Diner, 6015 Airport Way S, Seattle",47.5489354335,-122.31676354
+190,2012-12-22 04:53:27,"Auburn Justice Center, 18 Auburn Way S, Auburn",47.3073448829,-122.224746161
+191,2012-12-18 05:57:08,"United States Post Office, 217 1st Ave S, Seattle",47.600231133,-122.334222794
+192,2012-11-18 06:00:39,"JC's Deli, 35th Ave. SW, Seattle",47.5227364133,-122.376899847
+193,2012-11-18 05:39:39,"JC's Deli, 35th Ave. SW, Seattle",47.5227364133,-122.376899847
+194,2012-11-16 04:49:39,"The Central Saloon, 207 1st Ave S, Seattle",47.6005839104,-122.334225607
+195,2012-11-15 05:02:12,"King County Superior Courthouse, 516 3rd Ave, Seattle",47.6026473828,-122.330596447
+196,2012-11-12 06:00:33,"Banana Republic, 4613 26th Ave NE, Seattle",47.6620490994,-122.299987078
+197,2012-11-10 05:30:16,"Auburn Municipal Court, 340 E Main St Ste 101, Auburn",47.3074828114,-122.224630382
+198,2012-10-25 05:21:54,"Des Moines Municipal Court, 21630 11th Ave S Ste C, DesMoines",47.4076108235,-122.319533091
+199,2012-10-14 03:27:56,"Pasta & Co, 4622 26th Ave NE, Seattle",47.662355762,-122.299693245
+200,2012-10-06 09:40:41,"Kindred Transitional Care and Rehabilitation - Queen Anne, 2717 Dexter Ave N, Seattle",47.644039056,-122.348185555
+201,2012-09-21 04:50:41,"Cottage Bakery & Cafe, 212 N Washington Ave., Eatonville",46.8700759168,-122.265517139
+202,2012-09-20 08:01:23,"Fix salon, 6027 Roosevelt Way NE, Seattle",47.67278251,-122.3174095
+203,2012-09-17 03:29:56,"Bakery Nouvea, 4737 California Ave SW, Seattle",47.5600407839,-122.38677605
+204,2012-08-26 06:18:20,"Kaloko-Honok4dhau National Historical Park, Kaloko-Honok4dhau National Historical Park, Kailua",19.6783834216,-156.021543785
+205,2012-08-25 12:10:11,"Cafe Pesto, 61-3665 Hwy 270, Kawaihae",20.0389207019,-155.829912505
+206,2012-08-25 10:18:59,"Kona Mountain Coffee, 73-4038 Hulikoa Dr, Ste 5, Kailua",19.699881,-156.027983
+207,2012-08-23 09:27:33,"Kekaha Kai State Park, 72 Queen Kaahumanu Hwy, Kailua",19.7955161399,-156.006489614
+208,2012-08-01 13:19:00,"Our Place, 3633 N 3rd Ave, Phoenix",33.4899072,-112.077575833
+209,2012-07-30 06:11:52,"Cupcake Royale and Verite Coffee, 4556 California Ave SW, Seattle",47.5611918149,-122.386638522
+210,2012-07-27 06:47:36,"Starbucks, 1100 Station Dr, DuPont",47.094789,-122.622911
+211,2012-07-22 04:46:15,"Java Beach Cafe, 1396 LA Playa St, San Francisco",37.7604480132,-122.5089553
+212,2012-07-13 05:12:04,"Scanwest Autosport, 9520 Greenwood Ave N, Seattle",47.69864,-122.35517
+213,2012-07-06 06:26:11,"Palisades Deli Cafe, 1458 Lincoln Ave, Calistoga",38.579752,-122.578144
+214,2012-07-06 05:43:30,"W. H. Smith Wines, 1367 Lincoln Ave, Calistoga",38.5784836082,-122.579286548
+215,2012-06-20 05:20:55,"Fife Crimimal Justice Center, 3737 Pac Hwy E, Fife",47.2445365157,-122.378837503
+216,2012-06-19 12:22:36,"Twilight Exit, 2514 E Cherry St, Seattle",47.6081305535,-122.299547195
+217,2012-05-16 11:39:47,"Super Supplements, 4700 California Ave SW, Seattle",47.5610206109,-122.386716602
+218,2012-05-16 08:29:19,"BECU Neighborhood Financial Center, 9620 28th Ave SW, Seattle",47.5166457985,-122.367398211
+219,2012-05-08 04:01:53,"Snohomish County District Court - Everett Division, 3000 Rockefeller Ave, Everett",47.9777003709,-122.205994226
+220,2012-05-06 02:25:16,"Road Runner Sports, 7020 Woodlawn Ave NE, Seattle",47.679711232,-122.324485402
+221,2012-04-19 10:45:47,"Starbucks, 2200 NW Market St, Seattle",47.6687349997,-122.384664141
+222,2012-04-14 12:08:55,"Trader Joe's, 4545 Fauntleroy Way SW, Seattle",47.5619028503,-122.38083346
+223,2012-03-27 07:02:52,"Duke's Chowder House, 2516 Alki Ave SW, Seattle",47.58082344,-122.405988
+224,2012-02-12 06:43:04,"Taco Time, 915 Campbell, Baker City",44.7814267874,-117.817355
+225,2012-02-11 06:04:10,"Zoyo Neighborhood Yogurt, 1515 N 7th Ave, Phoenix, AZ 85007, Phoenix",33.4655830331,-112.082245179
+226,2012-02-10 09:52:18,"Starbucks, 5344 N 7th Ave, Phoenix",33.516411,-112.08282
+227,2012-01-23 23:45:21,"Security Checkpoint D, Terminal 4, Phoenix",33.4346096721,-111.999282655
+228,2012-01-20 18:37:54,"Cupcake Royale and Verite Coffee, 4556 California Ave SW, Seattle",47.5611918149,-122.386638522
+229,2012-01-03 05:41:10,"Giant Coffee, 1437 N 1st St, Phoenix",33.465341407,-112.072353855
+230,2011-12-15 07:09:34,"Starbucks, 6417 Roosevelt Way NE, Seattle",47.675689,-122.316392
+231,2011-11-03 00:30:51,"Pretiola, 1 5th St, Wenatchee",47.4320991667,-120.31234597
+232,2011-10-14 03:32:33,"Lola Coffee, 1001 N 3rd Ave, Phoenix",33.4588084906,-112.077401876
+233,2011-09-06 01:04:58,"CORE Kitchen & Wine Bar, 15000 N Secret Springs Dr, Marana",32.4584026465,-111.092383398
+234,2011-08-30 03:27:52,"The Coffee Roastery, 308 E Pearl St, Jackson",32.2987225472,-90.1841664758
+235,2011-08-30 02:39:25,"High Noon Cafe, 2807 Old Canton Rd, Jackson",32.3340051744,-90.1749620381
+236,2011-08-29 01:41:19,"Old South Trading Post, 714 Franklin St, Natchez",31.5631203642,-91.4052233666
+237,2011-08-20 05:24:39,"Hagen-Dazs, 3251 20th Ave, San Francisco",37.727799,-122.476861
+238,2011-08-16 10:06:02,"The Vig Uptown, 6015 N 16th St, Phoenix",33.5243488814,-112.047103643
+239,2011-08-11 02:12:51,"U.S Post Office - Phoenix, 3905 N 7th Ave, Phoenix",33.4936634031,-112.083042771
+240,2011-08-07 06:54:23,"METRO Osborn/Central Ave, 3335 N Central Ave, Phoenix",33.4869063214,-112.073954867
+241,2011-08-05 15:58:07,"Redbox, 3402 N Central Ave, Phoenix",33.487544,-112.073789
+242,2011-07-29 14:12:49,"3rd Ave Palms Dog Walk, 3633 N 3rd Ave, Phoenix",33.4899112392,-112.077552773
+243,2011-07-22 14:14:57,"Our Place, 3633 N 3rd Ave, Phoenix",33.4899072,-112.077575833
+244,2011-07-20 04:26:54,"Lapakahi State Historical Park, Kawaihae-Mahukona Rd, North Kohala District",20.1754052607,-155.897564556
+245,2011-07-18 15:40:11,"Zest Restaurant, 55-3435 Akoni Pule Hwy, Kapaa",20.237865,-155.8295396
+246,2011-07-15 04:54:49,"Department of Licensing, 18023 Highway 99 Ste E, Lynnwood",47.8349571515,-122.302169594
+247,2011-07-11 01:37:12,"PetSmart, 1949 E Camelback Rd, Phoenix",33.5075070364,-112.04022862
+248,2011-07-10 07:48:43,"Ben & Jerry's, Space 6 Nc Terminal 5 Jet Blue, Jamaica",40.6466635239,-73.7762408495
+249,2011-07-07 08:19:47,"Da Conch Shack, Blue Hills Beach, Providenciales",21.7932949476,-72.2609853745
+250,2011-07-05 12:37:08,"Somewhere Bar & Lounge, Grace Bay, Provo",21.7853649596,-72.2044921766
+251,2011-07-03 12:27:18,"Blue Sky Airport Parking, 3025 S 48th St, Phoenix",33.4208778562,-111.980553163
+252,2011-06-29 23:56:11,"Starbucks, 3110 N Central Ave, Phoenix",33.4833263501,-112.075072663
+253,2011-06-25 16:14:23,"Indian Springs Resort & Spa, 1712 Lincoln Ave, Calistoga",38.5817684544,-122.575360253
+254,2011-05-10 07:44:39,"Starbucks, 1960 SE Lund St, Port Orchard",47.51919,-122.62719
+255,2011-04-30 17:06:21,"Southworth Grocery, 3985 Cherry St SE, Southworth",47.5122787256,-122.499703597
+256,2011-04-30 17:05:27,"Anthony's Fish Bar, 17801 International Blvd, SeaTac",47.4437081346,-122.303000811
+257,2011-03-27 10:19:10,"Collins Inn & Seaside Cottages, 318 Marina Ct SE, Ocean Shores",46.9473879004,-124.137744493
+258,2011-03-13 07:26:39,"SONIC Drive In, 13916 N 67th Ave, Glendale",33.6116171606,-112.203240395
+259,2011-01-22 16:57:04,"Island Soul Caribbean Bar and Cuisine, 4869 Rainier Ave S, Seattle",47.5581226109,-122.28540285
+260,2011-01-17 06:21:56,"SONIC Drive In, 7745 S 51st Ave, Laveen",33.3759881447,-112.167609212
+261,2011-01-14 10:14:28,"Alaskan Way Viaduct, Washington 99, Seattle",47.6030380234,-122.337398529
+262,2011-01-04 14:55:05,"Sea-Tac Airport Parking Garage, 17801 International Blvd, SeaTac",47.4438536177,-122.300393753
+263,2011-01-04 14:51:48,"Verizon, 17100 Southcenter Pkwy Ste 116, Tukwila",47.4517,-122.262196
+264,2010-12-20 05:14:25,"Lake Forest Park Bar & Grill, 17535 Ballinger Way NE, Lake Forest Park",47.7553532474,-122.280228791
+265,2010-11-20 02:37:19,"Dubsea Coffee, 9910 8th ave sw, Seattle",47.5146245956,-122.345160842
+266,2010-11-14 13:49:54,"Regal Cinemas Parkway Plaza 12, 5910 S 180th St, Tukwila",47.4424091091,-122.258482467
+267,2010-11-07 16:18:11,"Department of Licensing, 8830 25th Ave SW, Seattle",47.5233623245,-122.364292704
+268,2010-11-02 09:54:05,"Chili's Grill & Bar, 1 Airport Drive, Terminal 1 Gate 1, Oakland",37.71664,-122.208879
+269,2010-10-27 15:54:03,"I Love Hot Yoga, 6900 E Green Lake Way N, Seattle",47.6782614907,-122.326406837
+270,2010-10-23 03:44:14,"Chase Bank, 1900 SE Sedgwick Rd Ste A, Port Orchard",47.503437,-122.629333
+271,2010-10-16 06:51:35,"Rocket Fuel Espresso And Goodies, 11500-11698 SE Southworth Ferry Dr, Port Orchard",47.5119799667,-122.49700346
+272,2010-10-11 11:35:33,"Starbucks, 1960 SE Lund St, Port Orchard",47.51919,-122.62719
+273,2010-10-10 04:59:00,"Zeeks Pizza, 2108 Northeast 65th Street, Seattle",47.6759,-122.30478
+274,2010-08-25 03:43:04,"Tuesday Port Orchard Farmer's Market at Courthouse Campus, 619 Division St, Port Orchard",47.5376360833,-122.638516967
+275,2010-08-21 13:51:58,"Highland Park Baseball Field, SW Thistle St., Seattle",47.5276881247,-122.349430587
+276,2010-07-28 13:07:17,"Voil!, 2805 E Madison St, Seattle",47.6235281002,-122.295835018
+277,2010-07-25 08:08:33,"Cupcake Royale and Vrit Coffee, 1111 E Pike St, Seattle",47.6139783945,-122.317601144
+278,2010-07-24 15:25:14,"Caff Fior, 5405 Leary Ave NW, Seattle",47.667081,-122.382915
+279,2010-07-21 14:25:16,"Quiznos, 1888 SE Sedgwick Rd Ste 103, Port Orchard",47.5045713087,-122.629826755
+280,2010-07-18 12:59:19,"Shadowland, 4458 California Ave SW, Seattle",47.5629829913,-122.386525767
+281,2010-07-16 23:01:59,"Starbucks, 1960 SE Lund St, Port Orchard",47.51919,-122.62719
+282,2010-07-15 11:32:30,"Sunset Hill Park, 7531 34th Ave. NW, Seattle",47.6838161827,-122.400634289
+283,2010-07-13 22:06:18,"Kitsap County Courthouse, 619 Division St, Port Orchard",47.5377659951,-122.638231973
+284,2010-07-13 22:03:56,"Circa Grill and Ale House, 2605 California Ave SW, Seattle",47.5809863333,-122.386739

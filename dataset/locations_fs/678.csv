@@ -1,0 +1,105 @@
+,time,poi,latitude,longitude
+0,2016-08-16 11:27:05,"The Butcher's Table, 2121 Westlake Ave, Seattle",47.6175226714,-122.337655789
+1,2016-06-29 10:52:08,"Drink, 348 Congress St, Boston",42.3503934063,-71.0486268997
+2,2016-06-27 00:44:23,"Shibley's At The Pier, 42 Mount Major Hwy, Alton Bay",43.47259,-71.236592
+3,2016-05-06 00:20:04,"Columbia City LINK Station, 4818 Martin Luther King Jr Way S, Seattle",47.5597110161,-122.292614625
+4,2016-05-04 11:14:48,"Sichuanese Cuisine, 1048 S Jackson St, Seattle",47.5994603667,-122.31752062
+5,2016-04-19 07:45:32,"Quinn's Pub, 1001 E Pike St, Seattle",47.6140451812,-122.319369909
+6,2016-04-19 07:44:58,"The Harmon Hub, 203 Tacoma Ave S, Tacoma",47.2619139737,-122.446032447
+7,2016-03-31 19:04:40,"Circle Bar, 1032 Saint Charles Ave, New Orleans",29.9428564441,-90.0726214111
+8,2016-03-31 19:03:29,"Fritzel's European Jazz Pub, 733 Bourbon St, New Orleans",29.9592077247,-90.0651402942
+9,2016-03-31 19:02:29,"Arnaud's French 75 Bar, 813 Bienville St, New Orleans",29.9557163369,-90.0687803141
+10,2016-03-31 18:44:39,"Coquette, 2800 Magazine St, New Orleans",29.9262355901,-90.0825406993
+11,2016-03-31 18:41:00,"Domenica, 123 Baronne St, New Orleans",29.9538074444,-90.0715640187
+12,2016-03-31 18:34:39,"Mimi's in the Marigny, 2601 Royal St, New Orleans",29.9649730971,-90.0513451071
+13,2016-03-31 18:32:18,"Compre Lapin, 535 Tchoupitoulas St, New Orleans",29.947868062,-90.0671883331
+14,2016-03-31 18:31:18,"Hi-Ho Lounge, 2239 Saint Claude Ave, New Orleans",29.9688785163,-90.0555173429
+15,2016-03-31 18:29:11,"d.b.a., 618 Frenchmen St, New Orleans",29.9639555794,-90.057849884
+16,2016-03-31 18:27:10,"Bar Tonique, 820 N Rampart St, New Orleans",29.9616627717,-90.0673890377
+17,2016-03-31 18:25:12,"Dante's Kitchen, 736 Dante St, New Orleans",29.9457105,-90.1349748
+18,2016-03-31 18:21:07,"Cochon Restaurant, 930 Tchoupitoulas St, New Orleans",29.9422492264,-90.0673160541
+19,2016-03-31 18:15:40,"Tsukushinbo, 515 S Main St, Seattle",47.599917,-122.327084
+20,2016-03-31 18:14:47,"Monsoon East, 10245 Main St, Bellevue",47.610198627,-122.20313983
+21,2016-03-31 18:10:48,"Parasol's, 2533 Constance St, New Orleans",29.9264121381,-90.0801724305
+22,2016-03-31 18:08:25,"El Quetzal Bar, 3211 Beacon Ave S, Seattle",47.574812,-122.309361
+23,2016-03-31 18:06:47,"Le Pichet, 1933 1st Ave, Seattle",47.611076,-122.3423732
+24,2016-03-31 18:05:03,"Sisters and Brothers, 1128 S Albro Pl, Seattle",47.5458946558,-122.317175359
+25,2016-03-20 06:17:02,"Mahony's Po-Boy Shop, 3454 Magazine St, New Orleans",29.9223865923,-90.0903602953
+26,2016-03-14 01:16:40,"Metropolitan Market, 2320 42nd Ave SW, Seattle",47.5816714835,-122.384841442
+27,2016-03-08 07:59:20,"Barjot, 711 Bellevue Ave E, Seattle",47.6257079499,-122.326452849
+28,2016-02-15 08:52:40,"Big Picture Seattle, 2505 1st Ave, Seattle",47.6146781387,-122.349294126
+29,2016-02-15 08:52:04,"Red Bicycle, 70618 SW Vashon Hwy, Vashon Island",47.4468357605,-122.460292146
+30,2016-02-15 08:51:43,"Row House Cafe, 1170 Republican St, Seattle",47.623157956,-122.333564252
+31,2016-02-07 09:20:51,"Mollusk, 803 Dexter Ave N, Seattle",47.6268394527,-122.342274653
+32,2015-12-13 12:24:41,"The Capital Grille, 1301 4th Ave, Seattle",47.60815622,-122.3350778
+33,2015-11-17 03:15:50,"Pho on Broadway, 1820 Broadway, Everett",47.993015,-122.201321
+34,2015-11-17 03:15:32,"The Independent Pizzeria, 4235 E Madison St, Seattle",47.636089,-122.277349234
+35,2015-10-21 03:36:33,"Montis Grill, 4864 Beacon Ave S, Seattle",47.5591005249,-122.304154599
+36,2015-10-12 04:03:31,"Super Six, 3714 S Hudson St, Seattle",47.5572601754,-122.28535206
+37,2015-08-21 08:07:56,"Le Caviste, 1919 7th Ave, Seattle",47.6149707244,-122.336867308
+38,2015-08-04 07:37:58,"Jak's Grill, 4548 California Ave SW, Seattle",47.5614226163,-122.386674066
+39,2015-06-24 08:37:45,"Cafe Campagne, 1600 Post Aly, Seattle",47.609717,-122.341545
+40,2015-06-24 08:36:22,"Milo's City Cafe, 1325 NE Broadway St, Portland",45.5351408665,-122.651838413
+41,2015-06-24 08:36:04,"Baranof Bar & Restaurant, 8549 Greenwood Ave N, Seattle",47.6918257439,-122.355659008
+42,2015-06-24 08:33:17,"The Pink Door, 1919 Post Aly, Seattle",47.6103005152,-122.34246254
+43,2015-06-24 08:30:20,"Atticus, 1125 E Evans Ave, Denver",39.6786275346,-104.973628053
+44,2015-06-24 08:27:38,"iPlayPower, 1814 S Forest St, Seattle",47.578045614,-122.308731079
+45,2015-05-28 05:52:42,"Mioposto - Mt. Baker, 3601 S McClellan St, Seattle",47.5782655518,-122.288345316
+46,2015-04-04 23:02:10,"Guy's Po-Boys, 5259 Magazine St, New Orleans",29.920555,-90.11265165
+47,2015-04-04 23:01:38,"The Roosevelt New Orleans, 130 Roosevelt Way, New Orleans",29.9543427004,-90.0718002417
+48,2015-03-29 10:02:58,"Woodinville Whiskey Co., 16110 Woodinville Redmond Rd NE, Woodinville",47.7334256401,-122.152997244
+49,2015-03-29 10:02:32,"Ruth's Chris Steak House, 727 Pine St, Grand Hyatt Hotel, Seattle",47.612831,-122.333219
+50,2015-03-18 07:18:55,"Little Pat's Place, 13611 Ambaum Blvd SW, Burien",47.4807751179,-122.348765731
+51,2015-02-28 12:14:21,"Damn the Weather, 116 1st Ave S, Seattle",47.6010504097,-122.334128401
+52,2015-02-23 08:02:23,"Lorali's Optical, 10204 Main St, Bellevue",47.610298,-122.203814
+53,2015-02-13 20:45:02,"Crown Hill Chiropractic, 10031B Holman Rd NW, Seattle",47.7024276424,-122.36320494
+54,2015-02-13 20:43:23,"Bannister, 1408 18th Avenue, Seattle",47.61302,-122.30877
+55,2015-01-20 15:17:38,"Lark, 952 E Seneca St, Seattle",47.6122678692,-122.31969595
+56,2015-01-20 15:16:31,"El Delicioso, 2500 Beacon Ave S, Seattle",47.5808697,-122.31319671
+57,2015-01-20 15:15:58,"Stateside, 300 E Pike St, Seattle",47.614052296,-122.327450056
+58,2015-01-20 15:13:28,"Mamnoon, 1508 Melrose Ave, Seattle",47.6143840166,-122.327917951
+59,2014-12-16 13:29:55,"Solo-Bar, 200 Roy St, Seattle",47.625379,-122.351932788
+60,2014-12-16 13:28:27,"The Capital Grille, 1301 4th Ave, Seattle",47.60815622,-122.3350778
+61,2014-12-16 13:27:17,"The District Lounge, 4507 Brooklyn Ave NE, Seattle",47.6613212667,-122.314694
+62,2014-11-07 02:38:19,"Little Dom's, 2128 Hillhurst Ave, Los Angeles",34.1109340284,-118.287391663
+63,2014-09-20 01:23:12,"Egyptian Theatre, 805 E Pine St, Seattle",47.615245476,-122.321803869
+64,2014-08-08 07:48:13,"Globus, 131 Washington Ave, Ketchum",43.6792148162,-114.364065528
+65,2014-07-28 08:53:59,"Golden Daisy Restaurant, 2518 Beacon Ave S, Seattle",47.58063837,-122.3131557
+66,2013-10-02 09:35:49,"Hilltop Red Apple Market, 2701 Beacon Ave S, Seattle",47.5790827231,-122.312589523
+67,2013-08-15 03:06:19,"New Zen Sushi, 509 S 3rd St, Renton",47.4796729567,-122.209841758
+68,2013-05-14 02:28:49,"Ark Lodge Cinema, 4816 Rainier Ave S, Seattle",47.5589942037,-122.285383698
+69,2013-05-10 08:48:17,"Dragon Gardens, 19100 SW Boones Ferry Rd, Tualatin",45.38202703,-122.763982415
+70,2013-05-10 08:47:07,"Granzella's Restaurant & Sports Lounge, 451 Sixth St, Williams",39.1558387001,-122.148485184
+71,2013-04-29 07:30:48,"West Seattle Nursery & Garden Center, 5275 California Ave SW, Seattle",47.5540907699,-122.387337
+72,2013-04-07 23:36:53,"Jules Maes Saloon, 5919 Airport Way S, Seattle",47.5496523853,-122.317442894
+73,2013-03-29 02:24:15,"Mioposto - Mt. Baker, 3601 S McClellan St, Seattle",47.5782655518,-122.288345316
+74,2013-02-28 08:25:56,"Mt. Baker Cleaners, 2864 S McClellan St, Seattle",47.578453,-122.295411229
+75,2012-11-16 03:53:51,"Rumba, 1112 Pike St, Seattle",47.6136655859,-122.328504324
+76,2012-08-02 15:03:30,"Maxwells, 1456 Newpark Blvd, Park City",40.721713,-111.538606
+77,2012-05-27 03:10:37,"MCA Cafe, 1485 Delgany St, Denver, CO 80202, Denver",39.7523062923,-105.004169967
+78,2012-02-16 06:39:25,"Thrive Healing Massage, 701 N 36th St, Seattle",47.6510672457,-122.349720279
+79,2012-01-25 18:16:18,"Tramvay Cafe & Restaurant, 30stiklal Cad. No:166/A Beyo1fl, 30stanbul",41.0300237812,28.9754641056
+80,2012-01-25 04:49:12,"Carousel Bowling, Halit Ziya U5fakl31gil Caddesi No:1 34710 Bak31rky, 30stanbul",40.9777266207,28.8733651446
+81,2011-07-21 10:53:49,"Alki Lighthouse, Alki Point, Seattle",47.5759888081,-122.419095942
+82,2010-10-31 09:48:07,"A.O.C. L'aile ou la Cuisse, 314 Bleecker St, New York",40.7327747692,-74.0041304371
+83,2010-09-22 03:36:15,"Mecca Cafe, 526 Queen Anne Ave N, Seattle",47.6241240458,-122.356495501
+84,2010-08-19 10:22:34,"Tilikum Place Caf, 407 Cedar St, Seattle",47.6180125953,-122.347639239
+85,2010-08-19 10:20:35,"Aqua by El Gaucho, 2801 Alaskan Way, Seattle",47.6148224124,-122.356501075
+86,2009-12-15 08:59:33,"Thrifty Car Rental, SFO Rental Car Center, San Francisco",37.6283800111,-122.401101198
+87,2009-07-27 12:27:44,"Taqueria La Estacion, 14820 Ambaum Blvd SW, Burien",47.4696363422,-122.346411329
+88,2009-07-26 11:56:02,"Pizzeria Pulcinella, 10003 Rainier Ave S, Seattle",47.511249,-122.248082
+89,2009-05-15 14:03:41,"Cafe Du Nord, 2174 Market St, San Francisco",37.7665077491,-122.430397739
+90,2009-05-02 02:25:29,"Nielsen's Pastries, 520 2nd Ave W, Seattle",47.6241804259,-122.359301994
+91,2009-05-01 14:56:28,"Loretta's Northwesterner, 8617 14th Ave S, Seattle",47.5259306375,-122.315147897
+92,2009-04-30 15:38:16,"Shadowland, 4458 California Ave SW, Seattle",47.5629829913,-122.386525767
+93,2009-04-20 06:40:39,"Le Pichet, 1933 1st Ave, Seattle",47.611076,-122.3423732
+94,2009-04-15 02:21:44,"Ray's Boathouse, 6049 Seaview Ave NW, Seattle",47.6733943287,-122.407645583
+95,2009-04-15 02:20:02,"The Tin Hat Bar & Grill, 512 NW 65th St, Seattle",47.676061,-122.362954
+96,2009-04-15 02:13:42,"Easy Street Records & Cafe, 4559 California Ave SW #200, Seattle",47.561183,-122.38683543
+97,2009-04-15 02:09:58,"Hi Spot Cafe, 1410 34th Ave, Seattle",47.6133075715,-122.289051712
+98,2009-04-15 02:05:16,"Flying Fish, 300 Westlake Ave N, Seattle",47.6210043415,-122.338213921
+99,2009-03-25 04:03:00,"Sitting Room, 108 W Roy St, Seattle",47.6258271337,-122.358592178
+100,2009-03-25 04:00:45,"Tup Tim Thai, 118 W Mercer St, Seattle",47.6247266621,-122.358990312
+101,2009-03-16 15:31:27,"Caf Presse, 1117 12th Ave, Seattle",47.6121955413,-122.317142487
+102,2009-03-14 02:41:34,"Uptown Espresso, 525 Queen Anne Ave N, Seattle",47.62411,-122.35671
+103,2009-03-13 18:50:13,"Bakery Nouvea, 4737 California Ave SW, Seattle",47.5600407839,-122.38677605

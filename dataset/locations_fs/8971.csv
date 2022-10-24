@@ -1,0 +1,119 @@
+,time,poi,latitude,longitude
+0,2015-09-19 09:08:54,"Thip Khao, 3462 14th St NW, Washington",38.9329611707,-77.0327965376
+1,2015-09-08 22:56:13,"Mount Royal Park, 1260 Chemin Remembrance, Montral",45.5040792169,-73.5873207558
+2,2015-09-08 22:53:35,"Muse des beaux-arts de Montral (MBAM), 1380 rue Sherbrooke Ouest, Montral",45.498436,-73.579715
+3,2015-09-08 22:51:36,"Hotel Zero 1, 1 boul. Ren-Levesque, Montral",45.5090661699,-73.5615642447
+4,2015-09-08 21:20:08,"Parc La Fontaine, 3933 rue du Parc-Lafontaine, Montral",45.5250330307,-73.5704408892
+5,2015-09-08 21:18:59,"Campus, 1111, rue Saint-Catherine Est, Montral",45.517749,-73.556890275
+6,2015-09-08 21:17:42,"Stock Bar, 1171 St Catherine E, Montral",45.518352,-73.5563
+7,2015-09-08 21:14:42,"Bar Taboo, 1950 Maisonneuve E, Montral",45.5242648205,-73.552683
+8,2015-09-08 20:58:50,"Complexe Sky, 1474 Ste-Catherine Est, Montral",45.520980832,-73.5538150822
+9,2015-09-08 20:55:52,"Modavie, 1 rue St-Paul Ouest, Montral",45.505604063,-73.5540060476
+10,2015-09-08 20:54:01,"Vieux-Port Steakhouse, 39 St-Paul Est, Montral",45.5062393025,-73.5536892087
+11,2015-09-08 20:51:57,"BEVO Bar + Pizzeria, 410, rue St-Vincent, Montral",45.5069860203,-73.5532736778
+12,2015-06-19 18:08:17,"Centrolina, 974 Palmer Alley NW, Washington",38.9003547557,-77.0254698589
+13,2015-06-08 01:19:01,"B Too, 1324 14th St NW, Washington",38.9081106622,-77.0320936905
+14,2015-05-14 08:44:36,"Carving Room Kitchen & Bar, 300 Massachusetts Ave NW, Washington",38.8995324935,-77.0162644928
+15,2015-04-18 08:32:14,"Flight, 777 6th St NW, Washington",38.8994665302,-77.0198249817
+16,2015-03-16 00:54:05,"Wilshire Restaurant, 2454 Wilshire Blvd, Santa Monica",34.0349956324,-118.478364255
+17,2015-02-22 01:26:26,"Last Tangle Salon, 1146 19th St NW, Washington",38.9051446504,-77.0433781099
+18,2015-02-19 09:56:15,"Flight, 777 6th St NW, Washington",38.8994665302,-77.0198249817
+19,2015-02-17 18:19:14,"Tortilla Coast, 1460 P St NW, Washington",38.9095564328,-77.0343437791
+20,2015-02-07 22:05:21,"National Portrait Gallery, 800 F St NW, Washington",38.8977130703,-77.0228505135
+21,2015-02-07 22:04:22,"Barnaise, 315 Pennsylvania Ave SE, Washington",38.8867004762,-77.0014905844
+22,2014-12-10 20:25:52,"The Smith, 956 2nd Ave, New York",40.7553682213,-73.9683302481
+23,2014-11-27 08:00:01,"ARIA Cafe, 3730 Las Vegas Blvd S, Las Vegas",36.1083706847,-115.177385746
+24,2014-11-27 07:59:15,"Mon Ami Gabi, 3655 Las Vegas Blvd S, Las Vegas",36.1126393164,-115.172553062
+25,2014-11-27 07:57:18,"Blue Man Group Theater, 3900 Las Vegas Blvd S, Las Vegas",36.0953719653,-115.175728798
+26,2014-11-27 07:54:38,"ARIA Resort & Casino, 3730 Las Vegas Blvd S, Las Vegas",36.107776562,-115.176453584
+27,2014-11-27 07:53:38,"Mass Court DC, 300 Massachusetts Ave NW, Washington",38.8993506364,-77.0158314804
+28,2014-11-27 07:52:17,"Garden District, 1801 14th St NW, Washington",38.9141847596,-77.03171134
+29,2014-11-24 21:12:34,"Tico DC, 1926 14th St NW, Washington",38.9164894261,-77.0319643662
+30,2014-11-24 21:11:57,"Zengo, 781 7th St NW, Washington",38.8994769673,-77.0217132568
+31,2014-11-15 07:11:33,"Meredith Xcelerated Marketing, 805 3rd Ave, New York",40.755679118,-73.9707867743
+32,2014-11-15 07:10:53,"TreeHaus, 830 3rd Ave, New York",40.7564312937,-73.9704079662
+33,2014-11-15 07:10:12,"Birchmere Music Hall, 3701 Mount Vernon Ave, Alexandria",38.839724327,-77.0613241196
+34,2014-11-15 07:09:51,"Canaletto Ristorante Veneto Las Vegas, 3355 Las Vegas Blvd S, Las Vegas",36.1226581874,-115.168862343
+35,2014-11-15 07:09:03,"Gustav's Bar, 3555 Las Vegas Blvd S, Las Vegas",36.1124730043,-115.172053282
+36,2014-11-15 07:08:35,"Harrah's Piano Bar, 3475 Las Vegas Blvd S, Las Vegas",36.1188559613,-115.172284879
+37,2014-11-15 07:08:08,"ARIA Cafe, 3730 Las Vegas Blvd S, Las Vegas",36.1083706847,-115.177385746
+38,2014-11-15 07:07:21,"Guano Point, Buck And Doe Rd., Peach Springs",36.0303793022,-113.826901258
+39,2014-10-23 11:30:18,"Meredith Xcelerated Marketing, 805 3rd Ave, New York",40.755679118,-73.9707867743
+40,2014-10-23 11:27:43,"Lost River Modern, 1960 Howards Lick Rd, Mathias",38.884469,-78.891363
+41,2014-10-23 11:26:25,"Great Falls Park, 9200 Old Dominion Dr, McLean",38.9943350646,-77.2542971683
+42,2014-10-23 11:25:14,"Lost River Grill, 8079 State Road 259, Lost City",38.9404381,-78.8162159333
+43,2014-10-23 11:24:03,"Dry Mill Winery, 18195 Dry Mill Rd, Leesburg",39.113094,-77.6023674
+44,2014-10-23 11:23:01,"Hillsborough Vineyards, 36716 Charles Town Pike, Purcellville",39.2061132359,-77.7346877078
+45,2014-10-10 07:30:36,"Marvin, 2007 14th St NW, Washington",38.9171156145,-77.031712532
+46,2014-10-06 20:43:22,"Meridian Pint, 3400 11th St NW, Washington",38.9319644947,-77.0285207033
+47,2014-10-05 20:42:56,"Zaytinya, 701 9th St NW, Washington",38.898605199,-77.0239853511
+48,2014-10-04 12:04:10,"U Street Music Hall, 1115 U St NW, Washington",38.9171448312,-77.0277267694
+49,2014-10-04 12:01:40,"Vapiano, 625 H St NW, Washington",38.8998487354,-77.0212918228
+50,2014-09-20 17:25:01,"Andaz Wall Street, 75 Wall Street, New York",40.7051644443,-74.0078489578
+51,2014-09-20 17:24:22,"Crispus Attucks Park, 2000 1st St NW, Washington",38.9174207861,-77.0115181421
+52,2014-09-20 17:22:41,"DC9 Nightclub, 1940 9th St NW, Washington",38.9167071592,-77.0241596693
+53,2014-09-20 17:20:58,"Panas Gourmet, 2029 P St NW, Washington",38.90971,-77.046218
+54,2014-09-20 17:17:39,"Dacha Beer Garden, 1600 7th St NW, Washington",38.9112198558,-77.0221289992
+55,2014-09-20 17:16:16,"Jimmy John's, 1512 Clarendon Blvd, Arlington",38.8939865025,-77.0743584527
+56,2014-09-20 17:15:13,"Taylor Gourmet, 1910 14th St NW, Washington",38.9158759806,-77.0321846008
+57,2014-09-20 17:14:26,"Meridian Pint, 3400 11th St NW, Washington",38.9319644947,-77.0285207033
+58,2014-09-20 17:10:13,"Cello Wine Bar, 229 E 53rd St, New York",40.7572869,-73.968281
+59,2014-09-20 17:09:45,"The Perfect Pita, 1735 N Lynn St, Arlington",38.8949194132,-77.0704687798
+60,2014-09-20 17:08:31,"Bar Dupont, 1500 New Hampshire Ave NW, Washington",38.9103078565,-77.0432881536
+61,2014-09-20 17:08:15,"Pete's New Haven Style Apizza, 1400 Irving St NW, Washington",38.928616036,-77.0329764658
+62,2014-09-20 17:07:31,"La Tasca - Penn Quarter, 722 7th St NW, Washington",38.8992014265,-77.0221289992
+63,2014-09-20 17:05:34,"Graffiato, 707 6th St NW, Washington",38.8986495685,-77.0199141077
+64,2014-09-20 17:04:50,"Co Co. Sala, 929 F St NW, Washington",38.8975126721,-77.0254039764
+65,2014-09-20 17:03:31,"The Driskill Bar, 604 Brazos St, Austin",30.2683523925,-97.7414560318
+66,2014-09-20 17:02:21,"Poste Moderne Brasserie, 555 8th St NW, Washington",38.8966233984,-77.0225071907
+67,2014-09-20 17:02:00,"Matchbox Vintage Pizza Bistro, 713 H St NW, Washington",38.8999612485,-77.0225957036
+68,2014-09-20 17:00:22,"Shake Shack, 800 F St NW, Washington",38.8971684869,-77.0239234962
+69,2014-09-20 16:59:25,"Number Nine, 1435 P St NW, Washington",38.9097292869,-77.0333306987
+70,2014-09-20 16:59:02,"9:30 Club, 815 V St NW, Washington",38.9179175276,-77.0237435546
+71,2014-09-20 16:56:56,"Masa 14, 1825 14th St NW, Washington",38.9148658925,-77.0316883922
+72,2014-09-20 16:54:27,"La Colombe Torrefaction, 924 N St NW Rear, Washington",38.9064465412,-77.0249426365
+73,2014-09-20 16:53:09,"Sixth Engine, 438 Massachusetts Ave NW, Washington",38.9006571843,-77.0171305131
+74,2014-09-20 16:51:24,"Paolo's Ristorante - Georgetown, 1303 Wisconsin Ave NW, Washington",38.906866,-77.063166
+75,2014-09-20 16:50:33,"sweetgreen, 1065 5th St NW, Washington",38.9032822433,-77.0187923312
+76,2014-09-20 16:50:09,"Asian Spice, 717 H St NW, Washington",38.8998565822,-77.022939437
+77,2014-09-20 16:49:06,"Americana, 1312 Locust St, Des Moines",41.5848840416,-93.634577767
+78,2014-09-20 16:46:18,"Floriana, 1602 17th St NW, Washington",38.911286,-77.038448
+79,2014-09-13 08:01:25,"Chaplin's Restaurant, 1501 9th St NW, Washington",38.90965471,-77.0238672645
+80,2014-06-28 21:14:22,"Silo, 919 5th St NW, Washington",38.9019401419,-77.0187725605
+81,2014-04-12 07:31:26,"Alba Osteria, 425 I St NW, Washington",38.9014309844,-77.0162082575
+82,2013-10-25 11:34:37,"Le Six, 6, Rue Raoul Bosio, Nice",43.6961371832,7.27282245936
+83,2013-10-25 05:09:10,"El Merkado, 12 Rue Saint-Franois de Paule, Nice",43.695766,7.271678
+84,2013-10-24 06:28:49,"Le Fard, 25 Promenade des Anglais, Nice",43.694688,7.261685
+85,2013-06-22 22:50:32,"Go Ape! - Rock Creek Regional Park, 6129 Needwood Lake Dr, Rockville",39.119052663,-77.1255476245
+86,2013-06-22 22:49:06,"Fiorella's Jack Stack Barbecue, 101 W 22nd St, Kansas City",39.0873319328,-94.5856766478
+87,2013-03-24 03:11:46,"Down Dog Power Yoga, LLC., 1046 Potomac St NW, Washington",38.9047158539,-77.0653704198
+88,2013-03-24 03:10:03,"Founding Farmers, 1924 Pennsylvania Ave NW, Washington",38.9002388738,-77.0445924997
+89,2013-03-24 03:07:49,"Hugh & Crye, 300 Tingey St SE, Washington",38.874990075,-77.001248743
+90,2012-10-20 02:23:30,"Starbucks, 1501 Connecticut Ave NW, Washington",38.9104738781,-77.0437154455
+91,2012-10-15 19:25:30,"Bobby's Burger Palace, 2121 K St NW, Washington",38.9026419915,-77.0472021103
+92,2012-10-15 19:23:42,"Banana Cafe and Piano Bar, 500 8th St SE, Washington",38.882611,-76.994914
+93,2012-09-02 08:04:00,"Pete's New Haven Style Apizza, 3017 Clarendon Blvd, Arlington",38.8873918291,-77.0941543579
+94,2012-05-29 00:23:28,"Paolo's Ristorante - Georgetown, 1303 Wisconsin Ave NW, Washington",38.906866,-77.063166
+95,2012-03-26 06:21:21,"Los Tios Grill, 2615 Mount Vernon Ave, Alexandria",38.8290643333,-77.0591247082
+96,2012-03-26 04:29:45,"VSL Hair Design, 1607 Connecticut Ave NW, Washington",38.9113143258,-77.0443732473
+97,2011-12-04 07:29:27,"The Tombs, 1226 36th St NW, Washington",38.9060176509,-77.0702608024
+98,2011-10-28 19:23:39,"Sushi Rock, 1900 Clarendon Blvd, Arlington",38.891658,-77.08121775
+99,2011-10-09 23:34:38,"Cobalt, 1639 R St NW, Washington",38.9126655226,-77.03837981
+100,2011-10-09 23:33:22,"Le Mridien Arlington, 1121 19th St N, Arlington",38.8973206234,-77.0698642731
+101,2011-10-09 23:32:05,"Cactus Cantina, 3300 Wisconsin Ave NW, Washington",38.9336211331,-77.0726591349
+102,2011-10-09 23:29:22,"Montrose Park, 3099 R St NW, Washington",38.9129414981,-77.0603617878
+103,2011-10-09 23:28:34,"Floriana, 1602 17th St NW, Washington",38.911286,-77.038448
+104,2011-10-09 23:27:27,"Dolcezza (Georgetown), 1560 Wisconsin Ave NW, Washington",38.9103884644,-77.0648307793
+105,2010-08-19 02:22:20,"Provincetown Art Association and Museum, 460 Commercial St, Provincetown",42.056226,-70.1793336868
+106,2010-08-08 03:08:31,"Thompson Boat Center, 2900 Virginia Ave NW, Washington",38.9008134952,-77.0582256076
+107,2010-07-30 23:06:19,"Consumer Technology Association, 1919 S Eads St, Arlington",38.8562062807,-77.0523228076
+108,2010-07-26 10:30:52,"Franciscan Monastery of the Holy Land in America, 1400 Quincy St NE, Washington",38.9372232297,-76.9859667649
+109,2010-07-26 10:29:01,"Kramerbooks & Afterwords Cafe, 1517 Connecticut Ave NW, Washington",38.9108,-77.0437
+110,2010-07-26 10:25:51,"Hamiltonian Gallery, 1353 U St NW, Washington",38.9170392167,-77.031287
+111,2010-07-26 10:23:16,"La Tasca - Penn Quarter, 722 7th St NW, Washington",38.8992014265,-77.0221289992
+112,2010-07-12 12:06:08,"Lauriol Plaza Restaurant, 1835 18th St NW, Washington",38.9153376549,-77.0415621036
+113,2010-07-04 01:15:11,"Chipotle Mexican Grill, 2231 Crystal Dr, Arlington",38.8540630243,-77.0491361618
+114,2010-07-04 01:14:19,"Sandella's Flatbread - Pentagon City, 1101 S Joyce St, Arlington",38.8645714,-77.062407
+115,2010-07-04 01:13:07,"Perfect Pita, 2345 Crystal Dr, Arlington",38.852898,-77.0496511
+116,2010-07-04 01:05:46,"Jimmy John's, 330 John Carlyle St Ste 140, Alexandria",38.8033756905,-77.0612218707
+117,2010-07-04 01:03:48,"Noodles & Company, 2011 Crystal Dr, Arlington",38.8557711342,-77.0492925914

@@ -1,0 +1,69 @@
+,time,poi,latitude,longitude
+0,2015-08-30 08:54:02,"Truck Yard, 5624 Sears St, Dallas",32.8142012761,-96.7712870466
+1,2015-07-23 08:37:57,"Ida Claire, 5001 Belt Line Rd, Dallas",32.9544176195,-96.8258595904
+2,2015-07-06 23:36:50,"London Heathrow Airport (LHR), 234 Bath Rd, Hounslow",51.4709851642,-0.466146469116
+3,2015-04-04 09:28:07,"Karczma, 136 Greenpoint Ave, Brooklyn",40.7301240813,-73.9550943139
+4,2015-03-30 08:26:46,"The Bounty, 131 Greenpoint Ave, Brooklyn",40.730149465,-73.9546982551
+5,2015-03-30 08:01:56,"Cafe Mogador, 133 Wythe Ave, Brooklyn",40.7197618703,-73.9600535908
+6,2015-02-15 09:07:16,"Joe's Taco Lounge, 382 Miller Ave, Mill Valley",37.8972262144,-122.537029982
+7,2015-02-10 05:35:50,"Ha3i K M Gia, 707 Ellis St, San Francisco",37.784281,-122.417877
+8,2015-01-30 08:17:45,"Ruby's Taqueria, 821 Borregas Ave, Sunnyvale",37.396912,-122.023334
+9,2015-01-11 08:41:35,"Loca Luna, 5301 Alpha Rd Ste 80, Dallas",32.933989765,-96.8174499629
+10,2015-01-06 23:12:12,"Norma's Cafe, 17721 Dallas Pkwy #130, Dallas",32.9904831258,-96.8306954873
+11,2015-01-06 23:11:36,"Cindi's N.Y. Delicatessen, 2001 Midway Rd Ste 132, Carrollton",32.9618448724,-96.8387456445
+12,2014-12-20 16:28:19,"The Canton House, Song Sawat Rd., 2a31211e3119182707284c",13.7395289509,100.511177072
+13,2014-12-17 16:20:53,"Rasayana Retreat, 57 Sukhumvit 39, 2731121932",13.7350774535,100.573410569
+14,2014-12-17 16:12:49,"Ceresia Coffee Roasters, 593/29-41 Sukhumvit 33/1, 2731121932",13.7328984201,100.568459018
+15,2014-12-16 14:39:46,"Lady M, One Fullerton, Singapore",1.28650530702,103.854305155
+16,2014-12-16 14:38:50,"Sekai no Yamachan, 32/1 Sukhumvit 39, 2731121932",13.7346494444,100.571690411
+17,2014-12-16 14:31:06,"Bankara Ramen, 32/1 Sukhumvit 39, 2731121932",13.7346639443,100.571921468
+18,2014-12-16 14:18:24,"ISAO, 5 Soi Sukhumvit 31, 2731121932",13.7345279393,100.566387249
+19,2014-12-10 22:00:00,"Seasonal Tastes, The Westin Singapore, 32nd Floor, Asia Square Tower 2, Singapore",1.27794626535,103.851066619
+20,2014-12-07 00:04:51,"Lufthansa Business Lounge Z, Terminal 1, near Gate Z50, Frankfurt am Main",50.0483348958,8.56641769409
+21,2014-12-06 18:45:25,"Vintage Cocktail Club, Crown Alley, Dublin",53.3450837594,-6.26285922254
+22,2014-12-05 20:59:44,"Juniors Deli Cafe, 2 Bath Ave, Dublin",53.33713,-6.23421
+23,2014-12-04 04:03:19,"Paulie's Pizza, 58 Uppr Grand Canal St, Dublin",53.3373173951,-6.23470386239
+24,2014-12-01 20:50:16,"Los Balcones del Per, 1360 Vine St, Los Angeles",34.0960478783,-118.326484
+25,2014-11-30 05:08:30,"The 101 Coffee Shop, 6145 Franklin Ave, Los Angeles",34.1053034929,-118.323978095
+26,2014-11-29 10:42:51,"Guisados, 1261 W Sunset Blvd, Los Angeles",34.070245221,-118.250381005
+27,2014-11-29 08:16:35,"Intelligentsia Coffee & Tea, 3922 W Sunset Blvd, Los Angeles",34.0921350189,-118.280245967
+28,2014-11-24 03:17:24,"Saint Frank, 2340 Polk St, San Francisco",37.7984460643,-122.422213007
+29,2014-11-24 01:32:42,"Cull & Pistol, 75 9th Ave, New York",40.7424632692,-74.0062594138
+30,2014-11-24 01:24:48,"Blueprint, 196 5th Ave, Brooklyn",40.6768626924,-73.9801740646
+31,2014-11-24 01:19:57,"Aunt Charlie's Lounge, 133 Turk St, San Francisco",37.78317295,-122.411246
+32,2014-11-24 01:11:41,"Ryoko's Japanese Restaurant & Bar, 619 Taylor St, San Francisco",37.7881175652,-122.411820797
+33,2014-09-29 09:12:16,"House of Thai, 901 Larkin St, San Francisco",37.786161,-122.418102
+34,2014-09-25 08:19:44,"Taco Diner, 4933 Belt Line Rd, Dallas",32.9544113435,-96.8273563772
+35,2014-09-23 07:10:11,"Taco Diner, 4933 Belt Line Rd, Dallas",32.9544113435,-96.8273563772
+36,2014-09-19 21:53:31,"Cafe Ghia, 24 Irving Ave, Brooklyn",40.7050728442,-73.9253255725
+37,2014-09-19 21:50:17,"The Third Man, 116 Avenue C, New York",40.7242917101,-73.9785276764
+38,2014-09-19 21:46:27,"Roberta's Pizza, 261 Moore St, Brooklyn",40.7050789854,-73.9336440392
+39,2014-09-19 21:44:42,"Tortilleria Mexicana Los Hermanos, 271 Starr St, Brooklyn",40.7065563021,-73.9218856951
+40,2014-09-19 21:40:29,"Momo Sushi Shack, 43 Bogart St, Brooklyn",40.7051665334,-73.9332409849
+41,2014-09-19 21:37:30,"Currant Cafe, 248 McKibbin Street, New York",40.7056725282,-73.9373167863
+42,2014-09-14 15:58:31,"Katz's Delicatessen, 205 E Houston St, New York",40.7223070664,-73.987351656
+43,2014-09-12 20:47:31,"Thinking Cup, 236 Hanover St, Boston",42.3632959118,-71.0552350121
+44,2014-09-11 09:34:41,"Rye, 247 S 1st St., Brooklyn",40.7125445799,-73.9579929808
+45,2014-09-11 09:20:42,"Regina Pizzeria, 11 Thacher St, Boston",42.3653449859,-71.056749725
+46,2014-09-09 20:43:50,"Black Brick, 300 Bedford Ave, Brooklyn",40.7140699738,-73.9615719941
+47,2014-09-07 21:44:22,"Blue Bottle Coffee, 85 Dean St, Brooklyn",40.6872364143,-73.9898237883
+48,2014-09-05 22:57:03,"Whisky Caf L&B, Korte Leidsedwarsstraat 82-84, Amsterdam",52.3628170109,4.88509757326
+49,2014-09-05 04:29:19,"On Egin, Wildenbruchstr. 88, Berlin",52.482608,13.441215
+50,2014-09-04 20:13:19,"Httenpalast, Hobrechtstr. 65/66, Berlin",52.4892568153,13.4261197371
+51,2014-09-04 20:09:11,"Das Hotel, Mariannenstr. 26a, Berlin",52.4965243026,13.4201579116
+52,2014-09-04 07:00:40,"TiER, Weserstr. 42, Berlin",52.4849278033,13.4374326765
+53,2014-09-04 00:02:20,"Nil - Sudanesischer Imbiss, Grnberger Str. 52, Berlin",52.51197,13.455567
+54,2014-09-04 00:01:09,"Schneewei, Simplonstr. 16, Berlin",52.5085422166,13.4582948685
+55,2014-09-03 23:54:40,"Silo Coffee, Gabriel-Max-Str. 4, Berlin",52.5100247936,13.4581572349
+56,2014-09-03 23:53:37,"Myxa Caf, Lenaustr. 22, Berlin",52.490260855,13.4267628193
+57,2014-09-03 00:54:18,"Cocolo Ramen, Gipsstr. 3, Berlin",52.5271570283,13.3992943168
+58,2014-09-02 02:37:06,"Fleischerei Domke, Warschauer Str. 64, Berlin",52.5105462928,13.4519053406
+59,2014-08-27 02:16:59,"The Butcher, Albert Cuypstraat 129, Amsterdam",52.3553881113,4.8923533387
+60,2014-08-24 01:03:38,"Dillinger's, 146 Evergreen Ave, Brooklyn",40.6993193567,-73.9313523099
+61,2014-08-15 21:51:14,"Caf Grumpy, 224 W 20th St, New York",40.7427878188,-73.9983574053
+62,2014-08-10 04:30:23,"Tillman's Roadhouse, 324 W 7th St, Dallas",32.748773,-96.827654
+63,2014-08-10 04:28:54,"M4fkbar, 75 9th Ave, New York",40.7421612068,-74.0061102141
+64,2013-06-06 08:26:16,"Republic, 37 Union Sq W, New York",40.7369232801,-73.9906802773
+65,2012-12-17 02:00:59,"French Market Buffet, 4500 W Tropicana Ave, Las Vegas",36.1024534791,-115.202622541
+66,2011-07-23 10:35:30,"Bar Boulud, 1900 Broadway, New York",40.7719404115,-73.9823687578
+67,2010-05-17 01:15:58,"China Town Buffet, 5050 S Kedzie Ave, Chicago",41.8023774237,-87.7050680428

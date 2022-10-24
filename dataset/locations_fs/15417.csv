@@ -1,0 +1,102 @@
+,time,poi,latitude,longitude
+0,2016-08-27 01:10:16,"Ninth Street Espresso, 75 9th Ave, New York",40.7422965891,-74.0060949326
+1,2016-08-27 01:09:54,"Milk & Hops Chelsea, 166 9th Ave, New York",40.7448653301,-74.0025867707
+2,2016-08-27 01:09:33,"MatchaBar, 256 W 15th St, New York",40.7401261822,-74.0015995502
+3,2016-08-27 01:07:57,"Ushiwakamar, 362 W 23rd St, New York",40.7463671243,-74.0009168425
+4,2016-06-02 02:54:41,"Dizengoff, 75 9th Ave, New York",40.7419874258,-74.0055650601
+5,2015-03-01 23:41:08,"East Wind Snack Shop, 471 16th St, Brooklyn",40.6601965999,-73.9799675345
+6,2014-12-07 23:55:25,"Yakitori Totto, 251 W 55th St, New York",40.7653218898,-73.9834018047
+7,2014-08-08 11:42:29,"Farrell's Bar, 215 Prospect Park W, Brooklyn",40.6603345072,-73.9803141258
+8,2014-08-08 11:36:15,"Krupa Grocery, 231 Prospect Park W, Brooklyn",40.6599416572,-73.9807388281
+9,2014-07-11 01:18:16,"Delaware House Travel Plaza, 530 JFK Memorial Hwy, Newark",39.6622621004,-75.6910983843
+10,2014-07-11 01:14:48,"Delaware House Travel Plaza, 530 JFK Memorial Hwy, Newark",39.6622621004,-75.6910983843
+11,2014-06-27 07:05:51,"Avatar Hotel, 4200 Great America Pkwy, Santa Clara",37.3916221,-121.9771339
+12,2014-06-20 07:14:21,"Bellevue Hospital Center, 462 1st Ave, New York",40.7397070664,-73.9764343697
+13,2014-05-23 13:26:31,"Zushi Puzzle, 1910 Lombard St, San Francisco",37.80026,-122.433122
+14,2014-05-07 03:32:01,"Floor 5X, 75 9th Ave, New York",40.742806,-74.006076
+15,2014-04-30 02:29:20,"Chelsea Market, 75 9th Ave, New York",40.7421417179,-74.0056798295
+16,2014-04-18 00:47:21,"Google New York, 76 9th Ave, New York",40.741236361,-74.0030114237
+17,2014-03-22 03:28:32,"Apple West 14th Street, 401 W 14th Street, New York",40.74127,-74.005389
+18,2014-03-10 21:57:02,"MLB Advanced Media, 75 9th Ave, New York",40.742227985,-74.0049510428
+19,2014-01-19 23:58:40,"Dunkin' Donuts, 250 Prospect Park W, Brooklyn",40.6591438806,-73.9815767514
+20,2014-01-15 01:42:33,"Korin, 57 Warren St, New York",40.7148296873,-74.009381105
+21,2014-01-15 01:40:34,"Japanese Culinary Center, 711 3rd Ave, New York",40.7526584302,-73.9729103814
+22,2014-01-15 01:38:14,"Naruto Ramen, 278 5th Ave, Brooklyn",40.6743077122,-73.9821696281
+23,2014-01-15 01:37:18,"Chuko, 552 Vanderbilt Ave, Brooklyn",40.6809472025,-73.9675140381
+24,2014-01-15 01:14:44,"Landmark Wine, Spirits & Sake, 167 W 23rd St, New York",40.744022,-73.995228
+25,2014-01-15 01:13:11,"SUSHI BAR YASUDA, 5752714-2-6, 71ac",35.6660966486,139.720466733
+26,2014-01-15 01:12:27,"Yakiniku West, 218 E 9th St, New York",40.7297830349,-73.9885899118
+27,2014-01-15 01:11:26,"Robataya NY, 231 E 9th St, New York",40.7295601878,-73.9879069721
+28,2014-01-15 01:10:14,"Midoriya, 167 N 9th St, Brooklyn",40.7186461166,-73.9561963865
+29,2013-12-16 08:20:04,"happy town, India Street, Brooklyn",40.732755835,-73.9512886714
+30,2013-11-30 09:54:02,"Samurai Mama, 205 Grand St, Brooklyn",40.7141376034,-73.9601052493
+31,2013-11-27 02:51:31,"Target, 139 Flatbush Ave, Brooklyn",40.6844613697,-73.9766180286
+32,2013-11-27 02:39:50,"Atlantic Terminal, 139 Flatbush Ave, Brooklyn",40.6845633681,-73.9776166705
+33,2013-11-25 07:20:56,"happy town, India Street, Brooklyn",40.732755835,-73.9512886714
+34,2013-11-21 22:05:46,"Melvin's Juice Box, 355 W 16th St, New York",40.7419002596,-74.0037574333
+35,2013-11-03 23:17:44,"LIRR - Jamaica Station - Track 5, Jamaica Station, Jamaica",40.6995685151,-73.8083309906
+36,2013-10-14 21:13:22,"juice press, 122 Greenwich Ave, New York",40.7390354231,-74.0026785876
+37,2013-10-06 07:20:00,"American Shooters Gun Club & Range, 3440 Arville St, Las Vegas",36.1273176108,-115.198905755
+38,2013-10-05 21:44:45,"Tuffet, 286 Graham Ave, Brooklyn",40.712095654,-73.9439584368
+39,2013-10-01 00:28:22,"McCarran International Airport (LAS), 5757 Wayne Newton Blvd, Las Vegas",36.0833265443,-115.146200281
+40,2013-09-27 21:43:14,"Chelsea Market, 75 9th Ave, New York",40.7421417179,-74.0056798295
+41,2013-09-22 02:03:46,"Jubilat Provisions, 608 5th Ave, Brooklyn",40.6637005565,-73.9910289624
+42,2013-09-21 02:13:10,"Chipotle Mexican Grill, 149 8th Ave, New York",40.7419445342,-74.0010890007
+43,2013-09-17 20:41:56,"NYPD License Division - Rifle / Shotgun Section, 120-55 Queens Blvd, Kew Gardens",40.7319743307,-73.866147995
+44,2013-09-17 20:40:18,"One Police Plaza  - NYPD Licensing Division, 1 Police Plz, New York",40.7125638493,-74.0028335286
+45,2013-09-07 06:24:03,"Sushi Nakazawa, 23 Commerce St, New York",40.7317562321,-74.0045149171
+46,2013-08-16 08:31:13,"The Gibson, 108 Bedford Ave, Brooklyn",40.7201,-73.955428
+47,2013-08-13 23:36:34,"ClubAcela, 50 Massachusetts Ave NE, Washington",38.8982481731,-77.0059561274
+48,2013-08-11 04:02:57,"Vienna Metro Station North Garage, 2900 Nutley St SW, Vienna",38.8777038808,-77.2721093547
+49,2013-08-11 02:16:17,"Baltimore Penn Station, 1515 N Charles St, Baltimore",39.3075345019,-76.6155392899
+50,2013-08-08 01:41:08,"Lobster Place, 75 9th Ave, New York",40.7424407679,-74.006121691
+51,2013-07-31 02:32:36,"Queensboro Bridge Pedestrian & Bike Path, Queensboro Bridge, New York",40.7552005121,-73.9504448762
+52,2013-07-29 04:21:59,"Union Station, 50 Massachusetts Ave NE, Washington",38.8980553075,-77.0061023515
+53,2013-07-16 19:55:45,"8a8c4b, 7fb0bf1-2-12, 71ac",35.6932424212,139.699427336
+54,2013-07-11 11:03:21,"Tokyo Shiba Tofuya Ukai, 9d6c124-4-13, 71ac",35.6573962629,139.745237033
+55,2013-07-04 07:11:22,"b8e9f3c9fceb, 7fb0bf3-7-1, 71ac",35.6855442618,139.690690041
+56,2013-07-03 22:08:34,"Park Hyatt Tokyo, 7fb0bf3-7-1, 71ac",35.68557476,139.6906391
+57,2013-07-02 22:33:54,"Gate C121, Newark Liberty International Airport, Newark",40.697239402,-74.1786213275
+58,2013-06-17 01:53:58,"Randazzo's Clam Bar, 2017 Emmons Ave., Brooklyn",40.5837987895,-73.9475633167
+59,2013-05-10 02:04:12,"Lobster Place, 75 9th Ave, New York",40.7424407679,-74.006121691
+60,2013-05-05 21:02:21,"The Spot Restaurant, 1062 Upper Front St, Binghamton",42.1461330257,-75.9019007402
+61,2013-05-05 02:19:40,"Sweetfrog, 2421 Vestal Pwy East, Vestal",42.0968973943,-76.0109105868
+62,2013-05-05 02:11:14,"Sweetfrog, 2421 Vestal Pwy East, Vestal",42.0968973943,-76.0109105868
+63,2013-04-29 08:18:51,"Orvis, 3047 Sharon Turnpike Road, Millbrook",41.7990610533,-73.7153381621
+64,2013-04-12 07:49:42,"Shwarma Flame House, 212 Prospect Park W, Brooklyn",40.6605613232,-73.9805945667
+65,2013-04-07 03:54:17,"Hebrew Home Of Greater Washington, 6121 Montrose Rd, Rockville",39.0536548389,-77.1230867287
+66,2013-04-05 00:42:40,"Lobster Place, 75 9th Ave, New York",40.7424407679,-74.006121691
+67,2013-03-17 04:21:01,"Knights of Columbus #4783, 1151 E 10th St, Brooklyn",40.6595845961,-73.977662585
+68,2013-03-04 03:37:23,"Fairway Market, 500 Van Brunt St, Brooklyn",40.674141,-74.017075
+69,2013-02-15 00:48:29,"Chelsea Market, 75 9th Ave, New York",40.7421417179,-74.0056798295
+70,2013-01-30 22:48:31,"Brooklyn-Battery Tunnel (Hugh L. Carey Tunnel), Interstate 478, New York",40.6949563096,-74.0133476257
+71,2013-01-29 01:32:35,"Dickson's Farmstand Meats, 75 9th Ave, New York",40.742228602,-74.0058749373
+72,2013-01-09 08:06:15,"Brooklyn Tactical Meat Lab, 400 20th St, Brooklyn",40.6585616894,-73.9814504892
+73,2012-11-28 02:09:27,"Giovanni Rana Pastificio & Cucina, 75 9th Ave, Chelsea Market, New York",40.7420325211,-74.0045091786
+74,2012-11-08 20:04:14,"Hudson Hotel, 356 W 58th St, New York",40.7681671508,-73.9849456256
+75,2012-10-17 07:37:33,"Slope Cellars, 436 7th Ave, Brooklyn",40.6634383853,-73.984377455
+76,2012-10-10 21:14:05,"Bartel Pritchard Square Greenmarket, Bartel Pritchard Sq, Brooklyn",40.661024,-73.9793733833
+77,2012-10-08 03:05:00,"Midoriya, 167 N 9th St, Brooklyn",40.7186461166,-73.9561963865
+78,2012-10-04 23:05:07,"Amy's Bread, 75 9th Ave, New York",40.74229,-74.004428
+79,2012-10-02 20:39:47,"DUB Pies - Windsor Terrace, 211 Prospect Park W, Brooklyn",40.6603939644,-73.9803081751
+80,2012-09-28 03:10:45,"Dream Downtown, 355 W 16th St, New York",40.7419897287,-74.0035843849
+81,2012-09-26 20:19:21,"Sam Flax, 12 West 20th Street, New York",40.740016,-73.99149
+82,2012-09-16 04:04:16,"Costco Wholesale, 976 3rd Ave, Brooklyn",40.6553620028,-74.0088951588
+83,2012-09-14 13:01:06,"Gate D52, Concourse D, Las Vegas",36.082826,-115.139047
+84,2012-09-09 21:59:40,"Gate C133, Newark Liberty International Airport, Newark",40.6981470421,-74.1794067741
+85,2012-08-31 21:07:42,"MTA Subway - 15th St/Prospect Park (F/G), Prospect Park West & 15th St, Brooklyn",40.6603668121,-73.9801993412
+86,2012-08-04 08:39:27,"Tokyo Japanese Steakhouse And Sushi Bar, 250 SW 3rd St, Corvallis",44.562562,-123.26206615
+87,2012-07-31 18:12:28,"Superfine, 126 Front St, Brooklyn",40.702369471,-73.9875124791
+88,2012-06-10 21:28:03,"Taishu-Izakaya Kenka, 25 Saint Marks Pl, New York",40.7290471577,-73.9885784338
+89,2012-06-10 21:27:55,"Lobster Place, 75 9th Ave, New York",40.7424407679,-74.006121691
+90,2012-06-10 21:27:44,"The Double Windsor, 210 Prospect Park W, Brooklyn",40.660536,-73.9803324
+91,2012-06-10 21:27:30,"Smorgasburg Williamsburg, 90 Kent Ave, Brooklyn",40.7208687104,-73.9622519332
+92,2012-06-01 16:52:35,"Sukiyabashi Jiro, 80a74-2-15, 71ac",35.6729635808,139.763802831
+93,2012-06-01 16:52:04,"Sukiyabashi Jiro, 80a74-2-15, 71ac",35.6729635808,139.763802831
+94,2012-05-31 08:40:14,"d9edfcc1a7 cf38f8ac2b97, 2dac3acf381af8ac2b0aeb03b3f33a640, acfd02",35.0062314883,135.759648646
+95,2012-05-31 08:12:21,"Hotel Monterey Kyoto, 2dac3a452d4b3a604, acfd02",35.0078104133,135.759387016
+96,2012-05-31 08:11:40,"Hotel Monterey Kyoto, 2dac3a452d4b3a604, acfd02",35.0078104133,135.759387016
+97,2012-05-28 08:08:57,"Starbucks, 2dac3a024b4d3a254, acfd02",35.0076214774,135.759869814
+98,2012-05-26 10:38:17,"Shinjuku Station, b0bf3/7fb0bf1/e305282, 71ac",35.690205895,139.7003488
+99,2012-05-24 22:02:27,"Gate C123, Newark Liberty International Airport, Newark",40.6976609808,-74.1787540913
+100,2012-05-08 11:52:06,"b8e9f3c9fceb, 7fb0bf3-7-1, 71ac",35.6855442618,139.690690041

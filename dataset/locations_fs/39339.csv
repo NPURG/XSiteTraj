@@ -1,0 +1,90 @@
+,time,poi,latitude,longitude
+0,2015-03-07 20:02:35,"Atlantic Lounge, Terminal 1C, Mnchen",48.3530379581,11.7840206979
+1,2015-01-18 07:15:10,"British Airways First Lounge, International Terminal A, San Francisco",37.6132429745,-122.38976644
+2,2014-09-27 05:19:37,"Bootshaus Weienhaus, Strandstr., Weienhaus",54.306139568,10.7651531696
+3,2014-09-03 22:49:57,"News Cafe, 800 Ocean Dr, Miami Beach",25.7781265983,-80.1312893629
+4,2014-08-30 10:38:50,"Seminole Hard Rock Hotel & Casino, 1 Seminole Way, Hollywood",26.0516744499,-80.2119970322
+5,2014-08-29 08:50:02,"Whole Foods Market, 2000 N Federal Hwy, Fort Lauderdale",26.1537605135,-80.1179598503
+6,2014-08-28 10:11:38,"Catfish Dewey's, 4003 N Andrews Ave, Fort Lauderdale",26.1760224026,-80.1470205826
+7,2014-06-22 18:29:33,"tibits, Stnzlergasse 4, Basel",47.5526741312,7.58914702861
+8,2014-06-08 01:18:01,"Basque Boulangerie Caf, 460 1st St E, Sonoma",38.2925049285,-122.456434965
+9,2014-01-18 23:05:43,"C C 13 bnh m deli, Rosenthaler Str. 2, Berlin",52.5291657486,13.4015607834
+10,2014-01-11 08:22:27,"United Club, SFO Airport, San Francisco",37.6173793099,-122.389290674
+11,2013-11-26 19:13:14,"Coffee & More, Glockengieerwall 8 - 10, Hamburg",53.5534297095,10.0062918663
+12,2013-11-17 02:30:56,"Il Mulino, Rathenaustr. 2, Essen",51.45147226,7.01339655308
+13,2013-10-14 10:11:12,"In-N-Out Burger, 641 Leavesley Rd, Gilroy",37.0237735055,-121.564179562
+14,2013-09-30 03:51:20,"Piazza del Duomo, Piazza del Duomo, Milano",45.4641903715,9.18952703476
+15,2013-09-29 23:09:18,"& Other Stories, C.so Vittorio Emanuele II, 1, Milano",45.4647567346,9.1930358797
+16,2013-09-29 18:28:29,"Genova Piazza Principe railway station, Piazza Acquaverde, 5, Genova",44.4170684985,8.92113606386
+17,2013-09-29 03:39:04,"Soho Restaurant & Fish Work, Via Al Ponte Calvi 20/R, Genova",44.4118753805,8.92875746964
+18,2013-09-27 22:42:35,"La Taverna Di Venere, Calata Doria 20, Portovenere",44.0509700865,9.83480102244
+19,2013-09-26 03:06:55,"Ristorante Jer, Via Giuseppe Mazzini, 20, Lerici",44.0734674116,9.90784319244
+20,2013-09-06 04:44:07,"Borchardt, Franzsische Str. 47, Berlin",52.5149521649,13.3904142693
+21,2013-07-31 03:45:00,"Radisson Edwardian Bloomsbury Hotel, 13 Bloomsbury St., Bloomsbury",51.5175230241,-0.127484135055
+22,2013-06-23 23:42:55,"Toto & Malta, Johannes-Brahms-Platz 3, Hamburg",53.5552650664,9.97990295197
+23,2013-06-08 06:58:23,"United Club, SFO Airport, San Francisco",37.6173793099,-122.389290674
+24,2013-05-04 18:41:25,"Covent Garden Market, The Piazza, London",51.5119609369,-0.122775435448
+25,2013-04-09 02:54:13,"20up, Empire Riverside Hotel, Hamburg",53.5472308217,9.96334433556
+26,2013-03-11 08:16:03,"Aura Restaurant, 613 Lincoln Rd, Miami Beach",25.7907169719,-80.1346995976
+27,2013-03-11 08:15:00,"Starbucks, 749 Lincoln Road, Miami Beach",25.790813,-80.136423
+28,2013-03-10 22:38:15,"Sharkey's Pub & Galley Restaurant, 522 Caribbean Blvd, Key Largo",25.0961025418,-80.434768215
+29,2012-12-23 23:22:05,"Bohrinsel, Wattweg, Dyksterhusen",53.2936694636,7.2305059433
+30,2012-12-14 19:21:51,"Dublin Airport (DUB), Arrivals Rd, Dublin",53.4275437788,-6.24407596426
+31,2012-11-24 22:34:20,"Dussmann das KulturKaufhaus, Friedrichstr. 90, Berlin",52.5183981953,13.3887881041
+32,2012-11-16 21:45:39,"Starbucks, Groer Burstah 50-52, Hamburg",53.5488168703,9.98745802831
+33,2012-11-12 17:48:47,"Starbucks, Terminal 3 - Airside, Kastrup",55.6283112022,12.6487970975
+34,2012-10-14 12:01:48,"Lufthansa Flight LH 001, HAM Airport, Hamburg",53.6321936689,10.0041393721
+35,2012-10-11 15:31:35,"Kappeli, Etelesplanadi 1, Helsinki",60.1673162,24.9503221
+36,2012-09-09 19:31:16,"Rhine Tower, Stromstr. 20, Dsseldorf",51.2178062542,6.76207775879
+37,2012-08-11 06:48:09,"Le Chapea, Brandshofer Deich 114a, Hamburg",53.5369318624,10.0293613898
+38,2012-07-30 00:11:58,"Caf Geyer, Hein-Kllisch-Platz 4, Hamburg",53.5473965621,9.95713233948
+39,2012-07-02 14:28:48,"Double Coffee, Dragonerstall 15, Hamburg",53.5555966041,9.98078178365
+40,2012-05-30 14:53:41,"Double Coffee, Dragonerstall 15, Hamburg",53.5555966041,9.98078178365
+41,2012-05-18 03:02:10,"Shalimar The Indian Restaurant, ABC-Str. 46, Hamburg",53.5544582827,9.98609739894
+42,2012-04-18 08:10:31,"Lucullus, Reeperbahn 73, Hamburg",53.5493089048,9.96224999428
+43,2012-04-07 01:41:59,"Schiffsbegrungsanlage Willkomm-Hft, Schulauer Fhrhaus, Wedel",53.5689509831,9.70095052036
+44,2012-04-06 20:05:14,"Lange Anna, Klippenrandweg, Helgoland",54.1869671179,7.87272681892
+45,2012-03-25 06:14:24,"Das Magazin, Teilfeld 8, Hamburg",53.548292,9.981355
+46,2012-03-04 22:00:36,"Linie 62 Landungsbrcken - Finkenwerder, Landungsbrcken, Hamburg",53.5450767121,9.96991039009
+47,2012-02-26 02:52:32,"Jim Block, Dammtorstr. 29-32, Hamburg",53.5565807207,9.98807693734
+48,2012-02-25 20:08:20,"Blumenladen, Susannenstr. 30, Hamburg",53.56261,9.964602
+49,2012-02-18 08:24:32,"Kleine Pause, Wohlwillstr. 37, Hamburg",53.554944958,9.96252652371
+50,2012-02-04 22:01:01,"lieblings, Stresemannstr. 8, Dsseldorf",51.2214969513,6.7832398803
+51,2011-12-04 22:57:42,"Hamburger DOM, Heiligengeistfeld, Hamburg",53.5544335571,9.97086524963
+52,2011-12-03 05:56:14,"Golem, Groe Elbstr. 14, Hamburg",53.5452965054,9.95158299878
+53,2011-11-23 20:17:41,"Weihnachtsmarkt Rathausmarkt, Rathausmarkt, Hamburg",53.5508085924,9.99332828939
+54,2011-11-13 02:24:41,"China Restaurant Bonsai, Freisinger Landstrae 28, Mnchen",48.191384,11.6204667091
+55,2011-11-12 18:21:28,"Monaco Heliport (MCM), Avenue des Papalins, Monaco",43.7259249098,7.41911102001
+56,2011-11-11 07:11:47,"Casino de Monte-Carlo, Place du Casino, Monaco",43.739587282,7.42772645369
+57,2011-11-09 20:19:28,"Monte Carlo Bay Hotel & Resort, 40 avenue Princesse Grace, Monaco",43.7486221592,7.43851661682
+58,2011-11-08 19:23:30,"Lokma, Susannenstr. 16, Hamburg",53.562485,9.964074
+59,2011-11-06 20:55:17,"Block House, Gnsemarkt Passage, Hamburg",53.5553003523,9.98927593231
+60,2011-11-04 02:34:14,"Europa Passage, Ballindamm 40, Hamburg",53.5515267985,9.99551449913
+61,2011-10-30 22:50:10,"Burger King, Westerlange 1, Northeim",51.7321316399,9.97301101685
+62,2011-10-29 22:46:08,"HORNBACH, Muthmannstr. 4, Mnchen",48.2037814051,11.6182452137
+63,2011-10-23 00:10:57,"Hamburger Botschaft, Sternstr. 67, Hamburg",53.559885,9.9667014
+64,2011-10-22 20:06:44,"Pastelaria Transmontana, Schulterblatt 86, Hamburg",53.562325,9.96166
+65,2011-10-10 17:06:32,"Brotraum, Herzogstrasse 6, Mnchen",48.1621551962,11.5847573777
+66,2011-10-06 21:55:51,"Hofgarten, Odeonsplatz, Mnchen",48.1425068644,11.5799106959
+67,2011-10-06 20:15:47,"Apple Rosenstrae, Rosenstrae 1, Mnchen",48.136843,11.574534
+68,2011-09-06 19:23:15,"Hintertuxer Gletscher, Hintertuxer Gletscher, Hintertux",47.06263848,11.680355072
+69,2011-08-20 22:52:52,"Wonderpots Frozen Yogurt, Georgenstr. 194, Berlin",52.5200665514,13.3906464487
+70,2011-07-19 14:01:20,"Burda Bar, Arabellastr. 23, Mnchen",48.1499260915,11.6228103689
+71,2011-07-10 17:21:32,"Chipps, Jgerstr. 35, Berlin",52.5144779698,13.3976942254
+72,2011-02-28 11:07:36,"United Club, SFO Airport, San Francisco",37.6173793099,-122.389290674
+73,2011-02-28 09:07:42,"Argonaut Hotel, 495 Jefferson Street, San Francisco",37.80757,-122.42015
+74,2011-01-08 21:11:22,"Lufthansa Senator Lounge I (Schengen), Terminal 2, near Gate G28, Mnchen",48.3536413769,11.790769443
+75,2011-01-08 20:16:23,"Lufthansa Senator Lounge I (Schengen), Terminal 2, near Gate G28, Mnchen",48.3536413769,11.790769443
+76,2010-06-05 01:13:55,"Club der Visionre, Am Flutgraben 1, Berlin",52.4967245344,13.4503340721
+77,2010-05-28 04:20:40,"flashbox, Thalkirchnerstr. 10, Mnchen",48.132141,11.566706
+78,2010-05-27 14:57:46,"Burda Bar, Arabellastr. 23, Mnchen",48.1499260915,11.6228103689
+79,2010-05-08 05:16:14,"Molinari & Ko, Riemannstr. 13, Berlin",52.4904230565,13.3923256209
+80,2010-05-06 04:25:58,"farbfernseher, Skalitzer Str. 114, Berlin",52.499235,13.424241
+81,2010-05-02 05:48:05,"Trachtenvogl, Reichenbachstr. 47, Mnchen",48.129094,11.575736
+82,2010-04-30 01:05:19,"Biergarten am Chinesischen Turm, Englischer Garten, Mnchen",48.15202,11.59249
+83,2010-04-24 02:47:51,"Sagrantino, Behrenstr. 47, Berlin",52.5157392613,13.3902279291
+84,2010-03-29 01:36:39,"Bistro BRUNO, Pestalozzistrae 16, Mnchen",48.130803,11.567284
+85,2010-03-27 23:24:09,"Black Bean, Mnchner Freiheit 12, Mnchen",48.162714,11.587005
+86,2010-03-27 23:21:52,"Burg Pappenheim, Baaderstr. 46, Mnchen",48.1306016011,11.5783131123
+87,2009-10-22 02:57:01,"Caf Anna Blume, Kollwitzstr. 83, Berlin",52.5381011683,13.4197379868
+88,2009-09-11 01:24:28,"Burgermeister, 86 Carl St, San Francisco",37.765846597,-122.449836731

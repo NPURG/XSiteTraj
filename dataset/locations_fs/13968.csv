@@ -1,0 +1,51 @@
+,time,poi,latitude,longitude
+0,2014-05-15 09:58:04,"High Street on Market, 308 Market St, Philadelphia",39.9502408568,-75.1461268684
+1,2014-05-12 02:06:24,"Maryland House Sunoco, 4805 JFK Hwy, Aberdeen",39.4982345245,-76.2306694432
+2,2014-04-26 10:36:45,"Asheville Vacation Villas @ Crowne Plaza, 1 Resort Dr, Asheville",35.5961510097,-82.5825627738
+3,2014-04-25 22:40:39,"Charlotte Douglas International Airport (CLT), 5501 Josh Birmingham Pkwy, Charlotte",35.2202478424,-80.943628062
+4,2014-02-23 23:33:05,"St. Francis Xavier, 641 N 24th St, Philadelphia",39.9660642039,-75.1769534144
+5,2013-10-03 05:52:33,"Golden Natural Foods, 1205 Cheyenne St, Golden",39.7541999817,-105.223225951
+6,2013-07-20 06:12:31,"Eakins Oval, Eakins Oval, Philadelphia",39.9635202262,-75.1780135393
+7,2013-07-06 01:04:01,"Sloatsburg Travel Plaza, Interstate 87, Sloatsburg",41.1509441901,-74.1882241869
+8,2013-05-19 03:42:46,"John F. Collins Park, Chestnut St., Philadelphia",39.9517755609,-75.1689794496
+9,2013-05-09 19:19:11,"The Westin Copley Place, Boston, 10 Huntington Ave, Boston",42.3485498805,-71.077401638
+10,2013-05-09 19:10:25,"The Hawthorne, 500A Commonwealth Ave, Boston",42.3488,-71.095484
+11,2012-11-04 04:56:52,"Provenance Antiques, 1042 Pine St, Philadelphia",39.9440297749,-75.159728231
+12,2012-11-04 04:56:28,"Provenance Architecturals, 1801 N American St Ste 1E, Philadelphia",39.9630765956,-75.1375128247
+13,2012-11-04 04:46:34,"Old City Coffee, 221 Church St, Philadelphia",39.9506823554,-75.1447472848
+14,2012-11-04 04:46:13,"Atomic City Comics, 638 South St, Philadelphia",39.9419558435,-75.1533937454
+15,2012-11-04 04:46:06,"The Foodery, 837 N 2nd St, Philadelphia",39.9640384107,-75.1406371593
+16,2012-11-04 04:40:23,"Fosters, 33 N 3rd St, Philadelphia",39.951149,-75.1454436779
+17,2012-11-04 04:39:31,"Fleur Flowers, 4254 Main St, Philadelphia",40.0246997802,-75.2217231864
+18,2012-11-04 04:36:04,"Third Street Habit, 153 N 3rd St, Philadelphia",39.9533849502,-75.1450323238
+19,2012-11-04 04:35:04,"Garces Trading Company, 1111 Locust St, Philadelphia",39.947674,-75.159976
+20,2012-11-04 04:34:51,"Philadelphia Runner, 3621 Walnut St, Philadelphia",39.9533797987,-75.1963366073
+21,2012-11-04 04:34:41,"Di Bruno Bros., 930 S 9th St, Philadelphia",39.9380209446,-75.1580865531
+22,2012-11-04 04:34:28,"AIA Bookstore & Design Center, 1218 Arch St, Philadelphia",39.954021,-75.160505
+23,2012-11-04 04:33:59,"Ali's Wagon, 2017 Fairmount Ave, Philadelphia",39.9673535132,-75.1709687039
+24,2012-11-04 04:33:50,"VERDE, 108 S 13th St, Philadelphia",39.950012,-75.161923
+25,2012-11-04 04:33:43,"Open House, 107 N 13th St, Philadelphia",39.9500495002,-75.1619338989
+26,2012-11-04 04:33:26,"Paper Source, 1628 Walnut St, Philadelphia",39.950008,-75.168662
+27,2012-11-04 04:33:13,"Paper on Pine, 115 S 13th St, Philadelphia",39.94993,-75.161924
+28,2012-06-10 00:23:39,"Lloyd Hall, 1 Boathouse Row, Philadelphia",39.9691053741,-75.1850694567
+29,2012-03-18 06:55:41,"The Studio, 19 W Mechanic St, New Hope",40.3620043277,-74.9512363382
+30,2012-03-18 06:54:08,"The Studio, 19 W Mechanic St, New Hope",40.3620043277,-74.9512363382
+31,2012-02-22 01:28:54,"The UPS Store, 3959 Welsh Rd, Willow Grove",40.155656,-75.14036956
+32,2012-02-19 04:36:37,"Capogiro Gelato Artisans, 119 S 13th St, Philadelphia",39.949844707,-75.1619741099
+33,2012-01-07 04:15:57,"LA Fitness, 1175 Virginia Dr, Fort Washington",40.1406179173,-75.1694354414
+34,2012-01-04 21:25:07,"Quest, 230 Lakeside Dr, Horsham",40.1720789833,-75.13790601
+35,2011-12-28 07:18:49,"REI, 200 Ridge Pike, Suite 115, Conshohocken",40.0961417,-75.2876412
+36,2011-12-27 00:04:48,"Montgomery Mall, 230 Montgomery Mall, North Wales",40.234864,-75.244737
+37,2011-11-28 02:13:33,"Ali's Wagon, 2017 Fairmount Ave, Philadelphia",39.9673535132,-75.1709687039
+38,2011-11-28 00:04:26,"Lemon Hill Park, Sedgeley and Lemon Hill Drives, Philadelphia",39.9716216348,-75.1870015144
+39,2011-11-24 08:47:35,"Rembrandt's, 741 N 23rd St, Philadelphia",39.968402,-75.175053
+40,2011-11-24 08:46:47,"Rembrandt's, 741 N 23rd St, Philadelphia",39.968402,-75.175053
+41,2011-10-07 19:23:27,"Dasiwa, 735 N 26th St, Philadelphia",39.968927,-75.18003
+42,2011-08-15 02:19:54,"AIA Bookstore & Design Center, 1218 Arch St, Philadelphia",39.954021,-75.160505
+43,2010-10-08 04:47:56,"Rybread Cafe, 2319 Fairmount Ave, Philadelphia",39.9673158651,-75.1760471729
+44,2010-08-23 03:59:28,"Fairmount Running Company, 2023 Fairmount Ave, Philadelphia",39.967329,-75.17105
+45,2010-08-05 04:55:36,"Independence Visitor Center, 1 N Independence Mall W, Philadelphia",39.9511958546,-75.1499007088
+46,2010-02-21 03:14:01,"John B. Kelly Drive, Kelly Dr, Philadelphia",39.9766975851,-75.1944274608
+47,2010-02-21 03:07:48,"Reading Terminal Market, 51 N 12th St, Philadelphia",39.9532317288,-75.1594090172
+48,2009-09-12 06:34:24,"Wine:30, 41 E 30th St, New York",40.7448709657,-73.9839871955
+49,2009-08-07 10:52:52,"Umai Umai, 533 N 22nd St, Philadelphia",39.964723,-75.174257

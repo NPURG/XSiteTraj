@@ -1,0 +1,66 @@
+,time,poi,latitude,longitude
+0,2014-11-05 02:55:47,"Sazn, 105 Reade St, New York",40.7158447696,-74.0083654133
+1,2014-09-28 04:13:09,"Nish N6bsh, 88 Reade St, New York",40.7156168063,-74.0076425672
+2,2014-09-01 23:40:16,"BWI Amtrak/MARC Rail Station (BWI), 7 Amtrak Way, Linthicum",39.1921854185,-76.6943120956
+3,2014-08-23 00:44:42,"McDonald's, 160 Broadway, New York",40.7096104702,-74.0104771279
+4,2014-08-12 21:57:02,"Los Angeles International Airport (LAX), 1 World Way, Los Angeles",33.9435869099,-118.408083022
+5,2014-06-09 05:02:52,"Barnyard, 168 Avenue B, New York",40.7272120166,-73.9797449112
+6,2014-06-01 00:09:27,"Busy Bee Bikes, 437 E 6th St, New York",40.7257416612,-73.9845324108
+7,2014-05-12 00:56:03,"Seor Pollo, 221 1st Ave, New York",40.730872,-73.982954
+8,2014-02-10 02:56:29,"The Dutch, 131 Sullivan St, New York",40.7264375462,-74.0022539339
+9,2013-07-07 22:19:34,"Busy Bee Bikes, 437 E 6th St, New York",40.7257416612,-73.9845324108
+10,2013-05-11 10:33:09,"The Fork & Wrench, 2322 Boston St, Baltimore",39.2828671441,-76.5839306928
+11,2013-05-01 21:28:47,"Abbey Burger Bistro, 1041 Marshall St, Baltimore",39.2771774218,-76.6130156815
+12,2013-04-16 04:34:12,"Intelligentsia Coffee & Tea, 1331 Abbot Kinney Blvd, Venice",33.9910867996,-118.466930017
+13,2013-04-09 13:12:47,"Jones Hollywood, 7205 Santa Monica Blvd, West Hollywood",34.0908467117,-118.346477331
+14,2013-03-03 05:38:30,"Onyx Bar & Restaurant, Friedrichsplatz 12, Mannheim",49.4827890644,8.477159366
+15,2013-02-26 16:03:31,"SAP - WDF 18, Hasso-Plattner-Ring, Walldorf",49.2941766127,8.63943815231
+16,2013-01-14 23:58:52,"Los Angeles International Airport (LAX), 1 World Way, Los Angeles",33.9435869099,-118.408083022
+17,2012-12-28 10:49:30,"Primitivo Wine Bistro, 1025 Abbot Kinney Blvd, Venice",33.9921609295,-118.471718431
+18,2012-12-22 04:28:51,"18th Street Coffee House, 1725 Broadway, Santa Monica",34.0255579242,-118.480816392
+19,2012-12-21 00:55:37,"Los Angeles International Airport (LAX), 1 World Way, Los Angeles",33.9435869099,-118.408083022
+20,2012-12-16 17:58:16,"Le Cavern Club, 20-22 rue Dauphine, Paris",48.8552640461,2.33979144981
+21,2012-12-14 03:14:05,"Le Rocketship, 13 bis rue Henry Monnier, Paris",48.8798631923,2.33740507118
+22,2012-10-22 11:18:46,"Magnolia, 6266 W Sunset Blvd, Los Angeles",34.097835067,-118.325865269
+23,2012-09-28 06:23:42,"Le Petit March, 9 rue du Bearn, Paris",48.857241,2.366256
+24,2012-08-12 01:10:39,"Saravanaa Bhavan, 170 rue du Faubourg Saint-Denis, Paris",48.879872725,2.35725402832
+25,2012-08-05 06:02:18,"The Cricketer, 41 rue des Mathurins, Paris",48.873393473,2.3244833794
+26,2012-07-12 01:07:04,"Chipotle Mexican Grill, 2400 Boston St, Baltimore",39.2811814089,-76.5799494088
+27,2012-06-10 05:26:33,"Dalva, 48 rue d'Argout, Paris",48.8659639855,2.34378129244
+28,2012-05-22 01:21:06,"Copenhagen Airport (CPH), Lufthavnsboulevarden 6, Kastrup",55.6284728557,12.6477003872
+29,2012-05-21 16:04:29,"Radisson Blu Scandinavia Hotel, Copenhagen, Amager Boulevard 70, Copenhagen S",55.667099317,12.586094141
+30,2012-05-21 15:00:59,"Radisson Blu Scandinavia Hotel, Copenhagen, Amager Boulevard 70, Copenhagen S",55.667099317,12.586094141
+31,2012-05-21 14:58:23,"Radisson Blu Scandinavia Hotel, Copenhagen, Amager Boulevard 70, Copenhagen S",55.667099317,12.586094141
+32,2012-05-18 14:51:42,"Marriott's Executive Lounge, Kalvebod Brygge 5, Kbenhavn",55.66850942,12.574041
+33,2012-05-18 02:56:36,"Aroport de Paris-Orly (ORY), Aroport de Paris-Orly, Paray-Vieille-Poste",48.7285439921,2.36591607521
+34,2012-05-18 02:55:28,"Aroport de Paris-Orly (ORY), Aroport de Paris-Orly, Paray-Vieille-Poste",48.7285439921,2.36591607521
+35,2012-05-17 04:14:46,"Kintaro, 24 rue Saint-Augustin, Paris",48.8689245916,2.33488708735
+36,2012-04-24 05:38:53,"Le Fumoir, 6 rue de l'Amiral de Coligny, Paris",48.8603528211,2.34060287476
+37,2012-04-22 08:19:00,"Grand Htel du Midi, 22, Boulevard Victor Hugo, Montpellier",43.607577,3.878942
+38,2012-04-16 14:49:07,"Holiday Inn Paris Opera - Grands Blvds, 30-32 boulevard Poissonnire, Paris",48.8715986961,2.34384435668
+39,2012-03-13 11:58:50,"Residence Inn Sacramento Downtown at Capitol Park, 1121 15th Street, Sacramento",38.5763284321,-121.486882657
+40,2011-10-21 07:10:29,"Charlotte Douglas International Airport (CLT), 5501 Josh Birmingham Pkwy, Charlotte",35.2201270861,-80.9436496578
+41,2011-09-11 10:02:45,"Rye Craft Cocktails, 807 S Broadway, Baltimore",39.2815816041,-76.5935435171
+42,2011-09-10 23:04:31,"Taqueria El Sabor Del Parque, 2901 Eastern Ave, Baltimore",39.2861695667,-76.57587364
+43,2011-08-30 00:26:31,"The Greene Turtle, BWI Airport, Linthicum",39.1799121782,-76.6655034858
+44,2011-08-23 08:28:36,"Cafe Iberico, 739 N La Salle Dr, Chicago",41.8960555986,-87.6326860382
+45,2011-07-02 17:44:22,"06d16d97 Kunlun Hotel, 2 Xinyuan S Rd, 17ac02",39.9475323827,116.454003898
+46,2011-07-02 14:33:09,"The Tree, 43 Sanlitun S Rd, 17ac02",39.9352350777,116.447584033
+47,2011-06-13 20:14:52,"Baltimore / Washington International Thurgood Marshall Airport (BWI), 7050 Friendship Road, Bwi Airport",39.1794083262,-76.6704097248
+48,2011-06-01 04:04:20,"Los Angeles International Airport (LAX), 1 World Way, Los Angeles",33.9435869099,-118.408083022
+49,2011-05-26 10:09:38,"Room 112, 112 S Tryon St, Charlotte",35.2273450355,-80.8435064487
+50,2011-04-10 04:16:07,"Aperto, 1434 18th St, San Francisco",37.7626052789,-122.397394993
+51,2011-03-31 10:15:06,"Stacy's Grille, 5801 Opus Pkwy, Hopkins",44.897397,-93.406203
+52,2011-03-28 05:09:52,"Cafe Latte'Da, 1704 Aliceanna St, Baltimore",39.2836281197,-76.5927475691
+53,2010-06-30 21:19:44,"Baltimore / Washington International Thurgood Marshall Airport (BWI), 7050 Friendship Road, Bwi Airport",39.1794083262,-76.6704097248
+54,2010-06-15 19:54:46,"BP, 610 Spring St, Atlanta",33.7709103537,-84.3893646815
+55,2010-05-03 17:46:36,"New York Penn Station (NYP), 1 Penn Plz, New York",40.7504364283,-73.9934851984
+56,2010-03-15 04:22:43,"Baltimore / Washington International Thurgood Marshall Airport (BWI), 7050 Friendship Road, Bwi Airport",39.1794083262,-76.6704097248
+57,2010-03-15 04:21:19,"Baltimore / Washington International Thurgood Marshall Airport (BWI), 7050 Friendship Road, Bwi Airport",39.1794083262,-76.6704097248
+58,2010-02-09 03:40:01,"Mount Everest Restaurant, 7927 Belair Rd, Nottingham",39.3730522508,-76.5081839801
+59,2010-02-02 05:52:26,"Walmart Home Office, 702 SW 8th St, Bentonville",36.3656890531,-94.2188918227
+60,2010-01-28 10:50:33,"George Bush Intercontinental Airport (IAH), 2800 N Terminal Rd, Houston",29.9872,-95.34774
+61,2010-01-25 13:19:22,"Northwest Arkansas Regional Airport (XNA), 1 Airport Blvd Ste 100, Bentonville",36.2755468783,-94.2970913047
+62,2010-01-22 14:24:55,"Jack's Bistro, 3123 Elliott St, Baltimore",39.279197,-76.571918
+63,2010-01-04 06:00:11,"Pour La France, Jeppesen Terminal, West Side, Level 6, Denver",39.849428,-104.673926
+64,2009-10-18 01:58:36,"Firehouse Coffee Co, 1030 S Linwood Ave, Baltimore",39.280238,-76.575511694

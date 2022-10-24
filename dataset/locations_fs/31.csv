@@ -1,0 +1,44 @@
+,time,poi,latitude,longitude
+0,2015-10-28 23:43:13,"Cafe Red, Martin Luther King Jr Way, Seattle",47.5601771602,-122.291417625
+1,2015-03-29 08:26:27,"Chely's Kitchen, E Union St, Seattle",47.6124486182,-122.296129725
+2,2014-08-25 07:13:31,"The Little Daisy Bake Shop, 622 Valley Rd, Montclair",40.8419678207,-74.2082309309
+3,2013-11-27 09:22:55,"Sideling Hill Service Plaza, Pennsylvania Turnpike, Waterfall",40.0588013323,-78.0819153786
+4,2013-11-24 11:51:29,"Salugo Bistro, 510 Bloomfield Ave, Verona",40.8308454737,-74.2440885846
+5,2013-10-15 05:10:03,"Neighborhood Cut and Shave Barber Shop, 37A Bedford St, New York",40.7296328514,-74.0039920807
+6,2013-07-01 21:42:22,"Ta5fk31n Bakery, 103 Hazel St, Paterson",40.8935088193,-74.1640813651
+7,2013-05-30 03:59:34,"Ristorante La Lanterna, Via S.M. Delle Grazie 28/30, Sorrento",40.6264684856,14.3745682434
+8,2013-05-26 18:19:20,"Ai Rusteghi, San Marco 5513, Venezia",45.4381262374,12.3373031616
+9,2013-05-22 18:31:17,"Finisterrae, P.zza Santa Croce, 12, Firenze",43.7689014421,11.2619136881
+10,2013-03-08 04:05:14,"La Colombe Torrefaction, 955 W Randolph St, Chicago",41.8841318351,-87.6518440247
+11,2012-11-14 02:31:06,"Westville, 333 Hudson St, New York",40.7270311111,-74.0075111389
+12,2012-11-14 02:28:35,"Westville, 333 Hudson St, New York",40.7270311111,-74.0075111389
+13,2012-10-20 08:01:39,"Ken Mooney's Auto Garage, 817 Clifton Ave, Clifton",40.8665273899,-74.1574244804
+14,2012-07-15 01:36:00,"Sugarbush Soaring, 2355 Airport Rd, Warren",44.118822,-72.827034
+15,2012-06-23 05:55:38,"Oyamel Cocina Mexicana, 401 7th St NW, Washington",38.8949032693,-77.0217776299
+16,2012-06-22 23:03:23,"Lincoln's Waffle Shop, 504 10th St NW, Washington",38.8964073827,-77.0260715292
+17,2012-05-14 01:31:45,"Mr. P's Mountain Smokehouse, 1106 US Route 9, Schroon Lake",43.8375555,-73.761297
+18,2012-03-10 00:18:32,"Tootsies Orchid Lounge, Concourse C, Nashville",36.1299772437,-86.6699644356
+19,2012-01-23 22:59:53,"Foursquare HQ, 568 Broadway Fl 10, New York",40.7241284245,-73.9972651005
+20,2011-12-04 07:25:20,"Loteria Grill, 12050 Ventura Blvd, Studio City",34.1433373552,-118.394374251
+21,2011-07-24 04:23:13,"Casa Lupita Cafe, 13120 Westlinks Ter Ste 10, Fort Myers",26.5533600774,-81.7561014798
+22,2011-07-18 20:30:52,"Flybridge Capital, 500 Boylston St Fl 18, Boston",42.3504114906,-71.0744035524
+23,2011-07-18 00:43:11,"Tam Falafel and Smoothie Bar, 222 Waverly Pl, New York",40.7359514105,-74.0017604163
+24,2011-06-06 07:17:25,"Village Natural, 46 Greenwich Ave, New York",40.735508,-74.0005250667
+25,2011-04-08 02:44:17,"Coppelia, 207 W 14th St, New York",40.7387216785,-74.0000044013
+26,2011-02-09 00:45:31,"AT&T, 592 6th Avenue, New York",40.739311,-73.995303
+27,2010-10-11 04:22:49,"The Grey Dog, 242 W 16th St, New York",40.7407868672,-74.0007102524
+28,2010-08-11 07:43:20,"Joseph Leonard, 170 Waverly Pl, New York",40.7335677903,-74.0016531944
+29,2010-08-06 01:07:10,"Cafeteria, 119 7th Ave, New York",40.7405760411,-73.9982024607
+30,2010-06-19 11:31:50,"Triple Shot World Atlas Cafe, 37 Clinton St, New York",40.720012,-73.98451536
+31,2010-04-10 07:32:59,"Fellow Barber, 5 Horatio St, New York",40.7385898488,-74.0036254472
+32,2010-04-09 22:28:12,"Dave's New York, 581 Avenue of the Americas, New York",40.739113,-73.995972
+33,2009-12-02 05:32:04,"Chan Dara, 11940 W Pico Blvd, Los Angeles",34.029621,-118.44919828
+34,2009-09-19 22:57:03,"Nonna's L.E.S. Pizzeria, 105 Clinton St, New York",40.718052,-73.985658
+35,2009-08-31 06:54:42,"Barrio Chino, 253 Broome St, New York",40.7181519065,-73.9900016785
+36,2009-08-09 13:39:02,"The Delancey, 168 Delancey St, New York",40.7179765539,-73.9853588395
+37,2009-06-14 05:56:40,"Roasting Plant Coffee, 75 Greenwich Ave, New York",40.736772,-74.000943
+38,2009-05-23 08:35:47,"Tiny's Giant Sandwich Shop, 129 Rivington St, New York",40.7196116875,-73.98675
+39,2009-05-03 05:46:31,"Coppersmith's Bar & Grill, 793 9th Ave, New York",40.765186,-73.987573
+40,2009-04-25 01:44:39,"Westside Market, 77 7th Ave, New York",40.7389701456,-73.9993100249
+41,2009-03-13 23:57:36,"Hilton Austin, 500 E 4th St, Austin",30.2654333611,-97.7381665604
+42,2009-02-06 02:12:12,"Spitzer's Corner, 101 Rivington St, New York",40.7200679065,-73.9883132279

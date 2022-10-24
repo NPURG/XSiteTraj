@@ -1,0 +1,80 @@
+,time,poi,latitude,longitude
+0,2015-10-24 13:35:24,"The Little Red Fox, 593 Hap Guan Street, Si15mrab",13.3573560715,103.856559753
+1,2015-05-23 03:39:27,"George Bush Intercontinental Airport (IAH), 2800 N Terminal Rd, Houston",29.9872,-95.34774
+2,2015-02-23 05:02:34,"Warak, 1638 Post St, San Francisco",37.7857002605,-122.428749784
+3,2015-02-03 02:23:30,"White Castle, 3411 Las Vegas Blvd S, Las Vegas",36.1208370068,-115.172041702
+4,2015-01-31 01:47:25,"San Francisco International Airport (SFO), N McDonnell Rd, San Francisco",37.6177798059,-122.386618601
+5,2014-10-28 12:29:23,"Terminal 4, LAX Airport, Los Angeles",33.9420334062,-118.406762983
+6,2014-10-27 10:25:12,"Mangos, Malecn de la Reserva 610, Miraflores",-12.1321190076,-77.0306664705
+7,2014-10-27 10:24:31,"Hilton Lima Miraflores, Av. La Paz 1099, Miraflores, Lima",-12.1289498688,-77.0265101281
+8,2014-10-27 10:23:52,"Larcomar, Malecn de la Reserva 610, Miraflores",-12.1318934894,-77.0302641392
+9,2014-10-27 10:23:11,"Casa Andina Classic Machu Picch, Prolongacin Imperio de Los Incas E - 34, Aguas Calientes",-13.1560896542,-72.5244024485
+10,2014-10-27 10:12:50,"Papacho's, Av. La Paz 1045, Miraflores",-12.1283932512,-77.0267744113
+11,2014-10-25 09:35:30,"Papacho's, Av. La Paz 1045, Miraflores",-12.1283932512,-77.0267744113
+12,2014-10-19 01:18:35,"Terminal 2, SFO Airport, San Francisco",37.6170869303,-122.382545471
+13,2014-09-29 07:38:33,"Nordstrom Rack Market Street, 901 Market St, San Francisco",37.78386972,-122.4080099
+14,2014-09-29 05:46:30,"Festival Pavilion, Fort Mason Center, San Francisco",37.807540378,-122.430220779
+15,2014-09-21 08:55:00,"Papito Hayes, 425 Hayes St Ste A, San Francisco",37.7766899451,-122.423496062
+16,2014-08-16 11:46:20,"St Giles - The Court, 130 E 39th St, New York",40.7495844796,-73.9776798029
+17,2014-08-15 09:38:16,"Sakagura, 211 E 43rd St Lowr Level, New York",40.7512891463,-73.9733752761
+18,2014-06-30 03:47:48,"VCA San Francisco Veterinary Specialists, 600 Alabama St, San Francisco",37.7616196617,-122.412285399
+19,2014-06-17 22:59:36,"Starbucks, 1 Airport Dr, Oakland",37.7115146571,-122.21476734
+20,2014-06-05 12:13:26,"Nest, 2300 Fillmore St, San Francisco",37.7908297397,-122.434118986
+21,2014-04-20 02:40:21,"Hodad's Downtown, 945 Broadway, San Diego",32.7158685667,-117.1557486
+22,2014-04-17 10:49:00,"Andal Mexican Restaurant, Gate 59, Terminal 2, San Francisco",37.6175118488,-122.38173008
+23,2013-12-25 05:29:21,"Banana Republic, 256 Grant Ave, San Francisco",37.78960713,-122.405028526
+24,2013-12-23 05:00:07,"La Boulangerie de San Francisco, 500 Hayes St, San Francisco",37.7766955833,-122.424712479
+25,2013-11-03 08:00:53,"Yountville Bacci Courts, 6419136467 Washington St Napa0e California0e 94599 United States, Yountville",38.3969578916,-122.357420548
+26,2013-11-03 07:56:22,"The French Laundry Garden, 6645 Washington, Yountville",38.4042031117,-122.365056976
+27,2013-10-29 09:53:42,"Gladstone's, Terminal 3, btwn Gates 34 & 35, Los Angeles",33.9466577895,-118.407390548
+28,2013-09-15 11:28:51,"Sierra Mar, 47900 Post Ranch Inn, Big Sur",36.22983,-121.771656
+29,2013-09-10 04:29:21,"Dentsu Aegis Network, 85 2nd St Fl 6, San Francisco",37.788216,-122.399657
+30,2013-09-05 22:21:57,"Newark Liberty International Airport (EWR), 10 Toler Pl, Newark",40.6949990392,-74.1776180149
+31,2013-09-04 04:48:27,"New York Public Library, 476 5th Ave, New York",40.7530255355,-73.9814849244
+32,2013-09-03 10:49:56,"The McKittrick Hotel, 530 W 27th St, New York",40.7508878031,-74.0038951579
+33,2013-08-24 05:11:23,"Hyde Street Pier, 2995 Hyde St, San Francisco",37.8090295566,-122.421233654
+34,2013-08-13 11:38:21,"Portsmouth Square Park, Portsmouth Square Plaza, San Francisco",37.7947561331,-122.405271905
+35,2013-08-07 04:04:10,"Conservatory of Flowers, 100 J F Kennedy Dr, San Francisco",37.7723499055,-122.460189189
+36,2013-07-28 04:05:47,"Wells Fargo History Museum, 420 Montgomery St, San Francisco",37.7933559417,-122.402865748
+37,2013-06-24 11:09:44,"Duboce Park, Duboce Ave, San Francisco",37.7694579522,-122.4330134
+38,2013-06-10 03:44:59,"Neighbors Wash & Dry, 530 Buchanan St, San Francisco",37.7748938894,-122.427643759
+39,2013-04-13 05:44:43,"South Park, South Park Ave, San Francisco",37.7816499259,-122.393899262
+40,2013-02-18 10:20:30,"VCA San Francisco Veterinary Specialists, 600 Alabama St, San Francisco",37.7616196617,-122.412285399
+41,2013-01-23 05:29:22,"R/GA San Francisco, 35 South Park, San Francisco",37.7816291323,-122.393445253
+42,2013-01-06 09:47:56,"San Francisco Food Bank, 900 Pennsylvania Ave, San Francisco",37.754475,-122.393278
+43,2012-12-30 05:48:22,"Banana Republic, 256 Grant Ave, San Francisco",37.78960713,-122.405028526
+44,2012-11-19 06:07:05,"Pearl's Korean BBQ, 275 W Kaahumanu Ave, Kahului",20.8878452307,-156.475276788
+45,2012-11-18 08:06:34,"Ululani's Hawaiian Shave Ice, 819 Front St, Lahaina",20.875255118,-156.679469681
+46,2012-11-18 07:48:48,"Huli Huli Chicken Plates, Hwy 30, Lahaina",20.8971942442,-156.684918279
+47,2012-11-18 04:23:05,"Launiupoko Farmers Market, Honoapiilani Hwy, Lahaina",20.8428841776,-156.652140146
+48,2012-11-16 12:38:43,"Vietnamese Cuisine, 1280 S Kihei Rd, K2bhei",20.749249,-156.4560382
+49,2012-11-15 09:48:16,"Star Noodle, 286 Kupuohi St, Lahaina",20.8852828723,-156.674654949
+50,2012-11-14 04:48:37,"Four Sisters Bakery, Vineyard, Wailuk",20.8897858287,-156.501930059
+51,2012-10-22 08:47:59,"Blue Ribbon Sushi Izakaya, 187 Orchard St, New York",40.7220948203,-73.9881250539
+52,2012-10-16 09:45:05,"Esca, 402 W 43rd St, New York",40.7592472851,-73.9924923778
+53,2012-09-30 03:58:56,"Indian Oven, 233 Fillmore St, San Francisco",37.7717041097,-122.430419859
+54,2012-08-20 05:41:00,"Burgermeister, 138 Church St, San Francisco",37.768755,-122.429105167
+55,2012-08-08 10:11:16,"Daiso Japan, 570 Market St, San Francisco",37.7894044363,-122.401283739
+56,2012-07-04 03:24:01,"Fishion Herb Center/Massage, 107 Mott St, New York",40.7174083252,-73.9973703487
+57,2012-06-29 15:25:19,"The Needle and Thread, 1406 12th Ave, Seattle",47.6132440567,-122.316843
+58,2012-06-17 07:05:17,"Brandy Melville, 2085 Chestnut St, San Francisco",37.800518,-122.437505
+59,2012-04-14 10:50:02,"Mexico au Parc, 24 South Park, San Francisco",37.7821798958,-122.393586785
+60,2012-04-12 01:18:02,"R/GA San Francisco, 35 South Park, San Francisco",37.7816291323,-122.393445253
+61,2012-03-05 00:17:39,"Forefront Church, 127 E 23rd St, New York",40.7396751383,-73.9851005809
+62,2012-02-19 09:36:56,"XOX Truffles, 754 Columbus Ave, San Francisco",37.8016859112,-122.41229093
+63,2012-02-19 04:21:03,"Fillmore Farmers' Market, Fillmore St. & O'Farrell St., San Francisco",37.783148,-122.432907
+64,2012-02-16 13:15:01,"B44 Catalan Bistro, 44 Belden Pl, San Francisco",37.7914600557,-122.4036844
+65,2012-02-16 12:50:13,"B44 Catalan Bistro, 44 Belden Pl, San Francisco",37.7914600557,-122.4036844
+66,2012-02-10 06:17:36,"R/GA, 450 W 33rd St, New York",40.7535018683,-73.9991780358
+67,2012-02-04 04:48:02,"Unilever, 75 Merritt Blvd, Trumbull",41.2412146331,-73.1454970714
+68,2012-01-30 03:52:54,"Schnipper's Quality Kitchen, 1 Madison Ave, New York",40.7408307677,-73.9876372389
+69,2012-01-15 13:48:26,"Port Authority Bus Terminal, 625 8th Ave, New York",40.757101285,-73.9914593798
+70,2012-01-15 07:29:23,"Asian Jewels Seafood Restaurant 66ce779c52b6, 13330 39th Ave, Flushing",40.7592855009,-73.8332426548
+71,2012-01-15 07:24:21,"Traditional Xinjiang Barbecue Cart b0868a8932, 41st Avenue, Flushing",40.7605043246,-73.8301695446
+72,2012-01-15 07:22:54,"Chatime e5fa362a, 40-10 Main St, Flushing",40.7593144793,-73.8299110802
+73,2011-12-16 23:05:23,"Murray Hill Medical Group, 317 E 34th St, New York",40.7446482677,-73.9751659709
+74,2011-12-12 22:42:28,"R/GA Coffee Bar, 350 W 39th St, New York",40.7560473969,-73.9936516245
+75,2011-11-18 23:30:30,"HSBC, 557 7th Ave, New York",40.7542572187,-73.9881537489
+76,2011-10-02 23:31:04,"Starbucks, 304 Park Ave S, New York",40.7402874243,-73.9866099538
+77,2011-08-21 03:45:50,"Esposito's Pork Shop, 500 9th Ave, New York",40.7557890869,-73.9944206258
+78,2011-08-18 08:21:26,"Hudson Crossing Gym, 400 W 37th St, New York",40.7551204587,-73.9950576321

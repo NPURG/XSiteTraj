@@ -1,0 +1,43 @@
+,time,poi,latitude,longitude
+0,2016-04-29 00:29:48,"Cultivate Coffee & TapHouse, 307 N River St, Ypsilanti",42.2449106864,-83.6090169389
+1,2015-09-20 01:08:11,"Keflavik International Airport (KEF), Keflavkurflugvelli, Reykjanesbr",63.9911706293,-22.6229095459
+2,2015-09-16 01:15:18,"Noodle Station, Laugavegur 86, Reykjavk",64.1435909806,-21.9184307554
+3,2015-09-16 01:14:46,"Bjarins Beztu Pylsur, Tryggvagata 1, Reykjavk",64.1482706711,-21.9379280169
+4,2015-09-16 01:14:21,"Bakar Sandholt, Laugavegi 36, Reykjavk",64.145121,-21.926212
+5,2015-09-16 01:13:25,"Mokka-Kaffi, Sklavrustgur 3a, Reykjavk",64.1460100668,-21.9324454049
+6,2015-09-16 01:12:50,"Kaffibarinn, Bergstaastri 1, Reykjavk",64.1459015936,-21.9313716888
+7,2015-09-11 03:26:20,"Htel Egilsen, Aalgata 2, Stykkishlmur",65.077051,-22.725812
+8,2015-09-11 03:24:27,"Jarbin 13 Mvatn Nature Baths, Jarbashlar, Reykjahl",65.6311812811,-16.847778195
+9,2015-09-11 03:24:08,"Dimmuborgir Guesthouse, Dimmuborgir, Reykjahl",65.6027391941,-16.9283120327
+10,2015-09-11 03:23:10,"Vogafjos Cowshed Cafe, Vogar, Reykjahl",65.6240805913,-16.9225265723
+11,2015-09-11 03:22:11,"Kaffi Lra / El Grillo Bar, Norurgata 3, Seyisfjrur",65.2604910109,-14.0095034176
+12,2015-07-20 03:24:23,"Nails 07, N Main Street, Royal Oak",42.4905262293,-83.1430724172
+13,2015-07-20 03:23:10,"Richard Rodgers Theatre, 226 W 46th St, New York",40.7593097517,-73.9867075175
+14,2015-07-06 21:27:30,"Burgundy Lion, 2496, rue Notre-Dame Ouest, Montral",45.482799191,-73.5752300594
+15,2015-07-06 21:27:00,"Macri Park, 462 Union Ave, Brooklyn",40.7142879402,-73.951667517
+16,2015-07-06 21:26:30,"Zona Rosa, 571 Lorimer St, Brooklyn",40.714084,-73.949566
+17,2015-07-06 21:26:02,"Chalet du Mont Royal, 1196 voie Camillien-Houde, Montral",45.503705299,-73.5873695525
+18,2015-07-06 21:25:39,"Olive et Gourmando, 351, rue Saint-Paul Ouest, Montral",45.501277,-73.556339
+19,2015-07-06 21:24:34,"L'Orignal, 479 Rue Saint-Alexis, Montral",45.5027819902,-73.5581536016
+20,2015-07-06 21:24:19,"Vices & Versa Bistro Du Terroir, 6631 boul. Saint-Laurent, Montral",45.5314266753,-73.6108589997
+21,2015-07-06 21:23:46,"Le Bremner, 361, rue Saint-Paul Est, Montral",45.5093909156,-73.5516121552
+22,2015-07-06 21:23:23,"Main Deli Steak House, 3864 boul. Saint-Laurent, Montral",45.5161704587,-73.5775557977
+23,2015-07-06 21:22:26,"Le Sainte-lisabeth, 1412, rue Sainte-lisabeth, Montral",45.5124090214,-73.5622409688
+24,2015-02-28 13:50:10,"Talde, 369 7th Ave, Brooklyn",40.6656108642,-73.9826442375
+25,2015-02-28 13:45:29,"Bar Matchless, 557 Manhattan Ave, Brooklyn",40.7221830658,-73.9499348402
+26,2015-02-28 13:44:47,"Brodo, 200 1st Ave, New York",40.7301589338,-73.9833558916
+27,2015-02-28 13:44:00,"Fields Good Chicken, 101 Maiden Ln, New York",40.7069474968,-74.006993934
+28,2015-02-28 13:41:22,"The Bar at Husk, 76 Queen St, Charleston",32.777925537,-79.9319907112
+29,2015-02-01 01:47:00,"Est. 1986, 43 W 32nd St, New York",40.7481315705,-73.9877921921
+30,2015-01-04 03:23:37,"The Commodore, 366 Metropolitan Ave, Brooklyn",40.7140432473,-73.9559590816
+31,2015-01-04 03:23:08,"Keg & Lantern Brewing Company, 97 Nassau Ave, Brooklyn",40.7240065111,-73.9503243337
+32,2015-01-04 03:22:47,"juice press, 415 Greenwich St, New York",40.7218859155,-74.009857388
+33,2015-01-04 03:22:20,"URO Caf, 277 Driggs Ave, Brooklyn",40.722547,-73.949033
+34,2015-01-04 03:20:13,"The Movement, 32 W 18th St, New York",40.7392918728,-73.9937204904
+35,2015-01-04 03:18:29,"Cacao Tree Cafe, 204 W 4th St, Royal Oak",42.4873792957,-83.1457112852
+36,2015-01-04 03:18:04,"Airtime Trampoline and Game Park, 662 E Big Beaver Rd, Troy",42.5613021912,-83.1343434965
+37,2014-12-29 13:19:50,"Barry19s Bootcamp, 135 W 20th St, New York",40.7415706088,-73.995700375
+38,2014-12-29 13:18:48,"Peter Pan Donut & Pastry Shop, 727 Manhattan Ave, Brooklyn",40.7261176667,-73.9521284833
+39,2014-12-29 13:18:08,"Budget Inn & Suites, 320 Greentree Dr, East Stroudsburg",40.9893743893,-75.1728828289
+40,2014-12-29 13:17:16,"Cranbrook, 39221 Woodward Ave, Bloomfield Hills",42.5693012837,-83.249840159
+41,2014-12-05 09:05:52,"Arts and Crafts Beer Parlor, 26 W 8th St, New York",40.7327661705,-73.9977204101

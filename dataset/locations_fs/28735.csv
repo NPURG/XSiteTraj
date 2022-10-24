@@ -1,0 +1,66 @@
+,time,poi,latitude,longitude
+0,2016-10-01 07:49:50,"Outback Steakhouse, 1340 Howe Ave, Sacramento",38.590747,-121.414914
+1,2016-10-01 07:48:53,"The Running Iron, 24 E Carmel Valley Rd, Carmel Valley",36.4783591032,-121.728961383
+2,2016-09-24 06:06:17,"Wendy's, 4180 Northgate Blvd, Sacramento",38.645164,-121.4752087
+3,2016-09-24 06:05:55,"Starbucks, 2100 Arden Way, Sacramento",38.595793,-121.416173
+4,2016-09-24 06:05:10,"IHOP, 3800 Northgate Blvd, Sacramento",38.63779,-121.4769
+5,2016-09-24 06:04:35,"Crocker Art Museum, 216 O St, Sacramento",38.5770870838,-121.505747437
+6,2016-07-09 02:41:36,"Social Security Office, 825 Riverside Pkwy, West Sacramento",38.5905631145,-121.563895288
+7,2016-07-09 02:40:34,"AMPM, 4747 Northgate Blvd, Sacramento",38.65466708,-121.478764415
+8,2016-07-09 02:40:04,"Starbucks, 1151 Galleria Blvd, Roseville",38.77469603,-121.268827915
+9,2016-07-09 02:39:29,"Build-A-Bear Workshop, 1151 Galleria Blvd Ste 1197, Roseville",38.7739221829,-121.27005513
+10,2016-07-09 02:38:47,"Westfield Forest Family PlaySpace, 1151 Galleria Blvd, Roseville",38.7740742133,-121.270016013
+11,2016-07-09 02:38:19,"Jelly Belly, 1151 Galleria Blvd #1203, Roseville",38.7741055089,-121.269893073
+12,2016-07-09 02:37:42,"Disney Store, 1151 Galleria Blvd., Roseville",38.7741095414,-121.269205726
+13,2016-07-09 02:36:47,"Fuego, 1151 Galleria Blvd, Roseville",38.7745981048,-121.268853669
+14,2016-07-09 02:36:25,"Wetzel's Pretzels, 1151 Galleria Blvd #1027, Roseville",38.773979132,-121.26993219
+15,2016-07-09 02:35:54,"McDonald's, 1721 Howe Ave, Sacramento",38.5967069156,-121.415829062
+16,2016-07-09 02:35:25,"Blaze Pizza, 10325 Fairway Dr, Roseville",38.7895976695,-121.283706218
+17,2016-07-09 02:34:46,"Howe 'Bout Arden, 2100 Arden Way, Sacramento",38.5957643272,-121.41610002
+18,2016-07-09 02:34:25,"Starbucks, 458 Howe Avenue, Sacramento",38.573353,-121.41381
+19,2016-07-09 02:33:54,"Olive Garden, 1780 Challenge Way, Sacramento",38.5974126457,-121.425515083
+20,2016-07-09 02:33:14,"Jack's Urban Eats, 4730 Natomas Blvd, Sacramento",38.6589734558,-121.510988474
+21,2016-07-02 09:06:33,"BoxLunch, 1689 Arden Way #1167, Sacramento",38.602158,-121.4282
+22,2016-07-02 09:05:49,"Disney Store, 1689 Arden Way, Sacramento",38.6014085898,-121.427225769
+23,2016-07-02 09:04:47,"Buffalo Wild Wings, 3600 N Freeway Blvd Ste 100, Sacramento",38.6392417911,-121.49925196
+24,2016-07-02 09:03:55,"Pete's Restaurant & Brewhouse, 4571 Gateway Park Blvd Ste 1C, Sacramento",38.655596,-121.503221283
+25,2016-06-25 04:34:52,"Charles M. Schulz Museum & Research Center, 2301 Hardies Ln, Santa Rosa",38.4605970544,-122.735515455
+26,2016-06-18 01:41:55,"Gunther's Quality Ice Cream, 2801 Franklin Blvd, Sacramento",38.553477186,-121.475652588
+27,2016-06-12 03:51:19,"Starbucks, 2620 Gateway Oaks Dr, Sacramento",38.613505,-121.516628
+28,2016-06-12 03:50:35,"Corner Bakery Cafe, 2281 Del Paso Rd Ste 150, Sacramento",38.6564624779,-121.511359329
+29,2015-03-17 03:03:36,"Starbucks, 1200 Cirby Way, Roseville",38.729192373,-121.271128052
+30,2014-12-14 08:20:22,"Adventure Christian Church, 4600 Blackrock Dr, Sacramento",38.6573220176,-121.494594939
+31,2014-05-19 05:44:04,"Rubio's, 6706 Stanford Ranch Rd, Rocklin",38.7827755417,-121.266403198
+32,2014-01-31 01:38:10,"Firehouse Subs, 3830 Truxel Rd Ste 100, Sacramento",38.6386954,-121.5047736
+33,2014-01-14 10:01:51,"Taco Bell, 1801 Watt Ave, Sacramento",38.5975999327,-121.383513808
+34,2013-12-28 02:10:06,"In-N-Out Burger, 2900 Del Paso Rd, Sacramento",38.6554330587,-121.525928117
+35,2013-12-09 09:19:25,"The UPS Store, 1500 W El Camino Ave, Sacramento",38.61208032,-121.4951415
+36,2013-12-09 02:55:06,"Adventure Christian Church, 4600 Blackrock Dr, Sacramento",38.6573220176,-121.494594939
+37,2013-11-01 04:00:36,"McDonald's, 3773 Northgate Blvd, Sacramento",38.6359011627,-121.476578414
+38,2013-10-17 09:43:49,"Taco Bell, 2921 Advantage Ln, Sacramento",38.6546904214,-121.526989386
+39,2013-07-10 06:11:19,"Panda Express, 2940 Del Paso Rd, Sacramento",38.65542,-121.52726584
+40,2013-05-10 05:07:23,"Arby's, 3291 Truxel Rd Ste C, Sacramento",38.6254120451,-121.498456389
+41,2013-04-27 10:38:48,"Del Taco, 3531 Truxel Rd, Sacramento",38.635888,-121.503081
+42,2013-04-27 10:36:42,"Del Taco, 3531 Truxel Rd, Sacramento",38.635888,-121.503081
+43,2013-03-17 12:01:02,"Denny's, 300 Bercut Dr, Sacramento",38.5973464515,-121.502442049
+44,2013-03-09 00:48:18,"IHOP, 2941 Advantage Lane, Sacramento",38.65533,-121.5287
+45,2013-02-22 03:11:40,"Taco Bell, 776 Ikea Ct, West Sacramento",38.590917837,-121.550851361
+46,2012-06-27 02:40:02,"Golden Tiger Chinese Food Restaurant, 1494 Madera Rd, Simi Valley",34.2663631667,-118.79576975
+47,2012-04-15 08:33:06,"Sub Zero Ice Cream and Frozen Yogurt, 2091 N Madera Rd Ste E, Simi Valley",34.2734594092,-118.797146376
+48,2012-04-15 08:32:49,"Sub Zero Ice Cream and Frozen Yogurt, 2091 N Madera Rd Ste E, Simi Valley",34.2734594092,-118.797146376
+49,2011-12-03 12:28:51,"Taqueria Jalisco, 4275 Tierra Rejada Rd, Moorpark",34.2684952556,-118.898591995
+50,2011-11-24 05:03:10,"Jamba Juice, 888 New Los Angeles Ave.,, Moorpark",34.27921668,-118.8644452
+51,2011-11-15 04:07:00,"McDonald's, Collins, Moorpark",34.2956699494,-118.843456737
+52,2011-10-29 01:02:15,"VONS, 4241 Tierra Rejada Rd, Moorpark",34.2677105759,-118.898940682
+53,2011-10-20 06:25:23,"Jersey Mike's Subs, 144 W. Los Angeles Ave., Moorpark",34.2779424667,-118.88302575
+54,2011-09-02 02:59:47,"Taco Bell, 125 W Los Angeles Ave, Moorpark",34.2791720194,-118.883610178
+55,2011-05-10 07:06:29,"U.S. Post Office, 100 W High St, Moorpark",34.2851092406,-118.883399963
+56,2011-05-06 07:49:50,"In-N-Out Burger, 856 Los Angeles Ave, Moorpark",34.2801489942,-118.865440569
+57,2011-01-01 21:47:24,"Santa Cruz Diner, 909 Ocean St, Santa Cruz",36.9803129506,-122.021761537
+58,2010-12-08 07:58:10,"The LEGO Store, 1689 Arden Way #2170, Sacramento",38.601749,-121.428254
+59,2010-08-18 11:39:57,"McDonald's, 3773 Northgate Blvd, Sacramento",38.6359011627,-121.476578414
+60,2010-04-20 06:54:18,"Tire Stop, 7601 Amherst St, Sacramento",38.48103955,-121.50111923
+61,2010-03-26 01:37:17,"McDonald's, 4124 Florin Rd, Sacramento",38.4957645067,-121.457555159
+62,2010-03-26 01:36:43,"McDonald's, 4124 Florin Rd, Sacramento",38.4957645067,-121.457555159
+63,2010-02-15 15:58:23,"Chi-Chi's Pizza, 5145 E Los Angeles Ave, Simi Valley",34.2726859654,-118.692178177
+64,2010-01-03 15:54:36,"Taco Bell, 125 W Los Angeles Ave, Moorpark",34.2791720194,-118.883610178

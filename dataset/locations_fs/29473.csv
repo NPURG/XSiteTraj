@@ -1,0 +1,54 @@
+,time,poi,latitude,longitude
+0,2015-12-24 10:28:40,"KFC, 5925 W 3rd St, Los Angeles",34.06980445,-118.349575
+1,2013-09-26 05:17:17,"Flaming Patty's, 720 Vine St, Los Angeles",34.08408755,-118.326358
+2,2013-02-11 04:45:33,"John ""Chuck"" Erreca Southbound Rest Area, Interstate 5, Merced County",36.8626820394,-120.783781358
+3,2013-02-10 05:25:40,"Rose Garden, Golden Gate Park, San Francisco",37.7720064456,-122.471350506
+4,2013-02-09 10:26:09,"Pier 23 Cafe, Pier 23, San Francisco",37.8034,-122.400815
+5,2013-01-17 02:53:57,"Malibu Healing Center, 21355 Pacific Coast Hwy, Malib",34.037865,-118.63994
+6,2013-01-06 06:36:38,"Duke's Malib, 21150 Pacific Coast Hwy, Malib",34.0363397364,-118.635660336
+7,2012-12-12 04:09:01,"Fresh Corn Grill, 8714 Santa Monica Blvd, West Hollywood",34.087211,-118.380249
+8,2012-03-14 11:02:46,"Stubb's Bar-B-Q, 801 Red River St, Austin",30.2686176874,-97.7361508854
+9,2012-03-14 10:21:36,"Stubb's Bar-B-Q, 801 Red River St, Austin",30.2686176874,-97.7361508854
+10,2012-03-08 06:22:38,"Grub, 911 Seward St, Los Angeles",34.08763065,-118.333360333
+11,2012-02-23 09:45:11,"My Bed, 11421 Elvins St, Lakewood, CA 90715, Lakewood",33.8456732696,-118.091152605
+12,2012-02-22 15:46:49,"Du-par's, 6333 W 3rd St, Los Angeles",34.0719236607,-118.361041448
+13,2012-02-22 15:45:44,"Whole Foods Market, 6350 West 3rd St, Los Angeles",34.0702541202,-118.360740152
+14,2011-12-30 11:14:56,"Seward Film Vaults, 1010 Seward St, Los Angeles",34.0892779827,-118.333134055
+15,2011-12-30 06:44:32,"California Surplus Market, 6263 Santa Monica Blvd, Los Angeles",34.0909272024,-118.326444626
+16,2011-12-29 06:45:43,"Chick-fil-A Hollywood Drive-Thru Only, 6750 W Sunset Blvd, Los Angeles",34.097761,-118.338247
+17,2011-12-26 13:03:03,"Mayhem HQ, 4818 Riverside Dr, Los Angeles",34.0929871654,-118.239068299
+18,2011-11-27 16:41:41,"Universal Studios Hollywood Globe and Fountain, 100 Universal Plaza, Los Angeles",34.1366246366,-118.355665655
+19,2011-11-19 13:55:23,"Walgreens, 1050 N Highland Ave, Los Angeles",34.0905424201,-118.338224534
+20,2011-11-16 07:13:14,"Elite Hair Salon, 5870 Melrose Ave, Los Angeles",34.083173275,-118.328552842
+21,2011-11-08 11:40:03,"Chick-fil-A Hollywood Drive-Thru Only, 6750 W Sunset Blvd, Los Angeles",34.097761,-118.338247
+22,2011-10-30 15:29:27,"Du-par's, 6333 W 3rd St, Los Angeles",34.0719236607,-118.361041448
+23,2011-09-23 07:48:32,"Amoeba Music, 6400 W Sunset Blvd, Los Angeles",34.0977540051,-118.329160833
+24,2011-09-22 16:58:17,"Langer's Delicatessen-Restaurant, 704 S Alvarado St, Los Angeles",34.0562642016,-118.276795347
+25,2011-09-22 05:51:05,"Mole-Richardson Co., 12154 Montague St, Los Angeles",34.2567,-118.39695
+26,2011-09-21 03:28:36,"Urth Caff, 8565 Melrose Ave, West Hollywood",34.0820740263,-118.37887103
+27,2011-09-18 12:24:58,"BJ's Restaurant and Brewhouse, 101 N Brand Blvd, Glendale",34.14653373,-118.2551606
+28,2011-09-17 06:12:36,"Jackapotamus, 2806 Main St, Santa Monica",33.9997707942,-118.481614755
+29,2011-09-15 05:08:59,"Poquito Mas, 2635 W Olive Ave, Burbank",34.159909,-118.331111
+30,2011-09-08 05:30:19,"California Chicken Cafe, 6805 Melrose Ave, Los Angeles",34.0835916996,-118.34097035
+31,2011-09-08 05:28:23,"Simon's Camera, 1213 N Highland Ave, Los Angeles",34.0928345919,-118.338965178
+32,2011-09-06 09:30:51,"Veggie Grill, 81 Fortune Dr Ste 109, Irvine",33.6509225078,-117.743225098
+33,2011-09-05 09:58:28,"Fiddlers Bistro, 6009 W 3rd St, Los Angeles",34.070156,-118.351678848
+34,2011-08-31 02:34:22,"California Chicken Cafe, 6805 Melrose Ave, Los Angeles",34.0835916996,-118.34097035
+35,2011-08-28 10:14:07,"Wet Seal, 121 La Cienega Bd #696, Los Angeles",34.074273937,-118.377122149
+36,2011-08-25 06:35:48,"Sea Minor Pescetarian Restaurant, 5784 Melrose Ave, Los Angeles",34.0835244651,-118.326306922
+37,2011-08-17 11:33:56,"Cactus Mexican Food, 950 Vine St, Los Angeles",34.088183,-118.326551914
+38,2011-08-17 04:28:09,"RadioShack, 5786 Melrose Ave, Los Angeles",34.0831331,-118.3262359
+39,2011-08-17 04:27:34,"Samy's Camera, 431 S Fairfax Ave, Los Angeles",34.0688582407,-118.361643255
+40,2011-08-17 04:26:55,"Simon's Camera, 1213 N Highland Ave, Los Angeles",34.0928345919,-118.338965178
+41,2011-08-17 04:26:15,"Apple, 189 The Grove Drive, Los Angeles",34.072253,-118.35781
+42,2011-08-17 04:25:39,"El Pollo Loco, 1260 N Vine St, Los Angeles",34.0941147336,-118.326467324
+43,2011-08-08 11:23:08,"Crown of India, 6755 Santa Monica Boulevard, Los Angeles",34.090998,-118.337686267
+44,2011-06-10 16:55:55,"Gold19s Gym Hollywood, 1016 Cole Ave, Los Angeles",34.0893247528,-118.329714486
+45,2010-11-03 07:33:10,"Pink's Hot Dogs, 709 N LA Brea Ave, Los Angeles",34.0838588294,-118.34420085
+46,2010-08-30 18:19:31,"Bronson Caves, 2960 Canyon Dr, Los Angeles",34.1214126953,-118.315147669
+47,2010-08-29 18:06:47,"SJ Park, Chesapeake, Irvine",33.714768,-117.765369
+48,2010-08-19 13:28:52,"La Adelita No. 2, 5812 Santa Monica Blvd, Los Angeles",34.0906459093,-118.316374
+49,2010-08-13 06:06:56,"Chipotle Mexican Grill, 1460 Vine St, Los Angeles",34.097419,-118.326468
+50,2010-03-18 14:34:55,"Whataburger, 6106 Cameron Rd, Austin",30.3192202091,-97.6981821175
+51,2009-12-05 20:22:53,"The 101 Coffee Shop, 6145 Franklin Ave, Los Angeles",34.1053034929,-118.323978095
+52,2009-10-18 08:58:35,"Irvine Spectrum Center, 670 Spectrum Center Dr, Irvine",33.6511002267,-117.744933866

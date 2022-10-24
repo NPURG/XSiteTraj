@@ -1,0 +1,74 @@
+,time,poi,latitude,longitude
+0,2014-10-30 11:40:12,"Hibachi Dumpling Express, 229 1st Ave, New York",40.7310835848,-73.9828278905
+1,2014-03-16 13:15:50,"Charity's, 2194 Killington Rd, Killington",43.64175371,-72.788813
+2,2013-10-15 04:14:17,"Root Down, 8500 Pea Blvd, Denver",39.8631623295,-104.673309973
+3,2013-08-23 20:51:34,"AP Caf, 420 Troutman St, Brooklyn",40.7070085366,-73.9222115278
+4,2013-06-30 23:42:36,"The Cobra Club, 6 Wyckoff Ave, Brooklyn",40.706759587,-73.9232175936
+5,2013-05-06 05:29:27,"Windy City Ale House, 7915 3rd Ave, Brooklyn",40.6282325231,-74.0291315054
+6,2013-02-04 05:51:01,"New York Sports Club, 10 Irving Pl, New York",40.7344430701,-73.9883775695
+7,2013-01-21 14:36:52,"Silver Gulch Brewing & Bottling Co., 5000 W Intl Airport Rd, Anchorage",61.1736659323,-149.982339125
+8,2012-12-11 12:21:43,"The Cobra Club, 6 Wyckoff Ave, Brooklyn",40.706759587,-73.9232175936
+9,2012-10-11 19:51:48,"Slip Mahoney's Bar & Grill, Terminal C, Flushing",40.772332,-73.865393
+10,2012-09-08 22:11:23,"Lucky's Lounge, at Terminal A, Boston",42.3647274522,-71.0216331482
+11,2012-08-31 07:06:55,"New Haven Union Station (NHV) - Metro North/Amtrak/Shore Line East, 50 Union Ave, New Haven",41.2976840231,-72.9265136063
+12,2012-08-23 23:38:12,"The Halal Guys, W 53rd St, New York",40.7617701944,-73.9791892342
+13,2012-06-16 06:56:25,"Max & Erma's, Concourse B (B9), Hebron",39.05036563,-84.6570847488
+14,2012-06-10 05:20:31,"Meadowlands Rail Station, 50 State Rt 120, East Rutherford",40.8131271482,-74.0721416473
+15,2012-05-11 23:21:50,"Bridgewater's Pub, 30th Street Station, Philadelphia",39.9553131533,-75.1823186874
+16,2012-01-04 08:08:16,"New York Sports Club, 10 Irving Pl, New York",40.7344430701,-73.9883775695
+17,2011-12-10 04:21:16,"Boulevard Brewpub, Terminal B, Kansas City",39.2939309757,-94.7180098833
+18,2011-10-04 05:15:15,"Heineken Lounge, Gate A74, Concourse A, McNamara Terminal, Detroit",42.2140590134,-83.3537442757
+19,2011-09-05 10:43:35,"C.C. O'Brien's, 28 Mechanic St, Pawcatuck",41.3769372017,-71.8332263075
+20,2011-07-30 12:42:05,"Sip & Sail Tavern, Water Street, Oneonta",42.4533114133,-75.0622297393
+21,2011-07-19 04:27:21,"The Whole Bowl, SW 9th and Alder, Portland",45.5206313647,-122.681257725
+22,2011-07-05 19:18:45,"Amtrak/Shore Line East - Old Saybrook Train Station (OSB), 455 Boston Post Rd, Old Saybrook",41.3002925464,-72.3776962616
+23,2011-07-01 06:04:42,"New Haven Union Station (NHV) - Metro North/Amtrak/Shore Line East, 50 Union Ave, New Haven",41.2976840231,-72.9265136063
+24,2011-06-27 05:45:19,"Pearl's Social & Billy Club, 40 Saint Nicholas Ave, Brooklyn",40.7070817339,-73.9213290811
+25,2011-05-26 08:55:45,"Sze's Garden, 201 Cypress Ave, Ridgewood",40.7082305151,-73.9197063446
+26,2011-03-19 05:45:25,"MTA Subway - 50th St (1), W 50th St, New York",40.7614634089,-73.9840364456
+27,2010-09-07 01:10:44,"York Toll Plaza, Maine Turnpike, Town of York",43.1602234823,-70.6591846318
+28,2010-09-03 08:41:29,"Fox Hollow Farm, Winthrop Center Road, Winthrop",44.2739672883,-69.9418830872
+29,2010-07-31 11:52:53,"Boucher's Wood River Inn, 1139 Main St., Hope Valley",41.5150193229,-71.7019719968
+30,2010-07-02 10:13:30,"Cougar Island, 1413 County Route 17, Bernhards Bay",43.328147,-75.899554
+31,2010-06-23 07:36:50,"Whole Foods Market, 95 East Houston St, New York",40.7237891915,-73.9915856354
+32,2010-06-17 07:18:36,"Yankee Stadium, 1 E 161st St, Bronx",40.8292247014,-73.9263406302
+33,2010-06-11 20:28:16,"Track 84, 84 Kilvert St, Warwick",41.729069,-71.44107
+34,2010-06-11 20:23:50,"McCoy Stadium, 1 Columbus Ave, Pawtucket",41.8726206947,-71.3699877262
+35,2010-06-11 20:19:11,"Blue State Coffee, 300 Thayer St, Providence",41.8300447667,-71.400805
+36,2010-06-11 20:16:44,"Trinity Brewhouse, 186 Fountain St, Providence",41.8224976409,-71.416853311
+37,2010-06-11 19:57:34,"Cafe La France, 1 Citizens Plz, Providence",41.82774661,-71.4112186432
+38,2010-06-09 07:22:48,"Dallas Fort Worth International Airport (DFW), 2400 Aviation Dr, DFW Airport",32.8981938445,-97.0371293759
+39,2010-06-06 09:08:35,"Frank Restaurant, 407 Colorado St, Austin",30.2665964687,-97.7445958882
+40,2010-06-04 08:27:21,"The Pony Bar, 637 10th Ave, New York",40.7617234528,-73.994153738
+41,2010-02-28 12:49:22,"Chimayo, 368 Main St, Park City",40.643094,-111.495285
+42,2010-02-28 01:27:39,"O'Shucks Bar & Grill, 427 Main St, Park City",40.6438399055,-111.496079564
+43,2010-02-28 01:17:04,"Empire Canyon Lodge, 9200 Marsac Ave Suite 113, Park City",40.615074,-111.509781
+44,2010-02-26 10:47:51,"Mariposa, 7600 Royal Street Suite 305, Park City",40.621813,-111.488295
+45,2010-02-25 02:19:36,"Squatters Pub Brewery, Salt Lake City International Airport, Salt Lake City",40.7877795716,-111.98141098
+46,2010-02-23 04:43:14,"No Name Saloon & Grill, 447 Main St, Park City",40.6438410388,-111.496085386
+47,2010-02-23 04:42:43,"El Chubasco, 1890 Bonanza Dr #115, Park City",40.6615390059,-111.499869909
+48,2010-02-22 01:59:26,"Bagel Boss, 263 1st Ave, New York",40.7321981288,-73.981812058
+49,2010-02-11 09:42:58,"Hop Devil Grill, 129 Saint Marks Pl, New York",40.726819,-73.983331
+50,2009-12-27 10:34:40,"Boucher's Wood River Inn, 1139 Main St., Hope Valley",41.5150193229,-71.7019719968
+51,2009-12-23 02:26:23,"Finn's Harborside, 38 Water St, East Greenwich",41.6610705047,-71.444874183
+52,2009-12-23 02:24:35,"Dave's Bar & Grille, 2339 Post Rd, Warwick",41.7186352463,-71.4436161026
+53,2009-12-23 02:16:58,"Wein-O-Rama, 1009 Oaklawn Ave, Cranston",41.74342,-71.479772
+54,2009-12-10 01:45:44,"Yankee Spirits, 628 Washington St, Attleboro",41.9111640744,-71.3622951508
+55,2009-12-10 01:44:26,"Mews Tavern, 456 Main St, Wakefield",41.436119,-71.502539
+56,2009-12-10 01:42:34,"NH Liquor Store 67, Interstate 93 South, Hooksett",43.1090816977,-71.4773160481
+57,2009-12-10 01:41:04,"West's Bakery, 995 Main St, Hope Valley",41.5076278847,-71.7166227978
+58,2009-12-10 01:40:11,"Newport Creamery, 100 Hillside Rd, Cranston",41.7611315529,-71.4588982901
+59,2009-12-10 01:39:26,"Crugnale Bakery, 48 Rolfe Sq, Cranston",41.78339,-71.4385430333
+60,2009-12-10 01:38:12,"Olneyville New York System Restaurant, 20 Plainfield St, Providence",41.8164532052,-71.4441615343
+61,2009-05-29 04:30:15,"Lucky Labrador Brew Pub, 915 SE Hawthorne Blvd, Portland",45.5125197378,-122.656441927
+62,2009-05-29 04:29:32,"Jolly Roger, 1340 SE 12th Ave, Portland",45.51308473,-122.65352298
+63,2009-05-29 04:28:39,"Potato Champion, 1200 SE Hawthorne Blvd, Portland",45.5123892254,-122.653308925
+64,2009-05-29 04:25:28,"Jolly Roger Taproom, 1111 NW Ballard Way, Seattle",47.6631437587,-122.372073141
+65,2009-04-13 05:37:59,"Norm's Eatery & Ale House, 460 N 36th St, Seattle",47.652023,-122.35285
+66,2009-04-13 05:36:02,"Brouwer's Cafe, 400 N 35th St, Seattle",47.6516787329,-122.35420336
+67,2009-03-11 02:45:59,"Momofuku Milk Bar, 251 E 13th St, New York",40.7317954706,-73.9856725931
+68,2009-03-11 02:22:48,"Veniero19s Pasticceria & Caffe, 342 E 11th St, New York",40.7295661353,-73.9844348461
+69,2009-03-11 02:20:01,"Barcade, 388 Union Ave, Brooklyn",40.7120718032,-73.951082028
+70,2009-03-11 02:18:06,"The Blind Tiger, 281 Bleecker St, New York",40.7318540672,-74.0033499976
+71,2009-03-08 16:17:49,"Standings, 43 E 7th St, New York",40.7282009571,-73.9885784338
+72,2009-03-08 16:16:59,"Professor Thom's, 219 2nd Ave, New York",40.7320300313,-73.9854965772

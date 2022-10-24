@@ -1,0 +1,118 @@
+,time,poi,latitude,longitude
+0,2016-11-10 03:09:24,"Reclaim Decor, 2123 1st Ave, Seattle",47.6061196421,-122.339383364
+1,2015-01-05 13:23:33,"Costco Gasoline, 4401 4th Ave S, Seattle",47.5623823086,-122.329887048
+2,2014-09-03 02:43:07,"Sur La Table, 2224 Union St, San Francisco",37.797196717,-122.435817007
+3,2014-06-15 11:36:59,"Lost Lake Cafe & Lounge, 1505 10th Ave, Seattle",47.6142062192,-122.319288254
+4,2014-06-14 03:25:00,"Elliott Bay Marina, 2601 W Marina Pl, Seattle",47.6304810507,-122.391753985
+5,2014-05-07 22:36:59,"Armory at Seattle Center, 305 Harrison St, Seattle",47.621365919,-122.350873947
+6,2014-04-25 07:52:02,"Walton Lofts, 75 Vine St, Seattle",47.6144195779,-122.350557446
+7,2014-03-25 12:13:27,"Growing Vine Street, 81 Vine St, Seattle",47.6147384794,-122.350112174
+8,2014-02-28 08:22:06,"Local 360, 2234 1st Ave, Seattle",47.6133865974,-122.346339812
+9,2014-02-28 08:20:21,"The Innkeeper, 2510 1st Ave, Seattle",47.6150863787,-122.348814188
+10,2014-02-28 08:18:49,"The Innkeeper, 2510 1st Ave, Seattle",47.6150863787,-122.348814188
+11,2014-02-07 13:30:47,"The Royal Room, 5000 Rainier Ave S, Seattle",47.5569157355,-122.284275285
+12,2013-11-10 07:31:03,"Twede's Cafe, 137 E North Bend Way, North Bend",47.4952787875,-121.786832799
+13,2013-11-01 08:49:21,"Soul Fitness Club, 159 Western Avenue West, Seattle",47.6189505403,-122.358392523
+14,2013-11-01 05:14:41,"Clarks Shoes, Pacific Place, 600 Pine St # 228, Seattle",47.6128062446,-122.335098182
+15,2013-10-12 08:28:46,"The Davenport, 420 Vine St, Seattle",47.6178223517,-122.34651804
+16,2013-10-12 06:25:49,"World Wrapps, 222 Yale Ave N, Seattle",47.62044857,-122.330122185
+17,2013-10-03 09:23:39,"San Bruno BART Station, 1151 Huntington Ave, San Bruno",37.6379509955,-122.416333985
+18,2013-09-10 00:54:35,"Urban Oasis, 2929 1st Ave, Seattle",47.617359,-122.353293
+19,2013-08-22 04:56:16,"Paddy Coyne's Irish Pub, 2801 Alaskan Way, Seattle",47.6145429092,-122.354579076
+20,2013-08-18 01:20:38,"Daily Grill, 629 Pike St, Seattle",47.6113757548,-122.333427519
+21,2013-08-10 09:15:00,"Baren Haus, 208 9th St, Leavenworth",47.5956559472,-120.661001788
+22,2013-08-10 08:50:23,"Snoqualmie Brewery & Taproom, 8032 Falls Ave SE, Snoqualmie",47.5285717768,-121.824361005
+23,2013-08-09 08:38:48,"Ray's Cafe, 6049 Seaview Ave NW, Seattle",47.6733654891,-122.407639585
+24,2013-08-08 10:14:15,"Bella Materna, 12924 E Marginal Way S, Tukwila",47.6153777131,-122.353639286
+25,2013-08-08 07:07:50,"McDonald's, 222 5th Ave N, Seattle",47.6205776548,-122.347302148
+26,2013-08-06 14:06:52,"Grounders World Famous Garlic Fries, 1250 1st Ave S, Seattle",47.591462,-122.332752
+27,2013-07-27 00:29:46,"Cherry Street Coffee House, 103 Cherry St, Seattle",47.6028879165,-122.333978713
+28,2013-07-18 00:20:17,"Caff Umbria, 320 Occidental Ave S, Seattle",47.5994049474,-122.332908157
+29,2013-07-14 09:49:06,"Ivar's Salmon House, 401 NE Northlake Way, Seattle",47.6535625342,-122.323896368
+30,2013-06-16 07:07:36,"The Hedges Inn, James Lane, East Hampton",40.953016,-72.193198
+31,2013-06-14 19:56:27,"Terminal 4, John F. Kennedy International Airport, Jamaica",40.6440056223,-73.7825834567
+32,2013-05-28 11:09:02,"Top Pot Doughnuts, 2124 5th Ave, Seattle",47.6151753672,-122.341201901
+33,2013-05-25 03:11:18,"Tune HiFi, 2121 1st Ave, Seattle",47.6132502871,-122.346615479
+34,2013-04-23 06:39:08,"Chocobanana, Delfin 14, Sayulita",20.8693002486,-105.440744611
+35,2013-04-19 20:06:26,"United Club, Concourse A, near Gate 9, SeaTac",47.4400443815,-122.298126731
+36,2013-04-18 10:37:29,"Old School Frozen Custard, 1316 E Pike St, Seattle",47.6142243005,-122.314830422
+37,2013-04-06 12:09:06,"Alto Apartments, 311 Cedar St, Seattle",47.6171667176,-122.348506635
+38,2013-04-05 02:34:16,"REACTOR, 2820 Elliott Ave, Seattle",47.615558682,-122.353963852
+39,2013-04-01 05:23:36,"Starbucks, 1501 4th Ave, Seattle",47.6097112522,-122.337732281
+40,2013-03-24 07:32:37,"Theo Chocolate, 3400 Phinney Ave N, Seattle",47.6511928693,-122.354307175
+41,2013-03-23 08:12:54,"Green Leaf Vietnamese Restaurant, 2800 1st Ave, Seattle",47.6165417348,-122.35173398
+42,2013-03-08 15:31:17,"Future of Flight Aviation Center & Boeing Tour, 8415 Paine Field Blvd, Mukilteo",47.9217824429,-122.289761402
+43,2013-03-02 02:56:05,"Struts & Springs, 2820 Elliott Ave, Seattle",47.6161878908,-122.353084087
+44,2013-02-24 06:22:52,"La Sirena Rosa, 1500 Western Ave, Seattle",47.6093589245,-122.341305675
+45,2013-02-24 04:27:33,"Seattle Aquarium, 1483 Alaskan Way, Seattle",47.6073529621,-122.342274785
+46,2013-02-24 04:25:30,"Seattle Aquarium, 1483 Alaskan Way, Seattle",47.6073529621,-122.342274785
+47,2013-02-12 01:16:39,"Stumptown Coffee Roasters, 1115 12th Ave, Seattle",47.6120364196,-122.317003012
+48,2013-02-03 09:33:21,"Cyclops, 2421 1st Ave, Seattle",47.6146587072,-122.348768552
+49,2013-01-27 08:15:34,"Quality fruit, Pike Place, Seattle",47.6088715133,-122.341000446
+50,2013-01-22 07:37:12,"River Run Day Lodge, 520 River Run Plaza, Ketchum",43.6707401762,-114.3675219
+51,2013-01-20 07:50:55,"Starbucks, 491 Sun Valley Rd, Ketchum",43.6817875685,-114.36302665
+52,2013-01-08 23:54:32,"Playfield & Gripwire Offices, 81 Vine St, Seattle",47.61464,-122.350746
+53,2013-01-07 14:01:23,"Joule, 3506 Stone Way N, Seattle",47.6497075251,-122.342501704
+54,2013-01-05 10:35:35,"Metro Bus Stop #2220, 3rd Ave & Cedar St, Seattle",47.6168525722,-122.348502839
+55,2012-12-31 10:42:22,"SUBWAY, 2822 Western Ave, Seattle",47.6161790873,-122.353264755
+56,2012-11-15 01:02:34,"Father & Son Fountain, Broad St., Seattle",47.6151343372,-122.355149342
+57,2012-10-30 22:03:33,"Brodkowitz Law, 81 Vine St Apt 202, Seattle",47.6146333402,-122.350406574
+58,2012-10-29 21:13:33,"Brodkowitz Law, 81 Vine St Apt 202, Seattle",47.6146333402,-122.350406574
+59,2012-10-28 01:34:29,"Neukom Vivarium, Elliott Ave, Seattle",47.615809,-122.354239
+60,2012-09-16 01:22:07,"Eurostyle Your Life, 2008 Westlake Ave, Seattle",47.6157517908,-122.33828173
+61,2012-08-01 23:18:54,"American Express Tower, 200 Vesey St, New York",40.713450913,-74.0143619332
+62,2012-07-19 05:32:32,"Holy Cannoli, 2720 3rd Ave, Seattle",47.6175321009,-122.349549385
+63,2012-07-08 06:45:36,"13 Coins, 18000 International Blvd, SeaTac",47.441222,-122.29546202
+64,2012-07-02 09:13:21,"Norway Ridge Supper Club, 34757 County Road 39, Pequot Lakes",46.6558362233,-94.1969328385
+65,2012-06-20 23:30:13,"Summit Law Group, 315 5th Ave S #1000, Seattle",47.599478,-122.32769297
+66,2012-05-30 11:22:03,"Struts & Springs, 2820 Elliott Ave, Seattle",47.6161878908,-122.353084087
+67,2012-05-19 22:23:21,"Meitimedia, 81 Vine St, Seattle",47.614759,-122.35002
+68,2012-03-30 23:22:29,"Zeitgeist Kunst & Kaffee, 171 S Jackson St, Seattle",47.5991679526,-122.331587237
+69,2012-03-07 00:27:41,"Bedlam Coffee, 2231 2nd Ave, Seattle",47.6137867316,-122.345638275
+70,2012-02-26 01:44:47,"X Gym Belltown, 222 Wall St, Seattle",47.6157072961,-122.348003261
+71,2012-02-24 03:59:23,"Khosla Ventures, 2128 Sand Hill Rd, Menlo Park",37.4240212817,-122.221650481
+72,2012-02-21 23:36:34,"Abigail Hotel, 246 McAllister St, San Francisco",37.7806196535,-122.416191101
+73,2012-02-21 20:01:16,"Abigail Hotel, 246 McAllister St, San Francisco",37.7806196535,-122.416191101
+74,2012-02-19 05:43:46,"Lers Ros Thai, 730 Larkin St, San Francisco",37.7846706405,-122.417755378
+75,2012-02-15 04:02:14,"The 5 Point Cafe, 415 Cedar St, Seattle",47.6181315194,-122.347429991
+76,2012-01-10 05:46:44,"United States Post Office, 217 1st Ave S, Seattle",47.600231133,-122.334222794
+77,2011-12-21 04:44:15,"BRGR Bar, 111 Occidental Ave S, Seattle",47.6012051401,-122.333102545
+78,2011-12-01 07:08:54,"Bloomberg, Pier 3, Suite 101, San Francisco",37.7975632212,-122.395829498
+79,2011-11-27 01:42:55,"East Hampton Grill, 99 Main St, East Hampton",40.9691134844,-72.1823801085
+80,2011-10-29 00:04:06,"Brave Horse Tavern, 310 Terry Ave N, Seattle",47.6212613389,-122.337091624
+81,2011-10-29 00:01:21,"Beecher's Handmade Cheese, 1600 Pike Pl, Seattle",47.6097797326,-122.342290878
+82,2011-10-28 23:59:14,"Macrina Bakery, 2408 1st Ave, Seattle",47.6144296145,-122.348197215
+83,2011-10-28 23:58:30,"CJ's Eatery, 2619 1st Ave, Seattle",47.61584186,-122.350599
+84,2011-10-27 23:45:19,"United States Post Office, 217 1st Ave S, Seattle",47.600231133,-122.334222794
+85,2011-10-27 23:43:18,"X Gym Belltown, 222 Wall St, Seattle",47.6157072961,-122.348003261
+86,2011-10-26 00:12:36,"The Edgewater Hotel, 2411 Alaskan Way, Seattle",47.6126218491,-122.352702757
+87,2011-10-26 00:09:19,"X Gym Belltown, 222 Wall St, Seattle",47.6157072961,-122.348003261
+88,2011-10-23 05:04:00,"X Gym Belltown, 222 Wall St, Seattle",47.6157072961,-122.348003261
+89,2011-09-20 21:40:14,"Volunteer Park Cafe, 1501 17th Ave E, Seattle",47.63242,-122.309964667
+90,2011-09-20 21:39:58,"Chateau Ste. Michelle Winery, 14111 NE 145th St, Woodinville",47.7300618375,-122.150561213
+91,2011-09-20 21:39:38,"The Edgewater Hotel, 2411 Alaskan Way, Seattle",47.6126218491,-122.352702757
+92,2011-09-13 04:18:21,"Pizza Pro, 104 Occidental Ave S, Seattle",47.6013886695,-122.332840652
+93,2011-08-08 06:09:07,"Bang Bang Cafe, 2460 Western Ave, Seattle",47.6140438,-122.34955
+94,2011-07-21 10:35:33,"Four Seasons Seattle, 99 Union St, Seattle",47.6075229482,-122.339308262
+95,2011-07-17 06:07:19,"The Belltown Inn, 2301 3rd Ave, Seattle",47.6146418381,-122.345293361
+96,2011-06-21 01:53:53,"Little Cheese Pub, 362 1/2 w 23rd street, New York",40.74639,-74.000904
+97,2011-06-19 04:45:39,"RadioShack, 1791 Wisconsin Ave, Grafton",43.3087,-87.9587
+98,2011-06-19 04:44:24,"GNC, 360 Falls Rd, Grafton",43.309007,-87.961492
+99,2011-06-19 04:39:24,"Cedarburg Police Station, W75 N444 Wauwatosa Rd, Cedarburg",43.2914415672,-88.0035239727
+100,2011-06-19 04:35:03,"Pig Skin Inn, 10631 W Freistadt Rd, Mequon",43.2357823849,-88.0432587862
+101,2011-05-31 20:24:43,"Gristedes Supermarkets #545, 225 9th Ave, New York",40.7472032181,-74.0012324658
+102,2011-05-31 20:20:17,"Joe The Art Of Coffee, 405 W 23rd St, New York",40.7466067096,-74.0016746521
+103,2011-05-31 20:18:55,"London Terrace Gardens, 435 W 23rd St, New York",40.74744634,-74.0026283791
+104,2011-05-31 20:14:45,"Brooklyn Bagel & Coffee Co., 286 8th Ave, New York",40.7462863349,-73.9976859778
+105,2011-05-22 04:10:02,"Cafe Flore, 2298 Market St, San Francisco",37.7645961476,-122.432985751
+106,2011-04-20 03:27:19,"Hearst Tower, 300 W 57th St, New York",40.7664605783,-73.9831607609
+107,2011-04-17 01:51:32,"Terrapin Restaurant, Bistro & Bar, 6426 Montgomery St, Rhinebeck",41.9282721786,-73.9126023388
+108,2011-04-11 06:38:20,"Co., 230 9th Ave, New York",40.7471699145,-74.0006356504
+109,2011-04-10 06:20:10,"Eataly NYC, 200 5th Ave, New York",40.7420029038,-73.9897950936
+110,2011-04-08 10:22:06,"Hearth, 403 E 12th St, New York",40.7299418013,-73.9833819866
+111,2011-04-04 06:10:48,"Russian & Turkish Baths, 268 E 10th St, New York",40.7284742997,-73.9836256308
+112,2011-04-04 06:09:41,"Russian & Turkish Baths, 268 E 10th St, New York",40.7284742997,-73.9836256308
+113,2011-03-28 06:48:05,"Blue Ribbon Bakery Kitchen, 35 Downing St, New York",40.7293457333,-74.0037172637
+114,2011-03-25 21:54:29,"Brooklyn Bagel & Coffee Co., 286 8th Ave, New York",40.7462863349,-73.9976859778
+115,2011-03-21 04:51:15,"Kiehl's, 109 3rd Ave, New York",40.7326692006,-73.987677412
+116,2010-04-04 02:53:13,"Terminal 5 Railway Station (HWV), Terminal 5, Hounslow",51.4725289361,-0.489363670349

@@ -1,0 +1,59 @@
+,time,poi,latitude,longitude
+0,2016-10-19 21:29:26,"Homecoming, 107 Franklin St, Brooklyn",40.7295840697,-73.9577159286
+1,2016-10-18 09:54:47,"Bakesale Betty, 5098 Telegraph Ave, Oakland",37.8369508577,-122.262328582
+2,2016-10-18 09:54:03,"Ijji sushi, 252 Divisadero St, San Francisco",37.7714224214,-122.437072247
+3,2016-10-18 09:53:36,"Powder, 260 Divisadero St, San Francisco",37.7715500929,-122.436956763
+4,2016-10-18 09:52:46,"Fairview Barber Shop, 137 N Fairview Ave, Goleta",34.4416667013,-119.832633396
+5,2016-10-18 09:52:11,"Coral Casino, 1281 Channel Dr, Santa Barbara",34.4164610355,-119.640784998
+6,2016-10-18 09:51:43,"Trinks, 39140 Old Highway, Gualala",38.7686622167,-123.531277
+7,2016-10-18 09:51:02,"House of Hunan, 2 Townsend St, San Francisco",37.7828007834,-122.388859164
+8,2016-10-18 09:50:21,"Delancey Street Restaurant, 600 The Embarcadero, San Francisco",37.7846001357,-122.38854936
+9,2016-10-18 09:49:45,"Blue Bottle Coffee, 1 Ferry Building Ste 7, San Francisco",37.7959047563,-122.393937596
+10,2016-10-18 09:49:05,"La Nebbia, 1781 Church St, San Francisco",37.742441,-122.426362
+11,2016-10-18 09:48:41,"Little Skillet, 360 Ritch St, San Francisco",37.7788358846,-122.394020574
+12,2016-10-18 09:48:25,"Plow, 1299 18th St, San Francisco",37.7626490352,-122.395442269
+13,2016-10-18 09:48:03,"Norma's, 119 W 56th St, New York",40.7642953952,-73.9787095785
+14,2016-10-18 09:47:14,"The NoMad Restaurant, 1170 Broadway, New York",40.7450743371,-73.9885612169
+15,2016-10-18 09:46:39,"Grace Street, 17 W 32nd St, New York",40.7477243284,-73.9865255356
+16,2016-10-18 09:46:13,"BCD Tofu House, 5 W 32nd St, New York",40.7475617668,-73.9859730005
+17,2016-10-15 11:30:32,"The Wren, 344 Bowery, New York",40.7262960594,-73.9916774577
+18,2016-10-09 03:40:52,"Griddle Fresh, 4007 24th St, San Francisco",37.7513948112,-122.432084378
+19,2016-10-09 03:40:27,"NoVY Restaurant, 4000 24th St, San Francisco",37.7514884363,-122.431990369
+20,2016-10-01 09:43:24,"Bacara Resort & Spa, 8301 Hollister Ave, Goleta",34.4342907834,-119.920048541
+21,2016-10-01 09:42:58,"Regent Thai, 1700 Church St, San Francisco",37.743608,-122.426822
+22,2016-10-01 09:42:17,"Rich Table, 199 Gough St, San Francisco",37.7751415854,-122.422521114
+23,2016-10-01 09:41:12,"Fishetarian, 599 Highway 1, Bodega Bay",38.3263583802,-123.041009273
+24,2016-09-06 06:31:43,"Scoma's Sausalito, 588 Bridgeway, Sausalito",37.8540035294,-122.478768611
+25,2016-09-06 06:30:51,"Banana Island, 311 Lake Merced Blvd, Daly City",37.6998618065,-122.48319048
+26,2016-09-06 06:30:20,"Anthony's Cookies, 1417 Valencia St, San Francisco",37.750302,-122.42056126
+27,2016-09-06 06:29:55,"Arizmendi Bakery, 1331 9th Ave, San Francisco",37.763461,-122.466368
+28,2016-09-06 06:29:18,"Cuisine of Nepal, 3486 Mission St, San Francisco",37.740986,-122.42306
+29,2016-09-06 06:28:39,"Rintaro, 82 14th St, San Francisco",37.7687681661,-122.41516146
+30,2016-09-06 06:28:04,"King of Noodles, 1639 Irving St, San Francisco",37.7636575699,-122.475687861
+31,2016-09-06 06:26:25,"Waterbar, 399 The Embarcadero, San Francisco",37.7906042927,-122.389085983
+32,2016-09-06 06:25:32,"Good Luck Dim Sum 7d4bdec3, 736 Clement St, San Francisco",37.7828540121,-122.467091382
+33,2016-09-06 06:24:37,"Valley Tavern, 4054 24th St, San Francisco",37.751466,-122.433093
+34,2016-09-06 06:24:07,"South Tufa, Test Station Rd, Lee Vining",37.9387442694,-119.027037621
+35,2016-09-06 06:23:23,"In-N-Out Burger, 575 W Clover Rd, Tracy",37.761918285,-121.433807741
+36,2016-09-06 06:23:03,"Oren's Hummus Shop, 261 University Ave, Palo Alto",37.4456301861,-122.162110806
+37,2016-09-06 06:22:30,"Charlie's Corner, 4102 24th St, San Francisco",37.7513472117,-122.434113839
+38,2016-09-06 06:21:29,"Lupa Trattoria, 4109 24th St, San Francisco",37.7513169201,-122.434445627
+39,2016-04-15 08:35:46,"Marlowe, 500 Brannan St, San Francisco",37.7783233214,-122.396792031
+40,2016-04-15 08:35:21,"Anchor & Hope, 83 Minna St, San Francisco",37.7878958034,-122.398744731
+41,2016-04-12 13:56:10,"Lucca Ravioli Company, 1100 Valencia St, San Francisco",37.755251,-122.420975
+42,2016-04-12 13:55:32,"Frances, 3870 17th St, San Francisco",37.7627529556,-122.432262897
+43,2016-04-10 00:42:19,"Trouble Coffee & Coconut Club, 1730 Yosemite Ave, San Francisco",37.7284610305,-122.394219723
+44,2016-03-08 10:09:56,"Hillside Supper Club, 300 Precita Ave, San Francisco",37.7468109156,-122.41348008
+45,2016-03-08 10:09:07,"Casa Mexicana II, 3917 24th St, San Francisco",37.7515189681,-122.430132298
+46,2016-03-08 10:08:29,"Waiola Shave Ice, 1050 Ala Moana Blvd #1415, Honolul",21.2940940857,-157.854919434
+47,2016-03-08 10:08:11,"Nico's at Pier 38, 1129 N Nimitz Hwy, Honolul",21.3176072431,-157.877549545
+48,2016-03-08 10:07:44,"Heavenly Island Lifestyle, 342 Seaside Ave, Honolul",21.2798652962,-157.827646177
+49,2016-03-07 04:05:18,"Alicia's Market, 267 Mokauea St, Honolul",21.3245284918,-157.884671688
+50,2016-03-07 04:04:42,"KCC Saturday Farmers Market, 4303 Diamond Head Rd, Honolul",21.2695462157,-157.80142585
+51,2016-03-07 04:04:12,"Don Quijote, 801 Kaheka St, Honolul",21.2929844369,-157.838497672
+52,2016-03-06 09:53:21,"Shokudo Japanese Restaurant, 1585 Kapiolani Blvd, Honolul",21.2920903333,-157.840108
+53,2016-02-22 09:02:25,"Dishoom, 5 Stable St, London",51.5361160989,-0.125683781712
+54,2016-02-03 23:10:08,"Papalote Mexican Grill, 3409 24th St, San Francisco",37.7519528216,-122.420965433
+55,2016-02-03 23:09:36,"Intelligentsia Coffee, 53 E Randolph St, Chicago",41.8844890509,-87.625697463
+56,2016-02-03 23:05:28,"The Wiener's Circle, 2622 N Clark St, Chicago",41.9301756154,-87.64354527
+57,2016-01-07 05:38:18,"Cafe Seventy8, 78 29th St, San Francisco",37.744083662,-122.421881181

@@ -1,0 +1,103 @@
+,time,poi,latitude,longitude
+0,2015-04-20 16:22:00,"Sydney, New South Wales",-33.87319946,151.20959473
+1,2014-05-25 04:24:00,"Sydney, New South Wales",-33.87319946,151.20959473
+2,2014-05-23 03:22:00,"Sydney, New South Wales",-33.87319946,151.20959473
+3,2014-05-22 18:40:00,"Melbourne, Victoria",-37.81546021,144.96716309
+4,2014-05-19 05:27:00,"Sydney, New South Wales",-33.87319946,151.20959473
+5,2014-05-14 04:35:00,"Sydney, Australia",-33.87319946,151.20959473
+6,2014-05-04 08:19:00,"Townsville, Australia",-19.26222229,146.81584167
+7,2014-05-02 00:27:00,"Townsville, Australia",-19.26222229,146.81584167
+8,2014-04-23 05:52:00,"Sydney, Australia",-33.87319946,151.20959473
+9,2014-04-22 06:33:00,"Marrickville, Australia",-33.91239929,151.15960693
+10,2014-04-04 20:42:00,"Wollongong, Australia",-34.42710114,150.89320374
+11,2014-04-03 18:04:00,"Marrickville, Australia",-33.91239929,151.15960693
+12,2014-03-30 20:21:00,"Marrickville, Australia",-33.91239929,151.15960693
+13,2014-03-16 15:18:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+14,2014-02-19 15:10:00,"Georgia, USA",32.64828873,-83.44437408
+15,2013-12-21 15:10:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+16,2013-12-14 19:51:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+17,2013-12-11 19:14:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+18,2013-12-05 12:46:00,"Benito Juárez, Quintana Roo",21.19022942,-86.82003021
+19,2013-11-26 12:29:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+20,2013-11-24 12:05:00,"Fraser Valley, British Columbia",49.17090988,-121.9526062
+21,2013-11-22 19:58:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+22,2013-11-22 19:15:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+23,2013-11-21 22:14:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+24,2013-11-21 21:13:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+25,2013-11-16 15:51:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+26,2013-11-07 11:10:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+27,2013-10-17 00:56:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+28,2013-09-30 00:02:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+29,2013-09-20 09:38:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+30,2013-09-18 19:49:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+31,2013-09-13 15:00:00,"Central Okanagan, British Columbia",49.88448715,-119.49349976
+32,2013-09-07 23:01:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+33,2013-08-29 23:34:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+34,2013-08-29 23:31:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+35,2013-08-25 23:48:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+36,2013-06-15 20:38:00,"Toronto, Ontario",43.65189362,-79.38171387
+37,2013-06-15 09:01:00,"Toronto, Ontario",43.65189362,-79.38171387
+38,2013-05-02 20:21:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+39,2013-04-30 10:37:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+40,2013-04-28 23:26:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+41,2013-04-26 18:51:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+42,2013-04-19 20:45:00,"Wailea-Makena, HI",20.65581322,-156.43826294
+43,2013-04-16 14:22:00,"Wailea-Makena, HI",20.65581322,-156.43826294
+44,2013-04-15 19:12:00,"Wailea-Makena, HI",20.65581322,-156.43826294
+45,2013-04-15 01:48:00,"Wailea-Makena, HI",20.65581322,-156.43826294
+46,2013-04-14 16:54:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+47,2013-04-11 11:04:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+48,2013-04-03 19:50:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+49,2013-03-30 20:19:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+50,2013-03-29 14:19:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+51,2013-03-14 19:05:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+52,2013-03-09 18:06:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+53,2013-03-02 13:12:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+54,2013-02-14 18:59:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+55,2013-02-01 09:06:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+56,2013-01-20 18:08:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+57,2013-01-19 11:54:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+58,2013-01-18 23:15:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+59,2013-01-12 20:55:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+60,2012-12-21 15:41:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+61,2012-09-28 18:17:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+62,2012-09-27 23:38:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+63,2012-09-27 17:18:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+64,2012-09-27 16:26:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+65,2012-09-27 16:12:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+66,2012-09-21 11:52:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+67,2012-09-13 20:04:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+68,2012-09-13 20:03:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+69,2012-09-13 19:20:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+70,2012-09-13 19:18:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+71,2012-09-10 13:01:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+72,2012-09-08 07:51:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+73,2012-08-29 13:25:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+74,2012-08-26 19:56:00,"Squamish-Lillooet, British Columbia",49.69834137,-123.15357971
+75,2012-08-20 08:24:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+76,2012-08-11 17:07:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+77,2012-08-02 18:43:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+78,2012-08-01 18:38:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+79,2012-07-30 13:28:00,McDonald's,40.36882782,-80.23497772
+80,2012-07-28 19:52:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+81,2012-07-27 20:20:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+82,2012-07-23 15:44:00,"Fraser Valley, British Columbia",49.17090988,-121.9526062
+83,2012-07-18 21:38:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+84,2012-07-18 21:17:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+85,2012-07-13 13:37:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+86,2012-07-12 12:14:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+87,2012-07-08 18:02:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+88,2012-07-08 15:44:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+89,2012-07-06 19:15:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+90,2012-06-25 10:28:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+91,2012-06-24 10:59:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+92,2012-05-24 20:15:00,"Bellingham, WA",48.75489807,-122.4781189
+93,2012-05-07 19:29:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+94,2012-05-05 10:11:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+95,2012-02-12 13:50:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+96,2011-12-17 02:09:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+97,2011-12-16 21:49:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+98,2011-12-16 20:04:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+99,2011-12-16 19:44:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+100,2011-12-14 12:03:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+101,2011-12-02 13:58:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708

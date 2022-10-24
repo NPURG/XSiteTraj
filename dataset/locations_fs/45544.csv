@@ -1,0 +1,58 @@
+,time,poi,latitude,longitude
+0,2016-12-28 03:53:49,"Tin Roof Grill, 9284 S 700 E, Sandy",40.5828488799,-111.872609854
+1,2016-12-20 04:55:39,"US Post Office, 3350 S 2940 E, Salt Lake City",40.698973508,-111.809450713
+2,2016-12-13 14:31:55,"Avenues Proper, 376 E 8th Ave, Salt Lake City",40.778316738,-111.878124251
+3,2016-12-02 01:59:50,"Sean's Smokehouse, 222 E State Road 73, Saratoga Springs",40.388004625,-111.911716461
+4,2016-09-16 05:28:53,"Jersey Mike's Subs, 50 N 1200 E, Lehi",40.3887670346,-111.830914331
+5,2016-08-07 09:05:10,"Nuch's Pizzeria & Restaurant, 2819 S 2300 E, Salt Lake City",40.7100545813,-111.824262614
+6,2016-08-07 05:08:26,"Glaus French Pastry, 3100 S Highland Dr, Salt Lake City",40.7032929215,-111.852226956
+7,2016-07-26 10:37:03,"Pei Wei, 1148 E Fort. Union Blvd. Unit 162, Midvale",40.624186055,-111.860333468
+8,2016-07-17 10:05:40,"Delta Freez, 411 E Main St, Delta",39.352703,-112.565548
+9,2016-07-15 02:03:56,"Lucky 13, 135 W 1300 S, Salt Lake City",40.7414364927,-111.895119269
+10,2016-07-07 21:49:39,"Beecher's Handmade Cheese, 17801 International Blvd, SeaTac",47.4445758915,-122.303527171
+11,2016-07-01 14:28:41,"Monkeypod Kitchen by Merriman, 10 Wailea Gateway Pl, K2bhei",20.688479671,-156.430882215
+12,2016-06-29 12:48:00,"Maui Tropix Surf Co., 215 Piikea Ave, K2bhei",20.7518378771,-156.449444316
+13,2016-06-29 12:47:04,"Maui Ocean Center, The Hawaiian Aquarium, 192 Maalaea Rd, Wailuk",20.7924327511,-156.512469619
+14,2016-06-29 12:45:57,"Local Food, 222 Papalaua St #202, Lahaina",20.8782458,-156.678987
+15,2016-06-29 12:44:10,"Launiupoko Beach Park, Honoapiilani Hwy, Lahaina",20.8433289256,-156.652820463
+16,2016-06-26 13:08:07,"Paia Fish Market Restaurant, 100 Hana Hwy, Paia",20.915979,-156.381284
+17,2016-06-26 06:51:00,"Kihei Caffe, 1945 S Kihei Rd, K2bhei",20.7313240274,-156.451791376
+18,2016-06-25 06:36:33,"Da Kitchen Cafe, 425 Koloa St, Kahului",20.8876333076,-156.455210602
+19,2016-06-25 06:34:33,"Coconut's Fish Cafe, 1279 S Kihei Rd #304, K2bhei",20.7500917427,-156.455097198
+20,2016-06-23 14:36:48,"Olowalu Mile 14, Honoapiilani Hwy, Lahaina",20.8095943426,-156.607211727
+21,2016-06-23 14:35:29,"Tasty Crust, 1770 Mill St, Wailuk",20.8923356747,-156.499715205
+22,2016-05-25 01:08:05,"Interwest Electronics Corp, 4091 S State St, Murray",40.6824883,-111.8878884
+23,2016-04-04 03:34:44,"Este Pizzeria, 2148 S 900 E, Salt Lake City",40.724359,-111.865902
+24,2016-03-25 23:12:45,"Spitz, 1201 E Wilmington Ave, Salt Lake City",40.7233412887,-111.856756664
+25,2016-03-22 11:09:13,"Hector's, 2901 E 3300 S, Salt Lake City",40.7002915995,-111.810050409
+26,2016-03-09 22:57:33,"SLAB Pizza, 3430 N Ashton Blvd, Lehi",40.4301664672,-111.895312071
+27,2016-02-09 13:01:19,"Hot Dynasty, 3380 State Steeet, Salt Lake City",40.6980011851,-111.889972446
+28,2016-01-26 04:36:22,"Century 16 Union Heights, 7670 S Union Park Ave, Sandy",40.6115281311,-111.855877505
+29,2016-01-03 11:56:40,"Sapori D'Italia, 11865 N Saguaro Blvd, Fountain Hills",33.5948182625,-111.71352776
+30,2015-12-27 11:55:57,"Banbury Cross, 705 S 700 E, Salt Lake City",40.7538082681,-111.870724207
+31,2015-11-21 06:16:29,"Bam Bams BBQ, 1708 S State St, Orem",40.2658025387,-111.681510542
+32,2015-11-21 06:15:57,"Megaplex 17, 9400 S State St., Sandy",40.5817906258,-111.889486313
+33,2015-10-04 00:41:18,"Five Star BBQ Company, 70 N Geneva Rd, Orem",40.2983199603,-111.73348099
+34,2015-08-27 05:59:15,"Tin Angel Cafe, 365 W 400 S, Salt Lake City",40.76035616,-111.901856661
+35,2015-08-21 12:53:10,"Popeye's Louisiana Kitchen, 3699 N Thanksgiving Way, Lehi",40.4328696096,-111.894786358
+36,2015-08-18 10:22:27,"KD's Bar-B-Q, 3109 Garden City Hwy, Midland",31.9834306468,-102.039778983
+37,2015-08-18 10:21:25,"Rosa's Cafe & Tortilla Factory, 903 Andrews Hwy, Midland",31.9994006831,-102.110912802
+38,2015-08-18 10:20:11,"Visitor Center - Arches National Park, Arches Entrance Rd, Moab",38.6163459416,-109.620075871
+39,2015-08-18 10:18:53,"Mesa Verde National Park, Highway 160, Cortez",37.3361702789,-108.40808316
+40,2015-08-18 10:18:29,"Pepperhead, 44 Main St, Cortez",37.348820755,-108.586120605
+41,2015-08-01 03:44:18,"The Sugarhouse Barbeque Company, 880 E 2100 S, Salt Lake City",40.7253045436,-111.8657462
+42,2015-07-21 06:27:43,"The Habit Burger Grill, 2121 S. McClelland St., Salt Lake City",40.72461929,-111.8611793
+43,2015-07-21 06:27:05,"Cubby's, 3700 N Thanksgiving Way, Lehi",40.43366,-111.894866
+44,2015-07-21 06:24:06,"Red Rock Brewing Co., 6227 S State St Ste 10, Murray",40.6350275829,-111.88612397
+45,2015-07-09 12:39:47,"Purple Turtle, 85 E State Rd, Pleasant Grove",40.358628502,-111.73917532
+46,2014-04-02 11:07:20,"Stan's Drive-In, 525 N 900 E, Provo",40.24057,-111.643371
+47,2013-12-03 13:05:23,"Remedez Hair Spa, 575 E University Pkwy, Orem",40.2750238345,-111.680014191
+48,2013-10-14 21:57:33,"Wildcat Willie's Ranch Grill & Saloon, 897 Zion Park Blvd., Springdale",37.18873535,-112.998937233
+49,2013-06-13 22:38:57,"Firehouse Subs, 2975 W Clubhouse Dr, Lehi",40.43087667,-111.8967696
+50,2013-04-22 01:08:20,"Thai Village, 410 N University Ave, Provo",40.239263,-111.658442
+51,2012-07-08 02:54:32,"Provo City Library, 550 N University Ave, Provo",40.2410369289,-111.657850742
+52,2012-01-22 08:25:02,"Nicolitalia Pizzeria, 2295 N University Pkwy, Provo",40.264377594,-111.66999333
+53,2011-12-31 04:48:27,"Mamma Mia, 575 E University Pkwy, Orem",40.275696,-111.679061
+54,2010-04-13 08:59:03,"Shoots, 4801 N University Ave, Provo",40.29923,-111.657762775
+55,2010-04-10 00:15:08,"Rooster, 163 N University Ave, Provo",40.2357208729,-111.658705
+56,2010-03-16 07:49:01,"Provo City Library, 550 N University Ave, Provo",40.2410369289,-111.657850742

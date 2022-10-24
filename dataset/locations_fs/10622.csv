@@ -1,0 +1,142 @@
+,time,poi,latitude,longitude
+0,2016-07-13 07:07:06,"Smuggler's Cove, 650 Gough St, San Francisco",37.7793898026,-122.423446288
+1,2016-07-13 07:06:31,"The Stinking Rose, 325 Columbus Ave, San Francisco",37.7981847975,-122.407384852
+2,2016-07-13 07:04:34,"Inay Filipino Kitchen, 135 4th St, San Francisco",37.7842997375,-122.40329504
+3,2016-07-12 05:37:12,"Sharetea, 135 4th St, San Francisco",37.7844274653,-122.403396766
+4,2016-05-27 13:35:42,"Hawthorn Coffee, 3019 Adams Ave, San Diego",32.762750917,-117.129775667
+5,2016-05-27 13:35:07,"West Coast Tavern, 2895 University Ave, San Diego",32.7482381926,-117.131370306
+6,2016-05-27 13:33:36,"Historic Yuma Theater, 254 S Main St, Yuma",32.7232909715,-114.618585299
+7,2016-05-27 13:32:51,"Prison Hill Brewing Company, 278 S Main St, Yuma",32.7228257789,-114.618231547
+8,2016-05-27 13:29:39,"Swami's Cafe, 2920 University Ave, San Diego",32.748655,-117.130901
+9,2016-05-27 13:27:54,"The Homebrewer, 2911 El Cajon Blvd Spc 2, San Diego",32.7550597338,-117.131177187
+10,2016-04-03 10:55:41,"8-Bit Aleworks, 1050 N Fairway Dr Bldg F Ste 101, Avondale",33.4544873455,-112.326317213
+11,2016-04-03 10:55:21,"Malee's Thai Bistro, 7131 E Main St, Scottsdale",33.49311,-111.92774
+12,2016-03-27 08:10:24,"Tender Greens, 110 W Broadway, San Diego",32.7160977348,-117.163827688
+13,2016-03-27 08:09:51,"Panera Bread, 225 Broadway Ste 160, San Diego",32.7150942333,-117.162472149
+14,2016-02-07 12:34:42,"Lanta Thai Fusion, 724 E Katella Ave, Orange",33.808724577,-117.845947254
+15,2015-08-03 07:09:22,"Roberto's Taco Shop, 2744 El Cajon Blvd, San Diego",32.7557625097,-117.13409567
+16,2015-08-03 07:08:44,"Ponce's Mexican Restaurant, 4050 Adams Ave, San Diego",32.7634235295,-117.108238935
+17,2015-08-03 07:06:48,"Influx, 30th Street, San Diego",32.7415350843,-117.130051415
+18,2015-08-03 07:05:09,"Fall Brewing Co., 4542 30th St, San Diego",32.7599800882,-117.130298439
+19,2015-08-03 07:04:25,"Pearl Hotel, 1410 Rosecrans St, San Diego",32.725321,-117.22894907
+20,2015-08-03 07:03:21,"Crazee Burger, 3993 30th St, San Diego",32.7502591955,-117.130091628
+21,2015-08-03 07:02:28,"Saiko Sushi, 2884 University Ave, San Diego",32.7485872769,-117.131872488
+22,2015-08-03 07:01:28,"Breakfast Republic, 2730 University Ave, San Diego",32.7485633421,-117.134273753
+23,2015-08-03 07:00:27,"Evening Call, 3900 Las Vegas Blvd S, Las Vegas",36.0956927724,-115.175295616
+24,2015-08-03 06:59:44,"Rice & Company, 3900 Las Vegas Blvd S, Las Vegas",36.0951533447,-115.175805123
+25,2015-08-03 06:57:05,"Thai St. Cafe, 3137 Industrial Rd, Las Vegas",36.132530239,-115.172742281
+26,2015-08-03 06:56:34,"The Beat Coffeehouse, 520 Fremont St, Las Vegas",36.168874681,-115.139518113
+27,2015-08-03 06:56:13,"Carson Kitchen, 124 S 6th St Ste 100, Las Vegas",36.1679594623,-115.140612516
+28,2015-07-18 22:37:00,"Chile Peppers Mexican Eatery - Tierrasanta, 10425 Tierrasanta Blvd, San Diego",32.8229804645,-117.103244732
+29,2015-07-18 22:35:19,"Crazee Burger, 3993 30th St, San Diego",32.7502591955,-117.130091628
+30,2015-07-15 01:57:35,"North Park Hardware, 3090 University Ave, San Diego",32.7486563204,-117.1279833
+31,2015-03-30 12:15:27,"Blind Lady Ale House, 3416 Adams Ave, San Diego",32.7635137496,-117.120330334
+32,2015-01-13 07:45:53,"Au Cheval, 800 W Randolph St, Chicago",41.8845186012,-87.6474260159
+33,2015-01-13 07:45:00,"Commonwealth Tavern, 2000 W Roscoe St, Chicago",41.9433936694,-87.6785334639
+34,2015-01-13 07:43:42,"Noodles Pho U, 546 E Boughton Rd, Bolingbrook",41.719398796,-88.0488136079
+35,2015-01-13 07:43:20,"Harry Caray's Seventh Inning Stretch, Concourse B, Chicago",41.7883302108,-87.7421654317
+36,2015-01-13 07:42:38,"Rare Form, 793 J St, San Diego",32.7088192308,-117.157406029
+37,2015-01-13 07:42:14,"Chris' Ono Grinds Island Grill, 4506 30th St, San Diego",32.759393,-117.130304
+38,2015-01-13 07:41:09,"Villa Del Mar, 3531 Adams Ave, San Diego",32.763203,-117.116687
+39,2015-01-13 07:39:56,"Stone Brewing Tap Room, 795 J St, San Diego",32.7087944812,-117.157406029
+40,2014-12-04 05:17:28,"Fox Sports Grill, 1 Park Blvd, San Diego",32.7034972373,-117.159061432
+41,2014-11-25 08:18:27,"Ballast Point Tasting Room & Kitchen, 2215 India St, San Diego",32.7276287548,-117.169852836
+42,2014-11-25 08:15:11,"Puerto La Boca, 2060 India St, San Diego",32.7261944284,-117.169387602
+43,2014-11-25 08:14:26,"New Maxim's Palace, 2810 El Cajon Blvd Ste D, San Diego",32.755689284,-117.137450502
+44,2014-10-10 04:29:19,"Rubio's, 8855 Villa La Jolla Dr, La Jolla",32.8689905216,-117.232167721
+45,2014-10-04 15:34:47,"Santouka Ramen, 4240 Kearny Mesa Rd, San Diego",32.818891594,-117.150306702
+46,2014-10-04 15:33:38,"Tajima Ramen Bar, 3739 6th Ave, San Diego",32.745936,-117.159364
+47,2014-10-04 14:25:45,"Elixir Espresso Bar, 427 C St #101, San Diego",32.7168126578,-117.160440087
+48,2014-10-04 14:24:13,"Evolution Fast Food, 2965 5th Ave, San Diego",32.7364842458,-117.160128951
+49,2014-10-04 14:23:14,"Hammond's Gourmet Ice Cream, 3077 University Ave, San Diego",32.7483944857,-117.127552439
+50,2014-10-04 14:22:44,"Coffee & Tea Collective, 2911 El Cajon Blvd, San Diego",32.7552402125,-117.131114188
+51,2014-10-04 14:19:14,"Royal Mandarin, 1132 E Plaza Blvd, National City",32.6761734968,-117.095195154
+52,2014-10-04 14:18:03,"Los Panchos Mexican Grill & Cantina, 431 E St, San Diego",32.7146613418,-117.160536469
+53,2014-09-29 08:05:20,"Young Hickory, 4096 30th St, San Diego",32.7521186781,-117.130292694
+54,2014-08-13 12:11:49,"Red Fox Room, 2223 El Cajon Blvd, San Diego",32.754978528,-117.140393257
+55,2014-08-07 11:27:04,"Barrio Starr, 2706 5th Ave, San Diego",32.7336443076,-117.160484774
+56,2014-08-07 11:26:03,"The Local Eatery and Drinking Hole, 1065 4th Ave, San Diego",32.7165248953,-117.160990236
+57,2014-06-20 04:29:01,"Starbucks, 1194 6th Ave, San Diego",32.7178153893,-117.159313019
+58,2014-06-07 12:55:24,"7-Eleven, 430 Spruce St, San Diego",32.73908283,-117.160617943
+59,2014-05-16 05:46:25,"Ironside Fish & Oyster, 1654 India St, San Diego",32.722701,-117.168414
+60,2014-03-30 12:39:02,"Super Buffet, 1221 Markham Rd., Scarborough",43.7783991036,-79.2319617455
+61,2014-02-19 07:05:20,"The Huffington Post, 770 Broadway, New York",40.7308300829,-73.9919012741
+62,2014-01-18 16:07:29,"El Dorado Cocktail Lounge, 1030 Broadway, San Diego",32.7159186525,-117.155050987
+63,2013-12-30 09:55:45,"Chino Bandido, 15414 N 19th Ave, Phoenix",33.6267138752,-112.100206017
+64,2013-11-20 04:44:58,"BevMo!, 925 Camino de La Reina Ste A, San Diego",32.7673389956,-117.155005932
+65,2013-11-16 09:22:25,"Influx, 750 W Fir St, San Diego",32.7245309902,-117.168663903
+66,2013-10-09 07:40:51,"Hall Of Justice - San Diego Superior Court, 330 W Broadway, San Diego",32.7160996185,-117.165947136
+67,2013-09-18 01:58:02,"Eddy M's Cafe, 4250 Executive Sq Ste 125, La Jolla",32.8745414247,-117.215021416
+68,2013-09-04 02:36:46,"Thai Palace Uptown, 260 Van Deren Rd, Sedona",34.8697359063,-111.761963367
+69,2013-08-24 06:50:52,"Tender Greens, 4545 La Jolla Village Drive, San Diego",32.870607236,-117.210616988
+70,2013-08-04 07:06:27,"Starbucks, 801 W Hawthorn St, San Diego",32.726182,-117.169499
+71,2013-08-04 07:02:25,"Influx, 750 W Fir St, San Diego",32.7245309902,-117.168663903
+72,2013-07-29 04:38:50,"Thai Bite, 26921 Aliso Creek Rd Ste J, Aliso Viejo",33.5711563167,-117.725017
+73,2013-07-25 01:23:42,"The Naked Cafe, 106 S Sierra Ave, Solana Beach",32.99143,-117.27275
+74,2013-07-05 15:34:20,"Saigon On Fifth, 3900 5th Ave, San Diego",32.748306,-117.16086366
+75,2013-05-31 12:49:18,"Sushi Tomo, 24338 El Toro Rd #B, Laguna Woods",33.6087119579,-117.73157665
+76,2013-04-24 14:04:16,"Eureka Gourmet Burger and Craft Beer, 4353 La Jolla Village Dr, San Diego",32.8697472824,-117.212448828
+77,2013-04-17 03:41:34,"Wooden Spoon, 2418 W 32nd Ave, Denver",39.761989,-105.016436
+78,2013-03-09 12:48:22,"Hilton Austin, 500 E 4th St, Austin",30.2654333611,-97.7381665604
+79,2013-03-04 04:06:48,"826 Valencia, 826 Valencia St, San Francisco",37.7595552855,-122.421538292
+80,2013-03-03 15:08:41,"Patxi19s Pizza, 4042 24th St, San Francisco",37.7514099623,-122.432869624
+81,2013-03-02 09:23:12,"AMPM, 950 E 16th St, Yuma",32.6990420622,-114.610999857
+82,2013-03-02 08:51:36,"Sprouts Farmers Market, 4175 Park Blvd, San Diego",32.753538,-117.145833
+83,2013-03-02 08:37:56,"Westfield Horton Plaza, 324 Horton Plz, San Diego",32.7139117443,-117.162466405
+84,2013-02-26 02:51:25,"Snooze, 3940 5th Ave, San Diego",32.7489870054,-117.160524982
+85,2013-02-05 01:36:46,"Chase Bank, 365 W Washington St, San Diego",32.74967,-117.167224
+86,2012-10-30 15:31:18,"Babycakes, 3766 5th Ave, San Diego",32.7464374759,-117.160616884
+87,2012-10-15 05:53:12,"IKEA Bolingbrook, 750 E Boughton Rd, Bolingbrook",41.727310895,-88.0376865825
+88,2012-10-07 18:44:30,"Phdf Point Loma & Grill Restaurant, 2788 Midway Dr, San Diego",32.7484727946,-117.203645507
+89,2012-09-21 04:44:08,"Fresh Wasabi Sushi, 13732 W Bell Rd, Surprise",33.640723,-112.354726195
+90,2012-06-30 08:49:44,"Brakes Plus - Surprise, 16839 N Reems Rd, Surprise",33.636977415,-112.39373574
+91,2012-06-03 07:58:50,"Denver International Airport (DEN), 8500 Pea Blvd, Denver",39.8513557067,-104.674044515
+92,2012-06-02 07:51:29,"Laundry On Lawrence, 2701 Lawrence St, Denver",39.7591790337,-104.983309777
+93,2012-05-29 02:21:31,"Dushanbe Teahouse, 1770 13th St, Boulder",40.0154442308,-105.277251005
+94,2012-05-02 10:06:12,"Carnitas' Snack Shack, 2632 University Ave, San Diego",32.748657,-117.135493987
+95,2012-04-11 12:32:37,"The Local Eatery and Drinking Hole, 1065 4th Ave, San Diego",32.7165248953,-117.160990236
+96,2012-03-21 10:22:44,"Caffe Italia, 1704 India St, San Diego",32.7232123798,-117.168331146
+97,2012-03-14 10:49:32,"Bencotto Italian Kitchen, 750 W Fir St, San Diego",32.724343,-117.168727
+98,2011-12-14 02:49:10,"Blind Lady Ale House, 3416 Adams Ave, San Diego",32.7635137496,-117.120330334
+99,2011-10-22 14:12:57,"Tiger!Tiger!, 3025 El Cajon Blvd, San Diego",32.754978528,-117.129771709
+100,2011-10-10 07:23:54,"La Villa, 1646 India St, San Diego",32.7225545703,-117.168462875
+101,2011-09-29 09:54:49,"Ansir Innovation Center, 4685 Convoy St, San Diego",32.82592826,-117.154298275
+102,2011-08-24 03:16:15,"Sandwich Island, 7350 Trade St, San Diego",32.88893185,-117.162286
+103,2011-08-11 01:53:34,"Co-Merge Workplace, 330 A St, San Diego",32.7190303234,-117.16139805
+104,2011-06-12 03:56:31,"French Creperie Cafe & Boutique, 1425 India St, San Diego",32.7204153587,-117.168474362
+105,2011-06-04 07:59:38,"Chicago O'Hare International Airport (ORD), 10000 W Ohare Ave, Chicago",41.97151,-87.89537
+106,2011-05-14 01:11:31,"Refresh Coffee, 13520 Evening Creek Dr N, San Diego",32.9629906457,-117.09327608
+107,2011-04-03 12:54:00,"Tender Greens, 2400 Historic Decatur Rd, San Diego",32.7356144087,-117.216078005
+108,2011-02-13 20:06:15,"Zia's Bistro, 1845 India St, San Diego",32.724313,-117.168423
+109,2011-02-01 07:51:38,"Rebecca's Coffee Shop, 3015 Juniper St, San Diego",32.7295211046,-117.129442472
+110,2011-01-22 11:03:29,"The Coffee Bean & Tea Leaf, 925 Camino de La Reina, San Diego",32.76745274,-117.1553665
+111,2010-12-21 11:39:40,"Balboa Park Activity Center, 2145 Park Blvd, San Diego",32.7265068389,-117.14774251
+112,2010-11-28 17:34:27,"Ralphs, 11875 Carmel Mountain Rd, San Diego",32.9811454499,-117.075905922
+113,2010-11-28 17:32:27,"Target, 5680 Balboa Ave, San Diego",32.8219931762,-117.178759575
+114,2010-11-28 17:30:35,"El Zarape, 4642 Park Blvd, San Diego",32.761786,-117.14636
+115,2010-11-28 17:29:09,"Westfield Mission Valley, 1640 Camino Del Rio N., San Diego",32.768642665,-117.148267167
+116,2010-11-28 17:26:57,"DAO F, 3332 Adams Ave, San Diego",32.7634678028,-117.122060332
+117,2010-11-28 17:25:28,"Little Italy Mercato, 580 W Cedar St., San Diego",32.7219718968,-117.167940201
+118,2010-09-24 03:48:05,"Point Caf, 13480 Evening Creek Dr N, San Diego",32.9622372075,-117.094563126
+119,2010-08-02 05:57:30,"Influx, 750 W Fir St, San Diego",32.7245309902,-117.168663903
+120,2010-06-17 12:49:32,"It's A Taco Shop, 3910 W Point Loma Blvd, San Diego",32.75497381,-117.22010098
+121,2010-06-04 04:51:23,"Orlando International Airport (MCO), 1 Jeff Fuqua Blvd, Orlando",28.430780953,-81.3080465325
+122,2010-04-21 11:26:02,"Small Bar, 4628 Park Blvd, San Diego",32.7615785094,-117.146438956
+123,2010-04-04 13:05:41,"Scarantino's, 23862 Bridger Rd, Lake Forest",33.6163294315,-117.70722024
+124,2010-04-03 08:27:16,"O'Brien's Pub, 4646 Convoy St, San Diego",32.8252646248,-117.155878127
+125,2010-03-14 12:11:46,"Lucky Seafood & Pho Restaurant, 9326 Mira Mesa Blvd, San Diego",32.9188450102,-117.124439478
+126,2010-03-12 17:42:58,"Alexis Greek Cafe, 3863 5th Ave, San Diego",32.747988,-117.160287
+127,2010-01-17 20:47:26,"Pappalecco, 3650 5th Ave, San Diego",32.7448207169,-117.160387128
+128,2009-12-02 19:13:22,"The Waterfront Bar & Grill, 2044 Kettner Blvd, San Diego",32.7257125695,-117.170149684
+129,2009-12-02 19:11:42,"Caffe Italia, 1704 India St, San Diego",32.7232123798,-117.168331146
+130,2009-11-20 17:08:40,"Tam's Thai and Laotian Food, 3456 Adams Ave, San Diego",32.7635469022,-117.118843129
+131,2009-11-06 03:13:54,"Cafe Mexicali, 4629 Centerplace Dr, Greeley",40.395746,-104.754478167
+132,2009-10-18 06:26:41,"Century Cinema, 1700 29th St, Boulder",40.017349,-105.254957
+133,2009-08-18 12:10:19,"The Hungry Toad, 2543 Broadway St, Boulder",40.02432074,-105.282293558
+134,2009-08-06 10:09:52,"Half Fast Subs, 1215 13th St, Boulder",40.0090121446,-105.276435614
+135,2009-06-19 06:15:38,"Khow Thai Cafe, 1600 Broadway, Boulder",40.0130681512,-105.278132579
+136,2009-06-19 06:14:37,"Glacier Ice Cream, 1350 College Ave, Boulder",40.007165,-105.27549585
+137,2009-06-19 06:13:17,"The Mediterranean, 1002 Walnut St, Boulder",40.0163241912,-105.281979219
+138,2009-05-06 16:24:28,"IHOP, 1675 28th St, Boulder",40.0163165549,-105.258974992
+139,2009-05-01 09:15:25,"University Memorial Center (UMC), 1669 Euclid Ave, Boulder",40.006513924,-105.271682739
+140,2009-04-26 07:46:15,"Wahoo's Fish Taco, 2790 Pearl St, Boulder",40.0218389905,-105.258883552

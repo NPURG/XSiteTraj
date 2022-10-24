@@ -1,0 +1,98 @@
+,time,poi,latitude,longitude
+0,2015-06-27 11:48:42,"In-N-Out Burger, 11 Rollins Rd, Millbrae",37.6007214739,-122.382443547
+1,2015-06-27 11:47:58,"Le Flamboire, 54 rue Blanche, Paris",48.880383,2.331426
+2,2015-06-27 11:46:50,"Les Pitons, 8 rue des Lombards, Paris",48.859093,2.349882
+3,2015-06-27 11:45:37,"L'Alivi, 27 rue du Roi de Sicile, Paris",48.8564688793,2.35718105179
+4,2015-06-27 11:44:21,"Stable Cafe, 2128 Folsom St, San Francisco",37.7631749198,-122.415257692
+5,2015-06-27 11:43:50,"Sushirrito, 448 University Ave, Palo Alto",37.4476792699,-122.159739473
+6,2015-06-27 11:41:52,"So Gong Dong Tofu House, 4127 El Camino Real, Palo Alto",37.4136951925,-122.125471401
+7,2014-06-09 12:03:56,"Restaurant Rio Grande, 1175 Avenida Mexico, Pto Vallarta",20.617663,-105.231353
+8,2014-01-04 23:49:23,"Foodland, 1881 S Kihei Rd, K2bhei",20.7331276553,-156.451867819
+9,2013-12-21 03:40:45,"USS Hornet - Sea, Air and Space Museum, 707 W Hornet Ave, Alameda",37.7724532828,-122.302143574
+10,2013-09-05 12:14:08,"Sancho's Taqueria & Catering, 2723 Middlefield Rd, Palo Alto",37.433486691,-122.129098343
+11,2013-09-05 12:09:42,"CREAM of Palo Alto, 440 University Ave, Palo Alto",37.4475669861,-122.159957886
+12,2013-09-03 06:19:47,"Yogurtland, 494 University Ave, Palo Alto",37.44831099,-122.1594077
+13,2013-09-03 04:12:13,"IKEA, 1700 E Bayshore Rd, East Palo Alto",37.4610631227,-122.138915062
+14,2013-08-21 09:03:40,"Monkeypod Kitchen by Merriman, 10 Wailea Gateway Pl, K2bhei",20.688479671,-156.430882215
+15,2013-07-14 11:32:54,"Whole Foods Market, 774 Emerson St, Palo Alto",37.4423117152,-122.159307031
+16,2013-05-13 02:19:47,"East Ocean Seafood Restaurant, 1713 Webster St, Alameda",37.7766793432,-122.276878032
+17,2013-05-07 01:12:21,"Googleplex - 2000, 2000 Charleston Rd, Mountain View",37.4227304282,-122.088596821
+18,2013-03-05 07:48:42,"Googleplex - Go Cafe, 1600 Amphitheatre Pkwy Bldg 43, Mountain View",37.4217335163,-122.084906101
+19,2013-03-03 00:33:32,"Coupa Caf, 538 Ramona St, Palo Alto",37.4448081992,-122.161477804
+20,2013-02-21 01:57:33,"Palo Alto Cafe, 2675 Middlefield Rd, Palo Alto",37.433905,-122.129547
+21,2013-02-20 13:49:15,"Sansei Seafood Restaurant & Sushi Bar, 1881 S Kihei Rd # Kt-116, K2bhei",20.7335557805,-156.45249021
+22,2013-02-20 13:47:59,"Grand Wailea, A Waldorf Astoria Resort, 3850 Wailea Alanui Dr, K2bhei",20.6838406572,-156.441434389
+23,2013-02-20 13:45:29,"Grand Wailea, A Waldorf Astoria Resort, 3850 Wailea Alanui Dr, K2bhei",20.6838406572,-156.441434389
+24,2013-02-19 14:02:47,"Grand Wailea, A Waldorf Astoria Resort, 3850 Wailea Alanui Dr, K2bhei",20.6838406572,-156.441434389
+25,2013-02-16 15:54:55,"Monkeypod Kitchen by Merriman, 10 Wailea Gateway Pl, K2bhei",20.688479671,-156.430882215
+26,2013-02-12 04:51:31,"Googleplex - Crave Cafe, 2025 Garcia Ave, Mountain View",37.4236506429,-122.091708183
+27,2013-02-08 09:53:06,"Town Hall, 342 Howard St, San Francisco",37.7895384772,-122.395060571
+28,2013-01-12 04:59:59,"Googleplex - Cafe Blaze, 1225 Charleston Rd, Mountain View",37.420031298,-122.072600734
+29,2013-01-07 04:52:38,"Town & Country Village, 855 El Camino Real, Palo Alto",37.4383906081,-122.159218325
+30,2012-12-31 08:27:02,"Soda Springs Mountain Resort, 10244 Soda Springs Rd, Soda Springs",39.3213674805,-120.380195265
+31,2012-12-22 00:34:22,"Madera, 2825 Sand Hill Rd, Menlo Park",37.4193975009,-122.212246032
+32,2012-12-13 04:06:02,"Chipotle Mexican Grill, 3369 Castro Valley Blvd, Castro Valley",37.6953492812,-122.076817577
+33,2012-12-09 07:15:35,"Lowe's Home Improvement, 32040 Union Landing Blvd, Union City",37.59923,-122.064038
+34,2012-11-26 08:43:51,"BorrowLenses.com, 1664 Industrial Rd, San Carlos",37.4988645315,-122.242456
+35,2012-11-25 02:48:56,"Delicious Donuts, 34916 Newark Blvd, Newark",37.5513402075,-122.050531768
+36,2012-09-26 00:02:51,"Googleplex, 1600 Amphitheatre Pkwy, Mountain View",37.4218106345,-122.084540633
+37,2012-09-26 00:01:02,"Googleplex, 1600 Amphitheatre Pkwy, Mountain View",37.4218106345,-122.084540633
+38,2012-09-25 23:58:24,"Googleplex, 1600 Amphitheatre Pkwy, Mountain View",37.4218106345,-122.084540633
+39,2012-09-24 03:06:13,"In-N-Out Burger, 1159 N Rengstorff Ave, Mountain View",37.420888,-122.09329
+40,2012-09-23 02:28:43,"Palo Alto Farmers Market, 640 Gilman St, Palo Alto",37.4452494148,-122.15918506
+41,2012-09-22 10:33:27,"McLaren San Francisco, 4190 El Camino Real, Palo Alto",37.4104214702,-122.123739123
+42,2012-08-16 18:02:18,"The Doughnut Vault, 401 1/2 N Franklin St, Chicago",41.8893968084,-87.6354956262
+43,2012-08-16 17:44:39,"Xoco, 449 N Clark St, Chicago",41.8908504353,-87.6307871794
+44,2012-08-16 17:42:51,"Xoco, 449 N Clark St, Chicago",41.8908504353,-87.6307871794
+45,2012-08-15 01:37:58,"Jamba Juice, 855 El Camino Real, Suite 85, Palo Alto",37.43877144,-122.1596391
+46,2012-08-02 09:58:21,"The Counter Palo Alto, 369 S California Ave, Palo Alto",37.4268031128,-122.144259194
+47,2012-06-09 07:18:11,"Dollar Lihue Car Rental, 3273 Hoolimalima Pl, Lihue",21.979669575,-159.350810846
+48,2012-04-04 08:08:42,"COCO chicken, 5010 Mowry Ave, Fremont",37.535353,-121.998214
+49,2012-03-02 08:19:30,"The Mac King Comedy Magic Show, Harrah's Hotel & Casino, Las Vegas",36.1197549256,-115.172504895
+50,2012-03-02 08:17:53,"Harrah's Hotel & Casino, 3475 Las Vegas Blvd S, Las Vegas",36.1192678923,-115.171265853
+51,2012-01-29 04:57:41,"DishDash, 190 S Murphy Ave, Sunnyvale",37.3762086497,-122.03019172
+52,2012-01-17 02:36:53,"Red Rock Coffee, 201 Castro St, Mountain View",37.3938030037,-122.078881551
+53,2012-01-12 10:32:34,"L&L Hawaiian Barbecue, 2430 Charleston Rd, Mountain View",37.422103,-122.096348405
+54,2011-12-31 08:24:37,"The Picasso Boutique Serviced Residences, 119 L.P. Leviste St, Salcedo Village, Makati City",14.5599916357,121.024017334
+55,2011-11-18 23:51:26,"Rinconada Park, 777 Embarcadero Rd, Palo Alto",37.4442218723,-122.142839688
+56,2011-11-02 00:11:10,"Googleplex - CL4, 1400 Crittenden Ln, Mountain View",37.4272027203,-122.071446622
+57,2011-09-30 00:32:16,"Googleplex - Cafe Beta, 2350 Bayshore Pkwy, Mountain View",37.4245118538,-122.094903754
+58,2011-09-26 23:46:41,"Googleplex - Cafe Beta, 2350 Bayshore Pkwy, Mountain View",37.4245118538,-122.094903754
+59,2011-09-18 01:21:09,"Anderson Honda, 1766 Embarcadero Rd, Palo Alto",37.4503705787,-122.117934292
+60,2011-09-17 05:42:17,"Googleplex - Maverick, 1300 Crittenden Ln, Mountain View",37.4259022643,-122.071257968
+61,2011-08-16 08:55:35,"L&L Hawaiian Barbecue, 2430 Charleston Rd, Mountain View",37.422103,-122.096348405
+62,2011-08-13 07:47:56,"DMV Office, 300 Brewster Ave, Redwood City",37.4926839863,-122.229145976
+63,2011-06-20 02:20:17,"Robert W. Crown Memorial State Beach, Robert W. Crown Memorial State Beach, Alameda",37.7629108582,-122.268814327
+64,2011-06-20 01:46:27,"Hankook Supermarket, 1092 E El Camino Real, Sunnyvale",37.35180665,-122.001644969
+65,2011-06-20 01:44:21,"Douvos Pizza, 1020 Channing Ave, Palo Alto",37.448597,-122.145915
+66,2011-06-12 06:18:43,"Nob Hill Foods, 2531 Blanding Ave, Alameda",37.7691542542,-122.233618498
+67,2011-06-12 06:05:02,"Farmstead Cheeses & Wines, 1650 Park St, Alameda",37.767671,-122.23953
+68,2011-05-06 23:26:56,"L&L Hawaiian Barbecue, 2430 Charleston Rd, Mountain View",37.422103,-122.096348405
+69,2011-04-22 07:21:30,"Googleplex - 1875, 1875 Charleston Rd, Mountain View",37.4210070014,-122.088396407
+70,2011-04-18 02:11:02,"Whole Foods Market, 4800 El Camino Real, Los Altos",37.3992194478,-122.110357831
+71,2011-04-07 11:11:24,"Palo Alto Family YMCA, 3412 Ross Rd, Palo Alto",37.4282569989,-122.116686375
+72,2011-04-07 11:05:26,"Kirin Chinese Seafood Restaurant, 485 Castro St, Mountain View",37.3903176031,-122.080925703
+73,2011-04-01 11:35:09,"The Rose & Crown Pub, 547 Emerson St, Palo Alto",37.444375718,-122.161729791
+74,2011-03-26 08:54:51,"Googleplex - The Alley, 1400 Crittenden Ln, Mountain View",37.4265990722,-122.071230225
+75,2011-03-19 09:20:36,"Chipotle Mexican Grill, 2400 Charleston Rd, Mountain View",37.421793161,-122.096589804
+76,2011-03-07 02:50:31,"Mountain View Farmers' Market, 600 W Evelyn Ave, Mountain View",37.3933696177,-122.074792403
+77,2011-02-03 04:45:48,"Googleplex - Go Cafe, 1600 Amphitheatre Pkwy Bldg 43, Mountain View",37.4217335163,-122.084906101
+78,2011-02-03 04:42:02,"Googleplex, 1600 Amphitheatre Pkwy, Mountain View",37.4218106345,-122.084540633
+79,2010-12-28 07:35:03,"Gymboree, 204 Stanford Shopping Ctr, Palo Alto",37.4440117577,-122.171326876
+80,2010-12-25 13:08:43,"In-N-Out Burger, 43349 Pacific Commons Blvd, Fremont",37.5041522994,-121.974018791
+81,2010-12-25 13:03:44,"In-N-Out Burger, 43349 Pacific Commons Blvd, Fremont",37.5041522994,-121.974018791
+82,2010-12-20 12:58:49,"Whole Foods Market, 4800 El Camino Real, Los Altos",37.3992194478,-122.110357831
+83,2010-12-20 10:36:48,"Gymboree, 204 Stanford Shopping Ctr, Palo Alto",37.4440117577,-122.171326876
+84,2010-12-18 08:03:56,"Googleplex - CL5 Gym, 1500 Crittenden Ln, Mountain View",37.427349485,-122.072068069
+85,2010-12-18 08:01:43,"The Lunch Box, inside the Googleplex, Mountain View",37.4267421378,-122.071984839
+86,2010-12-18 08:00:18,"Googleplex - Crittenden Campus, 1300 Crittenden Ln, Mountain View",37.4258438819,-122.071746249
+87,2010-08-10 09:30:41,"La Boccaccia, Via di Santa Dorotea, 2, Roma",41.8920288943,12.468643586
+88,2010-08-10 09:29:45,"Checco er Carettiere, Via Benedetta, 10, Roma",41.8913602308,12.4694498312
+89,2010-06-27 09:21:23,"Checco er Carettiere, Via Benedetta, 10, Roma",41.8913602308,12.4694498312
+90,2010-06-27 09:19:47,"Checco er Carettiere, Via Benedetta, 10, Roma",41.8913602308,12.4694498312
+91,2010-06-27 09:19:00,"Da Augusto, Piazza de' Renzi 15, Roma",41.8904655787,12.4703270629
+92,2010-06-12 09:32:47,"Ristorante Al Giardinetto, Sestiere Castello, 4919-4925, Venezia",45.4361552639,12.3425643216
+93,2010-03-03 12:40:40,"99 Ranch Market 27ef851a0234, 1350 Grant Rd, Mountain View",37.3776132703,-122.076666355
+94,2010-02-11 03:40:24,"Googleplex - CL2, 1200 Crittenden Ln, Mountain View",37.4258148068,-122.071967125
+95,2009-11-06 09:13:35,"Maru Ichi Japanese Noodle House, 368 Castro St, Mountain View",37.3918455585,-122.08039999
+96,2009-09-28 02:15:58,"Olympus Caff & Bakery, 135 Castro St, Mountain View",37.3945418371,-122.078321175

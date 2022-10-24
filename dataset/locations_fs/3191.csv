@@ -1,0 +1,116 @@
+,time,poi,latitude,longitude
+0,2016-10-23 20:39:49,"Butler Bakeshop, 95 S 5th St, Brooklyn",40.7117113027,-73.9648532867
+1,2015-12-24 06:45:51,"Uchiko, 4200 N Lamar Blvd, Austin",30.3107750231,-97.7398640157
+2,2015-09-19 03:07:08,"Four Seasons Hotel Bahrain Bay, Bahrain Bay, 27444546274529",26.2471802602,50.5816607082
+3,2015-07-04 13:31:23,"Anjin, 3f7d3a17-5, 0b373a",35.6490200565,139.699625799
+4,2015-05-24 02:49:12,"Rosewood Abu Dhabi, Sowwah Square, 23284838284a",24.4998950784,54.3875768158
+5,2015-02-07 07:08:06,"The Centurion Lounge LaGuardia, LaGuardia Airport, Flushing",40.7745040292,-73.8718984766
+6,2015-01-25 10:46:52,"Hirohisa, 73 Thompson St, New York",40.7246189232,-74.0029540382
+7,2014-12-29 19:05:04,"New York Grill, 7fb0bf3-7-1-2, 71ac",35.6851447634,139.69095546
+8,2014-12-27 06:44:52,"Rokurinsha, 386e851-9-1, 43e3303a",35.6800162899,139.768555012
+9,2014-11-23 00:53:59,"Puerto Sagua Restaurant, 700 Collins Ave, Miami Beach",25.7771025115,-80.1325848699
+10,2014-10-30 07:34:18,"TORANOMON KOFFEE, 4ece801-23-3, 71ac",35.6669125753,139.749688303
+11,2014-08-25 05:48:09,"Claridges's Bar, 49 Brook St., Mayfair",51.512673,-0.147994
+12,2014-04-15 20:56:27,"Weather Up, 1808 E Cesar Chavez St, Austin",30.2574550285,-97.7249172065
+13,2014-04-15 20:55:49,"Sway Thai, 1417 S 1st St, Austin",30.2501318283,-97.7546707423
+14,2014-03-07 10:08:48,"Temple Bar, 332 Lafayette St, New York",40.7257545951,-73.9949128032
+15,2014-02-28 09:53:29,"Kabuto Edomae Sushi, 5040 Spring Mountain Rd, Las Vegas",36.1265366757,-115.209911252
+16,2013-12-28 13:01:14,"Omotesando Koffee, 5eae4d4-15-3, 71ac",35.6684199332,139.710778445
+17,2013-11-28 18:54:06,"American Airlines Flagship Lounge, Terminal 8, Jamaica",40.6483556988,-73.7910399528
+18,2013-11-28 17:54:04,"SUSHI BAR YASUDA, 5752714-2-6, 71ac",35.6660966486,139.720466733
+19,2013-11-25 09:24:05,"Grand Hyatt Tokyo, 6d2c286-10-3, 2f3a",35.65975451,139.7282517
+20,2013-11-24 06:09:53,"Hong Kong International Airport (HKG), 1 Cheong Hong Rd, 992f",22.3149401842,113.935201887
+21,2013-11-21 19:44:58,"The Arrival - Cathay Pacific Lounge, Arrival Hall, Ground Transportation Centre, Hong Kong International Airport, Chek Lap Kok",22.315281913,113.935389519
+22,2013-08-25 05:19:21,"Underwood Ink, Ryesgade 30A, Kbenhavn",55.6920302879,12.5669613111
+23,2013-08-14 09:45:41,"Ed's Lobster Bar, 222 Lafayette St, New York",40.7220793931,-73.9975118637
+24,2013-07-25 19:57:05,"Balthazar, 80 Spring St, New York",40.7227054927,-73.9981985092
+25,2013-05-19 10:43:30,"Park Hyatt Tokyo, 7fb0bf3-7-1, 71ac",35.68557476,139.6906391
+26,2013-05-15 09:16:46,"Star Ferry Pier (Tsim Sha Tsui), Salisbury Rd, 169980",22.2941644483,114.168601257
+27,2013-04-24 21:34:34,"Kaffe 1668, 401 Greenwich St, New York",40.7208178918,-74.0100123232
+28,2013-04-17 02:08:57,"Kaffe 1668, 401 Greenwich St, New York",40.7208178918,-74.0100123232
+29,2013-04-03 21:23:49,"FIKA, 450 Washington St, New York",40.7236294297,-74.0102189032
+30,2013-02-10 13:51:09,"Output, 74 Wythe Ave, Brooklyn",40.7222442363,-73.9577748648
+31,2013-02-06 22:13:25,"Kaffe 1668, 401 Greenwich St, New York",40.7208178918,-74.0100123232
+32,2013-01-03 07:37:32,"New York Grill, 7fb0bf3-7-1-2, 71ac",35.6851447634,139.69095546
+33,2012-12-30 08:11:58,"Tung Po Kitchen, 2/F, Java Rd Municipal Services Bldg, 99 Java Rd, 992f",22.2922830129,114.19946909
+34,2012-12-30 08:11:23,"Salon No. 10, 10 Arbuthnot Rd, 2db0",22.2801194617,114.154429498
+35,2012-12-30 08:11:13,"Caf Deadend, 72 Po Hing Fong, Sheung Wan",22.2837009491,114.148501726
+36,2012-12-30 08:10:59,"The Armoury - Pedder St, 307 Pedder Building (3rd Floor) 12 Pedder St, 992f",22.2818536608,114.156960825
+37,2012-11-21 11:34:35,"Narita Airport Terminal 2, e4bc1-1, 103002",35.7735472442,140.387355005
+38,2012-11-12 23:18:08,"do you read me?!, Auguststr. 28, Berlin",52.5272742532,13.3977880796
+39,2012-11-12 08:09:06,"Berghain / Panorama Bar, Am Wriezener Bahnhof, Berlin",52.5109613505,13.4433088829
+40,2012-10-19 05:20:30,"THE FUMOIR bar, Claridge's Hotel, Mayfair",51.512525,-0.147589
+41,2012-10-18 00:49:33,"Claridges's Bar, 49 Brook St., Mayfair",51.512673,-0.147994
+42,2012-10-14 00:31:30,"Au Pied de Cochon, Hotel Presidente Intercontinental, Miguel Hidalgo",19.4270065894,-99.1935583866
+43,2012-09-30 22:18:27,"Kaffe 1668, 401 Greenwich St, New York",40.7208178918,-74.0100123232
+44,2012-09-28 09:09:11,"Empelln Taqueria, 230 W 4th St, New York",40.7341805699,-74.0029253454
+45,2012-08-24 14:09:36,"Copenhagen Airport (CPH), Lufthavnsboulevarden 6, Kastrup",55.6281875162,12.6486805255
+46,2012-07-05 22:50:31,"Hotel Condesa DF, Veracruz 102, Cuauhtemoc",19.4161179904,-99.1719424725
+47,2012-06-18 12:41:17,"Terminal 1, Aeroport de Barcelona-El Prat, El Prat de Llobregat",41.2885702756,2.07320098875
+48,2012-06-03 01:36:40,"Newark Liberty International Airport (EWR), 10 Toler Pl, Newark",40.6950309458,-74.1772224216
+49,2012-06-03 01:35:38,"Newark Liberty International Airport (EWR), 10 Toler Pl, Newark",40.6950309458,-74.1772224216
+50,2012-05-30 01:38:38,"Copenhagen Airport (CPH), Lufthavnsboulevarden 6, Kastrup",55.6281875162,12.6486805255
+51,2012-05-27 13:36:16,"Park Hyatt Istanbul - Macka Palas, Tesvikiye Bronz Sokak No. 4, Sisli, 30stanbul",41.04750335,28.9936924
+52,2012-05-20 01:57:06,"Blue Duck Tavern, 1201 24th St NW, Washington",38.9054298665,-77.0514457955
+53,2012-04-29 11:36:15,"Shinjuku Station, b0bf3/7fb0bf1/e305282, 71ac",35.6902725193,139.700149351
+54,2012-04-28 10:16:34,"c7eaabc6c3bbf3 Delicatessen, 7fb0bf3-7-1-2, 71ac",35.6861203379,139.690935518
+55,2012-04-26 12:40:34,"Narita International Airport (NRT), e4bc1-1, 103002",35.7727278453,140.386295919
+56,2012-04-06 17:57:05,"Terminal A, EWR Airport, Newark",40.6870653629,-74.1825199127
+57,2012-03-11 02:39:15,"Caff Medici, 200 Congress Ave, Austin",30.2646499778,-97.744091918
+58,2012-03-07 21:46:29,"Kava Cafe, 803 Washington St, New York",40.7390321495,-74.0079866794
+59,2012-01-23 04:55:53,"Cortiina Bar, Ledererstr. 8, Mnchen",48.136867194,11.5794325044
+60,2012-01-16 06:58:55,"La Cevicheria, 3809 W Pico Blvd, Los Angeles",34.047611,-118.322821
+61,2011-12-28 11:59:34,"Golden Brown 68c253d2ebba97, 5eae4d4-12-10, 71ac",35.6671854975,139.708754718
+62,2011-09-13 08:40:00,"St. Anselm, 355 Metropolitan Ave, Brooklyn",40.7142108699,-73.9561102873
+63,2011-08-16 06:18:21,"Hotel STAY Copenhagen, Islands Brygge 79A, Kbenhavn S",55.6576645664,12.566986084
+64,2011-08-16 06:16:35,"Normann Copenhagen, sterbrogade 70, Kbenhavn ",55.6991507886,12.5788696508
+65,2011-08-16 06:16:21,"Pat Pat, Slagterboderne 1, Kbenhavn V",55.6691780463,12.5586567845
+66,2011-08-16 06:16:02,"K Bar, Ved Stranden 20, Kbenhavn",55.6777883568,12.5807280553
+67,2011-08-16 06:15:21,"Nimb Hotel, Bernstorffsgade 5, Kbenhavn",55.6735276621,12.5663821046
+68,2011-07-04 01:12:57,"King Cole Bar, Paseo de la Reforma 439, Cuauhtemoc",19.4254319669,-99.1719451547
+69,2011-07-03 04:01:57,"Patisserie Dominique, Chiapas 157a, Colonia Roma",19.4122935828,-99.1634131836
+70,2011-07-02 22:39:32,"The St. Regis Mexico City, Paseo de la Reforma 439, Ciudad de Mxico",19.4256289634,-99.1719554281
+71,2011-06-26 21:26:08,"Blue Ribbon Barbecue, 120 E 4th St, Austin",30.2660358107,-97.7424430847
+72,2011-05-30 12:34:43,"ANA LOUNGE - Satellite 5, Terminal 1, 09cc5aa19967341-1, 103002",35.7624690794,140.388625932
+73,2011-04-07 10:01:29,"Basta Pasta, 37 W 17th St, New York",40.7388022763,-73.9941853347
+74,2011-04-02 09:52:04,"Garden District, 1801 14th St NW, Washington",38.9141847596,-77.03171134
+75,2011-04-02 06:57:26,"United Club, Terminal C3, Newark",40.6963915195,-74.1774402847
+76,2011-03-31 09:45:58,"Bohemian, 57 Great Jones St, New York",40.7263022661,-73.99212
+77,2011-03-22 12:37:17,"Samsung Electronics Digital City, 01b56c bc315c 129, 18d0dc",37.2575505647,127.054333818
+78,2011-02-01 15:01:22,"The St. Regis Lobby Bar, 125 3rd St, San Francisco",37.7860585461,-122.401665415
+79,2011-01-28 17:25:10,"Forbidden Fruit Cafe, 5eae4d4-12-10, 71ac",35.6672281226,139.707938353
+80,2011-01-26 00:27:41,"Park Hyatt Seoul, 15a86c 4ce4805c 606, 15a86c",37.50852912,127.0643041
+81,2011-01-23 19:15:07,"Cortiina Hotel, Ledererstr. 8, Mnchen",48.136929,11.57939
+82,2011-01-23 06:03:18,"Hotel Vier Jahreszeiten Kempinski, Maximilianstr. 17, Mnchen",48.1392749447,11.5817813511
+83,2011-01-18 08:20:20,"Takashi, 456 Hudson St, New York",40.731498864,-74.0066611049
+84,2011-01-11 12:44:21,"B Flat, 277 Church St, New York",40.718768,-74.005142
+85,2011-01-03 16:07:29,"Narita International Airport (NRT), e4bc1-1, 103002",35.7727278453,140.386295919
+86,2011-01-03 11:17:51,"Isetan Men's, b0bf3-14-1, b0bf3a",35.6922707068,139.704502488
+87,2011-01-02 10:59:08,"Omotesando Hills, 5eae4d4-12-10, 71ac",35.6672465115,139.708923697
+88,2011-01-01 22:20:31,"Park Hyatt Tokyo, 7fb0bf3-7-1, 71ac",35.68557476,139.6906391
+89,2011-01-01 22:19:55,"Park Hyatt Tokyo, 7fb0bf3-7-1, 71ac",35.68557476,139.6906391
+90,2011-01-01 22:19:23,"Park Hyatt Tokyo, 7fb0bf3-7-1, 71ac",35.68557476,139.6906391
+91,2010-12-29 11:34:26,"The Foreign Correspondents' Club 160b180503, 2 Lower Albert Rd, 2db0",22.280408,114.156014
+92,2010-12-23 09:28:55,"George Bush Intercontinental Airport (IAH), 2800 N Terminal Rd, Houston",29.9872,-95.34774
+93,2010-12-04 23:25:22,"Locanda Verde, 377 Greenwich St, New York",40.7200408704,-74.0101156132
+94,2010-12-01 08:23:14,"Kaffe 1668, 275 Greenwich St, New York",40.7149316825,-74.0114378929
+95,2010-11-30 09:02:08,"Ruby's Caf, 219 Mulberry St, New York",40.722185,-73.996205
+96,2010-08-23 08:53:12,"Raoul's Restaurant, 180 Prince St, New York",40.7263537543,-74.0020817768
+97,2010-08-23 05:13:57,"The St. Regis Lobby Bar, 125 3rd St, San Francisco",37.7860585461,-122.401665415
+98,2010-07-18 14:12:44,"Hornitos Hamptons Hideaway, 23 Dune Road, East Quogue",40.822281,-72.545094
+99,2010-07-14 07:34:14,"Botanica Bar, 47 E Houston St, New York",40.7248801098,-73.9946846107
+100,2010-07-11 09:53:45,"The Ritz-Carlton Tokyo, 64429-7-1, 71ac",35.6662623822,139.731266608
+101,2010-06-20 23:18:46,"Kaf Leopold, 3315 M St NW, Washington",38.9047468163,-77.0665115269
+102,2010-06-20 05:46:22,"Bohemian, 57 Great Jones St, New York",40.7263022661,-73.99212
+103,2010-03-12 11:27:56,"Nimb Hotel, Bernstorffsgade 5, Kbenhavn",55.6735276621,12.5663821046
+104,2010-03-12 11:27:03,"Claridge's, 49 Brook St, London",51.5125151332,-0.14762878418
+105,2010-03-12 11:26:27,"Radisson Blu Royal Hotel, Copenhagen, Hammerichsgade 1, Copenhagen V",55.6747803926,12.5635153055
+106,2010-03-12 11:24:46,"Riccos Kaffebar, Studiestrde 24, Kbenhavn K",55.678331,12.568741
+107,2010-03-12 11:23:44,"Axel Guldsmeden Hotel, Helgolandsgade 11, Kbenhavn V",55.6721654,12.5613185
+108,2010-03-12 11:23:00,"Claridges's Bar, 49 Brook St., Mayfair",51.512673,-0.147994
+109,2010-03-02 01:54:11,"Four Seasons Hotel, 57 E 57th St, New York",40.7623248006,-73.9712637663
+110,2010-02-08 06:16:12,"Bite, 335 Lafayette St, New York",40.7258602968,-73.994816603
+111,2010-02-08 06:13:30,"Ramon's Tailors, 306 Mott St, New York",40.724967,-73.993842
+112,2009-09-12 02:34:28,"The Meme Cave, 532 Broadway, New York",40.723289,-73.999161
+113,2009-08-28 22:06:21,"The Meme Cave, 532 Broadway, New York",40.723289,-73.999161
+114,2009-07-17 12:11:16,"La Superior, 295 Berry St, Brooklyn",40.713588,-73.963764

@@ -1,0 +1,104 @@
+,time,poi,latitude,longitude
+0,2016-07-16 23:02:04,"Cocoa Moiselle, Unit 11C Second Floor,  Ashleigh Centre, Castleknock",53.372795,-6.36071
+1,2015-11-13 04:25:33,"Mod Popup, 150 Mississippi, San Francisco",37.764467,-122.395141
+2,2015-09-29 04:31:45,"The Butler's Pantry, Unit 5 Castleknock Village Centre, Dublin",53.372934628,-6.36125564575
+3,2015-09-29 04:30:37,"Thai Garden, Church Ave, Blanchardstown, Dublin",53.385503,-6.374532
+4,2015-09-29 04:23:26,"The Walter Raleigh Hotel, O'Brien's Place Rd., Youghal",51.9467268348,-7.84344450977
+5,2015-09-29 04:21:23,"The Fish Market, Roselawn Shopping Centre, Dublin",53.3830552279,-6.38167323277
+6,2015-09-08 07:14:53,"The Piano Bar, Dublin Gate St, Athlone",53.4230384827,-7.93747520447
+7,2015-09-08 07:13:41,"The Castle Inn, Main St, Athlone",53.4227342718,-7.94244692685
+8,2015-09-08 07:12:32,"Sean's Bar, Main St, Athlone",53.422666,-7.942093
+9,2015-09-08 07:10:44,"Gertie Browns, Custume Pl, Athlone",53.4236975748,-7.94031059517
+10,2015-09-08 07:08:48,"loaves and fishes, Left Bank Mall, Athlone",53.422436,-7.944598
+11,2015-09-08 07:07:58,"Kin Khao Thai, 1 Abbey Lane, Athlone",53.422156,-7.94337809086
+12,2015-09-08 07:06:47,"Glendeer Pet Farm, Curryroe, Drum, Athlone",53.3984280489,-8.02079200745
+13,2015-09-08 07:00:16,"Kilbeggan Distillery Experience, Lower Main St, Kilbeggan",53.3696346051,-7.50290426167
+14,2015-09-01 04:00:44,"Boathouse Caf, Farmleigh House, Dublin",53.3654065433,-6.35777950287
+15,2015-09-01 03:57:01,"Love Supreme, 57 Manor St, Dublin",53.3530966421,-6.28511127517
+16,2015-09-01 03:55:10,"Cleaver East, E Essex St, Temple Bar, Dublin",53.34513,-6.266384
+17,2015-09-01 03:53:53,"Sister Sadie, 46 Harrington St, Dublin",53.3326565744,-6.2653226406
+18,2015-09-01 03:51:58,"Phoenix Park Tea Rooms, Chesterfield Ave., Phoenix Park, Dublin",53.352102,-6.30475
+19,2015-09-01 03:50:30,"Farmleigh House, Farmleigh, Castleknock,, Dublin",53.3651824728,-6.36005401611
+20,2015-06-29 13:12:52,"The Cavalier, 360 Jessie St, San Francisco",37.7832652624,-122.406792641
+21,2015-05-20 08:15:28,"Les Halles, Rue des Halles, Biarritz",43.4810589358,-1.56233992024
+22,2015-05-20 08:13:24,"Centro Comercial La Bretxa, Plaza de La Bretxa, 1, San Sebastin",43.3234527681,-1.98272109032
+23,2015-05-20 08:08:03,"Hotel Silken Amara Plaza, Plaza Pio XII, 7, San Sebastin",43.3078053461,-1.97846710682
+24,2015-05-19 20:59:55,"Caf Bar La Granja, Biribila Plaza, 3, Bilbao",43.2615684578,-2.92721405625
+25,2015-05-19 20:56:43,"La Via del Ensanche, Calle de la Diputacin 10, Bilbao",43.2616776471,-2.932586
+26,2015-05-19 08:32:13,"Caf de La Concha, Plaza Aita Vinuesa, San Sebastin",43.315706,-1.988477
+27,2015-05-19 08:30:11,"Mercado San Martn, Calle Urbieta 9, San Sebastin",43.3179498937,-1.98305368423
+28,2015-05-19 08:23:38,"Antonio Bar, C/ Bergara, San Sebastin",43.319609974,-1.9805763905
+29,2015-05-19 08:20:30,"La Perla Centro Talaso-Sport, Paseo de La Concha s/n, San Sebastin",43.3153973274,-1.98915839195
+30,2015-05-19 08:18:34,"Cafeteria Restaurante La Perla, Paseo de La Concha, s/n. Edificio La Perla, San Sebastin",43.3153411468,-1.98920172661
+31,2015-05-19 08:05:12,"Atari Gastroteka, C. Mayor, 18, San Sebastin",43.3236420425,-1.98639839888
+32,2015-05-19 08:03:49,"Bar Aralar Jatetxea, Calle del Puerto, 3, San Sebastin",43.3235079728,-1.98583740719
+33,2015-05-19 07:48:25,"Garagar, Bulevard zumardia, San Sebastin",43.3223483304,-1.98493123055
+34,2015-05-19 07:47:16,"Bar Txalupa, Fermn Calbetn, 3, San Sebastin",43.3235156339,-1.98324265888
+35,2015-05-19 07:42:20,"Beti-jai, C. Fermn Calbetn, 22, San Sebastin",43.323208,-1.984726
+36,2015-05-19 07:29:40,"Restaurante Lanziego, Triunfo 3, San Sebastin",43.316579,-1.985453
+37,2015-05-19 07:27:18,"TAS TAS BOGA BOGA COCTEL, FERMIN CALBETON 35, San Sebastin",43.3231483668,-1.98530673981
+38,2015-05-19 07:24:13,"Borda Berri, Fermin Calbeton, San Sebastin",43.323441,-1.983889
+39,2015-05-19 07:20:03,"Vctor Montes, Pl. Nueva, 8, Bilbao",43.259024,-2.922659
+40,2015-05-19 07:12:07,"Sorginzulo, Plaza Nueva / Barria Enparantza, 12, Bilbao",43.2591532567,-2.92264050402
+41,2015-03-02 12:34:36,"Behind The Wall, 14 Melville St, Falkirk",56.001212,-3.785243
+42,2015-02-12 03:11:25,"Tandoori Palace, 1152 Tutanekai Street, Rotorua",-38.1347422327,176.251693368
+43,2015-02-06 05:48:02,"Xi An Gourmet, 3741 Geary Blvd, San Francisco",37.7811731056,-122.459785613
+44,2014-09-14 23:54:44,"Leon, Terminal 2, Airside, Heathrow",51.4698738453,-0.448547129124
+45,2014-09-14 22:27:04,"The Swan Inn, 46 Hammersmith Broadway, Hammersmith",51.4929776473,-0.224784386131
+46,2014-09-14 22:25:47,"The Porterhouse Bray, Strand Rd., Bray",53.201964,-6.097996
+47,2014-09-14 22:21:30,"Vintage Cocktail Club, Crown Alley, Dublin",53.3450837594,-6.26285922254
+48,2014-09-14 22:20:40,"Lo Cal, Phoenix Park Racecourse, Dublin",53.372019,-6.337272
+49,2014-09-14 22:17:52,"Eventim Apollo, 45 Queen Caroline St, Hammersmith",51.4909365624,-0.224597454071
+50,2014-09-14 22:16:59,"Copita, 26-27 D'arblay St, London",51.5146440806,-0.136074223073
+51,2014-09-14 22:15:37,"The Fable Bar & Restaurant, 52 Holborn Viaduct, London",51.5174069974,-0.10498515443
+52,2014-09-14 22:14:30,"Q Grill, 29-33 Chalk Farm Rd, London",51.5426025391,-0.147617295384
+53,2014-09-14 22:10:53,"Hawksmoor Air Street, 5a Air St, Soho",51.5099774957,-0.136522080915
+54,2014-09-14 22:09:15,"J+A Caf, 4 Sutton Ln, London",51.5231241137,-0.100937072571
+55,2014-07-08 02:57:34,"Keevers, Main St, Ardmore",51.9515391963,-7.7299118042
+56,2014-07-08 02:55:05,"Keevers, Main St, Ardmore",51.9515391963,-7.7299118042
+57,2014-05-03 05:20:55,"Second Act Marketplace + Events, 1727 Haight St, San Francisco",37.7694484173,-122.451210624
+58,2014-04-27 11:15:27,"Marinita's, 218 Sir Francis Drake Blvd, San Anselmo",37.975037,-122.56157819
+59,2014-04-27 11:12:42,"The Hummingbird, 57 Broadway Blvd, Fairfax",37.9871099526,-122.589446731
+60,2014-04-20 09:47:44,"Pork Store Cafe, 1451 Haight St, San Francisco",37.7701719651,-122.446210384
+61,2014-01-12 03:57:22,"Coaster's Lounge, 115 Cliff St, Santa Cruz",36.9643648717,-122.020475926
+62,2014-01-09 05:32:18,"Parada 22, 1805 Haight St, San Francisco",37.7692666,-122.452109
+63,2013-12-02 11:33:33,"Coffee Cantata, 1708 Haight St, San Francisco",37.7694412333,-122.450560927
+64,2013-11-18 16:02:50,"Kezar Bar & Restaurant, 900 Cole St, San Francisco",37.7657714065,-122.449904
+65,2013-11-17 10:26:27,"The Ice Cream Bar Soda Fountain, 815 Cole St, San Francisco",37.7664347514,-122.450171184
+66,2013-11-05 17:39:08,"District, 216 Townsend St, San Francisco",37.7785845053,-122.393231392
+67,2013-11-05 17:34:41,"Pete's 881 Club, 721 Lincoln Ave, San Rafael",37.967634,-122.522343
+68,2013-11-05 17:32:34,"Pier 15, 15 Harbor St, San Rafael",37.965942,-122.5138
+69,2013-10-24 05:54:45,"Eire Trea, 221 Sansome St, San Francisco",37.792589772,-122.40092972
+70,2013-10-11 14:47:42,"Super Duper Burger, 721 Market St, San Francisco",37.7870331836,-122.404043376
+71,2013-07-31 01:42:28,"Barbecue At Angela's, 15th Ave, Seattle",47.617806,-122.312493
+72,2013-03-25 21:52:48,"McCabes Deli, Cardiff Ln, Dublin",53.346075493,-6.24046473526
+73,2013-02-12 13:33:16,"BonChon Chicken, 325 5th Ave, New York",40.7476224361,-73.9851579717
+74,2013-02-01 04:59:34,"Caf Azteca, 19-21 Lord Edward St, Dublin",53.3437889584,-6.26913001719
+75,2013-02-01 04:57:31,"Seabaron, Tryggvagata, Reykjavk",64.150799699,-21.9440209866
+76,2013-02-01 04:55:50,"Volcano Show, Hellesund 6a, Reykjavk",64.1470879507,-21.9365253083
+77,2013-02-01 04:52:21,"Kaffibarinn, Bergstaastri 1, Reykjavk",64.1459015936,-21.9313716888
+78,2013-02-01 04:51:50,"Bjarins Beztu Pylsur, Tryggvagata 1, Reykjavk",64.1482706711,-21.9379280169
+79,2012-11-04 03:11:05,"The Cliff Townhouse, 22 St Stephen's Green, Dublin",53.3392232668,-6.25729062604
+80,2012-05-27 09:51:37,"Mugs Caf, 61A Castle St, Dalkey",53.2780771686,-6.10702514648
+81,2012-05-27 09:50:15,"Country Bake, 35 Castle St, Dalkey",53.2772634666,-6.10387785565
+82,2012-05-27 09:49:27,"Bullock Harbour, Harbour Road, Dalkey, Dublin",53.2947233384,-6.13492780279
+83,2012-02-29 05:35:15,"Kurz & Gut, Gran Va de les Corts Catalanes, 75, Hospitalet de Llobregat",41.358119,2.129281
+84,2011-09-08 21:05:12,"Gourmet Food Parlour, Unit 3, Harbour Sq, Crofton Rd, Dn Laoghaire",53.2949994224,-6.14332831162
+85,2011-09-04 04:56:34,"Ol Ol, 42 Meeting House Ln, Brighton",50.8216617205,-0.140450549643
+86,2011-09-01 16:19:19,"My Yoga Body Day Spa, Ardeen House, Dn Laoghaire",53.2909511086,-6.12913915046
+87,2011-08-22 06:45:24,"Caf du Journal, 17a Monkstown Crescent, Monkstown",53.293841,-6.151086
+88,2011-06-22 06:54:41,"Gilbert & Wright, 128 Lower George's St, Dun Laoghaire",53.2947845909,-6.14166803263
+89,2011-05-04 11:33:13,"Aircoach Stop, 9-29 Morehampton Rd, Co Dublin",53.3259519802,-6.24248743057
+90,2011-04-29 04:29:36,"Cafe Mao, The Pavilion, Marine Rd, Dn Laoghaire",53.294118,-6.133015
+91,2011-04-06 17:10:41,"Panem, 21 Lower Ormond Quay, Dublin",53.3461265328,-6.26543855889
+92,2011-01-03 03:26:42,"Food Court, Terminal 2E, Le Mesnil-Amelot",49.002557678,2.57817597803
+93,2011-01-03 01:37:39,"Paris Charles de Gaulle Airport (CDG), Route de la Commune, Roissy-en-France",49.006826919,2.54908561707
+94,2010-05-10 04:21:08,"Elephant & Castle, 18 Temple Bar, Dublin",53.3456550032,-6.26224994659
+95,2010-02-08 08:22:15,"TGI Fridays, Pittsburgh International Airport, Pittsburgh",40.4958502293,-80.2466026852
+96,2009-12-20 01:56:00,"Adriana's on The Hill, 5101 Shaw Ave, St Louis",38.6178232008,-90.2706033914
+97,2009-12-05 20:54:23,"Sandyford Village Market, Carmanhall Rd, Sandyford Industrial Estate, Dublin",53.2767110626,-6.21070603173
+98,2009-11-09 00:42:48,"Dn Laoghaire Market, The People's Park, Park Rd, Dn Laoghaire",53.2899498936,-6.1288690567
+99,2009-11-05 06:45:37,"Bellagio, 92 Terenure Rd N, Dublin",53.311411,-6.282841
+100,2009-11-05 06:26:44,"The Port House Pintxo, 12 Eustace St, Dublin",53.3451194544,-6.2649731561
+101,2009-11-05 06:12:21,"Queen of Tarts, Cork Hill, Dame St, Dublin",53.3440889604,-6.26765727997
+102,2009-03-18 03:24:58,"Benaroya Hall, 200 University St, Seattle",47.6080409687,-122.336622579

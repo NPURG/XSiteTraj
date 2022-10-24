@@ -1,0 +1,314 @@
+,time,poi,latitude,longitude
+0,2015-12-07 09:41:25,"La Corneta, 2834 Diamond St, San Francisco",37.73397,-122.433996
+1,2015-11-23 08:16:26,"The Old Inn On The Green, 134 Hartsville New Marlboro Rd, New Marlborough",42.1228034943,-73.2304802861
+2,2015-10-19 02:31:22,"Con Pane Rustic Breads & Cafe, 2750 Dewey Rd, San Diego",32.7381322098,-117.21252348
+3,2015-10-18 08:02:39,"Bobboi Natural Gelato, 8008 Girard Ave, San Diego",32.848116,-117.274228
+4,2015-10-18 07:55:08,"Gelateria Frizzante, 1025 Prospect St #130, La Jolla",32.8477663549,-117.274319676
+5,2015-10-01 01:22:11,"Black Tap, 529 Broome St, New York",40.7239451652,-74.004107483
+6,2015-08-15 09:23:33,"Thaiholic, 372 Myrtle Ave, Brooklyn",40.69308,-73.971314
+7,2015-07-30 00:58:25,"Output, 74 Wythe Ave, Brooklyn",40.7222442363,-73.9577748648
+8,2015-07-30 00:56:51,"Project Parlor, 742 Myrtle Ave, Brooklyn",40.694776,-73.9529570667
+9,2015-07-12 14:45:22,"The Heath, 542 W 27th St, New York",40.7506433345,-74.0041648682
+10,2015-07-12 06:31:22,"Pushcart Coffee, 401 W 25th St, New York",40.7478997296,-74.0005266166
+11,2015-07-12 05:57:42,"Taco Truck, 14th Street, New York",40.7430494949,-74.0073726698
+12,2015-06-29 06:34:32,"Tea Fever, 2202 Shattuck Ave, Berkeley",37.8691856767,-122.267978015
+13,2015-06-22 16:44:07,"Pierre & Vacances Cannes Villa Francia, 33 avenue Wester Wemyss, Cannes",43.5527393166,6.99066281319
+14,2015-06-20 05:38:49,"John F. Kennedy International Airport (JFK), at JFK Access Rd, Queens",40.644333533,-73.7834107385
+15,2015-06-12 06:54:23,"Sel Rrose, 1 Delancey St, New York",40.7202482025,-73.9938180504
+16,2015-05-17 00:47:22,"Milroy's, 3 Greek St., London",51.514839,-0.131406784058
+17,2015-04-27 02:00:48,"Rustic Roots, 195 Falls Rd, Shelburne",44.378045,-73.226446
+18,2015-04-06 06:45:29,"Beast of Bourbon, 710 Myrtle Ave, Brooklyn",40.6945101486,-73.9548302748
+19,2015-03-27 21:38:35,"Chicago O'Hare International Airport (ORD), 10000 W Ohare Ave, Chicago",41.97151,-87.89537
+20,2015-03-22 08:55:03,"Azas, 49 Clinton St, New York",40.7196534921,-73.9848251047
+21,2015-02-27 01:18:04,"Tehuitzingo Deli, 695 10th Ave, New York",40.7630892942,-73.9929801805
+22,2015-02-09 04:43:46,"El Gran Burrito, 4716 Santa Monica Blvd, Los Angeles",34.09068422,-118.29258867
+23,2015-01-31 22:40:52,"Struik, Rozengracht 160, Amsterdam",52.3729398912,4.87824887037
+24,2015-01-28 20:37:43,"Otar, Frans Halsstraat 2, Amsterdam",52.3584954002,4.88909413607
+25,2015-01-28 06:26:13,"Vlaming eten & drinken, Lindengracht 95, Amsterdam",52.3802,4.88451
+26,2015-01-24 05:04:44,"Maialino, 2 Lexington Ave, New York",40.7384960625,-73.9856056195
+27,2015-01-03 08:44:46,"Red Star Sandwich Shop, 176 Smith St, Brooklyn",40.6857392668,-73.991356194
+28,2014-12-30 13:21:27,"456 Shanghai Cuisine, 69 Mott St, New York",40.7162642478,-73.9981450738
+29,2014-12-30 12:36:00,"Ferrara Bakery & Cafe, 195 Grand St, New York",40.7190687473,-73.9970773458
+30,2014-12-19 12:22:43,"Terminal 1, SFO Airport, San Francisco",37.6150087954,-122.385130399
+31,2014-12-19 12:19:47,"Terminal 2, SFO Airport, San Francisco",37.6170869303,-122.382545471
+32,2014-12-02 17:40:40,"India Explore by Ishana, T3 International Airport, Delhi",28.5557771932,77.0842619367
+33,2014-11-26 17:11:14,"Moets Stone, 50 Defence Colony, New Delhi",28.5731631929,77.2306275942
+34,2014-11-24 23:07:14,"Quick Electronics, Defence Colony Market, New Delhi",28.573764,77.230392
+35,2014-11-24 07:17:43,"Paul, Concourse A, 2f284a",25.2434121433,55.370929918
+36,2014-11-22 15:12:33,"The Royal Palms Shuffleboard Club, 514 Union St, Gowanus",40.6786852935,-73.9869278669
+37,2014-11-22 15:01:26,"Sarabeth's, 339 Greenwich St, New York",40.7181942933,-74.0105574644
+38,2014-11-22 15:00:22,"Brasserie Cognac, 1740 Broadway, New York",40.7648053954,-73.9822769312
+39,2014-11-22 14:58:54,"Gourmanoff, 1029 Brighton Beach Ave, Brooklyn",40.57845,-73.958502
+40,2014-11-22 14:56:31,"The Original John's Deli, 2033 Stillwell Ave, Brooklyn",40.5970096894,-73.9852555361
+41,2014-11-22 14:53:30,"Aroos Damascus Restaurant 45373945 39314833 2f453442, Al Jazeera St, 2f284a",25.2680363002,55.3212046428
+42,2014-11-22 14:45:14,"Al Ghurair Centre 45314332 27443a314a31, Al Rigga Rd., 2f284a",25.2673142764,55.3172457218
+43,2014-11-16 03:24:23,"Arcadia, Brighton Beach Ave, Brooklyn",40.5775640768,-73.9589572801
+44,2014-09-12 21:13:45,"Algonquin Hotel Times Square, Autograph Collection, 59 West 44th Street, New York",40.755939,-73.982372
+45,2014-09-06 06:36:35,"Mingalaba Restaurant, 1213 Burlingame Ave, Burlingame",37.5789380658,-122.346545985
+46,2014-09-03 22:30:59,"Cafe deStijl, 1 Union St, San Francisco",37.8014150811,-122.400442941
+47,2014-08-10 03:29:51,"Bicycle Habitat, 476 5th Ave, Brooklyn",40.668105,-73.98721
+48,2014-08-09 09:18:10,"Maoz Vegetarian, 558 Fashion Ave, New York",40.7548763014,-73.9878438431
+49,2014-08-09 09:17:28,"Maoz Vegetarian, 558 Fashion Ave, New York",40.7548763014,-73.9878438431
+50,2014-08-09 09:15:28,"Thai 101, 455 Myrtle Ave, Brooklyn",40.6932216584,-73.9674119126
+51,2014-07-19 23:29:52,"EYE Restaurant, IJpromenade 1, Amsterdam",52.3841305823,4.90084049539
+52,2014-07-18 20:24:33,"Vlaamsch Broodhuys, Eerste Constantijn Huygenstraat 64, Amsterdam",52.363879,4.874411
+53,2014-07-17 18:42:27,"Caf van Kerkwijk, Nes 41, Amsterdam",52.3715138302,4.89367617059
+54,2014-07-17 18:27:11,"Park Plaza Victoria, Damrak 1-5, Amsterdam",52.3773464856,4.89773091533
+55,2014-07-11 04:55:29,"Crowne Plaza Times Square Manhattan, 1605 Broadway, New York",40.7606497758,-73.9847964092
+56,2014-06-25 06:41:09,"Empire Tavern, LGA Terminal C, Flushing",40.7708874581,-73.8636119732
+57,2014-06-25 06:39:19,"CIBO Express Gourmet Market, LaGuardia Airport, Terminal C, Flushing",40.7713175883,-73.8655300169
+58,2014-06-18 03:46:35,"LOCL Restaurant, 8201 Preston Rd, Plano",33.0888225017,-96.8062318414
+59,2014-06-11 04:00:20,"The Atrium Shops and Cafes, 153 E 53rd St, New York",40.7582178546,-73.9699143667
+60,2014-05-08 06:42:55,"Tam Falafel and Smoothie Bar, 45 Spring St, New York",40.7220468683,-73.9961278439
+61,2014-04-14 06:47:45,"Madiba Restaurant, 195 Dekalb Ave, Brooklyn",40.6895657669,-73.9719346729
+62,2014-03-27 07:07:22,"Colonia Verde, 219 Dekalb Ave, Brooklyn",40.6897344649,-73.9707925138
+63,2014-03-01 20:36:13,"Tapas 24, Diputaci, 269, Barcelona",41.3906738992,2.16740945206
+64,2014-02-23 23:36:31,"L'Antic Forn, Pintor Fortuny, 28, Barcelona",41.3825539145,2.16899766349
+65,2014-01-11 10:29:29,"Race & Sports Book @ Wynn Las Vegas, 3131 Las Vegas Blvd S, Las Vegas",36.1271437642,-115.166419649
+66,2014-01-09 00:41:54,"Harrah's Hotel & Casino, 3475 Las Vegas Blvd S, Las Vegas",36.1194508963,-115.171173215
+67,2013-12-29 04:46:47,"Taj Caterers & Cafe, 12101 Nebel St, Rockville",39.0514688048,-77.1097082343
+68,2013-12-28 12:44:17,"DGS Delicatessen, 1317 Connecticut Ave NW, Washington",38.9077239091,-77.041990757
+69,2013-12-28 12:41:35,"Moby Dick House of Kabob, 1070 31st St NW, Washington",38.9048372754,-77.0613160729
+70,2013-12-28 12:39:30,"Toki Underground, 1234 H St NE, Washington",38.9003766423,-76.9890359044
+71,2013-12-28 12:36:06,"Toki Underground, 1234 H St NE, Washington",38.9003766423,-76.9890359044
+72,2013-12-28 06:18:31,"Bodega, 3116 M St NW, Washington",38.905128767,-77.0617840131
+73,2013-12-15 06:09:42,"Kasa Indian Eatery, 4001 18th St, San Francisco",37.7611380928,-122.432935982
+74,2013-11-22 23:42:11,"Eventi, 851 Avenue Of The Americas, New York",40.747224,-73.98996
+75,2013-11-03 09:57:06,"Brook Vin, 381 7th Ave, Brooklyn",40.6654322585,-73.9827877164
+76,2013-10-13 08:14:55,"Gnarly Vines, 350 Myrtle Ave, Brooklyn",40.6932608898,-73.9721757308
+77,2013-10-06 21:13:51,"Water Lily Cafe, 106 N Topanga Canyon Blvd, Topanga",34.0893906355,-118.60357
+78,2013-09-29 05:02:25,"Chino's Vegetable Shop, 6123 Calzada del Bosque, Rancho Santa Fe",33.004958,-117.199539483
+79,2013-09-28 08:12:41,"Pho Vina, 5773 E La Palma Ave, Anaheim",33.8602401667,-117.787849
+80,2013-08-20 02:55:32,"Gregory's Coffee, 327 Park Ave S, New York",40.7410469222,-73.9857835306
+81,2013-08-15 10:51:31,"The Kati Roll Company, 99 Macdougal St, New York",40.72951,-74.000865
+82,2013-08-14 22:38:43,"Gigi Cafe, 307 7th Ave, New York",40.7469060829,-73.9935138926
+83,2013-08-03 00:34:55,"R4dti Mediterranean Grill, 10321 Westlake Dr. (Westlake Crossing), Bethesda",39.0259375178,-77.1476091444
+84,2013-07-29 08:55:38,"Graziella's, 232 Vanderbilt Ave, Brooklyn",40.6904881926,-73.9695183383
+85,2013-07-22 06:23:43,"Brava, 27 Housatonic St, Lenox",42.3578145374,-73.2831430435
+86,2013-07-20 23:40:50,"Great Barrington Farmers Market, Former Railroad Station, Great Barrington",42.1938279956,-73.3652023788
+87,2013-07-17 12:15:33,"Tataki, 2815 California St, San Francisco",37.7880053762,-122.440998229
+88,2013-07-14 03:11:39,"Phdf Ph Qud1c Vietnamese, 1816 Irving St, San Francisco",37.76368,-122.47756
+89,2013-07-14 03:10:37,"Chloe's Caf, 1399 Church St, San Francisco",37.7485513687,-122.427067
+90,2013-07-09 18:32:41,"John F. Kennedy International Airport (JFK), at JFK Access Rd, Queens",40.644333533,-73.7834107385
+91,2013-06-27 02:29:41,"Whole Foods Market, 4 Union Square South, New York",40.7349983559,-73.991109307
+92,2013-06-16 00:55:04,"Greene-Ville Garden, 373 Myrtle Ave, Brooklyn",40.6932152224,-73.9715673461
+93,2013-05-26 01:28:36,"Walter's, 166 Dekalb Ave, Brooklyn",40.6894612182,-73.9732539654
+94,2013-05-26 01:27:20,"Walter's, 166 Dekalb Ave, Brooklyn",40.6894612182,-73.9732539654
+95,2013-05-21 02:07:32,"Rogue, 757 Avenue of the Americas, New York",40.7442779652,-73.9918479653
+96,2013-05-16 05:51:31,"Whole Foods Market, 4 Union Square South, New York",40.7349983559,-73.991109307
+97,2013-05-04 02:39:15,"Tia Pol, 205 10th Ave, New York",40.7472198086,-74.0046009946
+98,2013-05-04 02:37:29,"Tia Pol, 205 10th Ave, New York",40.7472198086,-74.0046009946
+99,2013-04-27 02:59:07,"Mexicue, 345 7th Ave, New York",40.7483304539,-73.9926530659
+100,2013-04-27 02:57:15,"Mexicue, 345 7th Ave, New York",40.7483304539,-73.9926530659
+101,2013-04-20 01:53:15,"Eco Merit Cleaners, 238 Madison Ave, New York",40.7498820701,-73.9819670158
+102,2013-04-18 04:45:04,"Bryant Park, E 42nd St, New York",40.7539968725,-73.9840445867
+103,2013-04-03 02:44:11,"Empire State Orthopaedics, 245 E 84th St, New York",40.776926,-73.953117
+104,2013-04-03 02:42:20,"Empire State Orthopaedics, 245 E 84th St, New York",40.776926,-73.953117
+105,2013-02-09 14:14:57,"Zencu Sushi & Grill, 319 E 2nd St #206, Los Angeles",34.049310117,-118.240695867
+106,2013-02-03 03:39:17,"Bread and Cocoa, 199 Sutter St, San Francisco",37.789709298,-122.403595448
+107,2013-02-03 03:38:03,"Kells Irish Restaurant & Bar, 530 Jackson St, San Francisco",37.7963902951,-122.404204352
+108,2013-02-03 03:37:46,"Kells Irish Restaurant & Bar, 530 Jackson St, San Francisco",37.7963902951,-122.404204352
+109,2013-02-03 01:51:50,"Just For Yo, 732 22nd St, San Francisco",37.7579563894,-122.388878167
+110,2012-12-28 09:21:21,"Martha, 184 Dekalb Ave, Brooklyn",40.6895777885,-73.9723766121
+111,2012-12-28 08:56:02,"Martha, 184 Dekalb Ave, Brooklyn",40.6895777885,-73.9723766121
+112,2012-12-24 04:21:28,"Martha, 184 Dekalb Ave, Brooklyn",40.6895777885,-73.9723766121
+113,2012-12-24 04:19:51,"Martha, 184 Dekalb Ave, Brooklyn",40.6895777885,-73.9723766121
+114,2012-12-24 04:18:14,"Martha, 184 Dekalb Ave, Brooklyn",40.6895777885,-73.9723766121
+115,2012-12-15 01:50:26,"Choc & nuts, next to Carlton Hotel, 2f284a",25.2673320965,55.3075426234
+116,2012-11-23 21:04:52,"Freyya Galata Bal31k31s31, Serdar-i Ekrem sokak no:2/B Kuledibi, 30stanbul",41.0262370281,28.9747277696
+117,2012-10-17 04:36:21,"Gate 21, Terminal 2, Jamaica",40.6404653348,-73.7891149521
+118,2012-10-17 04:35:14,"Gate 21, Terminal 2, Jamaica",40.6404653348,-73.7891149521
+119,2012-10-07 04:56:30,"Roman19s, 243 Dekalb Ave, Brooklyn",40.6894915245,-73.9695125987
+120,2012-10-07 04:55:12,"Roman19s, 243 Dekalb Ave, Brooklyn",40.6894915245,-73.9695125987
+121,2012-10-07 04:51:54,"Roman19s, 243 Dekalb Ave, Brooklyn",40.6894915245,-73.9695125987
+122,2012-09-10 07:45:13,"Roman19s, 243 Dekalb Ave, Brooklyn",40.6894915245,-73.9695125987
+123,2012-09-10 07:41:05,"Roman19s, 243 Dekalb Ave, Brooklyn",40.6894915245,-73.9695125987
+124,2012-09-10 07:33:53,"Roman19s, 243 Dekalb Ave, Brooklyn",40.6894915245,-73.9695125987
+125,2012-09-10 07:32:06,"The Vanderbilt, 570 Vanderbilt Ave, Brooklyn",40.679406,-73.968334
+126,2012-09-10 07:29:01,"The Vanderbilt, 570 Vanderbilt Ave, Brooklyn",40.679406,-73.968334
+127,2012-09-10 07:21:22,"The Vanderbilt, 570 Vanderbilt Ave, Brooklyn",40.679406,-73.968334
+128,2012-07-23 06:08:24,"Zum Drnbr, Drnbrugasse 2, Mnchen",48.1363502826,11.5799885489
+129,2012-07-22 21:03:26,"Passeig de Grcia, Passeig de Grcia, Barcelona",41.3914752687,2.16580867767
+130,2012-07-22 20:58:33,"Casa Batll, Pg. de Grcia, 43, Barcelona",41.3918024984,2.16510640517
+131,2012-07-21 06:03:13,"Palau Dalmases - Espai Barroc, Carrer Montcada, 20, Barcelona",41.3845956677,2.1815997801
+132,2012-07-15 07:29:24,"Bar Mut, Pau Claris, 192, Barcelona",41.3970961248,2.16116750863
+133,2012-07-05 04:49:54,"Franny's, 348 Flatbush Ave, Brooklyn",40.6761055159,-73.9716821358
+134,2012-07-05 04:48:02,"Franny's, 348 Flatbush Ave, Brooklyn",40.6761055159,-73.9716821358
+135,2012-07-05 04:46:48,"Franny's, 348 Flatbush Ave, Brooklyn",40.6761055159,-73.9716821358
+136,2012-07-05 04:43:51,"Franny's, 348 Flatbush Ave, Brooklyn",40.6761055159,-73.9716821358
+137,2012-06-28 01:06:38,"Lavo, 39 E 58th St, New York",40.7627763744,-73.9716591779
+138,2012-06-27 09:02:47,"Noodies, 830 9th Ave, New York",40.7662328191,-73.9869600349
+139,2012-06-27 08:57:08,"Noodies, 830 9th Ave, New York",40.7662328191,-73.9869600349
+140,2012-06-27 07:57:44,"Noodies, 830 9th Ave, New York",40.7662328191,-73.9869600349
+141,2012-06-24 01:43:21,"Choice Market, 318 Lafayette Ave, Brooklyn",40.6883792297,-73.9629676938
+142,2012-06-18 02:47:54,"Roman19s, 243 Dekalb Ave, Brooklyn",40.6894915245,-73.9695125987
+143,2012-06-18 02:46:15,"Roman19s, 243 Dekalb Ave, Brooklyn",40.6894915245,-73.9695125987
+144,2012-06-18 02:44:24,"Roman19s, 243 Dekalb Ave, Brooklyn",40.6894915245,-73.9695125987
+145,2012-06-18 02:42:41,"Roman19s, 243 Dekalb Ave, Brooklyn",40.6894915245,-73.9695125987
+146,2012-06-17 03:15:16,"Dekalb Convenience, 249 Dekalb Ave, Brooklyn",40.6895629079,-73.9692628384
+147,2012-06-11 02:50:58,"Chef Geoff's, 3201 New Mexico Ave NW, Washington",38.9329054868,-77.0848470926
+148,2012-06-10 10:29:20,"Myanmar Restaurant, 7810C Lee Hwy, Falls Church",38.87579075,-77.2135564667
+149,2012-06-08 08:53:19,"Pala, 198 Allen St, New York",40.7224658079,-73.9887391252
+150,2012-06-03 11:15:23,"Dekalb Convenience, 249 Dekalb Ave, Brooklyn",40.6895629079,-73.9692628384
+151,2012-06-03 11:13:38,"Dekalb Convenience, 249 Dekalb Ave, Brooklyn",40.6895629079,-73.9692628384
+152,2012-06-03 11:10:57,"Dekalb Convenience, 249 Dekalb Ave, Brooklyn",40.6895629079,-73.9692628384
+153,2012-06-03 03:22:02,"People's Pops @ Brooklyn Flea, 176 Lafayette Ave, Brooklyn",40.6872841167,-73.9692599667
+154,2012-06-03 02:43:13,"Dough at the Brooklyn Flea, 176 Lafayette Avenue, Brooklyn",40.687510738,-73.9692198815
+155,2012-05-30 05:18:22,"Young's Lobster Pound, 4 Mitchell St, Belfast",44.4330750268,-68.9965438843
+156,2012-05-30 05:16:19,"Young's Lobster Pound, 4 Mitchell St, Belfast",44.4330750268,-68.9965438843
+157,2012-05-30 05:14:33,"Young's Lobster Pound, 4 Mitchell St, Belfast",44.4330750268,-68.9965438843
+158,2012-05-29 10:16:43,"Laan Xang Cafe, 19 Main St, Belfast",44.428072,-69.005105
+159,2012-05-29 10:11:21,"Laan Xang Cafe, 19 Main St, Belfast",44.428072,-69.005105
+160,2012-05-29 10:07:18,"40 Paper Italian Bistro & Bar, 40 Washington St, Camden",44.21041,-69.067263
+161,2012-05-29 10:06:41,"40 Paper Italian Bistro & Bar, 40 Washington St, Camden",44.21041,-69.067263
+162,2012-05-29 10:05:59,"40 Paper Italian Bistro & Bar, 40 Washington St, Camden",44.21041,-69.067263
+163,2012-05-29 10:05:23,"40 Paper Italian Bistro & Bar, 40 Washington St, Camden",44.21041,-69.067263
+164,2012-05-29 04:09:22,"Laan Xang Cafe, 19 Main St, Belfast",44.428072,-69.005105
+165,2012-05-26 11:48:51,"The Lobster Pound And Andy's Brew Pub, 2521 Atlantic Hwy, Lincolnville",44.282904,-69.007854
+166,2012-05-25 09:13:18,"Gansevoort Meatpacking NYC, 18 9th Ave, New York",40.7399672466,-74.0057945988
+167,2012-05-25 04:53:05,"People's Pops @ Brooklyn Flea, 176 Lafayette Ave, Brooklyn",40.6872841167,-73.9692599667
+168,2012-05-18 01:02:16,"Le Petit Cafe, 156 Spring St, New York",40.724411,-74.001728
+169,2012-04-27 05:20:26,"Sala Bebida Botana Bar, 9710 Airport Blvd, San Antonio",29.5288205374,-98.4720313857
+170,2012-04-20 10:38:59,"Ruth's Chris Steak House, 933 Skokie Blvd, Northbrook",42.135484,-87.788372
+171,2012-04-20 10:38:16,"Ruth's Chris Steak House, 933 Skokie Blvd, Northbrook",42.135484,-87.788372
+172,2012-04-20 09:23:37,"Rooks Corner, 933 Skokie Blvd, Northbrook",42.135437,-87.788662
+173,2012-03-29 07:28:29,"Sichuan Gourmet II, 271 Worcester Rd, Framingham",42.298673,-71.40539
+174,2012-03-29 07:15:38,"Sichuan Gourmet II, 271 Worcester Rd, Framingham",42.298673,-71.40539
+175,2012-03-17 07:53:28,"Graziella's, 232 Vanderbilt Ave, Brooklyn",40.6904881926,-73.9695183383
+176,2012-03-14 07:35:24,"Second Bar + Kitchen, 200 Congress Ave, Austin",30.2643251537,-97.7443465551
+177,2012-03-14 07:33:55,"Second Bar + Kitchen, 200 Congress Ave, Austin",30.2643251537,-97.7443465551
+178,2012-03-14 07:32:35,"Second Bar + Kitchen, 200 Congress Ave, Austin",30.2643251537,-97.7443465551
+179,2012-03-14 07:31:51,"Second Bar + Kitchen, 200 Congress Ave, Austin",30.2643251537,-97.7443465551
+180,2012-02-20 03:51:47,"Fonda, 434 7th Ave, Brooklyn",40.6635710383,-73.9845158058
+181,2012-02-12 03:20:16,"The Smith, 55 3rd Ave, New York",40.7311558721,-73.9887276473
+182,2012-01-07 18:29:24,"Golden Goa Restaurant, Mandrem Beach, Goa",15.6736677665,73.7071026186
+183,2012-01-05 23:01:53,"Brittos Bar & Restaurant, Baga Beach, Baga",15.5613589656,73.7495879084
+184,2012-01-05 22:57:40,"Brittos Bar & Restaurant, Baga Beach, Baga",15.5613589656,73.7495879084
+185,2012-01-04 18:08:05,"Yum Yum Tree, new Friends Colony, New Delhi",28.561954109,77.2684281663
+186,2012-01-03 21:01:07,"Kwality Restaurant, Connaught Place, New Delhi",28.6298596536,77.2176204967
+187,2011-12-19 09:10:05,"Philz Coffee, 201 Berry St, San Francisco",37.7758355208,-122.393461849
+188,2011-12-18 03:57:54,"Primavera, Ferry Plaza Farmers Market, San Francisco",37.7952471401,-122.392305664
+189,2011-11-19 14:02:11,"Jaleo, 3708 Las Vegas Blvd S, Las Vegas",36.1096522951,-115.173761302
+190,2011-11-19 14:01:00,"Jaleo, 3708 Las Vegas Blvd S, Las Vegas",36.1096522951,-115.173761302
+191,2011-11-17 02:11:13,"Heineken Lounge, Terminal C2, Newark",40.6966432653,-74.1762248348
+192,2011-09-27 11:23:13,"al di l, 248 5th Ave, Brooklyn",40.6751831993,-73.9813816189
+193,2011-09-20 10:22:40,"Kiwiana, 847 Union St, Brooklyn",40.674584009,-73.9757915623
+194,2011-09-12 02:23:27,"Pure Paws Veterinary Care, 944 Fulton St, Brooklyn",40.68256,-73.96304
+195,2011-08-16 08:57:16,"Nick's Tomatoe Pie, 1000 Turnage Boulevard, West Palm Beach",26.6871129574,-80.0911474228
+196,2011-08-16 08:56:29,"Nick's Tomatoe Pie, 1000 Turnage Boulevard, West Palm Beach",26.6871129574,-80.0911474228
+197,2011-08-08 03:19:11,"BKLYN Larder, 228 Flatbush Ave, Brooklyn",40.680658,-73.974825
+198,2011-08-08 02:50:49,"Flatbush Farm & Bar(n), 76 Saint Marks Ave, Brooklyn",40.6798406667,-73.9747881889
+199,2011-08-08 02:49:30,"Flatbush Farm & Bar(n), 76 Saint Marks Ave, Brooklyn",40.6798406667,-73.9747881889
+200,2011-08-08 02:48:48,"Flatbush Farm & Bar(n), 76 Saint Marks Ave, Brooklyn",40.6798406667,-73.9747881889
+201,2011-08-08 01:48:09,"Flatbush Farm & Bar(n), 76 Saint Marks Ave, Brooklyn",40.6798406667,-73.9747881889
+202,2011-07-31 03:27:09,"Fremont Street Experience, 425 Fremont St, Las Vegas",36.1704783049,-115.14306188
+203,2011-07-31 03:24:31,"Fremont Street Experience, 425 Fremont St, Las Vegas",36.1704783049,-115.14306188
+204,2011-07-31 03:23:22,"Fountains of Bellagio, 3600 Las Vegas Blvd S, Las Vegas",36.1126802214,-115.173286531
+205,2011-07-31 03:22:35,"Todd English's Olives, 3600 Las Vegas Blvd S, Las Vegas",36.1139686259,-115.174131854
+206,2011-07-31 03:21:26,"The Cosmopolitan of Las Vegas, 3708 Las Vegas Blvd S, Las Vegas",36.1097609506,-115.17383078
+207,2011-07-31 03:20:10,"Mon Ami Gabi, 3655 Las Vegas Blvd S, Las Vegas",36.1126393164,-115.172553062
+208,2011-07-31 03:19:08,"Mon Ami Gabi, 3655 Las Vegas Blvd S, Las Vegas",36.1126393164,-115.172553062
+209,2011-07-31 03:18:09,"Grotto Ristorante, 129 Fremont St, Las Vegas",36.1699438522,-115.145632823
+210,2011-07-31 03:16:54,"Grotto Ristorante, 129 Fremont St, Las Vegas",36.1699438522,-115.145632823
+211,2011-07-19 12:41:00,"Shake Shack, 11 Madison Ave, New York",40.7414310297,-73.9884120034
+212,2011-07-19 12:40:20,"James, 605 Carlton Ave, Brooklyn",40.6790534692,-73.9715963602
+213,2011-07-19 12:40:02,"James, 605 Carlton Ave, Brooklyn",40.6790534692,-73.9715963602
+214,2011-07-19 12:39:44,"James, 605 Carlton Ave, Brooklyn",40.6790534692,-73.9715963602
+215,2011-07-19 12:39:18,"James, 605 Carlton Ave, Brooklyn",40.6790534692,-73.9715963602
+216,2011-07-19 12:38:16,"cafe57 at Hearst Tower, 300 W 57th St, New York",40.766364014,-73.9831378044
+217,2011-07-04 23:22:58,"McSwiggan's, 393 2nd Ave, New York",40.737831,-73.981022
+218,2011-07-04 23:21:45,"WTF Coffee Lab, 47 Willoughby Ave, Brooklyn",40.691658,-73.971299
+219,2011-07-04 23:21:11,"Brooklyn Bowl, 61 Wythe Ave, Brooklyn",40.7219178735,-73.9575452688
+220,2011-07-04 23:20:57,"Brooklyn Bowl, 61 Wythe Ave, Brooklyn",40.7219178735,-73.9575452688
+221,2011-07-04 23:20:21,"Brooklyn Bowl, 61 Wythe Ave, Brooklyn",40.7219178735,-73.9575452688
+222,2011-06-25 04:29:53,"Square One Dining, 4854 Fountain Ave, Los Angeles",34.09536971,-118.29508972
+223,2011-06-25 04:28:42,"Square One Dining, 4854 Fountain Ave, Los Angeles",34.09536971,-118.29508972
+224,2011-06-25 04:28:24,"Square One Dining, 4854 Fountain Ave, Los Angeles",34.09536971,-118.29508972
+225,2011-06-22 06:12:09,"Gjelina, 1429 Abbot Kinney Blvd, Venice",33.9905041397,-118.464978039
+226,2011-06-17 06:33:22,"Original Rum Bar & Grill, 5501 Josh Birmingham Pkwy, Charlotte",35.2207397145,-80.9409624338
+227,2011-06-17 06:32:56,"Original Rum Bar & Grill, 5501 Josh Birmingham Pkwy, Charlotte",35.2207397145,-80.9409624338
+228,2011-06-17 06:32:33,"Original Rum Bar & Grill, 5501 Josh Birmingham Pkwy, Charlotte",35.2207397145,-80.9409624338
+229,2011-06-15 00:39:26,"Museum of the Moving Image, 36-01 35th Ave, Astoria",40.7560968904,-73.9240098393
+230,2011-06-15 00:38:50,"TheForumNYC, 127 4th Ave, New York",40.733025,-73.989972
+231,2011-06-06 23:56:51,"Marlow & Sons, 81 Broadway, Brooklyn",40.7106104895,-73.9656842819
+232,2011-06-06 23:56:03,"Chennai Garden by Tiffin Wallah, 127 E 28th St, New York",40.7428582598,-73.9828508471
+233,2011-06-06 23:55:34,"Brooklyn Bridge Park - Pier 1, 334 Furman St, Brooklyn",40.7028997059,-73.9959873131
+234,2011-06-06 23:55:12,"Brooklyn Bridge Park - Pier 1, 334 Furman St, Brooklyn",40.7028997059,-73.9959873131
+235,2011-06-06 23:54:46,"Brooklyn Bridge Park - Pier 1, 334 Furman St, Brooklyn",40.7028997059,-73.9959873131
+236,2011-05-09 05:00:25,"Roman19s, 243 Dekalb Ave, Brooklyn",40.6894915245,-73.9695125987
+237,2011-05-09 04:07:35,"Roman19s, 243 Dekalb Ave, Brooklyn",40.6894915245,-73.9695125987
+238,2011-03-21 06:01:31,"Piranha Killer Sushi, 207 San Jacinto Blvd, Austin",30.2640713065,-97.7414989471
+239,2011-03-21 04:08:51,"Emo's (WE MOVED!), 603 Red River St, Austin",30.2668084653,-97.7368454662
+240,2011-03-21 04:07:53,"The Elephant Room, 315 Congress Ave, Austin",30.2655354218,-97.7435803413
+241,2011-03-21 04:07:13,"Le Caf Crpe, 200 San Jacinto Blvd, Austin",30.2636977132,-97.7419222351
+242,2011-03-21 04:06:38,"The Salt Lick, 18300 Farm to Market Rd 1826, Driftwood",30.131654089,-98.0134026561
+243,2011-03-21 04:04:40,"Phoenix, 409 Colorado St, Austin",30.2667956555,-97.7444815636
+244,2011-03-21 04:03:50,"Jester King Brewery, 13005 Fitzhugh Rd, Austin",30.23047229,-97.9992342141
+245,2011-03-21 04:02:53,"Roaring Fork, 701 Congress Ave, Austin",30.2691817155,-97.7421426773
+246,2011-03-21 03:59:28,"Trifecta on 3rd, 360 Nueces St, Austin",30.2670736461,-97.7496528625
+247,2011-03-21 03:58:50,"Chupacabra Cantina, 400 E 6th St, Austin",30.2673026711,-97.7391585058
+248,2011-03-21 03:58:08,"Fogo de Chao Brazilian Steakhouse, 309 E 3rd St, Austin",30.264177,-97.74068
+249,2011-03-21 03:57:40,"Fogo de Chao Brazilian Steakhouse, 309 E 3rd St, Austin",30.264177,-97.74068
+250,2011-03-21 03:54:49,"Roppolo's Pizzeria Trailer, 401 Colorado St., Austin",30.2663024672,-97.7446436329
+251,2011-03-21 03:52:21,"Pueblo Viejo, 1001 East 6th St, Austin",30.265199993,-97.7330903523
+252,2011-03-21 03:51:15,"Torchy's Tacos, 1311 S 1st St, Austin",30.251000116,-97.7544903479
+253,2011-03-21 03:41:46,"Lucky Lounge, 209 W 5th St, Austin",30.2674813641,-97.7453398705
+254,2011-03-21 03:39:41,"Blue Dahlia Bistro, 1115 E 11th St, Austin",30.268749,-97.728744
+255,2011-03-21 03:31:27,"Radisson Hotel & Suites Austin Downtown, 111 E Cesar Chavez St, Austin",30.2632283613,-97.7439964294
+256,2011-03-21 03:29:41,"Stubb's Bar-B-Q, 801 Red River St, Austin",30.2686176874,-97.7361508854
+257,2011-03-21 03:26:44,"Empire Automotive Service, 604 E 7th St, Austin",30.2674698083,-97.7362410591
+258,2011-03-10 11:52:02,"Justine's Brasserie, 4710 E 5th St, Austin",30.2531916898,-97.7006328106
+259,2011-03-10 11:51:16,"Justine's Brasserie, 4710 E 5th St, Austin",30.2531916898,-97.7006328106
+260,2011-03-10 04:41:02,"Houndstooth Coffee, 4200 N Lamar Blvd Ste 120, Austin",30.3105694634,-97.7399298549
+261,2011-03-10 02:38:12,"Takoba, 1411 E 7th St, Austin",30.2641661675,-97.7273886741
+262,2011-03-10 02:37:39,"Takoba, 1411 E 7th St, Austin",30.2641661675,-97.7273886741
+263,2011-03-10 02:36:59,"Takoba, 1411 E 7th St, Austin",30.2641661675,-97.7273886741
+264,2011-03-02 09:19:41,"Ginza Sushi, 296 5th Ave, Brooklyn",40.6736543091,-73.9826098026
+265,2011-03-02 09:18:39,"Ginza Sushi, 296 5th Ave, Brooklyn",40.6736543091,-73.9826098026
+266,2011-02-08 11:03:24,"The Highlander, 931 Monroe Dr NE, Atlanta",33.7792186726,-84.3676185608
+267,2011-01-22 09:49:08,"Kinara's, 368 Myrtle Ave, Brooklyn",40.6932499032,-73.9714697748
+268,2011-01-16 05:59:24,"174832192b0d3407-Thanying; Genuine Royal Thai Cuisine, Pramuan Rd, 1a3207233101",13.7215737623,100.521979091
+269,2011-01-03 18:25:42,"Plug-Ins, Al Ghurair Centre 45314332 27443a314a31,  Al Rigga Rd., 2f284a",25.2684563039,55.318364061
+270,2011-01-03 18:24:59,"Plug-Ins, Al Ghurair Centre 45314332 27443a314a31,  Al Rigga Rd., 2f284a",25.2684563039,55.318364061
+271,2010-12-29 00:00:19,"Kwality Restaurant, Connaught Place, New Delhi",28.6298596536,77.2176204967
+272,2010-12-25 09:10:51,"Suvarnabhumi Airport (BKK), 999 Moo 1 Bang Na-Trat Rd, Bang Phli",13.692468003,100.751281134
+273,2010-12-25 09:10:32,"VAT Refund Payment Counter (West), BKK Airport, Bang Phli",13.6921570632,100.747729647
+274,2010-12-24 15:25:00,"Krabi International Airport (KBV), 133 Moo 5, 402b19372d04252d07",8.09760384812,98.9819662083
+275,2010-12-24 15:24:14,"Krabi International Airport (KBV), 133 Moo 5, 402b19372d04252d07",8.09760384812,98.9819662083
+276,2010-12-24 12:22:41,"Costa Lanta Resort Koh Lanta, 212 Moo 1 Saladan, Ko Lanta",7.64221343128,99.0277464843
+277,2010-12-24 12:19:28,"Costa Lanta Resort Koh Lanta, 212 Moo 1 Saladan, Ko Lanta",7.64221343128,99.0277464843
+278,2010-12-24 12:17:55,"Costa Lanta Resort Koh Lanta, 212 Moo 1 Saladan, Ko Lanta",7.64221343128,99.0277464843
+279,2010-12-24 12:16:44,"Costa Lanta Resort Koh Lanta, 212 Moo 1 Saladan, Ko Lanta",7.64221343128,99.0277464843
+280,2010-12-24 12:15:45,"Costa Lanta Resort Koh Lanta, 212 Moo 1 Saladan, Ko Lanta",7.64221343128,99.0277464843
+281,2010-12-18 08:55:01,"Tamarind Village Hotel Chiang Mai, 50/1 Rajdamnoen Road Sri Phoom Muang, 4021372d07400a352207432b2148",18.7886812776,98.9899387543
+282,2010-12-18 08:54:17,"Tamarind Village Hotel Chiang Mai, 50/1 Rajdamnoen Road Sri Phoom Muang, 4021372d07400a352207432b2148",18.7886812776,98.9899387543
+283,2010-12-18 08:53:56,"Tamarind Village Hotel Chiang Mai, 50/1 Rajdamnoen Road Sri Phoom Muang, 4021372d07400a352207432b2148",18.7886812776,98.9899387543
+284,2010-11-23 02:44:29,"Revere Ristorante Italiano, 820 River Road, Mercer County",40.2475735391,-74.8341184302
+285,2010-10-28 06:02:34,"Rapid Park, 10 E 30th St, New York",40.7456937253,-73.9854850991
+286,2010-10-28 06:01:50,"Rapid Park, 10 E 30th St, New York",40.7456937253,-73.9854850991
+287,2010-10-25 01:52:57,"Cloister Cafe, 238 E 9th St, New York",40.72932,-73.987965
+288,2010-10-25 01:51:50,"Cloister Cafe, 238 E 9th St, New York",40.72932,-73.987965
+289,2010-10-10 04:24:41,"Olea, 171 Lafayette Ave, Brooklyn",40.6877934842,-73.9706173539
+290,2010-10-10 04:24:07,"Olea, 171 Lafayette Ave, Brooklyn",40.6877934842,-73.9706173539
+291,2010-10-10 04:05:02,"New modernage cleaners, 409 Myrtle Ave, Brooklyn",40.6931724375,-73.9699315853
+292,2010-10-10 02:59:23,"People's Pops @ Brooklyn Flea, 176 Lafayette Ave, Brooklyn",40.6872841167,-73.9692599667
+293,2010-10-02 11:58:39,"No. 7, 7 Greene Ave, Brooklyn",40.685976,-73.973047
+294,2010-10-02 11:57:48,"No. 7, 7 Greene Ave, Brooklyn",40.685976,-73.973047
+295,2010-10-02 11:57:20,"No. 7, 7 Greene Ave, Brooklyn",40.685976,-73.973047
+296,2010-10-02 07:02:28,"Scopello, 63 Lafayette Ave, Brooklyn",40.6870308256,-73.9759235676
+297,2010-09-10 03:49:24,"S&T Seafood Inc, 129 Mott St, New York",40.7183900743,-73.9965669267
+298,2010-08-09 10:50:38,"Cincinnati / Northern Kentucky International Airport (CVG), 2939 Terminal Dr, Hebron",39.0550439318,-84.6561550642
+299,2010-08-06 08:37:33,"Flatiron Lounge, 37 W 19th St, New York",40.7399773971,-73.993324511
+300,2010-08-06 08:37:03,"Flatiron Lounge, 37 W 19th St, New York",40.7399773971,-73.993324511
+301,2010-07-24 13:43:33,"Barnes & Noble, 106 Court St, Brooklyn",40.6908685904,-73.9920133352
+302,2010-07-24 13:39:34,"Iron Chef House, 92 Clark St, Brooklyn",40.6974237197,-73.9925038556
+303,2010-05-30 01:57:45,"Brooklyn Flea - Fort Greene, 176 Lafayette Ave., Brooklyn",40.6874151876,-73.9692252874
+304,2010-04-24 07:03:39,"Joseph Tyler Hair Salon, 456 Myrtle Ave, Brooklyn",40.693288,-73.967285
+305,2009-12-31 11:05:54,"Barcade, 388 Union Ave, Brooklyn",40.7120718032,-73.951082028
+306,2009-11-17 03:42:32,"Olea, 171 Lafayette Ave, Brooklyn",40.6877934842,-73.9706173539
+307,2009-11-17 03:41:59,"Olea, 171 Lafayette Ave, Brooklyn",40.6877934842,-73.9706173539
+308,2009-11-13 10:00:48,"French Market Restaurant & Bar, 1001 Decatur St, New Orleans",29.9592214043,-90.0607207339
+309,2009-11-13 10:00:02,"French Market Restaurant & Bar, 1001 Decatur St, New Orleans",29.9592214043,-90.0607207339
+310,2009-10-23 01:36:29,"Boqueria, 53 W 19th St, New York",40.7401198488,-73.9938467445
+311,2009-10-20 09:15:25,"Nada/art in/visible spaces exhibit, 395 Flatbush Avenue Ext, Brooklyn",40.689348,-73.981393
+312,2009-10-20 08:25:11,"Death & Co., 433 E 6th St, New York",40.7258115103,-73.9848947525

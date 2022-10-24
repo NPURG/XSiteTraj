@@ -1,0 +1,125 @@
+,time,poi,latitude,longitude
+0,2015-12-07 02:10:30,"The Table Caf, 83 Southwark St, London",51.5057650094,-0.0997550758476
+1,2015-12-07 02:06:15,"Tate Modern, 53 Bankside, London",51.5076943876,-0.0994579572438
+2,2015-12-07 02:03:28,"Restaurant Vietnam, Uetlibergstrasse 77, Zrich",47.362282,8.518571
+3,2015-12-07 02:01:32,"B2 Boutique Hotel & Spa, Brandschenkestrasse 152, Zrich",47.3644204399,8.52445152165
+4,2015-12-07 02:00:47,"Thermalbad & Spa, Brandschenkestr. 150, Zrich",47.364786,8.525345
+5,2015-11-19 04:15:49,"Wagamama, 2b Tower Pl, Tower Hill",51.5088191285,-0.0788094126917
+6,2015-10-17 02:07:57,"Company Cafe, 2104 Greenville Ave, Dallas",32.8151358344,-96.7701262046
+7,2015-10-13 08:33:21,"Wyndham Dallas Suites - Park Central, 7800 Alpha Rd, Dallas",32.9262658297,-96.7713010311
+8,2015-09-16 03:27:01,"Googleplex, 1600 Amphitheatre Pkwy, Mountain View",37.4218487441,-122.085128717
+9,2015-09-06 07:40:09,"Black Sands Brewery, 701 Haight St, San Francisco",37.7714730982,-122.433787579
+10,2015-07-13 11:26:23,"Helado Obscuro, Liverpool 161, Ciudad de Mxico",19.4239170111,-99.1652999682
+11,2015-07-12 22:08:32,"230 Fifth Rooftop Lounge, 230 5th Ave, New York",40.7442152799,-73.9885380368
+12,2015-07-12 22:06:46,"Museo Dolores Olmedo, Av. Mxico 5843, Xochimilco",19.2659838591,-99.1257084364
+13,2015-07-11 01:23:35,"El Cardenal, Palma 23, Centro Histrico, Ciudad de Mxico, Ciudad de Mxico",19.433595519,-99.1351545749
+14,2015-06-11 11:37:36,"The Little Chihuahua, 292 Divisadero St, San Francisco",37.772053482,-122.437171781
+15,2015-06-11 11:32:32,"Clarion Alley, Clarion Alley, San Francisco",37.7629715896,-122.42117881
+16,2015-06-11 11:31:52,"Sun Rise Restaurant, 3126 24th St, San Francisco",37.7525151613,-122.414674748
+17,2015-06-11 11:24:47,"CatHead's BBQ, 1665 Folsom St, San Francisco",37.7700892303,-122.415316323
+18,2015-06-11 11:23:43,"Pineapples, 296 Ocean Ave, San Francisco",37.72331968,-122.443044106
+19,2015-06-11 11:21:11,"Green Chile Kitchen, 1801 McAllister St, San Francisco",37.777391,-122.44179
+20,2015-06-11 11:19:30,"Mikkeller Bar, 34 Mason St, San Francisco",37.7839328406,-122.409243326
+21,2015-05-28 05:15:52,"Kitchen Story, 3499 16th St, San Francisco",37.7643662527,-122.430895439
+22,2014-08-29 17:00:41,"San Jalisco, 901 S Van Ness Ave, San Francisco",37.7587778706,-122.416765383
+23,2014-08-27 02:59:42,"Lol, 974 Valencia St, San Francisco",37.7573722757,-122.421151158
+24,2014-08-10 07:59:18,"Mexican Express, 123 City Rd, London",51.526148,-0.087585
+25,2014-08-08 07:28:46,"Cotto Restaurant, 89 Westminster Bridge Road, London",51.4987889031,-0.112296631407
+26,2014-08-08 04:16:54,"Holborn Whippet, 25-29 Sicilian Ave, London",51.5188077705,-0.121310167466
+27,2014-08-08 04:15:55,"London Eye River Cruise, Westminster Bridge Rd, South Bank",51.5031329495,-0.12069940567
+28,2014-08-08 04:05:07,"Thistle City Barbican, Central Street, London",51.5274158115,-0.0962162017822
+29,2014-08-05 23:56:37,"Fortnum & Mason, 181 Piccadilly, London",51.5085586584,-0.138404817114
+30,2014-07-28 18:33:37,"Caf de la Place, 11 place Garibaldi, Nice",43.7005742629,7.28077590466
+31,2014-07-26 05:15:51,"Le Socrate - Restaurant Libanais, 2 rue de Suisse, Nice",43.7034072867,7.26589956484
+32,2014-04-05 14:42:37,"Shalizaar, 300 El Camino Real, Belmont",37.5276657158,-122.285555801
+33,2014-02-03 04:47:20,"Zest Bakery, 1224 Arroyo Ave, San Carlos",37.5023915333,-122.257058
+34,2014-02-03 04:38:49,"Bun Mee, 650 Market St, San Francisco",37.7884423149,-122.402644489
+35,2014-01-12 12:00:06,"Homestead, 2301 Folsom St, San Francisco",37.760402,-122.414771
+36,2014-01-07 09:14:44,"Wikimedia Foundation, 149 New Montgomery St, San Francisco",37.7869661876,-122.399723833
+37,2013-12-16 11:44:02,"AMC Van Ness 14, 1000 Van Ness Ave, San Francisco",37.7850612791,-122.420493027
+38,2013-11-08 05:30:48,"Newark Liberty International Airport (EWR), 10 Toler Pl, Newark",40.6908068089,-74.1777384127
+39,2013-10-14 16:54:40,"Arata's Pumpkin Farm, 185 Verde Rd, Half Moon Bay",37.3829193884,-122.402522797
+40,2013-10-14 06:42:12,"Chikken Revolution, 213 Stage Road, Pescadero",37.2521518791,-122.383072329
+41,2013-09-26 03:03:50,"Gordito Burrito, 258 Thayer St, Providence",41.828773,-71.40071371
+42,2013-08-21 05:37:32,"Ostra Cosa, 154 Cristo St, Old San Juan",18.4672407585,-66.1186695503
+43,2013-08-16 08:56:20,"The Pavilion at Rosewood Little Dix Bay, Rosewood Hotel & Resort Little Dix Bay, Spanish Town",18.4593912584,-64.434791455
+44,2013-08-04 03:09:02,"Hilton Barbados, Needham's Point St Michael, Bridgetown",13.0787381576,-59.611373346
+45,2013-05-31 04:15:30,"Caf Colucci, 6427 Telegraph Ave, Oakland",37.850776,-122.260579
+46,2013-05-04 03:08:15,"Letter Perfect, 384 University Ave, Palo Alto",37.446952692,-122.160454661
+47,2013-01-14 02:33:30,"Gather, 2200 Oxford St, Berkeley",37.8695659746,-122.266075995
+48,2013-01-04 10:32:39,"Rosa Mexicano, 30 Mission St, San Francisco",37.793250693,-122.393616743
+49,2013-01-02 05:11:48,"Scarlet Sage Herb Co., 1193 Valencia St, San Francisco",37.7538965437,-122.420808266
+50,2013-01-02 05:05:29,"Sain Saine, 22 Peace Plz #501, San Francisco",37.78528,-122.42893544
+51,2012-12-31 07:09:35,"SFO Cell Phone Waiting Lot, 806 S. Airport Blvd., San Francisco",37.6342769752,-122.399474909
+52,2012-12-31 01:18:03,"Sweet Basil, 3221 Mission St, San Francisco",37.7452630526,-122.420128011
+53,2012-12-21 12:06:25,"Oasis Grill, 200 4th St, San Francisco",37.7830617574,-122.402704954
+54,2012-12-17 16:13:23,"The Little Chihuahua, 581 Valencia St, San Francisco",37.763582,-122.421821
+55,2012-12-17 16:11:28,"Lone Palm, 3394 22nd St, San Francisco",37.7551837664,-122.423053631
+56,2012-12-17 16:08:47,"SF Fire Credit Union, 3201 California St, San Francisco",37.7870421472,-122.446942219
+57,2012-12-10 01:58:40,"Rainbow Grocery, 1745 Folsom St, San Francisco",37.7691033683,-122.415236235
+58,2012-12-07 15:02:28,"Taco Bar, 2401 California St, San Francisco",37.7888521448,-122.433848408
+59,2012-11-26 01:15:02,"Dallas Fort Worth International Airport (DFW), 2400 Aviation Dr, DFW Airport",32.8978202413,-97.0365990958
+60,2012-11-26 00:42:23,"The Egg & I Restaurants, 150 E 9th St, Tyler",32.327363,-95.30006
+61,2012-11-06 13:06:30,"The Peace Pagoda, 1704 Post St, San Francisco",37.785079824,-122.42986232
+62,2012-11-06 13:04:48,"Golden Gate Bridge, Golden Gate Brg S, San Francisco",37.8138737421,-122.477956072
+63,2012-11-06 13:04:36,"Ferry Building Marketplace, 1 Ferry Building, San Francisco",37.7953621091,-122.39389334
+64,2012-11-06 13:04:28,"Fort Point National Historic Site, Marine Dr., San Francisco",37.8098417407,-122.476336503
+65,2012-11-06 13:03:44,"Union Square, 333 Post St, San Francisco",37.787829545,-122.407661413
+66,2012-11-06 13:01:38,"Muse Mcanique, Pier 45, Shed A, San Francisco",37.8093770885,-122.415997982
+67,2012-11-06 13:01:30,"Coit Tower, 1 Telegraph Hill Blvd, San Francisco",37.8023752772,-122.405827045
+68,2012-11-06 13:01:23,"California Academy of Sciences, 55 Music Concourse Dr, San Francisco",37.7698254854,-122.466242651
+69,2012-11-06 13:01:13,"San Francisco Cable Car Museum, 1201 Mason St, San Francisco",37.7946121471,-122.411444689
+70,2012-11-06 13:00:29,"Crissy Field, 1199 East Beach, San Francisco",37.8055586857,-122.460990809
+71,2012-11-06 13:00:12,"Golden Gate Park, 501 Stanyan St, San Francisco",37.768789571,-122.481905222
+72,2012-11-06 13:00:03,"Off the Grid: Fort Mason Center, Parking Lot, San Francisco",37.806215447,-122.431437375
+73,2012-11-06 12:59:45,"Lombard Street, Lombard St, San Francisco",37.802010758,-122.418851852
+74,2012-11-06 12:59:37,"Valencia Street, Valencia St., San Francisco",37.7585152397,-122.421040548
+75,2012-11-06 12:59:30,"Alcatraz Island, Golden Gate National Recreation Area, San Francisco",37.8266824016,-122.421140097
+76,2012-11-06 12:59:23,"Chinatown Gate, 500 Bush St, San Francisco",37.7905939806,-122.405614847
+77,2012-10-10 14:48:03,"Portola Valley Town Center, 765 Portola Rd, Portola Valley",37.381950473,-122.229040706
+78,2012-09-29 01:11:55,"Embarcadero Center Walkway, Commercial Street, San Francisco",37.7950241333,-122.395608224
+79,2012-09-29 01:11:40,"Empire Park, 642 Commercial St, San Francisco",37.7941993361,-122.403905657
+80,2012-09-29 01:10:45,"505 Sansome Street, 505 Sansome St, San Francisco",37.7948311506,-122.402091341
+81,2012-09-29 01:10:28,"Transamerica Redwood Park, 600 Montgomery St, San Francisco",37.7951947644,-122.402270436
+82,2012-09-27 11:07:45,"Hyatt Place Kansas City Airport, 7600 NW 97th Ter, Kansas City",39.27060777,-94.66964543
+83,2012-09-26 14:59:27,"Thai Spice, 1192 NE Douglas St, Lees Summit",38.9332669973,-94.3802458048
+84,2012-09-09 01:01:44,"Dr. Chi""s Acupuncture & Skin Care, 323 6th Ave, San Francisco",37.78191,-122.464441
+85,2012-09-02 05:36:40,"Loving Hut, 845 Market St, San Francisco",37.7843675715,-122.406213284
+86,2012-08-03 03:05:26,"Justin Herman Plaza, Justin Herman Plaza, San Francisco",37.79491499,-122.394915819
+87,2012-07-01 10:23:12,"Spanishtown Mexican Restaurant & Market, 515 Church St, Half Moon Bay",37.46327587,-122.430994
+88,2012-06-23 04:26:26,"Mozzeria, 3228 16th St, San Francisco",37.76486,-122.424854
+89,2012-06-23 04:25:46,"Beretta, 1199 Valencia St, San Francisco",37.7537892209,-122.420708717
+90,2012-06-23 04:25:23,"Starbelly, 3583 16th St, San Francisco",37.7641969538,-122.432590127
+91,2012-06-23 04:24:55,"flour + water, 2401 Harrison St, San Francisco",37.7590497592,-122.412401549
+92,2012-06-23 04:24:35,"Pauline's Pizza & Wine Bar, 260 Valencia St, San Francisco",37.768718,-122.422451
+93,2012-06-23 04:23:17,"Pizza Politana, Ferry Plaza Farmers' Market, San Francisco",37.7950509919,-122.393428657
+94,2012-06-11 00:19:30,"Sirkeci Gar31, Ankara Cad. Sirkeci, Fatih",41.0149520232,28.9767622948
+95,2012-06-08 05:29:54,"Dubb Indian Restaurant, Divanyolu Cd 30ncili avu5f Sk No:10 Sultanahmet, Fatih, 30stanbul",41.0081881719,28.9773996986
+96,2012-05-08 04:35:14,"Autodesk Roof Top Croquet Green, Spear @ One Market, San Francisco",37.7932413372,-122.394098021
+97,2012-05-04 09:21:48,"Taqueria Los Coyotes, 3036 16th St, San Francisco",37.764962,-122.420363
+98,2012-02-21 09:46:01,"Churchill, 198 Church St, San Francisco",37.7678448526,-122.429020758
+99,2012-02-21 09:45:37,"Hog & Rocks, 3431 19th St, San Francisco",37.7602614094,-122.419946194
+100,2012-02-21 09:27:35,"Bloodhound, 1145 Folsom St, San Francisco",37.7759217685,-122.408895493
+101,2012-02-21 09:26:57,"Lone Palm, 3394 22nd St, San Francisco",37.7551837664,-122.423053631
+102,2012-02-21 09:26:14,"Blackbird Bar, 2124 Market St, San Francisco",37.7673053769,-122.429409027
+103,2012-02-21 09:24:19,"Smuggler's Cove, 650 Gough St, San Francisco",37.7793898026,-122.423446288
+104,2012-02-21 09:23:52,"Rye, 688 Geary St, San Francisco",37.786556,-122.414502
+105,2012-02-21 09:23:06,"Beretta, 1199 Valencia St, San Francisco",37.7537892209,-122.420708717
+106,2012-01-15 08:47:48,"Beretta, 1199 Valencia St, San Francisco",37.7537892209,-122.420708717
+107,2012-01-15 08:46:21,"Pancho Villa Taqueria, 3071 16th St, San Francisco",37.7648903173,-122.421088815
+108,2011-12-05 16:12:07,"The Fillmore, 1805 Geary Blvd, San Francisco",37.7840790698,-122.433002341
+109,2011-12-05 08:55:38,"Destino Latin Bistro/Pisco Bar, 1815 Market St, San Francisco",37.771425314,-122.42393296
+110,2011-11-01 07:40:29,"Pork Store Caf, 3122 16th St, San Francisco",37.7649720559,-122.422561425
+111,2011-11-01 07:40:00,"St. Francis Fountain, 2801 24th St, San Francisco",37.75285167,-122.40827
+112,2011-11-01 07:39:22,"Cafe Flore, 2298 Market St, San Francisco",37.7645961476,-122.432985751
+113,2011-11-01 07:38:15,"Gather, 2200 Oxford St, Berkeley",37.8695659746,-122.266075995
+114,2011-11-01 07:34:54,"Starbelly, 3583 16th St, San Francisco",37.7641969538,-122.432590127
+115,2011-08-24 00:51:27,"Slim's, 333 11th St, San Francisco",37.7714686409,-122.413286498
+116,2011-08-24 00:42:07,"Rickshaw Stop, 155 Fell St, San Francisco",37.7762659741,-122.420537271
+117,2011-08-24 00:39:19,"Bottom of the Hill, 1233 17th St, San Francisco",37.7650783072,-122.396382679
+118,2011-07-24 03:34:01,"Fresh on Crawford, 894 Queen St. W, Toronto",43.6450584117,-79.4151685234
+119,2011-07-17 02:06:03,"Three Babes Bakeshop, 1760 Cesar Chavez Ste M, San Francisco",37.7502562111,-122.389454842
+120,2011-06-23 11:33:59,"Jay's Cheesesteak, 3285 21st St, San Francisco",37.756941,-122.42075417
+121,2011-06-23 04:16:12,"Autodesk @ The Landmark, 1 Market St, San Francisco",37.7938696025,-122.39461802
+122,2011-05-19 03:14:01,"Les Croissants, 2 California St, San Francisco",37.79368639,-122.396520974
+123,2011-05-16 06:26:16,"Rosamunde Sausage Grill, 2832 Mission St, San Francisco",37.7517866031,-122.41852967

@@ -1,0 +1,55 @@
+,time,poi,latitude,longitude
+0,2015-05-07 20:31:08,"Mama Eatery, 46 Mulberry St, New York",40.715046466,-73.9999470149
+1,2013-11-27 22:29:44,"Veterianary Clinic Of Chesapeake, 837 Battlefield Blvd, Chesapeake",36.695649,-76.232105
+2,2013-11-10 02:43:33,"Chesapeake Dog Park, 500 Greenbrier Pkwy, Chesapeake",36.7534018926,-76.2258088876
+3,2013-11-09 22:20:29,"Konikoff Dentistry, 2100 Lynnhaven Pkwy, Virginia Beach",36.7888822967,-76.1255824911
+4,2013-09-01 21:20:36,"Queens Gate Community Pool, Shenandoah River Rd, Chesapeake",36.7448954223,-76.2680711589
+5,2013-09-01 21:18:15,"Queens Gate Community Pool, Shenandoah River Rd, Chesapeake",36.7448954223,-76.2680711589
+6,2013-07-02 01:24:48,"Chesapeake Public Schools Wellness Center, 817 Botetourt Ct, Chesapeake",36.7492656545,-76.2444523208
+7,2013-05-16 02:44:37,"Buffalo Wild Wings, 356 Laskin Rd, Virginia Beach",36.8589192947,-75.9810174719
+8,2012-06-25 23:15:01,"Chanello's Pizza, 109 Volvo Pkwy, Chesapeake",36.76456,-76.2485563167
+9,2012-06-25 23:11:54,"Frank's II, 200 Battlefield Blvd N, Chesapeake",36.72424553,-76.24177029
+10,2012-05-18 08:40:17,"Walgreens, 1316 Battlefield Blvd N, Chesapeake",36.764988,-76.25221447
+11,2012-05-18 08:39:54,"Olive Garden, 1631 Ring Rd, Chesapeake",36.7765846622,-76.2293565273
+12,2012-05-18 08:39:26,"Atlas Pizza, 517 Kempsville Rd Ste A, Chesapeake",36.7441931078,-76.223217274
+13,2012-05-18 08:38:27,"Buffalo Wild Wings, 3300 Princess Anne Rd Ste 755, Virginia Beach",36.7733362347,-76.0862231255
+14,2012-05-06 01:35:33,"Green Clean Auto Wash, 2526 Lynnhaven Pkwy, Virginia Beach",36.7854496974,-76.1591127514
+15,2012-04-14 23:14:21,"Subway, 109 Gainsborough Sq, Chesapeake",36.74038853,-76.243186
+16,2011-11-30 02:35:23,"Mail Depot, 2100 Mediterranean Ave, Virginia Beach",36.84821517,-75.98235173
+17,2011-10-16 23:53:35,"Lowe's Home Improvement, 1308 Battlefield Blvd North, Chesapeake",36.762708,-76.253358
+18,2011-09-16 09:56:37,"Buffalo Wild Wings, 1308 Greenbrier Pwky, Chesapeake",36.7729688443,-76.2297481298
+19,2011-08-08 07:50:33,"Portofino's Ayrsley, 2127 Ayrsley Town Blvd, Charlotte",35.1379639319,-80.9333154022
+20,2011-08-08 07:50:30,"Portofino's Ayrsley, 2127 Ayrsley Town Blvd, Charlotte",35.1379639319,-80.9333154022
+21,2011-07-28 05:14:23,"McDonald's, 3736 Virginia Beach Blvd, Virginia Beach",36.840344,-76.10309
+22,2011-07-20 09:23:17,"Food Lion Grocery Store, 910 Great Bridge Blvd, Chesapeake",36.7524978378,-76.2724324094
+23,2011-07-20 07:16:08,"InMotion Hosting, 3629 Sentara Way, Virginia Beach",36.8334780376,-76.0974757195
+24,2011-07-20 07:13:20,"Rancho Grande Mexican Restaurant, 732 Eden Way N, Chesapeake",36.7736662852,-76.2362370813
+25,2011-07-20 07:12:23,"Buffalo Wild Wings, 3300 Princess Anne Rd Ste 755, Virginia Beach",36.7733362347,-76.0862231255
+26,2011-07-17 13:14:46,"Chesapeake Regional Medical Center, 736 N Battlefield Blvd, Chesapeake",36.746035,-76.246286
+27,2011-07-16 10:33:36,"Redbox, 907 Great Bridge Blvd, Chesapeake",36.7526641631,-76.2705657437
+28,2011-07-16 05:27:59,"Krasnoff Chiropractic Center, 1101 Battlefield Blvd N, Chesapeake",36.7586330357,-76.2491379065
+29,2011-07-11 07:28:52,"Atlas Pizza, 517 Kempsville Rd Ste A, Chesapeake",36.7441931078,-76.223217274
+30,2011-07-06 04:37:35,"Sunoco / Corner Mart, 23005 Charles M Lankford Jr Memorial Hwy, Cape Charles",37.2664506572,-75.9739655233
+31,2011-06-26 03:04:42,"Advance Auto Parts, 1608 Volvo Pkwy, Chesapeake",36.7633472577,-76.2028164774
+32,2011-06-20 02:00:18,"The Skinny Dip Frozen Yogurt Bar, 717 Eden Way N #614, Chesapeake",36.7684416179,-76.2477394073
+33,2011-05-08 08:13:38,"Chanello's Pizza, 109 Volvo Pkwy, Chesapeake",36.76456,-76.2485563167
+34,2011-05-08 02:23:28,"Walgreens, 1316 Battlefield Blvd N, Chesapeake",36.764988,-76.25221447
+35,2011-04-03 08:34:53,"InMotion Hosting, 3629 Sentara Way, Virginia Beach",36.8334780376,-76.0974757195
+36,2011-03-07 04:58:53,"Applebee's, 561 First Colonial Rd, Virginia Beach",36.84813074,-76.02210306
+37,2011-02-27 00:32:40,"Conley's Mini Storage, 416 Green Tree Rd, Chesapeake",36.749891041,-76.2347210243
+38,2011-02-27 00:31:09,"Conley's Mini Storage, 416 Green Tree Rd, Chesapeake",36.749891041,-76.2347210243
+39,2011-02-27 00:30:50,"Conley's Mini Storage, 416 Green Tree Rd, Chesapeake",36.749891041,-76.2347210243
+40,2011-02-14 03:11:28,"Chesapeake Public Library, 298 Cedar Rd, Chesapeake",36.714975687,-76.2473264043
+41,2011-01-03 06:02:54,"The Greene Turtle Sports Bar & Grille, 1401 Greenbrier Pkwy #2260, Chesapeake",36.7799961006,-76.2284457184
+42,2010-12-03 18:10:28,"Speedway, 1552 State Rt 23, Butler",41.0068279415,-74.3586012844
+43,2010-11-19 09:09:09,"Buffalo Wild Wings, 1308 Greenbrier Pwky, Chesapeake",36.7729688443,-76.2297481298
+44,2010-10-17 02:39:57,"Reginella's Italian Ristorante & Pizzeria, 4000 Virginia Beach Blvd, Virginia Beach",36.8422672371,-76.1121329641
+45,2010-10-16 07:25:22,"Rancho Grande Mexican Restaurant, 732 Eden Way N, Chesapeake",36.7736662852,-76.2362370813
+46,2010-09-14 23:07:30,"Freedom Wash, 1510 Sams Cir, Chesapeake",36.7684370325,-76.2500703044
+47,2010-08-27 01:05:17,"InMotion Hosting (East), 509 Viking Dr Ste J, Virginia Beach",36.8254663143,-76.0652160645
+48,2010-08-15 12:38:04,"nTelos Wireless Pavilion, 16 Crawford Cir, Portsmouth",36.8307907251,-76.2980747223
+49,2010-07-15 00:10:53,"The Skinny Dip Frozen Yogurt Bar, 717 Eden Way N #614, Chesapeake",36.7684416179,-76.2477394073
+50,2010-07-15 00:10:19,"Andrea's Pizzaria & Italian, 940 Cedar Rd Ste 106, Chesapeake",36.7120707035,-76.27595
+51,2010-05-09 06:48:41,"Antonio's Pizzeria, 1320 Kempsville Rd, Chesapeake",36.7618422212,-76.2033824219
+52,2010-01-15 10:28:58,"Buffalo Wild Wings, 3300 Princess Anne Rd Ste 755, Virginia Beach",36.7733362347,-76.0862231255
+53,2010-01-07 10:50:13,"Target, 2060 S Independence Blvd, Virginia Beach",36.7887279255,-76.1091937122

@@ -1,0 +1,91 @@
+,time,poi,latitude,longitude
+0,2015-08-26 21:45:00,"Friendship Village, MD",38.96288681,-77.08886719
+1,2015-07-07 18:05:00,"Potomac, MD",39.02661896,-77.20392609
+2,2015-07-05 19:51:00,"Lincolnia, VA",38.81983185,-77.15169525
+3,2015-07-03 22:09:00,"Washington, District of Columbia, DC",38.8766861,-77.00447845
+4,2015-07-02 18:52:00,"Friendship Village, MD",38.96288681,-77.08886719
+5,2015-06-28 00:31:00,"North Bethesda, MD",39.04499054,-77.11685181
+6,2015-06-26 09:06:00,"Chevy Chase, MD",38.9805603,-77.08389282
+7,2015-03-01 11:50:00,"Friendship Village, MD",38.96288681,-77.08886719
+8,2015-02-28 17:49:00,"Friendship Village, MD",38.96288681,-77.08886719
+9,2014-12-14 20:38:00,"Friendship Village, MD",38.96288681,-77.08886719
+10,2014-03-14 19:48:00,"Gaithersburg, MD",39.14218521,-77.19340515
+11,2014-03-07 12:31:00,"Washington, District of Columbia, DC",38.8766861,-77.00447845
+12,2014-03-03 10:18:00,"Washington, District of Columbia, DC",38.8766861,-77.00447845
+13,2014-02-14 11:36:00,"Washington, District of Columbia, DC",38.8766861,-77.00447845
+14,2014-02-10 20:25:00,"Washington, District of Columbia, DC",38.8766861,-77.00447845
+15,2014-02-08 21:27:00,"Washington, District of Columbia, DC",38.8766861,-77.00447845
+16,2014-02-06 09:59:00,"Washington, District of Columbia, DC",38.8766861,-77.00447845
+17,2014-02-03 13:03:00,"Washington, District of Columbia, DC",38.8766861,-77.00447845
+18,2014-02-02 13:14:00,"Washington, District of Columbia, DC",38.8766861,-77.00447845
+19,2014-01-24 20:32:00,"Washington, District of Columbia, DC",38.8766861,-77.00447845
+20,2014-01-23 18:08:00,"Washington, District of Columbia, DC",38.8766861,-77.00447845
+21,2014-01-17 07:34:00,"Washington, District of Columbia, DC",38.8766861,-77.00447845
+22,2014-01-11 18:28:00,"Washington, District of Columbia, DC",38.8766861,-77.00447845
+23,2014-01-07 09:53:00,"Washington, District of Columbia, DC",38.8766861,-77.00447845
+24,2014-01-05 16:09:00,"Washington, District of Columbia, DC",38.8766861,-77.00447845
+25,2014-01-04 22:54:00,"Washington, District of Columbia, DC",38.8766861,-77.00447845
+26,2014-01-01 00:02:00,"Tenleytown, District Of Columbia",38.95069504,-77.07849121
+27,2013-12-31 13:23:00,"Washington, District of Columbia, DC",38.8766861,-77.00447845
+28,2013-12-29 01:40:00,"Washington, District of Columbia, DC",38.8766861,-77.00447845
+29,2013-12-25 09:59:00,"Derwood, MD",39.11800766,-77.15890503
+30,2013-12-24 16:36:00,"Derwood, MD",39.11800766,-77.15890503
+31,2013-12-22 16:51:00,"Washington, District of Columbia, DC",38.8766861,-77.00447845
+32,2013-12-21 11:02:00,"Washington, District of Columbia, DC",38.8766861,-77.00447845
+33,2013-12-19 12:17:00,"Arlington, VA",38.89076233,-77.08475494
+34,2013-12-17 12:32:00,"Washington, District of Columbia, DC",38.8766861,-77.00447845
+35,2013-12-16 20:30:00,"Washington, District of Columbia, DC",38.8766861,-77.00447845
+36,2013-12-15 16:37:00,"Washington, District of Columbia, DC",38.8766861,-77.00447845
+37,2013-12-10 13:35:00,"Washington, District of Columbia, DC",38.8766861,-77.00447845
+38,2013-12-06 15:01:00,"Washington, District of Columbia, DC",38.8766861,-77.00447845
+39,2013-12-05 16:54:00,"Washington, District of Columbia, DC",38.8766861,-77.00447845
+40,2013-12-04 19:53:00,"Washington, District of Columbia, DC",38.8766861,-77.00447845
+41,2013-12-03 17:24:00,"Washington, District of Columbia, DC",38.8766861,-77.00447845
+42,2013-12-01 10:43:00,"Washington, District of Columbia, DC",38.8766861,-77.00447845
+43,2013-11-29 15:00:00,"Pomfret Center, CT",41.88761139,-71.96208191
+44,2013-11-28 00:03:00,"Woodstock, CT",41.95070648,-71.97738647
+45,2013-11-27 09:13:00,"South Woodstock, CT",41.93800354,-71.9596405
+46,2013-11-24 19:21:00,"Derwood, MD",39.11800766,-77.15890503
+47,2013-11-23 21:40:00,"Washington, District of Columbia, DC",38.8766861,-77.00447845
+48,2013-11-22 12:46:00,"Washington, District of Columbia, DC",38.8766861,-77.00447845
+49,2013-11-21 21:54:00,"Washington, District of Columbia, DC",38.8766861,-77.00447845
+50,2013-11-15 11:27:00,"Washington, District of Columbia, DC",38.8766861,-77.00447845
+51,2013-11-10 20:11:00,"Chevy Chase View, MD",39.01904297,-77.0830307
+52,2013-11-09 21:39:00,"Washington, District of Columbia, DC",38.8766861,-77.00447845
+53,2013-11-03 13:05:00,"Chevy Chase, MD",38.9805603,-77.08389282
+54,2013-10-29 10:09:00,"Washington, District of Columbia, DC",38.8766861,-77.00447845
+55,2013-10-25 21:28:00,"Washington, District of Columbia, DC",38.8766861,-77.00447845
+56,2013-10-23 21:45:00,"Washington, District of Columbia, DC",38.8766861,-77.00447845
+57,2013-10-19 23:04:00,"Washington, District of Columbia, DC",38.8766861,-77.00447845
+58,2013-10-18 21:35:00,"Washington, District of Columbia, DC",38.8766861,-77.00447845
+59,2013-10-09 09:42:00,"Washington, District of Columbia, DC",38.8766861,-77.00447845
+60,2013-10-07 18:37:00,"Washington, District of Columbia, DC",38.8766861,-77.00447845
+61,2013-10-06 17:50:00,"New York, NY",40.71304703,-74.00723267
+62,2013-10-05 20:04:00,"New York, NY",40.71304703,-74.00723267
+63,2013-09-19 16:09:00,"Washington, District of Columbia, DC",38.8766861,-77.00447845
+64,2013-09-11 18:19:00,"Washington, District of Columbia, DC",38.8766861,-77.00447845
+65,2013-09-07 09:23:00,"Washington, District of Columbia, DC",38.8766861,-77.00447845
+66,2013-09-05 15:25:00,"Washington, District of Columbia, DC",38.8766861,-77.00447845
+67,2013-09-04 06:49:00,"Washington, District of Columbia, DC",38.8766861,-77.00447845
+68,2013-08-31 13:54:00,"Washington, District of Columbia, DC",38.8766861,-77.00447845
+69,2013-08-28 20:15:00,"Washington, District of Columbia, DC",38.8766861,-77.00447845
+70,2013-08-24 19:08:00,"Derwood, MD",39.11800766,-77.15890503
+71,2013-08-23 07:45:00,"Washington, District of Columbia, DC",38.8766861,-77.00447845
+72,2013-08-18 12:31:00,"Bloomery, WV",39.38680267,-78.37369537
+73,2013-08-16 13:11:00,"Bloomery, WV",39.38680267,-78.37369537
+74,2013-08-14 15:00:00,"Washington, District of Columbia, DC",38.8766861,-77.00447845
+75,2013-08-13 15:33:00,"Washington, District of Columbia, DC",38.8766861,-77.00447845
+76,2013-08-12 19:22:00,"Washington, District of Columbia, DC",38.8766861,-77.00447845
+77,2013-08-10 07:14:00,"Washington, District of Columbia, DC",38.8766861,-77.00447845
+78,2013-08-08 21:40:00,"Washington, District of Columbia, DC",38.8766861,-77.00447845
+79,2013-08-07 10:44:00,"Washington, District of Columbia, DC",38.8766861,-77.00447845
+80,2013-08-06 09:35:00,"Washington, District of Columbia, DC",38.8766861,-77.00447845
+81,2013-08-02 10:47:00,"Washington, District of Columbia, DC",38.8766861,-77.00447845
+82,2013-08-01 11:14:00,"Washington, District of Columbia, DC",38.8766861,-77.00447845
+83,2013-07-27 20:30:00,"Washington, District of Columbia, DC",38.8766861,-77.00447845
+84,2013-07-26 10:30:00,"Washington, District of Columbia, DC",38.8766861,-77.00447845
+85,2013-07-24 08:19:00,"Washington, District of Columbia, DC",38.8766861,-77.00447845
+86,2013-07-21 14:33:00,"Washington, District of Columbia, DC",38.8766861,-77.00447845
+87,2013-07-17 21:43:00,"Washington, District of Columbia, DC",38.8766861,-77.00447845
+88,2013-07-12 09:03:00,"Washington, District of Columbia, DC",38.8766861,-77.00447845
+89,2013-07-06 18:13:00,"Washington, District of Columbia, DC",38.8766861,-77.00447845

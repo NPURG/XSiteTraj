@@ -1,0 +1,24 @@
+,time,poi,latitude,longitude
+0,2016-06-18 03:09:24,"Milk & Honey, 135 N. Market St., Chattanooga",35.0640345619,-85.3091307557
+1,2016-06-04 20:06:15,"Aurora Coffee, 468 Moreland Ave NE, Atlanta",33.767112,-84.349403
+2,2016-04-11 04:07:49,"The Hickory Pit, 5611 Ringgold Rd, East Ridge",34.9922244352,-85.2258986705
+3,2016-03-08 20:49:50,"Regina Pizzeria, 11 Thacher St, Boston",42.3653449859,-71.056749725
+4,2015-06-21 02:09:55,"Cheeburger Cheeburger, 1975 Periwinkle Way, Sanibel",26.4389855991,-82.0654547152
+5,2015-06-21 02:07:59,"The Island Cow, 2163 Periwinkle Way, Sanibel",26.437623591,-82.0716246835
+6,2015-06-21 02:07:08,"Clearwater Marine Aquarium, 249 Windward Passage, Clearwater",27.9769526539,-82.8186193895
+7,2015-06-21 02:06:30,"Captiva Cruises, 11401 Andy Rosse Lane, Captiva",26.5217954168,-82.1886997759
+8,2015-06-21 02:05:33,"The Mucky Duck, 11546 Andy Rosse Ln, Captiva Island",26.5223992284,-82.1931069199
+9,2015-06-21 02:04:55,"Caribbean Gardens, 1590 Goodlette Rd N, Naples",26.1703942324,-81.7911197477
+10,2015-06-21 02:04:28,"Tommy Bahama Restaurant & Store, 1220 3rd St S, Naples",26.131970175,-81.8019898009
+11,2015-06-21 02:03:51,"Bad Ass Coffee, 1307 3rd St S, Naples",26.130572,-81.8015541
+12,2015-06-21 02:03:19,"The Lazy Flamingo, 1036 Periwinkle Way, Sanibel",26.4465905073,-82.0413867643
+13,2015-03-22 03:45:34,"Little Collins, 667 Lexington Ave, New York",40.7599031239,-73.9697670937
+14,2014-04-16 11:04:37,"Downtown Container Park, 707 Fremont St, Las Vegas",36.1677557281,-115.138475821
+15,2014-04-16 11:03:32,"Vintner Grill, 10100 W Charleston Blvd, Las Vegas",36.159486,-115.316698
+16,2013-10-27 05:12:59,"Paris Bistro, 2835 Showplace Dr Ste 103, Naperville",41.7126678,-88.2077236245
+17,2013-10-25 10:51:04,"Blackbird Wine - Atomic Cheese, 4323 NE Fremont St, Portland",45.548479557,-122.618808
+18,2013-10-20 06:25:10,"Atithi, 167 W Golf Rd, Schaumburg",42.048354874,-88.08434404
+19,2013-07-07 10:11:16,"Schaumburg Boomers Stadium, 1999 S Springsguth Rd, Schaumburg",41.9925554106,-88.1183537184
+20,2013-04-23 11:00:10,"Michael's Pizza, 475 S Weber Rd, Bolingbrook",41.6826587336,-88.1266864013
+21,2013-02-17 05:48:05,"Labriola Bakery & Cafe, 3021 Butterfield Rd, Oak Brook",41.8404346241,-87.993007109
+22,2010-09-24 02:23:28,"Tom & Eddie's, 348 Yorktown Shopping Ctr, Lombard",41.838032,-88.00953968

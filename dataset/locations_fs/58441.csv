@@ -1,0 +1,58 @@
+,time,poi,latitude,longitude
+0,2016-11-22 11:29:03,"The Springbok, 711 Main St Unit 1, Houston",29.7587507124,-95.3635199665
+1,2016-11-22 11:22:22,"Peli Peli Kitchen, 9090 Katy Fwy, Houston",29.78533,-95.51373
+2,2016-10-23 08:50:10,"Pronto Cucinino, 3191 W Holcombe Blvd, Houston",29.7057881214,-95.4266881943
+3,2016-10-22 23:44:38,"Timewise Exxon #078, 1200 League Line Rd, Conroe",30.366714,-95.483955
+4,2016-10-08 20:05:43,"Cracker Barrel Old Country Store, 14765 N. Freeway I-45 & Airtex, Houston",29.98052295,-95.42359299
+5,2016-10-08 10:32:49,"Mr. K's Watch Repair, 2715 Bissonnet St #107, Houston",29.7253726951,-95.4206978337
+6,2016-09-12 11:57:53,"Creamistry, 5000 Westheimer Rd Ste 608, Houston",29.7416942546,-95.4626866777
+7,2016-09-09 23:31:13,"Edwards Greenway Grand Palace 24 & RPX, 3839 Weslayan St, Houston",29.7309838343,-95.4406139327
+8,2016-09-09 23:30:36,"Red Robin Gourmet Burgers, 7620 Katy Fwy, Houston",29.7852085208,-95.4637411387
+9,2016-09-09 23:29:46,"Osaka Japanese Restaurant II, 4001 Bellaire Blvd, Houston",29.705724359,-95.4407572019
+10,2016-08-28 09:46:45,"Bombay Indian Grill, 706 Main St, Houston",29.7588816578,-95.3633819982
+11,2016-08-19 22:56:42,"Great W'Kana Caf, 11720 W Airport Blvd Ste 600, Meadows Place",29.64841326,-95.582941171
+12,2016-08-19 22:55:55,"Walmart, 9555 S Post Oak Rd, Houston",29.6763862708,-95.4575886799
+13,2016-07-29 23:18:07,"Churrascos, 2005 Westheimer Rd, Houston",29.7425466517,-95.4092618306
+14,2016-07-09 03:29:56,"Menchie's Frozen Yogurt, 1944 W Gray St Ste A, Houston",29.7534848068,-95.406050336
+15,2016-07-09 03:28:52,"Zos Kitchen, 3701 S Shepherd Dr, Houston",29.7332735438,-95.4103766905
+16,2016-07-09 03:27:37,"Cafe Express, 650 Main St, Houston",29.7593612218,-95.3630651834
+17,2016-06-19 06:47:02,"Conservatory, 1010 Prairie St, Houston",29.7604809545,-95.3616548678
+18,2016-06-19 06:40:27,"Esperson Bldg., 815 Walker St, Houston",29.7592100026,-95.3653749053
+19,2016-06-19 06:36:11,"Panera Bread, 3151 W Holcombe Blvd Ste A, Houston",29.7048562302,-95.4267847538
+20,2016-06-19 06:35:25,"Leslie's Pool, 3143 W Holcombe Blvd, Houston",29.704792,-95.42681
+21,2016-06-18 12:11:21,"Chili's Grill & Bar, 3215 Southwest Frwy, Houston",29.728906,-95.429031
+22,2016-06-18 04:22:18,"Mediterranean Grill, 808 Travis St Ste T65, Houston",29.7591,-95.36542
+23,2016-06-17 23:56:19,"Conservatory, 1010 Prairie St, Houston",29.7604809545,-95.3616548678
+24,2016-06-14 15:27:32,"Kroger, 5150 Buffalo Speedway, Houston",29.7273030822,-95.4304862022
+25,2016-06-01 11:38:13,"Terri Barnes Massage, 7937 Woodway Dr, Houston",29.7582366738,-95.4961981857
+26,2016-06-01 11:37:20,"Terri Barnes Massage, 7937 Woodway Dr, Houston",29.7582366738,-95.4961981857
+27,2016-05-31 23:19:19,"Hobbit Cafe, 2243 Richmond Ave, Houston",29.7336,-95.4146
+28,2016-05-19 12:33:14,"Nikki's Pizza, 2435 Kaanapali Pkwy, K0118anapali",20.9212949694,-156.694635154
+29,2016-05-19 12:29:03,"Mama's Fish House, 799 Poho Pl, Paia",20.9290637358,-156.36719384
+30,2016-05-19 12:27:53,"Penguins at The Hyatt, Hyatt Regency Maui, 200 Nohea Kai Drive, Lahaina",20.912939,-156.692354
+31,2016-05-19 12:26:20,"Drums Of The Pacific Lua, 200 Nohea Kai Dr, Lahaina",20.9117505607,-156.691045761
+32,2016-05-19 12:23:24,"Drums Of The Pacific Lua, 200 Nohea Kai Dr, Lahaina",20.9117505607,-156.691045761
+33,2016-05-19 12:21:38,"Terminal 4 Concourse A, PHX Airport, Phoenix",33.43712543,-112.001669682
+34,2016-05-19 12:19:34,"Phoenix Sky Harbor International Airport (PHX), 3400 E Sky Harbor Blvd, Phoenix",33.4357942073,-111.999137104
+35,2016-05-19 12:18:06,"swan court, 200 Nohea Kai Dr, Lahaina",20.9125441295,-156.691652041
+36,2016-05-19 12:16:46,"Taco Cabana, 167 Yale St, Houston",29.7734136151,-95.3990858911
+37,2016-05-16 11:52:47,"Tom Bradley International Terminal (TBIT), LAX Airport, Los Angeles",33.9434639611,-118.40869131
+38,2016-05-16 11:51:49,"Los Angeles International Airport (LAX), 1 World Way, Los Angeles",33.9435869099,-118.408083022
+39,2016-05-16 11:48:42,"Los Angeles International Airport (LAX), 1 World Way, Los Angeles",33.9435869099,-118.408083022
+40,2016-04-24 11:18:32,"Torchy's Tacos, 2400 Times Blvd, Houston",29.7167890304,-95.415122756
+41,2016-04-09 13:35:07,"Jones Fried Chicken, 6633 Fondren Rd, Houston",29.7076125924,-95.5208897214
+42,2016-04-09 13:34:24,"Jones Fried Chicken, 6633 Fondren Rd, Houston",29.7076125924,-95.5208897214
+43,2016-04-09 13:32:20,"Briarbend Park, 8000 Woodway, Houston",29.7458250223,-95.507169774
+44,2016-04-09 13:30:05,"Briarbend Park, 8000 Woodway, Houston",29.7458250223,-95.507169774
+45,2016-04-07 10:40:49,"Chuck E. Cheese's, 5535 Weslayan Ave, Houston",29.72203276,-95.44071839
+46,2016-04-07 10:36:34,"Frank's Pizza, 417 Travis St, Houston",29.7614758599,-95.3625950744
+47,2016-04-07 10:34:03,"Elevation Burger, 3918 Kirby Drive, Houston",29.7322990379,-95.4184779678
+48,2016-04-07 10:33:37,"Elevation Burger, 3918 Kirby Drive, Houston",29.7322990379,-95.4184779678
+49,2016-04-07 10:30:46,"State of Grace, 3256 Westheimer Rd, Houston",29.7423817076,-95.4253219746
+50,2016-04-07 10:29:35,"State of Grace, 3256 Westheimer Rd, Houston",29.7423817076,-95.4253219746
+51,2016-04-07 10:25:17,"Maria Selma Restaurant, 1617 Richmond Ave, Houston",29.7338657654,-95.4002823661
+52,2016-04-07 10:23:47,"Maria Selma Restaurant, 1617 Richmond Ave, Houston",29.7338657654,-95.4002823661
+53,2016-04-02 07:16:27,"Katz's Deli & Bar, 616 Westheimer Rd, Houston",29.7447054877,-95.389534235
+54,2016-03-31 15:07:38,"Truluck's, 5350 Westheimer Rd., Houston",29.7401222777,-95.4699146748
+55,2016-02-21 04:00:01,"Escalante's Mexican Grille, 4053 Westheimer Rd, Houston",29.7414223775,-95.4473326171
+56,2016-02-13 03:17:20,"The Halal Guys, 3821 Farnham St, Houston",29.7321939519,-95.4121871049

@@ -1,0 +1,170 @@
+,time,poi,latitude,longitude
+0,2016-12-31 02:19:44,"I Luv Pho, 5145 Buford Hwy NE, Doraville",33.8929388526,-84.2836863783
+1,2016-12-06 09:56:56,"CaliBurger Seattle, 4509 University Way, Seattle",47.6616063559,-122.313065835
+2,2016-11-29 13:14:03,"Toulouse Petit Kitchen & Lounge, 601 Queen Anne Ave N, Seattle",47.624775,-122.356852
+3,2016-11-29 13:13:01,"Airport Express Platform, BJ Int'l Airport T2, Beijing",40.0785789876,116.587286427
+4,2016-11-29 13:08:07,"List, 2226 1st Ave, Seattle",47.6132344015,-122.346150828
+5,2016-11-29 13:00:43,"The Opposite House, Bldg 1, 11 Sanlitun Rd, 17ac02",39.93612354,116.448619366
+6,2016-11-29 12:59:22,"Beijing Capital International Airport (PEK), Airport Expressway 3a3ad81f, 17ac02",40.0657562731,116.60721302
+7,2016-11-29 12:56:54,"Mike's Noodle House, 418 Maynard Ave S, Seattle",47.5985574197,-122.325164002
+8,2016-11-29 12:55:37,"Ba Bar, 550 12th Ave, Seattle",47.6070057547,-122.316557765
+9,2016-11-23 09:12:53,"Pho Montmartre, 116 rue Montmartre, Paris",48.86776397,2.34363032204
+10,2016-11-23 09:12:07,"Le Petit Cler, 29 rue Cler, Paris",48.857419002,2.30600372157
+11,2016-11-23 09:09:49,"Fondation Louis Vuitton, 8 avenue du Mahatma Gandhi, Paris",48.8766904982,2.26336598396
+12,2016-11-23 09:08:54,"La Rgalade Conservatoire, 11 Rue du Conservatoire, Paris",48.8731675864,2.34670221806
+13,2016-11-23 09:06:30,"Ten Belles, 10 rue de La Grange aux Belles, Paris",48.873539,2.364635
+14,2016-11-23 09:04:21,"Albion, 80 rue du Faubourg Poissonnire, Paris",48.876571,2.34866
+15,2016-11-23 09:01:57,"L'Arpge, 84 rue de Varenne, Paris",48.8556446041,2.31698870659
+16,2016-11-23 09:00:46,"L'Atelier de Jol Robuchon, 5 rue Montalembert, Paris",48.856691,2.327597
+17,2016-11-23 08:58:57,"Porthouse, Zaha Hadidplein 1, Antwerpen",51.241058,4.407438
+18,2016-10-29 03:37:57,"Good Bar, 240 2nd Ave S Ste 101, Seattle",47.6002422263,-122.331536883
+19,2016-10-18 08:16:48,"Monk19s Kettle, 3141 16th St, San Francisco",37.7648027162,-122.422926432
+20,2016-10-18 08:16:14,"Bi-Rite Creamery, 3692 18th St, San Francisco",37.7614679284,-122.425735838
+21,2016-10-18 08:15:19,"Pancho Villa Taqueria, 3071 16th St, San Francisco",37.7648903173,-122.421088815
+22,2016-10-18 08:14:58,"San Francisco Museum of Modern Art, 151 3rd St, San Francisco",37.7859364656,-122.400708457
+23,2016-10-04 11:46:00,"Bakeman's, 122 Cherry St, Seattle",47.6029964276,-122.333552241
+24,2016-09-24 01:55:23,"Elm Coffee Roasters, 240 2nd Avenue Ext S Ste 103, Seattle",47.6000947122,-122.330969821
+25,2016-09-24 01:54:01,"Sun Sui Wah, 3888 Main St, Vancouver",49.2505955879,-123.100761724
+26,2016-09-24 01:53:18,"Cupcake Royale, 108 Pine St, Seattle",47.610057007,-122.340254913
+27,2016-09-24 01:52:46,"Miku Restaurant, 200 Granville Street, Vancouver",49.2873780317,-123.112852784
+28,2016-09-24 01:51:32,"Guu with Garlic, 1698 Robson St, Vancouver",49.2904023493,-123.133827781
+29,2016-09-24 01:50:12,"Granville Island Public Market, 1661 Duranleau St, Vancouver",49.2724878812,-123.135280609
+30,2016-09-24 01:44:50,"Timbertrain Coffee Roasters, 311 W Cordova St, Vancouver",49.2837988456,-123.109531403
+31,2016-09-24 01:43:59,"Fisherman's Terrace Seafood e35af077ae52b6, 4151 Hazelbridge Way, Richmond",49.1833303852,-123.133821487
+32,2016-09-20 14:56:29,"Sixt rent a car, 1521 2nd Avenue,Unit R2, Seattle",47.60942,-122.33916
+33,2016-09-10 06:13:57,"Milstead & Co., 900 N 34th St, Seattle",47.6492387583,-122.346965976
+34,2016-08-16 05:40:31,"Slim's Last Chance Chili Shack, 5606 1st Ave S, Seattle",47.5524853729,-122.333952862
+35,2016-08-01 01:02:30,"Sheng Ramen, 698 S Vermont Ave #106, Los Angeles",34.0601020686,-118.29113709
+36,2016-08-01 01:02:11,"Park's BBQ, 955 S Vermont Ave, Los Angeles",34.053859,-118.291856
+37,2016-08-01 01:00:42,"SnowLA Shavery, 3470 W 6th St #2B, Los Angeles",34.063236779,-118.297621608
+38,2016-08-01 00:59:47,"Din Tai Fung Dumpling House #3, 171 Caruso Ave, Glendale",34.1430792193,-118.255063482
+39,2016-08-01 00:53:46,"KINJIRO, 424 E 2nd St, Los Angeles",34.0468354584,-118.238525773
+40,2016-08-01 00:52:39,"Tapas and Wine Bar C, 428 E 2nd St, Los Angeles",34.0467791862,-118.238457243
+41,2016-07-27 02:26:55,"New England Lobster Market & Eatery, 824 Cowan Rd, Burlingame",37.6025293491,-122.374645998
+42,2016-07-25 05:17:33,"Off the Grid: Picnic in The Presidio, Main Post, San Francisco",37.8000525883,-122.458635687
+43,2016-07-25 05:16:16,"Terminal 1, SFO Airport, San Francisco",37.6150087954,-122.385130399
+44,2016-07-21 01:56:47,"Cupcake Royale, 1935 Queen Anne Ave N, Seattle",47.637134426,-122.357043483
+45,2016-07-19 10:20:25,"Fat Matt's Rib Shack, 1811 Piedmont Ave NE, Atlanta",33.8046057171,-84.3671438098
+46,2016-07-19 10:18:04,"Ton Ton, 675 Ponce de Leon Ave NE, Atlanta",33.77287959,-84.3659545572
+47,2016-06-19 06:54:31,"A+ Kitchen, 419 6th Ave S, Seattle",47.598488,-122.32645
+48,2016-06-01 06:59:57,"Mixto, 521 3rd Ave, Seattle",47.603016,-122.331043
+49,2016-05-03 08:13:59,"Trofeo, 125 Prefontaine Pl S, Seattle",47.6005447754,-122.329135582
+50,2016-05-03 08:13:11,"Belltown Pizza, 2422 1st Ave, Seattle",47.614577,-122.348437
+51,2016-04-22 01:48:42,"Sushi Kashiba, 86 Pine St Ste 1, Seattle",47.609755813,-122.341427958
+52,2016-04-18 08:47:38,"Cho Won Buffet, 3635 Satellite Blvd, Duluth",33.9583140203,-84.1366778941
+53,2016-04-18 07:44:16,"Pho Dai Loi 2, 4186 Buford Hwy NW, Ste G, Atlanta",33.8651682481,-84.3048114478
+54,2016-04-17 20:06:22,"Fuglen, Universitetsgata 2, Oslo",59.9170588908,10.7397419214
+55,2016-04-15 17:49:23,"Amsterdam Airport Schiphol (AMS), Aankomstpassage, Schiphol",52.309398868,4.76283816355
+56,2016-04-15 17:47:30,"Hai Caf, Calmeyers gate 6, Oslo",59.9157502395,10.7530263555
+57,2016-04-15 17:46:42,"Oslo rdhus, Rdhusplassen, Oslo",59.9119602854,10.7335835695
+58,2016-04-15 14:04:20,"Astrup Fearnley Museet, Strandpromenaden 2, Oslo",59.9067990897,10.7214122599
+59,2016-04-15 14:03:49,"Nasjonalgalleriet, Universitetsgata 13, Oslo",59.9161792422,10.7376971693
+60,2016-04-15 14:03:14,"Vigeland Sculpture Park, Frognerparken, Oslo",59.9262357538,10.7033189987
+61,2016-04-15 14:02:29,"Scandic Vulkan, Maridalsveien 13, Oslo",59.9222912879,10.7509952091
+62,2016-04-12 17:35:24,"The Royal Palace, Slottsbacken, Stockholm",59.3262822252,18.0708907941
+63,2016-04-12 17:35:03,"Kungstrdgrden, Kungstrdgrden, Stockholm",59.3314486519,18.0716680794
+64,2016-04-12 17:33:58,"Bakfickan, Karl XII:s Torg, Stockholm",59.3303065007,18.070961175
+65,2016-04-12 17:33:35,"Fotografiska, Stadsgrdshamnen 22, Stockholm",59.3179873623,18.0850064514
+66,2016-04-12 17:32:58,"Greasy Spoon, Tjrhovsgatan 19, Stockholm",59.3159558801,18.0815676483
+67,2016-04-11 18:08:55,"Opera Antwerpen, Frankrijklei 3, Antwerpen",51.2185394481,4.41635350465
+68,2016-04-11 18:06:36,"Lindengarten, Nordufer 15, Berlin",52.53947,13.350303
+69,2016-04-11 18:05:07,"East Side Gallery, Mhlenstr., Berlin",52.5040164751,13.4417236014
+70,2016-04-11 18:04:03,"19grams, Schlesische Str. 38, Berlin",52.4998956032,13.4445673227
+71,2016-04-11 18:02:15,"Sint-Anna Voetgangerstunnel, Sint-Annatunnel, Antwerpen",51.2198679367,4.39131259918
+72,2016-04-11 18:00:24,"Ramen to Bir, Griffenfeldsgade 28, Kbenhavn",55.6877725377,12.553867047
+73,2016-04-11 17:59:21,"Det Kongelige Bibliotek - Den Sorte Diamant, Sren Kierkegaards Plads 1, Kbenhavn K",55.6732792121,12.5822981308
+74,2016-04-11 17:53:31,"Drum Bar (Dner Kebab), Nrrebrogade 195, Kbenhavn N",55.6970587763,12.5443267822
+75,2016-04-11 17:52:45,"District Tonkin, Dronningens Tvrgade 12, Kbenhavn",55.6835668553,12.5875800848
+76,2016-04-11 17:51:34,"Louisiana Museum of Modern Art, Gl. Strandvej 13, Humlebk",55.9693583207,12.5421971083
+77,2016-04-11 17:49:54,"Torvehallerne, Frederiksborggade, Kbenhavn",55.6838435179,12.5698349503
+78,2016-04-11 17:47:49,"The Coffee Collective, Linnesgade 17, Stade C1 og D1, Kbenhavn",55.6836707492,12.5697027226
+79,2016-04-11 17:46:06,"HAV.dk, Frederiksborggade 21, Kbenhavn K.",55.684011419,12.5693571568
+80,2016-04-11 17:45:39,"Ma Poule, Torvehallerne, Kbenhavn",55.6838958205,12.5695856677
+81,2016-04-11 17:45:07,"Brioche Dore, Linnsgade 17- Hal 2, Kbenhavn",55.6837816799,12.5699630098
+82,2016-04-11 17:44:20,"GRD, Jgersborggade 50, Kbenhavn",55.6935994063,12.5426629572
+83,2016-04-11 17:43:20,"Copenhagen Airport (CPH), Lufthavnsboulevarden 6, Kastrup",55.6285689944,12.6486078627
+84,2016-04-10 22:30:17,"Cortado Kaffebar, Nrrebrogade 122, Kbenhavn N",55.6943049787,12.5489954989
+85,2016-04-10 17:23:28,"District Tonkin, Dronningens Tvrgade 12, Kbenhavn",55.6835668553,12.5875800848
+86,2016-04-10 04:11:36,"Almanak, Havnegade 44, Kbenhavn",55.6775856582,12.5915126626
+87,2016-04-09 06:09:07,"Five Star, Nrrebrogade 100, Kbenhavn N",55.692994,12.55113316
+88,2016-04-09 00:07:21,"Brussels South Charleroi Airport (CRL), Rue des Frres Wright 8, Gosselies",50.4695893977,4.4701675345
+89,2016-04-06 23:22:31,"Burgermeister, Oberbaumstr. 8, Berlin",52.5010175136,13.4423538761
+90,2016-04-06 23:21:42,"Berlin Tegel Otto Lilienthal Airport (TXL), Flughafen Tegel, Berlin",52.5544561386,13.2915294886
+91,2016-04-06 04:29:49,"Yarok, Torstr. 195, Berlin",52.5283368158,13.3920764923
+92,2016-03-24 04:16:25,"The Deluxe Bar and Grill, 625 Broadway E, Seattle",47.6248513977,-122.321434021
+93,2016-02-04 07:28:02,"Il Corvo, 217 James St, Seattle",47.6023290808,-122.331969738
+94,2016-01-02 06:29:43,"Heirloom Market BBQ, 2243 Akers Mill Rd SE, Atlanta",33.8986074288,-84.4471997023
+95,2015-12-24 03:01:37,"Chunga's, 180 S 900 W, Salt Lake City",40.765229671,-111.916993192
+96,2015-12-24 00:44:37,"Tonkatsu Tonki, 0beed21-1-2, 71ac",35.6336098087,139.714280069
+97,2015-12-24 00:41:08,"Red Mill Burgers, 1613 W Dravus St, Seattle",47.6483207233,-122.378284081
+98,2015-12-24 00:40:21,"Canyonlands National Park, 2282 Resource Blvd, Moab",38.4598553749,-109.820660415
+99,2015-12-24 00:38:09,"Arches National Park, Arches Entrance Rd, Moab",38.6162668974,-109.615745544
+100,2015-12-24 00:37:35,"City Market, 425 S Main St, Moab",38.5669805325,-109.549751299
+101,2015-12-24 00:36:46,"Hyatt Place Salt Lake City Airport, 52 N Tommy Thompson Rd, Salt Lake City",40.771121,-112.001769
+102,2015-12-24 00:35:24,"R&R BBQ, 307 W 600 S, Salt Lake City",40.755826,-111.900057
+103,2015-11-26 17:10:18,"Taiwan Taoyuan International Airport (TPE), 2712092ad957ef95f, 431223",25.0815020447,121.237287177
+104,2015-11-26 17:06:11,"Roast Beef Ohno, 165e301-2-3, 71ac",35.698447,139.770541
+105,2015-11-25 22:28:30,"Central Pier No. 7 (Star Ferry), Man Kwong St, 2db0",22.2867292085,114.160856485
+106,2015-11-25 22:23:55,"Kam's Roast Goose, G/F, Po Wah Commercial Centre, 226-226A Hennessy Rd, 992f",22.2777808924,114.175132538
+107,2015-11-25 22:23:02,"Tsim Chai Kee Noodle, 98 Wellington St, 2db0",22.2830009863,114.154622555
+108,2015-11-25 22:14:47,"Rakuten CAFE, 5e571-20-6, 71ac",35.6615430283,139.700149351
+109,2015-11-25 22:13:44,"Nishimura, 0beed23-13-10, eed23a",35.6269235,139.709014893
+110,2015-11-25 22:11:13,"Meat Yazawa, 7f94cd302-15-13, c1dd3a",35.625877163,139.720586444
+111,2015-11-25 22:08:23,"de57fff8 3b eed297, 0a270e3-1-1, 71ac",35.6333761689,139.716017658
+112,2015-11-22 09:31:33,"Le Garon Sagon, G/F, 12-18 Wing Fung St, 992f",22.276793444,114.168194863
+113,2015-11-19 09:52:23,"John Howie Steak, 11111 NE 8th St #125, Bellevue",47.6167230739,-122.191615105
+114,2015-10-10 23:55:22,"New Town Bakery & Restaurant, 148 E Pender St, Vancouver",49.2804096423,-123.101115907
+115,2015-10-10 23:55:01,"Bao Bei, 163 Keefer St, Vancouver",49.279525,-123.100518
+116,2015-10-10 23:53:38,"Kitanoya Guu Otokomae, 105 - 375 Water St, Vancouver",49.2845269966,-123.110443602
+117,2015-10-10 23:52:26,"Minami Restaurant, 1118 Mainland St., Vancouver",49.2753208607,-123.120727347
+118,2015-08-07 03:51:54,"Refinery Rooftop, 63 W 38th St, New York",40.7522585466,-73.9854564037
+119,2015-08-05 09:24:50,"The Red Hen, 1822 1st St NW, Washington",38.914976502,-77.0123630762
+120,2015-07-23 04:51:00,"Lost Lake Cafe & Lounge, 1505 10th Ave, Seattle",47.6142062192,-122.319288254
+121,2015-04-02 18:38:07,"Jia Jia Tangbao, 90 Huanghe Rd, 0a7702",31.2364815336,121.466174665
+122,2015-03-10 18:23:04,"Siem Reap International Airport (REP), Airport Rd., Si15mrab",13.4070836904,103.814208241
+123,2015-03-10 18:19:08,"Le Salon Business Lounge, REP Airport, Si15mrab",13.406907,103.813727
+124,2015-03-09 21:07:44,"The Touich Restaurant, Behind Wat Enkosei, Si15mrab",13.3722009981,103.867673424
+125,2015-03-07 14:25:47,"Noi Bai International Terminal 2, Sn Bay Qud1c Tbf Nd9i Bi, Sc Sa1n",21.2175523376,105.792359495
+126,2015-03-07 10:29:47,"Ichiran, 5e571-22-7, 71ac",35.6611318009,139.701075554
+127,2015-03-07 10:27:27,"668493ad1d0c4a824b0d7fbb0397, 7fbb032-20-1, 71ac",35.6618204375,139.720033407
+128,2015-03-07 10:26:23,"Itasoba Kaoriya, 75d4ff4-3-10, 71ac",35.6457100166,139.711965322
+129,2015-03-07 10:25:16,"Bar Zingaro, 2dce5-52-15, 2dce3a",35.7098462928,139.665898897
+130,2015-03-07 10:23:38,"Gontran Cherrier, 0b371-14-11, 0b373a",35.6596499046,139.702599049
+131,2015-03-07 10:22:42,"Cupnoodles Museum, 2d3ab02f2-3-4, 2a5c02",35.4553915512,139.63870883
+132,2015-03-07 10:21:31,"ON THE CORNER No.8 Bear Pond, 0b371-17-1, 0b373a",35.6616253947,139.702851948
+133,2015-03-07 10:20:19,"Whoopi Gold Burger, 0b371-9-4, 0b373a",35.6604257243,139.704396129
+134,2015-03-07 10:18:36,"Bn Mcdc Thanh Mai, 14 Truong Dinh St., Dist. 1, Thnh phd1 Hd3 Ch Minh",10.771546841,106.696620418
+135,2015-03-07 10:17:23,"La Rotonde, 77B, Thnh phd1 Hd3 Ch Minh",10.7707819026,106.703622498
+136,2015-03-07 10:15:35,"Bn Cha3 10afc Kim, 1 Hng Mnh, Hon Kibfm",21.0322530916,105.848160377
+137,2015-03-07 10:14:39,"Temple of Literature, Qud1c Ted Gim, 10d1ng 10a",21.028707405,105.83600464
+138,2015-03-07 10:12:49,"Bn B Nam Bd9 Hng 10ibf, 67 Hng 10ibf, Hon Kibfm",21.0322571377,105.846824353
+139,2015-03-07 10:11:38,"Quan An Ngon 18 Phan Boi Cha, 18 Phan Boi Cha, Hon Kibfm",21.0263824943,105.843497515
+140,2015-03-04 15:51:42,"Phdf 10 L Qud1c Sb0, 10 L Qud1c Sb0, Hon Kibfm",21.0304433025,105.848765373
+141,2015-03-04 15:50:29,"Bnh Tm Hd3 Ty, Thanh Nin, Ty Hd3",21.0472394371,105.837638737
+142,2015-03-03 22:15:00,"Cha3 C Th03ng Long, 21 10b0ddng Thnh, Hon Kibfm",21.0331485973,105.84617068
+143,2015-02-27 08:50:25,"FUGLEN TOKYO, ccf6371-16-11, 0b373a",35.6666320108,139.692420065
+144,2015-02-18 07:25:30,"Visa Services Northwest, 1511 3rd Ave Ste 801, Seattle",47.6099623583,-122.337887698
+145,2014-12-11 05:07:49,"Group Health Medical Center, 1420 5th Ave Ste 375, Seattle",47.6103706529,-122.333747033
+146,2014-12-03 09:23:22,"Tsukushinbo, 515 S Main St, Seattle",47.599917,-122.327084
+147,2014-11-30 07:35:02,"Golden House, 1600 Pleasant Hill Rd, Duluth",33.9449277538,-84.1242102803
+148,2014-11-28 17:19:07,"Sweet Cup, Lange Leidsedwarsstraat 93h, Amsterdam",52.363031,4.885923
+149,2014-11-22 07:21:39,"Fuji Bakery, 526 S King St, Seattle",47.5983256102,-122.326376
+150,2014-10-26 16:31:49,"Rak, 5030 Spring Mountain Rd #2, Las Vegas",36.1269550735,-115.209940198
+151,2014-10-25 12:58:20,"Lotus of Siam, 953 E Sahara Ave Ste A5, Las Vegas",36.1435065236,-115.142899747
+152,2014-10-21 05:13:56,"Ping's Dumpling House & Market, 508 S King St, Seattle",47.5985287092,-122.327321357
+153,2014-10-13 04:12:22,"Buckeye Roadhouse, 15 Shoreline Hwy, Mill Valley",37.8785,-122.516299
+154,2014-09-11 04:40:23,"32ad 75d4ffc54d, 75d4ff7f1-7-13, 0b373a",35.64799,139.708413
+155,2014-08-24 16:10:40,"Sushi Sasabune, 1417 S King St, Honolul",21.2985139526,-157.839836649
+156,2014-08-23 08:39:47,"Annie's Island Fresh Burgers, 79-7460 Mamalahoa Hwy, Kealakekua",19.52882004,-155.924837
+157,2014-08-22 11:22:38,"Waikoloa Village Market, 68-3916 Paniolo Ave., Waikoloa Village",19.9277432314,-155.787284005
+158,2014-05-06 08:55:22,"Miso Izakaya, 619 Edgewood Ave SE, Atlanta",33.7540760996,-84.3669641018
+159,2014-03-20 10:17:43,"Shoya Izakaya, 6035 Peachtree Rd #A101, Doraville",33.9078527631,-84.2866373062
+160,2013-11-11 04:15:58,"Octane Coffee, 1009 Marietta St NW, Atlanta",33.7793256845,-84.4101691246
+161,2013-06-06 05:13:39,"Pinky's Bbq, 2408 N 45th St, Seattle",47.6616321326,-122.326467198
+162,2013-05-17 06:56:52,"Umpqua Bank, 1630 Queen Anne Ave N, Seattle",47.6344584446,-122.356697746
+163,2013-04-19 19:11:06,"7ddf52 13, 5eae4d5-50-8, 71ac",35.663023358,139.709755182
+164,2012-10-23 23:03:30,"Victrola Cafe and Roastery, 310 E Pike St, Seattle",47.6141953704,-122.327340245
+165,2012-10-07 02:24:12,"Samurai Noodle, 606 5th Ave S, Seattle",47.5972269504,-122.327726362
+166,2012-09-04 05:27:58,"The Lodge Sports Grille, 107 Lake St, Kirkland",47.6761499835,-122.207136297
+167,2012-07-25 03:32:38,"Gyros 2 Go, 16855 Redmond Way, Redmond",47.6712522724,-122.115064859
+168,2011-12-15 09:08:15,"3rd Floor Executive Washroom, 15809 Bear Creek Pkwy, Redmond",47.6732355585,-122.129207594

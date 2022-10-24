@@ -1,0 +1,84 @@
+,time,poi,latitude,longitude
+0,2016-12-23 11:07:29,"Moku Kitchen, 660 Ala Moana Blvd, Honolul",21.297929,-157.861552
+1,2016-12-20 06:21:34,"Tanioka's Seafood & Catering, 94-903 Farrington Hwy, Waipah",21.3842522161,-158.001154661
+2,2016-12-18 00:13:38,"The Royal Hawaiian, Waikiki, 2259 Kalakaua Ave, Honolul",21.2773852255,-157.828775568
+3,2016-11-22 02:01:45,"Sheng Kee Bakery, 816 Irving St, San Francisco",37.7640390608,-122.466679372
+4,2016-11-18 18:51:01,"Copenhagen Airport (CPH), Lufthavnsboulevarden 6, Kastrup",55.6287000092,12.6479924155
+5,2016-11-17 19:36:37,"Mercure Hotel MOA Restaurant, Stephanstr. 41, Berlin",52.532225,13.344935
+6,2016-11-17 19:35:31,"Mercure Hotel MOA Berlin, Stephanstr. 41, Berlin",52.5321502,13.3446765
+7,2016-11-14 05:04:30,"The London Edition, 10 Berners St, London",51.516814392,-0.136411297786
+8,2016-11-02 20:15:47,"Dallas/Fort Worth Marriott Hotel & Golf Club at Champions Circle, 3300 Championship Parkway, Fort Worth",33.018951,-97.288447
+9,2016-07-19 08:21:20,"Salon Blanc, 1288 Ala Moana Blvd, Honolul",21.2921913185,-157.850426233
+10,2016-07-19 00:24:10,"Kroc Center Hawaii, 91-3257 Kualakai Pkwy., Kapolei",21.3455224839,-158.049319935
+11,2016-06-30 11:23:56,"Dim Sum Square, G/F, Fu Fai Commercial Centre, 27 Hillier St, Sheung Wan",22.2852039338,114.151155009
+12,2016-06-02 07:11:29,"Phdf Ph Qud1c Vietnamese, 1816 Irving St, San Francisco",37.76368,-122.47756
+13,2016-06-02 07:10:53,"AT&T Park, 24 Willie Mays Plz, San Francisco",37.7785050387,-122.390325185
+14,2016-06-02 07:10:31,"Devil's Teeth Baking Company, 3876 Noriega St, San Francisco",37.7531043737,-122.50500977
+15,2016-06-02 07:09:35,"The Bridge (382302) - Cathay Pacific Lounge, Hong Kong International Airport, Chek Lap Kok",22.3129162835,113.926535455
+16,2016-03-30 23:16:12,"Amandine Patisserie Cafe, 12225 Wilshire Blvd, Los Angeles",34.043245624,-118.4688576
+17,2016-03-25 01:35:19,"The Perennial, 59 9th St, San Francisco",37.7767539465,-122.41550437
+18,2016-01-14 10:33:40,"Mahalo, 1376 9th Ave, San Francisco",37.7627265256,-122.466320045
+19,2015-12-26 02:14:31,"Harris Ranch Inn & Restaurant, 24505 W Dorris Ave, Coalinga",36.2538945574,-120.237593651
+20,2015-12-26 02:11:28,"Le Mridien Delfina, 530 Pico Blvd, Santa Monica",34.0106459243,-118.485509569
+21,2015-12-17 03:37:01,"Miette Patisserie, 449 Octavia St, San Francisco",37.7763315369,-122.42443069
+22,2015-12-17 03:36:04,"20th Century Cafe, 198 Gough St, San Francisco",37.7750062286,-122.422589077
+23,2015-12-12 06:44:45,"The Kitchen Table, W Singapore, Singapore",1.24613012809,103.841945913
+24,2015-12-08 03:27:25,"Wailana Coffee House, 1860 Ala Moana Blvd, Honolul",21.2849834861,-157.83580808
+25,2015-12-06 01:36:19,"Sheraton Princess Kaiulani, 120 Kaiulani Ave, Honolul",21.2773613089,-157.826016129
+26,2015-12-01 08:10:05,"Liliha Bakery, 515 N Kuakini St, Honolul",21.3240596528,-157.858046807
+27,2015-11-28 00:59:14,"Northstar Recreation Center, 2200 N Village Dr, Truckee",39.2747899153,-120.118744297
+28,2015-11-18 01:19:06,"Hotel Droog, Staalstraat 7B, Amsterdam",52.3683096539,4.89756116784
+29,2015-11-18 01:18:27,"Hotel Droog, Staalstraat 7B, Amsterdam",52.3683096539,4.89756116784
+30,2015-11-17 20:25:10,"The Lobby, Hotel V Nesplein, Amsterdam",52.3711,4.893671
+31,2015-11-16 22:12:10,"Cut Throat - Amsterdam, Beursplein 5, Amsterdam",52.3744941752,4.89569330205
+32,2015-11-16 22:10:40,"W Amsterdam, Spuistraat 175, Amsterdam",52.3727870539,4.8900058865
+33,2015-11-16 21:37:38,"Caff Il Momento, Singel 180, Amsterdam",52.3746821998,4.88901793957
+34,2015-11-15 20:36:10,"Yanni's Sausage Grill of Penngrove, 1007 Main st, Penngrove",38.2976149562,-122.666471429
+35,2015-11-15 20:34:32,"STK Los Angeles, 930 Hilgard Ave, Los Angeles",34.063399,-118.441264
+36,2015-11-15 20:33:14,"Herbst Pavilion, Fort Mason, San Francisco",37.807673319,-122.431329489
+37,2015-11-15 20:32:35,"Noe Valley Branch Library, 451 Jersey St, San Francisco",37.7503699064,-122.43501
+38,2015-11-15 20:31:10,"Caf Noir, 43 Ahad Haam St, eadc d0d1d9d1-d9e4d5",32.0656285473,34.775762558
+39,2015-11-15 20:30:13,"Boutique Central, 53 Shenkin St., eadc d0d1d9d1-d9e4d5",32.068509,34.776688
+40,2015-11-15 20:29:41,"The Rothschild, Rothschild 71, eadc d0d1d9d1-d9e4d5",32.0657577949,34.7769355993
+41,2015-11-15 20:28:42,"MR PORTER, Spuistraat 175, Amsterdam",52.3727354577,4.89014645116
+42,2015-11-15 20:26:15,"MR PORTER, Spuistraat 175, Amsterdam",52.3727354577,4.89014645116
+43,2015-11-15 20:21:06,"Purely Physical Fitness, 1300 Church St, San Francisco",37.7499088464,-122.427472324
+44,2015-11-15 20:18:16,"Sea Horse, Kapteeninkatu 11, Helsinki",60.1587531081,24.946603775
+45,2015-11-15 20:16:50,"Trainmore Amsterdam, Singel 250, Amsterdam",52.3731676578,4.88839848449
+46,2015-11-15 20:16:34,"Trainmore Amsterdam, Singel 250, Amsterdam",52.3731676578,4.88839848449
+47,2015-11-15 20:13:23,"Amsterdam Airport Schiphol (AMS), Aankomstpassage, Schiphol",52.3089400625,4.76344260858
+48,2015-11-15 20:12:41,"Amsterdam Airport Schiphol (AMS), Aankomstpassage, Schiphol",52.3089400625,4.76344260858
+49,2015-11-15 20:11:11,"W Amsterdam, Spuistraat 175, Amsterdam",52.3727870539,4.8900058865
+50,2015-11-15 20:10:21,"W Amsterdam, Spuistraat 175, Amsterdam",52.3727870539,4.8900058865
+51,2014-11-29 06:21:15,"Osawa, 77 N Raymond Ave, Pasadena",34.147162,-118.148943
+52,2014-09-20 01:15:06,"Lucca Ravioli Company, 1100 Valencia St, San Francisco",37.755251,-122.420975
+53,2014-09-15 00:27:41,"Subs Inc., 1300 Castro St, San Francisco",37.751344,-122.434153
+54,2014-09-15 00:25:17,"Tartine Bakery, 600 Guerrero St, San Francisco",37.7614213141,-122.42400974
+55,2014-09-15 00:24:16,"Arizmendi Bakery Panaderia & Pizzeria, 1268 Valencia St, San Francisco",37.752532,-122.42087925
+56,2014-09-13 08:48:32,"Presidio Bowling Center, 93 Moraga Ave, San Francisco",37.7985943622,-122.459878922
+57,2014-08-22 03:18:21,"Usagi, 505 2nd Ave, San Mateo",37.56755,-122.321563
+58,2014-05-03 01:28:31,"Ritual Coffee Roasters, 1026 Valencia St, San Francisco",37.756501,-122.421146
+59,2014-04-16 09:38:15,"San Francisco International Airport (SFO), N McDonnell Rd, San Francisco",37.6176488967,-122.387221621
+60,2014-04-01 16:26:35,"bd1fPA (0a8a), 25d21686, bd1f02",36.1814629222,139.587993622
+61,2012-01-24 06:48:10,"Simple Honey, 2601 Mission St, San Francisco",37.7555398627,-122.418463302
+62,2011-10-30 12:00:20,"Los Angeles International Airport (LAX), 1 World Way, Los Angeles",33.9435869099,-118.408083022
+63,2011-10-19 06:08:26,"Mary's Barber Shop Beauty Salon, 3430 20th St, San Francisco",37.7588468484,-122.417506498
+64,2011-09-15 06:33:00,"Two Scoops Ice Cream Parlor, 92-1049 Olani St, Unit 3-101C, Kapolei",21.3418202548,-158.123674815
+65,2011-08-19 10:12:30,"Hale Haupia, 2005 Kalia Rd, Honolul",21.284718,-157.837347
+66,2011-08-05 12:30:22,"Los Angeles International Airport (LAX), 1 World Way, Los Angeles",33.9435869099,-118.408083022
+67,2011-03-28 04:07:14,"Meet in Paris, 9727 Culver Blvd, Culver City",34.021929,-118.396298
+68,2011-03-16 02:44:32,"Mellow Johnny's, 400 Nueces St, Austin",30.2679724768,-97.749298811
+69,2011-02-28 06:16:57,"Westfield Culver City, 6000 Sepulveda Blvd, Culver City",33.9857843476,-118.393412419
+70,2011-02-08 03:21:48,"Espresso Profeta, 1129 Glendon Ave, Los Angeles",34.060285,-118.444038
+71,2011-01-17 04:37:34,"Apple, 10250 Santa Monica Boulevard, Los Angeles",34.058401,-118.419894
+72,2010-12-10 06:35:01,"Leeward Drive-Inn, 94-209 Pupukahi St, Waipah",21.3812512683,-158.017461517
+73,2010-10-26 01:05:42,"Honolulu International Airport (HNL), 300 Rodgers Blvd, Honolul",21.3321734003,-157.919641097
+74,2010-10-19 04:42:11,"Kaka18ako Kitchen, 1200 Ala Moana Blvd, Honolul",21.2932936015,-157.853011054
+75,2010-10-19 03:28:02,"Ala Moana Center, 1450 Ala Moana Blvd, Honolul",21.2915906203,-157.843638181
+76,2010-10-11 23:53:48,"Los Angeles International Airport (LAX), 1 World Way, Los Angeles",33.9435869099,-118.408083022
+77,2010-10-11 23:47:23,"Los Angeles International Airport (LAX), 1 World Way, Los Angeles",33.9435869099,-118.408083022
+78,2010-05-06 04:16:03,"Hammer Museum, 10899 Wilshire Blvd, Los Angeles",34.0594148609,-118.443673253
+79,2010-04-06 02:14:19,"Mocha Java Cafe, 1200 Ala Moana Blvd, Honolul",21.2930930757,-157.853064537
+80,2009-12-17 06:18:26,"Honolulu International Airport (HNL), 300 Rodgers Blvd, Honolul",21.3321734003,-157.919641097
+81,2009-10-17 07:50:16,"J. Paul Getty Museum, 1200 Getty Center Dr, Los Angeles",34.0776101093,-118.474725899
+82,2009-10-03 06:18:46,"Bob Hope Airport (BUR), 2627 N Hollywood Way, Burbank",34.1964945864,-118.352327098

@@ -1,0 +1,169 @@
+,time,poi,latitude,longitude
+0,2016-10-15 00:19:41,"Culver's, 14444 Manchester Rd, Manchester",38.592887,-90.519356
+1,2016-09-25 22:17:57,"Garfield Park, 2505 Conservatory Dr, Indianapolis",39.7311863255,-86.1408893692
+2,2016-09-12 20:16:30,"Lambert-St. Louis International Airport (STL), 10701 Lambert International Blvd, St Louis",38.742104778,-90.3631980043
+3,2016-09-12 19:58:50,"Super Park Lot C, 4329 Cypress Rd, Saint Ann",38.7416357439,-90.3874881244
+4,2016-09-05 04:27:09,"Vickery Park, 2810 N Henderson Ave, Dallas",32.8196682159,-96.7838170974
+5,2016-09-05 03:11:26,"The Old Monk, 2847 N Henderson Ave, Dallas",32.8200997813,-96.7849588394
+6,2016-07-30 23:13:52,"Butterfly House at Faust County Park, 15193 Olive Blvd, Chesterfield",38.664771588,-90.5426802976
+7,2016-07-29 10:13:18,"ThinkGeek, 1282 Broadway, New York",40.749138,-73.98814
+8,2016-07-26 07:57:06,"Richmond International Airport (RIC), 1 Richard E Byrd Terminal Dr, Richmond",37.5083661722,-77.3313291599
+9,2016-07-03 07:05:12,"The Dark Side Comics & Games LLC, 48 Clarkson Wilson Ctr, Chesterfield",38.6280020033,-90.5797970295
+10,2016-07-01 21:44:17,"GameStop, 14248 Manchester Rd Ste 101, Ballwin",38.5923008167,-90.5047005415
+11,2016-06-19 04:34:31,"Busch Stadium, 700 Clark Ave, St Louis",38.6224622688,-90.1928468187
+12,2016-06-18 11:35:19,"Andy's Frozen Custard, 15501 Manchester Rd, Ballwin",38.5929918921,-90.568268284
+13,2016-06-11 04:00:08,"Target, 40 Thf Blvd, Chesterfield",38.6667142273,-90.5857086182
+14,2016-06-11 03:59:35,"Kohl's, 14425 Andersohn Dr, Manchester",38.595531,-90.518071
+15,2016-04-30 07:12:07,"The Wolf Public House, 15480 Clayton Rd Ste 220, Ballwin",38.6081275953,-90.567750819
+16,2016-04-01 23:50:34,"Walgreens, 14950 Clayton Rd, Chesterfield",38.61453488,-90.54057487
+17,2016-03-12 05:06:16,"Austin Bergstrom International Airport (AUS), 3600 Presidential Blvd, Austin",30.202491212,-97.6669793192
+18,2016-03-12 05:05:12,"Austin Bergstrom International Airport (AUS), 3600 Presidential Blvd, Austin",30.202491212,-97.6669793192
+19,2016-03-12 02:14:20,"Moonshine Patio Bar & Grill, 303 Red River St, Austin",30.2639365057,-97.7380498618
+20,2016-02-04 12:49:36,"St. Louis Premium Outlets, 18521 Outlet Blvd, Chesterfield",38.6774198788,-90.6614632884
+21,2016-02-04 12:49:03,"Urban Chestnut Brewing Company, 4465 Manchester Ave, St Louis",38.6266682089,-90.2610988039
+22,2015-11-07 08:09:50,"Red Robin Gourmet Burgers, 17308 Chesterfield Airport Rd, Chesterfield",38.6679875208,-90.6019306183
+23,2015-10-04 05:51:57,"Saint Louis Art Museum, 1 Fine Arts Dr, St Louis",38.6391988566,-90.2945280075
+24,2015-09-19 05:21:19,"Regal Cinemas Opry Mills 20 IMAX & RPX, 570 Opry Mills Dr, Nashville",36.20616863,-86.69517733
+25,2015-09-11 17:54:50,"LaGuardia Airport (LGA), Grand Central Pkwy, East Elmhurst",40.7716531197,-73.8676929474
+26,2015-07-24 16:54:13,"LaGuardia Airport (LGA), Grand Central Pkwy, East Elmhurst",40.7716531197,-73.8676929474
+27,2015-07-19 12:49:00,"NU Hotel, 85 Smith St, Brooklyn",40.6888606399,-73.9889274538
+28,2015-03-12 01:03:50,"Le Caf Crpe, 200 San Jacinto Blvd, Austin",30.2636977132,-97.7419222351
+29,2015-03-12 00:47:35,"Le Caf Crpe, 200 San Jacinto Blvd, Austin",30.2636977132,-97.7419222351
+30,2015-03-11 09:50:37,"Polvos Mexican Restaurant, 2004 S 1st St, Austin",30.2453509464,-97.7574205399
+31,2015-03-11 09:31:23,"Polvos Mexican Restaurant, 2004 S 1st St, Austin",30.2453509464,-97.7574205399
+32,2015-01-24 03:49:57,"Hollywood Rip Ride Rockit, Production Central, Orlando",28.4753423594,-81.4685649493
+33,2015-01-24 02:34:33,"Moe's Tavern, World Expo, Orlando",28.4788132606,-81.4680233365
+34,2015-01-24 02:18:04,"Moe's Tavern, World Expo, Orlando",28.4788132606,-81.4680233365
+35,2015-01-24 01:32:19,"The Simpsons Ride, World Expo, Orlando",28.479578202,-81.4677885175
+36,2015-01-23 07:36:48,"Hollywood Rip Ride Rockit, Production Central, Orlando",28.4753423594,-81.4685649493
+37,2015-01-23 06:05:02,"The Simpsons Ride, World Expo, Orlando",28.479578202,-81.4677885175
+38,2015-01-23 02:26:37,"Poseidon's Fury, The Lost Continent, Orlando",28.4730958242,-81.4713855633
+39,2015-01-23 02:23:27,"Poseidon's Fury, The Lost Continent, Orlando",28.4730958242,-81.4713855633
+40,2015-01-23 00:59:58,"Hogwarts Express, Wizarding World, Orlando",28.4731251792,-81.4726862311
+41,2015-01-23 00:59:03,"Fire Eater's Grill, The Lost Continent, Orlando",28.472911,-81.471804
+42,2015-01-23 00:27:02,"The Amazing Adventures of Spider-Man, Marvel Superhero Island, Orlando",28.4706117652,-81.4699302614
+43,2015-01-14 06:10:30,"LaGuardia Airport (LGA), Grand Central Pkwy, East Elmhurst",40.7716531197,-73.8676929474
+44,2014-10-15 20:02:08,"Boston Logan International Airport (BOS), 1 Harborside Dr, Boston",42.3654998972,-71.0178064867
+45,2014-10-15 09:01:05,"Mike's Pastry, 300 Hanover St, Boston",42.3641949997,-71.0541787721
+46,2014-10-15 04:44:54,"New England Aquarium, 1 Central Wharf, Boston",42.3591887024,-71.0499247673
+47,2014-10-15 04:35:21,"New England Aquarium, 1 Central Wharf, Boston",42.3591887024,-71.0499247673
+48,2014-10-15 01:12:00,"The New England Holocaust Memorial, 98 Union Street, Boston",42.3610174044,-71.0571670532
+49,2014-10-15 00:33:39,"Mary Baker Eddy Library, 200 Massachusetts Ave, Boston",42.3452393275,-71.086564064
+50,2014-10-14 20:58:36,"Manchester-Boston Regional Airport (MHT), 1 Airport Rd, Manchester",42.9279460902,-71.437899608
+51,2014-10-14 04:19:22,"Harvard University, 1350 Massachusetts Ave, Cambridge",42.37373309,-71.1164516244
+52,2014-10-14 01:04:55,"Fenway Park, 4 Yawkey Way, Boston",42.3464844879,-71.0970993771
+53,2014-10-13 08:13:14,"Hayward's Ice Cream, 7 Daniel Webster Hwy, Nashua",42.7378248051,-71.4582967758
+54,2014-10-13 03:22:25,"Brookdale Fruit Farm, 38 Broad Street, Hollis",42.74278,-71.581511
+55,2014-10-13 02:13:10,"Kohl's, 200 Quality Dr, Hooksett",43.047909,-71.4583
+56,2014-10-11 22:24:00,"Boston Logan International Airport (BOS), 1 Harborside Dr, Boston",42.3654998972,-71.0178064867
+57,2014-10-10 05:01:11,"Washington Dulles International Airport (IAD), 1 Saarinen Cir, Dulles",38.9496063549,-77.4477789643
+58,2014-10-10 04:57:50,"Washington Dulles International Airport (IAD), 1 Saarinen Cir, Dulles",38.9496063549,-77.4477789643
+59,2014-08-18 09:48:08,"Terminal 2, LAX Airport, Los Angeles",33.9457274559,-118.403992653
+60,2014-07-06 04:13:41,"Saint Louis Art Museum, 1 Fine Arts Dr, St Louis",38.6391988566,-90.2945280075
+61,2014-07-01 07:06:28,"Raleigh-Durham International Airport (RDU), 2400 John Brantley Blvd, Morrisville",35.8766485279,-78.7926293419
+62,2014-06-30 04:12:38,"Eno River State Park Fews Ford Access, Cole Mill Rd, Durham",36.0732794806,-79.0065908432
+63,2014-06-29 06:13:12,"Pelican's SnoBalls, 3217 N Roxboro St, Durham",36.0325007375,-78.8911849754
+64,2014-05-10 22:15:32,"America's Best Value Inn, 202 Clark Dr, New Florence",38.9023921535,-91.458500729
+65,2014-01-13 09:47:28,"Denver International Airport (DEN), 8500 Pea Blvd, Denver",39.8513557067,-104.674044515
+66,2013-10-27 20:28:07,"Comic Book Relief, 2224 N 3rd St, St. Charles",38.8005290486,-90.475288168
+67,2013-10-26 21:16:18,"West County Lanes, 15737 manchester rd, Ellisville",38.594379,-90.57992
+68,2013-10-03 09:21:58,"Umami Burger, 432 Avenue of the Americas, New York",40.7344458028,-73.9987134933
+69,2013-08-11 04:11:10,"Queeny County Park, 550 Weidman Rd, St Louis",38.6130645564,-90.4906725883
+70,2013-08-11 04:08:53,"Trek Bicycle Super Store Of Saint Louis, 13922 Manchester Rd, Ballwin",38.5957975671,-90.4853611061
+71,2013-07-28 02:49:40,"City Museum, 701 N 15th St, St Louis",38.6335671251,-90.2007365227
+72,2013-07-21 02:22:43,"Grant's Farm, 10501 Gravois Rd, St Louis",38.5497915607,-90.3574855719
+73,2013-05-10 20:59:58,"Excellence Punta Cana, Playas Uvero Alto, Punta Cana",18.827434249,-68.6011936261
+74,2013-04-12 00:17:27,"Shell, 1740 Atlantic Ave, Brooklyn",40.67729,-73.9328277111
+75,2013-04-07 06:47:21,"Seoul Garden Restaurant, 34 W 32nd St Fl 2, New York",40.7478512468,-73.9872699421
+76,2013-03-24 05:31:57,"Forest Hills High School, 67-01 110th St, Forest Hills",40.7297629358,-73.8449478149
+77,2013-03-24 05:30:31,"Astor Place, Astor Pl, New York",40.7298818408,-73.9910195768
+78,2013-03-24 05:29:22,"Madison Square Park, Broadway & Madison Ave, New York",40.7421441752,-73.988006115
+79,2013-03-24 05:28:35,"New York Public Library, 476 5th Ave, New York",40.7530255355,-73.9814849244
+80,2013-03-24 05:27:41,"Broadhurst Theatre, 235 W 44th St, New York",40.7581944885,-73.9876547456
+81,2013-03-24 05:25:35,"Citi Field, 12301 Roosevelt Ave, Flushing",40.7567589292,-73.8460845522
+82,2013-03-24 05:23:00,"Riker's Island, Rikers Island, Astoria",40.79329035,-73.88543292
+83,2013-03-24 05:19:33,"Riverside Church, 490 Riverside Dr, New York",40.812112,-73.962981
+84,2013-03-24 05:15:04,"Solomon R Guggenheim Museum, 1071 5th Ave, New York",40.7829907897,-73.9589738846
+85,2013-03-24 05:13:44,"MetLife Building, 200 Park Ave, New York",40.7535144932,-73.9768074266
+86,2013-03-24 05:13:07,"Grand Central Terminal, 87 E 42nd St, New York",40.7526001065,-73.9771058716
+87,2013-03-24 05:12:39,"The Frick Collection, 1 E 70th St, New York",40.7711054267,-73.9673430372
+88,2013-03-24 05:11:42,"Jacob K. Javits Convention Center, 655 W 34th St, New York",40.7570365956,-74.0018292793
+89,2013-03-24 05:04:59,"666 5th Avenue, 666 5th Avenue, New York",40.7604475212,-73.9768476019
+90,2013-03-24 05:02:26,"Flatiron Building, 175 5th Ave, New York",40.74168083,-73.98952961
+91,2013-03-24 05:01:49,"Columbia University, 116th St & Broadway, New York",40.8077150835,-73.9619706845
+92,2013-03-24 05:01:02,"New York University, 25 W 4th St, New York",40.7290919276,-73.9956429873
+93,2013-03-24 04:59:52,"Joe's Pizza, 7 Carmine St, New York",40.7304911986,-74.0018809265
+94,2013-03-24 04:58:04,"Anthology Film Archives, 32 2nd Ave, New York",40.7247118178,-73.9901813865
+95,2013-03-24 00:30:58,"Jack Kirby Birthplace, 147 Essex St, New York",40.7209510803,-73.9873046875
+96,2013-03-23 23:47:43,"Sarabeth's, 339 Greenwich St, New York",40.7181942933,-74.0105574644
+97,2013-03-17 06:23:31,"Bottleneck Gallery, 60 Broadway, Brooklyn",40.7106065805,-73.9666198446
+98,2013-03-05 00:12:38,"Oliver Hazard Perry Middle School Field, 6 Grover St, Providence",41.8175884434,-71.4567880422
+99,2013-02-04 04:11:42,"The Woods, 48 S 4th St, Brooklyn",40.7127626287,-73.9663673005
+100,2013-01-26 21:45:36,"Thistle Hill Tavern, 441 7th Ave., Brooklyn",40.663289,-73.984549
+101,2012-11-21 23:34:11,"Philadelphia International Airport (PHL), 8800 Essington Ave, Philadelphia",39.8759226519,-75.2417844893
+102,2012-11-10 09:43:33,"Barclays Center, 620 Atlantic Ave, Brooklyn",40.6830957067,-73.9759924399
+103,2012-11-10 09:33:17,"Barclays Center, 620 Atlantic Ave, Brooklyn",40.6830957067,-73.9759924399
+104,2012-11-10 09:24:59,"Barclays Center, 620 Atlantic Ave, Brooklyn",40.6830957067,-73.9759924399
+105,2012-11-10 09:23:02,"Barclays Center, 620 Atlantic Ave, Brooklyn",40.6830957067,-73.9759924399
+106,2012-11-06 22:09:14,"Achievement First Middle School East New York, 158 Richmond St, Brooklyn",40.6832931915,-73.8768656168
+107,2012-11-03 09:09:19,"Bill's Bar & Burger, 16 W 51st St, New York",40.7592432133,-73.9775852389
+108,2012-06-10 08:40:58,"Best Buy, 625 Atlantic Ave Ste A7, Brooklyn",40.6834993073,-73.9756939932
+109,2012-05-06 04:33:45,"Midtown Comics, 64 Fulton St, New York",40.7088120145,-74.005279541
+110,2012-04-05 08:02:56,"Babies ""R"" Us, 2430 Union Sq E, New York",40.7355557908,-73.9897434431
+111,2012-04-03 05:01:32,"Wendy's, 3183 Atlantic Ave, Brooklyn",40.680038038,-73.8780772354
+112,2011-12-04 09:36:06,"JHU Comic Books, 32 E 32nd St, New York",40.7463786126,-73.9833616308
+113,2011-11-23 22:03:42,"MTA Subway - 125th St (A/B/C/D), 125th St, New York",40.8107752229,-73.9525400071
+114,2011-11-16 23:39:07,"Doshi Diagnostics, 9 Bond Sr, Brooklyn",40.6893253326,-73.9832210541
+115,2011-11-02 21:23:50,"McDonald's, 15 Jamaica Ave, Brooklyn",40.67756324,-73.8976478577
+116,2011-09-07 11:56:34,"Forbidden Planet, 832 Broadway, New York",40.733506237,-73.9910576569
+117,2011-07-12 06:59:24,"ZogSports - Roosevelt Island, Roosevelt Island, New York",40.7667611485,-73.9460191964
+118,2011-07-02 16:50:01,"Dunkin Donuts, 668 3rd Ave, Brooklyn",40.6645972169,-73.9977031939
+119,2011-05-31 05:56:17,"Water Street Gourmet, 12 Water St, New York",40.702640286,-74.0121297578
+120,2011-05-31 02:21:02,"Battery Park, Battery Pl, New York",40.703190441,-74.0157563123
+121,2011-05-30 03:30:32,"Brooklyn Bridge Garden Bar, 12 Furman St., Pier 1, Brooklyn",40.7027239723,-73.9956028159
+122,2011-04-14 01:44:34,"4 World Financial Center, 250 Vesey St, New York",40.7136781048,-74.0155956437
+123,2011-03-06 08:59:11,"Radio City Music Hall, 1260 Avenue of the Americas, New York",40.7598476671,-73.9802911689
+124,2011-01-17 03:06:25,"ZogSports - Brooklyn Tech, 510 Clermont Ave, Brooklyn",40.6831595246,-73.969070653
+125,2010-12-14 12:01:55,"Best Buy, 625 Atlantic Ave Ste A7, Brooklyn",40.6834993073,-73.9756939932
+126,2010-11-14 04:12:04,"TD Bank, 211 Montague St, Brooklyn",40.6940648963,-73.9907704443
+127,2010-11-12 03:37:53,"T.J. Maxx, 407 E 59th St, New York",40.7595457656,-73.9614426247
+128,2010-11-08 06:06:38,"Brooklyn Museum, 200 Eastern Pkwy, Brooklyn",40.6712859549,-73.963686869
+129,2010-11-07 23:54:41,"Peaches Restaurant, 393 Lewis Ave, Brooklyn",40.6818747579,-73.9348770564
+130,2010-11-04 23:08:21,"IKEA Borough Hall Shuttle, Court St and Joralemon St, Brooklyn",40.6924067063,-73.9905067212
+131,2010-08-13 06:10:33,"Hot Bird, 546 Clinton Ave, Brooklyn",40.6819235423,-73.9668622613
+132,2010-08-08 01:43:13,"New York Aquarium, 602 Surf Ave., Brooklyn",40.5741307702,-73.975110054
+133,2010-08-02 00:13:37,"Bed Bath & Beyond, 620 Avenue of the Americas, New York",40.7400794404,-73.9947009087
+134,2010-07-06 03:54:42,"MTA Subway - Park Place (S), Prospect Pl, Brooklyn",40.6746982888,-73.9576220512
+135,2010-07-04 02:17:00,"Uno Pizzeria & Grill, 220 E 86th St, New York",40.77854071,-73.9531082715
+136,2010-06-07 07:22:37,"Vynl, 756 9th Ave, New York",40.7639283916,-73.9884521763
+137,2010-06-01 02:00:12,"Strand Bookstore, 828 Broadway, New York",40.7332017898,-73.9909600955
+138,2010-05-07 02:28:44,"Golden Krust Caribbean Bakery and Grill, 918 Fulton St, Brooklyn",40.68297034,-73.964293
+139,2010-05-02 06:07:48,"Sheldrake Point Winery, 7448 Country Rd., Ovid",42.66333303,-76.70118175
+140,2010-05-02 00:47:59,"Swedish Hill Winery, 4565 State Route 414, Romulus",42.8032271361,-76.8103994956
+141,2010-04-29 05:11:00,"LIRR - Nostrand Avenue Station, 1287 Atlantic Ave, Brooklyn",40.6783687312,-73.9486998732
+142,2010-04-28 21:49:03,"Purdue Pharma, 201 Tresser Blvd, Stamford",41.0508058502,-73.5374617852
+143,2010-04-24 22:14:46,"Radio City Music Hall, 1260 Avenue of the Americas, New York",40.7598476671,-73.9802911689
+144,2010-04-24 08:29:04,"Kingston Pizza, 259 Kingston Ave, Brooklyn",40.6708797598,-73.9420813469
+145,2010-04-20 07:47:19,"MTA Subway - Atlantic Ave/Barclays Center (B/D/N/Q/R/2/3/4/5), Flatbush Ave, Brooklyn",40.6839952676,-73.978546436
+146,2010-04-19 11:01:18,"MTA Subway - Kingston Ave (3), Kingston Ave, Brooklyn",40.6693764864,-73.9421510696
+147,2010-04-19 01:58:37,"Union Square Park, btwn Broadway & Union Sq E, New York",40.7352818437,-73.9908453173
+148,2010-04-07 09:45:33,"Best Buy, 52 E 14th St, New York",40.734269,-73.990084
+149,2010-04-07 04:50:01,"Subway, 156 W 29th St, New York",40.7477568632,-73.992314473
+150,2010-04-01 02:12:59,"El Vaqueros, 3135 Cross Country Hl, Columbus",32.483108178,-84.94536873
+151,2010-02-14 06:43:38,"AMC Empire 25, 234 W 42nd St, New York",40.7569288007,-73.9893704114
+152,2010-02-08 00:58:18,"IKEA Borough Hall Shuttle, Court St and Joralemon St, Brooklyn",40.6924067063,-73.9905067212
+153,2010-02-01 00:55:42,"MTA Subway - Borough Hall/Court St (R/2/3/4/5), Joralemon St. & Court St., Brooklyn",40.6925562958,-73.990661672
+154,2010-01-25 20:26:27,"US Post Office, 1234 Saint Johns Pl, Brooklyn",40.6709200469,-73.9374775204
+155,2010-01-17 04:50:52,"Best Buy, 52 E 14th St, New York",40.734269,-73.990084
+156,2010-01-17 03:12:22,"United Artists Court Street 12 & RPX, 106 Court St, Brooklyn",40.69053286,-73.99216772
+157,2010-01-03 05:56:25,"Forbidden Planet, 832 Broadway, New York",40.733506237,-73.9910576569
+158,2010-01-03 04:34:08,"JCPenney, 100 W 32nd St, New York",40.748943,-73.988735
+159,2010-01-03 04:32:39,"Manhattan Mall, 100 W 33rd St, New York",40.7490849013,-73.9890203347
+160,2009-12-31 08:57:55,"McDonald's, 215 W 125th St, New York",40.8094567753,-73.9490175247
+161,2009-12-11 13:29:54,"LIRR - Jamaica Station, Sutphin Blvd & Archer Ave, Jamaica",40.6997538934,-73.8083424792
+162,2009-12-11 13:29:05,"LIRR - Jamaica Station, Sutphin Blvd & Archer Ave, Jamaica",40.6997538934,-73.8083424792
+163,2009-11-02 19:51:58,"ViceVersa, 325 W 51st St, New York",40.7635217327,-73.9867189955
+164,2009-11-02 19:51:05,"ViceVersa, 325 W 51st St, New York",40.7635217327,-73.9867189955
+165,2009-07-31 09:58:53,"Franklin Park, 618 Saint Johns Pl, Brooklyn",40.6722893445,-73.9578093042
+166,2009-07-23 10:57:43,"JHU Comic Books, 32 E 32nd St, New York",40.7463786126,-73.9833616308
+167,2009-04-14 09:37:15,"Brooklyn Tabernacle, 17 Smith St, Brooklyn",40.690659392,-73.9872699421

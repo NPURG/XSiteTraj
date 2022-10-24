@@ -1,0 +1,58 @@
+,time,poi,latitude,longitude
+0,2015-11-08 17:08:54,"Hanazen, 42 Soi Ari 5, 1e0d324417",13.7795737741,100.538650923
+1,2015-09-08 01:25:55,"Ritual Coffee Roasters, 432 Octavia St, San Francisco",37.7764926834,-122.424231599
+2,2015-09-08 01:24:09,"PLJ, 333 Fulton St, San Francisco",37.778693137,-122.422107929
+3,2015-09-05 12:14:12,"Hoki Sushi, 22 rue Pierre Lescot, Paris",48.8628798723,2.348641
+4,2015-09-05 12:12:59,"Caf de la Place, 23 rue d'Odessa, Paris",48.8416055601,2.32486367226
+5,2015-09-05 12:09:52,"C Casa, 610 1st St, Napa",38.301769176,-122.281668336
+6,2015-09-05 12:09:04,"Alpha Omega Winery, 1155 Mee Ln, Saint Helena",38.4703560475,-122.429280671
+7,2015-09-05 12:08:25,"Solbar at Solage Calistoga, 755 Silverado Trl, Calistoga",38.5847905721,-122.570364475
+8,2015-09-05 12:07:01,"Cafe Sarafornia, 1413 Lincoln Ave, Calistoga",38.5789211026,-122.578971787
+9,2015-09-05 12:06:24,"Chateau Montelena, 1429 Tubbs Ln, Calistoga",38.6031045302,-122.598731518
+10,2015-09-05 12:04:56,"Huge Bear Wine Tasting Room, 1373 Lincoln Ave, Calistoga",38.578636282,-122.579192672
+11,2015-09-05 12:04:14,"Calistoga Spa Hot Springs, 1006 Washington St, Calistoga",38.5788121582,-122.577359313
+12,2015-09-05 12:03:36,"Beringer Vineyards, 2000 Main St, Saint Helena",38.5109977518,-122.480487635
+13,2015-09-05 12:02:20,"The Model Bakery, 1357 Main St, Saint Helena",38.504958,-122.469848
+14,2015-09-05 12:01:36,"Castello di Amorosa, 4045 Saint Helena Hwy, Calistoga",38.5585490524,-122.542154746
+15,2015-09-05 12:01:06,"Rodney Strong Vineyards, 11455 Old Redwood Hwy, Healdsburg",38.5734330833,-122.843709
+16,2015-09-05 12:00:35,"Francis Ford Coppola Winery, 300 Via Archimedes, Geyserville",38.6798062999,-122.887057057
+17,2015-03-10 17:08:59,"Vegaluna Beach, Boulevard de la Croisette, Cannes",43.5487461477,7.02734875236
+18,2015-03-10 17:08:31,"La Piazza Cannes, 9 place Bernard Cornut Gentille, Cannes",43.5512635524,7.01190639347
+19,2015-03-10 17:07:43,"Bistrot d'en Face, 24 rue du Dr Finlay, Paris",48.851858,2.288801
+20,2015-03-10 17:07:17,"Pas de Loup, 108 rue Amelot, Paris",48.863048,2.366979
+21,2015-03-10 17:06:02,"Erawan, 76 Rue de la Fdration, Paris",48.853127,2.296613
+22,2015-03-10 17:05:24,"Aux 3 Nagas, 18 avenue du Prsident Kennedy, Paris",48.856766233,2.28639573024
+23,2015-03-10 17:04:20,"Clown Bar, 114 rue Amelot, Paris",48.8635529858,2.36699495819
+24,2015-03-10 17:03:54,"Singapore Botanic Gardens, 1 Cluny Rd., Singapore",1.31544412446,103.815261036
+25,2015-03-10 17:03:00,"Food For Thought, #B1-00, Singapore Botanic Gardens, Singapore",1.30780793481,103.818323247
+26,2015-03-10 17:02:11,"The Russell Hotel, 143a George Street, Sydney",-33.8605904788,151.208345984
+27,2015-03-10 17:01:36,"Bondi Icebergs, 1 Notts Ave, Bondi Beach",-33.8951032682,151.274354537
+28,2015-03-10 16:58:02,"Ampersand Cafe and Bookstore, 78 Oxford St, Sydney",-33.8830416838,151.220851063
+29,2015-03-10 16:57:29,"Opera Bar, 2 Macquarie St., Sydney",-33.8583229886,151.213834137
+30,2015-03-10 16:56:25,"Royal Botanic Garden, Macquarie St, Sydney",-33.8641439799,151.215991974
+31,2015-03-10 16:53:37,"Sailors Thai, 106 George St., The Rocks",-33.8586432644,151.209171277
+32,2015-01-31 05:29:33,"Saturne, 17 rue Notre-Dame des Victoires, Paris",48.86838118,2.34178304672
+33,2015-01-31 05:28:25,"Mabel, 58 rue d'Aboukir, Paris",48.8674249024,2.34610408545
+34,2015-01-31 05:28:08,"Caf la Fuse, 168 rue Saint-Martin, Paris",48.862214,2.351943
+35,2015-01-31 05:27:46,"MG Road, 205 rue Saint-Martin, Paris",48.8638146284,2.35267067641
+36,2015-01-31 05:27:29,"UMA, 7 rue du 29 juillet, Paris",48.8651609129,2.33058630051
+37,2015-01-31 04:56:05,"Aprazvel, R. Ivens 53 a 61, Lisboa",38.7105296397,-9.13988887191
+38,2015-01-10 18:49:08,"Lairds Lodge Harkerville, 8km from Plettenberg Bay and 20km from Knysna (Sig, Harkerville",-34.0457817408,23.2589010117
+39,2015-01-10 18:47:59,"The Lookout Deck, 9-23 Hill St, Plettenberg Bay",-34.05183,23.377253
+40,2015-01-10 18:47:20,"Knysna Elephant Park, N2, Plettenberg Bay",-34.0375110582,23.2713603973
+41,2015-01-10 18:46:03,"East Head Caf, 25 George Rex Drive, Eastern Head, Knysna",-34.0765644384,23.06039228
+42,2015-01-05 04:29:08,"Sturehof, Stureplan 2, Stockholm",59.3359124377,18.0728023456
+43,2015-01-05 04:28:11,"Black Sheep, 104 Kloof Street, iKapa",-33.9340101314,18.4074978496
+44,2015-01-05 04:27:47,"La Parada, 107 Bree St, iKapa",-33.9214498477,18.4179292663
+45,2015-01-05 04:27:31,"Myoga Restaurant, 54 Colinton Road, Newlands",-33.9789411082,18.4582612666
+46,2015-01-05 01:29:01,"Kirstenbosch Botanical Gardens, 0 Rhodes Dr, iKapa",-33.9889004596,18.4322787793
+47,2015-01-05 01:28:11,"Van Hunks, Kloof St., iKapa",-33.932011,18.408546
+48,2015-01-05 01:27:29,"Waterford Estate, Blaauwklippen Road,, Stellenbosch",-33.9982485707,18.8700458759
+49,2015-01-05 01:25:59,"La Motte, R45, Franschhoek Valley",-33.8810161148,19.0738375686
+50,2015-01-05 01:24:23,"V&A Waterfront, East Pier Rd., iKapa",-33.9044436702,18.4200329739
+51,2015-01-05 01:23:51,"Giovanni's Deliworld, 99-105 Main Rd, iKapa",-33.9078652496,18.4097173966
+52,2015-01-05 01:22:22,"Kaai 4 Braai Restaurant, Quay 4, Mossel Bay",-34.1785764814,22.1419066193
+53,2014-11-05 09:53:51,"Kalypso Island Bar & Grill, 5-5156 Kuhio Hwy #G4, Hanalei",22.2032669215,-159.495745692
+54,2014-08-14 23:34:34,"Barlingbo Bryggeri, Barlingbo Stafva 300, Visby",57.55388,18.4394
+55,2012-02-09 03:09:00,"La Terrasse, 2 place de l'cole Militaire, Paris",48.8547127906,2.30574756861
+56,2011-03-11 20:51:15,"Gate C28, Concourse C, Sterling",38.9451861246,-77.4470953964

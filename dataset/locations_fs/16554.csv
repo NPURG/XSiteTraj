@@ -1,0 +1,53 @@
+,time,poi,latitude,longitude
+0,2016-05-09 06:07:03,"Sea, 114 N 6th St, Brooklyn",40.7181270693,-73.959944534
+1,2015-12-24 05:19:34,"Fuk, 163 1st Ave, New York",40.7289251668,-73.9846127582
+2,2015-12-24 05:18:31,"The Breslin, 16 W 29th St, New York",40.7458373458,-73.9879926535
+3,2015-12-24 05:17:40,"The Cannibal Beer & Butcher, 113 E 29th St, New York",40.7437008127,-73.9827758074
+4,2015-11-24 23:10:52,"Starbucks, 45 W 4th St, New York",40.7295930886,-73.9965267555
+5,2015-10-08 03:58:03,"Lasan, 3145 Fillmore St, San Francisco",37.7985574116,-122.435894423
+6,2015-08-02 06:46:03,"OddFellows Ice Cream - The Sandwich Shop, 75 E 4th St, New York",40.7265757768,-73.9903402924
+7,2015-03-23 13:41:48,"Trattoria Cecio, Via Principe Amedeo, 104, Roma",41.8982842602,12.5011110306
+8,2015-02-09 03:06:23,"Cagen, 414 E 9th St, New York",40.727941,-73.984161
+9,2014-07-24 13:35:48,"Trick Dog, 3010 20th St, San Francisco",37.7591916688,-122.411234511
+10,2014-07-24 13:29:22,"Blowfish Sushi to Die For, 2170 Bryant St, San Francisco",37.75963095,-122.410067
+11,2014-07-05 03:36:14,"Southern Soul Barbeque, 2020 Demere Rd, St. Simons Island",31.1596564203,-81.3880635099
+12,2014-06-22 03:22:25,"French Louie, 320 Atlantic Ave, Brooklyn",40.6881465208,-73.9881709659
+13,2013-05-22 01:16:08,"DUMBO Food Truck Lot, 56 Jay St, Brooklyn",40.7030994401,-73.98663291
+14,2012-07-24 21:45:59,"Scoop Du Jour, 35 Newtown Ln, East Hampton",40.9640994628,-72.1865331201
+15,2012-07-19 06:18:21,"Kelley & Ping, 127 Greene St, New York",40.7255303326,-73.999258377
+16,2012-04-03 01:23:45,"Parm, 248 Mulberry St, New York",40.723019825,-73.995854
+17,2012-03-24 01:53:57,"Thai Basil, 95 Railroad Ave, Greenwich",41.021817,-73.624897
+18,2012-03-02 01:26:45,"Parm, 248 Mulberry St, New York",40.723019825,-73.995854
+19,2012-01-13 02:13:17,"Kobeyaki, 293 7th Avenue, New York",40.746424,-73.993954
+20,2011-12-31 02:44:14,"Shake Shack, 409 Fulton St, Brooklyn",40.6922094164,-73.9887448642
+21,2011-12-08 13:24:13,"Asiento, 2730 21st St, San Francisco",37.7577040415,-122.409431934
+22,2011-12-08 12:16:26,"Cha Cha Cha, 2327 Mission St, San Francisco",37.7598075778,-122.419143569
+23,2011-11-28 00:38:56,"Almondine Bakery, 85 Water St, Brooklyn",40.7033648336,-73.9912033081
+24,2011-11-05 00:04:32,"Dallas Fort Worth International Airport (DFW), 2400 Aviation Dr, DFW Airport",32.897978884,-97.0364363374
+25,2011-10-15 08:02:34,"Creators Project - A Physical Manifestation of Ladies and Gentlemen, We Are Floating in Space, 56 Water St, Brooklyn",40.7036807822,-73.9927391487
+26,2011-10-08 00:54:59,"Frita Batidos, 117 W Washington St, Ann Arbor",42.280529,-83.749421
+27,2011-09-03 03:23:51,"Faicco's Italian Specialties, 260 Bleecker St, New York",40.7311767898,-74.0028335286
+28,2011-08-10 04:35:15,"Briermere Farms, 4414 Sound Ave, Riverhead",40.9673463004,-72.6573196115
+29,2011-07-17 01:08:49,"Iavarone Brothers, 1166 Wantagh Ave, Wantagh",40.6944693066,-73.5082515141
+30,2011-07-07 22:11:19,"iya Sofras31, Cafera1fa Mah. Gne5flibahe Sk. No:43, 30stanbul",40.989327,29.024369
+31,2011-05-28 05:39:59,"Liquiteria, 170 2nd Ave, New York",40.7301775779,-73.9862143993
+32,2011-05-28 04:03:28,"Momofuku Milk Bar, 251 E 13th St, New York",40.7317954706,-73.9856725931
+33,2010-12-30 11:05:28,"Hudson Lodge, 356 W 58th St, New York",40.7678987622,-73.9851866671
+34,2010-12-26 02:15:51,"Golden Unicorn Restaurant 929fd1a3, 18 E Broadway, New York",40.7135024549,-73.9972087741
+35,2010-12-26 01:44:56,"Golden Unicorn Restaurant 929fd1a3, 18 E Broadway, New York",40.7135024549,-73.9972087741
+36,2010-12-26 01:19:04,"Golden Unicorn Restaurant 929fd1a3, 18 E Broadway, New York",40.7135024549,-73.9972087741
+37,2010-11-03 02:08:36,"Mile End Delicatessen, 97A Hoyt St, Brooklyn",40.6874355261,-73.9870753884
+38,2010-08-06 01:52:31,"Turntable Chicken Jazz, 314 5th Ave #F # 2, New York",40.7470972759,-73.9856917055
+39,2010-07-29 01:39:44,"KyoChon, 319 5th Ave, New York",40.7471899057,-73.985221982
+40,2010-05-14 01:17:42,"Grand Sichuan International, 229 9th Ave, New York",40.7471748924,-74.0007791158
+41,2010-02-18 19:31:33,"Ruszwurm Cukrszda, Szenthromsg u. 7, Budapest",47.5012515233,19.0330718875
+42,2010-02-18 18:34:05,"Buda Castle Hill Funicular, Clark dm tr 1., Budapest",47.4977689738,19.0391430259
+43,2010-02-18 18:32:48,"Buda Castle Hill Funicular, Clark dm tr 1., Budapest",47.4977689738,19.0391430259
+44,2010-02-13 19:49:01,"Traiteur Marocain, March des Enfants Rouges, Paris",48.8628854425,2.36189939304
+45,2010-02-06 13:50:28,"Le Mistral, 401 rue des Pyrnes, Paris",48.8739262314,2.38572737347
+46,2010-01-21 21:32:49,"La Paillote, Avenue de Font Brun, Carqueiranne",43.085072244,6.1047655963
+47,2009-09-30 03:43:03,"La Carreta, Concourse D, near Gate D37, Miami",25.7975729079,-80.2815198898
+48,2009-08-26 01:36:56,"Fascati Pizza, 80 Henry St, Brooklyn",40.6985333664,-73.9926865697
+49,2009-08-21 08:27:41,"Superfine, 126 Front St, Brooklyn",40.702369471,-73.9875124791
+50,2009-08-14 13:49:09,"Slinte, 304 Bowery, New York",40.7247392068,-73.9926128939
+51,2009-08-05 01:43:07,"Sunrise Mart, 494 Broome St, New York",40.72317,-74.002764

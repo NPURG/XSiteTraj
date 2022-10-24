@@ -1,0 +1,142 @@
+,time,poi,latitude,longitude
+0,2016-11-14 17:14:15,"Duke's Corner, 13 Brown St, Dundee",56.4597755931,-2.97898471355
+1,2016-11-14 17:13:07,"Lunchroom De Binnenstad, Emmasingel 35d, Eindhoven",51.4386567803,5.47503955826
+2,2016-11-06 20:12:39,"OR Espresso Bar, Walpoortstraat 26, Gent",51.0489421145,3.72700086028
+3,2016-09-14 03:15:12,"Caf Kadijk, Kadijksplein 5, Amsterdam",52.370253,4.911986
+4,2016-09-14 03:14:10,"Thuis aan de Amstel, Korte Ouderkerkerdijk 45, Amsterdam",52.3395789585,4.91490544551
+5,2016-09-14 03:11:49,"The Lobby, Fizeaustraat, Fizeaustraat 2, Amsterdam",52.345437,4.925445
+6,2016-09-07 01:46:29,"Caf Stalles, Nieuwe Binnenweg 11A, Rotterdam",51.9169200677,4.4721231087
+7,2016-08-15 15:03:33,"DUDU, Torstr. 134, Berlin",52.5293517668,13.3998656273
+8,2016-08-14 15:05:04,"Kater Bla, Holzmarktstr. 25, Berlin",52.5119685451,13.4252112229
+9,2016-08-14 15:02:13,"Tommi's Burger Joint, Invalidenstr. 160, Berlin",52.5324225848,13.3977305889
+10,2016-08-14 14:58:54,"Catalonia Berlin Mitte, Kpenicker Str. 80-82, Berlin",52.5115053988,13.4158344407
+11,2016-06-10 22:48:47,"Gys Amsterdamsestraatweg, Amsterdamsestraatweg 113, Utrecht",52.097305,5.105819
+12,2016-06-04 16:01:06,"Man met Bril Koffie, Vijverhofstraat 70, Rotterdam",51.930518,4.474122
+13,2016-05-28 15:41:09,"Restaurant In De Doelen, Schouwburgplein 52, Rotterdam",51.9214345155,4.47260176977
+14,2016-05-28 15:40:36,"Black Gold, Korte Koningstraat 13, Amsterdam",52.37181,4.903022
+15,2016-05-22 12:58:46,"El Petit Prncep, Gran Va de les Cortes Catalanes, 677, Barcelona",41.3962722657,2.17730909764
+16,2016-05-22 12:55:29,"Elisabets 1962, C. dels Elisabets, 2-4, Barcelona",41.383827938,2.16927116779
+17,2016-05-22 12:51:02,"33/45, C. Joaqun Costa, 4, Barcelona",41.381079,2.167409
+18,2016-05-10 01:10:08,"Blijburg Aan Zee, Pampuslaan 501, Amsterdam",52.3546020765,5.01743794463
+19,2016-05-10 01:09:03,"Mediamatic, Dijksgracht 6, Amsterdam",52.3765236969,4.91335666781
+20,2016-04-26 22:07:29,"Kam, Bosschstraat 31, Breda",51.5899469428,4.78141475834
+21,2016-04-12 17:28:14,"Ooteman, Oude Binnenweg 123a, Rotterdam",51.917200024,4.47382034154
+22,2016-04-09 18:09:02,"Cafe Vermeulen, Nieuwe Binnenweg 332-A, Rotterdam",51.912312,4.45568
+23,2016-04-03 03:09:05,"ONI Japanese Dining, Prinsestraat 35, Den Haag",52.0788512,4.3059403
+24,2016-03-30 15:04:11,"Mad About Malt Rotterdam, Voorburgstraat 209, Rotterdam",51.9333889461,4.46940011451
+25,2016-03-29 02:50:36,"SchatjePatatje, Ferdinand Bolstraat 48, Amsterdam",52.355958,4.890471
+26,2016-03-26 20:50:12,"Westhoff, Kruisweg 22/24, Haarlem",52.3876014435,4.63718588335
+27,2016-03-23 02:52:12,"Constantijn Automatiek, Eerste Constantijn Huygensstraat 84HS, Amsterdam",52.3632109165,4.874987
+28,2016-03-18 19:11:34,"De Schouw, Witte de Withstraat 80, Rotterdam",51.915378742,4.47621244976
+29,2016-03-18 19:10:29,"Hamburg, Witte de Withstraat 94b, Rotterdam",51.915199,4.475523
+30,2016-03-15 18:32:44,"Brouwerij 't IJ, Funenkade 7, Amsterdam",52.3667217129,4.92638111115
+31,2016-03-15 18:31:47,"Brouwcaf de Molen, Overtocht 43, Bodegraven",52.0856184829,4.74213277452
+32,2016-03-15 18:30:09,"Kaapse Brouwers, Veerlaan 19-D, Rotterdam",51.9023217773,4.48504233905
+33,2016-03-15 18:28:18,"Brouwerij Troost, Cornelis Troostplein 23, Amsterdam",52.3506155767,4.89102063478
+34,2016-03-15 18:25:23,"Brussels Beer Project, Rue Antoine Dansaert 188, Brussel",50.8528,4.34191
+35,2016-03-15 01:58:22,"Rembrandtpark, Orteliuskade, Amsterdam",52.3634673424,4.84664440155
+36,2016-03-15 01:54:48,"White Label Coffee, Jan Evertsenstraat 136, Amsterdam",52.370265,4.851639
+37,2016-03-13 20:54:28,"Netnigenough, Rue du Lombardstraat 25, Brussel",50.8460011549,4.34994829708
+38,2016-03-13 20:51:31,"Buurtboerderij Ons Genoegen, Spaarndammerdijk 319, Amsterdam",52.3908052144,4.86057732611
+39,2016-03-13 15:23:03,"Caf Capitale, Zuidstraat 45 Rue du Midi, Brussel",50.8464745094,4.35006482712
+40,2016-03-11 18:18:55,"Caf de Tribunal, Tongersestraat 1, Maastricht",50.846454254,5.68741804916
+41,2016-03-08 23:26:06,"Bokaal, Nieuwemarkt 11, Rotterdam",51.922463,4.487938
+42,2016-03-07 18:00:15,"House of Art, Prinzregentenstr. 1, Mnchen",48.1439472308,11.5858451639
+43,2016-03-07 17:54:53,"Hey Luigi!, Holzstr. 29, Mnchen",48.1288328531,11.5682065487
+44,2016-03-06 00:40:23,"EATALY, Viktualienmarkt 15, Mnchen",48.1344047786,11.5746067931
+45,2016-03-06 00:38:36,"House of Art, Prinzregentenstr. 1, Mnchen",48.1439472308,11.5858451639
+46,2016-03-04 05:03:17,"Zum Franziskaner, Residenzstr. 9, Mnchen",48.139317345,11.5772750974
+47,2016-03-04 04:53:42,"Mr. Mumble's - New Orleans Bar, Klenzestr. 5, Mnchen",48.1335511912,11.5789862705
+48,2016-03-02 19:41:38,"Wash-o-matic, Javastraat 23, Amsterdam",52.3636665,4.93247505
+49,2016-03-02 04:16:18,"Concerto Koffie, Utrechtsestraat 52, Amsterdam",52.3635635376,4.89830780029
+50,2016-03-01 17:57:33,"Restaurant Gachita, Weerwal 15, Purmerend",52.5102791874,4.94816033951
+51,2016-03-01 17:05:43,"Het Stadspaleis, Nieuwezijdse Voorburgwal 289, Amsterdam",52.3711254593,4.89071309566
+52,2016-03-01 17:02:21,"Oproer - Brewery, Brewpub & Vegan Restaurant, CAB Rondom 90A, Utrecht",52.1021116452,5.0894563428
+53,2016-02-19 16:21:46,"The Cube Hostel, Brusselsestraat 110, Leuven",50.8806070336,4.6953672801
+54,2016-02-19 04:28:47,"Maison Particulire (centre D'art), Rue du chtelain 49, Brussel",50.825413,4.361699
+55,2016-02-19 04:28:10,"Maison Particulire (centre D'art), Rue du chtelain 49, Brussel",50.825413,4.361699
+56,2016-02-18 15:14:07,"Wrst, Margarethaplein 1, Leuven",50.8799814183,4.70072412781
+57,2016-02-18 15:13:39,"STUKcaf, Naamsestraat 96, Leuven",50.8738217174,4.69968080521
+58,2016-02-18 15:11:25,"ARTEFACT, Names straat 96, Leuven",50.873768,4.699669
+59,2016-02-18 07:35:15,"MOK Specialty Coffee Roastery & Bar, Diestsestraat 165, Leuven",50.881467,4.709601
+60,2016-02-10 00:50:20,"Bteau Ivre, Oranienstr. 18, Berlin",52.5004813,13.4225001
+61,2016-02-09 07:33:32,"record shop BIG LOVE, 5eae4d2-31-3, 71ac",35.673359,139.709102
+62,2016-02-09 07:30:04,"Landgoed Boekesteyn, Noordereinde 56, s-Graveland",52.2520958384,5.12341044567
+63,2016-02-09 05:47:50,"De Machinist, Willem Buytewechstraat 45, Rotterdam",51.9078912176,4.46170883258
+64,2016-02-08 21:57:25,"Bagel Bakery & Burgers, Schilderstraat 57a-59a, Rotterdam",51.916366,4.481075
+65,2016-02-08 17:31:24,"do you read me?!, Auguststr. 28, Berlin",52.5272742532,13.3977880796
+66,2016-02-08 17:27:00,"Kraftwerk Berlin, Kpenicker Str. 70, Berlin",52.510408418,13.4200058578
+67,2016-02-08 17:25:04,"Zitrone, Dieffenbachstr. 56, Berlin",52.4924665689,13.417139
+68,2016-02-08 17:22:32,"Soup & Rolls, Kopernikusstr. 11, Berlin",52.5103314091,13.4536170959
+69,2016-02-08 17:20:29,"YAAM an der Schillingbrcke, An der Schillingbrcke, Berlin",52.5093366519,13.4305973023
+70,2016-02-08 17:19:25,"Michelberger Hotel, Warschauer Str. 39-40, Berlin",52.5046370837,13.4479227662
+71,2016-02-07 18:08:14,"Michelberger Hotel, Warschauer Str. 39-40, Berlin",52.5046370837,13.4479227662
+72,2016-02-06 05:15:40,"St. Oberholz, Rosenthaler Str. 72, Berlin",52.5295503485,13.4017406525
+73,2016-02-06 05:14:01,"frederics, Groe Hamburger Strae 23, Berlin",52.5238276601,13.3996315126
+74,2016-02-06 02:25:46,"LaBr, Hartmansstraat 18a, Rotterdam",51.9165737109,4.47797258639
+75,2016-02-06 02:25:12,"The Barn, Auguststr. 58, Berlin",52.5273352309,13.3979784891
+76,2016-02-06 02:24:46,"do you read me?!, Auguststr. 28, Berlin",52.5272742532,13.3977880796
+77,2016-02-06 02:24:07,"Dada Falafel, Linienstr. 132, Berlin",52.5263264257,13.388235569
+78,2016-02-06 02:23:43,"YamYam, Alte Schnhauser Str. 6, Berlin",52.5275568215,13.4082609415
+79,2016-02-03 01:36:57,"Hartje Oost, Javastraat 23, Amsterdam",52.3635998388,4.9324267622
+80,2016-02-02 02:14:19,"Brood & Sappies, Witte De Withstraat 39a, Rotterdam",51.9158083893,4.47774151194
+81,2016-02-01 16:57:23,"De Doffer, Runstraat 12-14, Amsterdam",52.3688524014,4.88361597061
+82,2016-02-01 01:51:47,"Hakata Senpachi, Wielingenstraat 16, Amsterdam",52.3443182785,4.88926569584
+83,2016-01-25 23:25:35,"Brood & Sappies, Witte De Withstraat 39a, Rotterdam",51.9158083893,4.47774151194
+84,2016-01-19 01:55:59,"Warung Mini, Witte de Withstraat 47, Rotterdam",51.915761,4.477288
+85,2016-01-14 04:57:35,"Sterk Amsterdam, De Clercqstraat 1-9, Amsterdam",52.3716691417,4.8740029335
+86,2016-01-04 15:40:59,"Rum Barrel, Javastraat 143, Amsterdam",52.3637814931,4.93805829662
+87,2016-01-01 21:04:59,"Tigris & Eufraat, Javastraat 20, Amsterdam",52.363555,4.932525
+88,2016-01-01 20:22:32,"De Stadskantine, Van Woustraat 120, Amsterdam",52.353845,4.902107
+89,2016-01-01 00:30:34,"Van Stapele Koekmakerij, Heisteeg 4, Amsterdam",52.3689175529,4.88852923649
+90,2015-12-28 21:01:06,"De Ysbreeker, Weesperzijde 23, Amsterdam",52.3574664634,4.90650767969
+91,2015-12-27 03:04:51,"Eetbar Het Concerthuis, Poelestraat 30, Groningen",53.2184247553,6.57055914402
+92,2015-12-27 00:15:03,"De Drie Gezusters, Grote Markt 36/39, Groningen",53.2183171521,6.56810760498
+93,2015-12-23 20:57:58,"Fritz Caftaria Extraordinaire, Witte de Withstraat 68a, Rotterdam",51.9156121814,4.47677779721
+94,2015-12-19 21:16:35,"Banketbakkerij Kwekkeboom, Linnaeusstraat 86, Amsterdam",52.3564141529,4.92736376491
+95,2015-12-16 15:45:35,"Amstelpark, Amstelpark, Amsterdam",52.3315103562,4.89380836487
+96,2015-12-15 15:46:23,"Figaro, Oude Binnenweg 53-A, Rotterdam",51.917792,4.476329
+97,2015-12-14 15:16:33,"Pho 91, Albert Cuypstraat 91, Amsterdam",52.355152,4.891251
+98,2015-12-07 16:42:03,"BAR, Schiekade 201, Rotterdam",51.92555677,4.47695517689
+99,2015-11-22 22:54:50,"Koning de Visspecialist, Nieuw Loopveld 10, Amstelveen",52.303303,4.861388
+100,2015-11-19 23:35:45,"Rum Barrel, Javastraat 143, Amsterdam",52.3637814931,4.93805829662
+101,2015-11-19 18:22:03,"Cannibale Royale, Handboogstraat 17-A, Amsterdam",52.367912,4.890271
+102,2015-11-17 06:10:57,"Oliva, Witte de Withstraat 15a, Rotterdam",51.916099536,4.47899450409
+103,2015-11-15 16:25:27,"Jardim da Fundao Calouste Gulbenkian, Av. de Berna, 45A, Lisboa",38.7367935423,-9.15351504973
+104,2015-11-15 16:22:00,"Koffie Leute Brauhaus, Westerkade 30, Utrecht",52.0794875197,5.12259828733
+105,2015-11-05 18:24:58,"Solar do Vinho do Porto, Rua S. Pedro de Alcantara, 45, Lisboa",38.7142630644,-9.1443157196
+106,2015-10-29 15:18:12,"Butcher's Tears, Karperweg 45, Amsterdam",52.3473,4.853831
+107,2015-10-29 15:17:08,"Oedipus Brewing, Gedempt Hamerkanaal 85, Amsterdam",52.383799387,4.92088200833
+108,2015-10-27 16:55:14,"Fbrica Coffee Roasters, R. das Portas de St. Anto, 136, Lisboa",38.717716678,-9.14179672146
+109,2015-10-06 22:15:15,"Simonis aan Zee, Strandweg 41, Den Haag",52.1147373899,4.28193492857
+110,2015-07-27 21:20:44," Mai, Utrechtsestraat 12, Amsterdam",52.365447998,4.89768266678
+111,2015-07-18 16:44:42,"Oedipus Brewing, Gedempt Hamerkanaal 85, Amsterdam",52.383799387,4.92088200833
+112,2015-07-16 16:37:18,"Vlaams Friteshuis Vleminckx, Voetboogstraat 33, Amsterdam",52.3678766317,4.89091868314
+113,2015-07-16 16:34:01,"Sir Hummus, Van der Helstplein 2, Amsterdam",52.3518647117,4.89470954604
+114,2015-03-06 12:10:02,"KISSA MASTER, 09611acc0fef71652d4b3a26, 2dac3a",35.0088243956,135.765179531
+115,2015-03-06 09:00:35,"Boulangerie Rauk, 0bac3a7f1e621a03610aeb8f2c3a422-2, acfd02",34.9897562704,135.755122304
+116,2015-03-06 08:58:06,"YELLOW APE CRAFT, 2d2e3aca4b2-4-9, 272a02",34.690596,135.505043
+117,2014-07-23 05:57:09,"De Biertuin, Linaeusstraat 29, Amsterdam",52.3621792222,4.92397984538
+118,2014-06-06 18:51:39,"Drover's Dog, Eerste Atjehstraat 62, Amsterdam",52.362410901,4.93502398404
+119,2014-04-19 16:29:07,"De IJssalon, Meent 69A, Rotterdam",51.922891,4.484067
+120,2014-03-18 10:23:59,"NDSM Wharf, Tt. Neveritaweg 61, Amsterdam",52.4001932497,4.89329338074
+121,2014-02-05 17:23:10,"Bedford Stuyvesant, Javastraat 55, Amsterdam",52.363824,4.933865
+122,2013-12-04 02:19:08,"Lef, Wijde Heisteeg 1, Amsterdam",52.3687164728,4.88742738962
+123,2013-12-02 21:57:49,"Bedford Stuyvesant, Javastraat 55, Amsterdam",52.363824,4.933865
+124,2013-11-22 17:55:58,"Moeder Lambic, Place Fontainasplein 8, Brussel",50.8450868173,4.34680402279
+125,2013-11-04 18:30:10,"Brouwerij Maximus, Pratumplaats 2 A, Utrecht",52.0884292656,5.04582321043
+126,2013-11-04 17:46:22,"BeerTemple, Nieuwezijds Voorburgwal 250, Amsterdam",52.3719246046,4.89046096802
+127,2013-10-06 16:13:47,"K20 Grabbeplatz, Grabbeplatz 5, Dsseldorf",51.2281406884,6.77613520759
+128,2013-09-25 16:27:08,"Drover's Dog, Eerste Atjehstraat 62, Amsterdam",52.362410901,4.93502398404
+129,2013-08-18 18:42:35,"Constantijn Automatiek, Eerste Constantijn Huygensstraat 84HS, Amsterdam",52.3632109165,4.874987
+130,2013-08-12 04:50:29,"Pllek, Tt. Neveritaweg 62, Amsterdam",52.3989667007,4.89322366695
+131,2013-08-06 03:15:15,"Nieuwe Diep, West Merwedekanaaldijk, Amsterdam",52.3607792354,4.9582407288
+132,2013-07-23 04:11:50,"Flevopark, Nieuwe Diep, Amsterdam",52.362759014,4.94887879269
+133,2013-05-25 03:05:42,"Het Badhuis, Javaplein 21, Amsterdam",52.363645,4.939691
+134,2013-04-24 19:46:28,"Luk's Schoenmakerij, Prinsengracht 500, Amsterdam",52.3639649,4.8855701
+135,2013-04-19 21:13:38,"Volendammer Vishandel Schilder, Javastraat 98, Amsterdam",52.36378534,4.93639647961
+136,2013-04-08 21:17:30,"LAB111, Arie Biemondstraat 111, Amsterdam",52.3634840599,4.86723121198
+137,2013-04-07 19:49:03,"Qahwa d'Or, Javaplein 27-A, Amsterdam",52.363559,4.939916
+138,2013-03-25 16:31:14,"Thai Tiger, Javaplein 7a, Amsterdam",52.3638080225,4.93985652924
+139,2013-03-20 21:45:03,"Van Kalken IJzerwaren, sumatrastraat 43, Amsterdam",52.3631894588,4.93578366667
+140,2013-02-13 22:35:18,"Hesp To Go, Overamstelstraat 1, Amsterdam",52.349979,4.91280596667

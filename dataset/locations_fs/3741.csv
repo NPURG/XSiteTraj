@@ -1,0 +1,46 @@
+,time,poi,latitude,longitude
+0,2013-09-14 02:45:03,"Whiskey Soda Lounge, 3131 SE Division St, Portland",45.5048881782,-122.632849216
+1,2013-09-14 02:44:25,"Pok Pok, 3226 SE Division St, Portland",45.5046212428,-122.632159889
+2,2012-08-10 01:57:23,"Salt & Straw, 3345 SE Division St, Portland",45.5048080619,-122.630545785
+3,2012-06-19 01:27:16,"Mary Brown's, Freshwater Road, St. John's",47.5633211416,-52.7254768468
+4,2012-06-19 01:26:45,"Gracie Joe19s Cafe, 123 Quidi Vidi Rd., St. John's",47.5753242376,-52.6970171928
+5,2012-06-19 01:26:35,"Fred's Records, Duckworth Street, St. John's",47.5676192921,-52.7040563009
+6,2012-06-19 01:25:35,"Rennie's River Walking Trail, Rennie's River, St. John's",47.5760180168,-52.710485129
+7,2012-06-19 01:25:17,"Yellowbelly Brewery and Public House, 288 Water St, St. John's",47.56214,-52.709638
+8,2012-06-19 01:24:54,"India Gate, 286 Duckworth St, St. John's",47.5655210013,-52.7066863018
+9,2012-06-19 01:24:02,"Rocket Bakery, 272 Water St, St. John's",47.5623950644,-52.708868387
+10,2012-06-19 01:23:41,"Signal Hill, 230 Signal Hill Rd, St. John's",47.5705492252,-52.6813866722
+11,2012-05-22 04:58:47,"Yank Sing, 49 Stevenson St, San Francisco",37.7900637587,-122.399425125
+12,2012-05-22 04:57:35,"Rosamunde Sausage Grill, 545 Haight St, San Francisco",37.7719105221,-122.431053221
+13,2012-05-22 04:57:12,"Toronado, 547 Haight St, San Francisco",37.7719274835,-122.431029081
+14,2012-05-22 04:56:31,"Unionmade, 493 Sanchez St, San Francisco",37.7612589786,-122.430508339
+15,2012-05-22 04:56:09,"Azalea Boutique, 411 Hayes St, San Francisco",37.776837945,-122.423251
+16,2012-05-22 04:55:45,"Smitten Ice Cream, 432 Octavia St #1A, San Francisco",37.7762864165,-122.424194813
+17,2012-03-18 04:12:04,"Stumptown Coffee Roasters, 616 E Pine St, Seattle",47.6153561764,-122.323767543
+18,2012-02-07 08:59:25,"Tortas Frontera by Rick Bayless, Terminal 1, Concourse B, Chicago",41.9800012159,-87.9066127545
+19,2011-12-03 06:17:45,"Kenny & Zuke's Delicatessen, 1038 SW Stark St, Portland",45.5221683595,-122.68198788
+20,2011-10-11 04:59:16,"Pottery Road Trailhead, 100 Pottery Road, Toronto",43.685025069,-79.3623160818
+21,2011-10-11 04:54:46,"Zeitgeist, 199 Valencia St, San Francisco",37.7701168394,-122.422108054
+22,2011-10-11 04:52:02,"USS Pampanito, Pier 45, San Francisco",37.8097008508,-122.416311862
+23,2011-09-28 03:55:48,"The Nabob, 819 5th Ave N, Seattle",47.62689784,-122.347583
+24,2011-09-28 01:58:51,"The Stockyards, 699 St. Clair Ave. W, Toronto",43.6815484985,-79.4262761717
+25,2011-09-28 01:54:26,"Ground Kontrol Classic Arcade, 511 NW Couch St, Portland",45.5239181576,-122.675869167
+26,2011-09-28 01:53:42,"Clyde Common, 1014 SW Stark St, Portland",45.5219882001,-122.681426704
+27,2011-09-28 01:53:04,"Stumptown Coffee Roasters, 1026 SW Stark St., Portland",45.5222546751,-122.681697916
+28,2011-09-28 01:52:08,"Tasty 'N Sons, 3808 N Williams Ave, Portland",45.5499301306,-122.666496658
+29,2011-09-28 01:51:14,"Portland Bicycle Studio, 1435 NW Raleigh St, Portland",45.5343410387,-122.686386108
+30,2011-08-27 02:10:10,"Frank Restaurant, 407 Colorado St, Austin",30.2665964687,-97.7445958882
+31,2011-08-27 02:08:40,"Little Skillet, 360 Ritch St, San Francisco",37.7788358846,-122.394020574
+32,2011-08-27 02:07:15,"Homestead, 2301 Folsom St, San Francisco",37.760402,-122.414771
+33,2011-08-27 02:06:54,"The Independent, 628 Divisadero St, San Francisco",37.7755609947,-122.437719215
+34,2011-08-27 02:06:26,"Papalote Mexican Grill, 3409 24th St, San Francisco",37.7519528216,-122.420965433
+35,2011-08-27 02:06:15,"Four Barrel Coffee, 375 Valencia St, San Francisco",37.7670243868,-122.421958607
+36,2011-08-27 02:05:29,"Thieves' Tavern, 496 14th St, San Francisco",37.76809,-122.424204
+37,2011-08-27 02:04:20,"Mission Dolores Park, Dolores St, San Francisco",37.7600334649,-122.426891655
+38,2011-08-27 02:04:05,"Beretta, 1199 Valencia St, San Francisco",37.7537892209,-122.420708717
+39,2011-08-27 02:03:12,"The Page, 298 Divisadero St, San Francisco",37.7720928562,-122.437053323
+40,2011-08-27 02:02:50,"Ritual Coffee Roasters, 1026 Valencia St, San Francisco",37.756501,-122.421146
+41,2009-11-25 05:43:29,"Utopia Cafe & Grill, 586 College St., Toronto",43.655521,-79.413526
+42,2009-11-25 05:41:54,"Mother India, 1456 Queen St W, Toronto",43.64068,-79.436275
+43,2009-10-26 21:34:15,"Sam James Coffee Bar, 297 Harbord St, Toronto",43.660363,-79.415451
+44,2009-06-05 01:30:44,"Rose Center for Earth and Space, 200 Central Park W, New York",40.7814603812,-73.9732088324

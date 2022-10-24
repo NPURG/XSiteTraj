@@ -1,0 +1,62 @@
+,time,poi,latitude,longitude
+0,2016-09-10 02:47:32,"Upper Left Roasters, 1204 SE Clay St, Portland",45.5114436913,-122.653282775
+1,2016-09-03 01:47:11,"HOTLIPS Pizza - Hawthorne, 2211 SE Hawthorne Blvd, Portland",45.5123324558,-122.643158553
+2,2016-09-03 01:46:54,"Spielman Coffee Roasters, 2111 SE Division St, Portland",45.5048706248,-122.644117988
+3,2016-09-03 01:46:15,"Coava Coffee, 2631 SE Hawthorne Blvd, Portland",45.5121443224,-122.638553691
+4,2016-09-03 01:45:42,"Lechon, 113 SW Naito Pkwy, Portland",45.5212915437,-122.670662994
+5,2016-09-03 01:45:11,"Pepino's Mexican Grill, 3832 SE Hawthorne Blvd, Portland",45.5119343459,-122.623712094
+6,2014-03-12 02:53:57,"Saxon Pub, 3600 Presidential Blvd Ste 201, Austin",30.2022896643,-97.6649391923
+7,2013-06-25 22:15:17,"Sarabeth's, 339 Greenwich St, New York",40.7181942933,-74.0105574644
+8,2013-04-25 04:39:36,"John's of Bleecker Street, 278 Bleecker St, New York",40.7317211503,-74.003246704
+9,2013-04-18 05:15:38,"Elements Massage, 316 A Sunrise Hwy, Rockville Centre",40.6566281301,-73.6427590847
+10,2013-03-12 12:57:19,"Mojo's BBQ, 95 Brewery Ln, Portsmouth",43.0693893895,-70.7692050934
+11,2012-09-10 22:33:54,"Manchester-Boston Regional Airport (MHT), 1 Airport Rd, Manchester",42.9279460902,-71.437899608
+12,2012-07-14 09:16:00,"Thirsty Moose Tap House, 21 Congress St, Portsmouth",43.076797534,-70.7586666942
+13,2012-07-06 23:47:49,"franchise solutions, 222 International Dr, Portsmouth, NH 03801, Portsmouth",43.0751136616,-70.8027478523
+14,2012-06-09 12:28:32,"Sun And Surf, 265 Long Sands Rd, Town of York",43.1590356932,-70.6210781271
+15,2012-04-29 04:16:25,"Shio, 2454 Lafayette Rd, Portsmouth",43.0347290939,-70.7845795155
+16,2012-02-17 13:12:59,"The Works Bakery Cafe, 9 Congress St, Portsmouth",43.076823,-70.75819
+17,2012-02-17 13:12:28,"NH Liquor Store 6, 738 Islington St, Portsmouth",43.0693710221,-70.7715172284
+18,2012-02-16 22:43:39,"The Exchange, 96 Brewery Ln, Portsmouth, NH 03801, Portsmouth",43.0698220015,-70.7690790156
+19,2012-01-25 23:55:08,"STREET, 801 Islington St, Portsmouth",43.0691137368,-70.7732768386
+20,2012-01-25 12:07:43,"Gary's Beverages, 165 Deer St, Portsmouth",43.077007167,-70.7629609108
+21,2012-01-25 12:07:23,"C'est Cheese, 61 Lafayette Rd, Hampton",42.9751930733,-70.8299693249
+22,2012-01-25 12:06:59,"Rudi's Portsmouth, 20 High St, Portsmouth",43.077203085,-70.7584118843
+23,2012-01-25 12:06:20,"Black Trumpet Bistro, 29 Ceres St, Portsmouth",43.078618,-70.757537
+24,2012-01-25 12:06:02,"Cava, 10 Commercial Aly, Portsmouth",43.0777058184,-70.7570568108
+25,2012-01-25 12:05:34,"The Exchange, 96 Brewery Ln, Portsmouth, NH 03801, Portsmouth",43.0698220015,-70.7690790156
+26,2011-12-24 04:45:14,"Sake Japanese Cuisine, 141 Congress St, Portsmouth",43.0759435387,-70.7602683403
+27,2011-11-28 21:24:14,"Popovers on the Square, 8 Congress St, Portsmouth",43.0766114107,-70.7581597567
+28,2011-11-28 21:23:21,"Caffe Kilim, 163 Islington St, Portsmouth",43.0744119301,-70.7638050621
+29,2011-11-13 02:55:01,"NH Liquor Store 6, 738 Islington St, Portsmouth",43.0693710221,-70.7715172284
+30,2011-11-07 12:02:27,"NH Liquor Store 6, 738 Islington St, Portsmouth",43.0693710221,-70.7715172284
+31,2011-11-07 12:01:51,"STREET, 801 Islington St, Portsmouth",43.0691137368,-70.7732768386
+32,2011-11-07 12:01:07,"Flatbread Company, 138 Congress St, Portsmouth",43.075957125,-70.7601167
+33,2011-08-25 19:00:09,"RiverRun Bookstore, 142 Fleet St, Portsmouth",43.0766780233,-70.75928092
+34,2011-08-25 18:59:38,"Starbucks, 120 Laconia Rd Ste 100, Tilton",43.4578015746,-71.5635020252
+35,2011-05-30 03:41:27,"Indian Head Resort, 664 US Route 3, Lincoln",44.0841633423,-71.6844284534
+36,2011-05-15 23:13:25,"Cafe Monte Alto, Main Street, Plymouth",43.757791,-71.687678
+37,2011-05-15 23:12:32,"The Main Street Station, 105 Main St, Plymouth",43.7584940688,-71.6876146586
+38,2011-05-01 22:46:12,"Wild Meadow Canoe And Kayaks, 12-98 Whittier Hwy, moultonboro",43.70989616,-71.4598702333
+39,2011-02-27 03:22:27,"Texas Toast Eatery/Pig's Ear BBQ, 6 Inn Seasons Dr, Lincoln",44.0429976118,-71.6686985569
+40,2011-02-15 02:38:31,"Loon Mountain Rustics, 25 South Mountain Dr, Lincoln",44.0430923729,-71.6696749188
+41,2010-12-17 10:23:09,"Hebert's, 1500 Lafayette Rd, Portsmouth",43.0441461595,-70.774269883
+42,2010-12-10 20:21:00,"Market Basket, 1465 Woodbury Ave, Portsmouth",43.087454714,-70.7874405838
+43,2010-12-01 02:01:04,"Lumina Salon, 328A Main St, Reading",42.5174269893,-71.1034883328
+44,2010-10-27 07:14:04,"Ruby Tuesday, 1574 Woodbury Ave, Portsmouth",43.0890353707,-70.7915425301
+45,2010-09-10 09:07:14,"Roundabout Diner & Lounge, 580 US 1 Bypass, Portsmouth",43.0735469176,-70.7789621337
+46,2010-08-26 05:50:35,"Hannaford Supermarket, 800 Islington St, Portsmouth",43.06772777,-70.77139378
+47,2010-08-23 04:54:15,"Mojo's BBQ, 95 Brewery Ln, Portsmouth",43.0693893895,-70.7692050934
+48,2010-08-23 01:41:00,"Boston Common, Tremont St, Boston",42.3551148917,-71.0647236389
+49,2010-08-22 00:20:01,"Kenzo Salon, 5 Central Sq, Stoneham",42.479258,-71.09992535
+50,2010-08-22 00:18:51,"Kenzo Salon, 5 Central Sq, Stoneham",42.479258,-71.09992535
+51,2010-08-22 00:17:52,"Gary's Beverages, 165 Deer St, Portsmouth",43.077007167,-70.7629609108
+52,2010-08-22 00:15:03,"Mojo's BBQ, 95 Brewery Ln, Portsmouth",43.0693893895,-70.7692050934
+53,2010-07-09 07:32:31,"Lexie's Joint, 212 Islington St, Portsmouth",43.0737199202,-70.7646819791
+54,2010-06-17 00:57:04,"Caffe Kilim, 163 Islington St, Portsmouth",43.0744119301,-70.7638050621
+55,2010-05-31 21:46:56,"Poco's Bow Street Cantina, 37 Bow St, Portsmouth",43.0785857845,-70.757167153
+56,2009-08-01 23:18:48,"The Friendly Toast, 121 Congress St, Portsmouth",43.0762038966,-70.759935379
+57,2009-06-08 04:24:11,"Rick's Cafe and Grille, 143 Main St, Kingston",42.9320552205,-71.0539060064
+58,2009-06-07 05:51:07,"Andala Coffee House, 286 Franklin St, Cambridge",42.36486978,-71.105735
+59,2009-06-07 05:47:28,"Union Oyster House, 41 Union St, Boston",42.3613198053,-71.0569409699
+60,2009-06-07 05:45:03,"Poe's Kitchen at the Rattlesnake, 384 Boylston St, Boston",42.3516501443,-71.0720532348

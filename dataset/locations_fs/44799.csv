@@ -1,0 +1,112 @@
+,time,poi,latitude,longitude
+0,2016-08-24 04:44:04,"InterContinental San Francisco, 888 Howard Street, San Francisco",37.7818982215,-122.404586017
+1,2016-06-12 08:47:35,"Farmstead Table, 71 Union St, Newton",42.3296828296,-71.1926212929
+2,2016-05-04 00:13:04,"La Brasa, 124 Broadway, Somerville",42.3878452476,-71.0844952558
+3,2016-02-24 09:54:50,"BMW Gallery of Norwood, 918 Providence Highway, Norwood",42.1810005004,-71.1882585285
+4,2016-01-10 06:27:25,"Bernardi Toyota, 1626 Worcester Rd, Framingham",42.2958021585,-71.4715361595
+5,2016-01-04 23:06:09,"Atomic Caf, 265 Cabot St, Beverly",42.5503755306,-70.8782313203
+6,2015-10-31 10:21:48,"The Frogmore, 365 Centre St, Jamaica Plain",42.3223628651,-71.108205998
+7,2015-07-08 00:16:57,"El Colectivo, C. del Pintor Fortuny, 22, Barcelona",41.3828376869,2.16939112634
+8,2015-06-26 03:36:59,"Le Mridien Mnchen, Bayerstr. 41, Mnchen",48.1389862132,11.5579605103
+9,2015-02-06 11:53:35,"Gaslight, 560 Harrison Ave, Boston",42.3409943736,-71.0674512157
+10,2015-02-06 11:52:15,"All Star Sandwich Bar, 1245 Cambridge St, Cambridge",42.3733627257,-71.0981032797
+11,2015-02-06 11:51:49,"Union Square Donuts, 20 Bow St, Somerville",42.3808412369,-71.0970529538
+12,2015-02-06 11:50:31,"The Haven, 2 Perkins St, Boston",42.3218048636,-71.1104516569
+13,2014-07-16 22:20:02,"South Station Terminal (MBTA / Amtrak), 700 Atlantic Ave, Boston",42.3514267179,-71.0554845629
+14,2014-07-16 22:18:48,"Boston Logan Taxi Stand, Logan Airport, Boston",42.3662999679,-71.0184391259
+15,2014-03-19 00:34:45,"Pavement Coffeehouse, 286 Newbury St, Boston",42.3488789439,-71.0844182968
+16,2014-03-05 18:52:45,"Boston Logan International Airport (BOS), 1 Harborside Dr, Boston",42.3646964,-71.0181141004
+17,2014-03-03 01:00:27,"Starbucks, 142-148 Brookline Ave, Boston",42.3443586103,-71.1014457349
+18,2013-12-31 01:20:03,"Bagel Caf, 373 Hanover St, Manchester",42.9906518612,-71.450474616
+19,2013-12-24 02:18:12,"Commonwealth Books, 2 Milk St, Boston",42.3575930088,-71.0580555076
+20,2013-12-05 07:50:38,"B Spot Burgers, 28699 Chagrin Blvd, Woodmere",41.463022537,-81.4763259888
+21,2013-12-01 23:26:43,"Beverly Tree Farm, 300 Dodge St, Beverly",42.5893178327,-70.865144565
+22,2013-10-24 07:01:04,"Chick-fil-A Harvard Park, 4001 Richmond Rd, Warrensville Heights",41.4481549169,-81.4970336894
+23,2013-10-04 08:35:51,"Powell's City of Books, 1005 W Burnside St, Portland",45.5232145766,-122.681392736
+24,2013-09-22 02:47:07,"Pavement Coffeehouse, 1096 Boylston St, Boston",42.3470393385,-71.088334322
+25,2013-08-17 09:55:52,"ImprovBoston, 40 Prospect St, Cambridge",42.366048,-71.103235
+26,2013-05-15 16:13:49,"Paris Charles de Gaulle Airport (CDG), Route de la Commune, Roissy-en-France",49.006826919,2.54908561707
+27,2013-05-15 14:40:24,"Paris Charles de Gaulle Airport (CDG), Route de la Commune, Roissy-en-France",49.006826919,2.54908561707
+28,2013-05-05 15:19:27,"Bukowski Tavern, 50 Dalton St, Boston",42.3476169536,-71.0856616758
+29,2013-03-31 09:12:27,"Cotton, 75 Arms St, Manchester",42.9931595385,-71.4675664902
+30,2013-03-17 10:05:51,"Boloco, 569 Boylston St, Boston",42.35023,-71.0762892
+31,2013-03-03 13:05:23,"JM Curley, 21 Temple Pl, Boston",42.3553729183,-71.0623094281
+32,2013-01-21 02:15:17,"B&M, 120 rue Saint-Viateur Ouest, Montral",45.5241818341,-73.6004029156
+33,2013-01-14 22:18:19,"Pavement Coffeehouse, 286 Newbury St, Boston",42.3488789439,-71.0844182968
+34,2012-12-23 11:16:39,"Park, 59 JFK St, Cambridge",42.3718496974,-71.1208209833
+35,2012-12-12 05:47:06,"Kowloon, 948 Broadway, Saugus",42.467609705,-71.0248947144
+36,2012-11-08 16:55:04,"No.1 Traveller Lounge, Terminal 3, Hounslow",51.4695601966,-0.459625805474
+37,2012-10-22 02:52:22,"The Lansdowne Pub, 9 Lansdowne St., Boston",42.3472145187,-71.0951321851
+38,2012-10-22 02:06:26,"Pavement Coffeehouse, 1096 Boylston St, Boston",42.3470393385,-71.088334322
+39,2012-10-13 01:15:58,"Clerk Of Family Court, 1133 Chestnut St, Philadelphia",39.950351021,-75.1597111303
+40,2012-10-12 05:23:42,"Kimpton Hotel Monaco Philadelphia, 433 Chestnut St, Philadelphia",39.949351,-75.148629
+41,2012-07-22 22:51:00,"South End Open Market @ Ink Block, 375 Harrison Ave, Boston",42.3444463548,-71.0647630692
+42,2012-06-11 01:42:58,"Duckfat, 43 Middle St, Portland",43.6601383189,-70.2503363085
+43,2012-05-14 07:13:43,"Shaw's, 246 Border St, East Boston",42.3764107938,-71.040389369
+44,2012-04-27 10:39:05,"The Charlesmark Hotel & Lounge, 655 Boylston St, Boston",42.3499260031,-71.0784774042
+45,2012-04-23 20:32:07,"Arnold Worldwide, 10 Summer St, Boston",42.355432101,-71.0601443052
+46,2012-04-22 03:53:35,"Tune Inn Restaurant & Bar, 331 Pennsylvania Ave SE, Washington",38.8863787998,-77.001051895
+47,2012-04-21 01:43:18,"Kimpton Hotel Rouge, 1315 16th St NW, Washington",38.9082540518,-77.0361328125
+48,2012-03-02 22:36:54,"Arnold Worldwide, 10 Summer St, Boston",42.355432101,-71.0601443052
+49,2012-01-05 22:55:05,"Dunkin' Donuts, 800 Boylston St Prudential Ctr Unit 023, Boston",42.3467068296,-71.0824409558
+50,2011-12-23 06:35:35,"Bukowski Tavern, 50 Dalton St, Boston",42.3476169536,-71.0856616758
+51,2011-10-20 04:34:52,"Coat of Arms Pub and Restaurant, 174 Fleet St, Portsmouth",43.077181625,-70.7597583532
+52,2011-10-11 01:10:01,"The Social Media Lounge at Arnold Worldwide, 101 Huntington Ave, Fl 17, Boston",42.347322,-71.081727
+53,2011-10-11 01:06:50,"Arnold Worldwide, 10 Summer St, Boston",42.355432101,-71.0601443052
+54,2011-10-04 23:35:48,"The Social Media Lounge at Arnold Worldwide, 101 Huntington Ave, Fl 17, Boston",42.347322,-71.081727
+55,2011-08-14 08:23:45,"Jacob Wirth Restaurant, 31-37 Stuart St, Boston",42.3511154877,-71.0639227724
+56,2011-08-13 10:48:47,"Back Bay Social Club, 867 Boylston St, Boston",42.3483980319,-71.0832011641
+57,2011-08-05 07:58:20,"Pour House Bar & Grill, 907 Boylston St, Boston",42.3482465856,-71.0842841864
+58,2011-05-27 08:21:38,"Dillon's, 955 Boylston St, Boston",42.347895402,-71.0860040571
+59,2011-05-18 08:07:08,"Ronald Reagan Washington National Airport (DCA), 2401 S Smith Blvd, Arlington",38.8540540738,-77.0426078567
+60,2011-05-07 10:45:38,"Washington Dulles International Airport (IAD), 1 Saarinen Cir, Dulles",38.9514315644,-77.4488155145
+61,2011-05-01 01:54:54,"Hill Holliday, 53 State St, Boston",42.3586315521,-71.0565872273
+62,2011-04-25 18:54:28,"Boston Logan International Airport (BOS), 1 Harborside Dr, Boston",42.3646964,-71.0181141004
+63,2011-03-10 22:29:55,"Modernista!, 109 Kingston St, Boston",42.35253173,-71.059624
+64,2011-02-24 22:50:27,"Modernista!, 109 Kingston St, Boston",42.35253173,-71.059624
+65,2011-01-23 10:41:53,"Good Life, 28 Kingston St, Boston",42.3534392516,-71.059169772
+66,2010-10-08 09:06:22,"Coogan's, 171 Milk St, Boston",42.3585597735,-71.0532832146
+67,2010-09-26 03:01:14,"Boston Tea Stop, 58 JFK St, Cambridge",42.3720255673,-71.1206759191
+68,2010-09-25 09:04:22,"Jacob Wirth Restaurant, 31-37 Stuart St, Boston",42.3511154877,-71.0639227724
+69,2010-08-12 00:22:48,"Yuki Asian Grill, 377 S Willow St, Manchester",42.9663311099,-71.45226717
+70,2010-08-08 07:44:47,"Blue Hills Bank Pavilion, 290 Northern Ave, Boston",42.34855,-71.036315
+71,2010-07-06 06:15:59,"Boston Sail Loft, 80 Atlantic Ave, Boston",42.36257955,-71.050638
+72,2010-06-02 09:54:18,"Republic Caf & Bistro, 1069 Elm St, Manchester",42.9933220897,-71.4629158429
+73,2010-05-29 10:34:29,"Kings Boston, 50 Dalton St, Boston",42.3469450789,-71.0853479922
+74,2010-05-26 10:29:13,"Segway Inc. World Headquarters, 14 Technology Dr, Bedford",42.9282466583,-71.4572924158
+75,2010-05-25 10:16:53,"The Wild Rover Pub, 21 Kosciuszko St, Manchester",42.9939420799,-71.4616810155
+76,2010-05-24 12:56:21,"Audubon Boston, 838 Beacon St, Boston",42.3474056673,-71.1031343606
+77,2010-05-23 13:00:30,"Red Arrow Diner, 61 Lowell St, Manchester",42.9935321894,-71.4613911493
+78,2010-05-23 11:19:28,"Republic Caf & Bistro, 1069 Elm St, Manchester",42.9933220897,-71.4629158429
+79,2010-05-22 11:37:14,"J.J. Foley's Cafe, 117 E Berkeley St, Boston",42.3436682439,-71.065385223
+80,2010-05-02 06:40:08,"Boston Beer Works, 61 Brookline Ave, Boston",42.3470175325,-71.0989370942
+81,2010-05-01 12:59:46,"Audubon Boston, 838 Beacon St, Boston",42.3474056673,-71.1031343606
+82,2010-04-30 23:57:19,"Emerson College - Walker Building, 120 Boylston St, Boston",42.3522411524,-71.0656811945
+83,2010-03-16 23:08:20,"Downtown Wine & Spirits, 225 Elm St, Somerville",42.3947523,-71.121282
+84,2010-03-03 03:09:15,"Emerson College Fitness Center, 80 Boylston St, Boston",42.3524437197,-71.0647932794
+85,2010-02-27 08:28:18,"The Field, 20 Prospect St, Cambridge",42.3658610342,-71.1035424471
+86,2010-02-27 08:19:17,"The Field, 20 Prospect St, Cambridge",42.3658610342,-71.1035424471
+87,2010-02-15 12:03:21,"Seoul, 156 Cambridge St. Beacon Hill, Boston",42.3611787613,-71.0647584591
+88,2010-02-15 12:00:24,"21st Amendment, 150 Bowdoin St, Boston",42.3582443551,-71.0627388801
+89,2010-02-15 11:58:24,"Simmon's Liquor, 210 Cambridge St, Boston",42.3608711364,-71.0663950072
+90,2010-02-15 11:56:09,"Harvard Gardens, 316 Cambridge St, Boston",42.3611860888,-71.0691109662
+91,2010-02-15 07:46:18,"Boloco Concord, 10 Fort Eddy Rd, Concord",43.2098443705,-71.5313333273
+92,2010-02-15 04:02:53,"AMC Loews Boston Common 19, 175 Tremont St, Boston",42.3532318205,-71.0638125081
+93,2010-02-12 08:26:08,"Emerson College - Caf, 80 Boylston St, Boston",42.3525228876,-71.0648571165
+94,2010-02-08 00:48:32,"Dimond Library, 18 Library Way, Durham",43.1355218794,-70.9330880856
+95,2010-02-07 16:34:59,"Gables Caf Store, 40 Gables Way, Durham",43.1439257598,-70.9365247478
+96,2010-02-07 16:34:39,"Gables Caf Store, 40 Gables Way, Durham",43.1439257598,-70.9365247478
+97,2010-02-06 13:35:43,"The Knot, 58 Main St, Durham",43.1344782964,-70.9268653393
+98,2010-02-06 03:45:39,"South Station Terminal (MBTA / Amtrak), 700 Atlantic Ave, Boston",42.3514267179,-71.0554845629
+99,2010-02-01 16:10:05,"Primo's Restaurant, 28 Myrtle St, Boston",42.3594561097,-71.0657102113
+100,2010-02-01 16:08:38,"Cafe Podima, 168 Cambridge St, Boston",42.3613188933,-71.0650312176
+101,2010-02-01 04:43:21,"Pavement Coffeehouse, 286 Newbury St, Boston",42.3488789439,-71.0844182968
+102,2010-01-29 11:51:08,"Emerson College - Iwasaki Library, 120 Boylston St, Boston",42.3523919361,-71.0657798516
+103,2010-01-26 01:13:50,"My Thai Vegan Cafe, 3 Beach St, Boston",42.3515538888,-71.0628665549
+104,2010-01-20 10:42:02,"Whole Foods Market, 181 Cambridge St, Boston",42.3616700823,-71.0657972617
+105,2010-01-20 09:10:27,"Dunkin' Donuts, 80 Boylston St, Boston",42.3524978783,-71.0646714085
+106,2010-01-20 06:28:27,"Boloco, 2 Park Plz, Boston",42.3523439167,-71.0672521591
+107,2010-01-16 08:03:39,"Primo's Restaurant, 28 Myrtle St, Boston",42.3594561097,-71.0657102113
+108,2010-01-10 12:14:33,"Dunkin' Donuts, 921 Beech St, Manchester",43.0073656999,-71.457760334
+109,2010-01-10 03:25:02,"Bagel Caf, 373 Hanover St, Manchester",42.9906518612,-71.450474616
+110,2009-12-06 13:41:31,"Beacon Hill Pub, 149 Charles St, Boston",42.3605100226,-71.0706662509

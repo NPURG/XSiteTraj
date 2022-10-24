@@ -1,0 +1,63 @@
+,time,poi,latitude,longitude
+0,2016-04-10 14:53:05,"Caf de la Fontaine, 70, avenue de la Valle-des-Baux, Maussane",43.720989,4.805307
+1,2016-02-04 15:23:36,"Sardinia, Kdumim Square, Old Jaffa, Jaffa",32.053976,34.751472
+2,2016-02-04 15:22:38,"Dancing Camel, 12 HaTa'asiya St, eadc d0d1d9d1-d9e4d5",32.0672442914,34.7866555501
+3,2015-12-10 02:51:28,"Chicago Williams BBQ, Hannoversche Str. 2, Berlin",52.527142,13.385805
+4,2015-09-11 20:38:53,"Workshop Coffee Co., 80a Mortimer St, London",51.5174855991,-0.142412776468
+5,2015-09-03 20:01:44,"Homeslice, 52 Wells St, London",51.5184740919,-0.139947558271
+6,2015-09-03 17:57:45,"Store Street Espresso, 40 Store St, London",51.5202197664,-0.13080060482
+7,2015-03-10 18:34:06,"Kaffeine, 15 Eastcastle St, London",51.5167577308,-0.137187240049
+8,2014-11-06 18:16:19,"Brother Hubbard North, 153 Capel St, Dublin",53.347118,-6.268387
+9,2014-11-05 23:46:57,"Taphouse, 60 Ranelagh, Dublin",53.3251908485,-6.25422785823
+10,2014-10-25 18:20:17,"Coffee@33, 33 Trafalgar St, Brighton",50.828295,-0.138769
+11,2014-10-08 17:36:24,"Rapha Cycle Club, 85 Brewer St, Soho",51.5107323331,-0.136685371399
+12,2014-10-07 17:24:08,"Shake Shack, 24 The Market Building, London",51.5117639619,-0.122756659985
+13,2014-10-07 17:19:05,"Tommi's Burger Joint, 30 Thayer St., Marylebone",51.517705069,-0.151456924286
+14,2014-10-05 20:24:42,"The Craft Beer Co., 168 High Holborn, Covent Garden",51.5157021842,-0.126137762808
+15,2014-10-01 23:55:25,"Prufrock Coffee, 23-25 Leather Ln, London",51.52004,-0.109356
+16,2014-09-22 04:28:46,"Proeflokaal Arendsnest, Herengracht 90, Amsterdam",52.3767257222,4.88929688931
+17,2014-09-22 04:27:23,"Bierproeflokaal In de Wildeman, Kolksteeg 3, Amsterdam",52.3761951177,4.89514559096
+18,2014-09-22 04:20:08,"The Euston Tap, 190 Euston Rd, London",51.5270219942,-0.132479667664
+19,2014-09-22 04:13:36,"The White Horse, 1-3 Parsons Green Ln., Greater London",51.4743633505,-0.200548768044
+20,2014-09-22 04:10:34,"The Craft Beer Co., 82 Leather Ln, Clerkenwell",51.5212511803,-0.109742581844
+21,2014-09-22 04:07:54,"The Harp, 47 Chandos Pl, Covent Garden",51.5095103736,-0.125768780708
+22,2014-09-21 23:04:25,"Zeller Bistro, Izabella u. 36-38., Budapest",47.505186,19.070667
+23,2014-09-19 22:43:20,"Espresso Embassy, Arany Jnos u. 15., Budapest",47.501953064,19.0497350693
+24,2014-09-19 16:50:47,"My Little Melbourne Coffee, Madch Imre t 3., Budapest",47.4978287747,19.0576422215
+25,2014-09-17 20:26:16,"Fernando's, 55A St. Martin's Ln, London",51.510836,-0.127005
+26,2014-02-28 02:04:02,"Coutume Caf, 47 rue de Babylone, Paris",48.8517300936,2.31834785008
+27,2013-11-01 00:15:44,"Third Floor Espresso (3FE), 32-34 Lwr Grand Canal St, Dublin",53.33998,-6.242084
+28,2012-06-22 19:25:47,"Trafalgar Wines, 23 Trafalgar St, Brighton",50.8282223033,-0.13801574707
+29,2012-06-22 19:23:49,"Utility, 28A North Rd, Brighton",50.8257210189,-0.139095502914
+30,2012-05-29 16:29:49,"London Victoria Railway Station (VIC), Buckingham Palace Rd, London",51.4949868753,-0.144733408672
+31,2012-01-16 16:18:58,"EAT., at North Terminal, Crawley",51.1607333126,-0.17926134562
+32,2011-09-27 18:08:43,"Homestead, 2301 Folsom St, San Francisco",37.760402,-122.414771
+33,2011-09-27 18:08:13,"Coffee Bar, 1890 Bryant St, San Francisco",37.7631240298,-122.410998344
+34,2011-09-27 18:08:01,"Four Barrel Coffee, 375 Valencia St, San Francisco",37.7670243868,-122.421958607
+35,2011-09-27 18:07:48,"Healthy Spirits, 2299 15th St, San Francisco",37.765686661,-122.435282394
+36,2011-09-27 18:07:08,"Mission Cheese, 736 Valencia St, San Francisco",37.761173234,-122.421538292
+37,2011-09-20 04:39:04,"Workshop Coffee Co., 1 Barrett St, Marylebone",51.5151658343,-0.150048136711
+38,2011-09-13 05:01:41,"TAP Coffee, 26 Rathbone Pl, Fitzrovia",51.5177913452,-0.134279429913
+39,2011-07-19 21:27:54,"De Bierkoning, Paleisstraat 125, Amsterdam",52.3724269686,4.88981087906
+40,2011-07-19 21:27:36,"BeerTemple, Nieuwezijds Voorburgwal 250, Amsterdam",52.3719246046,4.89046096802
+41,2011-07-19 21:27:01,"Screaming Beans, Hartenstraat 12, Amsterdam",52.3723651108,4.88616406918
+42,2011-06-06 20:53:09,"Silverbar, Wiedner Hauptstrasse 12, Wien",48.1973872455,16.3672414648
+43,2011-06-06 20:52:49,"Das Triest, Wiedner Hauptstrae 12, Wien",48.1973557875,16.3670520428
+44,2011-06-06 20:52:06,"1516 The Brewing Company, Schwarzenbergstr. 2, Wien",48.2034039057,16.3730835915
+45,2011-06-06 20:19:11,"Brewed Boy, Rupert St, London",51.5121723646,-0.133714442856
+46,2011-06-06 20:18:55,"TAP Coffee, 26 Rathbone Pl, Fitzrovia",51.5177913452,-0.134279429913
+47,2011-06-06 20:18:34,"Prufrock Coffee, 23-25 Leather Ln, London",51.52004,-0.109356
+48,2011-06-06 20:17:57,"Pimlico Fresh, 86 Wilton Rd, London",51.492438,-0.140163
+49,2011-06-02 02:52:42,"Umar Fisch, Naschmarkt 76-79, Wien",48.1997162224,16.3655192895
+50,2011-05-19 02:36:27,"Nupur indian restaurant, 122 High street, Hurstpierpoint",50.9322314198,-0.174210120253
+51,2011-05-18 01:07:32,"Business Shark, Terminal A, Warszawa",52.1717521061,20.9721407886
+52,2011-05-15 03:20:39,"Hotel Toren, Keizersgracht 164, Amsterdam",52.3759246874,4.88591819344
+53,2011-03-19 21:26:59,"Notes Music & Coffee, 31 St Martins Ln, London",51.5095905031,-0.126847028732
+54,2010-03-29 20:38:53,"CASK Pub And Kitchen, 6 Charlwood St., Pimlico",51.4910835262,-0.137386769056
+55,2010-03-26 20:37:40,"The Ginger Fox, Muddleswood Rd, Hassocks",50.913315,-0.214845
+56,2009-11-19 17:24:48,"Neal's Yard Dairy, 6 Park St, Greater London",51.505470329,-0.0917100906372
+57,2009-11-19 17:20:35,"Monmouth Coffee Company, 2 Park St, Greater London",51.5055170753,-0.0912487506866
+58,2009-11-18 05:45:10,"Greensmiths, 27 Lower Marsh, London",51.5008571369,-0.112297232001
+59,2009-10-22 00:24:28,"The Florence, 131-133 Dulwich Rd, Herne Hill",51.4526926586,-0.102877819594
+60,2009-10-19 18:16:06,"The Espresso Room, 31-35 Great Ormond St., London",51.5219187497,-0.119819641113
+61,2009-10-17 06:31:22,"The Rake, 14a Winchester Walk, Greater London",51.5061681804,-0.0909966230392

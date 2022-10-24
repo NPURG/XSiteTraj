@@ -1,0 +1,68 @@
+,time,poi,latitude,longitude
+0,2016-08-28 08:12:37,"Dosa Hutt, 4563 Bowne St, Flushing",40.7524211822,-73.8168897848
+1,2016-07-11 05:27:39,"King Arthur Flour, 135 US Route 5 S, Norwich",43.7028080995,-72.3116147518
+2,2016-06-06 02:10:46,"Sauvage, 905 Lorimer Street, New York",40.723505,-73.951858
+3,2016-05-26 09:15:29,"Belle Shoals, 10 Hope St, Brooklyn",40.7137796751,-73.9577117259
+4,2016-05-20 21:46:09,"The West14Coffeehouse & Bar, 379 Union Ave, Brooklyn",40.7116588581,-73.9513690326
+5,2016-04-09 04:19:45,"klub4kidz, 159 N 4th St, Brooklyn",40.7157327925,-73.9587736045
+6,2016-04-09 04:19:24,"klub4kidz, 159 N 4th St, Brooklyn",40.7157327925,-73.9587736045
+7,2015-12-31 00:54:29,"Swanton Berry Farm, 25 Swanton Rd, Davenport",37.0306471792,-122.218457764
+8,2015-12-31 00:53:23,"perch coffee house, 440 Grand Ave, Oakland",37.8087264388,-122.253089454
+9,2015-11-12 02:49:35,"Big Apple Circus, 70 Lincoln Center Plz, New York",40.7722408063,-73.9851981453
+10,2015-11-04 03:35:18,"Radegast Hall & Biergarten, 113 N 3rd St, Brooklyn",40.7165343771,-73.9614483645
+11,2015-10-18 08:16:11,"Olive Tree Cafe, 117 Macdougal St, New York",40.730188,-74.000373
+12,2015-10-18 08:14:38,"Qi Thai Grill, 176 N 9th St, Brooklyn",40.718733885,-73.9562997054
+13,2015-10-13 07:20:25,"The Roundhouse at Beacon Falls, 2 E Main St, Beacon",41.5026637393,-73.962546587
+14,2015-08-09 17:11:27,"Hotel Rival, Mariatorget 3, Stockholm",59.318183,18.063667
+15,2015-08-09 17:10:28,"Hotel Rival, Mariatorget 3, Stockholm",59.318183,18.063667
+16,2015-08-07 03:16:42,"Nobel Peace Center, Brynjulf Bulls plass 1, Oslo",59.9115891538,10.7308316231
+17,2015-08-07 03:16:18,"Kviknes Hotel, Kviknevegen 8, Balestrand",61.2091791019,6.53790929223
+18,2015-08-07 03:15:38,"Sognefjord Akvarium, Holmen 2, Balestrand",61.2101883311,6.53628114
+19,2015-08-07 03:13:44,"Food Factory @ Bergen Airport (BGO), Bergen Lufthavn, Flesland, Flesland",60.2890497159,5.22728431588
+20,2015-08-07 03:12:42,"Caffe Prego, c/o Quality Hotel Sogndal, Sogndal",61.232108,7.103816
+21,2015-08-07 03:11:51,"Bjrns Trdgrd, Bjrns Trdgrd, Stockholm",59.3151880386,18.0734589294
+22,2015-08-07 03:10:25,"Bruno Gtgatsbacken, Gtgatan 36, Stockholm",59.31693,18.0714516181
+23,2015-08-07 03:09:55,"Marie Lavea, Hornsgatan 66, Stockholm",59.3185055031,18.059199212
+24,2015-07-23 20:40:02,"Drop Coffee, Wollmar Yxkullsgatan 10, Stockholm",59.316836,18.062894
+25,2015-07-23 20:37:11,"Designmuseum Danmark, Bredgade 68, Kbenhavn",55.6867166309,12.5923492085
+26,2015-07-23 20:35:44,"Restaurant BROR, SANKT PEDERS STRDE 24A, Kbenhavn",55.6790222489,12.5681121531
+27,2015-07-23 20:34:51,"Geist, Kongens Nytorv 8, Kbenhavn",55.6813594404,12.5863216418
+28,2015-07-23 20:34:05,"Junibacken, Galrvarvsvgen, Stockholm",59.3294462448,18.0889892578
+29,2015-07-23 20:33:05,"Fotografiska, Stadsgrdshamnen 22, Stockholm",59.3179873623,18.0850064514
+30,2015-07-23 20:31:39,"Louisiana Museum of Modern Art, Gl. Strandvej 13, Humlebk",55.9693583207,12.5421971083
+31,2015-07-22 06:06:33,"Atelier September, Gothersgade 30, Kbenhavn",55.6820539534,12.5829763744
+32,2015-07-19 00:23:49,"Nytorget, Nytorgsgatan, Stockholm",59.3125530191,18.083217144
+33,2015-07-18 05:29:10,"Mariatorget, Mariatorget, Stockholm",59.3182306317,18.0628918232
+34,2015-01-11 04:46:17,"Neue Galerie, 1048 5th Ave, New York",40.781252283,-73.9603310823
+35,2014-10-31 05:35:49,"Spectacle Theater, 124 S 3rd St, Brooklyn",40.71259,-73.962725
+36,2014-09-21 08:52:24,"Meadowsweet, 149 Broadway, Brooklyn",40.7103108275,-73.9632621291
+37,2014-08-31 09:10:48,"Dosa Delight, 35-66 73rd St, Jackson Heights",40.749106,-73.892782
+38,2014-08-24 04:35:49,"De Mole, 4502 48th Ave, Woodside",40.7393651504,-73.9203700754
+39,2014-08-17 05:29:08,"Pete's Candy Store, 709 Lorimer St, Brooklyn",40.718086853,-73.9501842856
+40,2014-08-11 02:03:41,"Spritzenhaus 33, 33 Nassau Ave, Brooklyn",40.7232177517,-73.9527511597
+41,2014-08-03 06:15:48,"Cafe Colette, 79 Berry St, Brooklyn",40.7197100679,-73.9578093042
+42,2014-05-26 04:06:02,"Delaware and Hudson, 135 N 5th St, Brooklyn",40.7169890658,-73.9593172073
+43,2013-08-07 09:39:49,"San Francisco International Airport (SFO), N McDonnell Rd, San Francisco",37.6170589622,-122.385357226
+44,2013-05-18 21:23:21,"Bakeri, 150 Wythe Ave, Brooklyn",40.7200038713,-73.9600896835
+45,2013-04-20 05:19:23,"Mountain Sun Pub & Brewery, 1535 Pearl St, Boulder",40.018909,-105.275186
+46,2012-08-05 00:29:05,"Warma Cafe, 442 Lorimer St, Ste B, Brooklyn",40.710266,-73.9488
+47,2012-08-05 00:26:26,"The West14Coffeehouse & Bar, 379 Union Ave, Brooklyn",40.7116588581,-73.9513690326
+48,2012-02-15 09:02:53,"Roebling Tea Room, 143 Roebling St, Brooklyn",40.714482,-73.957302
+49,2012-02-15 09:02:07,"DuMont Burger, 314 Bedford Ave, Brooklyn",40.7136000418,-73.9619189501
+50,2012-02-15 09:01:41,"Brooklyn Bowl, 61 Wythe Ave, Brooklyn",40.7219178735,-73.9575452688
+51,2012-02-15 09:01:02,"Full Circle Bar, 318 Grand St, Brooklyn",40.712702011,-73.9566555815
+52,2012-02-15 09:00:48,"Barcade, 388 Union Ave, Brooklyn",40.7120718032,-73.951082028
+53,2012-01-08 05:50:36,"Mary Boone Gallery, 541 W 24th St, New York",40.7492381391,-74.0055421062
+54,2011-08-16 10:09:06,"Blue Bottle Coffee, 160 Berry St, Brooklyn",40.7173793922,-73.96058321
+55,2011-08-16 09:08:17,"Third Rail Coffee, 240 Sullivan St, New York",40.7298279778,-73.9998292923
+56,2011-08-16 09:07:58,"Abrao, 81 E 7th St, New York",40.7272425063,-73.9860990644
+57,2011-08-16 09:07:31,"Birch Coffee, 21 E 27th St, New York",40.7434834249,-73.986351697
+58,2011-08-16 08:54:45,"Little Branch, 20 7th Ave S, New York",40.7301613175,-74.0049093962
+59,2011-08-16 08:47:52,"Berthillon, 31 rue Saint-Louis-en-l'le, Paris",48.8517407542,2.35673904419
+60,2011-08-16 08:38:15,"Huckleberry Bar, 588 Grand St, Brooklyn",40.7111312913,-73.9483267619
+61,2011-03-19 08:53:04,"Endless Summer Taco Truck, Metropolitan Ave, Brooklyn",40.6839949376,-73.9710852286
+62,2010-05-06 14:16:49,"Loving Cup, 2356 Polk St, San Francisco",37.79856,-122.42237845
+63,2009-09-12 12:19:40,"Papalote Mexican Grill, 3409 24th St, San Francisco",37.7519528216,-122.420965433
+64,2009-07-21 00:07:55,"Caf Grumpy, 224 W 20th St, New York",40.7427878188,-73.9983574053
+65,2009-03-15 03:46:08,"Whole Foods Market, 525 N Lamar Blvd., Austin",30.2706357754,-97.7535565486
+66,2009-03-15 03:44:43,"Halcyon Coffee, Bar & Lounge, 218 W 4th St, Austin",30.2669534786,-97.7456940251

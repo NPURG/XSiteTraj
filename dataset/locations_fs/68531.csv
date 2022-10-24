@@ -1,0 +1,127 @@
+,time,poi,latitude,longitude
+0,2016-11-12 02:40:29,"Tim Ho Wan, Concession 12A, 1/F, MTR Hong Kong Station, 2db0",22.28503029,114.158348404
+1,2016-09-12 23:10:44,"Bosq, 312 S Mill St, Aspen",39.188571,-106.819733
+2,2016-09-04 03:02:25,"Attari Sandwich Shop, 1388 Westwood Blvd, Los Angeles",34.0555434656,-118.441458053
+3,2016-07-15 02:59:01,"Mama Hong's, 11819 Wilshire Blvd, Los Angeles",34.0480384066,-118.462926358
+4,2016-07-15 02:57:46,"Sweet Rose Creamery, 225 26th St, Santa Monica",34.0471480062,-118.490381241
+5,2016-07-15 02:57:02,"Erewhon Natural Foods Market, 585 Venice Blvd, Venice",33.9897741242,-118.461991028
+6,2016-05-29 03:53:45,"Wexler's Deli, 616 Santa Monica Blvd, Santa Monica",34.018189414,-118.492741585
+7,2016-04-01 22:59:23,"Gjusta, 320 Sunset Ave, Venice",33.9951332178,-118.474520598
+8,2016-03-04 11:19:24,"Mom's Bar & Lounge, 12238 Santa Monica Blvd, Los Angeles",34.039623,-118.464997
+9,2016-03-04 11:17:43,"Father's Office, 1018 Montana Ave, Santa Monica",34.0293699777,-118.498447904
+10,2016-02-29 04:33:15,"Blue Bottle Coffee, 1103 Abbot Kinney Blvd, Venice",33.9918438778,-118.470420219
+11,2016-02-17 10:27:16,"CP Burger, 433 E Durant Ave, Aspen",39.1871470602,-106.819517143
+12,2016-02-17 10:25:46,"Victoria's Espresso, 510 E Durant Ave, Aspen",39.1873624503,-106.818888187
+13,2015-12-30 13:06:46,"Shanghai No. 1 Seafood Village, 250 W Valley Blvd, San Gabriel",34.0789062188,-118.103389414
+14,2015-12-27 02:22:33,"Dudley Market, 9 Dudley Ave, Venice",33.994326,-118.479563
+15,2015-09-30 03:39:45,"Philz Coffee, 525 Santa Monica Blvd, Santa Monica",34.0176815509,-118.493680966
+16,2015-09-30 03:31:32,"DomaineLA, 6801 Melrose Ave, Los Angeles",34.0837154931,-118.340907023
+17,2015-09-23 06:16:46,"Honor Bar, 122 S Beverly Dr, Beverly Hills",34.0662173239,-118.399123624
+18,2015-09-08 10:26:05,"T.J. Maxx, 1527 Montauk Hwy, Bridgehampton",40.9343159615,-72.3143154799
+19,2015-09-08 10:23:40,"Jack's Wife Freda, 224 Lafayette St, New York",40.7220259674,-73.9972727905
+20,2015-09-08 10:22:30,"Whitney Museum of American Art, 99 Gansevoort St, New York",40.7395219222,-74.0089335127
+21,2015-08-30 00:59:54,"Milo and Olive, 2723 Wilshire Blvd, Santa Monica",34.03740437,-118.476111889
+22,2015-08-01 08:36:04,"Harlowe, 7321 Santa Monica Blvd, West Hollywood",34.0909181949,-118.349519235
+23,2015-07-20 10:14:26,"The River Cafe, Isla Ro Cuale L-4, Pto Vallarta",20.6055916939,-105.236309767
+24,2015-07-20 10:13:05,"Caf des Artistes, Guadalupe Snchez 740, Pto Vallarta",20.6117461605,-105.232219747
+25,2015-07-20 00:50:50,"Blue Bottle Coffee, 8301 Beverly Blvd, Los Angeles",34.0761510598,-118.370080612
+26,2015-07-02 04:41:46,"Kings Deli, 109 N Pass Ave, Burbank",34.149597168,-118.342834473
+27,2015-06-28 14:27:20,"Cassia, 1314 7th St, Santa Monica",34.0198092372,-118.49353271
+28,2015-06-09 07:28:04,"E.P & L.P., 603 N LA Cienega Blvd, West Hollywood",34.0821608289,-118.376774073
+29,2015-06-01 20:54:31,"The Duck Blind, 1102 Montana Ave, Santa Monica",34.0297974387,-118.497780769
+30,2015-06-01 20:53:37,"Randy's Donuts, 805 W Manchester Blvd, Inglewood",33.9617631499,-118.370320201
+31,2015-06-01 20:50:39,"China Chilcano, 418 7th St NW, Washington",38.8952881973,-77.0219553698
+32,2015-06-01 20:49:48,"The Kimpton Donovan Hotel, 1155 14th St NW, Washington",38.90508,-77.031592
+33,2015-05-24 06:19:53,"Guisados, 8935 Santa Monica Blvd, West Hollywood",34.0843963623,-118.385246277
+34,2015-05-13 05:05:26,"New York Bagel Co, 11640 W San Vicente Blvd, Brentwood",34.053659,-118.46320732
+35,2015-05-13 05:04:06,"Starbucks, 1520 W Olive Ave, Burbank",34.168000497,-118.321997425
+36,2015-05-13 05:03:25,"Continental Gourmet Sausage Co., 6406 San Fernando Rd, Glendale",34.1661058707,-118.288299668
+37,2015-05-13 05:01:15,"Tapia Brothers, 5251 Hayvenhurst Ave, Encino",34.1664147448,-118.492751512
+38,2015-05-13 05:00:34,"MAMA HONG'S Vietnamese Kitchen, 211 N San Fernando Blvd, Burbank",34.181671,-118.310168
+39,2015-05-13 04:59:54,"Jon & Vinny's, 412 N Fairfax Ave, Los Angeles",34.078653089,-118.361332489
+40,2015-05-13 04:59:25,"Jon & Vinny's, 412 N Fairfax Ave, Los Angeles",34.078653089,-118.361332489
+41,2015-04-27 05:20:08,"Mainland Poke Shop, 8318 1/2 W 3rd St, Los Angeles",34.0726861665,-118.370753964
+42,2015-04-21 05:51:05,"Peter Luger Steak House, 178 Broadway, Brooklyn",40.710044192,-73.9624757839
+43,2015-04-21 05:45:37,"Barney Greengrass, 541 Amsterdam Ave, New York",40.7879399055,-73.9749076987
+44,2015-04-21 05:44:59,"Ess-a-Bagel, 831 3rd Ave, New York",40.7562564853,-73.9704653614
+45,2015-04-13 01:37:44,"Dinette, 1606 W Sunset Blvd, Los Angeles",34.0768549562,-118.257713022
+46,2015-04-10 12:59:09,"Blossom Vietnamese, 426 S Main St, Los Angeles",34.0475750282,-118.247754194
+47,2015-04-10 12:58:10,"Go Get Em Tiger, 230 N Larchmont Blvd, Los Angeles",34.0756465557,-118.323567122
+48,2015-04-10 12:57:38,"Weddington Golf And Tennis, 4141 Whitsett Ave, Studio City",34.1460063084,-118.405684708
+49,2015-04-10 12:56:40,"Caffe Luxxe - Brentwood, 11975 San Vicente Blvd, Brentwood",34.0525638054,-118.47176041
+50,2015-04-10 12:55:59,"Asahi Ramen, 2027 Sawtelle Blvd, Los Angeles",34.0401693294,-118.443206549
+51,2015-04-10 12:54:53,"Las Fuentes, 18415 Vanowen St, Reseda",34.1940023052,-118.53435874
+52,2015-04-10 12:53:30,"HomeState, 4624 Hollywood Blvd, Los Angeles",34.0999894152,-118.290052367
+53,2015-04-10 12:52:11,"Silver Lake Ramen, 2927 W Sunset Blvd, Los Angeles",34.083517,-118.273649
+54,2015-03-18 15:13:19,"Ramen Champ, 727 N Broadway, Los Angeles",34.0613510296,-118.239616534
+55,2015-03-18 15:12:21,"Nonna's Empanadas, 8570 W 3rd St, Los Angeles",34.0735683411,-118.379256236
+56,2015-02-25 15:02:07,"Sunset Padel Sports Club, 5115 W Sunset Blvd, Los Angeles",34.098467,-118.301039
+57,2015-01-17 08:49:00,"Erewhon Natural Foods Market, 7660 Beverly Blvd, Los Angeles",34.0758612158,-118.356657028
+58,2015-01-10 12:28:31,"Best Buy, 1501 N Victory Pl, Burbank",34.18926333,-118.3274746
+59,2014-12-31 06:12:42,"NENI Restaurant Berlin, Budapester Str. 40, Berlin",52.5056166647,13.3379602432
+60,2014-12-31 06:11:59,"Helmut Newton Stiftung, Jebensstr. 2, Berlin",52.5077775834,13.332270262
+61,2014-12-30 10:56:24,"Wirtshaus Max und Moritz, Oranienstr. 162, Berlin",52.5027078049,13.4140221653
+62,2014-12-30 10:55:57,"Michelberger Hotel, Warschauer Str. 39-40, Berlin",52.5046370837,13.4479227662
+63,2014-12-30 10:55:22,"Kirk Bar, Skalitzer Str. 75, Berlin",52.5007436039,13.4405753408
+64,2014-12-30 02:46:34,"Monkey Bar, Budapester Str. 40, Berlin",52.505538299,13.3380246162
+65,2014-12-28 01:58:41,"Andante Coffee Roasters, 7623 Beverly Blvd, Los Angeles",34.0763128656,-118.356344772
+66,2014-12-07 02:46:28,"Intelligentsia Coffee & Tea, 3922 W Sunset Blvd, Los Angeles",34.0921350189,-118.280245967
+67,2014-12-06 00:44:37,"Robata JINYA, 8050 W 3rd St, Los Angeles",34.0720712,-118.3656661
+68,2014-11-21 01:52:49,"Caffe Luxxe, Brentwood Country Mart, Santa Monica",34.047356,-118.490359783
+69,2014-11-21 01:51:50,"Sqirl Kitchen, 720 N Virgil Ave, Los Angeles",34.0845205839,-118.2867639
+70,2014-10-06 00:47:43,"Alfred Coffee & Kitchen, 8428 Melrose Pl Ste A, Los Angeles",34.0834207,-118.3743244
+71,2014-09-24 03:52:40,"Tony's Darts Away, 1710 W Magnolia Blvd, Burbank",34.174484,-118.326917
+72,2014-08-22 00:00:36,"Corner Cottage, 310 S Victory Blvd, Burbank",34.1707432503,-118.314839424
+73,2014-07-24 11:36:57,"Nob, 22706 Pacific Coast Hwy, Malib",34.0389576973,-118.669697592
+74,2014-07-24 03:45:57,"Daikokuya, 327 E 1st St, Los Angeles",34.0498506802,-118.240318958
+75,2014-07-24 03:45:11,"Tarzana Armenian Deli And Grocery, 18598 Ventura Blvd, Tarzana",34.16963,-118.538646
+76,2014-07-24 03:44:43,"Larchmont Village Wine & Cheese, 223 N Larchmont Blvd, Los Angeles",34.0753159126,-118.323755485
+77,2014-07-11 01:06:19,"Alta CA, 1420 Market St, San Francisco",37.7761255928,-122.418109341
+78,2014-07-10 09:56:04,"Crema, 2862 Larimer St, Denver",39.7611599009,-104.981809271
+79,2014-07-10 09:55:37,"Nozawa | BAR, 212 N Canon Dr, Beverly Hills",34.0681297367,-118.398513144
+80,2014-07-10 09:54:55,"Genghis Cohen, 740 N Fairfax Ave, Los Angeles",34.0850184207,-118.361130953
+81,2014-07-10 09:52:48,"Tarzana Armenian Deli, 11288 Ventura Blvd, Studio City",34.1403426989,-118.375701312
+82,2014-07-10 09:51:06,"Salt Air, 1616 Abbot Kinney Blvd, Venice",33.989676,-118.463647
+83,2014-07-10 09:49:54,"Reddi Chick, 225 26th St, Brentwood",34.0476080453,-118.490523398
+84,2014-07-10 09:49:09,"Din Tai Fung Dumpling House #3, 171 Caruso Ave, Glendale",34.1430792193,-118.255063482
+85,2014-07-10 09:47:51,"Pot at the Line Hotel, 3515 Wilshire Blvd, Los Angeles",34.0617737411,-118.301030591
+86,2014-07-10 09:47:14,"ROC Sawtelle, 2049 Sawtelle Blvd, Los Angeles",34.0397679492,-118.442690103
+87,2014-07-10 09:46:33,"Cafe Stella, 3932 W Sunset Blvd, Los Angeles",34.0921308304,-118.280415153
+88,2014-07-10 09:45:22,"The Pit BBQ, 207 E Alameda Ave, Burbank",34.174923,-118.299571
+89,2014-07-10 09:44:01,"Fresh Corn Grill, 8714 Santa Monica Blvd, West Hollywood",34.087211,-118.380249
+90,2014-07-10 09:42:56,"Cafecito Organico, 534 N Hoover St, Los Angeles",34.0806,-118.28426
+91,2014-07-10 09:41:31,"St. Regis Executive Club, 21 Jianguomen Outer Ave, 17ac02",39.9086324596,116.434641161
+92,2014-07-10 09:39:28,"China Bar 17acae5227, 2 Jianguomen Outer St, 17ac02",39.9061828722,116.453035799
+93,2014-07-10 09:38:09,"Caf Kitsun, 5752713-17-1, 71ac",35.6648102717,139.714164734
+94,2014-07-10 09:37:13,"IZAKAYA VIN, 5384421-5-7, 71ac",35.6581091392,139.699130952
+95,2014-07-10 09:36:51,"LATTEST-OMOTESANDO EspressoBar, 5eae4d3-5-2, 71ac",35.6687949478,139.712386821
+96,2014-07-10 09:35:20,"Tender Greens, 325 N San Fernando Blvd, Burbank",34.1825320984,-118.311226059
+97,2014-07-10 09:34:44,"Porto's Bakery & Cafe, 3614 W Magnolia Blvd, Burbank",34.1677999436,-118.346637132
+98,2014-07-10 09:33:59,"King's Highway at Ace Hotel & Swim Club, 701 E Palm Canyon Dr, Palm Springs",33.8010135307,-116.539664729
+99,2014-07-09 23:55:19,"El Jefe, 1800 E Palm Canyon Dr, Palm Springs",33.801811,-116.527552
+100,2014-07-09 23:51:58,"Los Balcones del Per, 1360 Vine St, Los Angeles",34.0960478783,-118.326484
+101,2014-07-09 23:49:20,"The Fresh Ketch, 2435 Venice Dr E, South Lake Tahoe",38.935019,-120.002936683
+102,2014-06-25 23:28:55,"Abura Soba Tokyo Aburagumi Sohonten, 0b373-18-10, 0b373a",35.6571918721,139.704163401
+103,2014-06-22 22:05:08,"The Big Smoke Bistro, 57 Xingfucun Zhongl, 17ac02",39.9353147823,116.438606042
+104,2014-05-28 13:01:17,"California Chicken Cafe, 6805 Melrose Ave, Los Angeles",34.0835916996,-118.34097035
+105,2014-05-18 06:25:10,"California Chicken Cafe, 15601 Ventura Blvd, Encino",34.1551641164,-118.473365307
+106,2014-05-14 12:53:40,"Il Piccolino, 350 N Robertson Blvd, West Hollywood",34.078054,-118.383693695
+107,2014-02-01 14:52:12,"Melrose Umbrella Co, 7465 Melrose Ave, Los Angeles",34.0836588983,-118.352730274
+108,2013-12-22 10:04:41,"Hugo's Restaurant, 8401 Santa Monica Blvd, West Hollywood",34.090799,-118.372897
+109,2013-10-03 13:43:35,"The Fonda Theatre, 6126 Hollywood Blvd, Los Angeles",34.101277683,-118.323271573
+110,2013-09-22 03:18:44,"The Buffet at Wynn, 3131 Las Vegas Blvd S, Las Vegas",36.1265119119,-115.165637996
+111,2013-08-11 12:55:32,"China Beach, Sea Cliff Ave, San Francisco",37.7880898629,-122.491185665
+112,2013-07-25 00:46:41,"Crossroads Kitchen, 8284 Melrose Ave, Los Angeles",34.0835537704,-118.370217565
+113,2013-06-29 00:40:31,"Casa Dorada Los Cabos, Resort & Spa, Av. El Pescador S/N, Cabo San Lucas",22.8879202008,-109.904920461
+114,2013-06-15 14:22:00,"Bar Marmont, 8171 W Sunset Blvd, Los Angeles",34.0981024504,-118.367405
+115,2013-04-11 12:00:04,"Sushi Sasabune, 11917 Wilshire Blvd, Los Angeles",34.0467335634,-118.464500439
+116,2012-12-31 04:16:27,"Hollywood Farmer's Market, Ivar Ave, Los Angeles",34.0997687656,-118.32865284
+117,2012-12-20 16:10:25,"The Darkroom, 7302 Melrose Ave, Los Angeles",34.0834598,-118.34888
+118,2012-09-23 11:35:12,"Hot N Juicy Crawfish, 4810 Spring Mountain Rd, Las Vegas",36.1265927553,-115.20634088
+119,2012-09-14 16:21:45,"Supperclub, 6675 Hollywood Blvd, Los Angeles",34.1019306537,-118.33566606
+120,2012-09-04 11:15:54,"Sushi Ike, 6051 Hollywood Blvd, Los Angeles",34.1019604981,-118.321951761
+121,2012-08-25 13:22:17,"Catch, 21 9th Ave, New York",40.7402295202,-74.0059093681
+122,2012-03-10 03:13:10,"Fox Rent A Car Seattle, 3150 S 160th St, SeaTac",47.4614546,-122.2938358
+123,2012-01-22 00:37:45,"Parc 55 San Francisco - A Hilton Hotel, 55 Cyril Magnin St, San Francisco",37.7849772338,-122.408645963
+124,2011-01-14 07:40:41,"Vincent Lee Bicycle Repair, 6004 Fountain Ave, Los Angeles",34.0942869579,-118.321563616
+125,2010-10-16 05:09:03,"Mel's Burger Bar, 2850 Broadway, New York",40.8045185292,-73.9662926852

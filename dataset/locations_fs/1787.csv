@@ -1,0 +1,119 @@
+,time,poi,latitude,longitude
+0,2016-09-10 07:26:28,"Clinton St. Baking Co. & Restaurant, 4 Clinton St, New York",40.7213262347,-73.9839757173
+1,2016-09-10 07:25:44,"Driftless Cafe, 118 W Court St, Viroqua",43.556317,-90.8900447
+2,2016-09-10 07:24:54,"Grandad Bluff, 3020 Grandad Bluff Road, La Crosse",43.8125784426,-91.2096891998
+3,2016-09-10 07:24:34,"Freighthouse Restaurant, 107 Vine St, La Crosse",43.8157929844,-91.25318185
+4,2016-09-10 07:23:38,"The Charmant Hotel, 101 State St, La Crosse",43.8146519425,-91.2540698289
+5,2016-09-10 07:19:18,"People's Food Co-op, 315 5th Ave S, La Crosse",43.8092494011,-91.2497798833
+6,2016-09-10 07:18:28,"Festival Foods, 2500 State Rd, La Crosse",43.7949675097,-91.2183493813
+7,2016-09-10 07:17:24,"The Blue Door Pub Longfellow, 3448 42nd Ave S, Minneapolis",44.9397865567,-93.2130225721
+8,2016-09-10 07:11:30,"Black Iron Burger, 540 E 5th St, New York",40.7241799343,-73.9827532815
+9,2016-09-10 07:10:52,"AT&T, 144 Delancey Street, New York",40.71832058,-73.98669113
+10,2016-08-01 10:32:19,"Mikey's Burger, 134 Ludlow St, New York",40.7202940272,-73.9882513117
+11,2016-08-01 10:30:53,"El Luchador Taqueria, 132 Ludlow, New York",40.7201349065,-73.9882857457
+12,2016-08-01 10:29:54,"La Esquina, 114 Kenmare St, New York",40.7214492219,-73.9976137877
+13,2016-08-01 10:27:52,"Whole Foods Market, 95 East Houston St, New York",40.7237891915,-73.9915856354
+14,2016-08-01 10:27:05,"Sauce Restaurant, 78 Rivington St, New York",40.7204380915,-73.98954258
+15,2016-08-01 10:26:32,"East Houston Wine & Liquors, 250 E Houston St, New York",40.7218598503,-73.9853668213
+16,2016-08-01 10:25:39,"La Contenta, 102 Norfolk St, New York",40.7189205281,-73.9871436837
+17,2016-08-01 10:22:20,"Taqueria Diana, 129 2nd Ave, New York",40.728416,-73.987807
+18,2016-06-20 03:06:57,"Brodo, 200 1st Ave, New York",40.7301589338,-73.9833558916
+19,2016-06-20 03:04:49,"Starbucks, 80 Delancey St, New York",40.7192109232,-73.9901509077
+20,2016-06-20 03:04:01,"Joe's, 480 Amsterdam Ave, New York",40.7858990309,-73.9765530825
+21,2016-06-20 03:02:04,"Dos Caminos, 373 Park Ave S, New York",40.7423548556,-73.9850317119
+22,2016-06-20 02:59:03,"Boulud Sud, 20 W 64th St, New York",40.7719769842,-73.9818177972
+23,2016-06-20 02:57:23,"Balthazar, 80 Spring St, New York",40.7227054927,-73.9981985092
+24,2016-06-20 02:55:55,"Berkli Parc, 63 Delancey St, New York",40.7192134808,-73.9904378541
+25,2016-06-20 02:53:22,"Top Hops, 94 Orchard St, New York",40.7184121198,-73.9898943901
+26,2016-06-20 02:52:32,"Mighty Quinn's BBQ, 103 2nd Ave, New York",40.7275189452,-73.9886713028
+27,2016-06-20 02:50:45,"Subject, 188 Suffolk St, New York",40.721528601,-73.9849915383
+28,2016-06-20 02:48:27,"Ludlow Coffee Supply, 176 Ludlow St, New York",40.7216382739,-73.9874240756
+29,2016-06-12 03:52:59,"Whynot Coffee, 175 Orchard St, New York",40.7215752566,-73.9884459972
+30,2016-02-09 23:19:30,"Avenida Cantina, 25 Avenue B, New York",40.7223690362,-73.9831722392
+31,2016-01-10 13:02:26,"Ghost, 132 Eldridge St Frnt A, New York",40.7188380871,-73.9916372854
+32,2015-06-22 01:48:01,"Lindsay's Boulder Deli, 1148 Pearl St, Boulder",40.0178063741,-105.279910139
+33,2015-06-19 07:49:48,"Chez Thuy, 2655 28th St, Boulder",40.0270198741,-105.258506367
+34,2015-06-19 07:48:50,"Sephora, 1775 29th St, Ste 1086, Boulder",40.0177104265,-105.255963242
+35,2015-06-19 07:48:12,"Zoe's Coffee House, 11225 Decatur St, Westminster",39.9000033547,-105.023874368
+36,2015-05-24 03:08:49,"Snooze, 1617 Pearl St, Boulder",40.0191102618,-105.274166003
+37,2015-05-19 07:34:06,"Los Tarascos, 622 S College Ave, Fort Collins",40.57914,-105.07686317
+38,2015-05-19 07:32:10,"Austin's American Grill, 2815 E Harmony Rd, Fort Collins",40.5225730354,-105.025083125
+39,2015-05-19 07:31:10,"Rio Grande Mexican Restaurant, 143 W Mountain Ave, Fort Collins",40.5866957321,-105.078209639
+40,2015-05-19 07:29:27,"Restaurant 415, 415 S Mason St, Fort Collins",40.5823773019,-105.079228878
+41,2015-05-19 07:27:49,"Gravity Ten Twenty, 1020 E Lincoln Ave, Fort Collins",40.5890009462,-105.058872281
+42,2015-05-19 07:26:44,"Avogadro's Number, 605 S Mason St, Fort Collins",40.579576339,-105.079216995
+43,2015-05-19 07:25:37,"Big City Burrito - Official Site, 510 S College Ave, Fort Collins",40.581028,-105.07683832
+44,2015-05-19 07:23:32,"Big Al's Burgers & Dogs, 140 W Mountain Ave, Fort Collins",40.5872350931,-105.078096986
+45,2015-05-19 07:21:42,"Fort Collins Museum of Discovery, 408 Mason Ct, Fort Collins",40.5929711074,-105.077943949
+46,2015-05-19 07:20:30,"Jax Fish House Fort Collins, 123 N College Ave Ste 104, Fort Collins",40.5876134437,-105.077064811
+47,2015-05-18 08:23:35,"Dushanbe Teahouse, 1770 13th St, Boulder",40.0154442308,-105.277251005
+48,2015-05-18 08:22:45,"Am, 1221 Spruce St, Boulder",40.0190491857,-105.27992157
+49,2015-05-18 08:21:13,"Oyamel Cocina Mexicana, 401 7th St NW, Washington",38.8949032693,-77.0217776299
+50,2015-05-18 08:20:41,"Illegal Pete's, 1530 16th St, Denver",39.7510178826,-104.999673615
+51,2015-05-18 08:19:06,"Outback Steakhouse, 988 W Dillon Rd, Louisville",39.959155,-105.164574
+52,2015-05-18 08:18:14,"Social, 240 E Mountain Ave, Fort Collins",40.587136732,-105.076014418
+53,2015-05-18 08:17:15,"Austin's American Grill, 100 W Mountain Ave, Fort Collins",40.5872334794,-105.077426434
+54,2015-05-18 08:16:31,"The Crown Pub, 134 S College Ave, Fort Collins",40.5861722392,-105.076707602
+55,2015-05-18 08:15:37,"Glaze by Sasa, 1160 Madison St, Denver",39.734763,-104.946129
+56,2015-05-18 08:13:21,"The Gothic Theatre, 3263 S Broadway, Englewood",39.6576360639,-104.987839906
+57,2015-05-18 08:12:32,"Rooster & Moon, 955 Bannock St, Denver",39.7315,-104.990379
+58,2015-05-18 08:11:41,"Fayze's, 135 4th St S, La Crosse",43.8114005396,-91.2516878325
+59,2015-05-18 08:11:03,"Illegal Pete's, 1447 Pearl St, Boulder",40.0187881368,-105.276086409
+60,2015-05-18 08:08:33,"Proto's Pizzeria, 4670 Broadway St, Boulder",40.059446,-105.281762
+61,2015-05-18 08:07:20,"OAK at fourteenth, 1400 Pearl St, Boulder",40.018226,-105.277206
+62,2015-05-18 08:05:30,"Funkwerks, 1900 E Lincoln Ave, Fort Collins",40.5832084177,-105.042579174
+63,2015-05-18 08:04:31,"Nick and Willy's Take And Bake Pizza, 801 Pearl St, Boulder",40.016955,-105.284968
+64,2015-05-18 08:01:47,"Skinflint, 19 Crane Ln, Temple Bar, Dublin",53.3443894078,-6.26684628181
+65,2015-05-18 08:00:48,"The Brazen Head, 20 Bridge St, Dublin",53.3450267218,-6.27626751755
+66,2015-05-18 07:59:55,"Guinness Storehouse, St James's Gate, Dublin",53.3418727359,-6.28670839817
+67,2015-05-18 07:58:59,"Gravity Bar, St James's Gate, Dublin",53.3418007488,-6.28683102031
+68,2015-05-18 07:58:01,"Meet & Meat, 1-3 S William St, Dublin",53.3428088845,-6.26210332353
+69,2015-05-18 07:57:32,"Kehoe's, 9 South Anne St, Dublin",53.341161683,-6.25942289829
+70,2015-05-18 07:56:38,"Pho 79 IV, 6650 W 120th Ave, Broomfield",39.913172,-105.07118332
+71,2015-05-18 07:55:29,"In-N-Out Burger, 9149 S Sepulveda Blvd, Los Angeles",33.9536939525,-118.396768123
+72,2015-05-18 07:54:39,"Larimer Lounge, 2721 Larimer St, Denver",39.7599646108,-104.983891726
+73,2015-05-18 07:53:13,"Iron Cactus Mexican Restaurant, Grill and Margarita Bar, 606 Trinity St, Austin",30.2674662,-97.7393932
+74,2015-05-18 07:50:59,"Pizzeria Locale, 1730 Pearl St, Boulder",40.019319,-105.272648335
+75,2015-05-18 07:49:27,"Chez Thuy, 2655 28th St, Boulder",40.0270198741,-105.258506367
+76,2015-05-18 07:47:47,"Weekend, 1511 Commerce St, Dallas",32.7800856217,-96.7984771729
+77,2015-05-18 07:46:54,"Lockhart Smokehouse, 400 W Davis St, Dallas",32.7493438,-96.82845
+78,2015-05-18 07:45:21,"The Blind Butcher, 1919 Greenville Ave, Dallas",32.8142087554,-96.7704608596
+79,2015-05-18 07:44:02,"Velvet Taco, 3012 N Henderson Ave, Dallas",32.8217766,-96.785479
+80,2015-05-18 07:42:09,"Verde, 3070 28th St, Boulder",40.030718016,-105.258060603
+81,2015-05-18 07:41:09,"The Blue Door Pub, 1819 Selby Ave., Saint Paul",44.9466713344,-93.1766206026
+82,2015-05-18 07:39:28,"The Mint, 1810 State St, La Crosse",43.812682,-91.228446
+83,2015-05-18 07:36:40,"Timmer's 10 Mile Pub, County Road YY, Shelby",43.7611821242,-91.1316502276
+84,2015-05-18 07:35:04,"The Root Note, 115 4th St S, La Crosse",43.8119664296,-91.251532796
+85,2015-05-18 07:30:42,"Etcetera Wine Bar, 795 Valencia St, San Francisco",37.7602154293,-122.421411091
+86,2015-05-18 07:29:18,"Tacolicious, 741 Valencia St, San Francisco",37.7609920052,-122.421438743
+87,2015-05-18 07:25:16,"Snooze, 1617 Pearl St, Boulder",40.0191102618,-105.274166003
+88,2015-05-18 07:21:45,"Yellowbelly, 2525 Arapahoe Ave Unit E1B, Boulder",40.015138214,-105.262175392
+89,2015-05-18 02:07:31,"San Francisco International Airport (SFO), N McDonnell Rd, San Francisco",37.6153999621,-122.385279773
+90,2015-05-18 02:02:24,"Village Coffee Shop, 1605 Folsom St, Boulder",40.0156024061,-105.263410807
+91,2015-05-16 07:39:03,"Mosto, 741 Valencia St, San Francisco",37.7606430985,-122.421316803
+92,2015-05-16 07:33:13,"Lombard Street, Lombard St, San Francisco",37.802010758,-122.418851852
+93,2015-05-16 07:32:10,"Kennedy's Irish Pub & Indian Curry House, 1040 Columbus Ave, San Francisco",37.8040884729,-122.415338446
+94,2015-04-28 02:23:23,"Hotel Indigo Dallas Downtown, 1933 Main St, Dallas",32.781923,-96.794421
+95,2014-10-09 10:32:24,"Ella, 1262 Alpine Ave., Boulder",40.025855,-105.281144
+96,2014-08-11 10:05:25,"Ozo Coffee, 1015 Pearl St, Boulder",40.0175607204,-105.282162
+97,2014-08-08 09:29:32,"Rio Grande, 1101 Walnut St, Boulder",40.0169060167,-105.280816
+98,2014-08-08 09:27:55,"Boulder Chophouse & Tavern, 921 Walnut St, Boulder",40.016382694,-105.282619382
+99,2014-08-04 08:56:32,"Bohemian Biergarten, 2017 13th St, Boulder",40.0186648888,-105.279115665
+100,2014-08-02 02:52:54,"Tahona Tequila Bistro, 1035 Pearl St, Boulder",40.0175740019,-105.281876336
+101,2014-08-02 02:52:11,"Tahona Tequila Bistro, 1035 Pearl St, Boulder",40.0175740019,-105.281876336
+102,2014-06-17 09:33:02,"Chicago Midway International Airport (MDW), 5700 S Cicero Ave, Chicago",41.7854250716,-87.7508282661
+103,2014-06-16 01:25:34,"Kingsbury Street Cafe, 1523 N Kingsbury St, Chicago",41.9087851987,-87.652214641
+104,2014-06-13 09:26:57,"Local Option, 1102 W Webster Ave, Chicago",41.9217232643,-87.656111652
+105,2014-06-09 10:11:36,"Hazel's Beverage World, 1955 28th St, Boulder",40.0208847228,-105.259626497
+106,2014-06-09 07:37:51,"Bohemian Biergarten, 2017 13th St, Boulder",40.0186648888,-105.279115665
+107,2014-06-01 04:19:45,"Village Coffee Shop, 1605 Folsom St, Boulder",40.0156024061,-105.263410807
+108,2014-04-28 06:43:37,"Empire Lounge, 816 Main St, Louisville",39.978127,-105.1319476
+109,2014-03-06 10:19:02,"Denver International Airport (DEN), 8500 Pea Blvd, Denver",39.8513557067,-104.674044515
+110,2014-01-17 11:35:24,"Dosa, 995 Valencia St, San Francisco",37.756992,-122.421117
+111,2014-01-06 10:44:22,"Whole Foods Market, 1275 Alpine Ave., Boulder",40.0258786,-105.280934
+112,2013-12-24 09:45:37,"Schmidty's, 3119 State Rd, La Crosse",43.7923461199,-91.21044
+113,2013-12-23 23:57:33,"Grandma's Kitchen, 1514 Broadway Ave N, Rochester",44.038436543,-92.4612958641
+114,2013-12-23 06:04:48,"Festival Foods, 2500 State Rd, La Crosse",43.7949675097,-91.2183493813
+115,2013-12-20 12:48:18,"Zelo, 831 Nicollet Mall, Minneapolis",44.975009768,-93.2736178436
+116,2013-10-23 01:58:46,"US Post Office, 1905 15th St, Boulder",40.0177037869,-105.276029253
+117,2013-10-12 02:18:32,"It's Brothers Bar & Grill, 1920 Market St, Denver",39.7529884819,-104.99393353

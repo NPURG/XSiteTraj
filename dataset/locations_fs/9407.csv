@@ -1,0 +1,61 @@
+,time,poi,latitude,longitude
+0,2015-05-20 04:40:57,"National Postal Museum, 2 Massachusetts Ave NE, Washington",38.8976050858,-77.008318187
+1,2015-05-20 04:40:32,"Oyamel Cocina Mexicana, 401 7th St NW, Washington",38.8949032693,-77.0217776299
+2,2015-05-20 04:40:04,"National Portrait Gallery, 800 F St NW, Washington",38.8977130703,-77.0228505135
+3,2015-05-20 04:37:05,"National Archives and Records Administration, 700 Pennsylvania Ave NW, Washington",38.8927697503,-77.0229578018
+4,2015-05-20 04:25:31,"National Museum of the American Indian, 950 Independence Ave SW, Washington",38.8881267243,-77.0166492462
+5,2015-05-20 04:23:42,"United States Botanic Garden, 100 Maryland Ave SW, Washington",38.8881638997,-77.0130252973
+6,2015-05-20 04:23:00,"National Air and Space Museum, 600 Independence Ave SW, Washington",38.8881659226,-77.0197060432
+7,2015-05-20 04:18:33,"Hirshhorn Museum and Sculpture Garden, 700 Independence Ave SW, Washington",38.8881601285,-77.0229578018
+8,2015-05-20 04:17:36,"DAR Museum, 1776 D St NW, Washington",38.8941657667,-77.0401507616
+9,2015-05-20 04:16:36,"Lafayette Square Park, 1601 Pennsylvania Ave NW, Washington",38.8999302714,-77.0363556927
+10,2015-05-20 04:12:47,"Rose's Luxury, 717 8th St SE, Washington",38.8807121118,-76.9951688044
+11,2015-05-20 04:11:59,"Barclays Center, 620 Atlantic Ave, Brooklyn",40.6830957067,-73.9759924399
+12,2015-05-20 04:11:02,"New Museum, 235 Bowery, New York",40.7224128307,-73.9931638235
+13,2015-05-20 04:10:00,"Uncle Barry's, 58 5th Ave, Brooklyn",40.6812702113,-73.9772263973
+14,2015-05-20 04:09:18,"Russ & Daughters Caf, 127 Orchard St, New York",40.719588273,-73.9894392788
+15,2015-05-20 04:08:26,"Feinstein's/54 Below, 254 W 54th St, New York",40.7646990562,-73.9834764134
+16,2015-05-20 04:07:23,"Pok Pok NY, 117 Columbia St, Brooklyn",40.6875900992,-74.0012830496
+17,2014-11-04 00:51:43,"Palisade Restaurant, 2601 W Marina Pl, Seattle",47.6302960893,-122.39143163
+18,2014-11-04 00:51:24,"Olympic Sculpture Park, 2901 Western Ave, Seattle",47.6163654239,-122.354781341
+19,2014-11-04 00:50:26,"Madison Square Park, Broadway & Madison Ave, New York",40.7421441752,-73.988006115
+20,2014-11-04 00:49:32,"Green Leaf Vietnamese Restaurant, 2800 1st Ave, Seattle",47.6165417348,-122.35173398
+21,2014-11-04 00:48:19,"Marshall Park, 1206 7th Ave. W, Seattle",47.6296373821,-122.366688394
+22,2014-11-04 00:47:51,"Parsons Gardens, 698 W Highland Dr., Seattle",47.6298441942,-122.366098166
+23,2014-11-04 00:47:13,"Kerry Park, 211 Highland Dr, Seattle",47.6294176017,-122.359939814
+24,2014-11-04 00:46:43,"Pacific Place, 600 Pine St, Seattle",47.6128030924,-122.335317135
+25,2014-11-04 00:46:14,"TanakaSan, 2121 6th Ave, Seattle",47.6155514497,-122.339962721
+26,2014-11-04 00:41:58,"Seattle Art Museum, 1300 1st Ave, Seattle",47.6072695507,-122.338282017
+27,2014-11-04 00:39:46,"Union Square Greenmarket, 1 Union Sq W, New York",40.7365269713,-73.9905595779
+28,2014-11-04 00:39:08,"La Vara, 268 Clinton St, Brooklyn",40.6878242127,-73.9955396895
+29,2014-11-04 00:37:41,"Naruto Ramen, 278 5th Ave, Brooklyn",40.6743077122,-73.9821696281
+30,2014-10-11 02:28:31,"The Vanderbilt, 570 Vanderbilt Ave, Brooklyn",40.679406,-73.968334
+31,2014-10-11 02:27:12,"Hester Street Fair, Hester St, New York",40.7153545491,-73.989572525
+32,2014-10-11 02:26:28,"Kinky Boots at the Al Hirschfeld Theatre, 302 W 45th St, New York",40.7593322292,-73.9891782403
+33,2014-10-10 08:33:24,"OOTOYA 27384b, 8 W 18th St, New York",40.7387543997,-73.992780447
+34,2014-10-10 08:31:46,"IKEA, 1 Beard St, Brooklyn",40.6721042325,-74.0111485105
+35,2014-10-10 08:31:21,"Neta, 61 W 8th St, New York",40.7335349781,-73.9993157636
+36,2014-10-10 08:29:17,"Betony, 41 W 57th St, New York",40.7639099913,-73.9762277533
+37,2014-10-10 08:25:50,"Maialino, 2 Lexington Ave, New York",40.7384960625,-73.9856056195
+38,2014-10-10 08:25:26,"Casa Mono, 52 Irving Pl, New York",40.7359213254,-73.9872041345
+39,2014-10-10 08:23:44,"Adorama, 42 W 18th St, New York",40.7393717654,-73.9941222078
+40,2014-10-10 08:19:18,"Grand Central Terminal, 87 E 42nd St, New York",40.7526001065,-73.9771058716
+41,2014-10-10 08:18:05,"The Meatball Shop, 1462 2nd Ave, New York",40.7716325185,-73.9562537859
+42,2014-10-10 08:17:42,"Boqueria, 1460 2nd Ave, New York",40.7716085423,-73.9562939655
+43,2014-10-10 08:16:58,"sweetgreen, 1164 Broadway, New York",40.7448018,-73.9886439
+44,2014-08-19 05:52:26,"Gorilla Coffee, 97 5th Ave, Brooklyn",40.6796683848,-73.97820175
+45,2014-08-19 05:51:38,"Shake Shack, 11 Madison Ave, New York",40.7414310297,-73.9884120034
+46,2014-08-19 05:50:27,"Sunrise Mart, 4 Stuyvesant St, New York",40.7301349329,-73.9894622346
+47,2014-08-10 23:08:10,"EasternBloc, 505 E 6th St, New York",40.7253408005,-73.9836084134
+48,2014-08-10 23:06:26,"Robataya NY, 231 E 9th St, New York",40.7295601878,-73.9879069721
+49,2014-08-10 23:05:21,"Whitney Museum of American Art, 99 Gansevoort St, New York",40.7395219222,-74.0089335127
+50,2014-08-10 23:04:16,"The Gate, 321 5th Ave, Brooklyn",40.6727599628,-73.9833042394
+51,2014-08-10 23:03:43,"Angelika Film Center, 18 W Houston St, New York",40.7257350929,-73.9972785292
+52,2014-08-10 23:03:02,"Bank Square Coffeehouse, 129 Main St, Beacon",41.5082365279,-73.977025521
+53,2014-08-10 23:02:33,"Dia:Beacon, 3 Beekman St, Beacon",41.500799571,-73.9827489853
+54,2014-08-10 04:33:19,"Irving Farm Coffee Roasters, 71 Irving Pl, New York",40.7367812588,-73.9868452543
+55,2014-08-10 04:31:11,"Tompkins Square Park, E 7th St to E 10th St, New York",40.7265467613,-73.9820817994
+56,2014-08-10 04:30:33,"Donostia, 155 Avenue B, New York",40.7267894658,-73.980021425
+57,2014-08-10 04:29:42,"Urban Cowboy Bed & Breakfast, 111 Powers St, Brooklyn",40.712422,-73.946549
+58,2014-08-10 04:27:54,"Momofuku Milk Bar, 15 W 56th St, New York",40.7628429402,-73.9757456474
+59,2014-08-10 04:27:25,"The Modern14Bar Room, 9 West 53rd St, New York",40.7610688958,-73.9766237679

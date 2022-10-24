@@ -1,0 +1,205 @@
+,time,poi,latitude,longitude
+0,2013-08-21 06:40:00,"Malmö, Sweden",55.60331345,13.0013113
+1,2013-07-03 23:43:00,"Copenhagen, Capital Region of Denmark",55.67575836,12.56902313
+2,2013-07-01 23:48:00,"Gentofte, Hovedstaden",55.74759674,12.54108143
+3,2013-06-18 06:49:00,"Sorø, Sjælland",55.431427,11.55577183
+4,2013-05-22 01:03:00,"Copenhagen, Capital Region of Denmark",55.67575836,12.56902313
+5,2012-12-21 08:19:00,"Copenhagen, Capital Region of Denmark",55.67575836,12.56902313
+6,2012-12-19 23:02:00,"Frederiksberg, Hovedstaden",55.6780014,12.53536797
+7,2012-12-05 23:46:00,"Copenhagen, Capital Region of Denmark",55.67575836,12.56902313
+8,2012-11-01 00:26:00,"Gentofte, Hovedstaden",55.74759674,12.54108143
+9,2012-10-09 06:35:00,"Gentofte, Hovedstaden",55.74759674,12.54108143
+10,2012-10-09 06:05:00,"Gentofte, Hovedstaden",55.74759674,12.54108143
+11,2012-09-27 03:34:00,"Gentofte, Hovedstaden",55.74759674,12.54108143
+12,2012-09-24 22:59:00,"Copenhagen, Capital Region of Denmark",55.67575836,12.56902313
+13,2012-09-18 05:54:00,"Reims, Champagne-Ardenne",49.26279831,4.03469992
+14,2012-09-04 12:27:00,"Copenhagen, Capital Region of Denmark",55.67575836,12.56902313
+15,2012-09-02 23:08:00,"Copenhagen, Capital Region of Denmark",55.67575836,12.56902313
+16,2012-09-01 06:31:00,"Copenhagen, Capital Region of Denmark",55.67575836,12.56902313
+17,2012-08-08 07:38:00,"Copenhagen, Capital Region of Denmark",55.67575836,12.56902313
+18,2012-07-29 05:25:00,"Copenhagen, Capital Region of Denmark",55.67575836,12.56902313
+19,2012-06-21 12:16:00,"Copenhagen, Capital Region of Denmark",55.67575836,12.56902313
+20,2012-06-20 05:40:00,"Gentofte, Hovedstaden",55.74759674,12.54108143
+21,2012-06-13 23:19:00,"Gentofte, Hovedstaden",55.74759674,12.54108143
+22,2012-06-09 22:43:00,"Copenhagen, Capital Region of Denmark",55.67575836,12.56902313
+23,2012-06-08 03:04:00,"Gentofte, Hovedstaden",55.74759674,12.54108143
+24,2012-06-04 03:50:00,"Frederiksberg, Hovedstaden",55.6780014,12.53536797
+25,2012-05-31 23:43:00,"Copenhagen, Capital Region of Denmark",55.67575836,12.56902313
+26,2012-05-22 03:00:00,"Gentofte, Hovedstaden",55.74759674,12.54108143
+27,2012-05-17 03:26:00,"Copenhagen, Capital Region of Denmark",55.67575836,12.56902313
+28,2012-05-14 06:55:00,"Copenhagen, Capital Region of Denmark",55.67575836,12.56902313
+29,2012-05-11 07:22:00,"Copenhagen, Capital Region of Denmark",55.67575836,12.56902313
+30,2012-05-04 10:57:00,"Copenhagen, Capital Region of Denmark",55.67575836,12.56902313
+31,2012-05-02 00:54:00,"Gentofte, Hovedstaden",55.74759674,12.54108143
+32,2012-04-30 21:03:00,"Copenhagen, Capital Region of Denmark",55.67575836,12.56902313
+33,2012-03-26 07:03:00,"Copenhagen, Capital Region of Denmark",55.67575836,12.56902313
+34,2012-03-26 06:54:00,"Copenhagen, Capital Region of Denmark",55.67575836,12.56902313
+35,2012-02-20 02:34:00,"Copenhagen, Capital Region of Denmark",55.67575836,12.56902313
+36,2012-02-06 01:06:00,"Copenhagen, Capital Region of Denmark",55.67575836,12.56902313
+37,2012-02-04 08:40:00,"Copenhagen, Capital Region of Denmark",55.67575836,12.56902313
+38,2012-02-04 07:49:00,"Copenhagen, Capital Region of Denmark",55.67575836,12.56902313
+39,2012-02-04 02:30:00,"Copenhagen, Capital Region of Denmark",55.67575836,12.56902313
+40,2012-01-05 05:14:00,"Sorø, Sjælland",55.431427,11.55577183
+41,2012-01-05 05:06:00,"Sorø, Sjælland",55.431427,11.55577183
+42,2012-01-05 05:03:00,"Sorø, Sjælland",55.431427,11.55577183
+43,2012-01-05 04:56:00,"Sorø, Sjælland",55.431427,11.55577183
+44,2012-01-05 04:45:00,"Sorø, Sjælland",55.431427,11.55577183
+45,2012-01-05 04:39:00,"Sorø, Sjælland",55.431427,11.55577183
+46,2012-01-05 04:28:00,"Sorø, Sjælland",55.431427,11.55577183
+47,2012-01-04 04:43:00,"Gentofte, Hovedstaden",55.74759674,12.54108143
+48,2011-12-21 00:56:00,"Gentofte, Hovedstaden",55.74759674,12.54108143
+49,2011-12-15 02:32:00,"Gentofte, Hovedstaden",55.74759674,12.54108143
+50,2011-12-09 11:26:00,"Copenhagen, Capital Region of Denmark",55.67575836,12.56902313
+51,2011-12-07 03:31:00,"Gentofte, Hovedstaden",55.74759674,12.54108143
+52,2011-11-17 00:10:00,"Frederiksberg, Hovedstaden",55.6780014,12.53536797
+53,2011-11-15 05:54:00,"Zealand, Denmark",55.46028519,11.72351646
+54,2011-11-13 08:42:00,"Copenhagen, Capital Region of Denmark",55.67575836,12.56902313
+55,2011-11-11 01:19:00,"Copenhagen, Capital Region of Denmark",55.67575836,12.56902313
+56,2011-11-09 21:45:00,"Copenhagen, Capital Region of Denmark",55.67575836,12.56902313
+57,2011-11-02 17:00:00,"Tower Hamlets, London",51.51740265,-0.032281
+58,2011-10-26 00:54:00,"Copenhagen, Capital Region of Denmark",55.67575836,12.56902313
+59,2011-10-26 00:53:00,"Copenhagen, Capital Region of Denmark",55.67575836,12.56902313
+60,2011-10-24 23:18:00,"Copenhagen, Capital Region of Denmark",55.67575836,12.56902313
+61,2011-10-19 08:13:00,"Copenhagen, Capital Region of Denmark",55.67575836,12.56902313
+62,2011-10-11 22:34:00,"Copenhagen, Capital Region of Denmark",55.67575836,12.56902313
+63,2011-10-11 06:10:00,"Gentofte, Hovedstaden",55.74759674,12.54108143
+64,2011-10-11 03:22:00,"Gentofte, Hovedstaden",55.74759674,12.54108143
+65,2011-10-11 02:56:00,"Gentofte, Hovedstaden",55.74759674,12.54108143
+66,2011-10-08 07:47:00,"Copenhagen, Capital Region of Denmark",55.67575836,12.56902313
+67,2011-10-05 22:09:00,"Copenhagen, Capital Region of Denmark",55.67575836,12.56902313
+68,2011-10-04 06:46:00,"Gentofte, Hovedstaden",55.74759674,12.54108143
+69,2011-10-03 11:30:00,"Copenhagen, Capital Region of Denmark",55.67575836,12.56902313
+70,2011-09-30 12:41:00,"Copenhagen, Capital Region of Denmark",55.67575836,12.56902313
+71,2011-09-30 03:04:00,"Gentofte, Hovedstaden",55.74759674,12.54108143
+72,2011-09-28 10:23:00,"Frederiksberg, Hovedstaden",55.6780014,12.53536797
+73,2011-09-26 13:18:00,"Copenhagen, Capital Region of Denmark",55.67575836,12.56902313
+74,2011-09-22 11:59:00,"Copenhagen, Capital Region of Denmark",55.67575836,12.56902313
+75,2011-09-22 09:05:00,"Copenhagen, Capital Region of Denmark",55.67575836,12.56902313
+76,2011-09-20 23:47:00,"Frederiksberg, Hovedstaden",55.6780014,12.53536797
+77,2011-09-16 02:44:00,"Copenhagen, Capital Region of Denmark",55.67575836,12.56902313
+78,2011-09-08 21:12:00,"Copenhagen, Capital Region of Denmark",55.67575836,12.56902313
+79,2011-09-07 04:44:00,"Gentofte, Hovedstaden",55.74759674,12.54108143
+80,2011-09-05 21:07:00,"Copenhagen, Capital Region of Denmark",55.67575836,12.56902313
+81,2011-09-05 21:04:00,"Copenhagen, Capital Region of Denmark",55.67575836,12.56902313
+82,2011-09-03 02:29:00,"Copenhagen, Capital Region of Denmark",55.67575836,12.56902313
+83,2011-08-30 10:21:00,"Central Jutland, Denmark",56.24876785,9.38790703
+84,2011-08-30 10:13:00,"Central Jutland, Denmark",56.24876785,9.38790703
+85,2011-08-29 22:10:00,"Copenhagen, Capital Region of Denmark",55.67575836,12.56902313
+86,2011-08-29 21:58:00,"Copenhagen, Capital Region of Denmark",55.67575836,12.56902313
+87,2011-08-28 00:24:00,"Copenhagen, Capital Region of Denmark",55.67575836,12.56902313
+88,2011-08-24 10:39:00,"Copenhagen, Capital Region of Denmark",55.67575836,12.56902313
+89,2011-08-24 06:19:00,"Copenhagen, Capital Region of Denmark",55.67575836,12.56902313
+90,2011-08-24 03:57:00,"Copenhagen, Capital Region of Denmark",55.67575836,12.56902313
+91,2011-08-23 23:42:00,"Copenhagen, Capital Region of Denmark",55.67575836,12.56902313
+92,2011-08-23 21:55:00,"Copenhagen, Capital Region of Denmark",55.67575836,12.56902313
+93,2011-08-22 21:10:00,"Tårnby, Hovedstaden",55.6309967,12.60020828
+94,2011-08-21 00:23:00,"Copenhagen, Capital Region of Denmark",55.67575836,12.56902313
+95,2011-08-19 13:16:00,"Copenhagen, Capital Region of Denmark",55.67575836,12.56902313
+96,2011-08-18 05:22:00,"Gentofte, Hovedstaden",55.74759674,12.54108143
+97,2011-08-18 05:21:00,"Gentofte, Hovedstaden",55.74759674,12.54108143
+98,2011-08-18 03:54:00,"Gentofte, Hovedstaden",55.74759674,12.54108143
+99,2011-07-26 22:55:00,"Copenhagen, Capital Region of Denmark",55.67575836,12.56902313
+100,2011-07-11 03:19:00,"Gentofte, Hovedstaden",55.74759674,12.54108143
+101,2011-07-11 01:03:00,"Gentofte, Hovedstaden",55.74759674,12.54108143
+102,2011-07-10 13:16:00,"Copenhagen, Capital Region of Denmark",55.67575836,12.56902313
+103,2011-07-09 00:33:00,"Copenhagen, Capital Region of Denmark",55.67575836,12.56902313
+104,2011-06-29 05:11:00,"Copenhagen, Capital Region of Denmark",55.67575836,12.56902313
+105,2011-06-29 04:25:00,"Frederiksberg, Hovedstaden",55.6780014,12.53536797
+106,2011-06-28 04:41:00,"Copenhagen, Capital Region of Denmark",55.67575836,12.56902313
+107,2011-06-15 00:03:00,"Gentofte, Hovedstaden",55.74759674,12.54108143
+108,2011-06-04 15:23:00,"Copenhagen, Capital Region of Denmark",55.67575836,12.56902313
+109,2011-05-27 07:49:00,"Copenhagen, Capital Region of Denmark",55.67575836,12.56902313
+110,2011-05-26 23:10:00,"Copenhagen, Capital Region of Denmark",55.67575836,12.56902313
+111,2011-05-26 13:00:00,"Copenhagen, Capital Region of Denmark",55.67575836,12.56902313
+112,2011-05-23 06:29:00,"Copenhagen, Capital Region of Denmark",55.67575836,12.56902313
+113,2011-05-19 04:42:00,"Gentofte, Hovedstaden",55.74759674,12.54108143
+114,2011-05-19 04:38:00,"Gentofte, Hovedstaden",55.74759674,12.54108143
+115,2011-05-19 00:54:00,Gentofte Hovedbibliotek,55.74759674,12.54108143
+116,2011-05-19 00:12:00,Gentofte Hovedbibliotek,55.74759674,12.54108143
+117,2011-05-18 23:04:00,"Copenhagen, Capital Region of Denmark",55.67575836,12.56902313
+118,2011-05-18 11:24:00,"Copenhagen, Capital Region of Denmark",55.67575836,12.56902313
+119,2011-05-17 23:38:00,"Gentofte, Hovedstaden",55.74759674,12.54108143
+120,2011-05-15 22:32:00,"Copenhagen, Capital Region of Denmark",55.67575836,12.56902313
+121,2011-05-14 04:29:00,"Copenhagen, Capital Region of Denmark",55.67575836,12.56902313
+122,2011-05-12 02:21:00,"Gentofte, Hovedstaden",55.74759674,12.54108143
+123,2011-05-12 01:43:00,"Gentofte, Hovedstaden",55.74759674,12.54108143
+124,2011-05-12 01:34:00,"Gentofte, Hovedstaden",55.74759674,12.54108143
+125,2011-05-10 22:46:00,"Lyngby-Taarbæk, Hovedstaden",55.76959991,12.50233364
+126,2011-05-09 07:09:00,"Copenhagen, Capital Region of Denmark",55.67575836,12.56902313
+127,2011-05-09 00:24:00,"Gentofte, Hovedstaden",55.74759674,12.54108143
+128,2011-05-06 02:08:00,"Gentofte, Hovedstaden",55.74759674,12.54108143
+129,2011-08-24 10:39:00,"Copenhagen, Capital Region of Denmark",55.67575836,12.56902313
+130,2011-08-24 06:19:00,"Copenhagen, Capital Region of Denmark",55.67575836,12.56902313
+131,2011-08-24 03:57:00,"Copenhagen, Capital Region of Denmark",55.67575836,12.56902313
+132,2011-08-23 23:42:00,"Copenhagen, Capital Region of Denmark",55.67575836,12.56902313
+133,2011-08-23 21:55:00,"Copenhagen, Capital Region of Denmark",55.67575836,12.56902313
+134,2011-08-22 21:10:00,"Tårnby, Hovedstaden",55.6309967,12.60020828
+135,2011-08-21 00:23:00,"Copenhagen, Capital Region of Denmark",55.67575836,12.56902313
+136,2011-08-19 13:16:00,"Copenhagen, Capital Region of Denmark",55.67575836,12.56902313
+137,2011-08-18 05:22:00,"Gentofte, Hovedstaden",55.74759674,12.54108143
+138,2011-08-18 05:21:00,"Gentofte, Hovedstaden",55.74759674,12.54108143
+139,2011-08-18 03:54:00,"Gentofte, Hovedstaden",55.74759674,12.54108143
+140,2011-07-26 22:55:00,"Copenhagen, Capital Region of Denmark",55.67575836,12.56902313
+141,2011-07-11 03:19:00,"Gentofte, Hovedstaden",55.74759674,12.54108143
+142,2011-07-11 01:03:00,"Gentofte, Hovedstaden",55.74759674,12.54108143
+143,2011-07-10 13:16:00,"Copenhagen, Capital Region of Denmark",55.67575836,12.56902313
+144,2011-07-09 00:33:00,"Copenhagen, Capital Region of Denmark",55.67575836,12.56902313
+145,2011-06-29 05:11:00,"Copenhagen, Capital Region of Denmark",55.67575836,12.56902313
+146,2011-06-29 04:25:00,"Frederiksberg, Hovedstaden",55.6780014,12.53536797
+147,2011-06-28 04:41:00,"Copenhagen, Capital Region of Denmark",55.67575836,12.56902313
+148,2011-06-15 00:03:00,"Gentofte, Hovedstaden",55.74759674,12.54108143
+149,2011-06-04 15:23:00,"Copenhagen, Capital Region of Denmark",55.67575836,12.56902313
+150,2011-05-27 07:49:00,"Copenhagen, Capital Region of Denmark",55.67575836,12.56902313
+151,2011-05-26 23:10:00,"Copenhagen, Capital Region of Denmark",55.67575836,12.56902313
+152,2011-05-26 13:00:00,"Copenhagen, Capital Region of Denmark",55.67575836,12.56902313
+153,2011-05-23 06:29:00,"Copenhagen, Capital Region of Denmark",55.67575836,12.56902313
+154,2011-05-19 04:42:00,"Gentofte, Hovedstaden",55.74759674,12.54108143
+155,2011-05-19 04:38:00,"Gentofte, Hovedstaden",55.74759674,12.54108143
+156,2011-05-19 00:54:00,Gentofte Hovedbibliotek,55.74759674,12.54108143
+157,2011-05-19 00:12:00,Gentofte Hovedbibliotek,55.74759674,12.54108143
+158,2011-05-18 23:04:00,"Copenhagen, Capital Region of Denmark",55.67575836,12.56902313
+159,2011-05-18 11:24:00,"Copenhagen, Capital Region of Denmark",55.67575836,12.56902313
+160,2011-05-17 23:38:00,"Gentofte, Hovedstaden",55.74759674,12.54108143
+161,2011-05-15 22:32:00,"Copenhagen, Capital Region of Denmark",55.67575836,12.56902313
+162,2011-05-14 04:29:00,"Copenhagen, Capital Region of Denmark",55.67575836,12.56902313
+163,2011-05-12 02:21:00,"Gentofte, Hovedstaden",55.74759674,12.54108143
+164,2011-05-12 01:43:00,"Gentofte, Hovedstaden",55.74759674,12.54108143
+165,2011-05-12 01:34:00,"Gentofte, Hovedstaden",55.74759674,12.54108143
+166,2011-05-10 22:46:00,"Lyngby-Taarbæk, Hovedstaden",55.76959991,12.50233364
+167,2011-05-09 07:09:00,"Copenhagen, Capital Region of Denmark",55.67575836,12.56902313
+168,2011-05-09 00:24:00,"Gentofte, Hovedstaden",55.74759674,12.54108143
+169,2011-05-06 02:08:00,"Gentofte, Hovedstaden",55.74759674,12.54108143
+170,2011-04-28 06:16:00,"Copenhagen, Capital Region of Denmark",55.67575836,12.56902313
+171,2011-04-26 05:33:00,"Gentofte, Hovedstaden",55.74759674,12.54108143
+172,2011-03-04 06:53:00,"Gentofte, Hovedstaden",55.74759674,12.54108143
+173,2011-03-04 05:55:00,Gentofte Hovedbibliotek,55.74759674,12.54108143
+174,2011-03-02 06:51:00,Gentofte Hovedbibliotek,55.74759674,12.54108143
+175,2011-01-28 02:41:00,"Høje-Taastrup, Hovedstaden",55.65083313,12.26523495
+176,2011-01-20 09:57:00,"Gentofte, Hovedstaden",55.74759674,12.54108143
+177,2010-11-12 02:24:00,"Vejle, Syddanmark",55.70924759,9.53591156
+178,2010-11-12 02:23:00,"Vejle, Syddanmark",55.70924759,9.53591156
+179,2010-08-10 10:45:00,"Copenhagen, Capital Region of Denmark",55.67575836,12.56902313
+180,2010-08-08 22:37:00,"Malmö, Sweden",55.60331345,13.0013113
+181,2010-08-08 22:29:00,"Svedala, Sverige",55.50811005,13.23465157
+182,2010-08-06 04:15:00,"Copenhagen, Capital Region of Denmark",55.67575836,12.56902313
+183,2010-08-04 14:09:00,"Copenhagen, Capital Region of Denmark",55.67575836,12.56902313
+184,2010-08-04 13:34:00,"Copenhagen, Capital Region of Denmark",55.67575836,12.56902313
+185,2010-07-30 05:43:00,"Copenhagen, Capital Region of Denmark",55.67575836,12.56902313
+186,2010-07-05 03:51:00,"Copenhagen, Capital Region of Denmark",55.67575836,12.56902313
+187,2010-06-21 07:40:00,"Copenhagen, Capital Region of Denmark",55.67575836,12.56902313
+188,2010-06-18 09:51:00,"Copenhagen, Capital Region of Denmark",55.67575836,12.56902313
+189,2010-06-18 09:38:00,"Copenhagen, Capital Region of Denmark",55.67575836,12.56902313
+190,2010-06-13 23:07:00,"Copenhagen, Capital Region of Denmark",55.67575836,12.56902313
+191,2010-06-10 06:02:00,"Copenhagen, Capital Region of Denmark",55.67575836,12.56902313
+192,2010-06-06 22:34:00,"Copenhagen, Capital Region of Denmark",55.67575836,12.56902313
+193,2010-06-03 22:32:00,"Copenhagen, Capital Region of Denmark",55.67575836,12.56902313
+194,2010-06-03 11:46:00,"Copenhagen, Capital Region of Denmark",55.67575836,12.56902313
+195,2010-06-03 10:50:00,"Copenhagen, Capital Region of Denmark",55.67575836,12.56902313
+196,2010-06-02 21:20:00,"Copenhagen, Capital Region of Denmark",55.67575836,12.56902313
+197,2010-06-01 11:30:00,"Copenhagen, Capital Region of Denmark",55.67575836,12.56902313
+198,2010-05-26 22:28:00,"Copenhagen, Capital Region of Denmark",55.67575836,12.56902313
+199,2010-05-26 03:59:00,"Copenhagen, Capital Region of Denmark",55.67575836,12.56902313
+200,2010-05-26 03:58:00,"Copenhagen, Capital Region of Denmark",55.67575836,12.56902313
+201,2010-05-26 00:45:00,"Copenhagen, Capital Region of Denmark",55.67575836,12.56902313
+202,2010-05-19 07:38:00,"New York, NY",40.71304703,-74.00723267
+203,2010-05-19 04:37:00,"New York, NY",40.71304703,-74.00723267

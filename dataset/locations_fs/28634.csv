@@ -1,0 +1,95 @@
+,time,poi,latitude,longitude
+0,2014-08-07 13:10:44,"Curry Leaf Restaurant, 943 Columbus Ave, San Francisco",37.8029347684,-122.414023876
+1,2014-07-08 04:34:00,"Morgan's Lobster Shack & Fish, 10087 W River St, Truckee",39.3267662848,-120.185116231
+2,2014-06-13 21:37:31,"Enye Tech, Arenales 1645, Buenos Aires",-34.5946268178,-58.3909920329
+3,2014-06-13 19:20:15,"Etoile Hotel, Roberto M. Ortiz 1835, Ciudad de Buenos Aires",-34.5882659057,-58.3912037615
+4,2014-06-08 19:04:44,"Cementerio de la Recoleta, Junn 1760, Buenos Aires",-34.5875558258,-58.3933210373
+5,2014-05-31 03:52:45,"Hawaiian Poke Bowl, 175 W 900 S, Saint George",37.092525959,-113.58731389
+6,2014-05-17 05:03:49,"On the Bridge, 1581 Webster St, San Francisco",37.785153,-122.431305
+7,2014-04-30 04:48:17,"Sammy's Aloha, Pier 33, the Embarcadero, San Francisco",37.8065724862,-122.405404656
+8,2014-04-15 11:21:22,"Loving Hut, 845 Market St, San Francisco",37.7843675715,-122.406213284
+9,2014-03-10 11:11:15,"House of Pancakes, 937 Taraval St, San Francisco",37.7428861081,-122.476363778
+10,2014-03-07 03:28:15,"Gyros Gyros, 498 University Ave, Palo Alto",37.4483041475,-122.159229413
+11,2013-12-06 13:18:26,"House of Xian Dumpling, 925 Kearny St, San Francisco",37.796613,-122.405193
+12,2013-11-09 05:33:27,"Bed Bath & Beyond, 2470 Charleston Rd, Mountain View",37.4231053319,-122.097533941
+13,2013-09-03 07:09:16,"The Ice Cream Bar Soda Fountain, 815 Cole St, San Francisco",37.7664347514,-122.450171184
+14,2013-08-28 07:24:50,"Three Koi, 364 University Ave, Palo Alto",37.4465501192,-122.160801888
+15,2013-05-26 11:13:07,"Saucy Pizzeria, 108 W Standley St, Ukiah",39.150672,-123.208232
+16,2013-03-13 04:58:33,"Costco Wholesale, 450 10th St, San Francisco",37.7706494832,-122.410709063
+17,2013-03-05 00:21:26,"Denny's, 495 Beach St, San Francisco",37.8067794601,-122.417066172
+18,2012-12-24 10:59:19,"Room & Board, 685 Seventh Street, San Francisco",37.7722623659,-122.401723107
+19,2012-12-10 13:39:02,"Home Maid Bakery, 1005 Lower Main St, Wailuk",20.89957,-156.488812566
+20,2012-12-05 11:30:03,"Pea Soup Andersen's, 12411 State Highway 33, Gustine",37.1091041156,-121.016968489
+21,2012-10-12 05:35:23,"City Target, 789 Mission St, San Francisco",37.7845854947,-122.403850343
+22,2012-09-22 12:40:08,"Elephant Sushi, 1916 Hyde St, San Francisco",37.7986270533,-122.418811732
+23,2012-08-24 04:41:02,"Golden Coffee Shop, 901 Sutter St, San Francisco",37.7883942254,-122.415266545
+24,2012-06-03 12:30:47,"Marianne's Ice Cream, 1020 Ocean St, Santa Cruz",36.981935,-122.021885133
+25,2012-06-01 23:36:13,"Ed's Diner, 348 Grand Ave, South San Francisco",37.6554443682,-122.411223449
+26,2012-05-13 01:27:47,"Marco Polo Italian Ice Cream, 1447 Taraval St, San Francisco",37.7426549189,-122.481838167
+27,2012-03-26 04:56:57,"New Taraval Cafe, 1054 Taraval St, San Francisco",37.7430769977,-122.477704883
+28,2012-03-14 04:44:13,"Souley Vegan, 301 Broadway, Oakland",37.7970058637,-122.276080817
+29,2012-02-23 06:57:45,"Caffe Acri, 1 Main St, Tiburon",37.8733945747,-122.455733175
+30,2012-02-13 10:26:34,"Pasquale's Pizza, 700 Irving St, San Francisco",37.7641996782,-122.465479769
+31,2012-02-02 08:16:05,"Toronado, 547 Haight St, San Francisco",37.7719274835,-122.431029081
+32,2012-01-30 10:24:12,"Vik19s Chaat Corner, 2390 4th St, Berkeley",37.8613863357,-122.298180773
+33,2012-01-13 01:45:37,"Cafe Capriccio, 2200 Mason St, San Francisco",37.8038610088,-122.413225658
+34,2011-12-08 00:31:24,"Courier Coffee, 923 SW Oak St, Portland",45.5226760017,-122.680506706
+35,2011-11-24 12:52:45,"Assab Eritrean Restaurant, 2845 Geary Blvd, San Francisco",37.78206058,-122.449915933
+36,2011-09-01 03:16:26,"Janrain, 519 SW 3rd Ave, Portland",45.5194740925,-122.674972358
+37,2011-08-05 09:50:30,"Louisiana Famous Fried Chicken/Happy Donuts, 761 3rd St, San Francisco",37.7782442833,-122.392217152
+38,2011-06-25 04:58:34,"Tanguito, 2850 Jones St, San Francisco",37.807298221,-122.417152533
+39,2011-05-07 12:56:37,"South Point Hotel & Casino, 9777 Las Vegas Blvd S, Las Vegas",36.0117481315,-115.174699261
+40,2011-04-29 12:15:29,"Citizen's Band, 1198 Folsom St, San Francisco",37.7751709,-122.4100535
+41,2011-04-05 15:25:21,"Tommy's Joynt, 1101 Geary Blvd, San Francisco",37.7855525354,-122.421603799
+42,2011-02-26 13:43:01,"Cafe Prague, 424 Merchant St, San Francisco",37.7955106839,-122.400918657
+43,2011-02-19 12:36:22,"North Beach Pool, 651 Lombard St, San Francisco",37.8026550233,-122.412377
+44,2011-02-17 08:35:15,"Loving Hut, 845 Market St, San Francisco",37.7843675715,-122.406213284
+45,2011-02-12 06:43:43,"Hedary's Mediterranean Restaurant, 7365 W Sahara Ave, Las Vegas",36.1431495396,-115.253975692
+46,2011-02-09 16:19:07,"Casa Jimenez Steaks & Mariscos, 481 Armory Rd, Barstow",34.8844368667,-117.022483349
+47,2010-11-24 07:54:08,"Russian River Brewing Company, 725 4th St, Santa Rosa",38.4416570502,-122.711663246
+48,2010-11-22 14:14:27,"Nopa, 560 Divisadero St, San Francisco",37.774948211,-122.437658389
+49,2010-11-05 11:48:29,"Kate O'Brien's, 579 Howard St, San Francisco",37.7871614274,-122.397678494
+50,2010-10-29 04:22:20,"Trader Joe's, 401 Bay St, San Francisco",37.805591853,-122.413867242
+51,2010-10-21 02:21:41,"Whole Foods Market, 3360 E. Speedway Blvd., Tucson",32.2356718231,-110.921624783
+52,2010-10-20 08:03:51,"Chico's Tacos, 3401 Dyer St, El Paso",31.8070776879,-106.444961429
+53,2010-10-13 02:45:57,"Pat's King of Steaks, 1237 E Passyunk Ave, Philadelphia",39.933178408,-75.1592624187
+54,2010-10-12 10:54:19,"Vassar College, 124 Raymond Ave, Poughkeepsie",41.6877739423,-73.8951022674
+55,2010-10-12 10:52:31,"Toyota On Western, 6941 S Western Ave, Chicago",41.7667787496,-87.6831984717
+56,2010-10-09 02:36:14,"Bob Evans Restaurant, 266 Highland Rd E, Macedonia",41.2988978231,-81.5154667517
+57,2010-10-07 09:45:57,"Fat Johnnies, 7242 S Western Ave, Chicago",41.761598517,-87.6833188217
+58,2010-10-01 22:09:21,"Spam Museum, 1101 N Main St, Austin",43.6694458222,-92.9747020024
+59,2010-09-29 22:17:07,"Old Faithful Geyser, U.S. 191, Yellowstone National Park",44.4595458793,-110.828340054
+60,2010-09-21 06:28:45,"Indian Visa Center, 965 Mission St, San Francisco",37.781547,-122.407802
+61,2010-09-13 09:35:40,"North Beach Farmers Market, Powell St, San Francisco",37.8005067818,-122.410836277
+62,2010-09-05 07:37:12,"Domaine Carneros, 1240 Duhig Rd, Napa",38.2556343524,-122.351122846
+63,2010-08-22 11:54:38,"Tony19s Pizza Napoletana, 1570 Stockton St, San Francisco",37.800328012,-122.409040332
+64,2010-08-20 08:31:05,"Humphry Slocombe, 2790 Harrison St, San Francisco",37.7528095951,-122.411961257
+65,2010-08-11 11:18:11,"Turtle Tower Restaurant, 645 Larkin St, San Francisco",37.7840366519,-122.417749848
+66,2010-08-09 09:58:39,"Yank Sing, 101 Spear St, San Francisco",37.7925510428,-122.393096739
+67,2010-07-11 06:39:21,"Bed Bath & Beyond, 555 9th St, San Francisco",37.7712092024,-122.407772037
+68,2010-06-14 11:26:21,"AT&T Park, 24 Willie Mays Plz, San Francisco",37.7785050387,-122.390325185
+69,2010-05-29 16:03:13,"Ferry Plaza Farmers Market, 1 Ferry Building, San Francisco",37.7949290295,-122.392963972
+70,2010-05-09 06:04:12,"Tanguito, 2850 Jones St, San Francisco",37.807298221,-122.417152533
+71,2010-05-05 12:59:37,"Hazel's Kitchen, 1319 18th St, San Francisco",37.7624942628,-122.396063805
+72,2010-04-12 13:32:03,"Zeitgeist, 199 Valencia St, San Francisco",37.7701168394,-122.422108054
+73,2010-04-01 02:02:15,"American Apparel, 365 Grant Ave, San Francisco",37.7903412169,-122.405620378
+74,2010-03-26 13:55:37,"Yahoo! Gym, 701 First Ave, Sunnyvale",37.4184785489,-122.025285959
+75,2010-02-24 14:10:58,"Googleplex - 46, 1565 Charleston Rd, Mountain View",37.4191669938,-122.082171622
+76,2010-01-30 01:31:12,"Mel's Drive-In, 1050 Van Ness Ave, San Francisco",37.78560341,-122.421118319
+77,2009-12-25 14:34:26,"The Duke of Edinburgh, 10801 N Wolfe Rd, Cupertino",37.3349065476,-122.014869025
+78,2009-11-26 02:24:29,"DeLise, 327 Bay St, San Francisco",37.805832,-122.412672043
+79,2009-11-24 06:25:04,"URL's Cafe at Yahoo!, 721 First Ave, Sunnyvale",37.4178905947,-122.025307417
+80,2009-11-14 10:46:43,"Miyabi Sushi, 393 Bay St, San Francisco",37.8055358659,-122.413535389
+81,2009-11-10 12:53:26,"Bimbo's 365 Club, 1025 Columbus Ave, San Francisco",37.8036457351,-122.415332915
+82,2009-11-08 02:45:58,"Philz Coffee, 201 Berry St, San Francisco",37.7758355208,-122.393461849
+83,2009-11-07 10:35:29,"The Rose & Crown Pub, 547 Emerson St, Palo Alto",37.444375718,-122.161729791
+84,2009-11-01 07:47:22,"Maddie's Pet Adoption Center, 250 Florida St, San Francisco",37.76621999,-122.4121993
+85,2009-10-29 07:37:23,"Yahoo! - Building C, 701 First Ave, Sunnyvale",37.4182058751,-122.025082111
+86,2009-10-29 03:25:54,"Cafe Francisco, 2161 Powell St, San Francisco",37.804911,-122.411916
+87,2009-10-28 06:27:59,"The Warfield Theatre, 982 Market St, San Francisco",37.7825233143,-122.410392165
+88,2009-10-27 15:22:33,"Freddie's Sandwiches, 300 Francisco St, San Francisco",37.80517963,-122.410233392
+89,2009-08-11 05:45:50,"Yahoo! - Building C, 701 First Ave, Sunnyvale",37.4182058751,-122.025082111
+90,2009-08-10 11:05:49,"Rainbow Grocery, 1745 Folsom St, San Francisco",37.7691033683,-122.415236235
+91,2009-08-10 11:04:35,"Arizmendi Bakery, 1331 9th Ave, San Francisco",37.763461,-122.466368
+92,2009-08-10 09:54:06,"Sports Basement, 610 Old Mason St, San Francisco",37.8031933197,-122.45855391
+93,2009-08-08 08:09:35,"Yahoo! - Building E, 700 First Ave, Sunnyvale",37.4155728172,-122.025521994

@@ -1,0 +1,83 @@
+,time,poi,latitude,longitude
+0,2016-03-25 02:24:02,"Caf du Monde, 800 Decatur St, New Orleans",29.9575059286,-90.0619456172
+1,2016-03-25 02:23:12,"Pepper Palace, 835 Decatur St, New Orleans, LA 70116, New Orleans",29.9583909234,-90.0613774785
+2,2016-03-25 02:21:25,"Jackson Square, 745 Decatur St., New Orleans",29.9575465961,-90.0629085302
+3,2016-03-25 02:20:29,"Mother's Restaurant, 401 Poydras St, New Orleans",29.9489200751,-90.0669908524
+4,2016-03-25 01:07:56,"Queen & Crescent Hotel, 344 Camp St, New Orleans",29.949984,-90.069063
+5,2016-03-25 01:06:31,"Pat O'Brien's, 718 Saint Peter St, New Orleans",29.9580764334,-90.0654995441
+6,2016-03-25 01:06:00,"St. Charles Avenue Streetcar, 100 Carondelet Street, New Orleans",29.9534346888,-90.0700712813
+7,2016-03-25 01:04:20,"Reverend Zombie's Voodoo Shop, 723 Saint Peter St, New Orleans",29.9584220875,-90.0651723146
+8,2016-03-25 01:02:28,"Joey K's, 3001 Magazine St, New Orleans",29.9250003409,-90.084747076
+9,2016-03-25 01:01:05,"Willa Jean, 611 Okeefe Ave, New Orleans",29.9482364253,-90.0750348384
+10,2016-01-01 13:39:38,"Ox Cart Tavern, 1301 Newkirk Ave, Brooklyn",40.634856,-73.965126
+11,2016-01-01 13:39:04,"The Original Chinatown Ice Cream Factory, 65 Bayard St, New York",40.715598898,-73.9982024607
+12,2015-09-24 02:10:00,"Barton Orchards, 63 Apple Tree Ln, Poughquag",41.6087947572,-73.705843982
+13,2015-09-24 02:08:38,"Peekskill Brewery, 47-53 S Water St, Peekskill",41.2867234609,-73.9292442799
+14,2015-07-28 21:50:22,"Geido, 331 Flatbush Ave, Brooklyn",40.677828,-73.97293
+15,2015-07-28 21:47:32,"Wheeler's Restaurant, 1707 Sheepshead Bay Rd, Brooklyn",40.5858472656,-73.9515928959
+16,2015-07-28 21:46:45,"Bagel Boy, 1602 Avenue Z, Brooklyn",40.58802,-73.953244
+17,2015-07-04 21:33:30,"Berg'n, 899 Bergen St, Brooklyn",40.6772326326,-73.9574132509
+18,2015-07-04 21:32:40,"Dough, 305 Franklin Ave, Brooklyn",40.6891968241,-73.9573431015
+19,2015-07-04 21:31:56,"Chipotle Mexican Grill, 1325 Kings Hwy, Brooklyn",40.6085433154,-73.9592557528
+20,2015-07-04 21:31:10,"Fonda, 40 Avenue B, New York",40.7228762461,-73.9829796553
+21,2015-07-04 21:30:19,"Carvel Ice Cream, 2744 Coney Island Ave, Brooklyn",40.5896346783,-73.9607251497
+22,2015-06-20 23:20:34,"Sea Witch, 703 5th Ave, Brooklyn",40.6609316435,-73.9936975351
+23,2015-06-20 23:17:48,"Zombie Hut, 273 Smith St, Brooklyn",40.682558,-73.99300801
+24,2015-06-20 23:16:07,"Pop's Burger, 167 N 8th St, Brooklyn",40.7183139957,-73.9569081383
+25,2014-10-13 08:11:06,"Doughnut Plant, 379 Grand St, New York",40.7163466486,-73.9885425568
+26,2014-09-28 08:12:58,"David's Brisket House, 7721 5th Ave, Brooklyn",40.6273830765,-74.023537105
+27,2014-09-28 08:12:26,"Anatolian Gyro, 1605 Sheepshead Bay Rd, Brooklyn",40.5874575065,-73.9530853114
+28,2014-09-28 08:10:11,"MonkeySports Superstore, 1500 US Highway 9 N, Woodbridge",40.5619383831,-74.2962026596
+29,2014-09-21 09:39:58,"Tap Beer Boutique, 2081 E 19th St, Brooklyn",40.5993609845,-73.9527007285
+30,2014-09-21 09:38:51,"T Baar (3638 Tbaar inc.), 4823 8th Ave, New York",40.6416432484,-74.0030745477
+31,2014-09-09 04:12:51,"Wasabi Japanese Restaurant, 100 Plaza Dr, Williamsville",43.0009222993,-78.7406658299
+32,2014-09-07 19:57:38,"Duff's Famous Wings, 550 Dick Rd, Depew",42.916631,-78.736568
+33,2014-09-02 05:52:05,"Sycamore Flower Shop + Bar, 1118 Cortelyou Rd, Brooklyn",40.6399128166,-73.9673085995
+34,2014-09-02 05:49:52,"200 Fifth, 200 5th Ave, Brooklyn",40.6766839153,-73.9802739512
+35,2014-09-02 05:47:47,"South, 629 5th Ave, Brooklyn",40.663164,-73.9913069333
+36,2014-09-02 05:46:37,"The Growler Bites & Brews, 55 Stone St, New York",40.7044290472,-74.0102303798
+37,2014-09-02 05:44:45,"The Castello Plan, 1213 Cortelyou Rd, Brooklyn",40.6402966545,-73.9665681879
+38,2014-09-02 05:41:51,"Woodwork, 583 Vanderbilt Ave, Brooklyn",40.6802271427,-73.96791704
+39,2014-09-02 05:40:39,"Pacific Standard, 82 4th Ave, Brooklyn",40.6820379511,-73.9802280374
+40,2014-09-02 05:39:22,"Barbs, 376 9th St, Brooklyn",40.6679487797,-73.9839412826
+41,2014-09-02 05:37:51,"Bar Great Harry, 280 Smith St, Brooklyn",40.6823572823,-73.9934565043
+42,2014-09-02 05:35:16,"Hanson Dry, 925 Fulton St, Brooklyn",40.683419,-73.966372
+43,2014-09-02 05:32:36,"Black Horse Pub, 568 5th Ave, Brooklyn",40.6650352833,-73.9898265833
+44,2014-09-02 05:31:39,"Uncle Barry's, 58 5th Ave, Brooklyn",40.6812702113,-73.9772263973
+45,2014-09-02 05:30:03,"Union Hall, 702 Union St, Brooklyn",40.6762524353,-73.980152607
+46,2014-09-02 05:28:15,"Oaxaca Taqueria, 250 4th Ave, Brooklyn",40.676509,-73.9836
+47,2014-09-02 05:27:02,"Mission Dolores, 249 4th Ave, Brooklyn",40.6762178539,-73.9833953977
+48,2014-09-02 05:26:02,"Fourth Avenue Pub, 76 4th Ave, Brooklyn",40.6822100939,-73.9799353365
+49,2014-09-02 05:24:16,"Wingcraft, 2010 Baltic Ave, Atlantic City",39.3619082007,-74.4380361189
+50,2014-09-02 05:23:25,"Keegan Ales, 20 Saint James St, Kingston",41.931613,-74.012059
+51,2014-09-02 00:56:26,"San Loco, 122 2nd Ave, New York",40.7282643799,-73.9879471451
+52,2014-09-02 00:54:51,"Drop Off Service, 211 Avenue A, New York",40.729872,-73.980802
+53,2014-09-02 00:54:19,"Otto's Shrunken Head, 538 E 14th St, New York",40.7296880372,-73.9784775646
+54,2014-09-02 00:52:53,"House of Vans, 25 Franklin St, Brooklyn",40.72574133,-73.957748
+55,2014-09-02 00:51:20,"The Lockyard, 9221 5th Ave, Brooklyn",40.6173730003,-74.0293550491
+56,2014-09-02 00:49:53,"Ho' Brah Taco Joint, 8618 3rd Ave, Brooklyn",40.6229580473,-74.0313462687
+57,2014-09-02 00:46:50,"Uncle Louie G's Italian Ices & Ice Cream, 317 7th Ave, Brooklyn",40.66718,-73.981428
+58,2014-09-02 00:46:20,"Top Hops, 94 Orchard St, New York",40.7184121198,-73.9898943901
+59,2014-09-02 00:43:59,"Greenpoint Beer and Ale Company, 7 N 15th St, Brooklyn",40.7249577765,-73.9572572708
+60,2014-09-02 00:42:15,"Dog Day Cyclery, 115 Van Brunt St, Brooklyn",40.6845349073,-74.0053278208
+61,2014-09-02 00:40:06,"Prospect Park, Prospect Park, Brooklyn",40.6611178664,-73.9715903041
+62,2014-09-02 00:39:04,"The KBH (Die Koelner Bierhalle), 84 Saint Marks Pl, Brooklyn",40.6815330081,-73.9799112082
+63,2014-09-02 00:34:03,"Kimchi Grill, 766 Washington Ave, Brooklyn",40.6751254793,-73.9634183049
+64,2014-09-02 00:32:35,"Ample Hills Creamery, 305 Nevins St, Brooklyn",40.6789293881,-73.9872980118
+65,2014-09-02 00:31:35,"Ample Hills Creamery, 623 Vanderbilt Ave, Brooklyn",40.6786181674,-73.9682999253
+66,2014-09-02 00:30:40,"Pok Pok NY, 117 Columbia St, Brooklyn",40.6875900992,-74.0012830496
+67,2014-09-02 00:29:45,"Amityville Music Hall & Tavern, 198 Broadway, Amityville",40.6789321014,-73.4175117407
+68,2014-09-02 00:28:44,"The Habitat, 988 Manhattan Ave, Brooklyn",40.7328503317,-73.9545080066
+69,2014-09-02 00:27:55,"Maison Premiere, 298 Bedford Ave, Brooklyn",40.7142283599,-73.9615516806
+70,2014-09-02 00:25:04,"Pies 'n' Thighs, 166 S 4th St, Brooklyn",40.7112552473,-73.9614426247
+71,2014-09-02 00:23:42,"SONIC - America's Drive In, 1380 Deer Park Ave, North Babylon",40.7436572929,-73.3227723359
+72,2014-08-24 04:24:56,"Croxley's Ale House, 28 Avenue B, New York",40.722466,-73.9833768
+73,2014-08-24 04:21:45,"Saint Vitus Bar, 1120 Manhattan Ave, Brooklyn",40.7367056084,-73.9552091134
+74,2014-08-24 04:20:49,"Bonnie's Grill, 278 5th Ave, Brooklyn",40.674279,-73.98214
+75,2014-08-24 04:19:44,"Cinco de Mayo, 1202 Cortelyou Rd, Brooklyn",40.640082,-73.967058
+76,2014-08-24 04:18:54,"The Commodore, 366 Metropolitan Ave, Brooklyn",40.7140432473,-73.9559590816
+77,2014-03-27 22:05:57,"Get Shaved, 12910 Magnolia Blvd, Los Angeles",34.164778,-118.414266
+78,2013-08-25 00:49:26,"Iroha Sushi of Tokyo, 12953 Ventura Blvd, Studio City",34.145788,-118.415552974
+79,2013-08-19 01:13:08,"Original Thai Restaurant, 11363 Riverside Dr, North Hollywood",34.157261,-118.378212
+80,2010-04-29 22:16:55,"Red Bull Arena, 600 Cape May St, Harrison",40.7367331848,-74.1506068039
+81,2010-04-29 22:15:00,"HoWong Restaurant 7dfa, 6702 Bay Pkwy, Brooklyn",40.6123446025,-73.9829943258

@@ -1,0 +1,73 @@
+,time,poi,latitude,longitude
+0,2016-08-07 04:05:22,"Chipotle Mexican Grill, 3350 Buford Dr, Buford",34.0731374116,-83.9847922325
+1,2016-08-07 04:01:54,"Monterrey Mexican Restaurant, 2380 Buford Dr, Lawrenceville",34.0360290745,-83.9893863942
+2,2016-03-19 22:16:49,"Michelangelo's Coffee House, 114 State St, Madison",43.0749617221,-89.3870889744
+3,2016-02-17 05:43:28,"Starbucks, 3206 Lawrenceville Suwanee Rd, Suwanee",34.0347511521,-84.0526739508
+4,2016-01-01 01:21:43,"El Maguey, Limestone Pkwy, Gainesville",34.32880332,-83.805912
+5,2015-01-24 02:30:22,"Atlas Pizza, 104 Main St SW, Gainesville",34.299713,-83.826968
+6,2014-12-11 01:12:42,"Taco Bell, 1957 Jesse Jewell Pkwy SE, Gainesville",34.3143738718,-83.7956569139
+7,2014-11-11 05:26:32,"Dallas Fort Worth International Airport (DFW), 2400 Aviation Dr, DFW Airport",32.8974347257,-97.0380481882
+8,2014-10-04 00:53:02,"Lakeshore Mall, 150 Pearl Nix Pkwy, Gainesville",34.2934963855,-83.8438553429
+9,2014-09-06 07:02:40,"Best Buy, 670 Dawsonville Hwy, Gainesville",34.296983541,-83.8535433178
+10,2014-06-08 10:09:09,"Monkey Barrel, 115 Washington St NE, Gainesville",34.3000185309,-83.8264898075
+11,2014-05-25 08:57:25,"Tin Lizzy's Cantina, 3333 Buford Dr, Buford",34.0642768834,-83.9832487905
+12,2013-11-06 07:38:26,"Lulubell Toy Bodega, 128 W Main St, Mesa",33.4152933226,-111.835196847
+13,2013-10-16 05:53:48,"Dunkin' Donuts, 500 W Madison St, Chicago",41.8822789209,-87.6404975181
+14,2013-08-17 02:43:54,"Hannah's Bretzel, 180 W Washington St, Chicago",41.8832062588,-87.6335727879
+15,2013-06-23 01:05:40,"Earth Fare, 1392 S Rangeline Rd, Carmel",39.9580578404,-86.1273532683
+16,2013-04-29 22:32:01,"Cook County Criminal Courts Building, 2650 S California Ave, Chicago",41.8439736433,-87.6956605911
+17,2013-02-22 03:34:55,"First Northern Credit Union, 230 W Monroe St, Chicago",41.8809449254,-87.6350378149
+18,2013-02-17 08:10:47,"Francesca's Al Lago, 111 Martin Luther King Jr Blvd, Madison",43.073633,-89.3828397989
+19,2013-01-19 02:17:49,"Taza, 176 N Franklin St, Chicago",41.885320701,-87.6352980451
+20,2012-04-04 07:28:26,"Fruit Cart, 6930 N Clark St, Chicago",42.0023723122,-87.6708970325
+21,2012-04-04 07:27:43,"Fruit Cart, 6930 N Clark St, Chicago",42.0023723122,-87.6708970325
+22,2012-03-11 08:14:43,"Los Angeles International Airport (LAX), 1 World Way, Los Angeles",33.9435869099,-118.408083022
+23,2012-03-09 18:19:07,"San Diego Zoo, 2920 Zoo Dr, San Diego",32.7354061114,-117.149393033
+24,2012-03-09 18:16:45,"Albert's Restaurant, 2920 Zoo Dr, San Diego",32.7344942687,-117.151937485
+25,2012-03-09 18:13:53,"El Gringo, 2620 Hermosa Ave, Hermosa Beach",33.8724777638,-118.405097723
+26,2012-03-08 09:56:44,"Muzita Abyssinian Bistro, 4651 Park Blvd, San Diego",32.7618974035,-117.146113071
+27,2012-03-07 05:50:30,"Carlsbad Visitor Center, 400 Carlsbad Village Dr, Carlsbad",33.1596371023,-117.349525375
+28,2012-03-07 05:25:48,"Self-Realization Fellowship Hermitage & Meditation Gardens, 215 W K St, Encinitas",33.0366556934,-117.294106752
+29,2012-03-05 07:02:32,"The GRAMMY Museum, 800 W Olympic Blvd, Los Angeles",34.0446869905,-118.264662158
+30,2011-10-31 04:55:34,"McDonald's, 6740 N Clark St, Chicago",42.00480781,-87.6731341833
+31,2011-09-17 01:26:35,"BP, Cermak Rd 11201, Westchester",41.8477751423,-87.9018414325
+32,2011-08-02 06:45:39,"McDonald's, 1919 Dempster St, Evanston",42.0413730823,-87.7001165458
+33,2011-06-22 07:06:41,"Pita Inn, 3910 Dempster St, Skokie",42.0409626235,-87.7261479675
+34,2011-05-31 02:52:31,"Mitsuwa Marketplace, 100 E Algonquin Rd, Arlington Heights",42.0446929548,-87.980943115
+35,2011-03-20 07:16:20,"Dukes Hideaway, 6920 N Glenwood Ave, Chicago",42.0073735714,-87.66625
+36,2011-03-13 00:05:26,"Rogers Park Fine Wines & Spirits, 6733 N Clark St, Chicago",42.004527,-87.67277
+37,2011-03-12 23:57:14,"L'Occitane en Provence, 846 W Armitage Ave, Chicago",41.9181725425,-87.6503792214
+38,2011-03-04 22:08:17,"Tuscany, 550 S Milwaukee Ave, Wheeling",42.1317183263,-87.9019803637
+39,2011-01-16 06:03:15,"Medieval Times Dinner & Tournament, 2001 N Roselle Rd, Schaumburg",42.0654134434,-88.0769147951
+40,2010-11-11 02:44:45,"Potbelly Sandwich Shop, 1520 E. Lake Cook Road, Wheeling",42.1545154,-87.95291028
+41,2010-10-11 08:41:17,"Wildfire, 1300 Patriot Blvd, Glenview",42.0787395284,-87.817032299
+42,2010-09-28 01:04:07,"Jimmy Johns, 2223 S Wolf Rd, Hillside",41.8472845432,-87.9012042597
+43,2010-08-30 22:29:40,"Clary's Cafe, 404 Abercorn St, Savannah",32.0716756558,-81.0921538084
+44,2010-05-16 07:14:46,"Ropa, 1146 W Pratt Blvd, Chicago",42.005618,-87.660349
+45,2010-04-18 09:52:10,"Lincoln Park Zoo, 2001 N Clark St, Chicago",41.9213526287,-87.6337751958
+46,2010-04-11 08:23:10,"Hema's Kitchen II, 2411 N Clark St, Chicago",41.92587235,-87.6406295
+47,2010-04-02 02:25:09,"International Space Station, Low Earth Orbit, Merritt Island",28.3300709943,-80.6615352631
+48,2010-03-27 11:42:59,"CTA - Chicago (Red), 800 N State St, Chicago",41.8967317269,-87.6278471661
+49,2010-03-26 01:58:28,"Wildfire, 1300 Patriot Blvd, Glenview",42.0787395284,-87.817032299
+50,2010-03-25 05:45:16,"Food 4 Less, 2400 Main St, Evanston",42.0327168109,-87.7073872173
+51,2010-03-22 20:54:58,"7-Eleven, 7950 Crawford Ave, Skokie",42.025911,-87.728701
+52,2010-03-21 07:59:07,"Scholar's Inn Restaurant & Lounge, 725 Massachusetts Ave, Indianapolis",39.776769,-86.146299
+53,2010-03-20 09:45:12,"IKEA, 1800 McConnor Pkwy, Schaumburg",42.0566520092,-88.0353271029
+54,2010-03-20 02:15:45,"Neiman Marcus, 6 Oakbrook Ctr, Oak Brook",41.8486963901,-87.9505032225
+55,2010-03-19 03:54:44,"Armando's Caribe, 3170 Peachtree Industrial Blvd, Duluth",34.019756,-84.1586798429
+56,2010-03-17 01:39:54,"Starbucks, 3 Westbrook Corporate Ctr Ste L150, Westchester",41.84556,-87.902335
+57,2010-03-16 21:58:12,"Ivy's Ice Cream, Kings Alley Walk, Christiansted",17.7468882442,-64.7038507462
+58,2010-03-16 21:56:40,"Luis Muoz Marn International Airport (SJU), PR-17 St. From San Juan, Carolina",18.4366338713,-66.0026622599
+59,2010-03-06 09:20:45,"Heartland Caf, 7000 N Glenwood Ave, Chicago",42.009119,-87.666355
+60,2010-03-04 02:50:49,"Northbrook BP & Maverick Car Wash, Willow Rd 1998, Northbrook",42.1059922452,-87.8287614716
+61,2010-01-17 13:34:15,"Spyners Pub, 4623 N Western Ave, Chicago",41.9657088271,-87.6886861042
+62,2009-11-22 09:40:31,"Chick-fil-A, 5802 Durand Ave, Racine",42.69924822,-87.84972668
+63,2009-11-22 08:09:22,"Mars Cheese Castle, 2800 W Frontage Rd, Kenosha",42.6148306588,-87.9540646076
+64,2009-11-09 01:01:28,"Noon Hour Grill, 6930 N Glenwood Ave, Chicago",42.007625699,-87.666187
+65,2009-11-07 04:53:43,"Hartsfield-Jackson Atlanta International Airport (ATL), 6000 N Terminal Pkwy, Atlanta",33.6406859139,-84.4359365173
+66,2009-10-18 09:23:39,"UIC Pavilion, 525 S Racine Ave, Chicago",41.874840021,-87.6563380442
+67,2009-10-10 07:35:00,"Chicago O'Hare International Airport (ORD), 10000 W Ohare Ave, Chicago",41.97151,-87.89537
+68,2009-09-27 08:53:21,"Pita Inn, 3910 Dempster St, Skokie",42.0409626235,-87.7261479675
+69,2009-09-25 21:48:27,"Phipps Plaza, 3500 Peachtree Rd NE, Atlanta",33.852544,-84.361986
+70,2009-09-23 21:23:56,"Whole Foods Market, 5945 State Bridge Rd, Duluth",34.0129381104,-84.183576107
+71,2009-09-22 21:51:26,"Hyatt Place Atlanta/Duluth/Gwinnett Mall, 3530 Venture Pkwy, Duluth",33.9545866428,-84.1279575364

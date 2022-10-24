@@ -1,0 +1,67 @@
+,time,poi,latitude,longitude
+0,2015-02-25 01:00:42,"Rev. Billy's Chop Shop, 4314 N Lincoln Ave, Chicago",41.9588924339,-87.6824282248
+1,2014-06-21 06:39:58,"Lemonade MOCA, 250 S Grand Ave, Los Angeles",34.0532772109,-118.25061053
+2,2014-06-07 08:47:01,"Girl & the Goat, 809 W Randolph St, Chicago",41.884339,-87.647825
+3,2014-05-27 06:14:05,"Warwick New York Hotel, 65 W 54th St, New York",40.7623612625,-73.978506261
+4,2014-05-06 01:42:11,"Marcellos Father & Son Restaurant, 645 W North Ave, Chicago",41.9109378174,-87.6450796953
+5,2014-04-29 23:01:26,"Fairfield Inn New York LaGuardia Airport/Flushing, 28-66 College Point Boulevard, Flushing",40.771439,-73.844402
+6,2013-11-28 02:33:22,"Terzo Piano, 159 E Monroe St, Chicago",41.8802682478,-87.6223425673
+7,2013-04-30 08:57:04,"Margie's Candies, 1960 N Western Ave, Chicago",41.9174684038,-87.6875164275
+8,2012-11-19 04:10:12,"Old Town Social, 455 W North Ave, Chicago",41.9108127022,-87.6408492683
+9,2012-11-19 04:09:33,"Old Town Social, 455 W North Ave, Chicago",41.9108127022,-87.6408492683
+10,2012-07-22 08:07:54,"Lillie's Q, 1856 W North Ave, Chicago",41.9104854138,-87.6751041412
+11,2012-06-13 01:34:04,"Puck's Express, 220 E Chicago Ave, Chicago",41.897087,-87.6214921474
+12,2012-04-19 23:25:49,"Trolley Car Diner, 7619 Germantown Ave, Philadelphia",40.0655381757,-75.1956755324
+13,2012-03-13 01:01:59,"Nordstrom Michigan Avenue, 55 E Grand Ave, Chicago",41.8916042306,-87.6258661653
+14,2012-01-25 04:20:27,"Frango Cafe, 111 N State St Fl 7, Chicago",41.8839301359,-87.6283918058
+15,2011-12-23 11:39:41,"Topshop, 830 N Michigan Ave, Chicago",41.8975141313,-87.6245647312
+16,2011-12-22 02:38:06,"Pastoral Artisan Cheese, Bread & Wine, 53 E Lake St, Chicago",41.8857590228,-87.625928826
+17,2011-12-03 04:27:25,"Magnolia Bakery, 108 N State St, Chicago",41.88411586,-87.6280260086
+18,2011-11-27 10:15:58,"Hatsu Hana, 3136 N Broadway St, Chicago",41.93874744,-87.6442361111
+19,2011-11-03 05:19:21,"Ansira - The Dave's Desk, 35 E Wacker Dr, Chicago",41.886707,-87.626376
+20,2011-11-02 09:40:31,"Magnolia Bakery, 108 N State St, Chicago",41.88411586,-87.6280260086
+21,2011-10-21 02:22:48,"Frontera Fresco, 111 N State St, Chicago",41.8842102616,-87.6278616257
+22,2011-10-14 04:05:38,"Macy's, 111 N State St, Chicago",41.8836206279,-87.6276397705
+23,2011-10-09 05:23:20,"Palm Court at The Drake Hotel, 140 E Walton Pl, Chicago",41.9002008261,-87.6238632202
+24,2011-10-05 03:07:52,"Park Grill, 11 N Michigan Ave, Chicago",41.8827065896,-87.6237983137
+25,2011-10-05 02:16:34,"Park Grill, 11 N Michigan Ave, Chicago",41.8827065896,-87.6237983137
+26,2011-10-02 03:17:58,"Marmalade, 1969 W Montrose Ave, Chicago",41.9613832344,-87.6788175183
+27,2011-08-26 11:00:44,"Valois, 1518 E 53rd St, Chicago",41.7996072231,-87.5883410917
+28,2011-07-03 08:23:33,"RA Sushi Bar Restaurant, 1139 N State St, Chicago",41.9031002318,-87.6285749575
+29,2011-07-03 02:45:38,"90 Miles Cuban Cafe, 2540 W Armitage Ave, Chicago",41.917670866,-87.6918196678
+30,2011-06-27 03:37:00,"Redstone American Grill, 13 Lincoln Ctr, Oakbrook Terrace",41.8470253479,-87.9829181426
+31,2011-06-12 02:52:14,"Hoosier Mama Pie Co., 1618 W Chicago Ave, Chicago",41.8960171025,-87.668113702
+32,2011-05-30 05:40:02,"Paciugo Gelato, 3241 N Broadway St, Chicago",41.9410972659,-87.6443810755
+33,2011-05-28 07:42:55,"Five Guys, 3219 N Broadway, Chicago",41.940646,-87.644227
+34,2011-04-29 05:08:22,"Museum of Contemporary Art Chicago, 220 E Chicago Ave, Chicago",41.8971662369,-87.6213741302
+35,2011-04-21 10:35:39,"Urbanbelly, 1400 W Randolph St, Chicago",41.8844434798,-87.6627969718
+36,2011-04-18 08:49:34,"The Bagel, 3107 N Broadway St, Chicago",41.9378958453,-87.6441498059
+37,2011-01-24 05:36:20,"Billy Bishop Toronto City Airport (YTZ), Toronto Island, Toronto",43.6315697499,-79.3961158762
+38,2011-01-17 04:24:28,"Apple Lincoln Park, 801 W. North Avenue, Chicago",41.910609,-87.64849
+39,2011-01-17 04:13:53,"Museum of Science and Industry, 5700 S Lake Shore Dr, Chicago",41.7914671696,-87.5829909516
+40,2011-01-17 04:12:54,"Chicago Public Library, 310 W Division St, Chicago",41.9039958562,-87.6366922259
+41,2011-01-17 04:11:42,"Chicago Boat, Sports and RV Show, 2301 S Lake Shore Dr, Chicago",41.8525804109,-87.6156898909
+42,2010-08-21 10:27:37,"Rigby & Peller, 900 N Michigan Ave, Chicago",41.8994910984,-87.6244008442
+43,2010-08-16 09:50:13,"Barbara & Barbara Hair Parlor, 3131 W Logan Blvd, Chicago",41.9280341616,-87.7063238761
+44,2010-07-22 03:00:53,"Shoreline Water Taxi - Union Station, 200 S. Wacker Drive, Chicago",41.8789876261,-87.6382398605
+45,2010-07-03 03:40:56,"Women's Workout World, 230 W Monroe St, Chicago",41.880981,-87.634987
+46,2010-06-13 06:07:02,"Andersonville Midsommarfest, Clark St., Chicago",41.9784114673,-87.6683664322
+47,2010-04-25 04:08:48,"Aveda Institute, 2828 N Clark St, Chicago",41.933351023,-87.6455277699
+48,2010-04-19 22:35:35,"Floriole Cafe & Bakery, 1220 W Webster Ave, Chicago",41.921812,-87.659186
+49,2010-04-17 00:25:47,"Kamehachi, 311 S Wacker Dr, Chicago",41.8778331959,-87.6361799251
+50,2010-04-12 02:23:31,"BJ's Market & Bakery, 8734 S Stony Island Ave, Chicago",41.7356787366,-87.5858228889
+51,2010-02-11 04:18:48,"Rivers To Go, 30 S Wacker Dr, Chicago",41.8808663959,-87.6373894705
+52,2010-01-25 00:17:22,"AC Hotel Chicago Downtown, 630 North Rush Street, Chicago",41.8936383456,-87.6260881126
+53,2010-01-23 05:35:36,"The Art Institute of Chicago, 111 S Michigan Ave, Chicago",41.8795707638,-87.6236593723
+54,2010-01-16 06:37:32,"Les Ctelettes, 4, Impasse Gumne, Paris",48.854061,2.365872
+55,2010-01-14 09:54:59,"Aux Dsirs de Manon, 129 rue Saint-Antoine, Paris",48.855405,2.360102
+56,2010-01-14 08:27:53,"Melrose Restaurant, 3233 N Broadway St, Chicago",41.941075,-87.64427
+57,2009-09-19 00:02:06,"Iraz, 1865 N Milwaukee Ave, Chicago",41.915435,-87.68510235
+58,2009-09-18 23:58:11,"Portillo's, 100 W Ontario St, Chicago",41.8934366889,-87.6314324141
+59,2009-09-18 23:56:42,"Arturo's Tacos, 2001 N Western Ave, Chicago",41.917675,-87.6872042833
+60,2009-06-30 02:52:23,"Rivers Restaurant, 30 S Wacker Dr, Chicago",41.8811262701,-87.6383532288
+61,2009-05-22 05:12:26,"Lou Mitchell's, 565 W Jackson Blvd, Chicago",41.8780157654,-87.6420683267
+62,2009-05-12 13:56:54,"Lito's Empanadas, 2566 N Clark St, Chicago",41.929477,-87.64276
+63,2009-05-12 04:04:57,"Medici on 57th, 1327 E 57th St, Chicago",41.7914072222,-87.5936471963
+64,2009-05-08 07:29:02,"Museum of Contemporary Art Chicago, 220 E Chicago Ave, Chicago",41.8971662369,-87.6213741302
+65,2009-05-01 02:29:19,"Sant Ambroeus West Village, 259 W 4th St, New York",40.7354866792,-74.003321305

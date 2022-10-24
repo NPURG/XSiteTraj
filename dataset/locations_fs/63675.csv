@@ -1,0 +1,49 @@
+,time,poi,latitude,longitude
+0,2016-08-17 22:41:02,"Five Guys Burgers and Fries, Concourse B, Dulles",38.9488711828,-77.4531969367
+1,2016-08-02 08:13:36,"Superior Auto Sounds, 1101 W Beauregard Ave, San Angelo",31.457201,-100.452155
+2,2015-12-05 23:25:19,"Tamarine Restaurant, 546 University Ave, Palo Alto",37.4488816825,-122.158519761
+3,2015-09-13 06:45:17,"Hermes, Graben 22, 1010 Wien, Wien",48.209088351,16.3691568375
+4,2015-09-13 06:43:49,"CHANEL Boutique, 5 Kohlmarkt, Wien",48.2091784837,16.3689195778
+5,2015-09-13 06:42:37,"St. Stephen's Cathedral, Stephansplatz 3, Wien",48.2086014181,16.3724165958
+6,2015-09-13 06:41:47,"Dai Fratelli, Rotenturmstrasse 11, Wien",48.2098269217,16.3735558002
+7,2015-09-13 06:38:00,"Leopold Museum, Museumsplatz 1, Wien",48.2029645031,16.3588022148
+8,2015-09-13 06:37:18,"Caf Landtmann, Universittsring 4, Wien",48.2115049429,16.3613569736
+9,2015-08-16 01:36:41,"Serenity Day Spa, 3812 Arden Rd, San Angelo",31.4482035646,-100.489358319
+10,2015-08-16 01:35:05,"Cork & Pig Tavern, 2201 Knickerbocker Rd, San Angelo",31.4257434935,-100.462046007
+11,2015-08-16 01:32:32,"Beautiful People, 1809 Freeland Ave, San Angelo",31.4590930939,-100.462760925
+12,2015-08-16 01:31:53,"Cantina Laredo Terminal B-28, Terminal B20-B39, Grapevine",32.9064458483,-97.0443594602
+13,2015-03-06 20:23:51,"Bar Restaurante Romero, C. Llacuna, 104, Barcelona",41.4034815384,2.19615466825
+14,2015-03-06 20:22:52,"Bar Restaurante Romero, C. Llacuna, 104, Barcelona",41.4034815384,2.19615466825
+15,2015-03-06 20:17:10,"Minute Suites, DFW Terminal D, Grapevine",32.8986373177,-97.0443804638
+16,2014-08-14 03:15:32,"Shipping Point, 1300 W Beauregard Ave, San Angelo",31.45649246,-100.45434834
+17,2014-08-14 03:14:23,"Walmart Supercenter, 9441 Alameda Ave, El Paso",31.6829051825,-106.31231229
+18,2014-08-14 03:14:01,"South Draw Ranch, Top of the Hill!, Eldorado",30.946548,-100.597073
+19,2014-08-14 03:12:57,"Red Lantern, 1841 N Zaragoza Rd, El Paso",31.7580572654,-106.273015738
+20,2014-03-30 01:59:29,"Middle East Restaurant, 4621 S 14th St, Abilene",32.4294672167,-99.7827994823
+21,2013-09-10 10:39:45,"San Angelo Mathis Field (SJT), Mathis Field, San Angelo",31.3574192771,-100.503311337
+22,2013-09-02 15:08:49,"Le Paris, 26-28 boulevard Richard Lenoir, Paris",48.8600099941,2.37883100873
+23,2013-09-01 19:59:46,"Caf des Anges, 66 rue de la Roquette, Paris",48.8555815,2.3745014
+24,2013-07-28 14:57:20,"South Draw Ranch, Top of the Hill!, Eldorado",30.946548,-100.597073
+25,2013-07-20 15:16:02,"Veselka, 144 2nd Ave, New York",40.7291362344,-73.9869715129
+26,2012-12-03 06:13:25,"Texas Stadium Skybox, Gate C25, DFW Airport",32.896699,-97.03601
+27,2012-08-13 03:37:12,"Boulevard Bar & Grille, 9860 Las Vegas Blvd S, Las Vegas",36.0107895866,-115.171798526
+28,2012-08-12 06:07:55,"Border Grill, 3950 Las Vegas Blvd S, The Strip",36.0901824228,-115.176546222
+29,2012-08-08 11:38:17,"J Fargo's Grill & Bar, 1209 E Main St, Cortez",37.3485228273,-108.570292647
+30,2012-06-04 06:00:12,"Brannan's Grill, 1374 Lincoln Ave, Calistoga",38.5784713332,-122.578861344
+31,2011-12-31 04:10:32,"Wildlife Express Train, Rafiki's Planet Watch, Animal Kingdom, Lake Buena Vista",28.3599335322,-81.591406546
+32,2011-12-12 19:32:37,"Hampton Inn & Suites by Hilton Miami Airport South - Blue Lagoon, 777 NW 57th Ave, Miami",25.7790322231,-80.2879039108
+33,2011-11-09 03:29:49,"Asian Buffet, 3508 Knickerbocker Rd, San Angelo",31.4205042334,-100.471855539
+34,2011-10-08 09:52:30,"Shula's Steak House, 1200 Louisiana St, Houston",29.7569293626,-95.3690849617
+35,2011-07-26 22:39:30,"South Draw Ranch, Top of the Hill!, Eldorado",30.946548,-100.597073
+36,2011-07-22 19:24:07,"Newark Liberty International Airport (EWR), 10 Toler Pl, Newark",40.6911302172,-74.1778932098
+37,2011-07-20 10:05:24,"Hummus Kitchen, 444 3rd Ave, New York",40.7436877943,-73.9798602462
+38,2011-06-12 22:56:05,"Blue Bonnet Cafe, 211 US Highway 281, Marble Falls",30.5707968153,-98.2759666443
+39,2011-06-06 21:52:39,"Kim Phung, 7601 N Lamar Blvd, Austin",30.3438477539,-97.7143375488
+40,2011-05-09 00:45:58,"La Espula Taqueria, 4934-5098 Greenwood Dr ste 160, Corpus Christi",27.7439754434,-97.440377569
+41,2011-05-08 00:42:01,"North Padre Island, S Padre Island Dr, Corpus Christi",27.5907744466,-97.2258776527
+42,2011-01-08 09:08:53,"Noodle Asia, 3355 Las Vegas Blvd S, Las Vegas",36.122311535,-115.170922279
+43,2011-01-05 03:40:27,"Sahra Spa & Hammam, 3708 Las Vegas Blvd S, Las Vegas",36.1096165442,-115.176111984
+44,2010-03-16 01:55:17,"Outback Steakhouse, 4505 Sherwood Way, San Angelo",31.434946,-100.498004
+45,2010-03-15 21:28:40,"Discount Tire Store, 4360 Sherwood Way, San Angelo",31.43708734,-100.496502
+46,2010-02-16 03:21:04,"Sam's Club, 6375 NE Loop 820, North Richland Hills",32.8422741041,-97.2486428334
+47,2010-01-10 15:14:18,"Lobby Bar & Cafe at Encore, 3121 Las Vegas Blvd., Las Vegas",36.1289691202,-115.165047413

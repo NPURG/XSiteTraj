@@ -1,0 +1,123 @@
+,time,poi,latitude,longitude
+0,2015-02-08 09:25:00,"Phoenix, AZ, United States",33.44820404,-112.07258606
+1,2015-02-07 02:44:00,"Waikoloa, HI, United States",19.9335041,-155.78816223
+2,2015-01-31 01:57:00,"Kailua-Kona, HI, United States",19.64736748,-155.99301147
+3,2015-01-30 09:38:00,"Philadelphia, PA, United States",39.95106125,-75.1656189
+4,2015-01-16 20:01:00,"Exton, PA, United States",40.01919937,-75.62280273
+5,2015-01-11 17:18:00,"Philadelphia, PA, United States",39.95106125,-75.1656189
+6,2015-01-03 12:23:00,"Philadelphia, PA, United States",39.95106125,-75.1656189
+7,2014-11-24 19:03:00,"Concordville, PA, United States",39.88288116,-75.51662445
+8,2014-11-05 12:22:00,"Las Vegas, NV, United States",36.16909027,-115.14057922
+9,2014-11-03 14:31:00,"Philadelphia, PA, United States",39.95106125,-75.1656189
+10,2014-10-19 15:05:00,"Media, PA, United States",39.92034149,-75.38699341
+11,2014-10-17 23:53:00,"Westtown, PA, United States",39.93444443,-75.56890869
+12,2014-10-04 23:30:00,"Monterey, CA, United States",36.67677307,-121.65646362
+13,2014-10-03 21:24:00,"Carmel, CA, United States",36.55250931,-121.92443848
+14,2014-09-26 10:05:00,"Boothwyn, PA, United States",39.8308754,-75.43951416
+15,2014-09-21 11:39:00,"Willow Grove, PA, United States",40.14390182,-75.11419678
+16,2014-09-07 17:04:00,"Southampton, PA, United States",40.17447662,-75.04381561
+17,2014-07-27 07:43:00,"Warminster, PA, United States",40.19530106,-75.08920288
+18,2014-07-08 20:14:00,"Westtown, PA, United States",39.93444443,-75.56890869
+19,2014-07-05 09:24:00,"Philadelphia, PA, United States",39.95106125,-75.1656189
+20,2014-06-24 14:10:00,"Philadelphia, PA, United States",39.95106125,-75.1656189
+21,2014-06-20 00:03:00,"Philadelphia, PA, United States",39.95106125,-75.1656189
+22,2014-06-09 07:37:00,"Wilmington, DE, United States",39.74443054,-75.54509735
+23,2014-05-25 15:52:00,"East Norriton, PA, United States",40.15024567,-75.34085846
+24,2014-05-23 00:51:00,"Kahului, HI, United States",20.88803291,-156.46784973
+25,2014-05-20 14:34:00,"Kihei, HI, United States",20.78145599,-156.46269226
+26,2014-05-18 00:55:00,"Lahaina, HI, United States",20.87711334,-156.68132019
+27,2014-05-17 02:24:00,"Kailua-Kona, HI, United States",19.64736748,-155.99301147
+28,2014-05-16 22:27:00,"Kealakekua, HI, United States",19.52095795,-155.92051697
+29,2014-05-14 15:30:00,"Hilo, HI, United States",19.72525787,-155.08908081
+30,2014-05-13 00:02:00,"Honolulu, HI, United States",21.30991936,-157.8581543
+31,2014-05-12 04:18:00,"Newark, NJ, United States",40.73450089,-74.16369629
+32,2014-05-11 13:08:00,"Philadelphia, PA, United States",39.95106125,-75.1656189
+33,2014-05-03 13:24:00,"Wilmington, DE, United States",39.74443054,-75.54509735
+34,2014-04-27 09:20:00,"Trevose, PA, United States",40.14670563,-74.98370361
+35,2014-03-22 21:04:00,"Newark, DE, United States",39.67060089,-75.75279999
+36,2014-03-16 12:57:00,"Philadelphia, PA, United States",39.95106125,-75.1656189
+37,2014-02-19 10:32:00,"Philadelphia, PA, United States",39.95106125,-75.1656189
+38,2014-02-11 18:38:00,"Philadelphia, PA, United States",39.95106125,-75.1656189
+39,2014-02-04 22:52:00,"Philadelphia, PA, United States",39.95106125,-75.1656189
+40,2014-01-20 22:10:00,"Philadelphia, PA, United States",39.95106125,-75.1656189
+41,2014-01-18 19:56:00,"Philadelphia, PA, United States",39.95106125,-75.1656189
+42,2014-01-13 22:34:00,"Philadelphia, PA, United States",39.95106125,-75.1656189
+43,2014-01-11 20:30:00,"Jenkintown, PA, United States",40.09519577,-75.12573242
+44,2014-01-10 20:20:00,"Bensalem, PA, United States",40.11029434,-74.94284821
+45,2014-01-08 21:35:00,"Philadelphia, PA, United States",39.95106125,-75.1656189
+46,2014-01-04 10:48:00,"Port Richmond, PA, United States",39.97360229,-75.1173172
+47,2014-01-02 17:46:00,"Philadelphia, PA, United States",39.95106125,-75.1656189
+48,2014-01-01 18:48:00,"Willow Grove, PA, United States",40.14390182,-75.11419678
+49,2013-12-29 23:00:00,"Philadelphia, PA, United States",39.95106125,-75.1656189
+50,2013-12-26 16:08:00,"Philadelphia, PA, United States",39.95106125,-75.1656189
+51,2013-12-19 18:52:00,"Willow Grove, PA, United States",40.14390182,-75.11419678
+52,2013-12-17 20:50:00,"Secaucus, NJ, United States",40.77820587,-74.06785583
+53,2013-12-07 17:35:00,"Fountain Hill, PA, United States",40.60297394,-75.40426636
+54,2013-11-20 19:56:00,"Philadelphia, PA, United States",39.95106125,-75.1656189
+55,2013-11-12 10:45:00,"Cinnaminson, NJ, United States",39.997715,-74.99383545
+56,2013-11-10 13:27:00,"Philadelphia, PA, United States",39.95106125,-75.1656189
+57,2013-11-09 19:36:00,"Horsham, PA, United States",40.19916916,-75.16638947
+58,2013-11-07 02:03:00,"Winchester, Nevada",36.137043,-115.12306976
+59,2013-10-29 12:46:00,"Philadelphia, PA, United States",39.95106125,-75.1656189
+60,2013-10-20 09:49:00,"Malvern, PA, United States",40.03639984,-75.51560211
+61,2013-10-09 21:21:00,"Philadelphia, PA, United States",39.95106125,-75.1656189
+62,2013-09-26 08:32:00,"Philadelphia, PA, United States",39.95106125,-75.1656189
+63,2013-09-25 20:09:00,"Philadelphia, PA, United States",39.95106125,-75.1656189
+64,2013-09-23 10:53:00,"Philadelphia, PA, United States",39.95106125,-75.1656189
+65,2013-09-17 22:36:00,"Philadelphia, PA, United States",39.95106125,-75.1656189
+66,2013-09-12 10:26:00,"Wilmington, DE, United States",39.74443054,-75.54509735
+67,2013-09-07 11:41:00,"Philadelphia, PA, United States",39.95106125,-75.1656189
+68,2013-09-05 10:55:00,"Cinnaminson, NJ, United States",39.997715,-74.99383545
+69,2013-09-04 22:05:00,"Philadelphia, PA, United States",39.95106125,-75.1656189
+70,2013-08-30 18:54:00,"Charlotte, NC, United States",35.2237854,-80.84114075
+71,2013-08-24 19:52:00,"New Hope, PA, United States",39.50356674,-99.01830292
+72,2013-08-23 23:08:00,"Philadelphia, PA, United States",39.95106125,-75.1656189
+73,2013-08-22 18:47:00,"Philadelphia, PA, United States",39.95106125,-75.1656189
+74,2013-08-21 22:53:00,"Philadelphia, PA, United States",39.95106125,-75.1656189
+75,2013-08-17 13:20:00,"Philadelphia, PA, United States",39.95106125,-75.1656189
+76,2013-08-03 12:13:00,"Philadelphia, PA, United States",39.95106125,-75.1656189
+77,2013-08-01 06:23:00,"Philadelphia, PA, United States",39.95106125,-75.1656189
+78,2013-07-28 13:19:00,"Philadelphia, PA, United States",39.95106125,-75.1656189
+79,2013-07-15 18:02:00,"Southampton, PA, United States",40.17447662,-75.04381561
+80,2013-07-11 21:49:00,"Fort Washington, PA, United States",40.14165115,-75.19268036
+81,2013-07-01 12:17:00,"Philadelphia, PA, United States",39.95106125,-75.1656189
+82,2013-06-23 13:33:00,"Cherry Hill, NJ, United States",39.92580032,-75.03092957
+83,2013-06-16 16:36:00,"Philadelphia, PA, United States",39.95106125,-75.1656189
+84,2013-06-05 19:48:00,"Philadelphia, PA, United States",39.95106125,-75.1656189
+85,2013-06-03 20:04:00,"Philadelphia, PA, United States",39.95106125,-75.1656189
+86,2013-05-13 19:15:00,"Philadelphia, PA, United States",39.95106125,-75.1656189
+87,2013-05-12 09:10:00,"Hatboro, PA, United States",40.1792717,-75.10564423
+88,2013-04-24 18:57:00,"Philadelphia, PA, United States",39.95106125,-75.1656189
+89,2013-04-20 19:06:00,"Philadelphia, PA, United States",39.95106125,-75.1656189
+90,2013-04-10 19:23:00,"Cape May, NJ, United States",39.08236313,-74.82371521
+91,2013-04-06 15:58:00,"Huntingdon Valley, PA, United States",40.12068939,-75.05712891
+92,2013-04-03 20:37:00,"Philadelphia, PA, United States",39.95106125,-75.1656189
+93,2013-03-30 09:09:00,"Philadelphia, PA, United States",39.95106125,-75.1656189
+94,2013-03-25 20:33:00,"Philadelphia, PA, United States",39.95106125,-75.1656189
+95,2013-03-23 19:07:00,"Philadelphia, PA, United States",39.95106125,-75.1656189
+96,2013-03-22 19:11:00,"Philadelphia, PA, United States",39.95106125,-75.1656189
+97,2013-03-17 09:40:00,"Hatboro, PA, United States",40.1792717,-75.10564423
+98,2013-03-16 18:01:00,"Collegeville, PA, United States",40.19252777,-75.46108246
+99,2013-02-17 11:08:00,"Philadelphia, PA, United States",39.95106125,-75.1656189
+100,2013-02-16 11:23:00,"Philadelphia, PA, United States",39.95106125,-75.1656189
+101,2012-10-14 11:35:00,"Philadelphia, PA, United States",39.95106125,-75.1656189
+102,2012-08-14 22:22:00,"Philadelphia, PA, United States",39.95106125,-75.1656189
+103,2012-08-09 22:51:00,"Los Angeles, CA, United States",34.05223846,-118.24334717
+104,2012-08-05 16:01:00,"San Francisco, CA, United States",37.78007889,-122.42015839
+105,2012-08-03 23:00:00,"San Francisco, CA, United States",37.78007889,-122.42015839
+106,2012-08-01 23:23:00,"Monterey, CA, United States",36.67677307,-121.65646362
+107,2012-07-16 19:06:00,"Philadelphia, PA, United States",39.95106125,-75.1656189
+108,2012-07-03 20:15:00,"Philadelphia, PA, United States",39.95106125,-75.1656189
+109,2012-06-24 16:15:00,"Philadelphia, PA, United States",39.95106125,-75.1656189
+110,2012-05-14 20:07:00,"Philadelphia, PA, United States",39.95106125,-75.1656189
+111,2012-05-09 09:14:00,"King of Prussia, PA, United States",40.08832169,-75.38212585
+112,2012-05-01 17:23:00,"Philadelphia, PA, United States",39.95106125,-75.1656189
+113,2012-04-16 08:04:00,"Philadelphia, PA, United States",39.95106125,-75.1656189
+114,2012-04-11 21:24:00,"Philadelphia, PA, United States",39.95106125,-75.1656189
+115,2012-04-01 19:54:00,"Philadelphia, PA, United States",39.95106125,-75.1656189
+116,2012-03-30 20:09:00,"Warrington, PA, United States",40.07758331,-76.87155151
+117,2012-03-18 14:17:00,"Philadelphia, PA, United States",39.95106125,-75.1656189
+118,2012-03-13 20:13:00,"Philadelphia, PA, United States",39.95106125,-75.1656189
+119,2012-02-18 13:39:00,"Philadelphia, PA, United States",39.95106125,-75.1656189
+120,2012-01-07 18:37:00,"Warrington, PA, United States",40.07758331,-76.87155151
+121,2011-10-29 11:17:00,"New York, NY, United States",40.75325012,-74.00380707

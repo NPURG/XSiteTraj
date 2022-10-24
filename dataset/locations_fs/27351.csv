@@ -1,0 +1,73 @@
+,time,poi,latitude,longitude
+0,2015-09-22 05:10:43,"Hill Country Chicken, 1123 Broadway, New York",40.7432578047,-73.9892962575
+1,2015-09-17 06:33:36,"Yum Yum Bangkok, 650 9th Ave, New York",40.7606304488,-73.9907875657
+2,2015-03-29 03:26:30,"Buddha Bodai 5be9d020dc, 5 Mott St, New York",40.713827645,-73.9987017262
+3,2015-03-29 02:55:26,"Buddha Bodai 5be9d020dc, 5 Mott St, New York",40.713827645,-73.9987017262
+4,2015-03-29 02:53:44,"Buddha Bodai 5be9d020dc, 5 Mott St, New York",40.713827645,-73.9987017262
+5,2015-03-29 02:51:51,"Buddha Bodai 5be9d020dc, 5 Mott St, New York",40.713827645,-73.9987017262
+6,2015-03-29 02:47:54,"Buddha Bodai 5be9d020dc, 5 Mott St, New York",40.713827645,-73.9987017262
+7,2014-06-20 06:54:36,"iMakr Store, 152 Allen St, New York",40.7207346998,-73.98965162
+8,2014-03-19 13:22:32,"Mermaid Oyster Bar, 79 Macdougal St, New York",40.7287157739,-74.001639906
+9,2014-03-13 06:06:34,"Wrapido, 171 W 23rd St, New York",40.744115,-73.995425
+10,2014-03-11 09:29:35,"The Counter, 1451 Broadway, New York",40.7552463914,-73.9866673442
+11,2014-03-11 09:28:47,"The Counter, 1451 Broadway, New York",40.7552463914,-73.9866673442
+12,2014-03-05 02:53:26,"Ben and Jack's Steakhouse, 255 5th Ave, New York",40.7448,-73.9868
+13,2014-01-13 05:05:35,"Naya Mezze & Grill, 1057 2nd Ave, New York",40.758332169,-73.9660458803
+14,2014-01-13 05:04:35,"Naya Mezze & Grill, 1057 2nd Ave, New York",40.758332169,-73.9660458803
+15,2013-12-19 09:26:28,"Dos Caminos, 373 Park Ave S, New York",40.7423548556,-73.9850317119
+16,2013-11-10 04:26:56,"Yum Yum Bangkok, 650 9th Ave, New York",40.7606304488,-73.9907875657
+17,2013-11-06 07:32:04,"Lobo, 218 Court St, Brooklyn",40.6864633348,-73.9938747883
+18,2013-11-06 07:30:53,"Lobo, 218 Court St, Brooklyn",40.6864633348,-73.9938747883
+19,2013-10-11 12:07:04,"Mexican Radio, 19 Cleveland Pl, New York",40.7216655577,-73.9974277358
+20,2013-10-11 10:05:17,"Mexican Radio, 19 Cleveland Pl, New York",40.7216655577,-73.9974277358
+21,2013-07-30 05:51:07,"Real Estate Education Center (REEDC) - Manhattan, 144 W 37th St, New York",40.7527114012,-73.9886358236
+22,2013-07-25 05:32:11,"Real Estate Education Center (REEDC) - Manhattan, 144 W 37th St, New York",40.7527114012,-73.9886358236
+23,2013-07-14 04:57:59,"JFK Airport Hangar 19, West Hangar Road, Queens",40.6558951868,-73.8204453095
+24,2013-07-07 08:44:14,"Jordan's Lobster Dock, 3165 Harkness Ave, Brooklyn",40.5865773627,-73.9293258387
+25,2013-07-07 08:42:12,"Jordan's Lobster Dock, 3165 Harkness Ave, Brooklyn",40.5865773627,-73.9293258387
+26,2013-05-20 02:07:32,"The Seed: A Vegan Experience HQ, 511 Broadway Ph, New York",40.7227756398,-73.9991550811
+27,2013-05-13 06:34:56,"Lefteris Gyro, 1 Main St, Tarrytown",41.0764077936,-73.8583573565
+28,2013-05-13 06:30:45,"Lefteris Gyro, 1 Main St, Tarrytown",41.0764077936,-73.8583573565
+29,2013-05-13 06:27:36,"Lefteris Gyro, 1 Main St, Tarrytown",41.0764077936,-73.8583573565
+30,2013-05-13 05:18:18,"Silver Tips Tea Room, 3 N Broadway, Tarrytown",41.0765043232,-73.858423233
+31,2013-05-12 11:44:09,"Sheraton Tarrytown Hotel, 600 White Plains Rd, Tarrytown",41.0611681614,-73.8371372223
+32,2013-05-05 09:01:47,"Blue Ginger, 106 8th Ave, New York",40.7407582467,-74.0018924037
+33,2013-05-05 09:00:32,"Blue Ginger, 106 8th Ave, New York",40.7407582467,-74.0018924037
+34,2013-04-28 06:59:43,"City Lobster & Steak, 121 W 49th St., New York",40.7598325516,-73.9822080611
+35,2013-04-13 06:58:41,"Il Pescatore, 651 N Primrose Dr, Orlando",28.5524179855,-81.3477217451
+36,2013-04-01 03:19:30,"Sotto Voce, 225 7th Ave, Brooklyn",40.6699080469,-73.9788088175
+37,2013-04-01 02:40:34,"Sotto Voce, 225 7th Ave, Brooklyn",40.6699080469,-73.9788088175
+38,2013-01-17 05:48:11,"Best Buy, 1280 Lexington Ave, New York",40.7797452696,-73.9555299282
+39,2012-11-03 10:12:57,"Bar Tabac, 128 Smith St, Brooklyn",40.6873419686,-73.9902055264
+40,2012-10-09 12:02:47,"Mermaid Oyster Bar, 79 Macdougal St, New York",40.7287157739,-74.001639906
+41,2012-08-05 08:21:34,"Bonefish Grill, 1002 Eastview Mall, Victor",43.028285,-77.441759
+42,2012-07-07 09:35:57,"Boat House, 4807 8th Ave, Brooklyn, NY 11220, Brooklyn",40.6419817175,-74.0027187575
+43,2012-06-11 06:01:41,"Mermaid Oyster Bar, 79 Macdougal St, New York",40.7287157739,-74.001639906
+44,2012-06-11 05:58:47,"The Mermaid Inn, 96 2nd Ave, New York",40.7271855923,-73.9887356758
+45,2012-03-17 10:07:57,"Kellogg's Diner, 518 Metropolitan Ave, Brooklyn",40.7138235083,-73.951598636
+46,2012-02-11 09:27:56,"Nanoosh, 111 University Pl, New York",40.734296,-73.992517
+47,2011-12-19 17:03:15,"Luxor Cafe, 128 Macdougal St, New York",40.7301889412,-74.000337242
+48,2011-10-08 04:20:01,"US Post Office, 450 Lexington Ave, New York",40.7528304361,-73.9749593532
+49,2011-09-06 06:55:29,"Nelson Blue, 233 Front St., New York",40.7076946288,-74.0017317234
+50,2011-09-04 05:05:34,"Nelson Blue, 233 Front St., New York",40.7076946288,-74.0017317234
+51,2011-07-10 04:07:08,"La Colombe Torrefaction, 270 Lafayette St, New York",40.7238560371,-73.9964067936
+52,2011-05-17 00:39:02,"Naya Mezze & Grill, 1057 2nd Ave, New York",40.758332169,-73.9660458803
+53,2011-05-09 03:07:30,"Pacific Grill, 89 South St, New York",40.7053256156,-74.0023055811
+54,2011-03-19 09:45:48,"Palo Santo, 652 Union St, Brooklyn",40.676804,-73.981941
+55,2010-09-09 02:30:09,"Alan's Falafel Cart, Liberty Plaza, New York",40.7087962419,-74.010568941
+56,2010-09-06 10:24:04,"Momofuku Milk Bar, 251 E 13th St, New York",40.7317954706,-73.9856725931
+57,2010-02-08 11:22:23,"Yoshinoya, 255 W 42nd St, New York",40.7570835114,-73.9894048451
+58,2010-02-08 10:22:59,"Apple Fifth Avenue, 767 Fifth Avenue, New York",40.7638193428,-73.9727987498
+59,2010-02-01 00:51:49,"Lowe's Home Improvement, 265 Mclean Boulevard, Paterson",40.905093,-74.133729
+60,2010-01-26 10:22:38,"Boxee NYC, 57 W 16th St, New York",40.738662,-73.995689
+61,2009-12-25 10:01:00,"Sephora, 1500 Broadway, New York",40.7568056881,-73.9859522134
+62,2009-12-23 10:23:39,"Rockefeller Center, Rockefeller Plaza, New York",40.7587509352,-73.9787358321
+63,2009-12-23 09:40:21,"Madison Square Garden, 4 Penn Plz, New York",40.7505081436,-73.993037569
+64,2009-12-15 08:40:33,"Yankee Stadium, 1 E 161st St, Bronx",40.8290910872,-73.9265185958
+65,2009-12-10 10:21:53,"MTA Subway - Manhattan Bridge (B/D/N/Q), Manhattan Bridge, New York",40.7085883615,-73.9910316467
+66,2009-12-02 06:27:19,"3LD Art & Technology Center, 80 Greenwich St, New York",40.7073425381,-74.0137766353
+67,2009-11-25 08:50:54,"Roger Smith Hotel, 501 Lexington Ave, New York",40.7547713357,-73.9735933744
+68,2009-11-21 02:54:51,"Mamoun's Falafel, 119 Macdougal St, New York",40.7301698559,-74.0002970716
+69,2009-11-17 10:18:39,"McNally Jackson Books, 52 Prince St, New York",40.7233702089,-73.9960205555
+70,2009-11-17 07:08:04,"Roger Smith Hotel, 501 Lexington Ave, New York",40.7547713357,-73.9735933744
+71,2009-11-09 09:57:40,"The Delancey, 168 Delancey St, New York",40.7179765539,-73.9853588395

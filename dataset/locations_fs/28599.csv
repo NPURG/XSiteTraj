@@ -1,0 +1,81 @@
+,time,poi,latitude,longitude
+0,2014-05-18 07:47:43,"Wrecking Bar Brewpub, 292 Moreland Ave NE, Atlanta",33.7621749244,-84.3496990465
+1,2014-05-04 17:46:59,"Skala, 9fafb1, a3b1bdc4bfc1afbdb7",36.4617616,25.377301
+2,2014-05-04 03:30:20,"Akrotiri of Thera, 91bac1c9c4aec1b9, a3b1bdc4bfc1afbdb7",36.3508663126,25.4820634297
+3,2014-05-04 03:25:33,"Anogi, 97bcb5c1bfb2afb3bbb9, a3b1bdc4bfc1afbdb7",36.4333363746,25.4231876834
+4,2014-05-04 03:24:07,"Red Beach, 9accbabab9bdb7 a0b1c1b1bbafb1, a3b1bdc4bfc1afbdb7",36.3488376583,25.3940927982
+5,2014-03-26 00:46:06,"Kiri, 931 Monroe Dr. Ste. A101, Atlanta",33.7804047132,-84.3688523769
+6,2014-02-05 14:12:07,"Hotel Indigo New Orleans Garden District, 2203 Saint Charles Ave, New Orleans",29.9341432952,-90.0809298956
+7,2014-02-04 11:50:51,"Sucr, 3025 Magazine St, New Orleans",29.9246586219,-90.0852030516
+8,2014-02-03 11:20:41,"Preservation Hall, 726 Saint Peter St, New Orleans",29.958359,-90.065256
+9,2014-02-03 03:25:17,"Lke, 333 Saint Charles Ave, New Orleans",29.9505206342,-90.0704772835
+10,2014-01-11 08:41:35,"Baci by Cafe At Pharr, 705 Town Blvd NE, Brookhaven",33.8706039283,-84.3372194183
+11,2013-12-28 03:02:48,"Choco Cafe Don Juan, Contiguo serpentario, Santa Elena Monteverde",10.315872,-84.822176
+12,2013-12-27 04:43:13,"Ro celeste, Parque Nacional Volcn Tenorio, Upala",10.7132950433,-84.9632861438
+13,2013-12-27 04:41:40,"Ro celeste, Parque Nacional Volcn Tenorio, Upala",10.7132950433,-84.9632861438
+14,2013-12-09 03:40:38,"Queen of Sheba Ethiopian Restaurant, 1594 Woodcliff Dr NE, Atlanta",33.8280147314,-84.3264359236
+15,2013-12-06 09:43:59,"Saba - Oakhurst Village, 350 Mead Rd Ste E, Decatur",33.760462,-84.303219
+16,2013-11-23 09:15:39,"Ziba's Bistro, 560 Boulevard SE, Atlanta",33.7391979493,-84.3681312029
+17,2013-11-07 08:33:02,"Hertz Stage, 1280 Peachtree St NE, Atlanta",33.7891434534,-84.385664463
+18,2013-11-01 09:24:20,"Hertz Stage, 1280 Peachtree St NE, Atlanta",33.7891434534,-84.385664463
+19,2013-10-27 02:30:30,"Taco Mamacita, 1200 Villa Pl, Nashville",36.142993,-86.791842
+20,2013-10-22 00:24:26,"Greenway Trailhead Marconi Drive, Marconi Drive, Alpharetta",34.0840205037,-84.247298697
+21,2013-10-03 09:02:04,"Bua Thai & Sushi, 705 Town Blvd NE, Brookhaven",33.8698584531,-84.3361356719
+22,2013-09-28 07:50:11,"Terra Terroir, 3974 Peachtree Rd NE, Brookhaven",33.859513,-84.340324
+23,2013-09-12 06:09:48,"Harbour Restaurant and Bar, 15299 Cabot Trail, Chticamp",46.63206,-61.010998
+24,2013-09-12 06:00:30,"Laurie's & Motor Inn, 16132 Cabot Trail Rd., Petit tang",46.6370272768,-61.006302718
+25,2013-09-10 00:12:38,"Highland Village Museum, 4119 Highway 223, Iona",45.9485087585,-60.8176139599
+26,2013-03-27 01:25:01,"La Parrilla, 2945 N Druid Hills Rd NE Ste B, Atlanta",33.8147338964,-84.3109368244
+27,2013-03-27 01:20:57,"La Parrilla, 2945 N Druid Hills Rd NE Ste B, Atlanta",33.8147338964,-84.3109368244
+28,2013-03-20 02:34:56,"American Roadhouse, 842 N Highland Ave NE, Atlanta",33.7773883989,-84.3527851652
+29,2013-03-19 10:06:53,"Eddie's Attic, 515 N McDonough St, Decatur",33.7739704687,-84.2963093519
+30,2013-03-04 02:44:55,"The Mad Italian, 2197 Savoy Dr, Chamblee",33.9193476703,-84.2984284608
+31,2013-03-04 02:38:10,"Brook Run Dog Park, 4770 N Peachtree Rd, Dunwoody",33.9320260677,-84.3029665165
+32,2013-02-25 08:24:13,"d.b.a., 618 Frenchmen St, New Orleans",29.9639555794,-90.057849884
+33,2013-02-25 04:03:19,"Erin Rose, 811 Conti St, New Orleans",29.9564,-90.06795349
+34,2013-02-24 02:46:40,"Santa Fe, 3201 Esplanade Ave, New Orleans",29.980967499,-90.0849638768
+35,2013-02-24 01:50:12,"Dreamy Weenies, 724 N. Rampart, New Orleans",29.9614315033,-90.0675735474
+36,2013-02-23 00:34:03,"Carmo, 527 Julia St, New Orleans",29.9455561516,-90.0699020516
+37,2013-02-23 00:27:16,"Surrey's Cafe & Juice Bar, 1418 Magazine St, New Orleans",29.935759306,-90.0720119476
+38,2013-01-28 04:40:17,"Radial Cafe, 1530 Dekalb Ave NE Ste G, Atlanta",33.7627217667,-84.337577
+39,2012-11-28 07:54:32,"Mediterranean Grill, 985 Monroe Dr NE, Atlanta",33.7813299383,-84.3687728873
+40,2012-11-28 02:11:10,"Moe's Southwest Grill, 2484 Briarcliff Rd, Atlanta",33.8278952556,-84.3314838409
+41,2012-11-25 02:03:53,"Com, 1900-1966 Dering Cir NE, Atlanta",33.859798216,-84.3091074997
+42,2012-09-21 01:07:04,"Raging Burrito & Taco, 141 Sycamore St, Decatur",33.77442645,-84.295513
+43,2012-09-21 01:05:22,"Raging Burrito & Taco, 141 Sycamore St, Decatur",33.77442645,-84.295513
+44,2012-08-04 01:12:58,"Cafe Alsace, 121 E Ponce de Leon Ave, Decatur",33.7754911333,-84.29549512
+45,2012-07-07 04:55:27,"Starbucks, 3901 Peachtree Rd NE, Brookhaven",33.857191,-84.343619
+46,2012-07-05 05:11:00,"Target, 2539 Piedmont Rd NE, Atlanta",33.8239112354,-84.3641746044
+47,2012-07-03 06:49:44,"Leon's Full Service, 131 E Ponce de Leon Ave, Decatur",33.775409,-84.295096
+48,2012-06-16 09:36:55,"The Golden Buddha, 1905 Clairmont Rd, Decatur",33.8102249621,-84.3085884956
+49,2012-06-01 01:27:36,"Flywheel Sports - Buckhead, 3063 Bolling Way NE, Atlanta",33.838611428,-84.3795983344
+50,2012-05-27 23:34:38,"Silver Comet Depot, 4342 Floyd Rd SW, Mableton",33.8469370325,-84.5860433393
+51,2012-05-27 23:30:41,"Paco's Mexican Restaurant, 5015 Floyd Rd SW, Mableton",33.8336546839,-84.5746319867
+52,2012-05-24 01:17:14,"Sherpa! Web Studios, 1145 Zonolite Rd NE, Atlanta",33.8062905843,-84.3426173093
+53,2012-05-01 00:09:18,"Leon's Full Service, 131 E Ponce de Leon Ave, Decatur",33.775409,-84.295096
+54,2012-04-30 23:25:06,"Bank of America, 2223 N Druid Hills Rd NE, Atlanta",33.8294531335,-84.3331719607
+55,2012-04-29 23:51:56,"Tavern, 1904 Broadway, Nashville",36.1508808495,-86.7969709632
+56,2012-04-29 02:37:23,"Cinco De Mayo, 358 White Bridge Pike, Nashville",36.149198,-86.8574273586
+57,2012-04-29 01:48:40,"Holiday Inn Express Nashville W I40/Whitebridge Rd, 5612 Lenox Ave, Nashville",36.1484698966,-86.8590497071
+58,2012-04-20 10:31:38,"Leon's Full Service, 131 E Ponce de Leon Ave, Decatur",33.775409,-84.295096
+59,2012-04-19 01:13:46,"USPS Post Office - North Atlanta Carrier Facility, 1920 Dresden Dr NE, Brookhaven",33.8653495082,-84.3117230055
+60,2012-04-10 23:47:49,"Emory Johns Creek Hospital, 6325 Hospital Pkwy, Johns Creek",34.0670077656,-84.1762540468
+61,2012-04-08 03:33:05,"El Taco Veloz, 5084 Buford Hwy NE, Doraville",33.8911384449,-84.2856347226
+62,2012-04-04 03:31:05,"MetroFresh, 931 Monroe Dr NE Ste A106, Atlanta",33.780211671,-84.3684854136
+63,2012-03-25 03:07:53,"Atlanta Cycling - Ansley, 1860 Piedmont Ave NE, Atlanta",33.8070049844,-84.3668016105
+64,2012-03-10 01:55:52,"Sushi Avenue on the Square, 131 Sycamore St, Decatur",33.7745207548,-84.29581232
+65,2012-02-29 06:29:04,"Wendy's, 3383 Buford Hwy NE, Atlanta",33.842963,-84.3279402167
+66,2012-02-26 04:18:09,"Java Monkey, 425 Church St, Decatur",33.7751699591,-84.2947483063
+67,2012-02-24 02:27:45,"Dekalb County Tax Commissioner, 1358 Dresden Dr NE, Brookhaven",33.8606677693,-84.3335366542
+68,2012-02-24 01:46:14,"McDonald's, 4010 Peachtree Rd NE, Brookhaven",33.8596811008,-84.3407221973
+69,2012-02-22 08:05:39,"Tin Drum Asian Kitchen, 2561 Piedmont RD NE, Atlanta",33.82569086,-84.36484507
+70,2012-02-22 06:40:34,"Chick-fil-A Piedmont Road, 2580 Piedmont Rd NE, Atlanta",33.8254612847,-84.3676121348
+71,2012-02-19 04:04:46,"Chevron, 400 Cobb Pkwy N, Marietta",33.9608508626,-84.5281757324
+72,2012-02-17 23:41:39,"Crimpers Hair Salon, 2345 Cheshire Bridge Rd NE, Atlanta",33.8189822018,-84.3498945236
+73,2012-02-15 11:47:59,"Shell, 4260 Peachtree Rd NE, Brookhaven",33.867612,-84.33592558
+74,2012-02-15 11:35:06,"Mellow Mushroom, 4058 Peachtree Rd NE, Brookhaven",33.861241766,-84.3400288484
+75,2012-02-14 10:57:10,"Savi Market Brookhaven, 1388 Dresden Dr NE, Brookhaven",33.860919173,-84.3322319658
+76,2012-02-14 10:43:13,"Galla's Pizza, 4849 Peachtree Rd, Atlanta",33.8816591281,-84.3187996745
+77,2012-02-13 04:15:29,"QuikTrip, 3292 Buford Hwy NE, Atlanta",33.8424928304,-84.3297564983
+78,2012-02-13 04:03:14,"Starbucks, 3901 Peachtree Rd NE, Brookhaven",33.857191,-84.343619
+79,2012-02-13 04:02:24,"Kroger, 3871 Peachtree Rd NE, Brookhaven",33.8567315293,-84.344830513

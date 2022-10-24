@@ -1,0 +1,60 @@
+,time,poi,latitude,longitude
+0,2016-12-09 12:27:44,"Parts and Labor, 2700 N Milwaukee Ave, Chicago",41.930223934,-87.7093694885
+1,2016-08-10 10:08:24,"Giant, 3209 W Armitage Ave, Chicago",41.9174007454,-87.7074064631
+2,2014-12-22 04:15:52,"Argo Tea, 16 W Randolph St, Chicago",41.8845019295,-87.6283098693
+3,2014-08-26 10:32:26,"Creekside Inn, 3400 El Camino Real, Palo Alto",37.4190095331,-122.135481244
+4,2014-08-08 22:35:06,"The Great American Bagel, 1248 W Belmont Ave, Chicago",41.9398570061,-87.6609903574
+5,2014-07-03 08:41:13,"Yuki Hana, 2920 N Clark St, Chicago",41.9355364856,-87.6469972312
+6,2014-06-02 03:28:30,"BIG & little's Restaurant, 1034 W Belmont Ave, Chicago",41.9400276003,-87.6554083842
+7,2014-03-30 12:53:05,"The Owl, 2521 N Milwaukee Ave, Chicago",41.9272159285,-87.7040479534
+8,2013-12-01 05:26:59,"Revolution Brewing, 2323 N Milwaukee Ave, Chicago",41.9234904893,-87.6981496811
+9,2013-08-24 11:05:32,"Danny's Tavern, 1951 W Dickens Ave, Chicago",41.919532,-87.677331
+10,2013-08-24 10:41:51,"Danny's Tavern, 1951 W Dickens Ave, Chicago",41.919532,-87.677331
+11,2013-08-21 11:54:59,"Glascott's Groggery, 2158 N Halsted St, Chicago",41.9217682257,-87.6487846105
+12,2013-07-19 05:47:29,"The Coffee Lab, 910 Noyes St, Evanston",42.0584064248,-87.6836654276
+13,2013-07-16 21:09:00,"Lou Mitchell's, 565 W Jackson Blvd, Chicago",41.8780157654,-87.6420683267
+14,2013-06-15 09:05:02,"Richard's Bar, 491 N Milwaukee Ave, Chicago",41.8911017667,-87.6470791342
+15,2013-06-14 09:15:29,"Ola's Liquors, 947 N Damen Ave, Chicago",41.8991367991,-87.6770505749
+16,2013-06-03 03:39:04,"LensCrafters, 2736 N Clark St, Chicago",41.9323473,-87.64493034
+17,2013-05-13 02:20:25,"Nori, 954 W Diversey Pkwy, Chicago",41.9325948411,-87.6534815674
+18,2013-05-10 00:31:27,"The Motel Bar, 600 W Chicago Ave, Chicago",41.8971166289,-87.6431958064
+19,2013-04-07 09:07:34,"Burnt City Brewing Company, 2747 N Lincoln Ave, Chicago",41.9317573168,-87.6576096727
+20,2013-03-01 07:55:04,"Crate & Barrel, 850 W North Ave, Chicago",41.9112114375,-87.6509476795
+21,2013-02-14 09:07:53,"Kuma's Too, 666 W Diversey Pkwy, Chicago",41.9328453061,-87.6462408259
+22,2013-02-05 01:00:37,"Fox Rent A Car San Diego, 3355 Admiral Boland Way, San Diego",32.7364678934,-117.180761914
+23,2013-02-02 08:25:43,"Empress Hotel, 7766 Fay Ave, La Jolla",32.8446376566,-117.27533003
+24,2013-01-31 08:18:31,"Yusho, 2853 N Kedzie Ave, Chicago",41.9336065551,-87.7073246685
+25,2013-01-27 10:51:07,"Prost, 2566 N Lincoln Ave, Chicago",41.9283969024,-87.6532647954
+26,2013-01-12 10:10:29,"Panes Bread Cafe, 3002 N Sheffield Ave, Chicago",41.9364613295,-87.653802
+27,2012-12-27 13:14:42,"Prost, 2566 N Lincoln Ave, Chicago",41.9283969024,-87.6532647954
+28,2012-09-07 01:20:23,"Di Biagio & Peppe, Via Di Tor Millina, 24, Roma",41.899263,12.471928
+29,2012-06-22 10:56:56,"Sakura Teppanyaki & Sushi, 730 W Diversey Pkwy, Chicago",41.93287079,-87.64782928
+30,2012-05-27 05:30:06,"Chances, 205 W. Main St., Rochester",42.7412090833,-88.225890398
+31,2012-03-23 06:22:05,"Gate A4B, A4 Concourse, Chicago",41.783465064,-87.742331028
+32,2011-08-21 12:36:41,"Benchmark, 1510 N Wells St, Chicago",41.9094734051,-87.6348980611
+33,2011-08-21 12:35:45,"Benchmark, 1510 N Wells St, Chicago",41.9094734051,-87.6348980611
+34,2011-08-18 08:58:34,"Shedd Aquarium, 1200 S Lake Shore Dr, Chicago",41.8674717756,-87.6144604861
+35,2011-07-17 11:25:37,"Will's Northwoods Inn, 3030 N Racine Ave, Chicago",41.9373403995,-87.6591220939
+36,2011-07-02 11:29:22,"Sand Bar & Island Grill, 3101 E Lakeshore Dr, Twin Lakes",42.4975657858,-88.272485733
+37,2011-06-30 04:15:59,"Eye Care Vision Center, 2205 N Calhoun Rd, Brookfield",43.0592608452,-88.128631
+38,2011-06-22 08:23:04,"90 Miles Cuban Cafe, 2540 W Armitage Ave, Chicago",41.917670866,-87.6918196678
+39,2011-06-19 07:53:00,"Sanford Restaurant, 1547 N Jackson St, Milwaukee",43.05051,-87.9048664333
+40,2011-06-12 13:15:27,"Spanky's Bar & Grill, 2325 52nd St, Kenosha",42.58775175,-87.83798547
+41,2011-05-15 10:14:17,"Regal Cinemas Webster Place 11, 1471 W Webster Ave, Chicago",41.9213427273,-87.6651231176
+42,2011-03-20 12:42:25,"Mother Hubbard's Sports Pub, 5 W Hubbard St, Chicago",41.8899129984,-87.6283656184
+43,2011-03-20 12:41:27,"Theory, 9 W Hubbard St, Chicago",41.8899898418,-87.6285797773
+44,2011-03-03 13:46:48,"The Kitchen ( Night Bazaar ), Lai Khor Road, 0a49320704253219",18.7834292493,99.0001672325
+45,2011-02-28 10:20:28,"Bangkok Airways Check-In Counter, Samui International Airport, Bo Phut",9.54621300022,100.064096492
+46,2011-02-28 10:19:27,"Bangkok Airways Check-In Counter, Samui International Airport, Bo Phut",9.54621300022,100.064096492
+47,2011-02-22 18:01:05,"Ta Som Guesthouse, Taphul Rd, Si15mrab",13.363899772,103.854027725
+48,2010-11-27 02:14:33,"Alhambra Inn Inc, 2700 N Ponce de Leon Blvd, St. Augustine",29.9160951309,-81.3241178724
+49,2010-04-24 11:34:34,"Church Key Bar & Grill, 626 University Ave, Madison",43.0733132962,-89.3970647625
+50,2010-03-28 01:33:04,"Alfredos Barber Shop, 4 W Chicago Ave, Chicago",41.8966392181,-87.6285412191
+51,2010-03-15 08:06:17,"Chipotle Mexican Grill, 1166 N State St, Chicago",41.9035546781,-87.6286697388
+52,2010-03-08 08:31:03,"Kuma's Corner, 2900 W Belmont Ave, Chicago",41.9394777504,-87.7003544569
+53,2010-01-31 09:46:24,"CTA - O'Hare, 1000 O'Hare Dr, Chicago",41.9778419878,-87.9030630544
+54,2010-01-30 14:19:22,"MontBleu Resort Casino & Spa, 55 US 50, Stateline",38.9618721633,-119.939917097
+55,2009-12-29 05:53:25,"Chase Bank, 1200 N State Pkwy, Chicago",41.9038628377,-87.628787027
+56,2009-12-28 15:16:57,"Butch McGuire's, 20 W Division St, Chicago",41.9039052919,-87.6296015575
+57,2009-12-01 07:22:41,"Chipotle Mexican Grill, 6 W Grand Ave, Chicago",41.891749536,-87.6284229755
+58,2009-11-25 11:51:53,"Duffy's Tavern & Grille, 420 W Diversey Pkwy, Chicago",41.9329103854,-87.6402228619

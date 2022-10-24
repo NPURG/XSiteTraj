@@ -1,0 +1,58 @@
+,time,poi,latitude,longitude
+0,2016-09-25 03:19:35,"Centrolina, 974 Palmer Alley NW, Washington",38.9003547557,-77.0254698589
+1,2016-07-10 09:32:41,"Cafe Saint-Ex, 1847 14th St NW, Washington",38.9154147644,-77.0317232609
+2,2016-06-24 03:19:02,"Peet's Coffee, 1829 14th St NW, Washington",38.9149917662,-77.0318902284
+3,2016-06-08 04:25:21,"Peet's Coffee, 1829 14th St NW, Washington",38.9149917662,-77.0318902284
+4,2016-03-14 08:13:11,"Takoda, 715 Florida Ave NW, Washington",38.9166945803,-77.0226245364
+5,2015-11-04 05:23:33,"Compass Coffee, 1911 8th St NW, Washington",38.9162286732,-77.0227780938
+6,2015-08-14 12:24:41,"Club Cafe, 209 Columbus Ave, Boston",42.3484745525,-71.0723108053
+7,2015-06-20 23:59:12,"Roofers Union, 2446 18th St NW, Washington",38.9218246902,-77.0425773561
+8,2015-06-04 08:11:40,"Duplex Diner, 2004 18th St NW, Washington",38.9171959711,-77.0418432209
+9,2015-05-22 08:23:23,"G Sandwich Shop, 2201 14th St NW, Washington",38.919349846,-77.0319756118
+10,2015-04-08 19:44:35,"Starbucks, 1455 Ocean Drive, South Beach",25.786698567,-80.1294653693
+11,2015-04-06 23:31:44,"The Front Porch Caf, 1458 Ocean Dr, Miami Beach",25.7871273217,-80.1293944869
+12,2015-04-06 22:20:44,"Aroma Espresso Bar, 1601 Collins Ave, Miami Beach",25.7894727996,-80.1301632848
+13,2015-04-06 22:20:01,"Aroma Espresso Bar, 1601 Collins Ave, Miami Beach",25.7894727996,-80.1301632848
+14,2015-03-20 11:24:43,"Dickie Brennan's Tablea, 616 Saint Peter St, New Orleans",29.9574577923,-90.0640273745
+15,2014-11-15 00:46:24,"The Coupe, 3415 11th St NW, Washington",38.9325651105,-77.0284275738
+16,2014-11-12 03:58:20,"Farmers Fishers Bakers, 3000 K St NW, Washington",38.9013851347,-77.0600244987
+17,2014-10-11 03:38:54,"G Sandwich Shop, 2201 14th St NW, Washington",38.919349846,-77.0319756118
+18,2014-09-11 03:51:41,"JJ's Cheesesteaks, 1939 14th St NW, Washington",38.916842,-77.03183274
+19,2014-09-06 12:49:08,"Number Nine, 1435 P St NW, Washington",38.9097292869,-77.0333306987
+20,2014-08-16 10:30:52,"Number Nine, 1435 P St NW, Washington",38.9097292869,-77.0333306987
+21,2014-08-16 07:33:29,"Madhatter, 1321 Connecticut Ave NW, Washington",38.9078533144,-77.0420953631
+22,2014-08-16 07:31:57,"Madhatter, 1321 Connecticut Ave NW, Washington",38.9078533144,-77.0420953631
+23,2014-08-16 00:28:35,"The Coffee Bar, 1201 S St NW, Washington",38.9142460586,-77.028260529
+24,2014-08-16 00:27:27,"The Coffee Bar, 1201 S St NW, Washington",38.9142460586,-77.028260529
+25,2014-08-08 04:29:30,"Dollop Coffee & Tea, 345 E Ohio St, Chicago",41.8925245635,-87.6187029983
+26,2014-08-03 09:50:17,"P.J. Clarke's, 1600 K St NW, Washington",38.902393611,-77.0365581059
+27,2014-08-01 09:25:22,"Satellite Room, 2047 9th St NW, Washington",38.9181421911,-77.0237829168
+28,2014-07-31 12:35:27,"Jumbo Slice Pizza, 1344 U St NW, Washington",38.9169908515,-77.0314301991
+29,2014-06-29 00:41:26,"Bob & Edith's Diner, 2310 Columbia Pike, Arlington",38.8637656317,-77.0823228965
+30,2014-03-14 14:20:41,"Bar Matchless, 557 Manhattan Ave, Brooklyn",40.7221830658,-73.9499348402
+31,2014-03-12 00:41:03,"Vitascope Hall at Hyatt Regency New Orleans, The Hyatt Regency, New Orleans",29.9500595714,-90.076613457
+32,2014-03-07 23:56:27,"Starbucks, 700 Canal St, New Orleans",29.9531072054,-90.0694326349
+33,2014-01-21 22:54:25,"Billy's Bakery, 184 9th Ave, New York",40.7454135359,-74.0020875153
+34,2014-01-21 22:51:38,"Le Grainne Cafe, 183 9th Ave, New York",40.7452587329,-74.0021678554
+35,2014-01-21 22:48:50,"La Bergamote, 177 9th Ave, New York",40.7448814756,-74.0027582645
+36,2014-01-21 22:45:51,"Westville Chelsea, 246 W 18th St, New York",40.74204,-73.99999
+37,2014-01-12 09:55:35,"Mixx, 26 Baltimore Ave, Rehoboth Beach",38.717017484,-75.0788724139
+38,2013-10-14 00:43:38,"K&H Hot Bagels, Midway Shopping Center, Rehoboth Beach",38.7360914917,-75.1385903185
+39,2013-08-10 07:30:53,"Roscoe's, 3356 N Halsted St, Chicago",41.9435829798,-87.6494000222
+40,2013-07-19 02:26:10,"US Post Office, 179 Rehoboth Ave, Rehoboth Beach",38.7162364092,-75.0816612322
+41,2013-04-03 09:58:38,"Crossfit Rehoboth, 37395 Oyster House Rd, Rehoboth Beach",38.7111992761,-75.0982733633
+42,2012-10-14 02:41:30,"The Coffee Mill, 127 Rehoboth Ave, Rehoboth Beach",38.7166851059,-75.080075775
+43,2012-10-12 10:05:12,"Pete's Steak Shop, 36027 Ro. 275A, Rehoboth Beach",38.7223652548,-75.1234648247
+44,2012-09-07 08:26:33,"W""s Kitchen, 19324 Lighthouse Plaza Blvd, Rehoboth Beach",38.722091,-75.12032369
+45,2012-08-27 05:30:41,"Salt Air, 50 Wilmington Ave, Rehoboth Beach",38.7154770058,-75.0812335025
+46,2012-08-25 09:55:48,"Dogfish Head Brewings & Eats, 320 Rehoboth Ave, Rehoboth Beach",38.7152784728,-75.0870733392
+47,2012-08-08 04:59:02,"Wawa Food Market, 4500 Highway 1, Rehoboth Beach",38.7315396275,-75.1323223114
+48,2012-08-04 06:27:04,"Root Gourmet, 19724 Coastal Hwy, Rehoboth Beach",38.7165308739,-75.1123407054
+49,2012-08-04 06:24:01,"Root Gourmet, 19724 Coastal Hwy, Rehoboth Beach",38.7165308739,-75.1123407054
+50,2012-07-29 08:21:31,"Stingray, 59 Lake Ave, Rehoboth Beach",38.7168630448,-75.084740852
+51,2012-07-26 09:32:22,"Ivy, 136 Dagsworthy St., Dewey Beach",38.693332369,-75.0781424084
+52,2012-06-29 01:15:50,"Jimmy's Grille Dewey Beach, 1911 Coastal Hwy, Dewey Beach",38.6947343906,-75.075342122
+53,2012-06-26 11:56:07,"Moonraker Restaurant, 105 Rockaway Beach Ave, Pacifica",37.6099069825,-122.496832967
+54,2012-06-26 11:53:39,"Moonraker Restaurant, 105 Rockaway Beach Ave, Pacifica",37.6099069825,-122.496832967
+55,2012-06-23 01:11:33,"Rouge et Blanc, 334 Grant Ave, San Francisco",37.7901311427,-122.405592721
+56,2012-06-23 01:07:11,"Rouge et Blanc, 334 Grant Ave, San Francisco",37.7901311427,-122.405592721

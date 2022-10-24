@@ -1,0 +1,75 @@
+,time,poi,latitude,longitude
+0,2015-06-14 11:55:07,"World of Beer, 1941 Preston Rd, Plano",33.02515837,-96.79697207
+1,2015-04-11 03:07:00,"Smokie's Bar-B-Q, 6869 Frankford Rd, Dallas",32.9980616723,-96.7848840416
+2,2015-03-15 02:37:12,"Warwick Allerton Hotel Chicago, 701 N Michigan Ave, Chicago",41.8950132345,-87.6240586079
+3,2014-08-29 11:52:36,"Bavarian Grill, 221 W Parker Rd, Plano",33.0402827764,-96.7058365889
+4,2014-07-21 02:25:00,"1424, 1424 Washington Ave, Waco",31.5496,-97.141739
+5,2014-07-21 02:22:54,"1424, 1424 Washington Ave, Waco",31.5496,-97.141739
+6,2014-07-09 05:51:43,"Goodfella's, 2208 Dallas Pkwy, Plano",33.0310297387,-96.8286595519
+7,2014-04-02 04:25:03,"Insane Comics, 5201 S Colony Blvd Ste 160, The Colony",33.0841169332,-96.8785923219
+8,2014-03-10 09:46:20,"MASH'D, 3401 Preston Rd, Frisco",33.1076099734,-96.806294624
+9,2014-02-24 04:45:32,"Smokie's Bar-B-Q, 6869 Frankford Rd, Dallas",32.9980616723,-96.7848840416
+10,2014-02-24 04:44:02,"Smokie's Bar-B-Q, 6869 Frankford Rd, Dallas",32.9980616723,-96.7848840416
+11,2014-02-03 03:47:46,"Coffee House Cafe, 6150 Frankford Rd, Dallas",32.9978663434,-96.7990994453
+12,2014-01-18 03:55:55,"Jersey Joe's Deli, 15340 Dallas Pkwy., Addison",32.958433446,-96.8208408954
+13,2014-01-18 03:41:17,"Jersey Joe's Deli, 15340 Dallas Pkwy., Addison",32.958433446,-96.8208408954
+14,2013-11-20 09:53:44,"Ferrari's Pizzeria, 3949 Legacy Dr Ste 100, Plano",33.0736106897,-96.7711667782
+15,2013-11-04 09:16:26,"Coffee House Cafe, 6150 Frankford Rd, Dallas",32.9978663434,-96.7990994453
+16,2013-11-04 03:55:09,"The Art of Shaving, 2601 Preston Rd #1072, Frisco",33.0991414679,-96.8116261349
+17,2013-09-07 11:19:28,"Rugby House Pub, 8604 Preston Rd #100, Plano",33.0946963951,-96.8037781353
+18,2013-08-22 02:24:56,"Dr  Lyle Haskell, 1105 Central Expressway Suite 220, Allen",33.1162366434,-96.673410356
+19,2013-08-09 04:24:40,"Jakes, 6195 Main St, Frisco",33.152744,-96.834324
+20,2013-04-01 09:18:46,"Toujouse Bar At The Tremont, 2300 Mechanic St, Galveston",29.3063724678,-94.7950403523
+21,2012-12-03 04:09:23,"Pluckers Wing Bar, 3316 Preston Rd, Plano",33.0435433873,-96.793854389
+22,2012-11-30 10:53:46,"Gordon Lights Christmas Display, 4665 Quincy Ln, Plano",33.0771233146,-96.7909251596
+23,2012-10-07 23:43:24,"Parker Road Station (DART Rail), 2600 Archerwood St., Plano",33.0333046139,-96.7007749528
+24,2012-10-07 08:17:35,"Bus Stop 31931, Preston Southbound, Plano",33.076529,-96.796288
+25,2012-10-07 08:16:06,"bus stop id # 27421, Preston, Plano",33.0765293882,-96.7961926365
+26,2012-09-23 10:31:34,"Half Price Books, Records & Magazines, 2440 Preston Rd, Plano",33.0310897542,-96.79368177
+27,2012-06-30 10:08:15,"Bonnie Ruth's Cafe, 6959 Lebanon Rd, Frisco",33.1218459218,-96.8246769905
+28,2012-06-23 01:53:32,"Millenium Dental, 7705 San Jacinto Pl, Plano",33.0810095004,-96.7981020062
+29,2012-04-30 00:56:35,"The Original Pancake House, 5760 State Highway 121, Plano",33.090984253,-96.8190979958
+30,2012-04-16 09:54:44,"Whiskey Cake Kitchen & Bar, 3601 Dallas Pkwy, Plano",33.0484575728,-96.8307495117
+31,2012-03-08 08:56:37,"Starbucks, 3000 Custer Rd, Plano",33.04043703,-96.73197798
+32,2012-03-01 09:26:12,"Brick House Tavern + Tap, 4900 W Park Blvd, Plano",33.0267237729,-96.7926408351
+33,2012-02-29 10:28:33,"Anamia's Tex-Mex, 3408 Preston Rd, Plano",33.0442455,-96.7938753125
+34,2012-02-29 10:13:35,"Anamia's Tex-Mex, 3408 Preston Rd, Plano",33.0442455,-96.7938753125
+35,2012-02-11 03:11:41,"Digestive Health Associates of Texas, 4521 Medical Center Dr STE 500, McKinney",33.1604827,-96.6344009
+36,2012-02-11 02:10:09,"Digestive Health Associates of Texas, 4521 Medical Center Dr STE 500, McKinney",33.1604827,-96.6344009
+37,2012-01-27 04:57:28,"Millennium Dental, 6940 Coit Rd Ste 200, Plano",33.0710307833,-96.7711833667
+38,2012-01-27 04:49:32,"Millennium Dental, 6940 Coit Rd Ste 200, Plano",33.0710307833,-96.7711833667
+39,2012-01-16 10:51:47,"Plano's 1st and 10 Sports Bar, 6205 Coit Rd, Plano",33.0589597205,-96.7721184733
+40,2011-11-23 10:42:28,"Kenny's Burger Joint, 1377 Legacy Dr, Frisco",33.089153,-96.83968505
+41,2011-11-15 04:34:21,"Potbelly Sandwich Shop, 6202 W. Park Blvd, Plano",33.02703332,-96.83282018
+42,2011-10-29 02:49:45,"Frisco City Hall Parking Garage, 6100 Page Street, Frisco",33.1500906762,-96.8342179629
+43,2011-09-19 03:16:49,"Houlihan's, 5225 Belt Line Rd Ste 220, Dallas",32.9546015087,-96.8172419071
+44,2011-08-20 03:18:36,"Caf Daireds, 153 Town Pl #153, Fairview",33.1321113,-96.6527364
+45,2011-08-11 10:35:41,"Rugby House Pub, 8604 Preston Rd #100, Plano",33.0946963951,-96.8037781353
+46,2011-07-10 12:11:53,"Twisted Pelican Bar & Grill, 8201 Ohio Dr Ste 105, Plano",33.087967974,-96.7973016335
+47,2011-07-10 00:25:30,"Plaza Salons, 6959 Arapaho Rd, Dallas",32.963247,-96.788605
+48,2011-06-21 07:56:00,"Peach Grove (Camera Surveillance), Ohio, Plano",33.0807185942,-96.7931556702
+49,2011-05-29 10:26:05,"Twisted Pelican Bar & Grill, 8201 Ohio Dr Ste 105, Plano",33.087967974,-96.7973016335
+50,2011-05-29 09:40:44,"Twisted Pelican Bar & Grill, 8201 Ohio Dr Ste 105, Plano",33.087967974,-96.7973016335
+51,2011-05-28 09:33:59,"Chamberlain's Fish Market Grill, 4525 Belt Line Rd, Addison",32.954426,-96.835351
+52,2011-05-26 07:52:51,"Madness Games and Comics, 3000 Custer Rd Ste 310, Plano",33.0388588724,-96.7324624256
+53,2011-01-16 03:45:38,"Houlihan's, 5225 Belt Line Rd Ste 220, Dallas",32.9546015087,-96.8172419071
+54,2011-01-11 06:02:46,"Nick -N - Willy's, 3949 Legacy Dr, Plano",33.073578,-96.771127
+55,2011-01-09 04:10:11,"Verona Italian Cafe, 9720 Coit Rd, Plano",33.1107502561,-96.7662202807
+56,2010-08-19 03:00:20,"empanadas n' more, 4000 Legacy Dr, Plano",33.0736657871,-96.7716896859
+57,2010-05-26 08:40:53,"Pizza By Marco, 5960 W. Parker Rd., Suite 286, Dallas",33.0445145478,-96.8273982459
+58,2010-05-03 09:50:13,"Capri Italian Grill, 8508 Preston Rd Ste 332, Dallas",33.0931591988,-96.8045
+59,2010-04-17 08:37:21,"Village on the Green, 5301 Alpha Rd, Dallas",32.933946257,-96.8170261088
+60,2010-04-17 06:29:14,"Capriccio Ristoranti, 5301 Alpha Rd Ste 66, Dallas",32.9336836338,-96.817261583
+61,2010-04-17 06:22:39,"Village on the Green, 5301 Alpha Rd, Dallas",32.933946257,-96.8170261088
+62,2010-04-17 06:07:59,"Village on the Green, 5301 Alpha Rd, Dallas",32.933946257,-96.8170261088
+63,2010-02-23 06:13:19,"Aki Sushi, 6832 Coit Rd #200, Plano",33.070666194,-96.770841
+64,2010-02-01 09:25:07,"Pendery's, 1407 8th Ave, Fort Worth",32.7290497843,-97.3434510976
+65,2010-02-01 09:21:07,"Capriccio Ristoranti, 5301 Alpha Rd Ste 66, Dallas",32.9336836338,-96.817261583
+66,2010-02-01 09:14:47,"The Holy Grail Pub, 8240 Preston Rd Ste 150, Plano",33.0898336959,-96.8050646782
+67,2010-01-02 12:57:00,"Snack Bar, 1224 S Congress Ave, Austin",30.2514482235,-97.7491848349
+68,2010-01-02 12:55:15,"Snack Bar, 1224 S Congress Ave, Austin",30.2514482235,-97.7491848349
+69,2009-12-17 08:54:59,"The Holy Grail Pub, 8240 Preston Rd Ste 150, Plano",33.0898336959,-96.8050646782
+70,2009-11-27 07:54:53,"The Keg Steakhouse & Bar, 6101 W Park Blvd, Plano",33.028067854,-96.8319359213
+71,2009-11-27 07:54:21,"The Keg Steakhouse & Bar, 6101 W Park Blvd, Plano",33.028067854,-96.8319359213
+72,2009-11-17 09:57:10,"Los Lupes, 3855 Belt Line Rd, Addison",32.9536441884,-96.8504353214
+73,2009-10-22 05:19:08,"Houlihan's Arlington Highlands, 401 E Interstate 20, Arlington",32.6788516687,-97.1061702007

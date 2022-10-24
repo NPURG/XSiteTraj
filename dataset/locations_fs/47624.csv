@@ -1,0 +1,45 @@
+,time,poi,latitude,longitude
+0,2014-06-11 09:18:40,"The Marigny, 360 Bald Eagle Drive, Santa Rosa Beach",30.3931255348,-86.2797811112
+1,2014-03-21 08:44:59,"Lin's Asian Cuisine, 130 Scenic Gulf Dr, Miramar Beach",30.3763851207,-86.3507281603
+2,2013-12-22 23:06:56,"Ciao Bella Pizza, 10676 US Highway 98 W, Destin",30.3797872193,-86.3526437303
+3,2013-10-27 08:25:02,"Groovy Grouper Grill, 4304 Legendary Dr Ste C110, Destin",30.390794997,-86.4228013217
+4,2013-10-02 00:01:14,"Custom Concepts Tattoo & Design, 1 Harbor Blvd Ste C, Destin",30.3956830502,-86.5131443739
+5,2013-09-21 07:37:30,"Don Pedro's, 4942 US Highway 98 W, Santa Rosa Beach",30.375114341,-86.2599052454
+6,2013-08-25 22:23:32,"Aegean Restaurant, 11225 US Highway 98 W, Miramar Beach",30.382309,-86.36020163
+7,2013-08-06 03:03:47,"lululemon athletica, 4200 Conroy Rd, Orlando",28.4853995609,-81.4315547648
+8,2013-06-20 08:31:04,"Best Buy, 34940 Emerald Coast Pkwy Unit 150, Destin",30.38730256,-86.42392332
+9,2013-06-15 07:51:41,"Lin's Asian Cuisine, 130 Scenic Gulf Dr, Miramar Beach",30.3763851207,-86.3507281603
+10,2013-06-10 00:54:00,"Royal Orchid Thai, 11275 US Highway 98 W, Miramar Beach",30.3829403861,-86.3613742433
+11,2013-02-28 07:49:47,"Lin's Asian Cuisine, 130 Scenic Gulf Dr, Miramar Beach",30.3763851207,-86.3507281603
+12,2013-02-24 23:12:24,"Aegean Restaurant, 11225 US Highway 98 W, Miramar Beach",30.382309,-86.36020163
+13,2012-11-16 23:19:52,"Another Broken Egg, 51 Grayton Uptown Cir., Grayton Beach",30.336072,-86.163276
+14,2012-07-25 03:14:29,"30a CrossFit, 9961 CR 30-A, Suite CS6, Seacrest Beach",30.2831772214,-86.0238718987
+15,2012-07-06 22:04:57,"98 BBQ, hwy 98 w, Santa Rosa Beach",30.3742241484,-86.2352243481
+16,2012-07-06 22:04:31,"Silver Sands Premium Outlets, 10562 Emerald Coast Pkwy W, Miramar Beach",30.379455,-86.348767
+17,2012-07-06 22:04:06,"The Donut Hole, 6745 U.S. 98, Santa Rosa Beach",30.375173,-86.28969026
+18,2012-07-06 22:00:08,"Eden Gardens State Park, 181 Eden Dr, Santa Rosa Beach",30.3715794979,-86.1184382693
+19,2012-07-06 21:59:37,"Starbucks, 10410 US Highway 98 W, Destin",30.3774432739,-86.3490352705
+20,2011-09-16 04:51:33,"Claudio's Restaurant, 111 Main St, Greenport",41.101814105,-72.358982563
+21,2011-07-24 03:29:11,"Starbucks, 9375 US Highway 98 W Ste 8, Destin",30.3776418833,-86.332212
+22,2011-07-24 03:27:47,"Jim 'N Nick's Bar-B-Q, 14073 Emerald Coast Pkwy, Destin",30.3879912479,-86.454603053
+23,2011-06-26 01:24:28,"Royal Orchid Thai, 11275 US Highway 98 W, Miramar Beach",30.3829403861,-86.3613742433
+24,2011-06-06 07:51:27,"Osaka Japanese Steak House & Sushi Bar, 34745 Emerald Coast Pkwy, Destin",30.3872232783,-86.4362636871
+25,2011-05-15 02:18:09,"Target, 853 Harbor Blvd, Destin",30.3913675999,-86.4814031124
+26,2011-04-25 01:17:38,"Cocoons, 4101 Hwy 30A, Seagrove",30.3117287889,-86.108706076
+27,2011-03-27 02:45:25,"Jordano's Pizza & More, 10004 US Highway 98 W, Miramar Beach",30.377673,-86.342448
+28,2011-03-26 06:21:26,"Publix, 2038 US Highway 98 W, Santa Rosa Beach",30.37166,-86.203701
+29,2011-03-25 01:42:36,"Great Clips, 2010 US Hwy 98 W, Santa Rosa Beach",30.375043461,-86.2125518918
+30,2011-03-25 01:35:32,"98 BBQ, hwy 98 w, Santa Rosa Beach",30.3742241484,-86.2352243481
+31,2011-03-17 03:54:03,"Olive Garden, 15701 Panama City Beach Pkwy, Panama City",30.2225948646,-85.8700201822
+32,2011-03-15 12:35:09,"331 Bridge, 25101-25217 U.S. 331, Freeport",30.4016795142,-86.1678018109
+33,2010-12-11 13:03:54,"Outta Bounds Sports Lounge, 1402 Rodd Field Rd, Corpus Christi",27.6943818634,-97.3405397336
+34,2010-12-10 00:43:25,"Spec's, 5625 S. Padre Island Dr, Corpus Christi",27.7060521589,-97.3698383726
+35,2010-12-09 10:05:26,"H-E-B, 5425 S Padre Island Dr, Corpus Christi",27.7062831762,-97.3722972035
+36,2010-12-09 10:01:59,"TGI Fridays, 5217 S Padre Island Dr, Corpus Christi",27.71019269,-97.37672438
+37,2010-12-09 01:18:32,"United States Post Office - Lamar Station, 4801 Everhart, Corpus Christi",27.71987469,-97.38169
+38,2010-12-09 01:15:40,"Verizon, 4801 S Padre Island Dr, Corpus Christi",27.71421,-97.384439
+39,2010-12-09 01:14:00,"Verizon, Everhart, Corpus Christi",27.7138591833,-97.3843
+40,2010-12-09 00:21:06,"Chick-fil-A Everhart, 4741 S Padre Island Dr, Corpus Christi",27.714568,-97.385689
+41,2010-10-23 00:26:48,"Mr. Louie's, mcardle, Corpus Christi",27.7099,-97.366746068
+42,2010-04-26 09:12:21,"Pizza State, 6133 South Alameda St, Corpus Christi",27.7185265487,-97.334406235
+43,2010-03-15 09:53:42,"Wienerschnitzel, 4221 S Alameda St, Corpus Christi",27.7310045116,-97.3729500175

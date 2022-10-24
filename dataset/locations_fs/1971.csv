@@ -1,0 +1,84 @@
+,time,poi,latitude,longitude
+0,2016-10-22 05:58:13,"Poppy's Frozen Yogurt & Waffle Shop, 521 N Lake Blvd, Tahoe City",39.1712229238,-120.140980193
+1,2016-10-22 05:57:01,"Dark Horse Coffee Roasters, 10009 W River St, Truckee",39.3270240724,-120.183637006
+2,2016-10-22 05:55:17,"Dark Horse Coffee Roasters, 10009 W River St, Truckee",39.3270240724,-120.183637006
+3,2016-06-08 06:06:58,"Fleetwood Diner, 300 S Ashley St, Ann Arbor",42.279561,-83.7499179833
+4,2016-06-08 06:05:43,"Encore Recordings, 417 E Liberty St, Ann Arbor",42.2794783115,-83.743135
+5,2016-06-08 06:04:46,"Knight's Downtown, 600 Liberty St, Ann Arbor",42.2792181359,-83.7419229765
+6,2016-06-04 03:32:02,"Zingerman's Roadhouse, 2501 Jackson Ave, Ann Arbor",42.2801029727,-83.7811696529
+7,2016-04-02 23:36:02,"Live Right Acai, 11030 Washington Blvd, Culver City",34.010361245,-118.410973325
+8,2015-12-02 00:04:59,"Rye, 444 E 3rd Ave, Eugene",44.0562777716,-123.085921825
+9,2015-11-11 07:32:24,"Maialino, 2 Lexington Ave, New York",40.7384960625,-73.9856056195
+10,2015-11-11 07:22:57,"Blossom Du Jour, 449 Amsterdam Ave, New York",40.7848382982,-73.9772780511
+11,2015-11-11 07:21:40,"M Pche, 15 W 56th St, New York",40.7627981021,-73.9756939932
+12,2015-11-02 09:25:43,"John Golden Theatre, 252 W 45th St, New York",40.759201199,-73.987740541
+13,2015-11-02 09:24:07,"The Sensuous Bean, 66 W 70th St, New York",40.7760622296,-73.9794934147
+14,2015-11-02 09:23:18,"The Sensuous Bean, 66 W 70th St, New York",40.7760622296,-73.9794934147
+15,2015-11-02 09:21:59,"Blossom on Columbus, 507 Columbus Ave, New York",40.7853713952,-73.9726750639
+16,2015-11-02 03:32:58,"The Jolly Goat Coffee Bar NY, 515 W 47th St, New York",40.7633222944,-73.9942261577
+17,2015-10-24 20:19:37,"Irving Farm Coffee Roasters, 224 W 79th St, New York",40.7835795052,-73.9794360222
+18,2015-10-11 09:46:40,"The Roof, 124 W 57th St, New York",40.7647072877,-73.9784546075
+19,2015-09-28 01:50:50,"B05Star Cafe, 127 Clement St, San Francisco",37.7830453376,-122.460719918
+20,2015-09-14 03:03:44,"Big Jones, 5347 N Clark St, Chicago",41.979574,-87.668253
+21,2015-09-07 01:07:37,"Starbelly, 3583 16th St, San Francisco",37.7641969538,-122.432590127
+22,2015-08-22 23:22:42,"Vinyl Coffee & Wine Bar, 359 Divisadero St, San Francisco",37.773111,-122.437473
+23,2015-05-20 11:31:28,"Bacon Bacon, 205 Frederick St, San Francisco",37.7672263903,-122.446864811
+24,2015-04-21 22:47:42,"Dandelion Chocolate, 740 Valencia St, San Francisco",37.761063,-122.421771
+25,2015-04-21 22:46:07,"Hollow, 1435 Irving St, San Francisco",37.7637469304,-122.473428955
+26,2015-04-21 22:43:20,"Hot Cookie, 407 Castro St, San Francisco",37.7622949415,-122.435004115
+27,2015-04-21 22:40:54,"Castro Theatre, 429 Castro St, San Francisco",37.7619917176,-122.434969246
+28,2015-01-11 10:24:48,"Gather, 2200 Oxford St, Berkeley",37.8695659746,-122.266075995
+29,2014-12-21 14:38:36,"Bix, 56 Gold St, San Francisco",37.7966915349,-122.402921062
+30,2014-12-21 14:37:51,"Sightglass Coffee, 270 7th St, San Francisco",37.7770249037,-122.408529808
+31,2014-12-21 14:36:37,"Fort Lauderdale-Hollywood International Airport (FLL), 100 Terminal Dr, Fort Lauderdale",26.072357513,-80.1433571826
+32,2014-11-19 07:49:53,"Free Gold Watch, 1767 Waller St, San Francisco",37.7680701561,-122.452686833
+33,2014-11-19 00:29:42,"Bacon Bacon, 205 Frederick St, San Francisco",37.7672263903,-122.446864811
+34,2014-09-01 01:03:49,"Philz Coffee, 748 Van Ness Ave, San Francisco",37.7824469992,-122.420450449
+35,2014-08-27 23:36:27,"Escape From New York Pizza, 1737 Haight St, San Francisco",37.7693832404,-122.451392412
+36,2014-08-27 23:35:00,"Mitchell's Ice Cream, 688 San Jose Ave, San Francisco",37.7441353657,-122.422813475
+37,2014-08-27 23:32:19,"Velo Rouge Cafe, 798 Arguello Blvd, San Francisco",37.7753198147,-122.458313
+38,2014-08-27 23:30:31,"Loving Hut, 524 Irving St, San Francisco",37.764201,-122.463668
+39,2014-08-27 23:27:54,"Hollow, 1435 Irving St, San Francisco",37.7637469304,-122.473428955
+40,2014-07-06 03:10:31,"Embarcadero Center Cinema, 1 Embarcadero Ctr, Promenade Level, San Francisco",37.7948895559,-122.399593592
+41,2014-04-15 03:47:48,"Lemonade Venice, 1661 Abbott Kinney Blvd, Los Angeles",33.989234,-118.462736
+42,2014-04-07 00:58:24,"Wooly Pig Cafe, 205 Hugo St, San Francisco",37.76522,-122.460266
+43,2014-03-26 10:12:51,"Pluto's, 627 Irving St, San Francisco",37.7640693843,-122.464772162
+44,2014-03-16 10:23:25,"Stanza Coffee Bar, 1673 Haight St, San Francisco",37.7696474557,-122.450165655
+45,2013-12-04 23:07:09,"Dooby's, 802 N Charles St, Baltimore",39.2989209793,-76.6159057617
+46,2013-11-08 07:53:05,"La Fiesta Lounge at La Fonda on the Plaza, 100 E San Francisco St, Santa Fe",35.686724,-105.937734
+47,2013-09-11 04:08:11,"Beach Chalet Brewery & Restaurant, 1000 Great Hwy, San Francisco",37.7694457,-122.51036355
+48,2013-07-27 23:39:27,"Beachside Coffee Bar & Kitchen, 4300 Judah St, San Francisco",37.7604149908,-122.508159467
+49,2013-07-05 23:00:42,"Stumptown Coffee Roasters, 1026 SW Stark St., Portland",45.5222546751,-122.681697916
+50,2013-03-21 02:15:41,"Max's Eatz & Fresh Bakery, Terminal 1, San Francisco",37.6131024926,-122.384726533
+51,2012-06-08 03:45:02,"Blue Bottle Coffee, 1 Ferry Building Ste 7, San Francisco",37.7959047563,-122.393937596
+52,2012-05-01 19:18:26,"Jill's Country Kitchen, 33 Park Plz, Lee",42.303463,-73.247502
+53,2011-11-13 10:19:00,"Yoppi Frozen Yogurt, 2208 Fillmore St, San Francisco",37.7900525018,-122.434064071
+54,2011-11-01 02:06:08,"DaVero Winery And Farmstand, 766 Westside Rd, Healdsburg",38.60341995,-122.88391
+55,2011-10-10 00:57:26,"Kenny & Zuke's Delicatessen, 1038 SW Stark St, Portland",45.5221683595,-122.68198788
+56,2011-09-24 13:48:35,"Magnolia Cafe South, 1920 S Congress Ave, Austin",30.244498251,-97.7518844604
+57,2011-08-23 11:08:55,"Boxing Room, 399 Grove St, San Francisco",37.777814,-122.423098
+58,2011-07-29 22:39:28,"The Sensuous Bean, 66 W 70th St, New York",40.7760622296,-73.9794934147
+59,2011-06-21 01:04:17,"Bar Tartine, 561 Valencia St, San Francisco",37.7639515192,-122.421831406
+60,2011-06-21 01:03:59,"Velo Rouge Cafe, 798 Arguello Blvd, San Francisco",37.7753198147,-122.458313
+61,2011-04-19 00:28:53,"Intelligentsia Coffee & Tea, 1331 Abbot Kinney Blvd, Venice",33.9910867996,-118.466930017
+62,2011-04-11 06:07:41,"Four Barrel Coffee, 375 Valencia St, San Francisco",37.7670243868,-122.421958607
+63,2011-03-21 09:38:17,"Salon97 Headquarters, Stanyan St, San Francisco",37.7674223249,-122.452891399
+64,2011-03-09 11:40:13,"Austin Motel, 1220 S Congress Ave, Austin",30.2516347126,-97.7494597435
+65,2011-03-07 08:02:40,"Il Fornaio Caffe Del Mondo, at International Terminal A, San Francisco",37.6117812163,-122.389799632
+66,2011-03-05 00:48:36,"Cafe Reverie, 848 Cole St, San Francisco",37.766055,-122.449882
+67,2010-12-18 06:08:31,"Williamson Wines, 134 Matheson St, Healdsburg",38.6105257207,-122.868832294
+68,2010-12-16 05:35:23,"Sundance Kabuki Cinemas, 1881 Post St, San Francisco",37.7851742913,-122.432526771
+69,2010-11-11 22:42:07,"House of Air, 926 Old Mason St., San Francisco",37.8049183847,-122.468612194
+70,2010-11-11 05:22:20,"Blue Bottle Coffee, 315 Linden St, San Francisco",37.776407,-122.423250675
+71,2010-11-07 22:24:17,"Cowgirl Grill, 319 S Guadalupe St, Santa Fe",35.6858492614,-105.945088863
+72,2010-11-07 22:23:05,"Black Mesa Coffee, 2200 Sunport Blvd SE, Albuquerque",35.047353815,-106.614892323
+73,2010-11-07 02:21:34,"Collected Works Bookstore, 202 Galisteo St #A, Santa Fe",35.6867315667,-105.940893888
+74,2010-11-05 04:43:02,"San Francisco International Airport (SFO), N McDonnell Rd, San Francisco",37.6153999621,-122.385279773
+75,2010-11-03 09:56:12,"Salon97 Headquarters, Stanyan St, San Francisco",37.7674223249,-122.452891399
+76,2010-10-31 08:34:10,"Resort at Squaw Creek, 400 Squaw Creek Rd., Squaw Valley",39.199105781,-120.218007316
+77,2010-10-31 04:25:37,"Auld Dubliner Irish Pub, 1850 Village South Rd, Olympic Valley",39.1969904774,-120.234219921
+78,2010-09-24 02:16:32,"Monument to Joe Louis by Robert Graham, Jefferson Ave & Woodward Ave, Detroit",42.3284733944,-83.0447354162
+79,2010-09-22 08:23:57,"Seva, 2541 Jackson Ave, Ann Arbor",42.2795949458,-83.7826395035
+80,2009-12-28 08:36:36,"Tofu Village, 1920 Irving St, San Francisco",37.763658,-122.478643
+81,2009-06-16 03:02:04,"Mission Pie, 2901 Mission St, San Francisco",37.750641,-122.418231762
+82,2009-04-27 07:31:15,"San Francisco Conservatory of Music, 50 Oak St, San Francisco",37.7754164347,-122.420255214

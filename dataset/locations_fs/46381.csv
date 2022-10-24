@@ -1,0 +1,111 @@
+,time,poi,latitude,longitude
+0,2016-12-16 22:02:08,"Olympiastadion, Olympischer Platz 3, Berlin",52.514532704,13.2423814246
+1,2016-11-20 23:03:59,"Lia's Kitchen, Kollwitzstr. 47, Berlin",52.53454,13.415724
+2,2016-10-29 22:34:12,"Schlomo's, Kollwitzstr. 44, Berlin",52.534191,13.415706
+3,2016-09-30 20:31:57,"Restorante Saint Andrea, Via S. Andrea Delle Fratte, 9/10, Roma",41.903209,12.483395
+4,2016-08-12 23:32:14,"Tacombi at Fonda Nolita, 267 Elizabeth St, New York",40.7240508482,-73.9938352669
+5,2016-06-04 00:37:39,"Crackers, Friedrichstr. 158, Berlin",52.5166181095,13.3880791734
+6,2015-11-17 03:55:09,"Rawtastic, Danziger Str. 16, Berlin",52.5405497846,13.4155679349
+7,2015-10-05 03:18:13,"Pizza di Loretta, 62 rue Rodier, Paris",48.8806139196,2.3439880446
+8,2015-09-30 15:45:59,"Cookies Cream, Behrenstr. 55, Berlin",52.5161621039,13.3881282806
+9,2015-09-25 01:44:55,"sweetgreen, 100 Kenmare St, New York",40.7210262952,-73.9972568956
+10,2015-07-12 03:16:09,"Sasaya, Lychener Str. 50, Berlin",52.5443063539,13.4181585898
+11,2015-06-14 19:56:49,"Blaues Band, Alte Schnhauser Str. 7, Berlin",52.527346,13.408471
+12,2015-05-23 03:15:39,"Il Glaciale, Kollwitzstr. 59, Berlin",52.535193,13.416925
+13,2015-04-12 02:24:04,"Il Glaciale, Kollwitzstr. 59, Berlin",52.535193,13.416925
+14,2015-03-27 22:20:55,"Sababa, Kastanienallee 50, Berlin",52.533771,13.404861
+15,2015-03-27 22:20:30,"Bar 3, Weydingerstr. 20, Berlin",52.527059,13.414766
+16,2015-03-27 22:19:11,"Buchbox, Greifswalder Str. 33, Berlin",52.532901,13.42957
+17,2015-03-27 22:18:22,"Volkspark Friedrichshain, Landsberger Allee, Berlin",52.5276317556,13.4344791791
+18,2015-03-27 22:17:45,"Masaniello, Hasenheide 20, Berlin",52.487729,13.4192955494
+19,2015-03-27 22:17:19,"Huxleys Neue Welt, Hasenheide 107-103, Berlin",52.4865285799,13.4215865961
+20,2015-03-27 22:15:52,"BILD, Axel-Springer-Str. 65, Berlin",52.5074843386,13.3973121643
+21,2015-03-27 22:15:28,"Mittelbar, Markgrafenstr. 19, Berlin",52.5075312311,13.3953590359
+22,2015-03-27 21:46:23,"Maria Bonita, Danziger Str. 33, Berlin",52.5401101098,13.4181261063
+23,2015-03-22 23:18:54,"The Barn - Roastery, Schnhauser Allee 8, Berlin",52.5300559582,13.4105953638
+24,2015-03-06 04:25:14,"Barcelona13El Prat Airport (BCN), Ctra. de El Prat de Llobregat, El Prat de Llobregat",41.2979284428,2.08225250244
+25,2015-03-06 04:23:34,"Boca Chica, Passatge de la Concepci, 14, Barcelona",41.3945319574,2.15988180465
+26,2015-03-06 04:22:57,"Mordisco, Passatge de la Concepci, 10, Barcelona",41.3946199244,2.16010248257
+27,2015-03-06 04:16:07,"La Fonda del Port Olmpic, Moll de Gregal, 7, Barcelona",41.3885667937,2.20071123711
+28,2015-03-06 04:15:06,"Heladeria, Avinguda Mistral 25, Barcelona",41.3770148898,2.1574736073
+29,2015-03-06 04:14:27,"Shko, Pg. Martim de la Barceloneta, 36, Barcelona",41.3853095386,2.19702959061
+30,2015-03-06 04:11:51,"Cornelia and Co., C. Valncia, 225, Barcelona",41.3911573002,2.16114352128
+31,2015-01-12 05:01:59,"Khushi, Kollwitzstr. 37, Berlin",52.5338688527,13.4152385151
+32,2015-01-10 23:24:45,"LPG BioMarkt, Kollwitzstr. 17, Berlin",52.532501,13.413372
+33,2014-12-21 21:02:47,"Hotel Hellstens Malmgrd, Brnnkyrkagatan 110, Stockholm",59.3176731757,18.0468363176
+34,2014-10-30 04:16:02,"Thai Pagode, Hufelandstr. 10, Berlin",52.5325188117,13.4306607322
+35,2014-10-04 18:03:46,"Nola19s am Weinberg, Veteranenstr. 9, Berlin",52.5323498298,13.4016006905
+36,2014-10-04 18:03:08,"Wasch-Center, Hufelandstr.28, Berlin",52.5311547518,13.433587
+37,2014-09-20 12:53:39,"Churchill, 198 Church St, San Francisco",37.7678448526,-122.429020758
+38,2014-09-13 04:49:42,"Social Security Administration, 560 Kearny St, San Francisco",37.7934247623,-122.404503047
+39,2014-08-25 13:35:09,"Denny's, 25026 W Dorris Ave, Coalinga",36.2554319976,-120.249213539
+40,2014-08-09 03:43:26,"ClockWorld, 1450 Pine St, San Francisco",37.7897548107,-122.419829361
+41,2014-07-31 09:41:51,"Katana-Ya, 430 Geary St, San Francisco",37.7870829091,-122.410399324
+42,2014-07-22 03:59:49,"Contraband Coffeebar, 1415 Larkin St, San Francisco",37.7910642148,-122.419055079
+43,2014-07-18 05:33:17,"Swensen's Ice Cream, 1999 Hyde St, San Francisco",37.799060629,-122.419224679
+44,2014-07-18 05:30:17,"The Grove, 2016 Fillmore St, San Francisco",37.788196798,-122.43375993
+45,2014-07-10 09:16:22,"The Plant Cafe Organic, Pier 3, San Francisco",37.7977805076,-122.395763397
+46,2014-05-31 04:20:58,"Garaje, 475 3rd St, San Francisco",37.7818101067,-122.396028643
+47,2014-05-26 08:54:58,"ReLove, 1815 Polk St, San Francisco",37.79361,-122.421362
+48,2014-05-13 11:15:51,"Mission Beach Cafe, 198 Guerrero St, San Francisco",37.7680371663,-122.424469403
+49,2014-04-21 05:04:19,"Hops & Hominy, 1 Tillman Pl, San Francisco",37.7893107681,-122.405725473
+50,2014-04-20 13:57:10,"Cafe Jacqueline, 1454 Grant Ave, San Francisco",37.80050244,-122.407606
+51,2014-04-14 07:02:13,"Trader Joe's, 1095 Hyde St, San Francisco",37.7907532494,-122.417821747
+52,2014-03-18 21:30:28,"TOTAL Station, Osterdeich 124-125, Bremen",53.0668844069,8.84399058942
+53,2014-03-15 03:44:51,"Lufthansa Flight LH 360, Frankfurt International Airport (FRA), Frankfurt am Main",50.0503052315,8.5719537735
+54,2014-03-06 04:32:30,"Little Skillet, 360 Ritch St, San Francisco",37.7788358846,-122.394020574
+55,2014-02-06 10:03:31,"Umami Burger, 242 King St, San Francisco",37.7773764173,-122.392908652
+56,2014-01-30 09:52:57,"320 Main, 320 Main St, Seal Beach",33.7432194351,-118.103263378
+57,2014-01-30 09:52:04,"Little Sparrow, 300 N Main St, Santa Ana",33.747253,-117.867874
+58,2014-01-05 10:24:45,"Keystone Apartments, 1369 Hyde St, San Francisco",37.793442235,-122.418231015
+59,2014-01-02 08:54:29,"Pluto's, 3258 Scott St, San Francisco",37.8001135397,-122.441114348
+60,2013-11-24 08:34:29,"Opera Plaza Cinema, 601 Van Ness Ave, San Francisco",37.781406,-122.421342
+61,2013-10-19 09:21:47,"Beard Papa's, 99 Yerba Buena Ln, San Francisco",37.7851561363,-122.403745651
+62,2013-10-19 07:19:13,"Pizzeria Delfina, 3611 18th St, San Francisco",37.761594,-122.42427
+63,2013-10-18 11:27:48,"The Container Store, 26 4th St, San Francisco",37.7852019084,-122.405161278
+64,2013-10-17 08:22:26,"Katana-Ya, 430 Geary St, San Francisco",37.7870829091,-122.410399324
+65,2013-10-13 01:32:18,"East Beach, Crissy Field, San Francisco",37.8061477834,-122.450790426
+66,2013-10-11 07:40:41,"Privilege Aluxes Hotel, Av. Adolfo Lopez Mateos Mza 1 Lt 5, Isla Mujeres",21.2578014368,-86.7506432533
+67,2013-08-19 00:25:44,"24 Hour Fitness, 1200 Van Ness Ave, San Francisco",37.7867215313,-122.421200932
+68,2013-07-14 09:12:00,"San Francisco Art Institute, 800 Chestnut St, San Francisco",37.8035905736,-122.417174656
+69,2013-07-12 02:21:38,"Misel, 566 Brannan St, San Francisco",37.7774190984,-122.398213689
+70,2013-07-10 10:36:34,"La Copa Loca, 3150 22nd St, San Francisco",37.755516,-122.417805
+71,2013-04-15 13:09:34,"Bar Agricole, 355 11th St, San Francisco",37.771362,-122.412966
+72,2013-04-13 09:00:42,"Whole Foods Market, 399 4th Street, San Francisco",37.7813298222,-122.399918139
+73,2013-04-09 13:15:26,"Pets Unlimited, 2343 Fillmore St, San Francisco",37.7913202191,-122.434494495
+74,2013-03-24 16:44:48,"Restaurant Daheim, Vor dem Steintor 24, Bremen",53.0730602203,8.82472231366
+75,2013-03-18 03:44:34,"The George & Vulture, 63 Pitfield St, London",51.5294166982,-0.0837815410451
+76,2013-02-23 23:58:41,"Cafe Jacqueline, 1454 Grant Ave, San Francisco",37.80050244,-122.407606
+77,2012-11-30 10:22:55,"Marvel Cleaners, 1528 California St, San Francisco",37.790834,-122.41912
+78,2012-11-09 23:55:23,"Elephant Sushi, 1916 Hyde St, San Francisco",37.7986270533,-122.418811732
+79,2012-11-03 04:42:46,"Kokkari Estiatorio, 200 Jackson St, San Francisco",37.7969359283,-122.399757022
+80,2012-09-24 07:00:35,"Clarks, 845 Market Street,  Westfield San Francisco CentreSuite 365, San Francisco",37.7843413019,-122.406461134
+81,2012-09-16 12:03:41,"Pearl's Deluxe Burgers, 708 Post St, San Francisco",37.7877166,-122.4136389
+82,2012-08-30 18:34:27,"The Hoxton Shoreditch, 81 Great Eastern St, London",51.5255267928,-0.0829982757568
+83,2012-06-24 14:30:03,"Barney's Gourmet Hamburgers, 3344 Steiner St, San Francisco",37.800328,-122.437664
+84,2012-05-29 09:23:36,"Umami Burger, 2184 Union St, San Francisco",37.7972346106,-122.435192147
+85,2012-05-22 09:46:59,"Warm Planet Bikes, 1098A Market Street, San Francisco",37.7805772552,-122.412596941
+86,2012-04-06 23:43:56,"Caltrain Baby Bullet #329 Northbound, from Tamien Caltrain Station, San Jose",37.3119136319,-121.884085828
+87,2012-03-30 09:28:58,"Charles River Ventures, 2882 Sand Hill Rd Ste 106, Menlo Park",37.4216644353,-122.214235377
+88,2012-03-01 05:13:43,"Ephesus, 185 Castro St, Mountain View",37.394001,-122.078714
+89,2012-02-19 07:30:04,"FedEx Office Print & Ship Center, 120 Bush St, San Francisco",37.7914996277,-122.399929082
+90,2012-02-12 04:49:48,"Cup-A-Joe Coffee House, 896 Sutter St, San Francisco",37.7883954193,-122.415133806
+91,2012-02-03 11:55:34,"Freds Liquors And Food Mart, 320 Ofarrell St, San Francisco",37.7862117182,-122.40971347
+92,2012-01-26 03:42:14,"Sennheiser Technology & Innovation, 550 15th St, San Francisco",37.767317,-122.406202
+93,2012-01-18 11:06:50,"Mountain View Caltrain Station, 600 W Evelyn Ave, Mountain View",37.3943472169,-122.076107383
+94,2012-01-09 06:49:08,"Caffe Central, 845 Market St, San Francisco",37.7843275238,-122.406284133
+95,2012-01-05 10:22:44,"San Francisco Caltrain Station, 700 4th St, San Francisco",37.7761262396,-122.395309505
+96,2011-12-15 01:36:15,"Sutter Street Cleaners, 905 Sutter St, San Francisco",37.7882171567,-122.416112755
+97,2011-12-08 06:20:30,"Miselu Inc., 148 Castro St, Mountain View",37.394645,-122.078546
+98,2011-11-29 11:17:48,"Carmel Rincon (Rincon Towers), 88 Howard St, San Francisco",37.7915156633,-122.392377108
+99,2011-11-24 08:23:29,"Hangen Szechuan Restaurant, 134 Castro St, Mountain View",37.3946320583,-122.078620782
+100,2011-11-10 15:23:13,"Jimdo Inc., 2507 Bryant St, San Francisco",37.7542092532,-122.409067154
+101,2011-09-29 05:21:28,"Maru Ichi Japanese Noodle House, 368 Castro St, Mountain View",37.3918455585,-122.08039999
+102,2011-01-10 03:36:22,"The Plant Cafe Organic, Pier 3, San Francisco",37.7977805076,-122.395763397
+103,2010-07-09 07:44:00,"Publicis Drugstore, 133 avenue des Champs-lyses, Paris",48.8728611751,2.29696850508
+104,2010-07-05 13:00:54,"Lemans, Keplerstr. 36, Bremen",53.07628,8.82808
+105,2010-06-27 08:38:50,"Hannspree, 400 Sutter St, San Francisco",37.789417,-122.40707
+106,2010-03-28 06:41:48,"People's Cafe, 1419 Haight St, San Francisco",37.7701171466,-122.445781094
+107,2009-12-21 08:30:41,"Presidio Theater, 2340 Chestnut St, San Francisco",37.8001829187,-122.442026702
+108,2009-10-29 04:07:45,"Amarin Thai Cuisine, 174 Castro St, Mountain View",37.39426789,-122.078848216
+109,2009-10-17 10:27:04,"SF MUNI - 45 Union-Stockton, Inbound to 4th & Townsend, San Francisco",37.7986840436,-122.40892252

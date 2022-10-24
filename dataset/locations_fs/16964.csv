@@ -1,0 +1,97 @@
+,time,poi,latitude,longitude
+0,2012-08-27 07:46:07,"Caribou Coffee, 1001 18th Avenue NW, Austin",43.68458662,-92.98559032
+1,2012-08-22 08:16:48,"Rustica Bakery & Dogwood Coffee Bar, 3224 W Lake St, Minneapolis",44.94907213,-93.3203977346
+2,2012-08-18 07:44:47,"Jakeeno's Pizza & Pasta, 3555 Chicago Ave, Minneapolis",44.937897947,-93.2623333669
+3,2012-08-13 06:51:28,"Uptown Pizza, 323 W Lake St, Minneapolis",44.94826019,-93.2841
+4,2012-07-31 02:47:27,"Marino's, 1946 Johnson St NE, Minneapolis",45.0094576952,-93.237316481
+5,2012-07-09 07:56:04,"Frontenac State Park, 29233 County Road 28 Blvd., Frontenac",44.5351931839,-92.3423180767
+6,2012-07-09 07:55:16,"Frontenac State Park, 29233 County Road 28 Blvd., Frontenac",44.5351931839,-92.3423180767
+7,2012-07-09 07:45:30,"Chickadee Cottage Cafe, 317 N Lakeshore Dr, Lake City",44.451083,-92.26985665
+8,2012-07-02 06:44:09,"Hok-Si-La Park, 2500 U.S. 61, Lake City",44.4721672603,-92.2910827697
+9,2012-06-19 02:07:01,"Victoria's Ristorante & Wine Bar, 7 1st Ave SW, Rochester",44.0232355915,-92.4644349687
+10,2012-06-10 01:24:38,"The Good Life Cafe, Main Ave., Park Rapids",46.920217,-95.059714
+11,2012-06-09 04:29:14,"EMI Audio, 4719 42nd Ave N, Robbinsdale",45.0310129115,-93.340532285
+12,2012-06-09 03:34:21,"Powderhorn Station Post Office, 3045 Bloomington Ave, Minneapolis",44.9468763583,-93.2523876429
+13,2012-05-29 07:14:23,"Schoony's Malt Shop and Pizzeria, 384 Bench St, Taylors Falls",45.4024749497,-92.6525978666
+14,2012-05-12 09:12:44,"Burlington Coat Factory, 7575 153rd St W, Apple Valley",44.7291183472,-93.21926025
+15,2012-04-23 03:21:55,"Litin Everything Party and Paper, 434 E Lyndale Ave N, Minneapolis",44.98241809,-93.28627259
+16,2012-04-21 09:13:50,"The Movies on 35th Street, 3447 Bloomington Ave, Minneapolis",44.9398976886,-93.2524279413
+17,2012-04-20 06:57:56,"Depth of Field, 405 Cedar Ave, Minneapolis",44.969737,-93.2469578
+18,2012-04-08 06:53:27,"Seward Co-op Grocery & Deli, 2823 E Franklin Ave, Minneapolis",44.9626106464,-93.2303385179
+19,2012-04-06 02:22:52,"D'Amico & Sons, 200 Oak St SE, Minneapolis",44.9749831864,-93.22825333
+20,2012-03-24 10:43:06,"Thorp Building, 1618-20 Central Ave NE, Minneapolis",45.0049435559,-93.2480022239
+21,2012-03-16 07:48:41,"Depth of Field, 405 Cedar Ave, Minneapolis",44.969737,-93.2469578
+22,2012-03-10 09:49:21,"Tofu House, 307 Oak St SE, Minneapolis",44.973371174,-93.227044098
+23,2012-03-03 11:17:04,"Taco Taxi, 1511 E Lake St, Minneapolis",44.9483901969,-93.2532774603
+24,2012-01-07 10:08:42,"Twin City Grill, 130 N Garden, Bloomington",44.855584,-93.241818
+25,2011-12-18 09:25:30,"AMC Southdale 16, 400 Southdale Ctr, Edina",44.879830691,-93.3259880109
+26,2011-11-24 01:33:28,"University Of Minnesota Fairview Hospital Eye Clinic, 516 Delaware St SE Ste 9A, Minneapolis",44.9725951398,-93.2310008554
+27,2011-11-04 09:26:36,"Jakeeno's Pizza & Pasta, 3555 Chicago Ave, Minneapolis",44.937897947,-93.2623333669
+28,2011-10-18 08:17:53,"HoDo Lounge, 101 Broadway N, Fargo",46.8770908987,-96.7875981331
+29,2011-10-13 22:01:16,"Village Pub - St. Anthony, 2770 Highway 88, Saint Anthony",45.0171070503,-93.2181787491
+30,2011-10-13 21:58:41,"Village Pub - St. Anthony, 2770 Highway 88, Saint Anthony",45.0171070503,-93.2181787491
+31,2011-10-13 21:57:30,"Crowne Plaza Old Town Alexandria, 901 N Fairfax St, Alexandria",38.8140344067,-77.0401227727
+32,2011-09-29 02:00:47,"The Commons Hotel, 615 Washington Ave SE, Minneapolis",44.9742384333,-93.2296645963
+33,2011-09-26 04:36:05,"Common Roots Cafe, 2558 Lyndale Ave S, Minneapolis",44.9556271579,-93.2885169983
+34,2011-09-21 08:35:33,"Sky Bar, 9153 Azalea Way, Inver Grove Heights",44.8159369781,-93.104611574
+35,2011-09-18 00:54:56,"The Coffee Shop NE, 2852 Johnson St NE, Minneapolis",45.0201456685,-93.2372780452
+36,2011-09-18 00:54:03,"The Coffee Shop NE, 2852 Johnson St NE, Minneapolis",45.0201456685,-93.2372780452
+37,2011-09-16 02:46:13,"Eagan City Hall, 3830 Pilot Knob Rd, Eagan",44.8478976992,-93.1470680237
+38,2011-09-14 07:21:31,"Minneapolis Heart Institute - Abbott Northwestern Hospital, 800 E 28th St, Minneapolis",44.9526624332,-93.261238122
+39,2011-09-12 03:20:57,"Sky Bar, 9153 Azalea Way, Inver Grove Heights",44.8159369781,-93.104611574
+40,2011-09-10 07:40:11,"Depth of Field, 405 Cedar Ave, Minneapolis",44.969737,-93.2469578
+41,2011-09-10 07:39:11,"Depth of Field, 405 Cedar Ave, Minneapolis",44.969737,-93.2469578
+42,2011-09-07 07:17:19,"Acadia Cafe, 329 Cedar Ave S, Minneapolis",44.9702784372,-93.2471036911
+43,2009-11-05 04:22:48,"Be'Wiched Sandwiches & Deli, 800 Washington Ave N, Minneapolis",44.98889526,-93.278646
+44,2009-08-21 11:09:47,"Good Earth, 1901 Castle Ave E, Saint Paul",45.0110597794,-93.1804142712
+45,2009-07-21 20:47:25,"Mercil's Campus Auto Repair, 630 Washington Ave SE, Minneapolis",44.9737207026,-93.2286760756
+46,2009-07-21 04:05:25,"Acme Deli, 1552 Saint Clair Ave, Saint Paul",44.934168,-93.165875
+47,2009-07-21 04:03:06,"Coffman Memorial Union, 300 Washington Ave SE, Minneapolis",44.9728135638,-93.2353127003
+48,2009-07-21 01:14:59,"Dragonfly Coffee, 5001 Penn Ave S, Minneapolis",44.912324,-93.3086104
+49,2009-07-21 01:13:48,"Caffrey's Deli & Subs, 3008 Lyndale Ave S, Minneapolis",44.947914425,-93.2881941577
+50,2009-07-21 01:09:13,"Birch Clothing, 2309 W 50th St, Minneapolis",44.9120520742,-93.3090145392
+51,2009-07-21 01:08:12,"Hunt and Gather, 4944 Xerxes Ave S, Minneapolis",44.912822,-93.318856
+52,2009-07-15 09:59:30,"The Front Cafe, 15 4th St NE, Minneapolis",44.9890464603,-93.2551209557
+53,2009-07-14 05:06:12,"501 Club, 501 Washington Ave S, Minneapolis",44.9784314,-93.26115
+54,2009-07-14 05:03:26,"Northrup King Building, 1500 Jackson St NE, Minneapolis",45.0033134299,-93.2497196285
+55,2009-07-14 05:00:48,"The Movies on 35th Street, 3447 Bloomington Ave, Minneapolis",44.9398976886,-93.2524279413
+56,2009-07-10 00:58:37,"Riverview Cafe & Wine Bar, 3747 42nd Ave S, Minneapolis",44.934438,-93.212641
+57,2009-07-10 00:57:55,"Riverview Theater, 3800 42nd Ave S, Minneapolis",44.9340954035,-93.2131059829
+58,2009-07-07 21:30:39,"Flameburger, 4800 Central Ave NE, Minneapolis",45.05556363,-93.24816245
+59,2009-07-07 21:28:37,"Bona Vietnamese Restaurant, 815 Washington Ave SE, Minneapolis",44.973652,-93.22640048
+60,2009-07-07 21:23:15,"Walter Library, 117 Pleasant St SE, Minneapolis",44.9753463137,-93.2362028057
+61,2009-07-07 21:22:05,"Gluek's Restaurant & Bar, 16 N 6th St, Minneapolis",44.9795287792,-93.2744162691
+62,2009-07-07 21:17:41,"May Day Cafe, 3440 Bloomington Ave, Minneapolis",44.9398519749,-93.2526612282
+63,2009-07-06 10:44:45,"Psycho Suzi's Motor Lounge & Tiki Garden, 1900 Marshall St NE, Minneapolis",45.007467664,-93.2721233516
+64,2009-07-06 10:42:26,"The Melting Pot, 80 S 9th St, Minneapolis",44.9745187424,-93.2722394582
+65,2009-07-06 10:40:03,"Ristorante Luci, 470 Cleveland Ave S, Saint Paul",44.9272764423,-93.1873829956
+66,2009-07-06 10:31:37,"Fat Lorenzo's, 5600 Cedar Ave S, Minneapolis",44.9009174828,-93.2477042952
+67,2009-07-03 05:25:55,"Hell's Kitchen, 80 S 9th St, Minneapolis",44.9746047832,-93.2724666595
+68,2009-07-03 05:24:31,"Day by Day Cafe, 477 7th St W, Saint Paul",44.9381278237,-93.1119212017
+69,2009-07-03 05:23:13,"The Bulldog Uptown, 2549 Lyndale Ave S, Minneapolis",44.955928,-93.28789284
+70,2009-07-03 05:22:30,"Grumpy's Bar & Grill, 1111 Washington Ave S, Minneapolis",44.9750564832,-93.2530696025
+71,2009-07-03 05:18:14,"Red Stag Supperclub, 509 1st Ave NE, Minneapolis",44.9903764625,-93.2535603909
+72,2009-07-03 05:17:02,"Punch Neapolitan Pizza, 210 E Hennepin Ave, Minneapolis",44.9876273917,-93.257060051
+73,2009-07-03 05:14:12,"Joseph's Grill, 140 Wabasha St S, Saint Paul",44.93864305,-93.0881163441
+74,2009-07-03 05:13:46,"Carbone's Pizzeria, 680 7th St E, Saint Paul",44.9579484001,-93.0735298593
+75,2009-07-03 05:13:04,"Carbone's Pizza, 4724 Cedar Ave S, Minneapolis",44.9172554489,-93.2473213169
+76,2009-07-03 05:08:48,"Big Ten Restaurant and Bar, 606 Washington Ave SE, Minneapolis",44.9735282897,-93.2297140939
+77,2009-07-03 05:07:57,"Bun Mi Sandwiches, 604 Washington Ave SE, Minneapolis",44.9737207663,-93.2298252591
+78,2009-07-03 05:06:32,"Matt's Bar, 3500 Cedar Ave S, Minneapolis",44.9394795405,-93.2475226257
+79,2009-07-03 05:03:35,"5-8 Club, 5800 Cedar Ave S, Minneapolis",44.8977396394,-93.2479547058
+80,2009-07-03 05:01:45,"Buon Giorno, 981 Sibley Memorial Hwy, Saint Paul",44.9001447333,-93.1392409
+81,2009-07-03 04:57:25,"Burrito Loco, 418 13th Ave SE, Minneapolis",44.9815252574,-93.2366260438
+82,2009-07-03 04:55:41,"Pierre's Bistro, 2221 W 50th St, Minneapolis",44.9122971296,-93.30842223
+83,2009-07-03 04:53:11,"El Burrito Mercado, 175 Cesar Chavez St, Saint Paul",44.9298203088,-93.0774390548
+84,2009-07-01 11:28:54,"The Bad Waitress Diner & Coffee Shop, 2 E 26th St, Minneapolis",44.9556672039,-93.2778443951
+85,2009-07-01 11:27:50,"Pancho Villa Mexican Restaurant, 2539 Nicollet Ave, Minneapolis",44.9559880179,-93.2779526962
+86,2009-07-01 11:22:39,"Maria's Cafe, 1113 E Franklin Ave, Minneapolis",44.9627126356,-93.2575448102
+87,2009-07-01 09:17:24,"First Avenue & 7th St Entry, 701 1st Ave N, Minneapolis",44.9785470003,-93.2758496604
+88,2009-07-01 09:15:16,"Casper & Runyon's Nook, 492 Hamline Ave S, Saint Paul",44.926605879,-93.1566745016
+89,2009-07-01 09:14:23,"Caf & Bar Lurcat, 1624 Harmon Pl, Minneapolis",44.9712098589,-93.2860482746
+90,2009-07-01 09:08:57,"The News Room, 990 Nicollet Mall, Minneapolis",44.9742331899,-93.2746706594
+91,2009-07-01 08:34:26,"University of Minnesota Bookstore at Coffman Memorial Union, 300 Washington Ave SE, Minneapolis",44.9730855259,-93.2354956939
+92,2009-07-01 08:32:22,"Jakeeno's Pizza & Pasta, 3555 Chicago Ave, Minneapolis",44.937897947,-93.2623333669
+93,2009-07-01 08:30:19,"Red's Savoy Pizza, 2329 Hennepin Ave, Minneapolis",44.9591757953,-93.2937905529
+94,2009-07-01 08:28:45,"Triple Rock Social Club, 629 Cedar Ave S, Minneapolis",44.9667753758,-93.2470849156
+95,2009-07-01 08:20:22,"Spyhouse Coffee, 2404 Hennepin Ave, Minneapolis",44.9589088382,-93.2945626974

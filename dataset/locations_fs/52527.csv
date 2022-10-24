@@ -1,0 +1,128 @@
+,time,poi,latitude,longitude
+0,2016-12-19 05:35:23,"Blue Bottle Coffee, 66 Mint Plaza, San Francisco",37.7824639581,-122.407822609
+1,2016-11-08 20:07:58,"Sushibar Ki-Mama, Observatoriegatan 13, Stockholm",59.3404978606,18.0504494598
+2,2016-09-25 18:15:05,"Warung, Lngholmsgatan 3, Stockholm",59.3182908694,18.0325770378
+3,2016-08-01 19:02:45,"Helsinki Airport (HEL), Lentjnkuja 1, Vantaa",60.318144468,24.9680387493
+4,2016-08-01 19:02:25,"Helsinki Airport (HEL), Lentjnkuja 1, Vantaa",60.318144468,24.9680387493
+5,2016-07-28 23:30:25,"ESHK, Thomasstrasse 11, Berlin",52.4737681101,13.4393472112
+6,2016-07-28 05:26:26,"WeWork Sony Center, Kemperplatz 1, Berlin",52.5108112975,13.3720789151
+7,2016-07-25 22:09:24,"Fenster Coffee, Falckensteinstr. 5, Berlin",52.4994323903,13.4432603407
+8,2016-06-15 00:01:58,"& Other Stories, Biblioteksgatan 11, Stockholm",59.3354893266,18.072886317
+9,2016-06-08 07:40:42,"Eriksdalsbadet, Hammarby Slussvg 20, Stockholm",59.3048654539,18.0748950384
+10,2016-06-02 23:43:22,"Stockholm-Arlanda Airport (ARN), Stockholm Arlanda Airport, Stockholm-Arlanda",59.6520288107,17.9312684067
+11,2016-06-02 17:36:42,"Ben Gurion International Airport (TLV), Ha-Mamri'im Rd., eadc d0d1d9d1-d9e4d5",32.0018517884,34.8715098773
+12,2016-06-02 15:50:12,"Jasper, 190 Dizengoff, eadc d0d1d9d1-d9e4d5",32.0855310867,34.7747562805
+13,2016-05-31 20:18:54,"Sarona Market, 3 Kalman Magen St,, eadc d0d1d9d1-d9e4d5",32.0714131895,34.786914446
+14,2016-05-31 20:16:14,"Dovnov 8 d3d5d1e0d5d1, d3d5d1e0d5d1 8, eadc d0d1d9d1-d9e4d5",32.0744136668,34.7839101262
+15,2016-05-30 15:54:05,"Cicchetti, Yehuda Halevi 58, eadc d0d1d9d1-d9e4d5",32.0656017667,34.7785322928
+16,2016-05-30 15:51:50,"Cicchetti, Yehuda Halevi 58, eadc d0d1d9d1-d9e4d5",32.0656017667,34.7785322928
+17,2016-05-29 19:01:33,"Shine 38, 38 Shlomo HaMelech St., eadc d0d1d9d1-d9e4d5",32.0794837829,34.777007103
+18,2016-05-28 21:54:58,"Tel Aviv Museum of Art, 27 Shaul Hamelech Ave., eadc d0d1d9d1-d9e4d5",32.0774377416,34.7869224834
+19,2016-05-23 19:43:47,"German Bakery, Lakshman Jhoola, Rish2bkesh",30.1264675352,78.3294726314
+20,2016-05-09 21:01:11,"The Streets, Dizengoff 304, eadc d0d1d9d1-d9e4d5",32.0944181579,34.7765957587
+21,2016-05-09 21:00:47,"The Streets, Dizengoff 304, eadc d0d1d9d1-d9e4d5",32.0944181579,34.7765957587
+22,2016-05-05 20:12:44,"Drop Coffee, Wollmar Yxkullsgatan 10, Stockholm",59.316836,18.062894
+23,2016-05-02 22:01:43,"Caffellini, Vsterlnggatan, Stockholm",59.3235750778,18.0714962522
+24,2016-04-29 04:26:18,"Brasserie la bonne franquette, Chausseestr. 110, Berlin",52.5310857688,13.3824225326
+25,2016-04-28 21:59:37,"Kranhaus Caf, Paul-Tropp-Str. 11, Berlin",52.4540985439,13.5286914655
+26,2016-04-25 21:49:07,"St. Oberholz, Rosenthaler Str. 72, Berlin",52.5295503485,13.4017406525
+27,2016-01-20 02:06:27,"Spruce, 3640 Sacramento St, San Francisco",37.7876247868,-122.452731064
+28,2016-01-11 09:18:28,"TC's Pub, 100 Northstar Dr Ste 200C, Truckee",39.2758556499,-120.12098892
+29,2016-01-06 16:54:29,"Gracias Madre, 2211 Mission St, San Francisco",37.7614700848,-122.419452667
+30,2016-01-02 11:03:28,"Marlowe, 500 Brannan St, San Francisco",37.7783233214,-122.396792031
+31,2016-01-01 06:49:29,"The Counter Palo Alto, 369 S California Ave, Palo Alto",37.4268031128,-122.144259194
+32,2015-12-05 16:35:16,"Tartine Bakery, 600 Guerrero St, San Francisco",37.7614213141,-122.42400974
+33,2015-10-26 03:05:50,"Fish., 350 Harbor Dr, Sausalito",37.868274,-122.49769
+34,2015-10-20 00:57:45,"Social Security Administration - Mission, 1098 Valencia St, San Francisco",37.755433,-122.421163917
+35,2015-10-06 14:05:44,"Yoga to the People, 2973 16th St Fl 5, San Francisco",37.764995,-122.419223
+36,2015-10-06 14:03:42,"Stable Cafe, 2128 Folsom St, San Francisco",37.7631749198,-122.415257692
+37,2015-10-06 14:01:00,"Steins Beer Garden, 895 Villa St, Mountain View",37.3940197208,-122.079980102
+38,2015-10-03 03:42:57,"Stable Cafe, 2128 Folsom St, San Francisco",37.7631749198,-122.415257692
+39,2015-09-25 04:44:48,"Pizza My Heart, 220 University Ave, Palo Alto",37.4448111173,-122.162406159
+40,2015-09-08 09:05:14,"Patxi's Chicago Pizza, 511 Hayes St, San Francisco",37.7766077,-122.4250379
+41,2015-07-22 05:03:33,"Kin Khao, 55 Cyril Magnin St, San Francisco",37.7850967823,-122.409281731
+42,2015-07-22 02:22:53,"The Market, 1355 Market St Ste 100, San Francisco",37.7765691414,-122.417301862
+43,2015-07-08 04:14:07,"Intuit Inc., 2535 Garcia Ave, Mountain View",37.427476528,-122.096562427
+44,2015-07-03 23:10:39,"Four Barrel Coffee, 375 Valencia St, San Francisco",37.7670243868,-122.421958607
+45,2015-07-02 05:27:13,"Smitten Ice Cream, 432 Octavia St #1A, San Francisco",37.7762864165,-122.424194813
+46,2015-06-24 12:41:48,"ABV, 3174 16th St, San Francisco",37.7649449576,-122.423645382
+47,2015-06-24 05:57:38,"Caffe Centro, 102 South Park, San Francisco",37.7816338068,-122.394201525
+48,2015-06-24 05:57:20,"Caffe Centro, 102 South Park, San Francisco",37.7816338068,-122.394201525
+49,2015-06-24 05:52:34,"R/GA San Francisco, 35 South Park, San Francisco",37.7816291323,-122.393445253
+50,2015-06-21 08:21:26,"Point Market & Cafe, 23040 E Cliff Dr, Santa Cruz",36.9558093553,-121.972474878
+51,2015-06-21 08:00:44,"Pleasure Point, E Cliff Dr, Santa Cruz",36.957588,-121.9697
+52,2015-06-16 02:15:10,"King's Highway at Ace Hotel & Swim Club, 701 E Palm Canyon Dr, Palm Springs",33.8010135307,-116.539664729
+53,2015-06-11 14:18:10,"Smuggler's Cove, 650 Gough St, San Francisco",37.7793898026,-122.423446288
+54,2015-06-07 06:23:03,"Paia Fish Market Restaurant, 100 Hana Hwy, Paia",20.915979,-156.381284
+55,2015-05-27 12:40:19,"Namu Gaji, 499 Dolores St, San Francisco",37.7615633853,-122.425857782
+56,2015-05-24 04:03:25,"Dolores Park Cafe, 501 Dolores St, San Francisco",37.7613131702,-122.425785363
+57,2015-05-20 03:38:49,"Onigilly, 343 Kearny St, San Francisco",37.7914304387,-122.404341102
+58,2015-05-20 00:27:21,"Project Juice, 790 Valencia St, San Francisco",37.7603414423,-122.421499578
+59,2015-05-17 06:39:05,"Kansai, 4345 Telegraph Ave, Oakland",37.8319982935,-122.263962518
+60,2015-05-14 14:01:13,"Nihon Whisky Lounge, 1779 Folsom St, San Francisco",37.7685436209,-122.415289879
+61,2015-05-10 07:19:33,"Taqueria Cancn, 2288 Mission St, San Francisco",37.760452,-122.419412633
+62,2015-05-04 08:09:50,"de Young Museum, 50 Hagiwara Tea Garden Dr, San Francisco",37.7714402309,-122.468393066
+63,2015-05-04 08:08:17,"de Young Museum, 50 Hagiwara Tea Garden Dr, San Francisco",37.7714402309,-122.468393066
+64,2015-05-04 02:55:05,"Gracias Madre, 2211 Mission St, San Francisco",37.7614700848,-122.419452667
+65,2015-04-22 01:36:25,"Grandma's Deli & Cafe, 1551 Mission, San Francisco",37.7735612951,-122.418065096
+66,2015-04-19 10:49:34,"Jackson Diner, 37-47 74th St, Jackson Heights",40.7477347343,-73.8914964147
+67,2015-04-19 00:23:47,"Urubamba, 8620 37th Ave, Jackson Heights",40.7500909831,-73.8797252543
+68,2015-04-13 09:38:12,"Zuni Cafe, 1658 Market St, San Francisco",37.7736485283,-122.421560414
+69,2015-04-12 12:42:18,"Kiji Sushi Bar & Cuisine, 1009 Guerrero St, San Francisco",37.7548834824,-122.423147648
+70,2015-04-08 09:09:19,"burger., 1520 Mission St, Santa Cruz",36.9669479949,-122.040148079
+71,2015-04-08 05:25:55,"Donnelly Chocolates, 1509 Mission St, Santa Cruz",36.9668257167,-122.03980414
+72,2015-04-07 01:52:21,"Ritual Coffee Roasters, 1026 Valencia St, San Francisco",37.756501,-122.421146
+73,2015-04-07 01:50:44,"Ritual Coffee Roasters, 1026 Valencia St, San Francisco",37.756501,-122.421146
+74,2015-04-02 10:35:02,"Foreign Cinema, 2534 Mission St, San Francisco",37.756487585,-122.419364792
+75,2015-02-27 23:37:09,"Waynes Coffee, Drottninggatan 33, Stockholm",59.3317624705,18.0638055787
+76,2015-02-14 22:44:10,"Bonne-Mcanique, Vartoftagatan 49, Stockholm",59.3112404975,18.0739861625
+77,2015-02-14 03:29:22,"Katarina lkaf, Katarina Bangata 27, Stockholm",59.3115251098,18.0793646412
+78,2014-12-13 19:10:08,"Broms, Karlavgen 76, Stockholm",59.3378521776,18.0876528904
+79,2014-12-03 20:21:23,"Grill Ruby, sterlngatan 14, Stockholm",59.3247666974,18.0739485913
+80,2014-11-13 18:52:48,"Prlans Konfektyr, Nytorgsgatan 38, Stockholm",59.3134619416,18.0820798874
+81,2014-10-06 01:34:53,"Nynshamns frjeterminal, Nynshamn, Nynshamn",58.9041386666,17.9556206857
+82,2014-09-28 02:18:30,"drmedpasta, Lngholmsgatan 5, Stockholm",59.3180624482,18.0325793255
+83,2014-09-21 17:02:16,"Bakverket, Bondegatan 59, Stockholm",59.313679,18.090606
+84,2014-09-20 20:49:59,"Bonne-Mcanique, Vartoftagatan 49, Stockholm",59.3112404975,18.0739861625
+85,2014-08-19 03:37:27,"Vassa Eggen Restaurant, Birger Jarlsgatan 29, Stockholm",59.3376278768,18.0697433269
+86,2014-07-02 04:26:28,"Monks American Bar, Sveavgen 39, Stockholm",59.3374,18.0615
+87,2014-06-18 14:46:33,"stermalmstorg T-bana, stermalmstorg, Stockholm",59.3349733126,18.0740761757
+88,2014-06-03 00:42:05,"Marc Joseph Salon & Spa, 147 W 40th St, New York",40.7546498751,-73.9876257609
+89,2014-06-02 12:58:32,"miss KOREA BBQ, 10 W 32nd St Fl 3 #1, New York",40.7477079597,-73.9862828284
+90,2014-05-14 03:07:18,"Delessio Market & Bakery, 1695 Market St, San Francisco",37.7727850826,-122.422312555
+91,2014-05-11 13:46:55,"Sweet Rose Creamery, 225 26th St, Santa Monica",34.0471480062,-118.490381241
+92,2014-05-09 15:45:32,"Penthouse Night Club, 661 N Robertson Blvd, Los Angeles",34.0825638432,-118.385726804
+93,2014-05-07 12:34:29,"Tender Greens, 201 Arizona Ave, Santa Monica",34.0164743522,-118.498430798
+94,2014-05-06 06:27:42,"Darwin Cafe, 212 Ritch St, San Francisco",37.780679,-122.396086
+95,2014-04-29 07:07:11,"Pizzeria Delfina, 651 Emerson St, Palo Alto",37.443451694,-122.160421397
+96,2014-04-26 13:29:15,"Nojo Ramen Tavern, 231 Franklin St, San Francisco",37.7766628437,-122.421283889
+97,2013-12-20 04:49:06,"La Cucaracha, Bondegatan 2, Stockholm",59.31234,18.075493
+98,2013-09-25 02:08:40,"SUP46 (Start-Up People of Sweden), Regeringsgatan 65, Stockholm",59.3350499191,18.067445755
+99,2013-09-13 21:06:47,"Bonnier R&D, Kungsgatan 49, Stockholm",59.3395751815,18.0597442866
+100,2013-09-03 00:51:21,"Grill, Drottninggatan 89, Stockholm",59.3389270141,18.0564087416
+101,2013-09-01 15:35:19,"Geales, 2 Farmer St., London",51.508625,-0.197045
+102,2013-09-01 00:39:15,"Aqua Spirit, 5th Floor, 240 Regent St, London",51.514229,-0.141148
+103,2013-07-31 04:18:20,"Pelikan/Kristallen, Blekingegatan 40, Stockholm",59.3106291292,18.0759712362
+104,2013-07-01 14:36:29,"John Paul II International Airport Krakw13Balice (KRK), Kpt. Mieczys42awa Medweckiego 1, Balice",50.0721345119,19.8018896643
+105,2013-07-01 12:41:44,"Tango House Bed & Breakfast Krakow, Szpitalna 4, Krakw",50.0619592056,19.9405462259
+106,2013-07-01 04:26:53,"Charlotte - Chleb i Wino, Plac Szczepa44ski 2, Krakw",50.0634616931,19.9350142479
+107,2013-06-25 21:20:22,"Kolory, Estery 10, Krakw",50.051886,19.945103
+108,2013-06-25 20:42:51,"Amarone, Floria44ska 14, Krakw",50.0630424232,19.939316404
+109,2013-06-15 03:59:04,"Sushi House, ul. Sikorskiego 51, Nowy Targ",49.4801581802,20.0347930038
+110,2013-06-05 01:28:09,"Fitness Klub ACTIVE, Kraszinskiego 48, Nowy Targ",49.4801579046,20.0033680759
+111,2013-05-30 21:28:21,"Zak42adka, Jzefi44ska 2, Krakw",50.0459016844,19.9482228787
+112,2013-05-29 20:21:48,"Terminal T1, Kpt. Mieczys42awa Medweckiego 1, Balice",50.0721827036,19.8021749671
+113,2013-05-11 19:04:51,"Bali Botanica Day Spa, Jalang Sanggingan, Ubud",-8.4939480617,115.252899047
+114,2013-04-26 11:00:12,"Hubud, Jalan Monkey Forest #88, Ubud",-8.51816987516,115.260744095
+115,2013-04-12 09:20:08,"Power House 6, Pratu Made Rambug, Perumahan Bumisanthi No 21, Batu Bulan, Gianyar",-8.6976201708,115.194059973
+116,2013-04-10 12:23:58,"Rendezvous Hotel Singapore, 9 Bras Basah Road, Singapore",1.29848453042,103.849226576
+117,2013-03-23 18:42:01,"Bali HYATT, Jalan Danau Tamblingan No. 89, Denpasar",-8.70215264109,115.264938735
+118,2013-02-24 16:38:08,"Komune Resort and Beach Club, Jalan Pantai Keramas, Gianyar",-8.59819667791,115.338376451
+119,2013-02-11 23:32:46,"Lloyds Banking Group, 34 Moorgate, London",51.5162190645,-0.0885960408185
+120,2012-12-30 18:49:59,"af Chapman Hostel, Flaggmansvgen 8, Stockholm",59.325248522,18.0804882607
+121,2012-12-30 18:47:05,"Moderna Museet, Slupskjulsvgen 7-9, Stockholm",59.326052946,18.084397316
+122,2012-11-13 15:55:47,"Woodin's Shades, 212 Bishopsgate, London",51.5181507452,-0.0798232271593
+123,2012-11-02 18:07:13,"TSB Bank, 69 Old Street, London",51.52407819,-0.096078196
+124,2012-11-01 03:32:37,"Tekniska Museet, Museivgen 7, Stockholm",59.3325386063,18.1185737592
+125,2012-10-29 22:04:56,"Stockholm Vsters Flygplats (VST), Vsters Flygplats, Vsters",59.6017903921,16.6284620762
+126,2012-10-29 22:03:51,"Stockholm Vsters Flygplats (VST), Vsters Flygplats, Vsters",59.6017903921,16.6284620762

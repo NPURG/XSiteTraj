@@ -1,0 +1,45 @@
+,time,poi,latitude,longitude
+0,2015-05-01 10:25:54,"Garaje, 475 3rd St, San Francisco",37.7818101067,-122.396028643
+1,2015-04-18 10:33:27,"Skool Restaurant, 1725 Alameda St, San Francisco",37.7686602368,-122.402262817
+2,2015-03-11 06:21:22,"MatchaBar, 93 Wythe Ave, Brooklyn",40.7213292854,-73.9582899213
+3,2015-02-20 07:35:01,"The Liberty, 1618 1/2 E 6th St, Austin",30.2628110379,-97.7250623703
+4,2015-02-20 07:34:18,"Wally's Burger Express, 8107 Mesa Dr, Austin",30.372184,-97.75661412
+5,2015-02-20 07:33:51,"Cisco's Restaurant & Bakery, 1511 E 6th St, Austin",30.2630293139,-97.7268158799
+6,2015-02-07 08:29:29,"Qi Thai Grill, 176 N 9th St, Brooklyn",40.718733885,-73.9562997054
+7,2015-02-07 08:27:46,"Sheltering Sky, 160 N 12th St, Brooklyn",40.7209499864,-73.9556281311
+8,2015-01-02 03:48:07,"Tracey's, 2604 Magazine St, New Orleans",29.9269991175,-90.0808751385
+9,2015-01-02 03:47:45,"Cochon Butcher, 930 Tchoupitoulas St, New Orleans",29.9421420989,-90.0669739453
+10,2015-01-01 08:10:55,"Bourbon House, 144 Bourbon St, New Orleans",29.9545586068,-90.0691498091
+11,2015-01-01 08:08:41,"Borgne, 601 Loyola Ave, New Orleans",29.949438806,-90.0761070145
+12,2015-01-01 08:08:02,"The Old Coffeepot Restaurant, 714 Saint Peter St, New Orleans",29.9581744498,-90.0651539778
+13,2015-01-01 08:07:40,"Hermes Bar, 725 Saint Louis St, New Orleans",29.9567733281,-90.0667002605
+14,2015-01-01 08:07:28,"801 Royal, 801 Royal St, New Orleans",29.9589541696,-90.0640228134
+15,2015-01-01 08:06:47,"Dat Dog, 601 Frenchmen St, New Orleans",29.9635589083,-90.0577518415
+16,2015-01-01 08:05:59,"American Bicycle Rental Company, 325 Burgundy St, New Orleans",29.9571468924,-90.0700807571
+17,2015-01-01 08:05:11,"Johnny's Po-Boys, 511 Saint Louis St, New Orleans",29.9552846833,-90.06460847
+18,2015-01-01 08:04:18,"Le Meridien Hotel, 333 Poydras St, New Orleans",29.9486984808,-90.0665679802
+19,2015-01-01 08:03:53,"Willie Mae's Scotch House, 2401 Saint Ann St, New Orleans",29.9691505,-90.07886
+20,2015-01-01 08:03:30,"Lafitte's Blacksmith Shop, 941 Bourbon St, New Orleans",29.96103797,-90.0636077574
+21,2015-01-01 08:02:56,"Caf Amelie, 912 Royal St, New Orleans",29.95982606,-90.062881
+22,2015-01-01 08:02:19,"La Petite Grocery, 4238 Magazine St, New Orleans",29.920891,-90.100124
+23,2015-01-01 08:01:45,"Mr. B's Bistro, 201 Royal St, New Orleans",29.9541807408,-90.0682101128
+24,2014-08-07 10:18:21,"Guero's Taco Bar, 1412 S Congress Ave, Austin",30.2491138399,-97.7501678467
+25,2014-08-07 10:17:34,"Reynard, 80 Wythe Ave, Brooklyn",40.7219005064,-73.9579975605
+26,2014-08-07 10:14:46,"Woodhouse Fish Co., 1914 Fillmore St, San Francisco",37.7874796459,-122.433544267
+27,2013-09-02 14:25:56,"Hotel rkdia, Hunyadi Jnos u. 1., Pcs",46.0778389517,18.2278180144
+28,2013-01-12 10:18:00,"Qi Thai Grill, 176 N 9th St, Brooklyn",40.718733885,-73.9562997054
+29,2012-02-13 04:48:27,"Pearl Dive Oyster Palace, 1612 14th St NW, Washington",38.9116566861,-77.0320936905
+30,2011-11-11 13:36:51,"Searsucker, 611 5th Ave, San Diego",32.7117321687,-117.160053983
+31,2011-08-25 09:48:24,"Tacos El Gordo, 3265 Palm Ave, San Diego",32.5836586223,-117.062964986
+32,2011-07-18 07:26:54,"LaGuardia Airport (LGA), Grand Central Pkwy, East Elmhurst",40.7716531197,-73.8676929474
+33,2011-07-02 04:36:22,"Pier 25 Beach Volleyball, West St, New York",40.7203799501,-74.0148603916
+34,2011-07-02 04:35:21,"Spritzenhaus 33, 33 Nassau Ave, Brooklyn",40.7232177517,-73.9527511597
+35,2011-05-25 10:18:37,"Pier 25 Beach Volleyball, West St, New York",40.7203799501,-74.0148603916
+36,2011-03-13 03:35:06,"Marigny Brasserie, 640 Frenchmen St, New Orleans",29.9644509202,-90.0579388157
+37,2010-11-20 08:26:12,"Madison Square Garden, 4 Penn Plz, New York",40.7503435144,-73.9928826201
+38,2010-08-25 10:00:07,"PJ Leahy's, 50-02 Vernon Blvd, Queens",40.742695,-73.954032
+39,2010-08-14 03:59:37,"The Other Place Resort, 385 Other Place Dr, New Braunfels",29.7014326755,-98.1175653989
+40,2010-07-16 06:43:53,"Frames Leisure Time Bowl, 550 9th Ave, New York",40.7573936804,-73.9933009728
+41,2010-05-26 09:01:09,"Jack Russell's, 1591 2nd Ave, New York",40.775635,-73.953553
+42,2010-05-25 05:28:48,"Hotel Histrico Fazenda Dona Carolina, SP-063, km 39,5, Bragana Paulista",-22.9397432881,-46.701417015
+43,2010-05-09 01:54:24,"Radegast Hall & Biergarten, 113 N 3rd St, Brooklyn",40.7165343771,-73.9614483645

@@ -1,0 +1,84 @@
+,time,poi,latitude,longitude
+0,2014-08-21 11:33:06,"Los Angeles County Store, 4333 Sunset Boulevard, Los Angeles",34.0955678609,-118.283149939
+1,2014-05-22 08:10:35,"Quenelle, 2214 W Magnolia Blvd, Burbank",34.1726969941,-118.332275748
+2,2014-04-09 14:53:35,"Pot at the Line Hotel, 3515 Wilshire Blvd, Los Angeles",34.0617737411,-118.301030591
+3,2014-01-29 00:30:00,"Samuel Goldwyn Theater, 8949 Wilshire Blvd, Beverly Hills",34.067421,-118.387352
+4,2013-11-04 23:42:21,"Coffee Commissary, 3121 W Olive Ave, Burbank",34.1560993611,-118.335165304
+5,2013-10-11 07:47:06,"Junk for Joy, 3314 W Magnolia Blvd, Burbank",34.1689395905,-118.343567848
+6,2013-09-28 10:56:26,"8 Ball, 3424 W Magnolia Blvd, Burbank",34.1684469533,-118.344759458
+7,2013-08-05 05:12:35,"Seafood City Super Market, 2700 Colorado Blvd #140, Los Angeles",34.1412500791,-118.224962063
+8,2013-08-05 05:10:14,"Superior Grocers, 6140 Lankershim Blvd, North Hollywood",34.1826161913,-118.384528569
+9,2013-07-12 07:16:37,"Echo Park Lake, 751 Echo Park Ave, Los Angeles",34.0731398655,-118.260174088
+10,2013-06-19 01:19:15,"The Capri Hotel, 1180 E Ojai Ave, Ojai",34.4492757774,-119.23288714
+11,2013-06-07 13:39:29,"Gios, 3805 Ocean View Blvd, Montrose",34.2059520817,-118.228160339
+12,2013-05-31 13:51:48,"Bob Hope Airport (BUR), 2627 N Hollywood Way, Burbank",34.1964669882,-118.352041748
+13,2013-05-27 14:42:37,"Kayne Griffin Corcoran, 1201 S LA Brea Ave, Los Angeles",34.0530860966,-118.343782425
+14,2013-01-28 01:05:08,"Mohawk Bend, 2141 W Sunset Blvd, Los Angeles",34.0777106,-118.264743417
+15,2012-03-27 04:57:39,"Public School 213, 612 S. Flower St., Los Angeles",34.04981724,-118.2576729
+16,2011-10-05 00:11:28,"NoHo Arts District Farmers Market, Bakman, North Hollywood",34.1670073182,-118.377458812
+17,2011-10-05 00:09:06,"The Geffen Contemporary (MoCA), 152 N Central Ave, Los Angeles",34.0504858269,-118.238777048
+18,2011-09-27 23:18:24,"Annenberg Community Beach House, 415 Palisades Beach Rd, Santa Monica",34.0242772637,-118.513181202
+19,2011-09-27 23:17:32,"The Echo, 1822 W Sunset Blvd, Los Angeles",34.0777285356,-118.260088436
+20,2011-09-27 23:16:09,"La Luz de Jesus Gallery, 4633 Hollywood Blvd, Los Angeles",34.10037,-118.289966
+21,2011-09-20 13:40:37,"Simply Coffee, 940 N Lima St, Burbank",34.168537,-118.343728
+22,2011-09-20 13:35:49,"Club Los Globos, 3040 W Sunset Blvd, Los Angeles",34.0838168487,-118.274271715
+23,2011-09-13 23:31:14,"Gardens of the World, 2001 E Thousand Oaks Blvd, Thousand Oaks",34.1767000518,-118.848361265
+24,2011-09-07 01:06:08,"Griffith Observatory, 2800 E Observatory Ave, Los Angeles",34.119028412,-118.300591019
+25,2011-09-07 01:00:16,"Vanity Private Studio, 1007 N Cordova St, Burbank",34.1684206957,-118.346585768
+26,2011-08-30 07:15:41,"POV Evolving, 939 Chung King Rd, Los Angeles",34.065718,-118.238693476
+27,2011-08-30 07:12:46,"Hammer Museum, 10899 Wilshire Blvd, Los Angeles",34.0594148609,-118.443673253
+28,2011-08-23 11:20:05,"Los Angeles Theatre Center, 514 S Spring St, Los Angeles",34.0469158989,-118.249827094
+29,2011-08-23 11:19:38,"Hollywood Bowl Museum, 2301 N Highland Ave, Los Angeles",34.1117665539,-118.337048792
+30,2011-08-23 11:12:14,"Highland Camrose Park, 2101 N Highland Ave, Los Angeles",34.1087754378,-118.337184191
+31,2011-08-16 05:09:25,"American Way, 3226 W. Magnolia Blvd., Burbank",34.169033,-118.342577
+32,2011-08-09 13:47:28,"North Hollywood Park, 11430 Chandler Blvd, North Hollywood",34.1631108175,-118.379113584
+33,2011-08-09 13:45:42,"Center for the Arts, 2225 Colorado Blvd, Los Angeles",34.1395590131,-118.214915693
+34,2011-08-02 11:23:58,"Hermosa Beach Pier, 1 Pier Ave, Hermosa Beach",33.8618437525,-118.401297368
+35,2011-07-26 12:33:59,"Century City Farmer's Market, Avenue of the Stars, Los Angeles",34.0613945922,-118.416541311
+36,2011-07-26 12:31:34,"Audrey K Boutique, 3414 W Magnolia Blvd, Burbank",34.16847208,-118.3445158
+37,2011-07-19 13:36:07,"Urth Caff, 451 S Hewitt St, Los Angeles",34.0419441586,-118.235213471
+38,2011-07-19 13:35:23,"Jack's Classic Hamburgers, 11375 Riverside Dr, North Hollywood",34.157444,-118.37850702
+39,2011-07-19 13:34:03,"Red Lion Tavern, 2366 Glendale Blvd, Los Angeles",34.0991896072,-118.259020646
+40,2011-07-19 13:30:02,"Bigfoot Lodge, 3172 Los Feliz Blvd, Los Angeles",34.1235049301,-118.26798531
+41,2011-07-19 13:28:41,"Red Lion Tavern, 2366 Glendale Blvd, Los Angeles",34.0991896072,-118.259020646
+42,2011-07-19 13:25:40,"Silver Lake Meadow, Silver Lake Blvd, Los Angeles",34.09847918,-118.26151371
+43,2011-07-13 01:44:23,"Ye Rustic Inn, 1831 Hillhurst Ave, Los Angeles",34.1043680096,-118.287700206
+44,2011-07-13 01:43:21,"Antigua Coffee House, 3400 N Figueroa St, Los Angeles",34.0873734144,-118.217560108
+45,2011-07-13 01:42:12,"Hammer Museum, 10899 Wilshire Blvd, Los Angeles",34.0594148609,-118.443673253
+46,2011-07-05 02:29:24,"4100 Bar, 1087 Manzanita St, Los Angeles",34.0929433177,-118.2814771
+47,2011-07-05 02:27:28,"Hamburger Mary's, 8288 Santa Monica Blvd, West Hollywood",34.0905895688,-118.370153904
+48,2011-06-21 00:11:52,"Los Angeles Public Library - Central, 630 W 5th St, Los Angeles",34.0505615701,-118.255366087
+49,2011-06-21 00:06:50,"Los Angeles Regional Foodbank, 1734 E 41st St, Vernon",34.0077775101,-118.242146389
+50,2011-06-21 00:02:45,"Hollywood & Highland Center, 6801 Hollywood Blvd, Los Angeles",34.1023215453,-118.339399695
+51,2011-06-18 11:17:28,"The Last Bookstore, 453 S Spring St, Los Angeles",34.0475788945,-118.249798542
+52,2011-06-14 15:38:37,"Golden Gopher, 417 W 8th St, Los Angeles",34.0449266111,-118.256519592
+53,2011-06-14 15:35:03,"Friendship Garden, 1636 Vista Dr, Glendale",34.1825815039,-118.277771674
+54,2011-06-14 15:32:46,"Echoplex, 1822 W Sunset Blvd, Los Angeles",34.0775452205,-118.260269165
+55,2011-06-06 23:01:33,"Sabor y Cultura Caf, 5625 Hollywood Blvd, Los Angeles",34.101869,-118.312380383
+56,2011-06-06 23:01:17,"TreePeople Inc., 12601 Mulholland Dr, Beverly Hills",34.1294142786,-118.405992787
+57,2011-06-06 23:00:25,"Los Angeles River Center and Gardens, 570 W Avenue 26, Los Angeles",34.084827016,-118.22522478
+58,2011-06-06 22:59:48,"TreePeople Inc., 12601 Mulholland Dr, Beverly Hills",34.1294142786,-118.405992787
+59,2011-05-31 00:25:54,"Pickwick Gardens, 1001 W Riverside Dr, Burbank",34.1608502932,-118.312293522
+60,2011-05-31 00:21:39,"City Sip, 2150 W Sunset Blvd, Los Angeles",34.0773230582,-118.265504837
+61,2011-05-18 00:48:31,"1642 Beer And Wine, 1642 W Temple St, Los Angeles",34.0683971703,-118.262383878
+62,2011-01-19 13:55:46,"Dress For Success Worldwide West - LA, 2100 S. Hill St., Los Angeles",34.1015705,-118.326650767
+63,2010-12-23 13:22:29,"Tiki No, 4657 Lankershim Blvd, North Hollywood",34.1554082701,-118.369193673
+64,2010-12-11 14:21:18,"Tony's Darts Away, 1710 W Magnolia Blvd, Burbank",34.174484,-118.326917
+65,2010-11-15 03:59:02,"Rose Bowl Flea Market and Market Place, 1001 Rose Bowl Dr, Pasadena",34.1591029168,-118.167285809
+66,2010-11-08 02:22:19,"Studio City Farmers Market, 12052 Ventura Pl, Studio City",34.1444611831,-118.394542123
+67,2010-11-03 08:05:49,"Voting at OXNARD ST ELEMENTARY SCHOOL, 10912 Oxnard St, North Hollywood",34.178503,-118.368653
+68,2010-10-29 06:22:24,"iPic Theaters Pasadena, 42 Miller Aly, Pasadena",34.146504,-118.151608
+69,2010-10-27 02:32:03,"The Association, 110 E 6th St, Los Angeles",34.0450864768,-118.24976428
+70,2010-10-23 08:10:40,"Bacchus, 4159 W Pico Blvd, Los Angeles",34.0480866246,-118.326706472
+71,2010-10-19 02:04:24,"The Public School - Telic Arts Exchange, 972B Chung King Road, Los Angeles",34.06592659,-118.238422
+72,2010-08-14 03:14:24,"Good Stuff Restaurant, 1286 The Strand, Hermosa Beach",33.862578,-118.4019019
+73,2010-07-04 03:04:33,"Burbank Certified Farmers' Market, 252 East Orange Grove Ave., Burbank",34.1828738539,-118.30703035
+74,2010-05-30 03:16:11,"The Hollywood Bowl, 2301 N Highland Ave, Los Angeles",34.1120777052,-118.338675424
+75,2010-03-04 05:03:43,"Soy Tof, 4961 La Palma Ave, La Palma",33.8471021,-118.04661673
+76,2010-01-31 02:03:13,"Big Sugar Bakeshop, 12182 Ventura Blvd, Studio City",34.14325,-118.39794
+77,2009-12-17 04:22:59,"Nijiya Market, 2130 Sawtelle Blvd Ste 105, Los Angeles",34.0391262767,-118.441868738
+78,2009-11-28 15:15:35,"Manchego, 2518 Main St, Santa Monica",34.0028561798,-118.484625688
+79,2009-11-28 13:50:38,"Manchego, 2518 Main St, Santa Monica",34.0028561798,-118.484625688
+80,2009-11-17 06:47:32,"Gelato Bar & Espresso Caffe, 4342 Tujunga Ave, Studio City",34.1488775725,-118.378839692
+81,2009-11-15 13:10:52,"MorYork, 4959 York Blvd, Los Angeles",34.121696,-118.207052
+82,2009-11-01 03:50:32,"Trader Joe's, 10130 Riverside Dr, Toluca Lake",34.1519856151,-118.351863921

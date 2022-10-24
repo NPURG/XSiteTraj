@@ -1,0 +1,59 @@
+,time,poi,latitude,longitude
+0,2016-02-26 14:06:18,"Din Tai Fung Dumpling House #1, 1108 S Baldwin Ave, Arcadia",34.127183871,-118.054313064
+1,2016-02-26 14:05:37,"The Loose Teas - Cafe And Gifts, 666 W Huntington Dr, Monrovia",34.1395640373,-118.01327053
+2,2016-02-26 14:05:20,"Blend It Healthy, 411 E Huntington Dr, Arcadia",34.1408319194,-118.021785076
+3,2016-02-26 14:05:01,"Eggslut, 317 S Broadway, Los Angeles",34.0506191601,-118.248633609
+4,2016-02-26 14:04:29,"G&B @ Grand Central, 324 S Hill St #C19, Los Angeles",34.0510710799,-118.249581545
+5,2016-02-26 14:04:02,"Ross Cutlery, 324 S Broadway, Los Angeles",34.0502523681,-118.248547952
+6,2016-02-26 14:03:35,"Flour + Tea, 238 S Arroyo Pkwy Unit 110, Pasadena",34.142225612,-118.14728285
+7,2016-02-26 14:02:52,"SUGARFISH by sushi nozawa, 146 S Lake Ave, Pasadena",34.1430971771,-118.132201731
+8,2015-01-15 05:03:41,"The Little America Hotel - Flagstaff, 2515 E Butler Ave, Flagstaff",35.1903445689,-111.620206677
+9,2013-02-17 16:34:20,"Pig & Pickle, 2922 N Hayden Rd, Scottsdale",33.4806369361,-111.909989119
+10,2012-02-21 06:49:08,"Park Place Bar & Grill, 7373 E Scottsdale Mall, Scottsdale",33.4922872623,-111.923089027
+11,2011-10-11 14:19:23,"Tempe Town Lake, 80 W Rio Salado Pkwy, Tempe",33.4333036859,-111.936264038
+12,2011-10-11 14:18:06,"Saguaro Lake, E Forest 206A, Mesa",33.573881883,-111.537301834
+13,2011-10-11 14:17:42,"Mercado Y Carniceria Cuernavaca, 2931 N 68th St, Scottsdale",33.4812533855,-111.93459034
+14,2011-09-27 11:04:45,"Fiesta Burrito, 7402 E McDowell Rd, Scottsdale",33.4660792629,-111.921569408
+15,2011-09-27 11:03:53,"Huntington Beach Pier, 1 Main St, Huntington Beach",33.6566673093,-118.00296643
+16,2011-09-27 11:03:20,"Old Town Farmer's Market, 7250 E 1st St, Scottsdale",33.4919732689,-111.924812347
+17,2011-09-27 10:59:14,"Giant Coffee, 1437 N 1st St, Phoenix",33.465341407,-112.072353855
+18,2011-09-20 12:30:01,"Totties Asian Fusion, 6204 N Scottsdale Rd, Scottsdale",33.5291964515,-111.927552223
+19,2011-09-20 12:30:00,"Rancho Pinot, 6208 N Scottsdale Rd, Paradise Valley",33.5297,-111.927355
+20,2011-09-13 06:50:56,"House of Rice, 3221 N Hayden Rd, Scottsdale",33.4854400148,-111.90847536
+21,2011-09-07 03:04:20,"Benkyodo, 1747 Buchanan St, San Francisco",37.786380303,-122.430107743
+22,2011-09-07 03:04:09,"Blue Bottle Coffee, 66 Mint Plaza, San Francisco",37.7824639581,-122.407822609
+23,2011-09-07 03:03:47,"Eddie Rickenbacker's, 133 2nd St, San Francisco",37.7876471536,-122.399165137
+24,2011-09-07 03:03:25,"Kappou Gomi, 5524 Geary Blvd, San Francisco",37.7805343101,-122.47881952
+25,2011-09-07 03:01:58,"Cask, 17 3rd St, San Francisco",37.7870750326,-122.403114663
+26,2011-09-07 03:01:38,"Yank Sing, 101 Spear St, San Francisco",37.7925510428,-122.393096739
+27,2011-08-16 04:38:36,"El Sol Bakery, 760 N Arizona Ave, Chandler",33.3165178004,-111.841927385
+28,2011-08-09 07:51:29,"Portola Coffee Roasters, 3313 Hyland Ave #B2, Costa Mesa",33.69448033,-117.925728
+29,2011-08-09 07:50:40,"Newport Aquatic Center, 1 Whitecliffs Dr, Newport Beach",33.6250263457,-117.894006916
+30,2011-07-26 07:12:31,"Rocket Burger, 12038 N 35th Ave #2, Phoenix",33.5958542537,-112.134468555
+31,2011-07-26 07:11:59,"Pittsburgh Willy's Gourmet Hot Dogs, 1509 N Arizona Ave, Chandler",33.3311552535,-111.841001646
+32,2011-07-23 06:14:10,"Fujiya Japanese Market, 1335 W University Dr #5, Tempe",33.4212447068,-111.960127652
+33,2011-07-19 05:45:48,"Cartel Coffee Lab, 7124 E 5th Ave, Scottsdale",33.4984249757,-111.927552223
+34,2011-07-19 05:45:18,"Chicago's Taylor Street Deli, 914 N Scottsdale Rd, Tempe",33.4397499747,-111.926790476
+35,2011-07-12 11:49:23,"Fiesta Burrito, 7402 E McDowell Rd, Scottsdale",33.4660792629,-111.921569408
+36,2011-06-28 13:28:27,"Lux Central, 4402 N Central Ave, Phoenix",33.5004692924,-112.074053138
+37,2011-06-28 13:28:04,"Tempe Town Lake, 80 W Rio Salado Pkwy, Tempe",33.4333036859,-111.936264038
+38,2011-06-21 13:39:09,"Hana Japanese Eatery, 5524 N 7th Ave, Phoenix",33.51738362,-112.08284435
+39,2011-06-21 01:29:57,"Storybook Land Canal Boats, Fantasyland, Anaheim",33.8137068601,-117.918592565
+40,2011-06-21 01:29:08,"Jitlada Thai Restaurant, 5233 W Sunset Blvd, Los Angeles",34.0985090714,-118.304124689
+41,2011-06-21 01:21:23,"Bibi's Bakery And Cafe, 8928 W Pico Blvd, Los Angeles",34.0550873685,-118.386736738
+42,2011-06-21 01:20:39,"Brand X Custom T-Shirts, 414 S Mill Ave Ste 120, Tempe",33.4259336407,-111.940095458
+43,2011-06-14 15:25:43,"Andreoli, 8880 E Via Linda, Scottsdale",33.5692130744,-111.88945427
+44,2011-06-14 15:22:46,"Estiatorio Milos, The Cosmopolitan Of Las Vegas, Las Vegas",36.1093004128,-115.173413909
+45,2011-06-14 15:22:18,"Lotus of Siam, 953 E Sahara Ave Ste A5, Las Vegas",36.1435065236,-115.142899747
+46,2011-06-14 15:21:03,"Zankou Chicken, 2424 W Ball Rd, Anaheim",33.8170870022,-117.969344089
+47,2011-06-14 15:20:50,"Santouka Ramen, 665 Paularino Ave, Costa Mesa",33.681520857,-117.884290712
+48,2011-06-14 15:20:32,"Din Tai Fung Dumpling House #1, 1108 S Baldwin Ave, Arcadia",34.127183871,-118.054313064
+49,2011-06-14 15:20:15,"Sea Harbour Seafood Restaurant, 3939 Rosemead Blvd, Rosemead",34.0798258781,-118.073376
+50,2011-06-14 15:19:47,"Santa Monica Pier Carousel, 200 Santa Monica Pier # A, Santa Monica",34.0101766024,-118.496024538
+51,2011-06-14 15:19:26,"Hot Dog on a Stick, 1633 Ocean Front Walk, Santa Monica",34.0098109576,-118.495157819
+52,2011-06-14 15:18:53,"Intelligentsia Coffee & Tea, 1331 Abbot Kinney Blvd, Venice",33.9910867996,-118.466930017
+53,2011-06-14 15:18:02,"In-N-Out Burger, 6292 Westminster Blvd, Westminster",33.7587109828,-118.019509333
+54,2011-06-14 15:17:25,"Mo Ran Gak, 9651 Garden Grove Blvd, Garden Grove",33.7742653528,-117.964219258
+55,2011-06-14 15:16:32,"Kan Coffee, 2043 Westcliff Dr Ste 100, Newport Beach",33.6278182167,-117.90848
+56,2011-06-14 15:15:50,"Huntington Beach Pier, 1 Main St, Huntington Beach",33.6566673093,-118.00296643
+57,2011-06-07 15:25:33,"Rak, 5030 Spring Mountain Rd #2, Las Vegas",36.1269550735,-115.209940198

@@ -1,0 +1,63 @@
+,time,poi,latitude,longitude
+0,2015-10-04 01:15:24,"Toast Eatery, 160 West Portal Ave, San Francisco",37.7392697172,-122.467812896
+1,2014-04-11 15:31:43,"Momo's, 725 SW 10th Ave, Portland",45.51978285,-122.682574
+2,2013-04-13 06:56:34,"Los Gorditos, 922 NW Davis St, Portland",45.524339,-122.680762
+3,2013-03-11 15:47:09,"Ekohaus - Fremont, 1430 NW Pettygrove St, Portland",45.5326794074,-122.686375344
+4,2013-03-07 09:21:29,"Verde Cocina en la Perla, 524 NW 14th Ave, Portland",45.5269001424,-122.685163904
+5,2013-02-27 04:36:47,"Caf Yumm!, 1806 SW 6th Ave, Portland",45.5115145159,-122.682554312
+6,2013-02-22 04:35:50,"Engineering Building (PSU), 1930 SW 4th Ave, Portland",45.5094571568,-122.680994672
+7,2013-01-28 07:44:12,"Robo Taco, 607 SE Morrison St, Portland",45.5172188706,-122.659534449
+8,2012-11-01 12:27:48,"Los Gorditos, 922 NW Davis St, Portland",45.524339,-122.680762
+9,2012-10-19 14:18:46,"Revivals Cathedral City, 68401 E Palm Canyon Dr, Cathedral City",33.7803576755,-116.468743862
+10,2012-10-19 14:16:02,"Workshop Kitchen And Bar, 800 N Palm Canyon Dr, Palm Springs",33.8342476491,-116.546392728
+11,2012-10-19 14:08:08,"Guacamole's, 555 S Sunrise Way, Palm Springs",33.8149756908,-116.528685225
+12,2012-10-01 05:37:12,"Sisters Coffee Company, 1235 NW Marshall St, Portland",45.530891386,-122.684229612
+13,2012-09-23 09:20:12,"Sisters Coffee Company, 1235 NW Marshall St, Portland",45.530891386,-122.684229612
+14,2012-08-31 14:43:50,"La Bonita, 2839 NE Alberta St, Portland",45.5591306275,-122.63612236
+15,2011-12-09 11:26:00,"Gen Grill, 4143 Campus Dr, Irvine",33.650499,-117.839045
+16,2011-12-03 11:37:50,"Peet's Coffee & Tea, 4213 Campus Dr, Irvine",33.6503330601,-117.837939262
+17,2011-11-03 02:34:21,"Gen Grill, 4143 Campus Dr, Irvine",33.650499,-117.839045
+18,2011-10-30 03:31:28,"Bristol Farms Palm Desert, 73101 Country Club Dr, Palm Desert",33.75714834,-116.3892286
+19,2011-10-29 04:31:48,"Lamill Coffee Boutique, 1636 Silver Lake Blvd, Los Angeles",34.0888440051,-118.268687618
+20,2011-10-29 04:30:52,"Food + Lab, 7253 Santa Monica Blvd, West Hollywood",34.0908578334,-118.347949779
+21,2011-10-18 01:57:35,"Beach House Yogurt, 72363 California Hwy 111 Ste. A2A, Palm Desert",33.726824,-116.402469
+22,2011-10-18 01:55:16,"Boba Cafe, 1223 University Ave #110, Riverside",33.9762437953,-117.338283347
+23,2011-08-28 11:45:56,"Shanghai Inn, 40101 Monterey Ave, Rancho Mirage",33.7568188833,-116.39320803
+24,2011-08-02 01:39:26,"Butter, 354 11th St, San Francisco",37.7710982424,-122.413242251
+25,2011-08-02 01:38:28,"Piccino Cafe, 1001 Minnesota St, San Francisco",37.7577374502,-122.390109432
+26,2011-06-16 02:20:55,"The Counter, 1104 Irvine Ave, Newport Beach",33.6289364,-117.9062126
+27,2011-06-16 02:20:09,"Jiffy Lube Oil Change Center, 3080 Main St, Irvine",33.6774641417,-117.834316717
+28,2011-05-14 00:13:09,"Albatross Pub, 1822 San Pablo Ave, Berkeley",37.8707964896,-122.292876253
+29,2011-05-14 00:10:26,"San Kai Japanese Restaurant, 3940 S Bristol St #112, Santa Ana",33.6947394088,-117.886196227
+30,2011-05-14 00:09:09,"Hen House Grill, 18040 Culver Dr, Irvine",33.6646946468,-117.825404431
+31,2011-05-02 08:59:38,"San Marco Park, 1 San Carlo, Irvine",33.680582568,-117.830264171
+32,2011-04-29 00:10:54,"H Mart, 2600 Alton Pkwy, Irvine",33.6894588299,-117.834213687
+33,2011-04-22 05:08:52,"Taco Asylum, 2937 Bristol St Ste B102, Costa Mesa",33.6784692663,-117.886774173
+34,2011-04-02 02:57:58,"Jensen's Minute Shoppe, 42150 Cook St, Palm Desert",33.74308989,-116.35595865
+35,2011-03-05 05:47:10,"TOGO'S Sandwiches, 17585 Harvard Ave Ste D, Irvine",33.67758558,-117.8321
+36,2011-01-04 07:38:03,"Fort Baker, Golden Gate National Recreation Area, Sausalito",37.8338199541,-122.477563619
+37,2011-01-04 07:35:08,"John Wayne Airport (SNA), 18601 Airport Way, Santa Ana",33.6779066082,-117.86235581
+38,2010-12-15 03:24:11,"Joshua Tree National Park, 2000 Park Blvd, Joshua Tree",34.0945333795,-116.269999957
+39,2010-12-04 08:33:44,"America's Tire Store, 2705 S Grand Ave, Santa Ana",33.7109273151,-117.850289311
+40,2010-12-04 08:28:10,"The Flame Broiler, 17595 Harvard Ave Ste A, Irvine",33.6777023942,-117.833132744
+41,2010-10-08 06:02:38,"Native Foods, 2937 Bristol Street, Costa Mesa",33.67823004,-117.8865529
+42,2010-08-16 14:11:44,"Rose Caf-Restaurant, 220 Rose Ave, Venice",33.9963053238,-118.477121064
+43,2010-08-16 14:06:38,"Taste of India, 8890 Warner Ave, Fountain Valley",33.715068,-117.973851
+44,2010-08-16 14:04:44,"The Mad Greek Cafe, 72112 Baker Blvd., Baker",35.2658088088,-116.074746251
+45,2010-08-16 13:59:10,"Longstreet Inn & Casino, Amargosa Valley, NV 89020, Amargosa Valley",36.4125841562,-116.42342618
+46,2010-08-16 13:56:49,"Cafe Stella, 3932 W Sunset Blvd, Los Angeles",34.0921308304,-118.280415153
+47,2010-05-12 00:29:21,"Morongo Valley Cactus Mart, 49889 29 Palms Hwy, Morongo Valley",34.0501393398,-116.576827551
+48,2010-05-01 04:36:52,"Eat Chow, 1802 Newport Blvd, Costa Mesa",33.64034625,-117.918829322
+49,2010-04-29 13:35:16,"SUBWAY, 18086 Culver Dr, Irvine",33.6639116599,-117.826083899
+50,2010-04-06 12:53:14,"Old Mill Park, 17 cascade way, Mill Valley",37.9051584661,-122.553086343
+51,2010-04-03 05:44:08,"American Apparel, 2927 Bristol St Unit 101, Costa Mesa",33.677456975,-117.887276133
+52,2010-03-23 04:49:48,"Chevron, 31900 Las Vegas Blvd S, Primm",35.6117262554,-115.387408733
+53,2010-03-23 04:42:59,"Thai Bamboo Bistro, 6715 Quail Hill Pkwy, Irvine",33.6551601607,-117.777959704
+54,2010-03-17 07:37:48,"Cheeky19s, 622 N Palm Canyon Dr, Palm Springs",33.8322720165,-116.546617375
+55,2010-03-17 07:36:54,"Pho Tasia, 5329 University Dr, Irvine",33.6593613322,-117.803073156
+56,2010-03-14 13:13:41,"Din Tai Fung Dumpling House #1, 1108 S Baldwin Ave, Arcadia",34.127183871,-118.054313064
+57,2010-03-13 05:24:42,"Empire Polo Club, 81800 Avenue 51, Indio",33.6792469616,-116.237325668
+58,2010-03-13 05:10:07,"Anthill Pub & Grille, C Uci, Irvine",33.6489342221,-117.842308581
+59,2010-02-03 05:15:17,"Cheeky19s, 622 N Palm Canyon Dr, Palm Springs",33.8322720165,-116.546617375
+60,2010-01-12 15:13:52,"Anteater Recreation Center, 680 California Ave, Irvine",33.6434022815,-117.82800436
+61,2009-08-28 08:02:20,"Koffi, 1700 S Camino Real, Palm Springs",33.8010928088,-116.538875558

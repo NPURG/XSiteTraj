@@ -1,0 +1,147 @@
+,time,poi,latitude,longitude
+0,2016-11-13 22:52:01,"Eastwood, 221 E Broadway, New York",40.7141347343,-73.9872121811
+1,2016-11-08 05:06:51,"Bedouin Tent, 405 Atlantic Ave, Brooklyn",40.6870700209,-73.9844463243
+2,2016-11-08 05:01:29,"MIMI, 185 Sullivan Street, New York",40.7284767013,-74.0005438325
+3,2016-11-08 04:58:22,"Vekslers, 521 Hicks St, Brooklyn",40.6853361697,-74.0005897414
+4,2016-11-08 04:56:56,"Rajbhog Sweets, 72-27 37th Ave, Jackson Heights",40.7489206488,-73.8928457463
+5,2016-11-08 04:53:36,"The Cloisters, 99 Margaret Corbin Dr, New York",40.8648886225,-73.9318728447
+6,2016-11-08 04:44:00,"The Cobra Club, 6 Wyckoff Ave, Brooklyn",40.706759587,-73.9232175936
+7,2016-11-08 04:24:56,"La Colombe Torrefaction, 319 Church St, New York",40.7200740452,-74.0039525431
+8,2016-11-02 09:44:12,"Chavela's, 736 Franklin Ave, Brooklyn",40.6733504244,-73.9570803359
+9,2016-11-02 09:40:37,"Bluestone Lane, 2 E 90th St, New York",40.7838310214,-73.9588195234
+10,2016-11-02 09:36:59,"Colonia Verde, 219 Dekalb Ave, Brooklyn",40.6897344649,-73.9707925138
+11,2016-11-02 09:33:15,"Bunna Cafe, 1084 Flushing Ave, Brooklyn",40.7050263202,-73.9280513899
+12,2016-11-02 09:30:33,"Los Mariscos, 409 West 15th St, New York",40.742104,-74.00579
+13,2016-10-23 02:20:13,"Russ & Daughters, 1109 5th Ave, New York",40.7854490581,-73.9575108293
+14,2016-10-19 09:38:31,"Artemisia, Tonala 23, Ciudad de Mxico",19.4207279916,-99.1633861526
+15,2016-10-19 09:35:10,"Brunette, 33 Broadway, Kingston",41.9190532299,-73.9835223265
+16,2016-10-19 09:32:52,"Mimi Cheng's, 380 Broome St, New York",40.720298636,-73.9963746071
+17,2016-10-18 07:09:19,"Sabbia at Birreria, 200 5th Ave, New York",40.7420151825,-73.9900074344
+18,2016-10-18 07:08:50,"Dimes Market, 143 Division St, New York",40.714356,-73.989838
+19,2016-10-09 08:41:57,"Restaurante Nicos, Av. Cuitlhuac 3102, Azcapotzalco",19.4649190228,-99.1776057035
+20,2016-10-09 08:26:15,"Marietta, 285 Grand Ave, Brooklyn",40.6880768618,-73.9626824151
+21,2016-10-09 08:25:03,"Amy's Bread, 75 9th Ave, New York",40.74229,-74.004428
+22,2016-10-09 08:22:35,"El Parnita, Yucatn 84 Loc. E2, Cuauhtemoc",19.414054643,-99.162742818
+23,2016-10-09 08:18:23,"El Turix, Emilio Castelar 212, Miguel Hidalgo",19.4314103136,-99.2011681203
+24,2016-10-09 08:15:45,"Pramo, Yucatn 84, Ciudad de Mxico",19.4141894417,-99.1625427907
+25,2016-10-09 08:14:23,"Flix, lvaro Obregn 64, Cuauhtemoc",19.4186438876,-99.1578071543
+26,2016-10-09 08:11:55,"Panadera Rosetta, Havre 73, Ciudad de Mxico",19.4254152062,-99.1605966049
+27,2016-10-09 08:06:14,"Casa Estudio Luis Barragn, General Francisco Ramirez 12, Daniel Garza, Miguel Hidalgo, Ciudad de Mxico",19.4111337596,-99.1923036879
+28,2016-10-09 08:01:03,"Dulcera de Celaya, Av. Cinco de Mayo 39, Ciudad de Mxico",19.4342994732,-99.1368083044
+29,2016-10-09 07:54:03,"Contramar, 200 Durango Col Roma, Ciudad de Mxico",19.4196367227,-99.167176187
+30,2016-10-09 07:35:37,"Bsforo Mezcalera, Luis Moya 31, Cuauhtemoc",19.4332834216,-99.1450962424
+31,2016-10-09 07:34:01,"El Vilsito, Petn 248, Ciudad de Mxico",19.3893215227,-99.1528612375
+32,2016-10-09 07:29:02,"Museo de Arte Popular, Revillagigedo 11, Cuauhtemoc",19.4337681595,-99.1463098044
+33,2016-10-09 01:04:23,"Quesadillas Lucha, Mercado de Coyoacn Loc. 323, Ciudad de Mxico",19.3530362448,-99.1616129405
+34,2016-10-09 01:02:08,"Universidad Nacional Autonoma de Mexico, Av. Universidad 3000, Coyoacn",19.3333027354,-99.1834834931
+35,2016-10-09 00:57:23,"Churrera El Moro, Ro Lerma 167, Ciudad de Mxico",19.4281718003,-99.1693872526
+36,2016-10-08 12:35:56,"Lalo!, Zacatecas 173, Ciudad de Mxico",19.4152901416,-99.1622076109
+37,2016-10-02 01:11:39,"Buvette, 42 Grove St, New York",40.7327222859,-74.0041851997
+38,2016-09-30 09:58:56,"Five Leaves, 18 Bedford Ave, Brooklyn",40.7237462687,-73.9516568184
+39,2016-09-30 09:50:49,"Phdf Bb1ng, 157 Mott St, New York",40.7194895185,-73.996383287
+40,2016-09-30 09:48:59,"Charlie Bird, 5 King St, New York",40.7278116439,-74.0030264854
+41,2016-09-30 09:21:44,"Mah-Ze-Dahr Bakery, 28 Greenwich Ave, New York",40.7347673617,-73.9987189422
+42,2016-09-27 12:02:30,"Sao Mai, 203 1st Ave, New York",40.7303049211,-73.9832812829
+43,2016-09-27 08:16:08,"Katz's Delicatessen, 205 E Houston St, New York",40.7223070664,-73.987351656
+44,2016-09-26 02:23:39,"Wildair, 142 Orchard St, New York",40.7200521509,-73.9893646724
+45,2016-09-26 02:08:49,"Pratt Sculpture Garden, 200 Willoughby Ave, Brooklyn",40.6905915631,-73.9646224414
+46,2016-09-22 08:22:36,"Veselka, 144 2nd Ave, New York",40.7291362344,-73.9869715129
+47,2016-09-12 10:54:30,"Kung Fu Xiao Long Bao, 59-16 Main St, Flushing",40.74336,-73.825856
+48,2016-09-12 09:38:47,"Hope & Anchor Diner, 347 Van Brunt St, Brooklyn",40.6772941618,-74.0128872085
+49,2016-09-12 09:30:36,"Selamat Pagi, 152 Driggs Ave, Brooklyn",40.7231120478,-73.9447045326
+50,2016-09-06 20:34:08,"Sunrise Mart, 494 Broome St, New York",40.72317,-74.002764
+51,2016-09-06 20:32:40,"Daly Pie, 665 Vanderbilt Ave, Brooklyn",40.6770268791,-73.9690821321
+52,2016-09-06 20:30:59,"The Black Swan, 1048 Bedford Ave, Brooklyn",40.6891547817,-73.9551861535
+53,2016-09-06 20:26:20,"Mr. Donahue19s, 203 Mott St, New York",40.721394893,-73.9956028159
+54,2016-09-06 20:22:24,"Rucola, 190 Dean St, Brooklyn",40.6855846894,-73.9858818054
+55,2016-09-06 20:21:10,"Little Zelda, 728 Franklin Ave, Brooklyn",40.6738036534,-73.9568335193
+56,2016-09-06 20:19:55,"Caf Select, 212 Lafayette St, New York",40.7216829958,-73.9977988601
+57,2016-09-06 20:19:03,"Saraghina, 435 Halsey St, Brooklyn",40.683735,-73.935409
+58,2016-09-06 02:43:13,"Glasserie, 95 Commercial St., Greenpoint",40.7375948755,-73.9559954883
+59,2016-09-03 23:09:53,"Usagi NY, 163 Plymouth St, New York",40.7038874081,-73.9870297909
+60,2016-08-27 22:17:06,"The Happiest Hour, 121 W 10th St, New York",40.7348116379,-73.999684453
+61,2016-08-27 22:14:28,"AMC Loews Village 7, 66 3rd Ave, New York",40.7313564483,-73.9886713028
+62,2016-08-27 22:13:16,"La Colombe Torrefaction, 154 Prince St, New York",40.7258839176,-74.0010660463
+63,2016-08-27 22:11:32,"Ray's Candy Store, 113 Avenue A, New York",40.72617225,-73.983359
+64,2016-08-27 22:10:14,"Superfine, 126 Front St, Brooklyn",40.702369471,-73.9875124791
+65,2016-08-27 22:03:51,"Dotory, 353 Broadway, Brooklyn",40.707768,-73.955777
+66,2016-08-27 22:02:25,"Colina Cuervo, 759 Nostrand Ave, Brooklyn",40.671377875,-73.9504506163
+67,2016-08-27 21:58:41,"RT Building Supplies and Hardware, 646 Franklin Ave, Brooklyn",40.676161,-73.955937
+68,2016-08-27 21:57:52,"Hibino, 333 Henry St, Brooklyn",40.6901466041,-73.9963585138
+69,2016-08-27 21:54:43,"Taste Good Malaysian Cuisine 7d73, 82-18 45th Ave, Elmhurst",40.7416870391,-73.8821541907
+70,2016-08-27 21:51:30,"Titan Foods, 25-56 31st St, Astoria",40.7691306453,-73.9193252094
+71,2016-08-27 21:45:44,"Foursquare HQ, 568 Broadway Fl 10, New York",40.7241284245,-73.9972651005
+72,2016-08-27 21:42:55,"Momofuku Nishi, 232 8th Ave, New York",40.7445014451,-73.9991149105
+73,2016-08-26 11:18:22,"Dear Irving, 55 Irving Pl, New York",40.7361144322,-73.9874421126
+74,2016-08-14 06:17:05,"Super Power, 722 Nostrand Ave, New York",40.6738996844,-73.9501578702
+75,2016-08-14 06:08:56,"Cocoron, 37 Kenmare St, New York",40.7207529052,-73.9952642283
+76,2016-08-14 06:04:38,"John's Drive-In, 695 Montauk Hwy, Montauk",41.033068,-71.947182
+77,2016-08-07 08:30:37,"The Clam Bar, 2025 Montauk Hwy, Amagansett",40.998411212,-72.0437049866
+78,2016-08-06 23:51:30,"Jack's Coffee, 146 Montauk Hwy, Amagansett",40.9744467972,-72.1420454979
+79,2016-08-06 23:49:25,"Mary's Marvelous, 207 Main St, Amagansett",40.97533665,-72.1413025438
+80,2016-08-04 08:10:51,"Alice's Arbor, 549 Classon Ave, Brooklyn",40.6819398145,-73.9585018158
+81,2016-08-03 06:33:20,"Bar Corvo, 791 Washington Ave, Brooklyn",40.672896868,-73.9626020585
+82,2016-08-02 23:10:00,"Lilia, 567 Union Ave, Brooklyn",40.7174590447,-73.9523161448
+83,2016-08-01 00:59:37,"Tom's Restaurant, 782 Washington Ave, Brooklyn",40.6745586001,-73.9632391702
+84,2016-07-29 10:29:11,"Doris, 1088 Fulton St, Brooklyn",40.6813377401,-73.9573591948
+85,2016-07-29 10:24:23,"The Library at 11 Howard, 11 Howard Street, New York",40.7190913433,-74.000056049
+86,2016-07-29 10:20:15,"The Leadbelly, 14 Orchard St, New York",40.7151741447,-73.9917692798
+87,2016-07-29 10:11:20,"Tacombi Caf El Presidente, 30 W 24th St, New York",40.7430453842,-73.991172435
+88,2016-07-13 10:28:41,"Ice & Vice, 221 E Broadway, New York",40.7142079238,-73.9869681001
+89,2016-07-12 08:53:36,"Soup Kiosk, 94 Prince St, New York",40.724538,-73.998558
+90,2016-07-12 08:50:20,"The Food Sermon, 355 Rogers Ave, Brooklyn",40.664569,-73.953741
+91,2016-07-12 06:18:37,"Hanco's, 147 Montague St, Brooklyn",40.69464485,-73.993444775
+92,2016-07-12 05:25:17,"Patsy's Pizza - East Harlem, 2287 1st Ave, New York",40.7970877431,-73.9345096591
+93,2016-07-12 05:19:16,"The Farm on Adderley, 1108 Cortelyou Rd, Brooklyn",40.6397627938,-73.9675554028
+94,2016-07-12 05:14:20,"Van Leeuwen Artisan Ice Cream, 48 1/2 E 7th St, New York",40.7279050546,-73.9877634971
+95,2016-06-29 09:27:08,"Los Tacos No.1, 75 9th Ave, New York",40.742229527,-74.0058535337
+96,2016-06-27 11:56:53,"Hotel Delmano, 128 N 9th St., Brooklyn",40.71975505,-73.957924
+97,2016-06-27 11:53:23,"Van Leeuwen Artisan Ice Cream, 204 Wythe Ave, Brooklyn",40.7183270908,-73.9616377774
+98,2016-06-27 11:51:07,"Saltie, 378 Metropolitan Ave, Brooklyn",40.714119,-73.95558
+99,2016-06-26 08:53:05,"Nh Minh, 485 Morgan Ave, Brooklyn",40.7210020924,-73.9382869293
+100,2016-06-25 23:54:35,"Pig and Khao, 68 Clinton St, New York",40.7192553401,-73.9849054519
+101,2016-06-25 23:47:46,"Cha Cha Matcha, 373 Broome St, New York",40.720304945,-73.996199647
+102,2016-06-21 09:47:46,"Minca, 536 E 5th St, New York",40.7242938195,-73.982925456
+103,2016-06-19 23:48:26,"Mikey Likes It Ice Cream, 199 Avenue A, New York",40.7292787381,-73.9810889198
+104,2016-06-19 23:46:14,"Yun Nan Flavour Garden, 5121 8th Ave, Brooklyn",40.6401492793,-74.0047616726
+105,2016-06-19 23:43:08,"L'Albero Dei Gelati, 341 5th Ave, Brooklyn",40.6719682735,-73.9837628603
+106,2016-06-19 23:39:39,"Frankel's Delicatessen, 631 Manhattan Ave, Brooklyn",40.7240715455,-73.9510418473
+107,2016-06-19 23:37:56,"The Crown Inn, 724 Franklin Ave, Brooklyn",40.6739610363,-73.9569826228
+108,2016-06-13 09:17:36,"Kramarczuk's East European Deli, 215 E Hennepin Ave, Minneapolis",44.9877488007,-93.2576608658
+109,2016-06-12 23:01:37,"Patisserie 46, 4552 Grand Ave S, Minneapolis",44.9197107553,-93.284658
+110,2016-06-12 22:59:23,"Walker Art Center, 1750 Hennepin Ave, Minneapolis",44.9687755248,-93.2889032364
+111,2016-06-12 22:55:50,"Loring Park, 1382 Willow St, Minneapolis",44.9695953001,-93.284611702
+112,2016-06-12 22:52:55,"The Foundry Home Goods, 125 N 1st St, Minneapolis",44.9853448845,-93.2691629792
+113,2016-06-12 22:31:04,"Spoon and Stable, 211 N 1st St, Minneapolis",44.9854745862,-93.2695832715
+114,2016-06-12 22:28:14,"Al's Breakfast, 413 14th Ave SE, Minneapolis",44.9810273193,-93.2355453442
+115,2016-06-12 22:25:41,"Mill City Farmers Market, 704 S 2nd St, Minneapolis",44.9783084834,-93.2561588287
+116,2016-06-12 22:23:59,"Stone Arch Bridge, 1 Portland Ave, Minneapolis",44.9806838864,-93.2540237904
+117,2016-06-12 22:22:44,"Manny's Tortas, 920 E Lake St, Minneapolis",44.948786,-93.26065
+118,2016-06-12 22:21:10,"Surdyk's Liquor Store and Gourmet Cheese Shop, 303 E Hennepin Ave, Minneapolis",44.988295138,-93.2563304901
+119,2016-06-12 22:16:25,"Hotel Ivy, Minneapolis, 201 S 11th St, Minneapolis",44.9715258415,-93.2725706223
+120,2016-06-12 22:13:43,"Marvel Bar, 50 2nd Ave N, Minneapolis",44.9856526502,-93.2688625308
+121,2016-06-12 22:11:19,"The Bachelor Farmer, 50 2nd Ave N, Minneapolis",44.9856317223,-93.2688656437
+122,2016-06-11 21:18:21,"Pizzeria Lola, 5557 Xerxes Ave S, Minneapolis",44.901807337,-93.3186609669
+123,2016-06-11 21:09:57,"Frankies Spuntino 457, 457 Court St, Brooklyn",40.6773854748,-73.9981046319
+124,2016-06-06 06:21:33,"NOHOHON, 9 Saint Marks Pl, New York",40.7293179861,-73.989290066
+125,2016-06-06 06:18:37,"Aita, 132 Greene Ave, Brooklyn",40.6865361435,-73.9665681879
+126,2016-06-06 06:17:17,"White Bear 7d8a, 135-02 Roosevelt Ave, Flushing",40.7588060265,-73.8317728043
+127,2016-06-06 06:14:27,"New World Mall Food Court, 136-20 Roosevelt Ave, Flushing",40.7594344894,-73.829051256
+128,2016-06-02 12:15:34,"Suzume, 545 Lorimer St, Brooklyn",40.713378632,-73.9492681489
+129,2016-05-28 05:41:22,"Seamore's, 390 Broome St, New York",40.7206103949,-73.9969112508
+130,2016-05-24 06:55:29,"Tam Falafel and Smoothie Bar, 45 Spring St, New York",40.7220468683,-73.9961278439
+131,2016-05-15 07:06:44,"Curry-Ya, 214 E 10th St, New York",40.729463,-73.985979
+132,2016-05-15 07:06:10,"Snowdays Shavery, 241 E 10th St, New York",40.7289111738,-73.9848882347
+133,2016-05-15 07:05:17,"Pasquale Jones, 86 Kenmare St, New York",40.7211388195,-73.9964521519
+134,2016-05-15 07:02:22,"El Atoradero Brooklyn, 708 Washington Ave, Brooklyn",40.6767557726,-73.9636811293
+135,2016-05-15 06:30:54,"t, 163 W 10th St, New York",40.7345372618,-74.001827538
+136,2016-05-10 21:42:06,"Ground Support, 399 W Broadway, New York",40.7242849452,-74.0019643307
+137,2016-05-09 07:19:47,"Nom Wah Tea Parlor, 13 Doyers St, New York",40.7144898191,-73.9980073451
+138,2016-05-09 07:16:33,"The Immigrant, 341 E 9th St, New York",40.7284825326,-73.9854104911
+139,2016-05-09 07:14:04,"Ganesh Temple Canteen, 45-57 Bowne St, Flushing",40.7525229253,-73.8164991902
+140,2016-05-09 07:09:11,"Union Market, 240 E Houston St, New York",40.7222500907,-73.9859843977
+141,2016-05-09 07:05:19,"Schiller's Liquor Bar, 131 Rivington St, New York",40.7195755678,-73.9867821249
+142,2016-05-09 07:02:36,"Tygershark, 581 Vanderbilt Ave, Brooklyn",40.6803252739,-73.9678940393
+143,2016-05-02 02:12:09,"Emmy Squared, 364 Grand St, Brooklyn",40.7122658042,-73.955645351
+144,2016-04-30 06:45:09,"Bar Goto, 245 Eldridge St, New York",40.7227523487,-73.989416323
+145,2016-04-25 09:03:35,"Coppelia, 207 W 14th St, New York",40.7387216785,-74.0000044013

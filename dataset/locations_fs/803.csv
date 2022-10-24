@@ -1,0 +1,50 @@
+,time,poi,latitude,longitude
+0,2016-03-24 03:59:40,"Axel Guldsmeden Hotel, Helgolandsgade 11, Kbenhavn V",55.6721654,12.5613185
+1,2016-03-24 03:56:32,"Granola, Vrnedamsvej 5, Frederiksberg",55.673391,12.54997
+2,2016-03-24 03:55:14,"Nrrebro Bryghus, Ryesgade 3, Kbenhavn N",55.6901032,12.5639191
+3,2016-03-24 03:54:20,"Aamanns, Refshalevej 163a, Kbenhavn K",55.6918535924,12.6121209356
+4,2016-03-24 03:54:06,"The Coffee Collective, Linnesgade 17, Stade C1 og D1, Kbenhavn",55.6836707492,12.5697027226
+5,2016-03-24 03:53:27,"Kiin Kiin, Guldbergsgade 21, Kbenhavn N",55.69179334,12.557445
+6,2016-03-24 03:52:52,"Vaffelbageren, Nyhavn, Kbenhavn K",55.6797,12.591523
+7,2016-03-24 03:52:12,"Nyhavn, Nyhavn, Kbenhavn",55.6802465346,12.5893984595
+8,2016-03-21 06:32:54,"Kdbyens Fiskebar, Flsketorvet 100, Kbenhavn V",55.6680152163,12.5589388329
+9,2016-02-05 07:49:44,"Brinkley's Broome Street, 406 Broome St, New York",40.7209971973,-73.9976917165
+10,2016-01-23 00:44:36,"Dominique Ansel Bakery, 189 Spring St, New York",40.7250960008,-74.0030747652
+11,2016-01-22 06:46:33,"Peck's Market, Main Street, Livingston Manor",41.9013603833,-74.8259424233
+12,2015-12-20 00:22:37,"Main Street Farm, Market Cafe, 36 Main Street, Livingston Manor",41.9013607675,-74.8270471221
+13,2015-10-17 09:07:30,"Dos Caminos, 675 Hudson St, New York",40.740566936,-74.0054273368
+14,2015-10-17 09:06:10,"Dunkin Donuts, 926 State Rt 17, Ramsey",41.0649590258,-74.1291429699
+15,2015-10-17 09:04:58,"Starbucks, 625 8th Ave, New York",40.7567390007,-73.9913618186
+16,2015-10-17 09:03:08,"Yorganic, 275 Greenwich St, New York",40.7149261386,-74.0114182106
+17,2015-10-16 09:39:09,"Ibby's Falafel, 303 Grove St, Jersey City",40.7187763242,-74.0433893106
+18,2015-10-10 23:37:40,"Light Horse Tavern, 199 Washington St, Jersey City",40.7140189598,-74.0379961417
+19,2015-10-04 00:19:35,"Fairway Market, 30 E Ridgewood Ave, Paramus",40.966553982,-74.0749075944
+20,2015-09-21 08:51:35,"Liberty Diner, 30 Sullivan Ave, Liberty",41.78552387,-74.7291464333
+21,2015-07-17 08:29:47,"Ground Support, 399 W Broadway, New York",40.7242849452,-74.0019643307
+22,2015-07-17 08:29:28,"Razza Pizza Artiginale, 275 Grove St, Jersey City",40.717783,-74.044146
+23,2015-07-17 08:25:54,"Olive's, 120 Prince St, New York",40.725237,-73.99975
+24,2015-07-16 08:02:54,"Beechwood Cafe, 290 Grove St, Jersey City",40.7182683165,-74.0436933889
+25,2015-06-27 21:44:16,"E2, 5904 Bryant St, Pittsburgh",40.475624,-79.9197177
+26,2015-06-10 03:47:26,"Tatte Bakery & Cafe, 318 Third Street, Cambridge",42.3651009574,-71.0827949461
+27,2015-06-10 03:45:08,"sweetgreen, 100 Kenmare St, New York",40.7210262952,-73.9972568956
+28,2015-05-13 06:25:01,"Cherry-Pick, 305A Grove St, Jersey City",40.7190381231,-74.0432803012
+29,2015-05-13 06:24:27,"sweetgreen, 413 Greenwich St, New York",40.7213353345,-74.0097010834
+30,2015-03-01 02:15:33,"Floyd & Bobo's Bakery & Snack Palace, 98 N Main St, Liberty",41.801017,-74.746701
+31,2015-03-01 02:11:12,"Brandenburg Bakery, 66 Main St, Livingston Manor",41.9001647241,-74.829126278
+32,2015-02-23 00:08:31,"Dunkin Donuts, 448 Hartford Tpke, Vernon Rockville",41.8291569216,-72.4806844926
+33,2015-02-22 00:32:20,"Brew'd Awakening Coffeehaus, 67 Market St, Lowell",42.6444093943,-71.309701274
+34,2015-02-15 01:42:11,"Ellary's Greens, 33 Carmine St, New York",40.7301091532,-74.003258181
+35,2015-02-15 01:41:06,"Wolford, Greene and prince, New York",40.725002,-73.999435
+36,2015-02-15 01:40:42,"Vin, 220 Varick St, New York",40.7289783607,-74.0051186085
+37,2015-01-29 02:28:41,"Bread To Go, 450 Hudson St, New York",40.7312456045,-74.0066725817
+38,2015-01-23 08:19:54,"Alexandra, 455 Hudson St, New York",40.7313630675,-74.006597982
+39,2014-12-31 01:27:32,"Beechwood Cafe, 290 Grove St, Jersey City",40.7182683165,-74.0436933889
+40,2014-12-30 02:08:55,"New Baltimore Travel Plaza, NYS Thruway I-87 (MM 127), Hannacroix",42.4281482345,-73.8056081827
+41,2014-12-30 02:05:18,"Do Hwa, 55 Carmine St, New York",40.7299174935,-74.0041763452
+42,2014-12-30 02:04:32,"Bodacious Bagels, 3630 Main St, Stone Ridge",41.85054,-74.14183
+43,2014-12-30 02:00:07,"Smoke Signals, 2489 Main St, Lake Placid",44.2876088545,-73.985388279
+44,2014-12-18 07:28:43,"Restoration Hardware, 935 Broadway, New York",40.7408894375,-73.9896171863
+45,2014-11-23 09:58:39,"Freehold, 45 S 3rd St, Brooklyn",40.7137037278,-73.9660656452
+46,2014-08-02 05:45:57,"Birdbath Neighborhood Green Bakery, 200 Church St, New York",40.7165439658,-74.0066094589
+47,2014-01-13 19:12:56,"The Gallery Inn, Norzagaray, San Juan",18.4677227422,-66.1162064625
+48,2014-01-13 12:10:18,"Marmalade Restaurant And Wine Bar, 317 Fortaleza St., San Juan",18.465580049,-66.113330939

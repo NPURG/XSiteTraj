@@ -1,0 +1,85 @@
+,time,poi,latitude,longitude
+0,2016-01-05 13:07:06,"Maria Marie, The royal, Playa del Carmen",20.6294424969,-87.067877592
+1,2016-01-05 13:06:19,"Chantal Guillon Macarons & Tea, 437 Hayes St, San Francisco",37.7767316238,-122.423628867
+2,2016-01-05 13:05:42,"Kanpai Sushi, 330 Lytton Ave, Palo Alto",37.447109,-122.162342
+3,2015-12-01 05:45:03,"La Panotiq, 331 Castro St, Mountain View",37.3920277682,-122.079963457
+4,2015-11-23 06:01:31,"Mademoiselle Colette, 816 Santa Cruz Ave, Menlo Park",37.4508926161,-122.185222744
+5,2015-09-11 07:27:40,"Center Of Balance, 1110 LA Avenida St, Mountain View",37.416384418,-122.073566184
+6,2015-05-16 09:19:31,"Scribe Winery, 2300 Napa Rd, Sonoma",38.2748749649,-122.413292029
+7,2015-05-12 04:41:40,"Clos Du Val Winery, 5330 Silverado Trl, Napa",38.386779654,-122.312636375
+8,2015-05-12 04:39:13,"Rutherford Hill Winery, 200 Rutherford Hill Rd, Rutherford",38.49368955,-122.404463
+9,2015-05-12 04:27:05,"Dry Creek Vineyard, 3770 Lambert Bridge Rd, Healdsburg",38.6531716807,-122.92473495
+10,2015-05-07 07:36:48,"One Fifty One, 151 Rivington St, New York",40.7203760877,-73.985645793
+11,2015-05-07 07:21:32,"The Raines Law Room, 48 W 17th St, New York",40.7389844334,-73.9945468795
+12,2015-05-07 07:20:35,"The Summit Bar, 133 Avenue C, New York",40.7249874622,-73.9783971682
+13,2015-05-07 07:16:41,"Bar Sardine, 183 W 10th St, New York",40.7341894088,-74.0026498948
+14,2015-05-07 07:14:24,"Estela, 47 E Houston St, New York",40.7247057196,-73.994808197
+15,2015-05-07 07:13:28,"Cookshop, 156 10th Ave, New York",40.7456589565,-74.0056511372
+16,2013-08-05 03:36:30,"Crow's Nest Restaurant, 2218 E Cliff Dr, Santa Cruz",36.963375317,-122.001350215
+17,2013-07-11 16:42:10,"Oionos, 9ac5b4b1b8b7bdb1afc9bd 31, 91b8aebdb1",37.97202,23.731391
+18,2013-05-26 09:16:05,"Fuku Sushi, 1581 Webster St, San Francisco",37.784898,-122.431782
+19,2013-05-13 11:22:36,"Beachside Bar Cafe, 5905 Sandspit Rd, Goleta",34.41708858,-119.82916832
+20,2013-04-19 04:19:11,"Japengo, 200 Nohea Kai Dr, Lahaina",20.9128397125,-156.692692931
+21,2013-04-19 04:16:47,"Hali'imaile General Store, 900 Haliimaile Rd, Makawao",20.8682812047,-156.34000633
+22,2013-01-27 10:18:27,"The French Press, 1101 State St, Santa Barbara",34.422452,-119.703294
+23,2013-01-23 14:05:13,"Tuba - Authentic Turkish Restaurant, 1007 Guerrero St, San Francisco",37.7548673004,-122.423095778
+24,2012-10-18 12:09:07,"Marlowe, 500 Brannan St, San Francisco",37.7783233214,-122.396792031
+25,2012-09-09 13:32:00,"Sushi Paradise, 1215 S Kihei Rd, K2bhei",20.7512871266,-156.455076907
+26,2012-09-07 13:58:20,"Sansei Seafood Restaurant & Sushi Bar, 1881 S Kihei Rd # Kt-116, K2bhei",20.7335557805,-156.45249021
+27,2012-09-06 12:03:17,"Hotel Wailea Maui, 555 Kaukahi St, K2bhei",20.6773326539,-156.432384118
+28,2012-09-06 11:56:37,"Cuatro, 1881 S Kihei Rd, K2bhei",20.7337151803,-156.452164694
+29,2012-09-04 02:12:32,"Capische, 555 Kaukahi St, Wailea",20.6774723244,-156.43198305
+30,2012-09-03 06:11:47,"Cheeseburger Island Style, 3750 Wailea Alanui Dr, Wailea",20.6868210497,-156.441189945
+31,2012-08-31 02:58:48,"Monkeypod Kitchen by Merriman, 10 Wailea Gateway Pl, K2bhei",20.688479671,-156.430882215
+32,2012-08-31 02:58:33,"Kula Lodge and Restaurant, 15200 Haleakala Hwy, Kula",20.7784293993,-156.308304758
+33,2012-08-31 02:58:14,"T. Komoda Store and Bakery, 3674 Baldwin Ave, Makawao",20.854250775,-156.310627
+34,2012-08-31 02:57:56,"Ulupalakua Ranch Store & Grill, HC 1 Box 901, Kula",20.9699957415,-156.679760427
+35,2012-08-31 02:56:57,"Hali'imaile General Store, 900 Haliimaile Rd, Makawao",20.8682812047,-156.34000633
+36,2012-08-31 02:56:36,"Sushi Bar Koiso, 2395 S Kihei Rd, K2bhei",20.7201427104,-156.446282184
+37,2012-08-31 02:56:18,"Merriman's, 1 Bay Club Pl, Kapalua",20.9984552751,-156.667211954
+38,2012-08-31 02:55:48,"Grandma's Coffee House, 9232 Kula Hwy, Maui County",20.7052187532,-156.356773161
+39,2012-08-31 02:55:28,"Mala Ocean Tavern, 1307 Front St, Lahaina",20.8875922504,-156.684935724
+40,2012-08-31 02:54:52,"Mama's Fish House, 799 Poho Pl, Paia",20.9290637358,-156.36719384
+41,2012-08-30 08:34:05,"The Plantation House Restaurant, 2000 Plantation Club Dr, Kapalua",21.0070717335,-156.640328
+42,2012-08-30 08:33:46,"Ritz Carlton Beach Club Pool, 1Ritz-Carlton Dr., Kapalua",21.001607446,-156.665467514
+43,2012-08-30 05:05:58,"Hula Grill Kaanapali, 2435 Kaanapali Pkwy Bldg P, Lahaina",20.92171088,-156.695559747
+44,2012-08-30 05:05:29,"Leilani's, 2435 Kaanapali Pkwy Bldg J, Lahaina",20.9212819998,-156.695705123
+45,2012-08-30 05:04:40,"Tropica, 2365 Kaanapali Pkwy, Lahaina",20.9206831455,-156.695836817
+46,2012-08-30 05:04:17,"'OnO Bar & Grill, 2401 Kaanapali Pkwy, K0118anapali",20.9202365689,-156.695594788
+47,2012-08-30 05:03:59,"K0118anapali Beach, K0118anapali Pkwy, K0118anapali",20.9195476354,-156.695617898
+48,2012-08-30 05:02:53,"Japengo, 200 Nohea Kai Dr, Lahaina",20.9128397125,-156.692692931
+49,2012-08-30 05:02:35,"Ono Gelato Company, 815 Front St, Lahaina",20.875452259,-156.680091878
+50,2012-08-30 05:02:08,"Lahaina Cannery Mall, 1221 Honoapiilani Hwy, Lahaina",20.8862744827,-156.683935551
+51,2012-08-30 05:01:10,"Star Noodle, 286 Kupuohi St, Lahaina",20.8852828723,-156.674654949
+52,2012-08-30 05:00:29,"Grand Wailea, A Waldorf Astoria Resort, 3850 Wailea Alanui Dr, K2bhei",20.6838406572,-156.441434389
+53,2012-07-28 11:54:47,"Rich Table, 199 Gough St, San Francisco",37.7751415854,-122.422521114
+54,2012-06-08 21:35:58,"Grand Hotel Bulgaria Restaurant, 31433b. 263040 1e41323e313e343842353b 4, 213e44384f",42.695639,23.328078
+55,2012-06-06 00:12:22,"11383643, 9A Oborishte St, Sofia",42.6956368475,23.3366990089
+56,2012-01-07 08:26:57,"Anchor Oyster Bar, 579 Castro St, San Francisco",37.759787,-122.434939742
+57,2012-01-07 08:24:26,"Slanted Door, 1 Ferry Building #3, San Francisco",37.796195161,-122.39380002
+58,2012-01-07 08:22:20,"Restaurant Eiji, 317 Sanchez St, San Francisco",37.764107,-122.43086418
+59,2011-11-15 02:07:07,"Sanctuary T, 337B W Broadway, New York",40.72252201,-74.003804
+60,2011-11-15 02:06:45,"Bar Tabac, 128 Smith St, Brooklyn",40.6873419686,-73.9902055264
+61,2011-08-29 02:26:46,"Informed Body, 389 Grove St, San Francisco",37.7777212897,-122.422489529
+62,2011-08-07 12:21:15,"Sudachi Sushi & Korean BBQ, 1217 Sutter St, San Francisco",37.7875653,-122.420459
+63,2011-04-23 02:14:47,"Qi Bangkok, 675 8th Ave, New York",40.7576867713,-73.9894909294
+64,2011-04-13 10:21:37,"HK Hell's Kitchen, 523 9th Ave, New York",40.7565341653,-73.9942140288
+65,2011-03-10 19:47:02,"Il Posto Accanto, 190 E 2nd St, New York",40.722314,-73.98414661
+66,2010-11-12 14:04:43,"clarklewis, 1001 SE Water Ave, Portland",45.515261,-122.665981
+67,2010-11-11 12:26:06,"FIN, 1852 SE Hawthorne Blvd, Portland",45.5120930745,-122.646431923
+68,2010-10-23 10:14:01,"Ruby Jewel Scoops, 3713 N Mississippi Ave, Portland",45.549808,-122.675553
+69,2010-10-23 00:23:26,"Mother's Bistro & Bar, 212 SW Stark St, Portland",45.5201562439,-122.673713062
+70,2010-07-25 00:14:45,"Bumble & Bumble, 415 W 13th St, New York",40.7406900279,-74.0064608423
+71,2009-11-28 00:41:35,"Norma's, 119 W 56th St, New York",40.7642953952,-73.9787095785
+72,2009-10-11 09:22:57,"Vintage Wine Bar, 129 S 13th St, Philadelphia",39.9497863069,-75.1621055603
+73,2009-09-18 09:07:36,"Los Feliz, 109 Ludlow St, New York",40.7193344079,-73.9887620811
+74,2009-06-08 03:07:36,"The Clay Pot, 162 7th Ave, Brooklyn",40.672061,-73.9773696167
+75,2009-06-05 11:37:08,"Il Posto Accanto, 190 E 2nd St, New York",40.722314,-73.98414661
+76,2009-06-01 02:01:41,"Bacchus, 409 Atlantic Ave, Brooklyn",40.686886824,-73.9844176288
+77,2009-05-24 03:14:03,"National Gallery of Art - Sculpture Garden, Constitution Ave NW, Washington",38.8912875223,-77.0229578018
+78,2009-05-21 01:17:12,"R/GA, 450 W 33rd St, New York",40.7535018683,-73.9991780358
+79,2009-05-21 01:16:44,"R/GA, 450 W 33rd St, New York",40.7535018683,-73.9991780358
+80,2009-05-20 09:50:17,"Paladar, 161 Ludlow St, New York",40.7213961687,-73.987717585
+81,2009-05-03 11:16:02,"Gonzo, 140 W 13th St, New York",40.7373518055,-73.9991952518
+82,2009-05-03 09:53:39,"Everyman Espresso, 136 E 13th St, New York",40.732876,-73.988193
+83,2009-05-03 09:53:17,"Everyman Espresso, 136 E 13th St, New York",40.732876,-73.988193

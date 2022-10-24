@@ -1,0 +1,60 @@
+,time,poi,latitude,longitude
+0,2016-10-09 00:10:43,"St. Francis Fountain, 2801 24th St, San Francisco",37.75285167,-122.40827
+1,2016-09-10 00:31:28,"Mr. Muggles' dogs, 2175 Harrison St, San Francisco",37.7621983212,-122.41281637
+2,2016-09-10 00:30:59,"El Tepa Taqueria, 2198 Folsom St, San Francisco",37.7621501684,-122.415192
+3,2016-09-10 00:30:34,"Green Heart Foods, 3321 20th St, San Francisco",37.758813,-122.415212
+4,2016-08-27 02:38:27,"Farmhouse Kitchen, 710 Florida St, San Francisco",37.7601470947,-122.411026001
+5,2016-01-21 06:33:16,"Ethos Vegan Kitchen, 601 S New York Ave Ste B, Winter Park",28.5929156044,-81.3529121876
+6,2015-12-30 02:31:59,"La Promenade Caf, 3643 Balboa St, San Francisco",37.7756759552,-122.498217906
+7,2014-12-08 08:17:42,"Grinders Pizzeria, 448 Balboa St, San Francisco",37.7773182578,-122.463854478
+8,2014-11-04 11:35:11,"Trattoria Da Vittorio, 150 West Portal Ave, San Francisco",37.7393250573,-122.467503054
+9,2014-11-04 11:33:43,"Trattoria Da Vittorio, 150 West Portal Ave, San Francisco",37.7393250573,-122.467503054
+10,2014-04-13 04:31:25,"Russian River Brewing Company, 725 4th St, Santa Rosa",38.4416570502,-122.711663246
+11,2014-01-31 10:24:39,"Alfond Inn at Rollins, 300 E New England Ave, Winter Park",28.5958359963,-81.3479043593
+12,2013-09-27 03:34:42,"Mixt Greens, 70 Mission St, San Francisco",37.7928317965,-122.393915468
+13,2013-08-29 08:37:12,"Mi Cocina, 77 Highland Park Vlg, Dallas",32.8357145743,-96.8060731888
+14,2013-08-09 19:52:00,"The Garlic, 556 E 3rd Ave, New Smyrna Beach",29.0291096927,-80.8990256421
+15,2013-06-29 07:05:28,"House Of Bagels, 5030 Geary Blvd, San Francisco",37.7807553281,-122.47344017
+16,2013-06-16 13:59:29,"The New Parish, 579 18th St, Oakland",37.8077660858,-122.27276872
+17,2013-05-22 12:08:28,"Giorgio's Pizzeria, 151 Clement St, San Francisco",37.7831170403,-122.461095849
+18,2013-02-27 21:07:02,"The Standard, East Village, 25 Cooper Sq, New York",40.7279855561,-73.9909428788
+19,2013-02-10 10:54:26,"Modern Relics, 771 Cabrillo St, San Francisco",37.775092,-122.466784
+20,2013-01-30 10:33:08,"Ortanique on the Mile, 278 Miracle Mile, Coral Gables",25.749433209,-80.2603611095
+21,2013-01-12 22:15:36,"Birba, 622 N Palm Canyon Dr, Palm Springs",33.8320973535,-116.546490651
+22,2013-01-12 04:08:29,"Elvis Honeymoon Hideaway, 1350 Ladera Cir, Palm Springs",33.8408418,-116.55702
+23,2013-01-11 02:47:21,"Tita's Restaurante & Pupuseria, 20643 Tracy Ave, Buttonwillow",35.4022648945,-119.40073111
+24,2012-12-31 05:51:47,"Tiffany & Co., 845 Market St, San Francisco",37.784462,-122.40609
+25,2012-12-31 05:27:00,"Caffe Central, 845 Market St, San Francisco",37.7843275238,-122.406284133
+26,2012-12-29 05:21:27,"Bell County Northbound Safety Rest Area, Interstate 35, Salado",30.9017528996,-97.559712481
+27,2012-11-19 11:36:41,"Crystal Basin Cellars, 3550 Carson Rd, Camino",38.7403409596,-120.698272665
+28,2012-10-18 03:46:17,"Kayak Kafe, 1 E Broughton St, Savannah",32.0789955,-81.09147328
+29,2012-10-16 23:19:58,"Lucas Theatre for the Arts, 32 Abercorn St, Savannah",32.0787765149,-81.0893677568
+30,2012-08-19 01:16:41,"The Walnut Avenue Cafe, 106 Walnut Ave, Santa Cruz",36.9734941202,-122.02644335
+31,2012-07-26 19:00:21,"The Standard, East Village, 25 Cooper Sq, New York",40.7279855561,-73.9909428788
+32,2012-07-07 20:31:42,"The Volstead Lounge, 1500 E 6th St, Austin",30.2634918137,-97.7273144228
+33,2012-02-27 02:35:26,"The Taproom at Dubsdread, 549 W Par St, Orlando",28.5828711917,-81.3870650229
+34,2012-02-22 22:43:09,"Sarabeth's, 530 Simonton St, Key West",24.5557817282,-81.8008793781
+35,2012-02-21 22:37:33,"Pepe's Cafe, 806 Caroline St, Key West",24.5604759769,-81.8004469494
+36,2012-02-03 12:17:47,"Prato, 124 N Park Ave, Winter Park",28.598253503,-81.3508798357
+37,2012-01-15 08:11:17,"George, 2512 Sacramento St, San Francisco",37.7898411297,-122.43435715
+38,2011-12-01 19:16:19,"Potbelly Sandwich Shop, BWI Airport - Terminal Rd., Space A-5B, Baltimore",39.1776047484,-76.6670712471
+39,2011-11-22 11:37:31,"515 Kitchen & Cocktails, 515 Cedar St, Santa Cruz",36.9713266081,-122.026965137
+40,2011-09-13 11:24:05,"Teavana, 1618 Redwood Hwy, Corte Madera",37.92869483,-122.5144367
+41,2011-04-21 06:59:31,"K Restaurant and Wine Bar, 1710 Edgewater Dr, Orlando",28.5670769457,-81.3896095286
+42,2011-02-05 05:36:25,"Guerrero19s Taqueria, 164 Reina del Mar Ave, Pacifica",37.613336,-122.486696993
+43,2011-01-15 23:55:34,"Kimber Modern, 110 The Cir, Austin",30.2501571178,-97.7485156059
+44,2010-12-01 00:38:05,"SkyPark, 1000 San Mateo Ave, San Bruno",37.6349080733,-122.411405972
+45,2010-10-30 07:30:27,"AOL's Friday Beer Cart, 395 Page Mill Rd, Palo Alto",37.4259152898,-122.138730777
+46,2010-10-01 12:19:01,"Fox Theater, 1807 Telegraph Ave, Oakland",37.8080555276,-122.270481393
+47,2010-06-26 23:16:42,"Jefe's PB&J Sandwich, 11th, San Francisco",37.777324,-122.469151
+48,2010-05-11 10:37:31,"Phuket Thai, 248 Divisadero St, San Francisco",37.7712990576,-122.436950594
+49,2010-04-13 10:58:46,"Toy Boat Dessert Cafe, 401 Clement St, San Francisco",37.7828582518,-122.463526726
+50,2010-04-13 10:55:36,"Toy Boat Dessert Cafe, 401 Clement St, San Francisco",37.7828582518,-122.463526726
+51,2010-01-13 02:35:35,"Ask.com, 555 12th St Ste 500, Oakland",37.8038734937,-122.275338443
+52,2009-10-01 21:22:24,"IAC, 555 W 18th St, New York",40.7454833682,-74.0079006034
+53,2009-07-08 01:51:42,"Ratto's International Market & Deli, 821 Washington St, Oakland",37.8012352829,-122.274729247
+54,2009-06-23 14:03:15,"San Francisco International Airport (SFO), N McDonnell Rd, San Francisco",37.6172997606,-122.385501068
+55,2009-06-23 14:02:01,"Boudin Bakery 10th Ave., 399 10th Ave., San Francisco",37.7811552469,-122.46873893
+56,2009-04-21 10:52:27,"Kitchen Istanbul, 349 Clement St, San Francisco",37.7829241717,-122.463318237
+57,2009-04-07 13:53:30,"Mandalay, 4348 California St, San Francisco",37.7851089579,-122.464301968
+58,2009-03-24 06:46:54,"Chit-Chat Caf, 5 W Manor Dr, Pacifica",37.6496010433,-122.492746711

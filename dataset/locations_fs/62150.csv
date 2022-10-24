@@ -1,0 +1,59 @@
+,time,poi,latitude,longitude
+0,2011-09-27 10:02:18,"The Fox Theater, 18 E 1st Ave, Hutchinson",38.0538892469,-97.9309283424
+1,2011-09-27 10:01:40,"Kansas Underground Salt Museum, 3504 E Avenue G, Hutchinson",38.0434385586,-97.867879327
+2,2011-09-27 10:00:53,"Mead's Corner, 430 E Douglas Ave, Wichita",37.6862486443,-97.333073616
+3,2011-09-27 10:00:19,"Olmos Perk Coffee Bar, 5223 McCullough Ave, San Antonio",29.4792248185,-98.4921580553
+4,2011-09-20 21:05:25,"Tractor Supply Co., 1203 North Lorraine St, Hutchinson",38.066525,-97.90478
+5,2011-09-20 21:04:31,"DoubleTree by Hilton Hotel Houston Downtown, 400 Dallas St, Houston",29.7579914443,-95.3711956099
+6,2011-09-20 21:03:50,"Skaets, 2300 N Main St, Hutchinson",38.0790165863,-97.9316942679
+7,2011-09-13 10:53:27,"The Barbecue Station, 1610 NE Loop 410, San Antonio",29.5149567469,-98.4393156069
+8,2011-09-13 10:53:09,"Conjunto Heritage Taller, 725 S Presa St, San Antonio",29.413756,-98.488022
+9,2011-09-06 04:22:19,"The Omelettry, 4631 Airport Blvd, Austin",30.3065773607,-97.7154278755
+10,2011-08-23 05:45:39,"OnBoard Tours, 770 7th Avenue, New York",40.7613580157,-73.9828623254
+11,2011-08-23 05:45:10,"2nd Ave Deli, 1442 1st Ave, New York",40.7695567997,-73.9545321465
+12,2011-08-23 05:44:43,"One World Trade Center, 1 World Trade Ctr, New York",40.711644348,-74.0125716044
+13,2011-08-23 05:44:11,"Trattoria Dell' Arte, 900 7th Ave, New York",40.7652622545,-73.9801706451
+14,2011-08-16 10:02:50,"The Spotted Pig, 314 W 11th St, New York",40.7357439145,-74.0068217811
+15,2011-08-16 10:02:20,"Castello di Borghese Vineyard, 17150 County Road 48, Cutchogue",41.0175848007,-72.5066424833
+16,2011-08-09 07:14:03,"NJDOC East Jersey State Prison, 1495 Woodbridge Rd., Rahway",40.5910138835,-74.267706871
+17,2011-08-02 05:48:18,"Mi Tierra Caf y Panadera, 218 Produce Row, San Antonio",29.4249085725,-98.4999418259
+18,2011-08-02 05:48:01,"Apple North Star, 7400 San Pedro Avenue, San Antonio",29.518141,-98.495924
+19,2011-08-02 05:47:51,"Sushi Zushi, 999 E Basse Rd, San Antonio",29.4975614548,-98.46976161
+20,2011-08-02 05:47:37,"DoubleTree by Hilton Hotel New York City - Financial District, 8 Stone St, New York",40.7038644312,-74.0123679489
+21,2011-07-26 06:02:31,"Buc-ee19s, 10070 I-10, Luling",29.6510868416,-97.5925665049
+22,2011-07-26 06:01:37,"Kenny & Ziggy's Deli, 2327 Post Oak Blvd, Houston",29.7432800779,-95.4604856801
+23,2011-07-23 20:09:16,"Great Oaks Manor, 419 Macek Rd, Richmond",29.5404146773,-95.6861908388
+24,2011-07-05 04:01:52,"Hemda, d0d1df d2d1d9e8d5dc 107, Tel Aviv District",32.0868406218,34.7821409264
+25,2011-07-05 04:00:56,"Coffeelab, Ha'carmel 21, eadc d0d1d9d1-d9e4d5",32.0688447544,34.7689894498
+26,2011-07-05 04:00:18,"HaCarmel Market, HaCarmel St, eadc d0d1d9d1-d9e4d5",32.0684322208,34.7682827301
+27,2011-07-05 03:59:46,"Yad Vashem, Har Hazikaron, P.O.B. 3477, e9dcdd",31.7742705134,35.1770457704
+28,2011-07-02 22:15:28,"The Diaghilev LIVE ART Boutique Hotel, 56 Mazeh St., eadc d0d1d9d1-d9e4d5",32.065210312,34.7794961929
+29,2011-06-20 22:58:27,"DoubleTree by Hilton Hotel Metropolitan - New York City, 569 Lexington Ave, New York",40.756701987,-73.971554786
+30,2011-06-20 22:58:03,"92nd Street Y, 1395 Lexington Ave, New York",40.7830519981,-73.9529245902
+31,2011-06-20 22:57:48,"5 Napkin Burger, 630 9th Ave, New York",40.7602359899,-73.9912183462
+32,2011-06-20 22:57:25,"Ess-a-Bagel, 831 3rd Ave, New York",40.7562564853,-73.9704653614
+33,2011-06-14 00:26:39,"KLRN, 501 Broadway St, San Antonio",29.4306933849,-98.4852353004
+34,2011-06-06 22:47:49,"Kunde Family Estate, 9825 Sonoma Hwy, Kenwood",38.4106591336,-122.540044785
+35,2011-06-06 22:46:13,"Swingers, 802 Broadway, Santa Monica",34.0183517057,-118.489799201
+36,2011-05-31 04:47:04,"Tick Tock Diner, 481 8th Ave, New York",40.7522441824,-73.9935196314
+37,2011-05-31 04:46:30,"Roger Smith Hotel, 501 Lexington Ave, New York",40.7547713357,-73.9735933744
+38,2011-05-31 04:46:12,"2nd Ave Deli, 162 E 33rd St, New York",40.7452993126,-73.9791375808
+39,2011-05-31 04:45:51,"Magnolia Bakery, 401 Bleecker St, New York",40.735844095,-74.0049523115
+40,2011-05-31 04:45:12,"B&H Photo Video, 420 9th Ave, New York",40.7529335022,-73.9963302612
+41,2011-05-01 23:39:34,"Pennsylvania Trolley Museum, 1 Museum Rd, Washington",40.2072869003,-80.2548079184
+42,2011-03-31 11:57:38,"The Diaghilev LIVE ART Boutique Hotel, 56 Mazeh St., eadc d0d1d9d1-d9e4d5",32.065210312,34.7794961929
+43,2011-03-17 22:05:34,"Apple The Domain, 11410 Century Oaks Terrace, Austin",30.401635,-97.726771
+44,2011-02-08 22:08:12,"DoubleTree by Hilton Hotel Sterling - Dulles Airport, 21611 Atlantic Blvd, Sterling",39.0182756963,-77.4268640392
+45,2010-10-26 21:40:57,"NYC Diamond District, 44 W 47th st, New York",40.7572375522,-73.9798307419
+46,2010-07-21 19:11:49,"San Antonio International Airport (SAT), 9800 Airport Blvd, San Antonio",29.526983604,-98.4723796735
+47,2010-02-12 05:04:43,"FPO Marketing, 8035 Broadway St, San Antonio",29.50859,-98.4666699
+48,2010-01-30 13:26:07,"Redbone Guitar Boutique, 255 E Basse Rd Ste 1085, San Antonio",29.472232,-98.49182
+49,2010-01-23 02:02:37,"Pear Analytics, 140 Heimer Rd #195, San Antonio",29.4306274411,-98.4838914871
+50,2010-01-17 08:54:34,"spacetone music, 416 Austin Hwy, San Antonio",29.48176,-98.46029
+51,2010-01-14 21:13:24,"Redbone Guitar Boutique, 255 E Basse Rd Ste 1085, San Antonio",29.472232,-98.49182
+52,2010-01-14 20:54:13,"Alan Weinkrantz And Company, 3737 Broadway St, San Antonio",29.461075191,-98.4671126626
+53,2010-01-14 20:26:38,"Redbone Guitar Boutique, 255 E Basse Rd Ste 1085, San Antonio",29.472232,-98.49182
+54,2010-01-13 06:21:50,"BMW of San Antonio, 8330 N US Highway 281, San Antonio",29.5145944744,-98.4763609855
+55,2010-01-12 13:38:20,"crossvault capital management, 7373 Broadway St, San Antonio",29.495838191,-98.4668126202
+56,2010-01-12 03:47:05,"Sales by 5, 85 NE I-410, Suite 218, San Antonio",29.5209628728,-98.4875366092
+57,2010-01-12 01:23:18,"Patty Lo""s at the Olmos Bharmacy, 3902 McCullough Ave, San Antonio",29.466736,-98.491644

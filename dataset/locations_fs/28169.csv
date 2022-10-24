@@ -1,0 +1,100 @@
+,time,poi,latitude,longitude
+0,2016-09-02 21:52:40,"Walter Benedict, Denneweg 69a, Den Haag",52.086075,4.311703
+1,2016-07-24 18:32:53,"Sucr Sal, Reinkenstraat, Den Haag",52.08121,4.283799
+2,2016-07-24 18:31:41,"Baladi Manouche, Torenstraat 95, Den Haag",52.0787743674,4.30367359689
+3,2016-04-29 21:39:00,"Toko Toet, Beeklaan  376a, Den Haag",52.077867,4.277802
+4,2015-10-31 20:07:04,"Play Food & Wine, 1 York Street, Ottawa",45.427492,-75.694603
+5,2015-08-13 15:07:28,"Compartir, Riera St Vicen., Cadaqus",42.2892575981,3.27610705804
+6,2015-08-13 15:06:16,"Castell Gala Dali, Pbol, La Pera",42.0148222141,2.98311992571
+7,2015-08-13 15:05:52,"De Ballentent, Parkkade 1, Rotterdam",51.904433,4.473985
+8,2015-08-13 15:05:17,"Stadsbrouwerij-Restaurant De Pelgrim, Aelbrechtskolk 12, Rotterdam",51.9087853788,4.448772551
+9,2015-08-13 15:02:33,"Fellini, Grote Markt 272, Rotterdam",51.9200657986,4.48632835929
+10,2015-08-13 15:00:23,"Florencia, Torenstraat 55, Den Haag",52.0784552417,4.30452256348
+11,2015-08-13 14:59:42,"Strandpaviljoen De Staat, Zuiderstrand 4, Den Haag",52.0883669131,4.24570083618
+12,2015-08-13 14:58:47,"Simonis in de stad, Gedempte Gracht 405, Den Haag",52.076495,4.314396
+13,2015-08-13 14:57:34,"Grapes&Olives, Kleine Veenkade 1, Den Haag",52.0799071661,4.30325732331
+14,2015-07-14 17:05:51,"Stedelijk Museum Schiedam, Hoogstraat 112, Schiedam",51.916017235,4.39806648191
+15,2014-12-16 14:36:32,"Salamander Cafe, Bujumbora Street, Abuja",9.07691274422,7.46153975838
+16,2014-12-11 15:27:03,"Paris Charles de Gaulle Airport (CDG), Route de la Commune, Roissy-en-France",49.006826919,2.54908561707
+17,2014-12-11 15:26:33,"Business Lounge Air France 13 Le Parc, Terminal 2E 13 Hall M, Tremblay-en-France",49.004833313,2.5916642048
+18,2014-11-26 14:58:31,"Humanity House, Prinsegracht 8, Den Haag",52.0749253648,4.30799687783
+19,2014-11-26 14:55:05,"Kee Lun Palace, Wagenstraat 95, Den Haag",52.0753782238,4.31337833405
+20,2014-11-26 14:54:26,"Mooi Muf, Beeklaan 194, Den Haag",52.0742240946,4.28086862735
+21,2014-11-26 14:53:55,"Zuiderstrandtheater Nieuwe Kerk, Spuiplein 175, Den Haag",52.0770102591,4.31789517403
+22,2014-11-26 14:52:29,"Baryo Philipinas, Fluwelen Burgwal 51, Den Haag",52.0787194686,4.3187918998
+23,2014-11-26 14:51:25,"St. Joris en de Draeck, Koningsplein 6, Den Haag",52.0799543659,4.28883075714
+24,2014-11-26 14:50:56,"Mauritshuis, Plein 29, Den Haag",52.0802462675,4.31443808208
+25,2014-11-24 03:49:46,"De Haagse Markt, Herman Costerstraat, Den Haag",52.0650376292,4.29936697715
+26,2014-11-24 03:48:36,"Amier, korte poten, Den Haag",52.08005,4.317612
+27,2014-11-24 03:46:25,"Le Gone Traiteur Lyonnais, Noordeinde 200 C, Den Haag",52.083716,4.304389
+28,2014-11-24 03:45:29,"Zio Ciro, Toussaintkade, Den Haag",52.0805324098,4.30334258822
+29,2014-10-27 23:05:46,"Vapiano, Buitenhof 45-51, Den Haag",52.0789835705,4.31059264635
+30,2014-10-17 17:40:18,"Lido Night Club, 30 S 1st, San Jose",37.3355971,-121.889871
+31,2014-09-22 18:41:22,"Lange Voorhout, Lange Voorhout, Den Haag",52.0826400283,4.31350501094
+32,2014-09-22 18:40:03,"Haags Historisch Museum, Korte Vijverberg 7, Den Haag",52.0812311,4.3139647
+33,2014-09-22 18:38:13,"Escher in het Paleis, Lange Voorhout 74, Den Haag",52.0833496653,4.31390828974
+34,2014-09-22 18:36:00,"Fotomuseum Den Haag, Stadhouderslaan 43, Den Haag",52.09020741,4.27944968059
+35,2014-09-22 18:34:34,"Gemeentemuseum Den Haag, Stadhouderslaan 41, Den Haag",52.0892898233,4.28029060364
+36,2014-09-22 18:33:06,"Panorama Mesdag, Zeestraat 65, Den Haag",52.0849681695,4.3038303186
+37,2014-09-16 03:47:07,"Centrale Restaurant Lounge, San Marco, 1659/B, Venezia",45.4338538222,12.3350822926
+38,2014-09-16 03:46:15,"A Beccafico, San Marco 2801, Venezia",45.4330783536,12.3306941986
+39,2014-09-13 02:24:07,"De Paas, Dunne Bierkade 16a, Den Haag",52.0733339741,4.31539535522
+40,2014-08-31 04:39:31,"Guggenheim Museum, Av. Abandoibarra, 2, Bilbao",43.2687156064,-2.93451756986
+41,2014-08-31 04:38:25,"De Twee Heeren, Oude Molstraat 6, Den Haag",52.0786091241,4.30763233325
+42,2014-08-31 04:37:04,"Dishy, Noordeinde 21, Den Haag",52.080159,4.30797
+43,2014-08-31 04:36:17,"Filmhuis Den Haag, Spui 191, Den Haag",52.0762156797,4.31725144386
+44,2014-08-31 04:35:40,"Pastis, Oude Molstraat 57, Den Haag",52.0797237176,4.30667184252
+45,2014-08-31 04:34:04,"Fotoplastikon, Aleje Jerozolimskie 51, Warszawa",52.2288771679,21.0085051422
+46,2014-08-31 04:32:15,"Room, Anna Paulownaplein 16, Den Haag",52.0846470311,4.29986817435
+47,2014-08-31 04:31:39,"Rootz, Grote Marktstraat 14, Den Haag",52.0757334858,4.31007779316
+48,2014-08-28 17:12:35,"Aeropuerto de Sevilla (SVQ), Ctra. de Madrid-Cdiz, km. 532, Sevilla",37.4231633543,-5.8998457523
+49,2014-08-28 17:11:33,"Aeropuerto de Bilbao (BIO), C/ Aeropuerto de Bilbao s/n, Lujua",43.30530118,-2.90601270752
+50,2014-08-28 17:10:33,"Warsaw Chopin Airport (WAW), 7bwirki i Wigury 1, Warszawa",52.1722807185,20.9714678632
+51,2014-08-28 17:08:41,"Blij | Ontbijt, Lunch en Diner, Dunne Bierkade 1A, Den Haag",52.0736793667,4.31670590892
+52,2014-08-28 17:07:57,"De Pakschuit, Dunne Bierkade 21, Den Haag",52.0733293639,4.31517101796
+53,2014-08-28 17:07:21,"KLM Crown Lounge 25 (Schengen), Concourse D, Luchthaven Schiphol",52.3083211902,4.76523399353
+54,2014-08-28 17:06:32,"Lounge Terminal H Le Navi, Fco terminal H, Fiumicino",41.7954635133,12.249441279
+55,2014-08-28 17:05:30,"Leonardo da Vinci13Fiumicino Airport (FCO), Via dell'Aeroporto di Fiumicino 320, Fiumicino",41.795297268,12.2522967762
+56,2014-08-28 17:01:10,"American Colony Hotel, 1 Louis Vincent St., e9dcdd",31.7897935774,35.2293374896
+57,2014-08-28 16:59:47,"Amsterdam Airport Schiphol (AMS), Aankomstpassage, Schiphol",52.3090933401,4.76266576205
+58,2014-08-28 16:59:13,"Transavia Flight HV517 [AMS - AGP], AMS Airport, Schiphol",52.3065500248,4.76499795914
+59,2014-08-28 16:58:40,"Mlaga - Costa del Sol Airport (AGP), Av. del Comandante Garca Morato, Mlaga",36.6764999781,-4.49160801005
+60,2014-08-28 16:56:20,"Hotel Parador de Arcos de la Frontera, Plaza del Cabildo, s/n, Arcos de la Frontera",36.74787684,-5.80652133468
+61,2014-08-28 16:51:24,"Gibraltar Nature Reserve, Rock of Gibraltar, Gibraltar",36.1327239513,-5.34572989201
+62,2014-08-28 16:48:34,"The Lounge, Queensway Quay, Gibraltar",36.134949,-5.35486285
+63,2014-08-28 16:46:59,"O'Callaghan Eliott Hotel, 2 Governors Parade, Gibraltar None, Gibraltar",36.1391755857,-5.35286672096
+64,2014-08-20 14:02:37,"Borderline Restaurant, 13 Shimon Hatsadiq, e9dcdd",31.793112,35.227364
+65,2014-08-20 14:00:56,"Restaurant Basaal, Dunne Bierkade 3, Den Haag",52.0736806164,4.31636398706
+66,2014-08-17 20:04:29,"Jerusalem Hotel, Nablus Road, e9dcdd",31.7843451542,35.2287472918
+67,2014-08-17 20:03:40,"Legacy Hotel, Nablus Road 2, e9dcdd",31.7863321728,35.2280336834
+68,2014-08-17 19:58:14,"HaTaklit, 7 Heleni HaMalka St., e9dcdd",31.781859968,35.2212728777
+69,2014-05-15 22:08:10,"Marinello, Lange Poten 3, Den Haag",52.0784654688,4.31390775327
+70,2014-03-04 16:05:35,"Muziekcaf Parapl, Bagijnestraat 9, Den Haag",52.0783864507,4.31502714794
+71,2014-02-06 16:08:07,"De Overkant, Stationsweg 32, Den Haag",52.07349,4.31860904
+72,2013-07-24 01:00:50,"SkyTeam Lounge, Gate 10, Terminal 4, Hounslow",51.4606652775,-0.445418357849
+73,2012-12-19 14:39:56,"Dry Creek Grill, 1580 Hamilton Ave, San Jose",37.2933820731,-121.91295105
+74,2012-11-13 21:41:28,"Blue Collar, 160 Havemeyer St, Brooklyn",40.7113395659,-73.9577117259
+75,2012-09-08 15:13:19,"Pizza Pino, Lange Leidsedwarsstraat 106, Amsterdam",52.3639472084,4.88453168509
+76,2012-08-30 06:27:16,"Max Koot, Laan van meerdervoort 7, Den Haag",52.08613773,4.29858170956
+77,2012-08-30 06:24:14,"Ambassade van Pakistan, Amaliastraat 8, Den Haag",52.0837694108,4.30642099261
+78,2012-08-15 05:40:33,"The Westin Seattle, 1900 5th Ave, Seattle",47.6133888269,-122.338153448
+79,2012-05-22 23:59:27,"InterContinental Suites Hotel Cleveland, 8800 Euclid Ave, Cleveland",41.5030413876,-81.6249632835
+80,2012-05-22 23:58:23,"Budget Car Rental, 19601 Maplewood Avenue, Cleveland",41.423179,-81.83734484
+81,2012-04-26 10:54:23,"Orient Yacht Club, 2110 Village Ln, Orient",41.1368193237,-72.3041689396
+82,2011-12-10 04:27:14,"Casa Museo Isla Negra, Poeta Neruda S/N, Isla Negra",-33.4427881606,-71.6839544996
+83,2011-12-09 10:59:19,"La Piedra Feliz, Blanco #1065 5 nivel, Valparaiso",-33.0413182742,-71.6241189784
+84,2011-08-20 16:04:54,"Hotel Montanus, Nieuwe Gentweg 78, Brugge",51.20337453,3.22753849298
+85,2011-06-24 04:52:43,"Fishwife, 1996 Sunset Dr, Pacific Grove",36.616028,-121.9361388
+86,2011-06-04 08:54:34,"Bojangles, Jiguur Grand Office Centre opposite the train museum on the sun Road, 233b30303d313030423040",47.9084936954,106.908635448
+87,2011-01-26 20:46:22,"Veranda Restaurant, Jamyan Gun Street 5/1, 233b30303d313030423040",47.9152134835,106.917599859
+88,2011-01-13 22:22:08,"MB Beer Plus, Chinggis Avenue, 233b30303d313030423040",47.9147241239,106.915276051
+89,2010-11-22 18:13:30,"Knossos, Kerkplein 1, Den Haag",52.0780039502,4.307898
+90,2010-09-23 03:50:00,"Simonis aan de Haven, Visafslagweg 20, Den Haag",52.100704,4.26421926
+91,2010-08-17 20:50:35,"Noah's, 136 Front St, Greenport",41.1020179,-72.361706
+92,2010-06-15 06:47:41,"City Espresso Gourmet Coffee, 632 Blossom Hill Rd, San Jose",37.2500758392,-121.844328046
+93,2010-06-11 03:54:24,"D Street, 666 Puddin Ct., Santa Clara",37.324776,-121.951891
+94,2010-06-01 07:15:30,"Buckets Deli & Sports Bar, 2020 E Cesar Chavez St, Austin",30.2567417212,-97.7226367447
+95,2010-05-30 11:01:42,"Ground Zero Blues Club, 0 Blues Alley, Clarksdale",34.2000188273,-90.5745077133
+96,2010-01-04 19:46:43,"November, Husemannstr. 15, Berlin",52.53823946,13.417507
+97,2009-11-25 06:16:57,"Cafe Beach Restaurant, 2600 Sand Dunes Dr, Monterey",36.610969716,-121.859271496
+98,2009-10-12 11:02:30,"Moriarty's Restaurant & Irish Pub, 1116 Walnut St, Philadelphia",39.948657443,-75.1598310471

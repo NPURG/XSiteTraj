@@ -1,0 +1,24 @@
+,time,poi,latitude,longitude
+0,2014-03-07 09:55:29,"The Brit, Terminal B, San Jose",37.3667929235,-121.92661966
+1,2013-10-23 19:57:49,"Emperor's Choice, 2238 S Wentworth Ave, Chicago",41.8516538819,-87.6320932558
+2,2013-04-17 07:06:36,"Malibu Diner NYC, 163 W 23rd St, New York",40.7439896393,-73.9951035424
+3,2012-11-28 11:31:53,"Johnnies New York Pizza, 1444 3rd Street Promenade, Santa Monica",34.01472253,-118.495089394
+4,2012-11-13 23:45:07,"L.A. Roadhouse Route 66, Terminal 8, Gate 83, Los Angeles",33.9420357873,-118.397503282
+5,2012-09-09 07:32:35,"Ye Olde Bicycle Shoppe, 6195 University Ave, San Diego",32.75539387,-117.050234
+6,2012-08-31 14:58:53,"Swami's Cafe, 8284 La Mesa Blvd, La Mesa",32.7650118,-117.019348217
+7,2012-03-06 00:35:55,"Town and Country Resort & Convention Center, 500 Hotel Cir N, San Diego",32.7632058839,-117.168359489
+8,2012-03-06 00:35:34,"Town and Country Resort & Convention Center, 500 Hotel Cir N, San Diego",32.7632058839,-117.168359489
+9,2012-02-23 12:35:30,"San Diego International Airport (SAN), 3225 N Harbor Dr, San Diego",32.7322376471,-117.20114743
+10,2011-09-27 03:51:45,"L.J.'s Coffee Shop, 2217 E Front St, Logan",39.5237121769,-82.3732187551
+11,2011-09-27 02:59:19,"Bob Evans Restaurant, 6085 Gender Rd, Canal Winchester",39.8561898794,-82.8290390968
+12,2011-04-10 23:54:13,"San Diego International Airport (SAN), 3225 N Harbor Dr, San Diego",32.7322376471,-117.20114743
+13,2011-03-27 11:06:35,"Reading Cinemas Grossmont Center 10, 5500 Grossmont Center Dr, La Mesa",32.7787596247,-117.010746002
+14,2011-02-02 07:04:31,"Metrolink San Juan Capistrano Station, 26701 Verdugo St, San Juan Capistrano",33.5013166607,-117.664113238
+15,2010-12-01 08:41:00,"New York Pizza Suprema, 413 8th Ave, New York",40.7501961412,-73.9949371176
+16,2010-11-10 06:31:21,"D Z Akin's, 6930 Alvarado Rd, San Diego",32.77504634,-117.049017
+17,2010-09-24 23:26:55,"Quest Diagnostics, 8881 Fletcher Pkwy, La Mesa",32.7838023819,-117.007698399
+18,2010-08-17 22:36:03,"Hair Pros Barber Shop, 7590 El Cajon Blvd Ste A, La Mesa",32.768323,-117.034123
+19,2010-08-17 22:35:58,"Mystic Grill & Bakery, 6990 University Ave, La Mesa",32.75565776,-117.047756067
+20,2010-08-17 22:35:50,"Chipotle Mexican Grill, 8005 Fletcher Pkwy, La Mesa",32.773675,-117.026836
+21,2010-08-17 22:35:34,"Lake Murray Reservoir, 5540 Kiowa Dr, San Diego",32.7867694284,-117.043232918
+22,2010-03-14 06:57:45,"Surfdog's Java Hut, 1126 S Coast Highway 101, Encinitas",33.0375077088,-117.292815227

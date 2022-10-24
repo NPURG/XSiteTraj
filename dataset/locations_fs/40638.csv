@@ -1,0 +1,52 @@
+,time,poi,latitude,longitude
+0,2014-12-27 08:56:28,"Botswana Butchery, 99 Quay St, Auckland",-36.8428211751,174.766783998
+1,2014-12-27 08:54:58,"Ayers Rock Connellan Airport (AYQ), Coote Rd., Yulara",-25.1909233594,130.976750909
+2,2014-12-27 08:54:16,"Cairns Harbour Lights, 1 Marlin Parade, Cairns",-16.9224994747,145.780423449
+3,2014-12-27 08:53:27,"Cairns Airport (CNS), Airport Ave., Cairns",-16.8756624406,145.75501442
+4,2014-12-27 08:52:23,"Vapiano, Grace Hotel, Sydney",-33.8687394592,151.206114868
+5,2014-12-27 08:51:30,"Sails in the Desert Hotel, 174 Yulara Dr, Yulara",-25.239047834,130.983246136
+6,2014-07-08 11:02:42,"Boom Chicago, Rozengracht 117, Amsterdam",52.3729005902,4.87893234582
+7,2014-07-08 11:02:12,"Anne Frank House, Prinsengracht 263-267, Amsterdam",52.3750128599,4.88392006901
+8,2014-02-09 09:45:28,"Franco on Melrose, 6919 Melrose Ave, Los Angeles",34.0836029053,-118.34236145
+9,2014-02-09 09:42:57,"Franco on Melrose, 6919 Melrose Ave, Los Angeles",34.0836029053,-118.34236145
+10,2013-12-08 11:35:49,"Thrilling Adventure Hour, 366 N LA Cienega Blvd, Los Angeles",34.0780315291,-118.376397466
+11,2013-08-08 20:42:56,"Philadelphia International Airport (PHL), 8800 Essington Ave, Philadelphia",39.8759097949,-75.2431119422
+12,2013-07-06 01:49:03,"Fortnum & Mason, 181 Piccadilly, London",51.5085586584,-0.138404817114
+13,2013-07-06 01:48:29,"Fortnum & Mason, 181 Piccadilly, London",51.5085586584,-0.138404817114
+14,2013-06-05 10:13:59,"Mi Cocina, 509 Main St, Fort Worth",32.7542107853,-97.3310575677
+15,2013-05-06 07:38:40,"Philadelphia International Airport (PHL), 8800 Essington Ave, Philadelphia",39.8759097949,-75.2431119422
+16,2013-01-09 07:33:09,"Grand Concourse, 100 W Station Square Dr, Pittsburgh",40.4335167485,-80.003606465
+17,2012-12-06 09:45:57,"Knife & Fork Inn, 3600 Atlantic Ave, Atlantic City",39.3501694652,-74.4535215462
+18,2012-12-04 08:01:53,"Dock's Oyster House, 2405 Atlantic Ave, Atlantic City",39.356952,-74.440913
+19,2012-10-18 02:41:11,"Punch Neapolitan Pizza, 210 E Hennepin Ave, Minneapolis",44.9876273917,-93.257060051
+20,2012-09-21 00:21:02,"Montral Int'l Airport Pierre-Elliott-Trudeau (YUL), 975 rue Romo-Vachon Nord, Dorval",45.4579997625,-73.7517298602
+21,2012-08-23 21:31:24,"BSA Management, 1800 John F Kennedy Blvd Unit 300, Philadelphia",39.9541453152,-75.1698732376
+22,2012-08-03 11:17:32,"Allegro Romano, 1701 Jones St, San Francisco",37.7969050333,-122.415322467
+23,2012-07-26 01:34:24,"Century 21 Advantage Gold, 1708 Welsh Rd, Philadelphia",40.0850753279,-75.0393560646
+24,2012-06-02 09:10:22,"Max Brenner, 1500 Walnut St, Philadelphia",39.9493298287,-75.1659411192
+25,2012-05-27 04:18:28,"Trump National Golf Club, 1 Ocean Trails Dr., Rancho Palos Verdes",33.7299880527,-118.349547771
+26,2012-05-24 07:12:56,"Shiroi Hana, 222 S 15th St, Philadelphia",39.94889,-75.166118
+27,2012-05-16 09:54:09,"Open City, 2331 Calvert St NW, Washington",38.923686982,-77.0523655415
+28,2012-05-16 02:12:15,"The Fairmont Jasper Park Lodge, Old Lodge Rd., Jasper",52.8861628361,-118.057329586
+29,2012-04-09 00:30:13,"Gate 36, Terminal 3, Los Angeles",33.9466352803,-118.40692699
+30,2012-03-04 00:06:39,"New Orleans Ernest N. Morial Convention Center, 900 Convention Center Blvd, New Orleans",29.9410644561,-90.0636434555
+31,2012-02-19 12:44:40,"Doozies Bar & Grill, Embassy Suites, Des Moines",41.5883392962,-93.6158563385
+32,2011-11-21 23:43:47,"Dilworth Paxson, 457 Haddonfield Rd, Cherry Hill",39.93645,-75.031848
+33,2011-11-19 06:57:15,"Police & Fire Federal Credit Union, 11705 Bustleton Ave, Philadelphia",40.1199434724,-75.0167643927
+34,2011-09-13 00:40:10,"Lucques, 8474 Melrose Ave, Los Angeles",34.082325675,-118.375393177
+35,2011-09-13 00:39:34,"Good Stuff Restaurant, 131 W Grand Ave Ste C, El Segundo",33.9191651231,-118.417060447
+36,2011-09-13 00:38:36,"Largo at the Coronet, 366 N LA Cienega Blvd, Los Angeles",34.077985596,-118.376340405
+37,2011-09-09 13:21:55,"Jerry's Famous Deli, 13181 Mindanao Way, Marina del Rey",33.9844156989,-118.438092685
+38,2011-08-20 08:06:54,"Jerry's Famous Deli, 13181 Mindanao Way, Marina del Rey",33.9844156989,-118.438092685
+39,2011-08-15 23:18:16,"West Avenue Grill, 718 West Ave, Jenkintown",40.095707,-75.1265134979
+40,2011-07-29 22:02:26,"Burger Bar, 251 Geary St, San Francisco",37.7878603353,-122.407639288
+41,2011-07-12 01:20:44,"Good Stuff Restaurant, 131 W Grand Ave Ste C, El Segundo",33.9191651231,-118.417060447
+42,2011-07-12 01:19:58,"Marston's Restaurant, 151 E Walnut St, Pasadena",34.1496355123,-118.147311419
+43,2011-06-07 00:54:18,"Artichoke's Heart, 9010 Melrose Ave, West Hollywood",34.080609,-118.388229
+44,2011-05-17 17:47:42,"Robert's Restaurant, 2500 Calvert St NW, Washington",38.922425,-77.0535890333
+45,2011-05-17 17:46:54,"Filomena Ristorante, 1063 Wisconsin Ave NW, Washington",38.9043181823,-77.0626721928
+46,2011-05-17 17:46:20,"Open City, 2331 Calvert St NW, Washington",38.923686982,-77.0523655415
+47,2011-02-05 07:07:34,"JennKL Photography, 357 S Robertson Blvd, Beverly Hills",34.0605818833,-118.383920717
+48,2011-01-27 06:00:47,"Century 21 Advantage Gold, 1708 Welsh Rd, Philadelphia",40.0850753279,-75.0393560646
+49,2010-06-19 02:24:23,"Accent On Beaute, 595 Old York Rd, Jenkintown",40.0994209768,-75.1269484347
+50,2010-02-05 06:26:21,"Newtown Book & Record Exchange, 102 S State St, Newtown",40.2277786,-74.9369616222

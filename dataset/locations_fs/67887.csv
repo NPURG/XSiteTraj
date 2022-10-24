@@ -1,0 +1,92 @@
+,time,poi,latitude,longitude
+0,2016-12-02 10:13:41,"Pacific Cocktail Haven, 580 Sutter St, San Francisco",37.7891198273,-122.409895996
+1,2016-11-09 18:07:23,"ThirstyBear Brewing Company, 661 Howard St, San Francisco",37.7855597976,-122.399674048
+2,2016-11-08 23:30:57,"Bartlett Hall, 242 Ofarrell St, San Francisco",37.7863530872,-122.408784241
+3,2016-10-25 19:48:31,"Union Square, 333 Post St, San Francisco",37.787829545,-122.407661413
+4,2016-10-25 19:44:23,"Pizzeria Delfina, 2406 California St, San Francisco",37.7889116081,-122.434274203
+5,2016-10-11 23:01:17,"Bombay Garden, 5955 Mowry Avenue, Newark",37.5254518655,-122.007894516
+6,2016-10-04 18:44:36,"Mollie Stone's Markets, 2435 California St, San Francisco",37.7885971252,-122.434600461
+7,2016-10-04 18:41:44,"Patxi's Pizza, 822 Irving St, San Francisco",37.7640883207,-122.466756765
+8,2016-10-04 05:02:48,"Kasa Indian Eatery, 1356 Polk St, San Francisco",37.789600825,-122.420470905
+9,2016-10-04 04:59:32,"Delarosa, 37 Yerba Buena Ln, San Francisco",37.7857550665,-122.404292854
+10,2016-09-24 13:15:56,"Rx Cocktail Bar, 701 Geary St, San Francisco",37.7864550658,-122.414901512
+11,2016-09-21 22:04:49,"Whole Foods Market, 1765 California St, San Francisco",37.7900018099,-122.423410267
+12,2016-09-15 22:29:17,"Saturn Cafe Berkeley, 2175 Allston Way, Berkeley",37.869643,-122.266142
+13,2016-09-15 07:17:09,"Sanctuary Bistro, 1019 Camelia St, Berkeley",37.8784887583,-122.29659166
+14,2016-09-14 14:11:59,"Brass Tacks, 488 Hayes St, San Francisco",37.7765922908,-122.424408569
+15,2016-09-11 13:48:29,"San Francisco Maritime National Historical Park Visitor Center, 499 Jefferson St, San Francisco",37.807508886,-122.420764022
+16,2016-09-06 13:50:44,"Del Popolo, 855 Bush St, San Francisco",37.7898110414,-122.411298752
+17,2016-09-05 05:21:25,"Dr. Insomniac's Fine Coffee, Tea, Smoothies & Cafe, 800 Grant Ave (First Right off Delong Ex.), Novato",38.1071123276,-122.566432357
+18,2016-09-04 03:59:41,"Merry Edwards Winery, 2959 Gravenstein Hwy N, Sebastopol",38.4346919024,-122.854530979
+19,2016-08-29 08:53:28,"Sessions at the Presidio, 1 Letterman Drive D-150, San Francisco",37.7992908499,-122.448092273
+20,2016-08-26 09:00:46,"Matador, 679 Sutter St, San Francisco",37.7888614306,-122.411642075
+21,2016-08-23 21:50:44,"Little Star Pizza, 846 Divisadero St, San Francisco",37.7775382685,-122.438283235
+22,2016-08-13 11:28:43,"Cellar Door Salon & Studio, 1905 N Milwaukee Ave, Chicago",41.9161081644,-87.686313025
+23,2016-08-13 11:28:14,"XOCO, 1471 N Milwaukee Ave, Chicago",41.9087440468,-87.6746046654
+24,2016-08-13 11:28:00,"Logan Arcade, 2410 W Fullerton Ave, Chicago",41.9250269589,-87.6881133033
+25,2016-08-13 11:27:49,"Jeni's Splendid Ice Creams, 1505 N Milwaukee Ave, Chicago",41.9088358155,-87.6749850419
+26,2016-08-13 11:27:34,"Volunteer Park, 175th St., Tinley Park",41.5721083537,-87.8170555683
+27,2016-08-13 11:26:37,"Cole Hardware, 2254 Polk St, San Francisco",37.7977027102,-122.422074746
+28,2016-08-13 11:26:12,"Staples, 1700 Van Ness Ave, San Francisco",37.7911919825,-122.422257587
+29,2016-08-13 11:25:56,"Golden Veggie Market, 1475 Polk St, San Francisco",37.790288,-122.42066826
+30,2016-08-13 11:24:05,"Contraband Coffeebar, 1415 Larkin St, San Francisco",37.7910642148,-122.419055079
+31,2016-08-13 11:23:38,"The Butcher's Son, 1941 University Ave, Berkeley",37.8717044773,-122.27199336
+32,2016-08-13 11:22:41,"Nijiya Market, 1737 Post St, San Francisco",37.7852922325,-122.431044748
+33,2016-08-08 06:06:19,"Roam Artisan Burgers, 1923 Fillmore St, San Francisco",37.7877054275,-122.433627214
+34,2016-08-02 06:16:35,"The Gage, 24 S Michigan Ave, Chicago",41.8813192419,-87.6246421466
+35,2016-07-31 09:06:27,"Prasino, 93 S La Grange Rd, La Grange",41.8127481775,-87.8695114427
+36,2016-07-30 11:11:05,"Quesadilla La Reyna del Sur, 2235 N Western Ave, Chicago",41.9226604667,-87.6874958167
+37,2016-07-16 05:56:10,"21st Amendment Brewery & Restaurant, 563 2nd St, San Francisco",37.7823780052,-122.392587797
+38,2016-07-13 11:29:03,"The Bell Tower, 1900 Polk St, San Francisco",37.7942069667,-122.42129205
+39,2016-07-07 10:38:07,"Irving Pizza, 928 Geary St, San Francisco",37.786014,-122.418523
+40,2016-07-07 10:37:01,"Veggie Grill, 1320 Locust St, Walnut Creek",37.8978659767,-122.061403111
+41,2016-07-07 10:10:38,"Crowne Plaza Concord/Walnut Creek, 45 John Glenn Dr, Concord",37.9804507408,-122.057152373
+42,2016-07-07 10:08:29,"Andersen Bakery, 115 A Sunvalley Mall, Concord",37.9678937776,-122.060509693
+43,2016-06-13 07:12:42,"ReLove, 1815 Polk St, San Francisco",37.79361,-122.421362
+44,2016-06-13 05:21:41,"VeganBurg, 1466 Haight St, San Francisco",37.7701540592,-122.446549649
+45,2016-06-12 09:27:41,"Copita Tequileria y Comida, 739 Bridgeway, Sausalito",37.8564228808,-122.47998476
+46,2016-06-10 04:09:09,"Clift Hotel, 495 Geary St, San Francisco",37.786962407,-122.411289821
+47,2016-06-09 05:34:39,"The Market, 1355 Market St Ste 100, San Francisco",37.7765691414,-122.417301862
+48,2016-06-07 13:40:26,"Little Star Pizza, 846 Divisadero St, San Francisco",37.7775382685,-122.438283235
+49,2016-05-31 13:29:27,"Thai Idea Vegetarian Restaurant, 710 Polk St, San Francisco",37.7833960988,-122.419220997
+50,2016-05-30 06:31:09,"Dosa, 1700 Fillmore St, San Francisco",37.7853389558,-122.432913863
+51,2016-05-23 01:25:08,"Souley Vegan, 301 Broadway, Oakland",37.7970058637,-122.276080817
+52,2016-05-22 09:05:30,"Bouli Bar, 1 Ferry Building #35, San Francisco",37.7950673378,-122.392980568
+53,2016-05-15 18:24:45,"Pancho Villa Taqueria, 3071 16th St, San Francisco",37.7648903173,-122.421088815
+54,2016-05-15 02:17:18,"Daniel E. Koshland Community Park, 399 Buchanan St, San Francisco",37.773232,-122.42695
+55,2016-05-05 18:55:19,"Arlequin Cafe & Food To Go, 384 Hayes St, San Francisco",37.7770587479,-122.422683094
+56,2016-05-05 00:48:24,"The Family Room, 644 Hyde St., San Francisco",37.7868397721,-122.416577338
+57,2016-05-01 15:43:34,"Animal Connection II, 1677 Washington St, San Francisco",37.79329653,-122.42092463
+58,2016-05-01 15:30:43,"Rainbow Grocery, 1745 Folsom St, San Francisco",37.7691033683,-122.415236235
+59,2016-05-01 15:22:46,"SoMa StrEat Food Park, 428 11th St, San Francisco",37.7697733954,-122.41183739
+60,2016-05-01 15:19:32,"Whitechapel, 600 Polk St, San Francisco",37.7821676157,-122.418878099
+61,2016-05-01 15:14:49,"Flour & Co, 1030 Hyde St, San Francisco",37.7905401985,-122.417199612
+62,2016-05-01 15:12:37,"Mr. Holmes Bakehouse, 1042 Larkin St, San Francisco",37.7876563622,-122.41844118
+63,2016-05-01 15:08:54,"UN Market, 900 Post St, San Francisco",37.787167,-122.416674
+64,2016-04-21 05:40:09,"Bed Bath & Beyond, 555 9th St, San Francisco",37.7712092024,-122.407772037
+65,2016-04-16 07:27:27,"Redwood Park - Skyline Gate, 8500 Skyline Blvd, Oakland",37.831684,-122.1853907
+66,2016-03-20 08:29:35,"The Alembic, 1725 Haight St, San Francisco",37.7694342346,-122.451149806
+67,2016-03-07 07:04:33,"Oyster Point Park, Oyster Point Park, South San Francisco",37.6637746837,-122.383802617
+68,2016-03-04 11:30:28,"The Chairman, 670 Larkin St, San Francisco",37.7840347606,-122.417559028
+69,2016-03-03 04:04:35,"Redford, 673 Geary St, San Francisco",37.786455,-122.414273
+70,2016-02-21 12:23:19,"Sichuan Home, 5037 Geary Blvd, San Francisco",37.7804203811,-122.473622561
+71,2016-02-16 05:09:32,"Roxanne's Cafe, 570 Powell St, San Francisco",37.7901074188,-122.408668087
+72,2016-02-05 16:23:42,"Americano Restaurant & Bar, 8 Mission St, San Francisco",37.7937933203,-122.392853332
+73,2016-01-24 04:25:00,"Belcampo Meat Co., 1998 Polk St, San Francisco",37.79491499,-122.42141068
+74,2016-01-23 10:04:03,"Oakland Museum of California, 1000 Oak St, Oakland",37.7982835458,-122.263835127
+75,2016-01-21 00:30:55,"Jersey, 145 2nd St, San Francisco",37.7874848362,-122.399076631
+76,2016-01-21 00:24:03,"Oola Restaurant & Bar, 860 Folsom St, San Francisco",37.7809613442,-122.4026113
+77,2016-01-20 06:36:15,"Top Therapy Massage, 811 Clay St, San Francisco",37.7941265293,-122.406470776
+78,2016-01-19 07:08:34,"Jane, 925 Larkin St, San Francisco",37.786475,-122.418342
+79,2015-11-25 09:45:51,"Atelier Emmanuel, 415 Stockton St Ste 400, San Francisco",37.7895251591,-122.406986603
+80,2015-11-22 06:56:24,"Former home of Dashiel Hammet & Sam Spade, 891 Post St, San Francisco",37.7870094077,-122.416394824
+81,2015-11-04 09:36:31,"Blick Art Materials, 979 Market St, San Francisco",37.7825110163,-122.409619441
+82,2015-10-19 06:50:23,"Maven, 598 Haight St, San Francisco",37.7719540082,-122.432089908
+83,2015-09-04 02:27:48,"Founders Space, 450 Townsend St, San Francisco",37.7746503327,-122.398418361
+84,2015-08-29 09:07:07,"Thai Idea Vegetarian Restaurant, 710 Polk St, San Francisco",37.7833960988,-122.419220997
+85,2015-08-29 08:32:45,"Thai Idea Vegetarian Restaurant, 710 Polk St, San Francisco",37.7833960988,-122.419220997
+86,2015-07-24 03:59:00,"Storenvy Pop-up Shop, 50 Post Street, San Francisco",37.7897020233,-122.403009566
+87,2015-06-28 10:55:20,"Bar Agricole, 355 11th St, San Francisco",37.771362,-122.412966
+88,2015-06-28 10:52:49,"Cup-A-Joe Coffee House, 896 Sutter St, San Francisco",37.7883954193,-122.415133806
+89,2015-06-28 10:50:30,"Village Pets, 1036 Hyde St, San Francisco",37.7904539221,-122.417379292
+90,2010-03-27 01:23:10,"US Post Office, 2339 N California Ave, Chicago",41.9239635015,-87.6973783143

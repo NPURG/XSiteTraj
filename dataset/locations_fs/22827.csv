@@ -1,0 +1,60 @@
+,time,poi,latitude,longitude
+0,2014-05-26 19:02:13,"Hotel Duque de Njera, C/ Gravina, 2, Rota",36.6161502833,-6.35802097089
+1,2014-05-26 18:56:50,"Restaurante Oriza, San Fernando 41, Sevilla",37.3814584594,-5.98934344102
+2,2014-01-22 07:34:37,"XOX Truffles, 754 Columbus Ave, San Francisco",37.8016859112,-122.41229093
+3,2014-01-21 10:10:15,"John's Grill, 63 Ellis St, San Francisco",37.7855386533,-122.407235509
+4,2014-01-11 23:56:20,"Brooklyn Diner, 155 W 43rd St, New York",40.7564859383,-73.9859270071
+5,2013-11-21 03:19:12,"Markt, 676 Avenue of the Americas, New York",40.7415808764,-73.993634408
+6,2013-10-23 09:00:46,"Hudson Hotel, 356 W 58th St, New York",40.7681671508,-73.9849456256
+7,2013-10-23 07:13:39,"Per Se, 10 Columbus Cir Ste 4, New York",40.768199777,-73.9822195395
+8,2013-10-23 00:46:39,"Jean-Georges, 1 Central Park W, New York",40.7688073964,-73.9814103149
+9,2013-10-22 19:51:06,"The Flame Restaurant, 893 9th Ave, New York",40.7684458312,-73.9852842315
+10,2013-09-07 22:08:20,"Parc Brasserie, 227 S 18th St, Philadelphia",39.9490278416,-75.1709459046
+11,2013-08-12 08:36:28,"R2L, 50 S 16th St Fl 37, Philadelphia",39.9515957403,-75.1673519611
+12,2013-08-10 22:16:49,"Parc Brasserie, 227 S 18th St, Philadelphia",39.9490278416,-75.1709459046
+13,2013-06-23 11:51:44,"Ritz at the Bourse, 400 Ranstead St, Philadelphia",39.9492444807,-75.147557746
+14,2013-06-16 08:45:17,"The Columns, 601 Ocean Ave, Avon-by-the-Sea",40.1931021531,-74.0094959736
+15,2013-06-14 01:17:07,"The Sea Grill, 19 W 49th St, New York",40.7583446056,-73.9786116779
+16,2013-06-14 00:50:21,"The Sea Grill, 19 W 49th St, New York",40.7583446056,-73.9786116779
+17,2013-06-13 07:49:38,"Aureole, 135 W 42nd St, New York",40.7554081431,-73.9855137944
+18,2013-06-09 02:25:36,"Markt, 676 Avenue of the Americas, New York",40.7415808764,-73.993634408
+19,2013-06-09 02:24:41,"Markt, 676 Avenue of the Americas, New York",40.7415808764,-73.993634408
+20,2013-06-08 11:01:15,"5 Napkin Burger, 630 9th Ave, New York",40.7602359899,-73.9912183462
+21,2013-05-28 09:20:13,"Bryant Park, E 42nd St, New York",40.7539968725,-73.9840445867
+22,2013-05-28 09:18:55,"Keens Steakhouse, 72 W 36th St, New York",40.7508659965,-73.9866439845
+23,2013-05-23 22:09:23,"Gaylord Opryland Resort and Convention Center, 2800 Opryland Dr, Nashville",36.2124860137,-86.6950853562
+24,2013-05-09 09:04:33,"Alma De Cuba, 1623 Walnut St, Philadelphia",39.9499389173,-75.1686830543
+25,2013-05-09 08:56:59,"Alma De Cuba, 1623 Walnut St, Philadelphia",39.9499389173,-75.1686830543
+26,2013-05-08 22:41:43,"The HUB City View, 30 S 17th St, Philadelphia",39.9520941687,-75.1695266396
+27,2013-04-02 22:17:18,"Drago Shoe Shine - Penn Station, 33rd Street, New York",40.7499023838,-73.9920390072
+28,2013-03-23 22:52:58,"Carnegie Deli, 854 7th Ave, New York",40.7640950956,-73.9810602238
+29,2013-03-23 22:31:39,"Carnegie Deli, 854 7th Ave, New York",40.7640950956,-73.9810602238
+30,2013-03-23 08:03:41,"Apple Fifth Avenue, 767 Fifth Avenue, New York",40.7638193428,-73.9727987498
+31,2013-03-23 06:57:04,"The Madison Room, The New York Palace, New York",40.7580199946,-73.9756193814
+32,2013-02-16 09:59:03,"Buddakan, 325 Chestnut St, Philadelphia",39.9487822439,-75.1471986026
+33,2013-01-26 23:30:41,"Galaxy Diner, 665 9th Ave, New York",40.760989,-73.990776
+34,2012-11-30 01:44:03,"XIX, 200 S Broad St, Philadelphia",39.9489865226,-75.1652573674
+35,2012-11-14 10:59:10,"Spigola Ristorante, 3817 Crosswicks Hamilton Sq Rd, Hamilton",40.1914859855,-74.6464733709
+36,2012-11-11 09:32:43,"Banzai Japanese Steakhouse, 3690 Quakerbridge Rd, Hamilton",40.2620074514,-74.6766901016
+37,2012-11-04 00:46:14,"Apple Walnut Street, 1607 Walnut Street, Philadelphia",39.950041,-75.167886
+38,2012-10-28 00:46:01,"Sunac Fancy Food, 765 Avenue of the Americas, New York",40.7444611359,-73.9916717188
+39,2012-10-27 11:34:25,"O'Reilly's, 21 W 35th St, New York",40.749658733,-73.9853473613
+40,2012-10-24 03:50:09,"NJT - Hamilton Station (NEC), 800 Sloan Ave, Hamilton",40.2554174238,-74.7038451857
+41,2012-09-28 21:00:42,"Hotel Rey Alfonso X Seville (Spain), C/ Ximenez de Enciso, 35, Sevilla",37.3867520654,-5.98805755274
+42,2012-09-28 20:59:35,"Hotel Rey Alfonso X Seville (Spain), C/ Ximenez de Enciso, 35, Sevilla",37.3867520654,-5.98805755274
+43,2012-09-23 22:23:41,"El 3 de Oro, C. Santa Mara La Blanca, 34, Sevilla",37.3858742086,-5.98692655563
+44,2012-08-15 08:17:59,"Trevi Fountain, Piazza di Trevi, Roma",41.9009474727,12.4833065271
+45,2012-08-04 08:17:52,"The Sea Grill, 19 W 49th St, New York",40.7583446056,-73.9786116779
+46,2012-06-23 22:23:28,"Go! Go! Curry!, 273 W 38th St, New York",40.754659052,-73.9914077298
+47,2012-06-23 22:19:05,"Baltimore Penn Station, 1515 N Charles St, Baltimore",39.3075345019,-76.6155392899
+48,2012-06-23 22:17:44,"Bloomingdale's, 1000 3rd Ave, New York",40.7622130523,-73.9674922671
+49,2012-06-23 22:14:53,"The Towers of the Waldorf Astoria New York, 100 E 50 St, New York",40.7566793232,-73.9736335504
+50,2012-06-23 09:03:23,"Bull & Bear Steakhouse, 301 Park Ave, New York",40.7560347593,-73.9728355408
+51,2012-03-06 08:42:35,"Trestle on Tenth, 242 10th Ave, New York",40.7483379947,-74.0039920807
+52,2012-02-09 09:29:42,"Earnestine and Hazel's, 531 S Main St, Memphis",35.1329741054,-90.0591473292
+53,2012-02-09 09:19:23,"Pearl's Oyster House, 299 Main St, Memphis",35.1380890137,-90.0566208953
+54,2012-02-08 21:45:30,"Newark Liberty Airport Station (Amtrak/NJT), Bessemer St, Newark",40.7045831509,-74.1904026767
+55,2012-02-07 06:12:30,"John Dory Oyster Bar, 1196 Broadway, New York",40.7458891424,-73.988521044
+56,2012-02-04 21:03:23,"Kimpton Ink48 Hotel, 653 11th Ave, New York",40.764505,-73.995987
+57,2012-01-08 03:17:03,"Almond, 12 E 22nd St, New York",40.7403368922,-73.9886817354
+58,2011-12-29 12:12:44,"Barnes & Noble, 1805 Walnut St, Philadelphia",39.9502139955,-75.1710319519

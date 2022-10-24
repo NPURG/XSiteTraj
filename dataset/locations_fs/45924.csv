@@ -1,0 +1,82 @@
+,time,poi,latitude,longitude
+0,2014-10-19 18:39:04,"Poppies Restaurant & Deli, 4900 Linton Blvd Ste 300, Delray Beach",26.4378560929,-80.1213135138
+1,2014-08-29 20:10:00,"Vigeland Sculpture Park, Frognerparken, Oslo",59.9262357538,10.7033189987
+2,2014-08-29 20:06:43,"Holmenkollen Nasjonalanlegg, Holmenkollveien 140, Oslo",59.964774596,10.6723809242
+3,2014-08-29 20:05:16,"Vikingskipshuset, Huk Aveny 35, Oslo",59.9048973159,10.6846064329
+4,2014-08-29 05:06:19,"Aker Brygge, Aker Brygge, Oslo",59.9102121744,10.727977469
+5,2014-08-28 06:17:25,"Green Beans Coffee Osteria, Terminal B Level 2, Newark",40.6913845347,-74.1772568211
+6,2014-08-24 08:02:28,"Best French Fries, 1153 Town Center Drive, Jupiter",26.8897510757,-80.114300251
+7,2014-08-18 04:38:38,"Rosalita's Tex Mex Grill, 5949 S Congress Ave, Lake Worth",26.5883854733,-80.0961769405
+8,2014-08-18 04:35:28,"Buffalo Wild Wings, 2837 S State Road 7, Wellington",26.6374098123,-80.2048074032
+9,2014-08-18 04:32:39,"SONIC Drive In, 6250 Lakeworth Road, Greenacres",26.61863335,-80.142798
+10,2014-08-18 04:30:32,"Tijuana Flats, 6201 S Jog Rd, Lake Worth",26.5865281653,-80.1465790204
+11,2014-08-18 04:28:46,"Outback Steakhouse, 6266 Lantana Rd, Lake Worth",26.589159,-80.143075
+12,2014-08-12 02:08:19,"Best French Fries, 1153 Town Center Drive, Jupiter",26.8897510757,-80.114300251
+13,2014-02-20 09:02:52,"Chevron, 4529 Hypoluxo Rd, Lake Worth",26.5722824843,-80.1139243744
+14,2013-11-23 04:21:09,"McDonalds, 6342 Lantana Rd, Lake Worth",26.5892030676,-80.14525432
+15,2013-08-06 08:47:39,"Wendy's, 15020 Jog Rd, Delray Beach",26.4533584833,-80.145754
+16,2013-08-06 05:00:45,"U.S. Post Office, 4300 S Jog Rd, Greenacres",26.614262622,-80.1464481867
+17,2013-03-14 02:04:23,"McDonalds, 6342 Lantana Rd, Lake Worth",26.5892030676,-80.14525432
+18,2013-03-07 08:54:34,"McDonald's, 710 NW 51st St, Boca Raton",26.3933971027,-80.1030440062
+19,2013-03-04 07:35:19,"Burger King, 6405 Lantana Road, Lake Worth",26.5899677831,-80.1460072064
+20,2013-01-27 08:02:26,"Tub Tim Thai, 441, Wellington",26.6192563333,-80.2065284
+21,2013-01-27 07:59:16,"Tub Tim Thai, 441, Wellington",26.6192563333,-80.2065284
+22,2013-01-14 02:52:55,"Margaritas, 6659 Lake Worth Rd, Lake Worth",26.6193339351,-80.1490484688
+23,2013-01-04 06:51:28,"Food Truck Invasion, 12150 Forest Hill Blvd, Wellington",26.6534946427,-80.236899123
+24,2012-12-23 00:07:03,"California Pizza Kitchen, 10300 Forest Hill Blvd., Ste. 197, Wellington",26.64711379,-80.20931934
+25,2012-12-04 09:17:30,"Chevron, 4529 Hypoluxo Rd, Lake Worth",26.5722824843,-80.1139243744
+26,2012-10-21 01:19:56,"Duffy's Sports Grill, 225 Clematis St, West Palm Beach",26.713363032,-80.0517978219
+27,2012-10-21 00:44:08,"Duffy's Sports Grill, 225 Clematis St, West Palm Beach",26.713363032,-80.0517978219
+28,2012-10-18 07:15:20,"Hotdog-Opolis, 6020 N Federal Hwy Ste 4, Boca Raton",26.4032622553,-80.0757688715
+29,2012-10-14 01:55:55,"Shorty's BBQ, 9858 Clint Moore Rd # C-136, Boca Raton",26.4074306347,-80.2024049395
+30,2012-10-02 05:53:47,"McDonald's, 710 NW 51st St, Boca Raton",26.3933971027,-80.1030440062
+31,2012-09-29 07:11:12,"Field of Greens, 10140 Forest Hill Blvd, West Palm Beach",26.6490894345,-80.205613657
+32,2012-09-16 23:11:08,"Best French Fries, 1153 Town Center Drive, Jupiter",26.8897510757,-80.114300251
+33,2012-09-16 23:10:08,"Best French Fries, 1153 Town Center Drive, Jupiter",26.8897510757,-80.114300251
+34,2012-09-03 02:23:43,"Bud's Chicken and Seafood, 4790 Lake Worth Rd, Greenacres",26.6182914522,-80.1180361953
+35,2012-08-06 04:43:57,"Boynton Beach Mall, 801 N Congress Ave, Boynton Beach",26.5355967214,-80.0956805706
+36,2012-07-29 10:47:54,"Kapow, 431 Plaza Real, Boca Raton",26.3554517852,-80.0854034349
+37,2012-07-09 02:06:20,"Spanish River Public Library, 1501 NW Spanish River Blvd, Boca Raton",26.3875914727,-80.1142624891
+38,2012-06-04 02:29:20,"Paragon Theaters Deerfield 8, 3984 W Hillsboro Blvd, Deerfield Beach",26.3160940256,-80.1588873966
+39,2012-06-03 06:58:00,"Kimura Japanese Steak & Seafood, 545 N Congress Ave, Boynton Beach",26.5325085408,-80.0911040145
+40,2012-05-19 01:41:09,"ROI Revolution, 5510 Six Forks Rd, Raleigh",35.8571634768,-78.6401535518
+41,2012-04-17 23:26:35,"Westgate South Beach, 3611 Collins Ave, Miami Beach",25.8098537444,-80.1232384029
+42,2012-01-23 07:37:54,"Chevron, 1730 S Military Trl, West Palm Beach",26.6519801694,-80.112048359
+43,2012-01-07 20:58:37,"Dunkin Donuts, 4430 Hypoluxo Rd, Lake Worth",26.5715991955,-80.1125282738
+44,2011-12-11 03:45:27,"VIP Car Wash, 5910 S Military Trl, Lake Worth",26.589839,-80.113974
+45,2011-12-11 03:44:21,"VIP Car Wash, 5910 S Military Trl, Lake Worth",26.589839,-80.113974
+46,2011-11-19 09:18:49,"Chevron, 1730 S Military Trl, West Palm Beach",26.6519801694,-80.112048359
+47,2011-10-29 06:15:29,"Starbucks, 3991 S Jog Rd, Greenacres",26.6189746902,-80.1478328331
+48,2011-10-10 22:32:25,"Five Guys, 301 N Parrott Ave, Okeechobee",27.2460232503,-80.8303478236
+49,2011-09-29 06:56:56,"Don Cafe, 136 N Military Trl, West Palm Beach",26.6791843592,-80.1118411222
+50,2011-09-16 03:50:06,"U.S. Post Office, 4300 S Jog Rd, Greenacres",26.614262622,-80.1464481867
+51,2011-09-05 09:47:37,"Planet Smoothie / Tasti D-Lite, 5050 Town Center Cir, Boca Raton",26.3630674423,-80.1234783294
+52,2011-09-05 09:09:59,"Rocco's Tacos and Tequila Bar, 5250 Town Center Cir, Boca Raton",26.3623224247,-80.123369272
+53,2011-08-30 09:07:54,"Joseph's Classic Market, 10479 Southern Blvd, Royal Palm Beach",26.6820950575,-80.2047311355
+54,2011-08-28 06:20:45,"Campagnolo's, 4115 State Road 7, Wellington",26.6172716487,-80.2072479319
+55,2011-08-08 20:36:29,"Fernanda's International Food Market, 3045 N Federal Hwy, Fort Lauderdale",26.1663812399,-80.117039
+56,2011-07-23 20:15:14,"Tires Plus, 5901 S. St. Rd. 7, Lake Worth",26.5928131153,-80.2064416935
+57,2011-07-09 07:20:50,"Bonefish Mac's Sports Grille, 10880 Forest Hill Blvd, Wellington",26.6507348945,-80.2190137851
+58,2011-06-19 07:04:23,"Tucci's Fire N Coal Pizza, 50 NE 1st Ave, Boca Raton",26.3510417712,-80.0856434669
+59,2011-06-19 06:44:12,"Tucci's Fire N Coal Pizza, 50 NE 1st Ave, Boca Raton",26.3510417712,-80.0856434669
+60,2011-06-19 06:43:45,"Tucci's Fire N Coal Pizza, 50 NE 1st Ave, Boca Raton",26.3510417712,-80.0856434669
+61,2011-05-08 00:30:05,"SKECHERS Factory Outlet, 1951 A North Military Trail, West Palm Beach",26.70572645,-80.11331904
+62,2011-04-24 06:09:57,"Tucci's Fire N Coal Pizza, 50 NE 1st Ave, Boca Raton",26.3510417712,-80.0856434669
+63,2011-03-13 02:19:36,"Bonefish Mac's Sports Grille, 10880 Forest Hill Blvd, Wellington",26.6507348945,-80.2190137851
+64,2011-03-13 02:19:14,"Bonefish Mac's Sports Grille, 10880 Forest Hill Blvd, Wellington",26.6507348945,-80.2190137851
+65,2011-01-02 07:57:32,"Joe's Crab Shack, 10 Blake Blvd, Kissimmee",28.3321391722,-81.5264189243
+66,2011-01-01 23:31:47,"Westgate Vacation Villas, 2770 N Old Lake Wilson Rd, Kissimmee",28.3308642728,-81.5982913971
+67,2010-11-14 23:58:29,"Willow Theatre, 300 S Military Trl, Boca Raton",26.3453326362,-80.126886304
+68,2010-10-30 10:19:45,"Nippers, 21069 S Military Trl, Boca Raton",26.3640278038,-80.1235219524
+69,2010-10-30 10:19:02,"Nippers, 21069 S Military Trl, Boca Raton",26.3640278038,-80.1235219524
+70,2010-10-09 07:03:58,"A Taste Of India, 7750 Okeechobee Blvd, West Palm Beach",26.7079761155,-80.1639835711
+71,2010-08-28 08:03:56,"Hurricane Grill & Wings, 11071 Southern Blvd, Royal Palm Beach",26.6821504835,-80.2258546631
+72,2010-08-21 07:52:34,"Mattress Firm, 551 N State Road 7, Royal Palm Beach",26.6785634071,-80.203625247
+73,2010-08-21 07:09:07,"Shane's Rib Shack, 11051 Southern Blvd, Royal Palm Beach",26.6829388586,-80.2249396731
+74,2010-08-08 07:56:07,"Carolina Ale House, 365 N Congress Ave, Boynton Beach",26.5297871552,-80.0910440103
+75,2010-07-25 00:35:22,"Field of Greens, 10140 Forest Hill Blvd, West Palm Beach",26.6490894345,-80.205613657
+76,2010-05-10 04:20:12,"Walgreens, 4529 W Hillsboro Blvd, Coconut Creek",26.31803437,-80.18570023
+77,2010-04-25 01:45:56,"Hotdog-Opolis, 6020 N Federal Hwy Ste 4, Boca Raton",26.4032622553,-80.0757688715
+78,2010-04-20 00:15:59,"Keith's Cafe, 15430 Endeavor Dr, Jupiter",26.905018,-80.298688
+79,2010-03-07 06:48:41,"Moe's Southwest Grill, 970 North Congress Ave, Boynton Beach",26.5361834934,-80.090220313
+80,2009-11-12 22:13:08,"Renaissance Las Vegas Hotel, 3400 Paradise Rd, Las Vegas",36.1274722338,-115.154393564

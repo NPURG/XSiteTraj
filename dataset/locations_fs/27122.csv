@@ -1,0 +1,89 @@
+,time,poi,latitude,longitude
+0,2016-09-02 21:47:27,"Hula-Hula Hvar, 60etali61te Tonija Petri07a, Hvar",43.1714452713,16.4312553406
+1,2016-08-21 22:10:13,"Brooklyn Bagel & Coffee Co., 286 8th Ave, New York",40.7462863349,-73.9976859778
+2,2016-05-01 00:00:28,"Arrogant Swine, 173 Morgan Ave, Brooklyn",40.7100580818,-73.9335509785
+3,2016-04-08 22:02:22,"La Brasilia, Ancha de San Antonio, San Miguel de Allende",20.9033956063,-100.749671
+4,2016-04-08 22:01:52,"Bar B, 84 7th Ave, New York",40.7393292965,-73.9990632625
+5,2015-08-31 00:36:52,"Fresh, 225 Main Street, Town of Cornwall",41.436102751,-74.032551181
+6,2015-07-22 19:26:22,"Taberna La Tana, C. Rosario, 11, Granada",37.1727776045,-3.59606887711
+7,2015-07-17 10:54:42,"Aerobs, Plaa de Catalunya, Barcelona",41.3875654104,2.17049986124
+8,2015-07-17 02:49:11,"Koku Kitchen Ramen, C. Carabassa, 19, Barcelona",41.3798134163,2.17940211296
+9,2015-07-15 19:51:39,"El Quim de la Boqueria, La Rambla, 91, Barcelona",41.381888449,2.17199670497
+10,2015-07-12 21:41:04,"Borda Berri, Fermin Calbeton, San Sebastin",43.323441,-1.983889
+11,2015-07-12 21:39:23,"La Cuchara de San Telmo, C/ 31 de Agosto, 28, San Sebastin",43.3244810868,-1.98526650667
+12,2015-07-12 01:26:01,"Gandarias, 31 de Agosto, 23 / Abuztuaren 31 kalea, 23, San Sebastin",43.3240486003,-1.98574183366
+13,2015-07-07 20:02:28,"Hoover's Cooking, 3600 Presidential Blvd, Austin",30.2022339121,-97.6662745414
+14,2015-06-19 01:44:55,"Bassanova Ramen, 76 Mott St, New York",40.7165728885,-73.9979786516
+15,2015-06-01 13:05:16,"Streetbird Rotisserie, 2149 Frederick Douglass Blvd, New York",40.8045248216,-73.9554100124
+16,2015-05-07 08:37:43,"Medieval Times Dinner & Tournament, 149 Polito Ave, Lyndhurst",40.8082114042,-74.106351795
+17,2015-05-01 02:52:15,"Han Dynasty, 215 W 85th St, New York",40.7875980613,-73.9764975025
+18,2015-04-12 00:57:07,"Haywood Cafe, 23110 US Highway 6, Keystone",39.6086721513,-105.949423313
+19,2015-04-06 04:19:26,"Pok Pok NY, 117 Columbia St, Brooklyn",40.6875900992,-74.0012830496
+20,2015-04-06 04:18:36,"Little Italy Pizza, 2476 Broadway, New York",40.7921092324,-73.9736852052
+21,2015-04-06 04:17:42,"Husk, 37 Rutledge St, Nashville",36.1554792313,-86.7697834969
+22,2015-02-17 05:58:31,"Cosme, 35 E 21st St, New York",40.7393455445,-73.9883660915
+23,2015-02-17 05:57:30,"US Post Office, 450 Lexington Ave, New York",40.7528304361,-73.9749593532
+24,2015-02-17 05:57:07,"Contra, 138 Orchard St, New York",40.7199369963,-73.9892384153
+25,2015-02-17 05:56:18,"Schatzie The Butcher, 555 Amsterdam Ave, New York",40.7881404719,-73.9745231593
+26,2015-01-14 07:24:41,"Iron Bar, 5 Macrossan St., Port Douglas",-16.4812265361,145.462779701
+27,2015-01-11 18:19:38,"The Little Larder, 48 Macrossan St, Port Douglas",-16.4833770034,145.465045524
+28,2015-01-09 15:35:35,"Khmer Saravan, Sisowath Quay, Phnum Pnh",11.567675,104.931081
+29,2015-01-07 11:29:03,"Peace Cafe, Street 26 off River Road, Si15mrab",13.3539634671,103.858094215
+30,2015-01-04 21:53:26,"Tong Tem Toh, 11 Nimmana Haeminda Lane 13, 4021372d07400a352207432b2148",18.796711748,98.9676332474
+31,2014-12-21 11:39:56,"Lantern, 423 W Franklin St, Chapel Hill",35.9103535743,-79.0622297944
+32,2014-12-19 00:56:30,"Mateo, 107 W Chapel Hill St, Durham",35.996925041,-78.9048796818
+33,2014-12-08 11:00:09,"Opai Thai, 722 Amsterdam Ave, New York",40.79344,-73.970709
+34,2014-12-08 10:59:46,"Jacob's Pickles, 509 Amsterdam Ave, New York",40.7866260713,-73.9755231142
+35,2014-12-08 10:59:05,"Agave, 140 7th Ave S, New York",40.7347432141,-74.0021506396
+36,2014-12-08 10:57:51,"White Bear 7d8a, 135-02 Roosevelt Ave, Flushing",40.7588060265,-73.8317728043
+37,2014-12-08 10:55:37,"Dumpling Galaxy 7e0312, 42-35 Main St, Flushing",40.7547091598,-73.8278950469
+38,2014-11-08 03:56:40,"EMPOWER Leadership Sports & Adventure Center, 2011 S Main St, Middletown",41.504686,-72.672294
+39,2014-10-19 23:10:10,"Olive et Gourmando, 351, rue Saint-Paul Ouest, Montral",45.501277,-73.556339
+40,2014-09-28 08:11:30,"Augustiner-Keller, Arnulfstr. 52, Mnchen",48.143319395,11.5515284612
+41,2014-09-07 11:13:00,"The Parlour, 250 W 86th St, New York",40.7884995386,-73.9768361232
+42,2014-09-07 06:55:09,"McAleer's Pub & Restaurant, 425 Amsterdam Ave, New York",40.7840318155,-73.9777429352
+43,2014-09-03 02:24:47,"Dig Inn, 2884 Broadway, New York",40.805592921,-73.9656326249
+44,2014-08-22 19:56:08,"Pinky Beach, a0bbb9bdc4c1af, 9ccdbabfbdbfc2",37.4148802775,25.3684143253
+45,2014-08-22 02:42:50,"MotoTrust Car & Bike Rental, 93bbb1c3c4c1ccc2, 9ccdbabfbdbfc2",37.4269523621,25.3366069794
+46,2014-08-22 02:41:51,"Jimmy's, 9bacbabab1, 9ccdbabfbdbfc2",37.444846,25.327672
+47,2014-08-14 23:58:44,"Tenoch Mvil Food Truck, 3 Lewis St, Boston",42.3529143214,-71.0553917068
+48,2014-08-10 20:53:21,"Peter Luger Steak House, 178 Broadway, Brooklyn",40.710044192,-73.9624757839
+49,2014-08-10 02:39:58,"US Post Office - Cathedral Station, 215 W 104th St, New York",40.7996139768,-73.9675998688
+50,2014-08-09 09:16:56,"Pier I Cafe, W. 70th St, New York",40.7798265111,-73.9888858795
+51,2014-08-09 02:51:40,"Casa Lever, 390 Park Ave, New York",40.7593184783,-73.9730366492
+52,2014-08-08 23:19:11,"orlulu Ali Pa5fa Medresesi, Beyaz31t Mah. Yenieriler Cad. Bileyciler Sok. Eminn, Fatih",41.0090465752,28.9684570823
+53,2014-08-08 06:12:28,"Marine Air Terminal, LGA Airport, Flushing",40.7736725825,-73.8843189621
+54,2014-05-26 05:34:00,"The Decadente, R. So Pedro de Alcntara, 81, Lisboa",38.7148485979,-9.14474235754
+55,2014-05-25 18:51:14,"Po de Canela, Praa das Flores, 27, Lisboa",38.7150475516,-9.15187719136
+56,2014-05-23 17:15:50,"Bar Charlot, 33-39 rue Mitant Four, Seillans",43.635791,6.643994
+57,2014-05-16 23:16:36,"Socit Nouvelle New-Pop, 38 boulevard Saint-Michel, Paris",48.8495784064,2.34189004594
+58,2014-03-19 08:26:35,"Caliente Restaurant, Barrier Reef Drive, San Pedro",17.9185952468,-87.9619503021
+59,2014-02-20 02:51:46,"Westville Chelsea, 246 W 18th St, New York",40.74204,-73.99999
+60,2013-10-13 08:52:49,"Bonchon Chicken, 207 W 38th St, New York",40.753788,-73.989002
+61,2013-09-14 23:11:54,"Lauren's Closet, 150 W 82nd St, New York",40.784555,-73.976038
+62,2013-08-14 00:23:50,"Belleclaire Cleaners, 2475 Broadway, New York",40.7934133149,-73.9715443882
+63,2013-07-01 23:59:09,"Vera Bistro, Nevizade Sk. No:1 Beyo1fl, 30stanbul",41.0346892477,28.9773201099
+64,2013-06-29 17:59:11,"Soo Caf, 2815 Brentwood Rd, Raleigh",35.8173955663,-78.5961914062
+65,2013-06-28 03:45:24,"New World Coffee House, 4112 Pleasant Valley Rd #124, Raleigh",35.86024235,-78.7045907744
+66,2013-06-25 23:29:48,"US Post Office, 1 Floretta Pl, Raleigh",35.9076487875,-78.7498283386
+67,2013-06-09 05:20:02,"Leopold's Ice Cream, 212 E Broughton St, Savannah",32.0783928957,-81.0894012451
+68,2013-04-17 23:34:54,"Deerwood Bistro, 8221 Southside Blvd, Jacksonville",30.2194084199,-81.5510591736
+69,2012-12-01 07:58:04,"Patton Park, 1705 Hodges Blvd, Jacksonville",30.2971980184,-81.4658836598
+70,2012-11-26 00:09:16,"Portobello Diner, 13023 Park Blvd, Seminole",27.8441136329,-82.8190612793
+71,2012-11-08 10:59:48,"Black Sheep Restaurant, 1534 Oak St, Jacksonville",30.3128433147,-81.6807850823
+72,2011-11-30 00:51:07,"Fremont Marriott Silicon Valley, 46100 Landing Pkwy, Fremont",37.4890635551,-121.946113938
+73,2011-11-26 01:16:09,"China Beach, 1 Sea Horse Lane, Lucaya, Freeport",26.5107399101,-78.6406522371
+74,2011-10-13 22:55:14,"First Eye Care, 2102 S W S Young Dr, Killeen",31.095288,-97.720744
+75,2011-09-09 23:45:58,"The Loop Pizza Grill, 8221 Southside Blvd, Jacksonville",30.2201745344,-81.551203802
+76,2011-08-29 02:05:11,"Merchant, 121 S Pinckney St, Madison",43.074265133,-89.3810523453
+77,2011-07-03 23:28:20,"Lul""s, 2110 Spencerville Rd, Lima",40.730735,-84.137571
+78,2011-05-23 02:49:19,"Publix, 408 Beach Blvd Ste 100, Jacksonville Beach",30.28831,-81.39345
+79,2011-05-08 07:14:25,"Bojangles' Famous Chicken 'n Biscuits, 13559 Beach Blvd, Jacksonville",30.2882466261,-81.4602097379
+80,2011-04-25 06:15:58,"Oak Street Beach Cafe, Concourse B, Chicago",41.7869290368,-87.7453136444
+81,2011-04-21 10:56:10,"Congress, 200 Congress Ave, Austin",30.2646143813,-97.7441608822
+82,2011-03-05 12:17:27,"Old Pecan Street Cafe, 504B Trinity St, Austin",30.2666010617,-97.7396857738
+83,2010-12-27 00:01:45,"Cracker Barrel Old Country Store, 1930 Roschman Drive I-75 & SR 309, Lima",40.72700617,-84.07410764
+84,2009-12-03 10:44:51,"Tacodeli, 12001 N MO Pac Expy, Austin",30.4077838551,-97.7133464813
+85,2009-12-02 07:49:06,"404 Rio Grande Apartments, 404 Rio Grande St, Austin",30.2688157023,-97.7502536774
+86,2009-11-07 07:57:18,"Milltown, 307 E Main St, Carrboro",35.9109634274,-79.0681494895
+87,2009-11-07 04:19:42,"Carolina Brewery, 460 W Franklin St., Chapel Hill",35.9106554579,-79.0627241135

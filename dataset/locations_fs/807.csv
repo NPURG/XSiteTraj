@@ -1,0 +1,71 @@
+,time,poi,latitude,longitude
+0,2015-06-29 02:46:18,"New Belgium Brewing, 500 Linden St, Fort Collins",40.592969181,-105.068693161
+1,2015-06-27 09:15:43,"Ace Gillett's Lounge, 239 S. College, Fort Collins",40.5844140662,-105.077430166
+2,2015-04-19 22:23:53,"White Dog Cafe, 200 W Lancaster Ave, Wayne",40.0439717244,-75.3914326955
+3,2015-04-12 10:15:32,"Karczma, 136 Greenpoint Ave, Brooklyn",40.7301240813,-73.9550943139
+4,2015-04-11 09:19:32,"The Bounty, 131 Greenpoint Ave, Brooklyn",40.730149465,-73.9546982551
+5,2015-03-02 03:24:38,"The Diamond, 43 Franklin St, Brooklyn",40.726805,-73.957422
+6,2015-03-02 03:24:12,"Rough Trade, 64 N 9th St, Brooklyn",40.7207966836,-73.9599099755
+7,2015-03-02 03:23:28,"Urban Outfitters - Space Ninety 8, 98 N 6th St, Brooklyn",40.7185250581,-73.9605299961
+8,2015-03-02 03:22:58,"The Gutter, 200 N 14th St, Brooklyn",40.7226939236,-73.9555592515
+9,2015-03-02 03:22:21,"City Ice Pavilion, 47-32 32nd Pl, Queens",40.7415374438,-73.9334935723
+10,2015-03-02 03:21:59,"John F. Kennedy International Airport (JFK), at JFK Access Rd, Queens",40.644333533,-73.7834107385
+11,2015-03-02 03:21:39,"West Bay Golf Club, 4500 W Bay Blvd, Estero",26.4233334523,-81.8352039498
+12,2015-03-02 03:21:27,"7-Eleven, 4520 Bonita Beach Rd, Bonita Springs",26.331011,-81.827686
+13,2015-03-02 03:20:49,"Bay Water Boat Club, Bonita Beach Rd, Bonita Springs",26.3306655314,-81.8362658281
+14,2015-03-02 03:20:27,"Bass Pro Shops Outdoor World, 10040 Gulf Center Dr, Fort Myers",26.4879365276,-81.7916056244
+15,2015-03-02 03:20:05,"Chick-fil-A, 21900 S Tamiami Trl, Estero",26.42204291,-81.81214832
+16,2015-03-02 03:19:43,"Mashable HQ, 114 5th Ave, New York",40.7378807083,-73.9924579447
+17,2015-03-02 03:19:20,"Spritzenhaus 33, 33 Nassau Ave, Brooklyn",40.7232177517,-73.9527511597
+18,2015-03-02 03:18:38,"Samurai Mama, 205 Grand St, Brooklyn",40.7141376034,-73.9601052493
+19,2015-03-02 03:17:53,"Highline Stages, 440 W 15th St, New York",40.7421879392,-74.0066955355
+20,2015-03-02 03:17:36,"Shades of Green, 125 E 15th St, New York",40.7345414912,-73.9878725381
+21,2015-03-02 03:16:59,"Alewife NYC, 5-14 51st Ave, Queens",40.7422010764,-73.9558196068
+22,2015-03-02 03:16:13,"From The Source, 69 West St, Brooklyn",40.728547807,-73.9590376382
+23,2015-03-02 03:15:26,"Calexico, 645 Manhattan Ave, Brooklyn",40.7241487005,-73.9510935082
+24,2013-10-14 07:00:06,"Three Muses, 536 Frenchmen St, New Orleans",29.96334093,-90.057785
+25,2013-10-14 06:56:21,"The Spotted Cat Music Club, 623 Frenchmen St, New Orleans",29.9640614215,-90.0577518415
+26,2013-09-06 07:46:34,"DoubleTree Club by Hilton Hotel Boston Bayside, 240 Mt. Vernon St, Boston",42.3202693685,-71.0478892922
+27,2013-08-31 05:55:58,"Pencil Factory, 142 Franklin St, Brooklyn",40.729831,-73.9575630426
+28,2011-10-17 23:01:04,"The Daily Beast, IAC Building / 555 W. 18 St., New York",40.7457113531,-74.0075677759
+29,2011-07-23 11:48:50,"Harp & Hound Pub, 4 Pearl St, Mystic",41.3549392167,-71.9707489014
+30,2011-03-31 02:56:54,"Two Elk Restaurant, 12000 Skyline Dr, Vail",39.6062562502,-106.33227514
+31,2010-09-29 07:12:07,"Dancing with the Stars, 7800 Beverly Blvd, Los Angeles",34.0748594247,-118.357834254
+32,2010-09-05 05:59:18,"Camp Taylor, 85 Mount Pleasant Rd, Columbia",40.9711672208,-75.0723706848
+33,2010-09-05 05:56:54,"Camp Taylor, 85 Mount Pleasant Rd, Columbia",40.9711672208,-75.0723706848
+34,2010-08-03 10:49:14,"The Levee, 212 Berry St, Brooklyn",40.7164318544,-73.9615057623
+35,2010-07-05 23:35:07,"Ragemagansett, 45 Seabreeze Lane, Amagansett",40.975737,-72.117184
+36,2010-07-05 23:34:39,"Ragemagansett, 45 Seabreeze Lane, Amagansett",40.975737,-72.117184
+37,2010-07-04 07:36:34,"Ragemagansett, 45 Seabreeze Lane, Amagansett",40.975737,-72.117184
+38,2010-06-25 10:18:42,"Brooklyn Bowl, 61 Wythe Ave, Brooklyn",40.7219178735,-73.9575452688
+39,2010-05-30 04:53:55,"Stamford Museum & Nature Center, 39 Scofieldtown Rd, Stamford",41.1251112755,-73.5457501346
+40,2010-05-10 09:31:56,"M Noodle Shop, 549 Metropolitan Ave, Brooklyn",40.7140076056,-73.9506859609
+41,2010-04-25 02:31:57,"t.b.d., 224 Franklin St, Brooklyn",40.7333174186,-73.9577920845
+42,2010-04-24 00:54:19,"Lil' Frankie's, 19 1st Ave, New York",40.7234688128,-73.9882972237
+43,2010-03-31 10:39:33,"Lucky Dog, 303 Bedford Ave, Brooklyn",40.713517,-73.961712
+44,2010-03-18 10:11:46,"Sal's Pizzeria, 544 Lorimer St, Brooklyn",40.713123,-73.9492052794
+45,2010-03-14 08:24:21,"Whole Foods Market, 4 Union Square South, New York",40.7349983559,-73.991109307
+46,2010-03-14 08:22:41,"B's Bikes, 262 Driggs Ave, Brooklyn",40.7226088777,-73.9483210218
+47,2010-03-07 06:52:21,"Iona, 180 Grand St, Brooklyn",40.7144081299,-73.9610637982
+48,2010-02-11 09:50:45,"Turkey's Nest, 94 Bedford Ave, Brooklyn",40.7206650151,-73.9547786149
+49,2010-01-11 01:47:00,"Enid's, 560 Manhattan Ave, Brooklyn",40.7222968282,-73.9498421631
+50,2010-01-06 11:29:44,"Osaki's Sushi & Japanese Cuisine, 100 E Meadow Dr, Vail",39.6424537897,-106.37733
+51,2009-12-03 12:33:52,"Taco Bell, 2 Penn Plz, New York",40.7508169866,-73.9935529232
+52,2009-11-26 03:29:11,"New York Penn Station (NYP), 1 Penn Plz, New York",40.7503966129,-73.9925153333
+53,2009-11-11 01:58:02,"Chase Bank, 214 Broadway, New York",40.7109060382,-74.0089622046
+54,2009-11-11 01:57:10,"Chase Bank, 214 Broadway, New York",40.7109060382,-74.0089622046
+55,2009-10-31 10:19:05,"Sky Rink at Chelsea Piers, 61 Chelsea Piers, New York",40.747521899,-74.0098229579
+56,2009-10-15 21:19:15,"Dean & DeLuca, 560 Broadway, New York",40.7241542205,-73.9977089326
+57,2009-10-10 08:58:51,"Brooklyn Brewery, 79 N 11th St, Brooklyn",40.7216651906,-73.9576658067
+58,2009-10-05 03:20:12,"Brooklyn Brewery, 79 N 11th St, Brooklyn",40.7216651906,-73.9576658067
+59,2009-10-02 02:07:03,"Cafe Duke, 545 Broadway, New York",40.7237093569,-73.9985123498
+60,2009-09-24 09:01:23,"San Loco, 637 Driggs Ave, Brooklyn",40.7152505553,-73.9585841887
+61,2009-09-21 04:45:54,"t.b.d., 224 Franklin St, Brooklyn",40.7333174186,-73.9577920845
+62,2009-09-19 09:47:51,"Kellogg's Diner, 518 Metropolitan Ave, Brooklyn",40.7138235083,-73.951598636
+63,2009-09-03 12:16:36,"Yola's Cafe, 524 Metropolitan Ave, Brooklyn",40.7141022056,-73.9510774612
+64,2009-08-23 04:23:21,"Calexico Carne Asada, 122 Union St, Brooklyn",40.6841487302,-74.0025651455
+65,2009-07-25 08:16:04,"Fette Sa, 354 Metropolitan Ave, Brooklyn",40.71411847,-73.9563989639
+66,2009-07-13 07:03:54,"McCarren Park, 780 Lorimer St, Brooklyn",40.7207882001,-73.9525974076
+67,2009-06-24 10:34:10,"Bushwick Country Club, 618 Grand St, Brooklyn",40.7112508415,-73.9474485126
+68,2009-06-12 00:59:05,"Terminal 5, John F. Kennedy International Airport, New York",40.6458086031,-73.7755341878
+69,2009-03-17 08:25:43,"Brooklyn Brewery, 79 N 11th St, Brooklyn",40.7216651906,-73.9576658067

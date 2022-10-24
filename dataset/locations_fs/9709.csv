@@ -1,0 +1,162 @@
+,time,poi,latitude,longitude
+0,2016-09-25 06:39:11,"Darwin Cafe, 212 Ritch St, San Francisco",37.780679,-122.396086
+1,2016-07-19 10:41:51,"House of Nanking, 919 Kearny St, San Francisco",37.796496774,-122.405122558
+2,2016-07-12 03:59:22,"Firecakes Donuts, 68 W Hubbard St, Chicago",41.8900090739,-87.6306618712
+3,2016-07-08 21:39:14,"Mocha Moment, 1121 Center Ave, Janesville",42.6646849578,-89.0307557111
+4,2016-07-07 12:03:08,"Tropisueo, 75 Yerba Buena Ln, San Francisco",37.7855526675,-122.403966502
+5,2016-07-05 07:03:21,"Cookiebar Creamery, 1606 Webster St, Alameda",37.7754374505,-122.276573438
+6,2016-07-05 05:29:15,"Mijita Cocina Mexicana, 1 Ferry Building, San Francisco",37.7956041003,-122.393185251
+7,2016-07-03 10:31:53,"Southern Pacific Brewing, 620 Treat Ave, San Francisco",37.7601605144,-122.414027638
+8,2016-05-29 03:02:36,"Big Bottom Market, 16228 Main St, Guerneville",38.5020933167,-122.9980397
+9,2016-05-28 11:10:31,"Guerneville Taco Truck, 16632 Main St, Guerneville",38.5014731883,-123.000983096
+10,2016-05-11 11:57:07,"Tortilla Jo's, 1510 S. Disneyland Drive, Anaheim",33.80940696,-117.9236448
+11,2016-05-02 11:51:47,"Farmer Brown, 25 Mason St, San Francisco",37.7835314475,-122.409176952
+12,2016-04-24 04:51:04,"Java Beach Cafe, 1396 LA Playa St, San Francisco",37.7604480132,-122.5089553
+13,2016-04-08 07:28:27,"The Smith, 55 3rd Ave, New York",40.7311558721,-73.9887276473
+14,2016-03-30 12:54:56,"Lambert's Downtown BBQ, 401 W 2nd St, Austin",30.2653199434,-97.7476303952
+15,2016-03-15 10:45:35,"Blowfish Sushi to Die For, 2170 Bryant St, San Francisco",37.75963095,-122.410067
+16,2016-03-12 11:07:37,"Splash Caf Pismo Beach, 197 Pomeroy Ave, Pismo Beach",35.1400900655,-120.642328262
+17,2016-03-03 12:25:00,"Facebook NYC, 770 Broadway, New York",40.7305749808,-73.9912585185
+18,2016-03-03 12:13:26,"W New York - Union Square, 201 Park Ave S, New York",40.7365385901,-73.9889112944
+19,2016-02-29 13:03:18,"Five Leaves, 18 Bedford Ave, Brooklyn",40.7237462687,-73.9516568184
+20,2016-02-29 02:31:59,"Maison Kayser, 921 Broadway, New York",40.7401246318,-73.9895253631
+21,2016-02-29 02:08:24,"Doughnut Plant, 220 W 23rd St, New York",40.744493979,-73.996561188
+22,2016-02-28 07:05:45,"The Belfry, 222 E 14th St, New York",40.7328624541,-73.9863000455
+23,2016-02-25 04:52:27,"Granary Square, Granary Sq, London",51.5352078641,-0.124961154902
+24,2016-02-25 04:49:00,"St. Pancras Renaissance Hotel London, Euston Road, City of London",51.5299188073,-0.125581026077
+25,2016-02-22 16:14:46,"The Delaunay, 55 Aldwych, London",51.5130670105,-0.118029851382
+26,2016-01-25 09:58:17,"Boxcar Coffee Roasters, 1825 Pearl St, Boulder",40.01975548,-105.271416
+27,2016-01-25 09:52:07,"Alpine Modern Cafe, 904 College Ave, Boulder",40.0071429024,-105.281779169
+28,2016-01-24 08:33:11,"Illegal Pete's, 1447 Pearl St, Boulder",40.0187881368,-105.276086409
+29,2016-01-12 15:37:34,"Vero, 530 Bryant St, Palo Alto",37.4454538664,-122.161086684
+30,2016-01-11 08:41:23,"JJ Ice Cream, 1152 Irving St, San Francisco",37.763953,-122.470606
+31,2016-01-08 04:28:54,"Ship Happens, 11 Network Cir, Menlo Park",37.4841711771,-122.148911274
+32,2016-01-02 04:18:14,"Blue Bottle Coffee, 1 Ferry Building Ste 7, San Francisco",37.7959047563,-122.393937596
+33,2016-01-02 04:11:17,"Noble Folk Ice Cream & Pie Bar, 116 Matheson St, Healdsburg",38.6104478294,-122.869707819
+34,2016-01-02 03:58:01,"Tin Pot Creamery, 855 El Camino Real #121, Palo Alto",37.438691,-122.159028
+35,2016-01-01 07:52:50,"Mayfield Bakery & Cafe, 855 El Camino Real Ste 110, Palo Alto",37.4382000337,-122.158744633
+36,2015-12-21 03:41:11,"Spirit Bar, 25 Matheson St, Healdsburg",38.610578327,-122.870957768
+37,2015-12-21 02:06:13,"Hotel Healdsburg, 25 Matheson St, Healdsburg",38.6105173257,-122.870946756
+38,2015-12-20 05:29:13,"Noble Folk Ice Cream & Pie Bar, 116 Matheson St, Healdsburg",38.6104478294,-122.869707819
+39,2015-11-08 07:04:56,"Mazarine Coffee, 720 Market St, San Francisco",37.7873762065,-122.403817154
+40,2015-10-26 06:16:19,"The Vestry, 777 Valencia St, San Francisco",37.7606176526,-122.421421409
+41,2015-10-18 11:30:32,"Spruce, 3640 Sacramento St, San Francisco",37.7876247868,-122.452731064
+42,2015-10-06 08:17:29,"Swich, 2045 Irving St, San Francisco",37.7634754467,-122.479984644
+43,2015-09-08 07:06:10,"The Mill, 736 Divisadero St, San Francisco",37.7763288173,-122.438024282
+44,2015-07-01 23:40:20,"Philz Coffee, 1601 Willow Rd, Menlo Park",37.4852111495,-122.148013115
+45,2015-06-24 08:05:35,"Sunol Ridge Restaurant & Bar, 1388 Locust St, Walnut Creek",37.8988668345,-122.061896985
+46,2015-06-09 03:23:29,"Chocolaterie Jacques Genin, 133 rue de Turenne, Paris",48.864432447,2.36448526382
+47,2015-06-09 02:58:42,"Gelateria Azzurro, 1, rue Sainte-Rparate, Nice",43.6968805963,7.27594168147
+48,2015-06-06 07:01:03,"Brioche Dore, 144 avenue des Champs-lyses, Paris",48.8727160101,2.29833496081
+49,2015-06-06 06:56:43,"Eric Kayser, 8 rue Monge, Paris",48.8490839771,2.34981873324
+50,2015-06-06 06:50:36,"Fromagerie Laurent Dubois, 47 ter boulevard Saint-Germain, Paris",48.8500588156,2.348668
+51,2015-06-06 06:48:30,"Les Deux Magots, 6 place Saint-Germain-des-Prs, Paris",48.8540650993,2.33307123184
+52,2015-06-02 04:10:22,"Caf Gustave, 23 avenue de la Bourdonnais, Paris",48.8591125379,2.2979169702
+53,2015-06-01 16:13:32,"Nespresso, 119 avenue des Champs-lyses, Paris",48.8724609305,2.29863493225
+54,2015-05-07 06:17:46,"House of Bagels, 605 Laurel St, San Carlos",37.5063094028,-122.260993722
+55,2015-04-02 11:25:02,"Pour la France!, Concourse B Center Core, Denver",39.8586716318,-104.673737032
+56,2015-03-27 14:36:48,"Taco Loco, 640 S Coast Hwy #1, Laguna Beach",33.5389038291,-117.780481515
+57,2015-03-23 05:24:53,"Jack's Urban Eats, 2756 E Bidwell St #100, Folsom",38.6558514833,-121.122405
+58,2015-02-12 13:51:32,"Sinful Bliss, 35 Crescent Dr Ste D, Pleasant Hill",37.9464990117,-122.061602881
+59,2015-01-20 11:14:26,"Freshroll Vietnamese Rolls & Bowls, 157 4th St, San Francisco",37.7838514858,-122.403512926
+60,2014-12-24 14:24:57,"ABV, 3174 16th St, San Francisco",37.7649449576,-122.423645382
+61,2014-12-03 08:28:48,"Chipotle Mexican Grill, 121 4th St, San Francisco",37.7842319035,-122.403681278
+62,2014-11-30 08:03:06,"Pancho Villa Taqueria, 3071 16th St, San Francisco",37.7648903173,-122.421088815
+63,2014-10-22 07:34:42,"Gordon Biersch, Terminal 3, San Francisco",37.617970758,-122.387824059
+64,2014-09-19 09:44:16,"Hacienda Colorado, 10422 Town Center Dr, Westminster",39.8869287333,-105.07353723
+65,2014-09-07 13:47:09,"Cako Bakery, 135 4th St, San Francisco",37.7844099245,-122.403385704
+66,2014-09-04 12:05:35,"Yumi Yogurt, 947 El Camino Real, Redwood City",37.4849351386,-122.233251428
+67,2014-09-01 07:43:52,"Sightglass Coffee, 270 7th St, San Francisco",37.7770249037,-122.408529808
+68,2014-08-31 10:07:41,"Tsunami, 301 King St, San Francisco",37.775936,-122.393676
+69,2014-08-23 00:57:34,"Denver Marriott Westminster, 7000 Church Ranch Blvd, Westminster",39.883685923,-105.074695728
+70,2014-08-15 11:54:54,"Tai-Gun, 535 Zang St, Broomfield",39.9276292399,-105.133807445
+71,2014-08-13 14:28:49,"Acorn, 3350 Brighton Blvd, Denver",39.7686501455,-104.979903706
+72,2014-07-31 11:37:13,"Natoma Cabana, 90 Natoma St, San Francisco",37.7875048227,-122.398450971
+73,2014-07-16 14:45:52,"Black Cat, 1964 13th St, Boulder",40.017799,-105.27849
+74,2014-07-14 05:51:31,"House Of Bagels, 5030 Geary Blvd, San Francisco",37.7807553281,-122.47344017
+75,2014-07-09 09:28:52,"The Cellar at Beecher's, 900 Broadway, New York",40.7390777833,-73.9897319652
+76,2014-07-06 12:30:19,"The Lounge, 14 Fig St, Santa Barbara",34.4165131536,-119.696151742
+77,2014-06-27 09:51:01,"Tai-Gun, 535 Zang St, Broomfield",39.9276292399,-105.133807445
+78,2014-04-28 07:00:34,"Cowgirl Creamery Sidekick Cafe & Milk Bar, 1 Ferry Building #19, San Francisco",37.7955254055,-122.393574715
+79,2014-04-18 10:14:35,"The Willows, 1582 Folsom St, San Francisco",37.7709894099,-122.414990005
+80,2014-03-30 12:01:19,"Baja Sharkeez, 525 State St, Santa Barbara",34.417365964,-119.696570375
+81,2014-03-17 03:17:27,"Philz Coffee, 201 Berry St, San Francisco",37.7758355208,-122.393461849
+82,2014-03-15 02:51:03,"Rock Bottom Brewery, 10633 Westminster Blvd, Westminster",39.8892535058,-105.069329741
+83,2014-02-15 12:22:58,"Blowfish Sushi to Die For, 2170 Bryant St, San Francisco",37.75963095,-122.410067
+84,2014-02-14 11:39:08,"East Moon Asian Bistro & Sushi, 10431 Town Center Dr Ste 101C, Broomfield",39.8866103983,-105.075123873
+85,2014-02-14 04:23:17,"Brasserie Ten Ten, 1011 Walnut St, Boulder",40.016508,-105.282106
+86,2014-02-03 10:21:16,"Miette Patisserie, 1 Ferry Building Ste 10, San Francisco",37.7958009385,-122.393832207
+87,2014-01-12 08:29:34,"The Sycamore, 2140 Mission St, San Francisco",37.7627158279,-122.419635791
+88,2014-01-06 09:21:32,"Just Desserts, Terminal 3 Food Court, San Francisco",37.6200655971,-122.387498235
+89,2014-01-06 09:17:29,"Andal Mexican Restaurant, Terminal 3, San Francisco",37.620029899,-122.387713993
+90,2014-01-06 09:12:26,"Fung Lum, Terminal 3, San Francisco",37.6195344273,-122.387480736
+91,2013-12-21 02:39:23,"Zero Zero, 826 Folsom St, San Francisco",37.7816711248,-122.401771545
+92,2013-12-06 05:02:52,"Rosati's Pizza Broomfield, 2055 W 136th Ave, Broomfield",39.9441629452,-105.012375562
+93,2013-11-23 10:40:13,"Rock Bottom Brewery, 10633 Westminster Blvd, Westminster",39.8892535058,-105.069329741
+94,2013-11-22 16:20:05,"The Curtis Club, 2100 Curtis St, Denver",39.7518735293,-104.988473221
+95,2013-11-18 06:59:19,"The Coffee Store, 5095 Napilihau St, Lahaina",20.985232923,-156.667049139
+96,2013-11-18 04:03:42,"Alan Wong's Amasia, 3850 Wailea Alanui Dr, Wailea",20.6845852697,-156.441042423
+97,2013-11-17 07:53:50,"Bistro Molokini, 3850 Wailea Alanui Dr, Wailea",20.6836779434,-156.442329543
+98,2013-11-15 07:39:06,"Da Kitchen Cafe, 425 Koloa St, Kahului",20.8876333076,-156.455210602
+99,2013-10-14 07:20:44,"Blenders in the Grass, 6560 Pardall Rd Ste A, Isla Vista",34.4132782672,-119.856473207
+100,2013-10-09 10:24:23,"Victoria's Secret, 1 W Flatiron Crossing Dr, Broomfield",39.9316803899,-105.132094259
+101,2013-10-09 10:23:34,"Victoria's Secret, 1 W Flatiron Crossing Dr, Broomfield",39.9316803899,-105.132094259
+102,2013-09-25 09:31:18,"Whole Foods Market, 14357 W. Colfax Ave., Golden",39.7363321799,-105.161032358
+103,2013-09-23 03:57:28,"Kawika's Ocean Beach Deli, 734 LA Playa St, San Francisco",37.7746158052,-122.510004044
+104,2013-09-02 12:20:29,"Roka Akor, 801 Montgomery St, San Francisco",37.7965329,-122.403845
+105,2013-09-01 12:44:38,"Cobb's Comedy Club, 915 Columbus Ave, San Francisco",37.8028698573,-122.414182502
+106,2013-08-31 09:06:16,"Cantina Grill, Concourse B, Denver",39.8586121065,-104.673714255
+107,2013-08-25 09:49:04,"Tacolicious, 1548 Stockton St, San Francisco",37.8001335365,-122.409171421
+108,2013-08-04 06:46:05,"Palomino, 345 Spear St, San Francisco",37.7900823565,-122.389626503
+109,2013-07-06 12:37:33,"Tony P's Bar & Grill, 4445 Admiralty Way, Marina del Rey",33.9835808551,-118.447750211
+110,2013-06-09 14:26:43,"Tap House Grill, 1506 6th Ave, Seattle",47.6115626681,-122.334743142
+111,2013-05-20 04:48:58,"Renaud's Patisserie & Bistro, 1324 State St, Santa Barbara",34.425381274,-119.70592618
+112,2013-05-06 23:43:20,"Premium Outlets Food Court, 2744 Livermore Outlets Dr, Livermore",37.6987257686,-121.845027426
+113,2013-03-13 02:05:00,"Iron Cactus Mexican Restaurant, Grill and Margarita Bar, 606 Trinity St, Austin",30.2674662,-97.7393932
+114,2013-03-11 12:32:43,"Buffalo Billiards, 201 E 6th St, Austin",30.2674906304,-97.7412843704
+115,2012-12-25 06:59:05,"The Majestic Yosemite Bar, The Majestic Yosemite Hotel, Yosemite National Park",37.7459987344,-119.574072868
+116,2012-12-09 09:57:49,"Godiva Chocolatier, 865 Market St Ste 146, San Francisco",37.7843249903,-122.407539726
+117,2012-12-06 05:19:12,"Tsunami, 301 King St, San Francisco",37.775936,-122.393676
+118,2012-12-04 07:08:21,"Viz, 185 Berry St, San Francisco",37.7765285074,-122.390900524
+119,2012-11-21 04:01:12,"Grasshopper Salon, 28 South Park Ave, San Francisco",37.782188,-122.393642
+120,2012-09-25 02:56:34,"Squeeze In, 10060 Donner Pass Rd, Truckee",39.328104,-120.184888
+121,2012-09-23 10:03:16,"The Lodge Restaurant & Pub, 12850 Northwoods Blvd, Truckee",39.3522598453,-120.233509921
+122,2012-09-01 04:44:33,"Bean Scene Cafe, 186 S Murphy Ave, Sunnyvale",37.3762774651,-122.03033449
+123,2012-07-26 12:15:53,"The Grove, 690 Mission St, San Francisco",37.7865339849,-122.401921749
+124,2012-07-18 09:47:44,"Humphrey's at The Eventi Hotel, 851 Avenue of the Americas, New York",40.7470944001,-73.9902591705
+125,2012-07-06 13:08:11,"Naked Fish, 3940 Lake Tahoe Blvd #3, South Lake Tahoe",38.953243499,-119.9467106
+126,2012-05-29 03:15:26,"Woodhouse Chocolate, 1367 Main St, Saint Helena",38.5050360226,-122.470040398
+127,2012-05-13 05:10:11,"Kinder's Meats Deli BBQ, 2227 Morello Ave, Pleasant Hill",37.961454,-122.079974
+128,2012-05-10 10:42:55,"Buena Vista Cafe, 2765 Hyde St, San Francisco",37.8067310709,-122.420775083
+129,2012-04-08 13:53:02,"The Fly Trap, 606 Folsom St, San Francisco",37.78541349,-122.396902667
+130,2012-03-24 11:42:37,"Milk & Honey, E Anapamu St., Santa Barbara",34.4225781025,-119.705485841
+131,2012-03-24 11:36:35,"Milk & Honey, E Anapamu St., Santa Barbara",34.4225781025,-119.705485841
+132,2012-03-17 15:22:20,"Sudachi Sushi & Korean BBQ, 1217 Sutter St, San Francisco",37.7875653,-122.420459
+133,2012-03-05 05:29:55,"Blue Bottle Coffee, 66 Mint Plaza, San Francisco",37.7824639581,-122.407822609
+134,2012-03-04 15:43:05,"DNA Pizza, 371 11th St, San Francisco",37.7710598496,-122.412849556
+135,2012-01-11 11:51:46,"Roe Nightclub & Lounge, 651 Howard St, San Francisco",37.7857072788,-122.399400473
+136,2012-01-01 10:36:48,"Buckhorn Grill, 845 Market St, San Francisco",37.7845136382,-122.406223289
+137,2011-12-05 22:27:53,"Burger Joint, Terminal 2, San Francisco",37.6177328054,-122.381515503
+138,2011-10-27 12:13:04,"Ladure, 864 Madison Ave, New York",40.7706540243,-73.9661606733
+139,2011-10-23 02:24:41,"Organic Coffee Co., 88 4th St, San Francisco",37.784539,-122.404331
+140,2011-09-27 23:19:59,"Organic Coffee Co., 88 4th St, San Francisco",37.784539,-122.404331
+141,2011-08-16 09:44:04,"Sam's Chowder House, 4210 Cabrillo Hwy N, Half Moon Bay",37.5024744177,-122.475859523
+142,2011-08-16 09:42:48,"House of Bagels, 605 Laurel St, San Carlos",37.5063094028,-122.260993722
+143,2011-08-16 09:42:15,"Pamplemousse Ptisserie et Caf, 2401 Broadway St, Redwood City",37.4863158425,-122.231284599
+144,2011-07-05 07:36:45,"Paragon, 701 2nd St, San Francisco",37.780732049,-122.390341781
+145,2011-06-27 11:25:22,"Jack's Urban Eats, 2756 E Bidwell St #100, Folsom",38.6558514833,-121.122405
+146,2011-03-18 04:02:06,"Grab & Go Subs, 1180 6th Ave, San Diego",32.7175892121,-117.159175165
+147,2011-03-18 04:00:52,"La Puerta, 560 4th Ave, San Diego",32.7112264344,-117.161122345
+148,2011-03-18 03:59:47,"Sushi Deli 2, 135 Broadway, San Diego",32.71588027,-117.163093
+149,2011-03-18 03:58:29,"Manchester Grand Hyatt San Diego, One Market Place, San Diego",32.710584,-117.1680844
+150,2011-03-18 03:57:25,"Extraordinary Desserts, 1430 Union St, San Diego",32.7202811114,-117.16578573
+151,2011-03-07 13:52:34,"Jack's Urban Eats, 2756 E Bidwell St #100, Folsom",38.6558514833,-121.122405
+152,2011-02-27 13:53:55,"Ryoko's Japanese Restaurant & Bar, 619 Taylor St, San Francisco",37.7881175652,-122.411820797
+153,2011-01-12 10:50:30,"Twenty Five Lusk, 25 Lusk St, San Francisco",37.7784688651,-122.394374617
+154,2011-01-10 09:05:06,"The Lodge at Big Springs, 3001 Northstar Dr, Truckee",39.2643157772,-120.126131773
+155,2011-01-10 08:13:25,"The Lodge at Big Springs, 3001 Northstar Dr, Truckee",39.2643157772,-120.126131773
+156,2010-11-08 09:54:18,"Yumi Yogurt, 3955 S El Camino Real, San Mateo",37.53251802,-122.291924
+157,2010-11-04 02:32:23,"Waldorf Astoria New York, 301 Park Ave, New York",40.7567316363,-73.973667987
+158,2010-01-24 07:34:52,"Pizzelle di North Beach, 314 Columbus Ave, San Francisco",37.7980639781,-122.407064041
+159,2010-01-03 09:26:15,"Emporio Rulli Caff, 225 Stockton St., San Francisco",37.7880877432,-122.406975031
+160,2009-11-08 11:35:35,"Z. Cioccolato, 474 Columbus Ave, San Francisco",37.799298,-122.408498526

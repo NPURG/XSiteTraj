@@ -1,0 +1,64 @@
+,time,poi,latitude,longitude
+0,2016-07-31 06:00:50,"Pensacola International Airport (PNS), 2430 Airport Blvd, Pensacola",30.4758049462,-87.1939725865
+1,2016-06-26 11:03:04,"State, 935 W Webster Ave, Chicago",41.9216320666,-87.652426669
+2,2016-01-01 08:13:37,"Walt's Pizza, 213 S Court St, Marion",37.7289689284,-88.9323091507
+3,2015-08-31 04:53:22,"J. Gumbo's Cajun Joint, 700 S Gregory St, Urbana",40.1065051432,-88.221533143
+4,2015-05-26 08:56:39,"Bar Louie, 47 W Polk St, Chicago",41.8721811418,-87.6287050912
+5,2015-05-18 01:22:14,"Sanders Restaurant, 5320 Touhy Ave, Skokie",42.0121256118,-87.7610751944
+6,2014-12-26 11:31:44,"Wok And Roll, 2805 Outer Dr, Marion",37.7452039719,-88.97256575
+7,2014-12-26 11:27:07,"Benjyehuda, 10 S LaSalle St, Chicago",41.8813036789,-87.632396877
+8,2014-12-26 11:25:10,"Elephant & Castle, 185 N Wabash Ave, Chicago",41.8857043733,-87.6262999684
+9,2014-12-26 11:22:30,"Hong Kong Buffet, 3000 W Deyoung St, Marion",37.7479507954,-88.9779605978
+10,2014-12-08 07:08:57,"Bread Basket, 4725 W Belmont Ave, Chicago",41.9388377666,-87.74548
+11,2014-08-23 10:51:41,"Taverna 750, 5420 N Clark St, Chicago",41.9454871095,-87.6490543976
+12,2013-11-24 15:47:50,"Cali's, 702 E Grand, Carbondale",37.7190558612,-89.2066632091
+13,2013-08-02 06:37:38,"Pier Park, 600 Pier Park Dr, Panama City Beach",30.2181350761,-85.8734751429
+14,2013-07-28 09:32:26,"Cicis, 513 N Richard Jackson Blvd, Panama City Beach",30.1870428,-85.8172713
+15,2013-07-22 01:24:59,"MetroLink - East Riverfront Station, 100 S Front St, East Saint Louis",38.6282527589,-90.1744360057
+16,2013-06-22 01:44:18,"Star Tours, Echo Lake, Hollywood Studios, Lake Buena Vista",28.3556621934,-81.5588044389
+17,2013-06-04 06:26:59,"Subway, 605 Prosperity Ave, Johnston City",37.8173731667,-88.9418392167
+18,2013-05-09 10:26:58,"Grainger Engineering Library, 1301 W Springfield Ave, Urbana",40.1124353444,-88.2268881798
+19,2013-04-24 00:58:04,"Panera Bread, 616 E Green St, Champaign",40.1102950602,-88.2294277722
+20,2013-02-19 00:12:03,"Denny's, 702 W Town Center Blvd, Champaign",40.1432615061,-88.2547938824
+21,2013-01-06 06:19:29,"Quatro's Deep Pan Pizza, 218 W Freeman St, Carbondale",37.7208678935,-89.2175106008
+22,2012-12-02 11:41:26,"Destihl Restaurant & Brew Works, 301 N Neil St, Champaign",40.1183961727,-88.2437485456
+23,2012-10-15 07:16:52,"Grainger Engineering Library, 1301 W Springfield Ave, Urbana",40.1124353444,-88.2268881798
+24,2012-09-14 06:56:12,"Empire Chinese Restaurant, 410 E Green St, Champaign",40.1102918101,-88.2322333509
+25,2012-08-29 07:24:44,"ISR Dining Hall, 1010 W Illinois St, Urbana",40.110137845,-88.2216525078
+26,2012-06-16 19:07:22,"Golden Corral, 10220 E Washington St, Indianapolis",39.77552313,-85.986711
+27,2012-05-09 07:56:04,"Michael's, Broadway Blvd, Johnston City",37.8165307959,-88.9253568649
+28,2012-03-18 06:41:48,"Famous Dave's, 3030 Milton Ave, Janesville",42.7192033541,-88.9962445173
+29,2012-01-29 08:10:19,"Buffalo Wild Wings, 1435 E Main St, Carbondale",37.7366649579,-89.182677269
+30,2012-01-13 06:19:16,"Trico Senior High School, 16533 Highway 4, Campbell Hill",37.9512863866,-89.5646602285
+31,2011-12-29 12:12:39,"Sears, 3000 W Deyoung Ste 500, Marion",37.7474971413,-88.9798434651
+32,2011-10-20 08:26:34,"Dairy Queen, 501 W Broadway Blvd, Johnston City",37.8164973667,-88.93296
+33,2011-09-21 12:51:50,"Dairy Queen, 501 W Broadway Blvd, Johnston City",37.8164973667,-88.93296
+34,2011-09-06 11:13:27,"Mediacom, 1603 E Deyoung St, Marion",37.7363852278,-88.8977914913
+35,2011-09-03 04:46:23,"Denny's, 1915 W Sycamore St, Carbondale",37.7300434083,-89.2412030697
+36,2011-09-03 04:41:39,"O'Charley's, 2808 W Deyoung St, Marion",37.7451767943,-88.9741058248
+37,2011-08-30 06:50:57,"Hong Kong Buffet, 3000 W Deyoung St, Marion",37.7479507954,-88.9779605978
+38,2011-08-08 18:40:09,"d40858a8, c8ec6c 40b0b05c2138 21, 1cb8b9c4dc",37.5523275379,126.92293201
+39,2011-08-08 18:17:10,"d40858a8, c8ec6c 40b0b05c2138 21, 1cb8b9c4dc",37.5523275379,126.92293201
+40,2011-07-05 20:53:51,"Home plus, a10c6c 2cbc3d5c350038 16, 1cb8b9c4dc",37.5163704725,127.103393903
+41,2011-06-27 01:39:55,"Lambert-St. Louis International Airport (STL), 10701 Lambert International Blvd, St Louis",38.742104778,-90.3631980043
+42,2011-06-12 01:41:16,"HQ & Co Hair Salon & Day Spa, 107 S Russell St, Marion",37.730166741,-88.9416460522
+43,2011-06-02 11:35:16,"AMC Centre 8, 3107 Civic Circle Blvd, Marion",37.7507498369,-88.9791753607
+44,2011-05-23 04:46:19,"17th Street Bar & Grill, 32 N 17th St, Murphysboro",37.7650761063,-89.3417712287
+45,2011-03-13 00:18:53,"Lambert-St. Louis International Airport (STL), 10701 Lambert International Blvd, St Louis",38.742104778,-90.3631980043
+46,2011-03-10 06:11:32,"Dragon Palace, 600 Southview Plz, O Fallon",38.58461767,-89.909696
+47,2010-11-08 01:53:24,"SONIC Drive In, 2710 Walton Way, Marion",37.7420152677,-88.968974914
+48,2010-10-23 02:43:29,"Casa Vieja, 1309 Grand Ave, Johnston City",37.8241631987,-88.932254892
+49,2010-09-07 04:52:36,"Giant City Lodge & Restaurant, 460 Giant City Lodge Rd, Makanda",37.5924187352,-89.1835139582
+50,2010-08-14 06:30:17,"Tequilas Mexican Restaurant, 1906 W Coolidge Ave, Marion",37.740194512,-88.951036334
+51,2010-07-31 01:39:14,"Subway, 605 Prosperity Ave, Johnston City",37.8173731667,-88.9418392167
+52,2010-04-18 01:00:37,"Buffalo Wild Wings, 1435 E Main St, Carbondale",37.7366649579,-89.182677269
+53,2010-04-16 05:10:49,"I-57, Interstate 57, Benton",37.9977859988,-88.9336395264
+54,2010-04-11 08:44:30,"University Mall, 1237 E Main St, Carbondale",37.7295212331,-89.1928431003
+55,2010-03-21 22:12:10,"Rent One Park, 1000 Miners Dr, Marion",37.7466932026,-88.962521553
+56,2010-03-20 22:41:53,"SIU Student Recreation Center, 300 E Grand Ave, Carbondale",37.7186793661,-89.2126981548
+57,2010-02-15 08:38:38,"Illinois Centre Mall, 3000 W Deyoung St, Marion",37.7481795107,-88.9779512533
+58,2010-02-15 07:02:20,"Don Sol, 2406 Williamson County Pkwy, Marion",37.7470170109,-88.9693207331
+59,2010-02-15 07:00:49,"Kerasotes Theater Marion Illinois Centre, 3107 Civic Circle Blvd, Marion",37.7506709833,-88.9791017333
+60,2009-12-05 22:54:18,"Emery Brothers Skating Rink, 1700 N Court St, Marion",37.7467729995,-88.9331856847
+61,2009-12-01 09:45:39,"One Hot Cookie, 1112 N Johnson St, Marion",37.740884805,-88.9317731166
+62,2009-11-30 02:29:27,"Johnston City High School, 1500 Jefferson Ave, Johnston City",37.8263738783,-88.9250557428

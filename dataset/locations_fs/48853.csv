@@ -1,0 +1,61 @@
+,time,poi,latitude,longitude
+0,2010-11-23 10:54:44,"Bar Crudo, 655 Divisadero St, San Francisco",37.7757107962,-122.43806758
+1,2010-11-23 10:53:20,"Festa, 1825A Post St, Ste 210, San Francisco",37.7851819212,-122.431586684
+2,2010-11-23 10:52:46,"Sociale, 3665 Sacramento St, San Francisco",37.786974,-122.453012
+3,2010-11-23 10:52:16,"Zuni Cafe, 1658 Market St, San Francisco",37.7736485283,-122.421560414
+4,2010-11-23 10:50:35,"Murray's Bagels, 500 Avenue of the Americas, New York",40.7363745441,-73.9972892404
+5,2010-11-23 10:50:02,"Mekanism (East), 520 Broadway, New York",40.7229596457,-73.9988796251
+6,2010-11-23 10:49:33,"Veselka, 144 2nd Ave, New York",40.7291362344,-73.9869715129
+7,2010-11-23 10:48:41,"Pegu Club, 77 W Houston St, New York",40.7267579896,-73.9995609566
+8,2010-11-23 10:47:49,"Institute of Contemporary Art, 100 Northern Ave, Boston",42.3528672141,-71.0433483124
+9,2010-11-23 10:45:52,"Tartine, 253 W 11th St, New York",40.7362284896,-74.0034762454
+10,2010-11-23 10:45:14,"The Redhead, 349 E 13th St, New York",40.730809,-73.983319
+11,2010-11-23 10:42:50,"Momofuku Milk Bar, 251 E 13th St, New York",40.7317954706,-73.9856725931
+12,2010-10-15 15:14:27,"Mekanism, 640 2nd St, San Francisco",37.781286,-122.391481
+13,2010-10-04 15:39:15,"Benefit Cosmetics, 2117 Fillmore St, San Francisco",37.789242,-122.43389
+14,2010-10-04 15:37:34,"Ruby Skye, 420 Mason St, San Francisco",37.7874290125,-122.409867001
+15,2010-10-04 15:33:46,"uTOEpia, 1722 Divisadero St, San Francisco",37.7856480578,-122.439953158
+16,2010-10-04 15:32:19,"Hard Knox Cafe, 2526 3rd St, San Francisco",37.7576547861,-122.38832203
+17,2010-10-04 15:29:22,"Double Dutch, 3192 16th St, San Francisco",37.764872275,-122.423850005
+18,2010-10-04 15:28:17,"Tartine Bakery, 600 Guerrero St, San Francisco",37.7614213141,-122.42400974
+19,2010-10-04 15:27:20,"Bar Tartine, 561 Valencia St, San Francisco",37.7639515192,-122.421831406
+20,2010-10-04 15:26:10,"YogaWorks San Francisco, 1823 Divisadero St, San Francisco",37.78636443,-122.4402903
+21,2010-10-04 15:22:58,"4505 Meats/Chicharrones, Ferry Building, San Francisco",37.795248479,-122.392255876
+22,2010-10-04 15:17:57,"Fraiche Yogurt, 1910 Fillmore St, San Francisco",37.7874166756,-122.433544267
+23,2010-08-30 09:15:58,"The Edison, 108 W 2nd St Apt 101, Los Angeles",34.0511838195,-118.245179057
+24,2010-08-30 09:15:24,"Shin-Sen-Gumi Hakata Ramen, 18315 Brookhurst St #1, Fountain Valley",33.6960434559,-117.954749465
+25,2010-08-30 09:15:19,"Brodard Restaurant, 9892 Westminster Ave #R, Garden Grove",33.7580276913,-117.956557274
+26,2010-08-30 09:15:14,"The Hollywood Roosevelt, 7000 Hollywood Blvd, Los Angeles",34.1010014353,-118.34173459
+27,2010-08-30 09:15:08,"Five Star Seafood Restaurant 4af677ae52b6, 140 W Valley Blvd #4D, San Gabriel",34.0777696854,-118.101817709
+28,2010-08-30 09:15:04,"MOSTO ENOTECA, 517 Washington Blvd, Venice",33.9829447653,-118.4612149
+29,2010-08-30 09:11:57,"BOA Steakhouse, 101 Santa Monica Blvd, Santa Monica",34.0142966323,-118.497991743
+30,2010-08-30 09:10:24,"Basta Pasta, 37 W 17th St, New York",40.7388022763,-73.9941853347
+31,2010-08-30 09:08:54,"Ace Hotel New York, 20 W 29th St, New York",40.745765435,-73.9883440733
+32,2010-08-30 09:08:26,"Bar Americain, 152 W 52nd St, New York",40.7620160011,-73.9817404747
+33,2010-08-30 09:07:18,"Hudson Hotel, 356 W 58th St, New York",40.7681671508,-73.9849456256
+34,2010-08-30 09:06:35,"Ramen Takumi, 1 University Pl, New York",40.7307141698,-73.9953097701
+35,2010-08-30 09:05:59,"The Breslin, 16 W 29th St, New York",40.7458373458,-73.9879926535
+36,2010-08-30 09:05:42,"Mehanata Bulgarian Bar, 113 Ludlow St, New York",40.7194810863,-73.9887965149
+37,2010-08-30 09:04:58,"Mary's Fish Camp, 64 Charles St, New York",40.7348308082,-74.0031261946
+38,2010-08-30 09:04:15,"Ippudo, 65 4th Ave, New York",40.7309155952,-73.9905583715
+39,2010-08-30 09:02:53,"Sky Terrace at Hudson Hotel, 356 W 58th St, New York",40.7679124818,-73.9850776245
+40,2010-08-30 09:02:23,"Las Ramblas Bar de Tapas, 170 W 4th St, New York",40.7320827275,-74.0013587149
+41,2010-08-30 09:01:58,"John F. Kennedy International Airport (JFK), at JFK Access Rd, Queens",40.6448547738,-73.781474664
+42,2010-08-30 09:01:03,"Siamese Garden, 301 Washington Blvd, Marina del Rey",33.980563,-118.464718
+43,2010-08-30 09:00:09,"La Defence, 3701 Wilshire Blvd, Los Angeles",34.0623308451,-118.307036058
+44,2010-08-30 08:59:33,"Aunt Kizzy's Back Porch, 523 Washington Blvd, Marina del Rey",33.983062,-118.460916283
+45,2010-08-03 03:56:11,"Los Angeles International Airport (LAX), 1 World Way, Los Angeles",33.9435869099,-118.408083022
+46,2010-08-03 03:55:05,"San Francisco International Airport (SFO), N McDonnell Rd, San Francisco",37.6166342905,-122.385279773
+47,2010-07-26 14:11:38,"Musha Izakaya Restaurant, 424 Wilshire Blvd, Santa Monica",34.0196315018,-118.497552688
+48,2010-07-26 14:10:49,"BOA Steakhouse, 101 Santa Monica Blvd, Santa Monica",34.0142966323,-118.497991743
+49,2010-07-26 14:09:25,"FuRaiBo Teba-Saki Chicken, 2068 Sawtelle Blvd, Los Angeles",34.0397295788,-118.442439131
+50,2010-07-26 14:06:57,"Daikokuya, 327 E 1st St, Los Angeles",34.0498506802,-118.240318958
+51,2010-07-20 02:45:45,"Gjelina, 1429 Abbot Kinney Blvd, Venice",33.9905041397,-118.464978039
+52,2010-06-27 17:22:50,"Seven Grand, 515 W 7th St, Los Angeles",34.0471281759,-118.256022803
+53,2010-06-25 05:45:11,"Osteria Mozza, 6602 Melrose Ave, Los Angeles",34.0832790278,-118.338782787
+54,2010-06-21 06:56:22,"Katsuya Brentwood, 11777 San Vicente Blvd, Los Angeles",34.0530986589,-118.46862948
+55,2010-06-21 06:54:32,"Rush Street, 9546 Washington Blvd, Culver City",34.0229990028,-118.394748013
+56,2010-06-20 07:04:21,"Jones Hollywood, 7205 Santa Monica Blvd, West Hollywood",34.0908467117,-118.346477331
+57,2010-06-20 07:00:30,"Osteria La Buca, 5210 Melrose Ave, Los Angeles",34.083395,-118.313939
+58,2010-06-20 06:58:36,"Baby Blues BBQ, 444 Lincoln Blvd, Venice",34.0002931862,-118.465376347
+59,2010-06-20 06:56:32,"Roscoe's House of Chicken and Waffles, 5006 W Pico Blvd, Los Angeles",34.047617737,-118.346266165

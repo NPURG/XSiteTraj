@@ -1,0 +1,48 @@
+,time,poi,latitude,longitude
+0,2012-03-06 13:54:13,"Maggie Mae's, 323 E 6th St, Austin",30.2670568143,-97.7397314005
+1,2011-11-15 11:46:29,"Bluestem Brasserie, 1 Yerba Buena Ln, San Francisco",37.786267678,-122.404912367
+2,2011-10-27 07:52:29,"Boqueria, 171 Spring St, New York",40.7247274567,-74.0023055811
+3,2011-10-26 11:13:56,"Benny's Burritos, 113 Greenwich Ave, New York",40.7380334764,-74.0019268352
+4,2011-07-26 06:40:57,"Uber PNW HQ, 1000 2nd Ave, Seattle",47.6055264808,-122.335209846
+5,2011-07-18 03:48:49,"Holy Grail Tavern and Grille, 161 Joe Nuxhall Way, Cincinnati",39.0976323901,-84.5089441538
+6,2011-07-03 09:21:15,"South Beach Pizza Co., 303 Beach St, Santa Cruz",36.9640334072,-122.020865679
+7,2011-04-22 09:55:44,"Uber HQ, 1455 Market St, San Francisco",37.775820006,-122.418015003
+8,2011-04-18 06:32:36,"Olio e Pi, 3 Greenwich Ave, New York",40.7338653661,-73.999629
+9,2011-04-13 01:50:54,"Cafe Duke, 545 Broadway, New York",40.7237093569,-73.9985123498
+10,2011-03-24 04:40:17,"Spice Kit, 405 Howard St, San Francisco",37.7886412519,-122.396006516
+11,2011-03-24 04:39:37,"Spice Kit, 405 Howard St, San Francisco",37.7886412519,-122.396006516
+12,2011-03-13 05:01:10,"The Driskill, 604 Brazos St, Austin",30.2678890805,-97.7416491508
+13,2011-03-09 15:24:18,"Kung Fu Saloon, 510 Rio Grande St, Austin",30.2693666066,-97.7498055593
+14,2011-02-19 10:52:11,"Austin Bergstrom International Airport (AUS), 3600 Presidential Blvd, Austin",30.202491212,-97.6669793192
+15,2011-01-13 14:33:19,"San Francisco International Airport (SFO), N McDonnell Rd, San Francisco",37.6169663892,-122.387116508
+16,2011-01-11 05:49:06,"Think Coffee, 1 Bleecker St, New York",40.7253521216,-73.9923942089
+17,2010-10-12 02:36:27,"Cafe Me, 500 Washington St, San Francisco",37.7959657598,-122.401820297
+18,2010-08-17 00:21:41,"Monk19s Kettle, 3141 16th St, San Francisco",37.7648027162,-122.422926432
+19,2010-08-04 15:07:30,"SimpleGeo, 41 Decatur St, San Francisco",37.772414,-122.406113
+20,2010-07-21 12:33:02,"UberCab HQ, 540 Washington St, San Francisco",37.795738,-122.402787
+21,2010-04-28 09:51:50,"Osteria La Madia, 59 W Grand Ave, Chicago",41.8916932694,-87.6304449909
+22,2010-04-22 05:55:35,"UberCab HQ, 540 Washington St, San Francisco",37.795738,-122.402787
+23,2010-03-14 05:40:18,"Halcyon Coffee, Bar & Lounge, 218 W 4th St, Austin",30.2669534786,-97.7456940251
+24,2010-03-07 09:24:46,"San Francisco International Airport (SFO), N McDonnell Rd, San Francisco",37.6169663892,-122.387116508
+25,2010-01-30 15:30:11,"Kingston Mines, 2548 N Halsted St, Chicago",41.9286451307,-87.6490592152
+26,2010-01-27 22:42:00,"Metra - Barrington, 201 Spring St, Barrington",42.1528538459,-88.1320163058
+27,2010-01-11 04:48:30,"Havana Alma de Cuba, 94 Christopher St, New York",40.7334399355,-74.0044919631
+28,2010-01-10 05:48:46,"Shake Shack, 11 Madison Ave, New York",40.7414310297,-73.9884120034
+29,2009-12-30 13:38:30,"Sunset Cliffs Natural Park, Sunset Cliffs Blvd, San Diego",32.7268145547,-117.256408021
+30,2009-12-30 07:51:05,"Cass Street Bar & Grill, 4612 Cass St, San Diego",32.7986429,-117.25237295
+31,2009-12-28 10:16:33,"Sammy's Woodfired Pizza & Grill, 1620 Camino de La Reina #A, San Diego",32.7706700137,-117.149841079
+32,2009-12-27 17:48:40,"Los Dos Pedros, 723 Turquoise St, San Diego",32.8082491693,-117.26026031
+33,2009-12-22 11:22:44,"Bar Deville, 701 N Damen Ave, Chicago",41.894243,-87.676987
+34,2009-12-17 07:42:29,"Burger Baron, 1381 W Grand Ave, Chicago",41.8911924662,-87.662229538
+35,2009-12-15 11:12:53,"Mahoney's Pub & Grille, 551 N Ogden Ave, Chicago",41.8923999472,-87.6577060068
+36,2009-12-15 09:56:06,"La Pasadita, 1132 N Ashland Ave, Chicago",41.9025425583,-87.6676674368
+37,2009-12-11 00:19:31,"Regal Cinemas Webster Place 11, 1471 W Webster Ave, Chicago",41.9215303253,-87.6651038539
+38,2009-12-10 00:26:45,"GE Barrington, 524 NW Highway, Barrington",42.1636306193,-88.1516178171
+39,2009-11-12 22:35:20,"Los 3 Panchos, 1155 W Diversey Pkwy, Chicago",41.9326565699,-87.6579998244
+40,2009-09-22 00:10:28,"Sip Coffee House, 1223 W Grand Ave, Chicago",41.8908574937,-87.658346623
+41,2009-09-05 04:19:03,"Green Grocer Chicago, 1402 W Grand Ave, Chicago",41.8910646789,-87.6626157761
+42,2009-08-12 02:31:00,"J. Patrick's Irish Bar & Grill, 1367 W Erie St, Chicago",41.893507,-87.66218
+43,2009-08-10 22:14:42,"Sip Coffee House, 1223 W Grand Ave, Chicago",41.8908574937,-87.658346623
+44,2009-08-05 11:38:33,"Twisted Spoke, 501 N Ogden Ave, Chicago",41.8912323338,-87.6586934191
+45,2009-08-05 11:37:00,"The Fireplace Inn, 1448 N Wells St, Chicago",41.9091305079,-87.6348209553
+46,2009-08-05 11:36:29,"Butch McGuire's, 20 W Division St, Chicago",41.9039052919,-87.6296015575

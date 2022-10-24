@@ -1,0 +1,76 @@
+,time,poi,latitude,longitude
+0,2016-08-08 03:15:16,"Wild Tomato, 10677 N Bay Shore Dr, Sister Bay",45.1891198464,-87.121539101
+1,2016-08-06 08:11:12,"Stone's Throw Winery, 3382 County Rd E, Baileys Harbor",45.05479707,-87.1915896
+2,2016-08-03 04:19:20,"Story Hill BKC, 5100 W Blue Mound Rd, Milwaukee",43.0368117711,-87.9779541051
+3,2016-07-11 05:02:45,"Bun Runners, Highway 47, Lac du Flambea",45.977432,-89.83176
+4,2016-07-11 05:02:14,"Gaslight Square Shops, 415 Oneida St, Minocqua",45.8702120579,-89.7101260321
+5,2016-07-11 05:01:51,"Minocqua Popcorn Company, 416 Oneida Street, Minocqua",45.8701549333,-89.709835
+6,2016-04-19 06:24:32,"Fine Line Designs, 10376 Hwy 42, North Ephraim",45.17433,-87.157479
+7,2016-04-16 08:30:50,"Wild Tomato Wood-fired Pizza and Grille, 4023 State Hwy 42, Fish Creek",45.1252185958,-87.2366485704
+8,2015-12-16 03:40:42,"Sobelman's Pub N Grill NorthShore, 10352 N Port Washington Rd, Mequon",43.2065465663,-87.9238638302
+9,2015-11-01 05:20:54,"Wickman House, 11976 Mink River Rd, Ellison Bay",45.2527738069,-87.0700813117
+10,2015-04-11 01:42:18,"BD's Mongolian Grill, 598 W Northshore Dr, Milwaukee",43.1203811027,-87.916321494
+11,2015-04-11 01:41:37,"Johnson's Green 7, 6191 N Green Bay Ave, Glendale",43.1296318223,-87.933444353
+12,2015-04-11 01:40:58,"Jim's Grille, W63N144 Washington Ave, Cedarburg",43.2806590806,-87.9874321622
+13,2015-04-11 01:40:21,"Botanas Restaurant, 816 S 5th St, Milwaukee",43.0227775246,-87.9166615251
+14,2014-11-16 07:27:01,"Jim's Grille, W63N144 Washington Ave, Cedarburg",43.2806590806,-87.9874321622
+15,2014-11-02 07:13:49,"Mequon Pizza Company, 12020 N River Rd, Thiensville",43.2364455772,-87.9634079137
+16,2014-10-12 22:55:21,"Flipside Cafe and Grill, 2074 Washington St, Grafton",43.3206974904,-87.9362440109
+17,2014-10-11 06:58:56,"Hong Anh Palace, 10046 N Port Washington Rd, Mequon",43.2007419984,-87.9235382191
+18,2014-10-05 05:54:45,"Duluth Trading Company, 108 N Franklin St, Port Washington",43.3878504468,-87.8691758477
+19,2014-09-20 23:48:33,"Solly's Grille, 4629 N Port Washington Rd, Glendale",43.1005441893,-87.9174041748
+20,2014-09-03 06:19:33,"Island Cafe, 314 Oneida street, Minocqua",45.869435,-89.70935188
+21,2014-09-03 06:19:09,"The Vine, 203 Front St, Minocqua",45.8711843774,-89.71115393
+22,2014-09-03 06:17:55,"Fat Cat's, 104 Broad St., Lake Geneva",42.5907788261,-88.4355918978
+23,2014-09-03 06:17:37,"Cedar Creek Winery, 6340 Bridge Road, Cedarburg",43.3010439764,-87.9890191555
+24,2014-09-03 06:17:19,"Estabrook Park Beer Garden, 4600 Estabrook Drive, Milwaukee",43.0995961402,-87.907182788
+25,2014-09-01 04:48:05,"Chiselled Grape Winery, 1206 Lakefield Rd, Grafton",43.3014841285,-87.9895503418
+26,2014-08-22 21:26:20,"Tello's Grille and Cafe, 200 W Grand Ave, Port Washington",43.387522578,-87.8726971149
+27,2014-08-06 23:58:45,"Aqualand Ale House, 10450 Main St, Boulder Junction",46.1131235753,-89.6480398174
+28,2014-08-06 23:58:03,"Coontail, 5466 Park Street, Boulder Junction",46.11136,-89.64042
+29,2014-08-06 23:56:05,"Vita Physical Therapy & Fitness, 222 E Erie St Ste 150, Milwaukee",43.0317626279,-87.9089694848
+30,2014-04-13 06:20:01,"Chabaa Thai Cuisine, 420 Geary St, San Francisco",37.7871129735,-122.410238923
+31,2014-03-27 22:25:33,"Bull and Finch Pub (Cheers Beacon Hill), 84 Beacon St, Boston",42.3558284447,-71.0711827434
+32,2013-10-28 00:16:51,"MacReady Artisan Bread Company, 7836 State Highway 42, Egg Harbor",45.0512314399,-87.2798803833
+33,2013-10-27 23:14:20,"Village Cafe, 7918 State Highway 42, Egg Harbor",45.055718,-87.2797036171
+34,2013-10-17 04:22:22,"Walgreens, 1915 Wisconsin Ave, Grafton",43.30848015,-87.95915461
+35,2013-07-13 08:02:23,"Atlas BBQ, 1304 12th Ave, Grafton",43.318344162,-87.9515895233
+36,2013-07-13 01:26:03,"Jenior Tire & Automotive, 201 S Main St, Thiensville",43.2279080545,-87.9846109537
+37,2013-06-03 23:24:21,"Tosa Health Center, 1155 N Mayfair Rd, Wauwatosa",43.0450493619,-88.0479159087
+38,2013-05-18 04:48:50,"Equitable Bank, 2290 N Mayfair Rd, Wauwatosa",43.0592397056,-88.0473667752
+39,2013-05-14 03:19:19,"Shell, 11522 N Port Washington Rd, Mequon",43.2278631866,-87.9232509132
+40,2013-04-22 04:09:07,"Devon Seafood Grill, 5715 N Bayshore Dr, Glendale",43.1212079694,-87.9143866198
+41,2013-03-21 22:29:14,"Milwaukee Area Technical College - Downtown Campus, 700 W State St, Milwaukee",43.0441527814,-87.9204974717
+42,2013-03-13 07:07:14,"North Shore Bank Headquarters, 15700 W Bluemound Rd, Brookfield",43.0368385926,-88.1079053879
+43,2013-03-01 07:01:47,"Costco Wholesale, 950 Port Washington Rd, Grafton",43.324525771,-87.9222213854
+44,2013-02-08 09:12:23,"Hong Anh Palace, 10046 N Port Washington Rd, Mequon",43.2007419984,-87.9235382191
+45,2012-12-05 11:57:44,"Landmark Lanes, 2220 N Farwell Ave, Milwaukee",43.0596861757,-87.8855451636
+46,2012-11-27 04:58:55,"General Mitchell International Airport (MKE), 5300 S Howell Ave, Milwaukee",42.9478770515,-87.9017216639
+47,2012-11-27 04:58:26,"General Mitchell International Airport (MKE), 5300 S Howell Ave, Milwaukee",42.9478770515,-87.9017216639
+48,2012-07-08 02:21:00,"Dancing Bear Coffee, 10362 main street, Boulder Junction",46.11222017,-89.641586
+49,2012-06-22 04:59:45,"Heritage Printing, 3575 N 124th St, Brookfield",43.0831187122,-88.0668735474
+50,2012-06-21 22:29:52,"Tosa Health Center, 1155 N Mayfair Rd, Wauwatosa",43.0450493619,-88.0479159087
+51,2012-05-02 02:37:24,"Brewery Parking Structure, 1213 N 9th St, Milwaukee",43.0462712708,-87.9240362116
+52,2012-04-15 02:22:34,"Edgewood Orchard Gallery, 4140 Peninsula Players Rd, Fish Creek",45.09139577,-87.244067
+53,2012-04-14 03:53:04,"Cedarburg Cultural Center, W62 N546 Washington Avenue, Cedarburg",43.2956278324,-87.9868246
+54,2012-04-14 03:46:14,"Wisconsin Conservatory of Music, 1584 N Prospect Ave, Milwaukee",43.0506936071,-87.8924601824
+55,2012-04-14 03:45:34,"Best Buy, 1070 N Port Washington Rd, Grafton",43.3226262275,-87.9210433849
+56,2012-04-14 03:45:12,"Fiddleheads Coffee Cafe, 192 S Main St, Thiensville",43.2281224351,-87.9841614564
+57,2012-04-14 03:44:51,"McDonalds, 337 E Cloverland Dr, Ironwood",46.462923,-90.164977
+58,2012-04-14 03:44:08,"Slow Pokes Local Food, 1229 12th Ave, Grafton",43.3190036742,-87.951747179
+59,2012-04-14 03:12:27,"On Deck Clothing Company, 4168 Main St, Fish Creek",45.127867,-87.2463208437
+60,2012-04-14 03:11:57,"Trader Joe's, 5600 N Port Washington Rd, Milwaukee",43.1192101288,-87.9163119156
+61,2012-04-14 03:11:26,"Buca di Beppo Italian Restaurant, 1233 N Van Buren St, Milwaukee",43.0465449519,-87.9037145724
+62,2012-04-14 03:10:42,"Costco Wholesale, 950 Port Washington Rd, Grafton",43.324525771,-87.9222213854
+63,2012-04-13 05:16:16,"Marcus North Shore Cinema, 11700 N Port Washington Rd, Mequon",43.2312275629,-87.9219961166
+64,2012-04-13 05:15:57,"Hands On Art Studio, 3655 Peninsula Players Rd, Fish Creek",45.0900246968,-87.2109143407
+65,2012-04-13 05:15:02,"Ecology Sports, 10740 State Highway 42, Sister Bay",45.2004556157,-87.118714601
+66,2012-04-13 05:14:43,"Casablanca, 728 E Brady St, Milwaukee",43.0531788689,-87.902598381
+67,2012-04-11 00:56:06,"Vogue Fabrics Inc, 718 Main St, Evanston",42.033821,-87.681588
+68,2012-02-02 02:34:47,"Mequon Nature Preserve, 8200 W County Line Rd, Mequon",43.1932903302,-88.0104063901
+69,2011-10-31 05:41:49,"Mequon Nature Preserve, 8200 W County Line Rd, Mequon",43.1932903302,-88.0104063901
+70,2011-10-31 05:39:59,"The Guides Inn, 5421 Park St, Boulder Junction",46.1087020203,-89.6427317985
+71,2011-10-31 05:39:19,"Casablanca, 728 E Brady St, Milwaukee",43.0531788689,-87.902598381
+72,2011-10-31 05:38:30,"Hands On Art Studio, 3655 Peninsula Players Rd, Fish Creek",45.0900246968,-87.2109143407
+73,2011-10-31 05:37:45,"Ecology Sports, 10740 State Highway 42, Sister Bay",45.2004556157,-87.118714601
+74,2010-08-02 05:56:45,"Full Service Car Wash, 255 Chateau Dr, Grafton",43.3040149727,-87.9618913158

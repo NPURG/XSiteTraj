@@ -1,0 +1,58 @@
+,time,poi,latitude,longitude
+0,2012-01-28 00:38:35,"Nick's Fish House, 2600 Insulator Dr, Baltimore",39.26070496,-76.61385
+1,2012-01-28 00:37:28,"The Point in Fells, 1738 Thames St, Fells Point",39.2820498841,-76.5913680484
+2,2012-01-28 00:36:03,"Abigail's, 291 3rd St, Cambridge",42.3645769067,-71.0830212676
+3,2012-01-28 00:32:37,"Bom Cafe, 1093 Cambridge St, Cambridge",42.372983,-71.095316
+4,2012-01-28 00:30:26,"Parlor Sports, 1 Beacon St, Somerville",42.3743877172,-71.1015908061
+5,2012-01-28 00:28:53,"2nd Street Cafe, 89 2nd St, Cambridge",42.3683817936,-71.079300642
+6,2012-01-28 00:27:25,"Drink, 348 Congress St, Boston",42.3503934063,-71.0486268997
+7,2012-01-28 00:25:44,"Thames Street Oyster House, 1728 Thames St, Baltimore",39.2820191207,-76.5917291837
+8,2012-01-28 00:24:22,"Area Four, 500 Technology Sq, Cambridge",42.363073,-71.0924589
+9,2012-01-28 00:20:57,"Oleana, 134 Hampshire St, Cambridge",42.3704902757,-71.097099781
+10,2012-01-28 00:19:47,"The Similans, 145 1st St, Cambridge",42.366376292,-71.0780668259
+11,2012-01-28 00:17:31,"Catalyst Restaurant, 300 Technology Sq, Cambridge",42.3630151497,-71.0916280746
+12,2012-01-28 00:15:02,"Casa Portugal, 1200 Cambridge St, Cambridge",42.373253,-71.0973250866
+13,2012-01-28 00:10:02,"Prana Power Yoga, 585 Massachusetts Ave, Cambridge",42.3649494139,-71.1027860641
+14,2012-01-28 00:07:13,"Helmand Restaurant, 143 1st St, Cambridge",42.3664793431,-71.0780453682
+15,2011-12-06 03:50:52,"Sunset Grill & Tap, 130 Brighton Ave, Allston",42.3527522476,-71.1316439509
+16,2011-08-13 04:47:20,"Everhart Veterinary Hospital, 4005 Governor Ritchie Hwy, Brooklyn Park",39.2336714679,-76.6115787694
+17,2011-08-12 00:12:25,"Trinacria Macaroni Works, 406 N Paca St, Baltimore",39.2942266304,-76.6225855531
+18,2011-08-12 00:09:31,"Speakeasy Saloon & Dining House, 2840 Odonnell St, Baltimore",39.2803967206,-76.5753980811
+19,2011-08-12 00:08:15,"Regi's American Bistro, 1002 Light St, Baltimore",39.2780902186,-76.612599941
+20,2011-08-12 00:04:40,"Corner, 850 W 36th St, Baltimore",39.3313368357,-76.631199631
+21,2011-08-12 00:02:29,"Little Havana, 1325 Key Hwy, Baltimore",39.2747236,-76.6030960034
+22,2011-08-11 23:59:43,"Langermann's, 2400 Boston St, Baltimore",39.281533317,-76.5813589096
+23,2011-01-18 06:36:35,"MaGerks Pub & Grill, 1061 S Charles St, Baltimore",39.2769576547,-76.6141006535
+24,2011-01-18 06:33:44,"XS, 1307 N Charles St, Baltimore",39.304962,-76.61600834
+25,2011-01-18 06:33:08,"Abbey Burger Bistro, 1041 Marshall St, Baltimore",39.2771774218,-76.6130156815
+26,2011-01-18 06:30:42,"Salt, 2127 E Pratt St, Baltimore",39.28942446,-76.5861278772
+27,2011-01-18 06:27:36,"Jack's Bistro, 3123 Elliott St, Baltimore",39.279197,-76.571918
+28,2011-01-18 06:25:40,"One-Eyed Mike's, 708 S Bond St, Baltimore",39.283134,-76.595282
+29,2011-01-18 06:17:42,"RA Sushi, 1390 Lancaster St, Baltimore",39.2824223829,-76.5976031313
+30,2011-01-18 06:15:17,"Attman's Authentic New York Delicatessen, 1019 E Lombard St, Baltimore",39.2894462177,-76.6018236303
+31,2011-01-18 06:14:06,"Thai Yum, 1006 Light St, Baltimore",39.2780289,-76.612804
+32,2011-01-18 06:12:17,"City Cafe, 1001 Cathedral St, Baltimore",39.3010899824,-76.6173407435
+33,2011-01-18 06:08:56,"Harbor East Delicatessen & Pizzeria, 1006 Aliceanna St, Baltimore",39.2833261833,-76.599682
+34,2011-01-18 06:07:37,"Cafe Hon, 1002 W 36th St, Baltimore",39.3311200344,-76.6328411476
+35,2011-01-18 06:06:13,"The Rowhouse Grille, 1400 Light St, Baltimore",39.27428,-76.6120111942
+36,2011-01-18 06:04:41,"Ropewalk Tavern, 1209 S Charles St, Baltimore",39.2755446752,-76.6142529804
+37,2011-01-18 06:02:37,"Big Jim's Deli, 1065 S Charles St #30, Baltimore",39.276913,-76.612761
+38,2011-01-18 06:00:18,"YogaWorks Federal Hill, 1024 Light St., Baltimore",39.27758914,-76.61264228
+39,2011-01-18 05:58:26,"Sticky Rice, 1634 Aliceanna St, Baltimore",39.2835629952,-76.5938508327
+40,2011-01-18 05:56:35,"Delia Foley's Pub, 1439 S Charles St, Baltimore",39.2727091296,-76.6139799356
+41,2010-05-25 04:23:45,"Seadog Baltimore, Light Street, Baltimore",39.2845644505,-76.6118439363
+42,2010-05-25 04:22:07,"Don't Know Tavern, 1453 Light St, Baltimore",39.2728834847,-76.611708532
+43,2010-05-25 04:21:14,"Clementine, 5402 Harford Rd, Baltimore",39.3513053259,-76.5622933227
+44,2010-04-26 22:23:02,"Ryleigh's Oyster, 36 E Cross St, Baltimore",39.2770150777,-76.6131584789
+45,2010-04-26 22:13:59,"The Reserve, 1542 Light St, Baltimore",39.2717832327,-76.611795
+46,2010-04-26 22:11:50,"Annabel Lee Tavern, 601 S Clinton St, Baltimore",39.2854029727,-76.569765795
+47,2010-04-26 22:09:55,"Langermann's, 2400 Boston St, Baltimore",39.281533317,-76.5813589096
+48,2010-04-26 22:07:32,"Bartenders, 2218 Boston St, Baltimore",39.2835415951,-76.5850536596
+49,2010-04-26 21:57:26,"Sotto Sopra, 405 N Charles St, Baltimore",39.294352,-76.615449
+50,2010-04-26 21:53:15,"Charles Theatre, 1711 N Charles St, Baltimore",39.3092621866,-76.6163347642
+51,2010-01-27 03:27:40,"YogaWorks Towson, 7 Allegheny Ave., Towson",39.4015562989,-76.6032003406
+52,2010-01-27 03:23:59,"Pazo, 1425 Aliceanna St, Baltimore",39.28325445,-76.597162
+53,2010-01-22 22:17:53,"Woodberry Kitchen, 2010 Clipper Park Rd, Baltimore",39.3318649379,-76.6452276707
+54,2010-01-22 22:16:01,"Spoons Cafe, 24 E Cross St, Baltimore",39.2769536047,-76.613434926
+55,2010-01-22 22:14:13,"Patapsco Valley State Park, 8020 Baltimore National Pike, Ellicott City",39.2954570751,-76.7860852549
+56,2010-01-22 22:12:38,"Thai Arroy Restaurant, 1019 Light St, Baltimore",39.2777940735,-76.6123773158

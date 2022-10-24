@@ -1,0 +1,99 @@
+,time,poi,latitude,longitude
+0,2015-01-12 19:22:10,"Avenue des Champs-lyses, Avenue des Champs-lyses, Paris",48.8711793338,2.30296611786
+1,2015-01-12 19:20:50,"Place de la Concorde, Place de la Concorde, Paris",48.8658083112,2.32098333618
+2,2015-01-12 19:20:03,"Grande Roue de Paris, Place de la Concorde, Paris",48.865197,2.321977
+3,2015-01-12 19:18:15,"Mercure Terminus Nord, 12 boulevard de Denain, Paris",48.8796891321,2.35511602991
+4,2015-01-12 19:16:57,"Paris Charles de Gaulle Airport (CDG), Route de la Commune, Roissy-en-France",49.006826919,2.54908561707
+5,2015-01-12 19:16:00,"EXKi, Terminal 2E, Hall L, Tremblay-en-France",49.004951,2.584996
+6,2015-01-12 19:14:33,"Braugarten, Shopping Metr Santa Cruz, So Paulo",-23.5988742465,-46.6369628906
+7,2015-01-12 19:13:28,"Escola Superior de Propaganda e Marketing (ESPM), R. Joaquim Tvora, 1240, So Paulo",-23.5869536652,-46.6444345706
+8,2015-01-12 19:12:15,"Parquia Bar, R. Joaquim Tvora, 1139, So Paulo",-23.5870097008,-46.6431432691
+9,2015-01-12 19:11:25,"KFC, Shopping Metr Santa Cruz, So Paulo",-23.5993047782,-46.6373328261
+10,2015-01-12 19:10:10,"K'Pop Chicken, R. Loefgreen, 1278, So Paulo",-23.5996510809,-46.6381951605
+11,2015-01-12 19:08:35,"Hiro, Shopping Ptio Paulista, So Paulo",-23.57078,-46.643422
+12,2015-01-12 18:34:03,"Taii Gastronomia Oriental, Doutor Amancio de Carvalho,, So Paulo",-23.5838224766,-46.6481719926
+13,2014-12-12 21:58:47,"Per de Angra dos Reis, R. Pe. Julio Maria, Angra dos Reis",-23.0083211629,-44.3157063447
+14,2014-12-12 21:56:08,"Santa Satisfao, R. Sta. Clara, 36C, Rio de Janeiro",-22.9721971939,-43.1866411562
+15,2014-12-12 21:54:36,"Copacabana Beach, Av. Atlntica, Rio de Janeiro",-22.9703953607,-43.1838653048
+16,2014-12-12 21:53:17,"La Maison, Av. Atlntica, 2634, Rio de Janeiro",-22.9727670719,-43.185827805
+17,2014-12-09 17:27:32,"Carioca da Gema, R. Mem de S, 79, Rio de Janeiro",-22.9130665872,-43.1819547491
+18,2014-12-08 17:29:27,"Koji Sushi, Av. Dr. Altino Arantes, 302, So Paulo",-23.6026794922,-46.6399010244
+19,2014-12-08 17:27:07,"Cervejaria Devassa, R. Bolvar, 8, Rio de Janeiro",-22.9759850016,-43.1882630906
+20,2014-11-23 23:45:35,"Rei Dos Mares II, R. Visc. de Mau, 245-355, Fortaleza",-3.72788507927,-38.4967900057
+21,2014-11-23 23:32:48,"Lagoa do Urua, Lagoa, Beberibe",-4.23099685355,-38.0669963853
+22,2014-11-23 23:30:55,"Praia de Canoa Quebrada, Canoa Quebrada, Aracati",-4.52561596776,-37.7041810262
+23,2014-11-23 23:27:00,"Hotel Osis Atlntico Imperial, Av. Beira Mar, 2500, Fortaleza",-3.72658018726,-38.4965847122
+24,2014-11-23 23:26:02,"Beach Park, R. Porto das Dunas, 2734, Aquiraz",-3.84477674302,-38.3901672901
+25,2014-10-27 18:21:10,"Nico Pasta & Basta, R. Costa Aguiar, 1586, So Paulo",-23.5881182362,-46.6063222615
+26,2014-04-14 23:43:27,"Yoi! Rolls & Temaki, R. Santa Cruz, 198, So Paulo",-23.5968318869,-46.6347788957
+27,2014-04-07 20:11:52,"Vintage Burger, Av. Dr. Ricardo Jafet, 1889, So Paulo",-23.5925478579,-46.6206922208
+28,2014-03-18 04:54:31,"So Paulo / Guarulhos International Airport (GRU), Rod. Hlio Smidt, s/n, Guarulhos",-23.426364599,-46.4809792561
+29,2013-09-27 20:03:14,"Brz Pizzaria, R. Sergipe, 406, So Paulo",-23.54797607,-46.6576266289
+30,2013-09-04 04:06:57,"Braugarten, Shopping Ptio Higienpolis, So Paulo",-23.5422595577,-46.6574767024
+31,2013-09-04 04:03:49,"Krystal Chopps, R. Cardoso de Almeida, 754, So Paulo",-23.5374319542,-46.6680514837
+32,2013-08-10 04:14:01,"Ryoko Sushi, R. Jaime do Espirito Santo, 66, So Paulo",-23.658101372,-46.6921890352
+33,2013-08-09 23:52:36,"00K e-business tools, Rua Agostinho Gualda Martim, So Paulo",-23.6655256675,-46.692226774
+34,2013-07-28 01:53:16,"Meat Chopper Burgers, R. dos Pinheiros, 507, So Paulo",-23.5658604929,-46.6828825771
+35,2013-07-27 01:18:55,"Padaria Palmeiras, P. Mal. Deodoro, 268, So Paulo",-23.5339698044,-46.6552469965
+36,2013-07-26 21:01:34,"Toshiro Sushi, R. Martim Francisco, 98, So Paulo",-23.5381443897,-46.6515373258
+37,2013-07-26 21:00:24,"Pizzaria Speranza, R. Treze de Maio, 1004, So Paulo",-23.5621338575,-46.6460133969
+38,2013-07-25 19:21:05,"America, Av. Paulista, 2295, So Paulo",-23.5571886935,-46.6612198153
+39,2013-07-22 02:20:12,"Sao Paulo Airport / Congonhas (CGH), Av. Washington Luiz, s/n, So Paulo",-23.6263485725,-46.6599045082
+40,2013-07-22 00:50:40,"So Paulo / Guarulhos International Airport (GRU), Rod. Hlio Smidt, s/n, Guarulhos",-23.426364599,-46.4809792561
+41,2013-07-21 18:30:55,"Cia do Chopp, Av. Conselheiro Aguiar, 2775, Recife",-8.11383017752,-34.8929149835
+42,2013-07-21 02:27:55,"Boteco Maxime, Av. Boa Viagem, 21, Recife",-8.091529,-34.88224415
+43,2013-07-21 02:22:49,"Guaiamum Gigante, R. Artur Muniz, 82, Recife",-8.10472151698,-34.8872867972
+44,2013-07-20 10:31:28,"Bar Central, R. Mamede Simes, 144, Recife",-8.05783271679,-34.8801407218
+45,2013-07-19 18:31:10,"DuJuZ, R. Itapicuru, 887, So Paulo",-23.5330201266,-46.6719274211
+46,2013-07-19 18:22:58,"E-commerce School, Av. Paulista, 171, 1 andar, So Paulo",-23.5700121285,-46.6461076568
+47,2013-07-11 04:44:45,"Wraps, Shopping Ptio Higienpolis, So Paulo",-23.5421804261,-46.6574012773
+48,2013-07-10 03:11:21,"Barraca Paraso do Leblon, Posto 12, Rio de Janeiro",-22.988026,-43.224877
+49,2013-07-10 03:07:43,"Leblon Spot Design Hostel, R. Dias Ferreira, 636, Rio de Janeiro",-22.982163,-43.22437
+50,2013-07-10 03:00:34,"Bar Urca, R. Candido Gaffre, 205, Rio de Janeiro",-22.9435056745,-43.1601815938
+51,2013-07-10 02:54:09,"Casa do Alemo, Av. Ataulfo de Paiva, 644, Rio de Janeiro",-22.9840392062,-43.2220602036
+52,2013-07-10 02:51:52,"Damasco, R. do Rosrio, 148, Rio de Janeiro",-22.9035687995,-43.1793441698
+53,2013-05-18 05:04:32,"Pub Kei, Av. Paulista, 854, Lj. 69, So Paulo",-23.5657470766,-46.6505239313
+54,2013-05-17 06:21:41,"Adega Santiago, R. Sampaio Vidal, 1072, So Paulo",-23.571243166,-46.6890426643
+55,2013-05-10 04:24:54,"Bar Salve Jorge, P. Antnio Prado, 33, So Paulo",-23.5458561073,-46.6345857071
+56,2013-05-05 08:48:04,"Bar Veloso, R. Conceio Veloso, 56, So Paulo",-23.5850208049,-46.6352033615
+57,2013-05-03 09:48:11,"Ciao! Vino & Birra, R. Tutia, 451, So Paulo",-23.5747612444,-46.6506559071
+58,2013-05-03 09:46:49,"Ciao! Vino & Birra, R. Tutia, 451, So Paulo",-23.5747612444,-46.6506559071
+59,2013-04-20 01:05:58,"Schnapshaus, R. Diogo Moreira, 119, So Paulo",-23.569877078,-46.6926985112
+60,2013-04-13 08:29:21,"Jardim de Napoli, R. Dr. Martinico Prado, 463, So Paulo",-23.542753,-46.655828
+61,2013-04-04 04:35:43,"Praa de Alimentao, Shopping Ptio Higienpolis, So Paulo",-23.5423040133,-46.6574389899
+62,2013-03-30 02:26:23,"Tok&Stok, Shopping Ptio Higienpolis, So Paulo",-23.5420746967,-46.6570901871
+63,2013-03-04 09:21:16,"Dona Dela Padaria & Cia, R. Cons. Brotero, 1422, So Paulo",-23.538777189,-46.6614407301
+64,2013-03-01 00:24:18,"Estao Paulista (Metr), R. da Consolao, 2367, So Paulo",-23.5551360473,-46.6620254517
+65,2013-03-01 00:02:03,"Black Dog, Al. Joaquim Eugnio de Lima, 614, So Paulo",-23.5668513089,-46.6515943408
+66,2013-02-26 01:06:43,"Scheherasade, R. Bsa. de It, 340, So Paulo",-23.5395941908,-46.6564019057
+67,2013-02-19 00:59:59,"Toshiro Sushi, R. Martim Francisco, 98, So Paulo",-23.5381443897,-46.6515373258
+68,2013-02-15 21:48:03,"Outback Steakhouse, Shopping Ptio Higienpolis, So Paulo",-23.5415647726,-46.6583393849
+69,2013-02-15 21:47:24,"Talch, Shopping Ptio Higienpolis, So Paulo",-23.5419720865,-46.6583676699
+70,2013-02-15 21:46:56,"Rua Pirajussara, R. Pirajussara, So Paulo",-23.570526968,-46.705621122
+71,2013-02-15 21:45:17,"Baronesa Boulangerie Ptisserie, R. Bsa. de It, 536, So Paulo",-23.5392654557,-46.6580942496
+72,2013-02-15 21:44:58,"Praa de Alimentao, Shopping Ptio Higienpolis, So Paulo",-23.5423040133,-46.6574389899
+73,2013-02-15 21:43:31,"St. Marche, Shopping Ptio Higienpolis, So Paulo",-23.5415816079,-46.6572457135
+74,2013-02-15 21:42:25,"Shopping Ptio Higienpolis, Av. Higienpolis, 618, So Paulo",-23.5424681298,-46.6576051712
+75,2013-02-15 21:41:38,"Aoyama, P. Vilaboim, 63, So Paulo",-23.5445325221,-46.6604749418
+76,2013-02-15 21:40:59,"Natural da Terra, R. Rosa e Silva, 211, So Paulo",-23.5347172804,-46.6575407982
+77,2013-02-09 00:47:16,"Central Lanches, Metr Faria Lima, So Paulo",-23.5675006569,-46.6934155602
+78,2013-01-30 21:17:09,"Estao Anhangaba (Metr), R. Formosa, s/n, So Paulo",-23.5480449178,-46.6391515732
+79,2013-01-30 21:16:29,"Estao Repblica (Metr), R. do Arouche, 24, So Paulo",-23.5441343691,-46.642888783
+80,2013-01-30 21:15:46,"Estao Santa Ceclia (Metr), Lg. Santa Ceclia, S/N, So Paulo",-23.5389340529,-46.6493785846
+81,2013-01-30 18:55:25,"Estao Marechal Deodoro (Metr), P. Marechal Deodoro, S/N, So Paulo",-23.5335845493,-46.6558880857
+82,2013-01-19 00:23:36,"Bagatelle, R. Padre Joo Manuel, 950, So Paulo",-23.5653183184,-46.6658307354
+83,2013-01-18 04:56:56,"Estao S (Metr), P. da S, S/N, So Paulo",-23.5505225944,-46.6327669431
+84,2013-01-18 04:49:38,"Natural da Terra, R. Rosa e Silva, 211, So Paulo",-23.5347172804,-46.6575407982
+85,2013-01-18 04:48:24,"Frang, Lrg. da Matriz de Ns. do , 168, So Paulo",-23.5012188698,-46.6992183746
+86,2013-01-18 04:47:36,"Bar Veloso, R. Conceio Veloso, 56, So Paulo",-23.5850208049,-46.6352033615
+87,2013-01-18 04:47:05,"Bar Veloso, R. Conceio Veloso, 56, So Paulo",-23.5850208049,-46.6352033615
+88,2013-01-18 04:45:19,"Meats, R. dos Pinheiros, 320, So Paulo",-23.564949017,-46.6810667697
+89,2013-01-18 04:44:32,"Meats, R. dos Pinheiros, 320, So Paulo",-23.564949017,-46.6810667697
+90,2013-01-18 04:43:00,"Meats, R. dos Pinheiros, 320, So Paulo",-23.564949017,-46.6810667697
+91,2013-01-18 04:42:15,"Meats, R. dos Pinheiros, 320, So Paulo",-23.564949017,-46.6810667697
+92,2012-09-23 08:26:40,"The Clock Rock Bar, R. Turiass, 806, So Paulo",-23.5328312351,-46.6708098755
+93,2010-08-13 23:20:45,"Sorveteria e Lanchonete Yp, R. Vergueiro, 2137, So Paulo",-23.5807435419,-46.638507843
+94,2010-07-31 08:17:23,"Konstanz, Av. Arats, 713, So Paulo",-23.6114580777,-46.6604375839
+95,2010-06-27 02:03:36,"Yucatn, Av. Pres. Juscelino Kubitschek, 393, So Paulo",-23.5868961243,-46.6743417821
+96,2010-03-21 04:45:28,"Habib's, R. Vieira de Morais, 832, So Paulo",-23.6208951584,-46.6736555099
+97,2010-03-20 06:41:59,"Joakin's, R. Joaquim Floriano, 163, So Paulo",-23.5837958248,-46.6715831955

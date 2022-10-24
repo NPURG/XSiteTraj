@@ -1,0 +1,81 @@
+,time,poi,latitude,longitude
+0,2016-01-20 06:09:51,"Toby's Estate Coffee, 44 Charles St, New York",40.7349335825,-74.0021198988
+1,2014-11-02 00:31:03,"Otto Enoteca Pizzeria, 1 5th Ave, New York",40.732056086,-73.9960848719
+2,2014-10-27 00:38:15,"Macondray Lane, Between Taylor and Jones, San Francisco",37.7992428961,-122.414847314
+3,2014-10-26 22:47:48,"Elephant Sushi, 1916 Hyde St, San Francisco",37.7986270533,-122.418811732
+4,2014-10-26 22:46:49,"Stones Throw, 1896 Hyde St, San Francisco",37.7980687488,-122.418808937
+5,2014-10-26 22:40:20,"Ritual Coffee Roasters, 1026 Valencia St, San Francisco",37.756501,-122.421146
+6,2014-10-26 22:38:03,"Umami Mart, 815 Broadway, Oakland",37.8004781889,-122.273699144
+7,2014-10-26 22:34:41,"Book Passage, One Ferry Building #42, San Francisco",37.7957288761,-122.393317223
+8,2014-10-26 22:32:06,"Ordinaire, 3354 Grand Ave, Oakland",37.8135667903,-122.246442104
+9,2014-10-26 22:30:25,"Dig Wines, 1005 Minnesota St, San Francisco",37.7575980347,-122.390098368
+10,2014-10-26 22:25:16,"Rveille Coffee Co., 200 Columbus Ave, San Francisco",37.7972124997,-122.405499816
+11,2014-10-26 22:19:06,"Regalito Rosticeria, 3481 18th St, San Francisco",37.7616676833,-122.421335
+12,2014-10-26 22:11:41,"Boot & Shoe Service, 3308 Grand Ave, Oakland",37.8128586628,-122.246835417
+13,2014-09-02 22:18:31,"Otto Enoteca Pizzeria, 1 5th Ave, New York",40.732056086,-73.9960848719
+14,2014-09-02 22:02:53,"Intelligentsia Coffee, 180 10th Ave, New York",40.7459076802,-74.0050166845
+15,2014-02-04 23:42:32,"Casa Glebinias Hotel Jardn, Medrano 2272, Chacras de Coria",-32.9987368305,-68.890954987
+16,2013-12-20 00:40:22,"Toby's Estate Coffee, 160 5th Ave, New York",40.7400822479,-73.9906387164
+17,2013-12-07 06:31:00,"Strand Bookstore at Club Monaco, 160 5th Ave, New York",40.7403151811,-73.990623951
+18,2013-11-23 23:14:14,"Quimera Deli, Humboldt 1981, Ciudad de Buenos Aires",-34.582675661,-58.4326636791
+19,2013-11-22 04:04:35,"Ivan Ramen Slurp Shop, 600 11th Ave, New York",40.7624405481,-73.997054719
+20,2013-11-20 05:09:42,"SUBWAY, 250 10th Ave, New York",40.7485737061,-74.0032947063
+21,2013-09-23 04:14:26,"Lafayette, 380 Lafayette St, New York",40.7276490336,-73.9936065674
+22,2013-08-27 06:58:06,"The NoMad Restaurant, 1170 Broadway, New York",40.7450743371,-73.9885612169
+23,2013-08-26 01:55:27,"Cull & Pistol, 75 9th Ave, New York",40.7424632692,-74.0062594138
+24,2013-08-25 03:14:47,"Intelligentsia Coffee, 180 10th Ave, New York",40.7459076802,-74.0050166845
+25,2013-05-28 00:44:37,"Coquillages Astoux & Brun, 27 rue Flix Faure et Louis Blanc, Cannes",43.5518051486,7.0133811878
+26,2013-05-23 06:49:39,"The Raleigh Hotel, 1775 Collins Ave, Miami Beach",25.7937433254,-80.1290019066
+27,2013-05-11 14:08:23,"Milan Malpensa Airport (MXP), Aeroporto Malpensa 2000, Case Nuove",45.6274857295,8.7129087409
+28,2013-05-07 22:22:20,"Stazione di Poggibonsi-San Gimignano, Piazza Mazzini, 3, Poggibonsi",43.4678553699,11.1493635178
+29,2013-05-07 16:14:55,"Mercato Centrale Firenze, Piazza del Mercato Centrale, Firenze",43.7765942135,11.2532615662
+30,2013-05-03 19:19:54,"Osteria da Rioba, Fondamenta de la Misericordia, Venezia",45.4446463929,12.3316875356
+31,2013-04-29 07:09:03,"Chop Shop, 254 10th Ave, New York",40.7488425638,-74.0034016445
+32,2013-04-14 22:53:44,"Equinox Highline, 100 Tenth Avenue, New York",40.743804,-74.006732
+33,2013-02-25 04:44:40,"Chelsea Waterside Park Dog Run, 599 W 22nd St, New York",40.748669,-74.0074490177
+34,2013-02-25 01:52:57,"Foragers City Grocer, 300 W 22nd St, New York",40.7446975404,-73.9991149105
+35,2013-02-17 09:02:09,"Htel Americano, 518 W 27th St, New York",40.7503977132,-74.0034245986
+36,2013-02-09 00:06:59,"Soho House, 2935 9th Ave, New York",40.7405631144,-74.0059018135
+37,2013-02-01 07:22:23,"Andy Warhol's Factory, 33 Union Sq W, New York",40.7363481234,-73.9900445938
+38,2013-01-17 10:52:28,"Chicago O'Hare International Airport (ORD), 10000 W Ohare Ave, Chicago",41.97151,-87.89537
+39,2013-01-08 20:58:28,"John F. Kennedy International Airport (JFK), at JFK Access Rd, Queens",40.6441369426,-73.7845654802
+40,2013-01-02 04:12:57,"Sullivan Street Bakery, 236 9th Ave, New York",40.7472911279,-74.0004864462
+41,2013-01-01 09:33:25,"Godfrey Partridge Residence, 344 Bowery, New York",40.72630921,-73.9917904
+42,2012-12-25 03:37:13,"The Tippler, 425 W 15th St, New York",40.7422415088,-74.006173337
+43,2012-09-10 03:01:40,"Barbuto, 775 Washington St, New York",40.7377138585,-74.0080153942
+44,2011-09-06 06:02:57,"Murray's Cheese, 254 Bleecker St, New York",40.7310939262,-74.0028450057
+45,2011-09-06 06:02:46,"Cinpolis Chelsea, 260 W 23rd St, New York",40.7449491772,-73.997990129
+46,2011-09-06 06:02:32,"Equinox Greenwich Avenue, 97 Greenwich Ave, New York",40.737569,-74.001891
+47,2011-09-06 06:02:16,"Caf Grumpy, 224 W 20th St, New York",40.7427878188,-73.9983574053
+48,2011-09-06 05:34:08,"Cookshop, 156 10th Ave, New York",40.7456589565,-74.0056511372
+49,2011-09-04 00:02:27,"UNIQLO, 546 Broadway, New York",40.7234860762,-73.9981663227
+50,2011-08-28 07:45:32,"Les Deux Magots, 6 place Saint-Germain-des-Prs, Paris",48.8540650993,2.33307123184
+51,2011-08-28 07:45:15,"Luxembourg Garden, Place Edmond Rostand, Paris",48.8470251377,2.33741286297
+52,2011-08-28 07:44:55,"Place des Vosges, Place des Vosges, Paris",48.8556234268,2.36553132534
+53,2011-08-28 07:44:34,"Caf Charlot, 38 rue de Bretagne, Paris",48.862903,2.362553
+54,2011-08-28 07:44:03,"Gertrude Stein's Apartment, 27 rue de Fleurus, Paris",48.847029,2.329212
+55,2011-08-28 07:43:52,"Merci, 111 boulevard Beaumarchais, Paris",48.8607622103,2.36696630716
+56,2011-08-28 07:43:38,"E. Dehillerin, 18 rue Coquillire, Paris",48.8637421437,2.34271629207
+57,2011-08-28 07:43:29,"Shakespeare & Company, 37 rue de la Bcherie, Paris",48.8525755542,2.34710723162
+58,2011-08-28 07:42:45,"Cinpolis Chelsea, 260 W 23rd St, New York",40.7449491772,-73.997990129
+59,2011-08-14 10:37:32,"Lili and Loo, 259 Warren St, Hudson",42.2530221753,-73.7914535766
+60,2011-08-05 00:13:25,"Cookshop, 156 10th Ave, New York",40.7456589565,-74.0056511372
+61,2011-08-04 22:44:36,"Joe The Art Of Coffee, 405 W 23rd St, New York",40.7466067096,-74.0016746521
+62,2011-07-18 00:43:53,"Astor Wines & Spirits, 399 Lafayette St, New York",40.7280140403,-73.993037569
+63,2011-07-16 22:47:40,"Union Square Greenmarket, 1 Union Sq W, New York",40.7365269713,-73.9905595779
+64,2011-06-13 21:09:12,"General Society of Mechanics & Tradesmen, 20 W 44th St, New York",40.7553982684,-73.9813414446
+65,2011-06-13 21:08:56,"Oak Room - Algonquin Hotel, 59 W 44th St, New York",40.756025,-73.982721
+66,2011-06-13 21:08:45,"McNally Jackson Books, 52 Prince St, New York",40.7233702089,-73.9960205555
+67,2011-06-06 21:41:30,"Joe's Pub at The Public, 425 Lafayette St, New York",40.7293006376,-73.9919299685
+68,2011-06-06 21:40:55,"The McKittrick Hotel, 530 W 27th St, New York",40.7508878031,-74.0038951579
+69,2011-06-06 21:40:36,"Smorgasburg Williamsburg, 90 Kent Ave, Brooklyn",40.7208687104,-73.9622519332
+70,2011-05-23 18:24:15,"Tabar, 221 S 1st St, Brooklyn",40.7129706904,-73.9590835571
+71,2011-04-06 01:38:52,"Westville Chelsea, 246 W 18th St, New York",40.74204,-73.99999
+72,2011-03-15 02:39:45,"Prune, 54 E 1st St, New York",40.7236021224,-73.9895712747
+73,2010-06-24 14:21:40,"La Maison Sur La Sorgue, 6 Rue Rose Goudard, L'Isle-sur-la-Sorgue",43.9195099721,5.05272034937
+74,2010-06-22 17:26:35,"Le Cavendish, 11 boulevard Carnot, Cannes",43.5553213019,7.01693972372
+75,2010-04-09 07:24:16,"The Red Cat, 227 10th Ave, New York",40.7480941545,-74.00413692
+76,2010-03-25 02:49:40,"La Colombe Torrefaction, 319 Church St, New York",40.7200740452,-74.0039525431
+77,2010-01-25 02:37:03,"Gristedes Supermarkets #545, 225 9th Ave, New York",40.7472032181,-74.0012324658
+78,2010-01-18 04:28:23,"Billy's Bakery, 184 9th Ave, New York",40.7454135359,-74.0020875153
+79,2010-01-11 04:23:26,"Appellation Wine and Spirits, 156 10th Ave, New York",40.745610978,-74.0057142603

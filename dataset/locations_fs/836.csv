@@ -1,0 +1,153 @@
+,time,poi,latitude,longitude
+0,2014-03-28 22:56:33,"Drewes Brothers Meats, 1706 Church St, San Francisco",37.7435220134,-122.426709159
+1,2014-03-28 22:54:55,"La Santaneca De La Mission, 2815 Mission St, San Francisco",37.7519673227,-122.418468833
+2,2014-03-28 22:53:32,"Axum Cafe, 698 Haight St, San Francisco",37.77173664,-122.43377491
+3,2014-03-28 22:47:54,"Zero Zero, 826 Folsom St, San Francisco",37.7816711248,-122.401771545
+4,2014-03-28 22:46:46,"Tlaloc Sabor Mexicano, 525 Commercial St, San Francisco",37.7943876505,-122.401715198
+5,2014-03-28 22:41:47,"Universal Cafe, 2814 19th St, San Francisco",37.76049396,-122.410557
+6,2014-03-28 22:40:50,"ICHI Sushi + NI Bar, 3282 Mission St, San Francisco",37.7443278338,-122.420863572
+7,2014-03-28 22:40:34,"Koo, 408 Irving St, San Francisco",37.7643029731,-122.462539673
+8,2014-03-28 22:39:17,"Cha-Ya Vegetarian Japanese Restaurant, 762 Valencia St, San Francisco",37.760768,-122.4215427
+9,2014-03-28 22:37:30,"Alice's Restaurant, 1599 Sanchez St, San Francisco",37.7436384474,-122.428794024
+10,2014-03-28 00:13:28,"Shabu House, 5158 Geary Blvd, San Francisco",37.780726,-122.47492
+11,2014-03-28 00:12:36,"Bob's Donut & Pastry Shop, 1621 Polk St, San Francisco",37.791902136,-122.420929938
+12,2014-03-28 00:10:53,"Smitten Ice Cream, 432 Octavia St #1A, San Francisco",37.7762864165,-122.424194813
+13,2014-03-28 00:10:06,"Loving Cup, 2356 Polk St, San Francisco",37.79856,-122.42237845
+14,2014-03-28 00:08:55,"Ben, 22 Hawthorne St, San Francisco",37.7855265601,-122.399071099
+15,2014-03-28 00:08:15,"Tin Vietnamese, 937 Howard St, San Francisco",37.780878,-122.40566371
+16,2014-03-28 00:06:14,"Kinfolk, 903 Cortland Ave, San Francisco",37.7389465765,-122.413828526
+17,2014-03-28 00:04:48,"Fish., 350 Harbor Dr, Sausalito",37.868274,-122.49769
+18,2014-03-28 00:03:19,"Presidio Social Club, 563 Ruger St, San Francisco",37.797417,-122.448344
+19,2014-03-28 00:01:52,"La Nebbia, 1781 Church St, San Francisco",37.742441,-122.426362
+20,2014-03-28 00:01:03,"La Ciccia, 291 30th St, San Francisco",37.742229,-122.42662675
+21,2014-03-28 00:00:41,"Doob, 1723 Buchanan St, San Francisco",37.7860519201,-122.429955337
+22,2014-03-27 23:59:58,"Suzu Noodle House, 1825 Post St, San Francisco",37.7850047148,-122.431769172
+23,2014-03-27 23:59:33,"La Santaneca De La Mission, 2815 Mission St, San Francisco",37.7519673227,-122.418468833
+24,2014-03-27 23:59:08,"Yuzuki Japanese Eatery, 598 Guerrero St, San Francisco",37.761549,-122.423955
+25,2013-04-03 00:04:45,"Suzu Noodle House, 1825 Post St, San Francisco",37.7850047148,-122.431769172
+26,2013-04-03 00:03:57,"Frances, 3870 17th St, San Francisco",37.7627529556,-122.432262897
+27,2013-04-03 00:02:48,"Shabu House, 5158 Geary Blvd, San Francisco",37.780726,-122.47492
+28,2013-04-03 00:01:32,"Fish., 350 Harbor Dr, Sausalito",37.868274,-122.49769
+29,2013-04-02 23:59:10,"Axum Cafe, 698 Haight St, San Francisco",37.77173664,-122.43377491
+30,2013-04-02 23:57:14,"Wildflower Bread, 140 Bohemian Hwy, Freestone",38.3729789239,-122.904816143
+31,2013-04-02 23:55:28,"Tartine Bakery, 600 Guerrero St, San Francisco",37.7614213141,-122.42400974
+32,2013-04-02 23:52:50,"Sol Food Puerto Rican Cuisine, 901 Lincoln Ave, San Rafael",37.9718486132,-122.524133605
+33,2013-04-02 23:48:38,"Fraiche Yogurt, 1910 Fillmore St, San Francisco",37.7874166756,-122.433544267
+34,2013-04-02 23:44:19,"Presidio Social Club, 563 Ruger St, San Francisco",37.797417,-122.448344
+35,2013-04-02 23:43:06,"Cafe Campesino, 1130 Pacific Ave, Santa Cruz",36.9726848602,-122.025737
+36,2013-04-02 23:41:28,"Cha-Ya Vegetarian Japanese Restaurant, 762 Valencia St, San Francisco",37.760768,-122.4215427
+37,2013-03-13 04:54:10,"Ms P's Electric Cock, 1101 S Congress Ave, Austin",30.2561333969,-97.7462828882
+38,2013-03-13 04:51:03,"Pch, 208 W 4th St, Austin",30.2668883191,-97.7452325821
+39,2013-03-13 04:49:15,"Pueblo Viejo, 1001 East 6th St, Austin",30.265199993,-97.7330903523
+40,2013-03-13 04:47:13,"Cisco's Restaurant & Bakery, 1511 E 6th St, Austin",30.2630293139,-97.7268158799
+41,2013-03-13 04:42:14,"East Side King, 1618 1/2 E 6th St, Austin",30.2626442428,-97.7250816147
+42,2013-03-13 04:42:06,"Heritage Boots, 1200 S Congress Ave, Austin",30.25225628,-97.748843
+43,2013-03-13 04:41:44,"Take Heart, 1111 E 11th St, Austin",30.269111,-97.7288885333
+44,2013-03-13 04:41:17,"Snack Bar, 1224 S Congress Ave, Austin",30.2514482235,-97.7491848349
+45,2013-03-13 04:39:26,"Hoboken Pie, 718 Red River St, Austin",30.268208,-97.736717
+46,2013-03-13 04:38:52,"Rudy's Country Store & Bar-B-Q, 2451 S Capital of Texas Hwy, Austin",30.263589441,-97.8155601025
+47,2013-03-13 04:38:20,"Blue Dahlia Bistro, 1115 E 11th St, Austin",30.268749,-97.728744
+48,2013-03-13 03:16:20,"Heritage Boots, 1200 S Congress Ave, Austin",30.25225628,-97.748843
+49,2012-12-30 10:38:19,"Koo, 408 Irving St, San Francisco",37.7643029731,-122.462539673
+50,2012-12-30 10:32:30,"Zachary's Chicago Pizza, 5801 College Ave, Oakland",37.8463017941,-122.252052
+51,2012-12-30 10:21:40,"Pluto's, 482 University Ave, Palo Alto",37.4480264976,-122.159523252
+52,2012-12-30 10:20:26,"LYFE Kitchen, 167 Hamilton Ave, Palo Alto",37.4436582542,-122.16193378
+53,2012-12-30 10:16:10,"Urban Picnic, 125 Kearny St, San Francisco",37.789259,-122.403715
+54,2012-12-30 10:09:14,"Little Baby's Ice Cream, 2313 Frankford Ave, Philadelphia",39.964260769,-75.1407680878
+55,2012-12-30 10:06:17,"Oyster House, 1516 Sansom St, Philadelphia",39.950497,-75.166676
+56,2012-12-30 10:04:19,"DiNic's Roast Pork and Beef, 1136 Arch St, Philadelphia",39.9534115154,-75.1595458232
+57,2012-12-30 10:02:22,"Lil' Pop Shop, 265 S 44th St, Philadelphia",39.9532899845,-75.2103316784
+58,2012-12-30 10:01:43,"Pizza Brain, 2313 Frankford Ave, Philadelphia",39.9807252507,-75.1281970422
+59,2012-12-30 10:01:20,"Honest Tom's Taco Shop, 261 S 44th St, Philadelphia",39.9532661438,-75.2103347778
+60,2012-12-30 10:00:50,"Capogiro Gelato Artisans, 117 S 20th St, Philadelphia",39.951326,-75.173622
+61,2012-12-29 12:26:04,"La Santaneca De La Mission, 2815 Mission St, San Francisco",37.7519673227,-122.418468833
+62,2012-12-29 12:21:51,"Pauline's Pizza & Wine Bar, 260 Valencia St, San Francisco",37.768718,-122.422451
+63,2012-12-29 12:18:26,"Bodega Bistro, 607 Larkin St, San Francisco",37.783514,-122.417739
+64,2012-12-29 12:15:51,"Golden Flower, 667 Jackson St, San Francisco",37.796067,-122.406306717
+65,2012-12-29 12:15:48,"Golden Star Vietnamese Restaurant, 11 Walter U Lum Pl, San Francisco",37.7945025758,-122.405581659
+66,2012-12-29 12:14:34,"Burger Bar, 251 Geary St, San Francisco",37.7878603353,-122.407639288
+67,2012-12-29 12:13:26,"Wildflower Bread, 140 Bohemian Hwy, Freestone",38.3729789239,-122.904816143
+68,2012-12-29 12:11:54,"La Ciccia, 291 30th St, San Francisco",37.742229,-122.42662675
+69,2012-12-29 12:05:25,"Dijital Fix, 820 Valencia St, San Francisco",37.759723,-122.421566
+70,2012-12-29 12:00:38,"Steven Alan, 445 Hayes St, San Francisco",37.776726,-122.42381453
+71,2012-12-29 11:58:20,"Neiman Marcus, 150 Stockton St, San Francisco",37.7875637787,-122.406383696
+72,2012-12-29 11:57:23,"Eric Trabert Goldsmiths, 2420 Fillmore St, San Francisco",37.791845,-122.434358
+73,2012-12-29 11:55:28,"Love & Luxe, 1169 Valencia St, San Francisco",37.75426036,-122.420951
+74,2012-12-29 11:50:21,"Mill, 3751 24th St, San Francisco",37.7517617283,-122.426521132
+75,2012-12-29 11:47:41,"Mill, 3751 24th St, San Francisco",37.7517617283,-122.426521132
+76,2012-12-29 11:47:11,"Mill, 3751 24th St, San Francisco",37.7517617283,-122.426521132
+77,2012-12-29 11:42:08,"Britex Fabrics, 146 Geary St, San Francisco",37.787795,-122.405912
+78,2012-12-29 11:40:37,"yone, 478 Union, San Francisco",37.8006383935,-122.407351665
+79,2012-12-29 11:38:53,"Nordstrom San Francisco Centre, 865 Market St, San Francisco",37.783946,-122.407157
+80,2012-12-29 11:37:14,"UNIQLO, 111 Powell St, San Francisco",37.78584,-122.4079
+81,2012-07-25 11:15:05,"La Santaneca De La Mission, 2815 Mission St, San Francisco",37.7519673227,-122.418468833
+82,2012-06-21 03:34:18,"Stacks, 501 Hayes St, San Francisco",37.7765792396,-122.424646373
+83,2012-05-18 23:21:17,"Plow, 1299 18th St, San Francisco",37.7626490352,-122.395442269
+84,2012-05-18 07:35:14,"Isa Restaurant, 3324 Steiner St, San Francisco",37.80011493,-122.437470381
+85,2012-05-18 07:35:10,"Gary Danko, 800 N Point St, San Francisco",37.8056473927,-122.420396805
+86,2012-05-18 07:35:06,"La Folie, 2316 Polk St, San Francisco",37.7980563539,-122.422196416
+87,2012-05-16 16:32:28,"San Tung Chinese Restaurant, 1031 Irving St, San Francisco",37.7638786117,-122.468995617
+88,2012-05-16 16:31:57,"La Taqueria, 2889 Mission St, San Francisco",37.7509015677,-122.418175709
+89,2012-05-02 04:29:53,"Lahore Karahi, 612 Ofarrell St, San Francisco",37.7855134692,-122.415006597
+90,2012-05-01 15:10:31,"Lahore Karahi, 612 Ofarrell St, San Francisco",37.7855134692,-122.415006597
+91,2012-05-01 15:09:04,"Tlaloc Sabor Mexicano, 525 Commercial St, San Francisco",37.7943876505,-122.401715198
+92,2012-05-01 15:07:53,"Boboquivari's, 1450 Lombard St, San Francisco",37.8012260681,-122.425724778
+93,2012-05-01 15:06:39,"Axum Cafe, 698 Haight St, San Francisco",37.77173664,-122.43377491
+94,2012-02-05 03:55:55,"LYFE Kitchen, 167 Hamilton Ave, Palo Alto",37.4436582542,-122.16193378
+95,2012-01-02 15:43:51,"Boboquivari's, 1450 Lombard St, San Francisco",37.8012260681,-122.425724778
+96,2011-10-25 00:45:30,"Smorgasburg Williamsburg, 90 Kent Ave, Brooklyn",40.7208687104,-73.9622519332
+97,2011-10-25 00:29:27,"Boqueria, 53 W 19th St, New York",40.7401198488,-73.9938467445
+98,2011-10-25 00:28:35,"Dell'anima, 38 8th Ave, New York",40.7380688333,-74.0041132216
+99,2011-10-24 14:20:42,"Pret A Manger, 389 5th Ave, New York",40.7497423593,-73.9835969352
+100,2011-10-24 14:16:13,"Wild Ginger, 112 Smith St, Brooklyn",40.688025,-73.989899
+101,2011-10-24 14:14:24,"The Corner Cafe, 729 Avenue of the Americas, New York",40.7435126686,-73.9922456066
+102,2011-10-23 10:03:20,"Wild Ginger, 112 Smith St, Brooklyn",40.688025,-73.989899
+103,2011-10-19 00:56:20,"Kara's Cupcakes, 3249 Scott St, San Francisco",37.7997812173,-122.441267073
+104,2011-10-19 00:53:44,"Tlaloc Sabor Mexicano, 525 Commercial St, San Francisco",37.7943876505,-122.401715198
+105,2011-09-05 12:10:16,"Rand + Statler, 425 Hayes St, San Francisco",37.776779,-122.423386
+106,2011-08-26 08:18:29,"The Plant Cafe Organic, 101 California St, San Francisco",37.7924661119,-122.398257942
+107,2011-08-26 08:16:36,"City View Restaurant, 662 Commercial St, San Francisco",37.7939018588,-122.404099703
+108,2011-08-26 08:16:16,"Golden Star Vietnamese Restaurant, 11 Walter U Lum Pl, San Francisco",37.7945025758,-122.405581659
+109,2011-08-26 08:16:04,"Mixt Greens, 475 Sansome St, San Francisco",37.7942488014,-122.401543721
+110,2011-08-26 08:14:33,"Tlaloc Sabor Mexicano, 525 Commercial St, San Francisco",37.7943876505,-122.401715198
+111,2011-08-26 08:13:48,"Gambino's, 1 Embarcadero Ctr, San Francisco",37.7948429198,-122.399187264
+112,2011-08-26 08:12:21,"The House, 1230 Grant Ave, San Francisco",37.7984149886,-122.407207853
+113,2011-08-26 08:12:01,"Naked Lunch, 504 Broadway, San Francisco",37.7980142812,-122.405780786
+114,2011-08-26 08:11:38,"Out the Door, 1 Ferry Building Ste 3, San Francisco",37.7961188601,-122.394014597
+115,2011-08-26 08:10:47,"Wildflower Cafe, 411 Sansome St, San Francisco",37.7940671824,-122.401664257
+116,2011-08-26 08:10:09,"Yo Yo's, 318 Pacific Ave, San Francisco",37.79757979,-122.40121234
+117,2011-08-18 05:41:22,"Shabu House, 5158 Geary Blvd, San Francisco",37.780726,-122.47492
+118,2011-08-18 05:39:15,"Tlaloc Sabor Mexicano, 525 Commercial St, San Francisco",37.7943876505,-122.401715198
+119,2011-08-18 05:36:58,"Playground, 1705 Buchanan St, San Francisco",37.7857654125,-122.429966398
+120,2011-08-18 05:35:51,"Yo Yo's, 318 Pacific Ave, San Francisco",37.79757979,-122.40121234
+121,2011-08-17 08:50:07,"Fraiche Yogurt, 1910 Fillmore St, San Francisco",37.7874166756,-122.433544267
+122,2011-08-17 08:47:20,"Patagonia Palo Alto, 525 Alma St, Palo Alto",37.443087502,-122.163104697
+123,2011-08-17 08:46:47,"Anthropologie, 999 Alma St, Palo Alto",37.4398190076,-122.157749118
+124,2011-08-17 08:46:09,"AllSaints, 140 Geary St, San Francisco",37.7879167789,-122.405636972
+125,2011-08-17 08:37:41,"Loving Cup, 2356 Polk St, San Francisco",37.79856,-122.42237845
+126,2011-08-17 08:34:41,"Cha-Ya Vegetarian Japanese Restaurant, 762 Valencia St, San Francisco",37.760768,-122.4215427
+127,2011-08-17 08:34:22,"Fish., 350 Harbor Dr, Sausalito",37.868274,-122.49769
+128,2011-08-17 08:31:29,"Metier, 355 Sutter St, San Francisco",37.7895516064,-122.406787478
+129,2011-08-17 08:27:21,"Bulo Shoes, 418 Hayes St, San Francisco",37.776831,-122.423324
+130,2011-08-17 08:26:23,"Barneys New York, 77 Ofarrell St, San Francisco",37.7865158631,-122.40631179
+131,2011-08-17 08:26:10,"Elizabeth Charles, 2056 Fillmore St, San Francisco",37.788589,-122.433684
+132,2011-08-17 08:25:57,"James Perse, 2028 Fillmore St, San Francisco",37.788413,-122.433654
+133,2011-08-17 08:24:35,"Gimme Shoes, 2358 Fillmore St, San Francisco",37.791308,-122.434223025
+134,2011-08-17 08:24:08,"Dish Clothing, 541 Hayes St, San Francisco",37.77659649,-122.425254
+135,2011-08-17 08:23:17,"ab fits, 1519 Grant Ave, San Francisco",37.8008519662,-122.407572913
+136,2011-08-17 08:21:52,"Alla Prima Fine Lingerie, 1420 Grant Ave, San Francisco",37.80013585,-122.407461344
+137,2011-08-17 08:11:33,"Tony19s Pizza Napoletana, 1570 Stockton St, San Francisco",37.800328012,-122.409040332
+138,2011-08-17 08:11:13,"The House, 1230 Grant Ave, San Francisco",37.7984149886,-122.407207853
+139,2011-08-17 08:10:48,"Little Star Pizza, 846 Divisadero St, San Francisco",37.7775382685,-122.438283235
+140,2011-08-17 08:09:46,"Samovar Tea Lounge, 730 Howard St, San Francisco",37.784282779,-122.402265072
+141,2011-08-17 08:09:09,"Universal Cafe, 2814 19th St, San Francisco",37.76049396,-122.410557
+142,2011-08-17 08:08:53,"Bar Crudo, 655 Divisadero St, San Francisco",37.7757107962,-122.43806758
+143,2011-08-17 08:08:40,"Mom's Tofu House, 217 Grand Ave, South San Francisco",37.6547160822,-122.409160359
+144,2011-08-17 08:08:25,"SPQR, 1911 Fillmore St, San Francisco",37.7873701704,-122.433704632
+145,2011-08-17 08:08:10,"Suzu Noodle House, 1825 Post St, San Francisco",37.7850047148,-122.431769172
+146,2011-08-17 08:07:59,"Out The Door, 2232 Bush St, San Francisco",37.787004,-122.434077
+147,2011-08-17 08:07:30,"Frances, 3870 17th St, San Francisco",37.7627529556,-122.432262897
+148,2011-08-17 08:07:21,"Sushi Ran, 107 Caledonia St, Sausalito",37.858815,-122.4859201
+149,2010-11-24 09:30:39,"Oakland International Airport (OAK), 1 Airport Dr, Oakland",37.7115274308,-122.21255635
+150,2009-08-06 03:35:18,"Bistro Maxine, 548 Ramona St, Palo Alto",37.4446458,-122.1613285
+151,2009-08-06 03:34:38,"Bistro Maxine, 548 Ramona St, Palo Alto",37.4446458,-122.1613285

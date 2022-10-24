@@ -1,0 +1,69 @@
+,time,poi,latitude,longitude
+0,2016-11-18 09:43:41,"Habano, 301 Peters St SW, Atlanta",33.746885,-84.403008
+1,2016-09-20 04:40:43,"Fulton County Animal Services, 860 Marietta Blvd NW, Atlanta",33.779173,-84.42813415
+2,2016-09-18 05:58:07,"Reformation Brewery, 500 Arnold Mill Way, Woodstock",34.101597506,-84.505789876
+3,2016-08-28 00:43:05,"Mary Ray Oaken Lodge, 5970 State Park Road, Burkesville",36.638559,-85.298104
+4,2016-07-04 05:32:46,"Truck & Tap, 8640 Main St, Woodstock",34.1003632504,-84.5199429946
+5,2016-05-08 07:39:54,"Moondog Growlers, 5064 Nandina Ln Ste D, Dunwoody",33.9469718989,-84.3353703604
+6,2016-05-08 07:39:04,"Moondog Growlers, 5064 Nandina Ln Ste D, Dunwoody",33.9469718989,-84.3353703604
+7,2015-09-15 04:22:38,"Six Feet Under Pub & Fish House, 685 11th St NW, Atlanta",33.783224,-84.409647
+8,2015-05-24 05:28:20,"Thumbs Up Diner, 826 Marietta St NW, Atlanta",33.774891,-84.40668
+9,2015-05-24 05:27:35,"Meehan's Public House, 227 Sandy Springs Pl, Atlanta",33.9206249462,-84.3833041191
+10,2015-05-24 05:26:39,"Fad Irish Pub & Restaurant, 273 Buckhead Ave NE, Atlanta",33.8381736882,-84.3786385482
+11,2015-05-24 05:24:22,"The Masquerade, 695 North Ave NE, Atlanta",33.7708713359,-84.3645018339
+12,2015-05-24 05:17:10,"Barcelona Wine Bar Inman Park, 240 N Highland Ave NE, Atlanta",33.762576,-84.358923
+13,2014-10-09 09:02:21,"Hop Alley Brew Pub, 25 Main St, Alpharetta",34.075039196,-84.2947053909
+14,2014-10-09 03:53:43,"Three Dollar Cafe, 6050 Peachtree Pkwy #100, Norcross",33.9545945381,-84.2323278309
+15,2014-10-09 03:53:15,"The Mill Kitchen & Bar, 590 Mimosa Blvd, Roswell",34.0145788078,-84.3638753749
+16,2014-10-09 03:50:59,"Niffer's Place At The Lake, 7500 Highway 49 S, Dadeville",32.7361108122,-85.7880945633
+17,2014-10-09 03:50:11,"Starbucks, 2056 Interstate Dr, Opelika",32.617886,-85.403916
+18,2014-10-09 03:49:33,"Cinco Mexican Cantina, 5755 N Vickery, Cumming",34.1830152766,-84.2185628414
+19,2014-10-09 03:47:41,"Ormsby's, 1170 Howell Mill Rd NW, Atlanta",33.7856703451,-84.4118472924
+20,2014-10-09 03:45:45,"Onyx Consulting, 1634 Northside Dr NW, Atlanta",33.799727,-84.4081178
+21,2014-10-09 03:44:49,"Amlie's, 840 Marietta St NW, Atlanta",33.775307501,-84.4069225812
+22,2014-05-27 01:46:04,"Hop Alley Brew Pub, 25 Main St, Alpharetta",34.075039196,-84.2947053909
+23,2014-03-31 11:38:45,"Waller Park Soccer Fields, 198 Dobbs Dr, Roswell",34.0203844941,-84.3496374252
+24,2014-01-22 03:59:25,"Heavenly Greens, 370 Umbarger Road, San Jose",37.2985611,-121.8454514
+25,2014-01-18 07:33:30,"Swallow At The Hollow, 1072 Green St, Roswell",34.0280129667,-84.3601951
+26,2013-11-03 04:39:34,"Waller Park Extension, 160 Dobbs Drive, Roswell",34.020830433,-84.3489903975
+27,2013-04-13 07:26:21,"Diesel Pizza, 994 Alpharetta St, Roswell",34.025592,-84.36055961
+28,2013-04-10 05:02:41,"Ceviche, 963 Canton St, Roswell",34.0248200872,-84.3613905276
+29,2013-03-13 04:29:01,"Austin Bergstrom International Airport (AUS), 3600 Presidential Blvd, Austin",30.2023531815,-97.6679331652
+30,2013-03-11 09:04:46,"The Blackheart, 86 Rainey St, Austin",30.259649164,-97.7387447515
+31,2013-03-07 09:46:08,"The Blackheart, 86 Rainey St, Austin",30.259649164,-97.7387447515
+32,2013-03-07 08:56:08,"Javelina, 69 Rainey St, Austin",30.2580915294,-97.7388720603
+33,2013-03-07 08:16:35,"Clive Bar, 609 Davis St, Austin",30.2600356098,-97.738596797
+34,2013-03-06 10:55:00,"Cedar Door, 201 Brazos St, Austin",30.2642583577,-97.7426277726
+35,2013-03-06 05:47:14,"The Salt Lick, 18300 Farm to Market Rd 1826, Driftwood",30.131654089,-98.0134026561
+36,2012-11-22 08:13:35,"Lucky's Burger & Brew, 1140 Alpharetta St, Roswell",34.030091324,-84.355487
+37,2012-10-17 06:51:37,"Vin25, 25 Plum Street, Roswell",34.0268215157,-84.3605125917
+38,2012-10-10 05:37:29,"Ale Yeah! Craft Beer Market, 603 Atlanta St, Roswell",34.0150680178,-84.3626618385
+39,2012-06-15 09:02:05,"Amalfi Ristorante, 292 S Atlanta St, Roswell",34.008435,-84.358267
+40,2012-06-01 09:29:49,"George Baker Soccer Complex, 360 Cox Road, Alpharetta",34.0940333679,-84.3670392036
+41,2012-05-24 21:47:57,"Roswell Area Park, 10495 Woodstock Rd, Roswell",34.0373332445,-84.3653440475
+42,2012-03-18 06:02:52,"Swallow At The Hollow, 1072 Green St, Roswell",34.0280129667,-84.3601951
+43,2012-03-18 06:01:41,"Swallow At The Hollow, 1072 Green St, Roswell",34.0280129667,-84.3601951
+44,2012-02-25 07:20:15,"Fad Irish Pub & Restaurant, 273 Buckhead Ave NE, Atlanta",33.8381736882,-84.3786385482
+45,2012-02-03 08:43:00,"Swallow At The Hollow, 1072 Green St, Roswell",34.0280129667,-84.3601951
+46,2012-01-29 05:22:30,"Jalisco Mexican Restaurant, 2337 Peachtree Rd NE, Atlanta",33.8188217583,-84.3874883652
+47,2012-01-10 01:18:07,"KooKoo Bear Kids, 12060 Etris Rd, Roswell",34.0739836977,-84.3632695747
+48,2011-12-17 07:28:33,"Diesel Pizza, 994 Alpharetta St, Roswell",34.025592,-84.36055961
+49,2011-11-24 02:03:40,"Roswell Area Park, 10495 Woodstock Rd, Roswell",34.0373332445,-84.3653440475
+50,2011-10-23 01:34:31,"Georgia Tech Research Institute Conference Center, 250 14th St NW, Atlanta",33.7856459143,-84.3949784431
+51,2011-09-15 09:10:23,"Sheraton Boston Hotel, 39 Dalton St, Boston",42.3463960804,-71.0842689351
+52,2011-08-16 01:54:12,"Whole Foods Market, 77 West Paces Ferry Rd Nw, Atlanta",33.8409422906,-84.3817484379
+53,2011-08-16 01:52:35,"Los Bravos, 3342 Trickum Rd, Woodstock",34.0901304043,-84.4848691553
+54,2011-07-17 23:45:15,"Roswell Area Park, 10495 Woodstock Rd, Roswell",34.0373332445,-84.3653440475
+55,2011-06-27 23:35:58,"Roswell Area Park, 10495 Woodstock Rd, Roswell",34.0373332445,-84.3653440475
+56,2011-06-25 06:44:10,"The Roswell Tap, 1090 Alpharetta St, Roswell",34.0281931155,-84.3582415581
+57,2011-06-23 01:38:11,"Thai Emerald, 540 W Crossville Rd, Roswell",34.0555516516,-84.3784383769
+58,2011-06-23 01:37:25,"Diesel Pizza, 994 Alpharetta St, Roswell",34.025592,-84.36055961
+59,2011-06-23 01:36:19,"MediaFirst, 415 State Street, Roswell",34.0519274288,-84.383934287
+60,2011-01-16 12:19:08,"Miller's Kissimmee Ale House, 8123 W Irlo Bronson Memorial Hwy, Kissimmee",28.3474859005,-81.6122174566
+61,2010-11-21 09:50:46,"Greenwood's on Green Street, 1087 Green St, Roswell",34.0281499,-84.359739
+62,2010-10-10 02:38:21,"Greenwood's on Green Street, 1087 Green St, Roswell",34.0281499,-84.359739
+63,2010-10-10 02:37:30,"Greenwood's on Green Street, 1087 Green St, Roswell",34.0281499,-84.359739
+64,2010-10-10 02:36:21,"Swallow At The Hollow, 1072 Green St, Roswell",34.0280129667,-84.3601951
+65,2010-10-10 02:35:10,"Pet Fancy, 1045 Canton St, Roswell",34.0272928906,-84.3612159683
+66,2010-10-10 02:34:13,"Ceviche, 963 Canton St, Roswell",34.0248200872,-84.3613905276
+67,2010-04-25 03:59:23,"Windy City Grill, Woodstock Rd, Roswell",34.057663,-84.383659

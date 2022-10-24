@@ -1,0 +1,83 @@
+,time,poi,latitude,longitude
+0,2016-06-05 12:18:15,"Novo Caf, 3900 W Riverside Dr, Burbank",34.1520999315,-118.341865859
+1,2016-06-05 12:16:50,"Chase Bank, 10050 Riverside Dr, Toluca Lake",34.151987,-118.349891
+2,2016-06-05 12:15:37,"McKenna BMW, 10900 Firestone Blvd, Norwalk",33.9232744878,-118.102366379
+3,2016-06-05 12:12:25,"The Buffet at Wynn, 3131 Las Vegas Blvd S, Las Vegas",36.1265119119,-115.165637996
+4,2016-06-05 12:11:41,"Fremont Street Experience, 425 Fremont St, Las Vegas",36.1703057566,-115.142876586
+5,2016-06-05 12:10:27,"Burbank Bike Shop, 4400 W Victory Blvd, Burbank",34.184566,-118.358521
+6,2016-06-05 12:09:07,"Subway, 2017 N Hollywood Way, Burbank",34.185475,-118.349522352
+7,2016-06-05 12:08:35,"Wienerschnitzel, 3203 W Alameda Ave, Burbank",34.1559898853,-118.335607
+8,2016-06-05 12:07:28,"Panda Express, 1541 N Victory Pl, Burbank",34.190208,-118.327194
+9,2016-06-05 12:06:37,"McDonald's, 10901 Riverside Dr, North Hollywood",34.1525094545,-118.367777467
+10,2016-06-05 12:06:19,"McKenna BMW, 10900 Firestone Blvd, Norwalk",33.9232744878,-118.102366379
+11,2016-02-22 12:24:39,"Honeymee Cerritos, 12763 Towne Center Dr Ste SJ-1, Cerritos",33.8712868613,-118.05933634
+12,2016-01-23 07:37:20,"Caught The Vapors, 2718 W Burbank Blvd, Burbank",34.1776264776,-118.340798583
+13,2015-12-22 06:19:59,"IKEA Restaurant and Cafe, 600 N San Fernando Blvd, Burbank",34.185297859,-118.313931808
+14,2015-09-28 06:47:58,"Starbucks, 1258 S LA Brea Ave, Los Angeles",34.051170729,-118.344108831
+15,2015-09-20 10:15:32,"Zankou Chicken, 10760 Riverside Dr, North Hollywood",34.152115,-118.3655378
+16,2015-09-20 10:15:12,"Zankou Chicken, 10760 Riverside Dr, North Hollywood",34.152115,-118.3655378
+17,2015-08-31 08:05:06,"Burbank Laundry, 3423 Hollywood Way, Burbank",34.1849043825,-118.348868626
+18,2015-08-31 08:04:41,"Burbank Laundry, 3423 Hollywood Way, Burbank",34.1849043825,-118.348868626
+19,2015-08-26 11:17:36,"Concourse B / Central Terminal B Airside, at SMF Airport, Sacramento",38.6955736667,-121.593628753
+20,2015-03-29 10:18:03,"The Coffee Bean & Tea Leaf, 763 Americana Way, Glendale",34.14360307,-118.2552791
+21,2014-09-21 12:45:47,"Alfredo's Mexican Food, 911 San Fernando Blvd., Burbank",34.1867797515,-118.317008547
+22,2014-08-25 08:54:13,"Zankou Chicken, 10760 Riverside Dr, North Hollywood",34.152115,-118.3655378
+23,2014-08-18 09:57:38,"Best Buy, 1501 N Victory Pl, Burbank",34.18926333,-118.3274746
+24,2014-08-15 11:39:58,"Starbucks, 1450 W 190th St, Torrance",33.858028,-118.302987
+25,2014-08-15 11:39:40,"Mermaid's Casino, 32 Fremont St, Las Vegas",36.1714746603,-115.1452854
+26,2014-08-15 11:38:54,"Hook Burger Bistro, 1731 N Victory Pl, Burbank",34.191153,-118.32905057
+27,2014-08-08 15:34:24,"Daikokuya, 327 E 1st St, Los Angeles",34.0498506802,-118.240318958
+28,2014-05-24 12:27:48,"Burbank Athletic Club, 226 E Palm Ave, Burbank",34.1825715054,-118.310286999
+29,2014-04-06 13:08:48,"Bravo Pizza and Chicken, 10544 Magnolia Blvd, North Hollywood",34.1647494718,-118.360955848
+30,2014-02-18 12:52:12,"Seoul Korean BBQ, 122 N San Fernando Blvd, Burbank",34.1812564804,-118.309034028
+31,2014-01-27 12:28:30,"The Counter, 10123 Riverside Dr Ste A, Toluca Lake",34.1523363215,-118.351635933
+32,2013-09-13 05:21:17,"Western Bagel, 513 N Hollywood Way, Burbank",34.1598561825,-118.344018459
+33,2013-05-17 05:56:27,"Apollo Char-Burger Grill, 401 Glenoaks Blvd, Burbank",34.185307,-118.30947791
+34,2013-01-23 13:09:06,"The Park Bar & Grill, 2007 W Burbank Blvd, Burbank",34.1806804906,-118.332962167
+35,2013-01-18 18:03:21,"The Habit Burger Grill, 103 E. Alameda Ave., Burbank",34.17444218,-118.3004746
+36,2012-12-20 12:22:56,"ULTA Beauty, 1351 N Victory Pl, Burbank",34.18850863,-118.3267693
+37,2012-12-05 15:35:06,"E-Cig City 2, 11811 Carson St, Hawaiian Gardens",33.832417,-118.081363
+38,2012-12-01 15:39:13,"Expresso, 2718 W Burbank Blvd, Burbank",34.1776543651,-118.34069252
+39,2012-11-26 05:05:17,"IHOP, 913 N San Fernando Blvd, Burbank",34.1867473058,-118.317214041
+40,2012-10-01 04:37:29,"Hard Rock Cafe Hollywood at Universal CityWalk, 1000 Universal Studios Blvd, Universal City",34.1364909283,-118.351995349
+41,2012-07-03 10:52:07,"Sport Chalet, 201 E Magnolia Blvd, Burbank",34.1838987703,-118.312156522
+42,2012-06-08 11:47:26,"The Hollywood Way BBQ, 1333 N Hollywood Way, Burbank",34.1742259547,-118.349597454
+43,2012-05-21 11:54:03,"Fuddruckers, 221 N. San Fernando Blvd., Burbank",34.18173544,-118.310329
+44,2012-04-18 09:55:04,"Popeyes Louisiana Kitchen, 509 N Hollywood Way, Burbank",34.1600781281,-118.343439102
+45,2012-04-15 11:30:52,"Starbucks, 300 N San Fernando Blvd, Burbank",34.182518,-118.310715
+46,2012-04-08 08:18:51,"AutoZone, 2502 W Burbank Blvd, Burbank",34.1782889941,-118.338369057
+47,2012-03-31 12:12:11,"Panda Express, 5300 N. Lankershim Blvd, Los Angeles",34.1675751102,-118.37612357
+48,2012-03-11 09:57:28,"Sanamluang Caf, 12980 Sherman Way, North Hollywood",34.2009110094,-118.415873847
+49,2012-03-04 09:29:09,"Pacific BMW, 800 S Brand Blvd, Glendale",34.137440112,-118.254669474
+50,2012-03-01 13:37:17,"Starbucks, 300 N San Fernando Blvd, Burbank",34.182518,-118.310715
+51,2012-02-22 14:46:11,"Frida Mexican Restaurant, 750 Americana Way, Glendale",34.1441120942,-118.255288303
+52,2012-02-02 11:42:15,"Bank of America ATM, 2400 W Victory Blvd, Burbank",34.184126913,-118.3379969
+53,2012-01-30 08:01:48,"Rite Aid, 8998 Knott Ave, Buena Park",33.832361,-118.009315
+54,2012-01-23 12:30:05,"Romano's Macaroni Grill, 12875 Towne Center Dr, Cerritos",33.868672,-118.058750983
+55,2012-01-16 01:41:31,"Goody's Donuts, 13301 Artesia Blvd, Cerritos",33.8735311211,-118.048524857
+56,2012-01-06 03:39:03,"IHOP, 913 N San Fernando Blvd, Burbank",34.1867473058,-118.317214041
+57,2011-12-23 13:54:15,"Chevys Fresh Mex, 701 N San Fernando Blvd, Burbank",34.1849357718,-118.314605385
+58,2011-12-01 13:27:11,"CVS/pharmacy, 511 N Hollywood Way, Burbank",34.159936083,-118.343782425
+59,2011-11-20 05:17:26,"Audi Las Vegas, 6335 West Sahara Avenue, Las Vegas",36.143313,-115.230126
+60,2011-11-18 03:59:47,"Chick-fil-A Cerritos, 18605 Gridley Rd, Cerritos",33.86223,-118.09146
+61,2011-11-18 03:59:22,"Fry's Electronics, 2311 N Hollywood Way, Burbank",34.1910417217,-118.350232619
+62,2011-11-09 13:09:06,"Starbucks, 1001 N San Fernando Blvd, Burbank",34.186849,-118.317872
+63,2011-10-09 09:15:12,"Louis Burgers III, 555 Atlantic Ave, Long Beach",33.77388759,-118.185338974
+64,2011-10-08 06:14:03,"H.Salt Fish & Chips, 4795 Vineland Ave, North Hollywood",34.1574813283,-118.370776176
+65,2011-10-05 15:55:58,"Malbec Argentinian Cuisine - Toluca Lake, 10151 Riverside Dr, Toluca Lake",34.15236,-118.352449217
+66,2011-08-24 11:06:40,"Starbucks, 4207 W Riverside Dr, Burbank",34.152513,-118.345785
+67,2011-06-05 02:26:04,"Healthy Bites, 3511 W Magnolia Blvd, Burbank",34.1685171213,-118.345501399
+68,2011-03-29 12:41:09,"Teriyaki Tokyo, 201 E Magnolia Blvd, Burbank",34.183272,-118.311815858
+69,2010-08-23 04:50:03,"My Massage Place, 11618 South St #215, Artesia",33.857321,-118.085513767
+70,2010-08-20 14:13:06,"IKEA Restaurant and Cafe, 600 N San Fernando Blvd, Burbank",34.185297859,-118.313931808
+71,2010-08-02 10:59:50,"Nippon Restaurant, 10155 Riverside Dr, Toluca Lake",34.1523313522,-118.35265193
+72,2010-07-07 04:05:36,"Sawan Thai, 1907 1/2 W Magnolia Blvd, Burbank",34.17406,-118.329024911
+73,2010-05-18 08:09:08,"Andre's Cafe, 2714 W Burbank Blvd, Burbank",34.1777334253,-118.34067302
+74,2010-05-18 08:07:03,"IKEA Restaurant and Cafe, 600 N San Fernando Blvd, Burbank",34.185297859,-118.313931808
+75,2010-05-18 08:04:08,"Jolly Foot, 5160 Vineland Ave #106, North Hollywood",34.164224267,-118.369392157
+76,2010-04-18 07:11:38,"DJ Bibingkahan - Artesia, 12155 South St, Artesia",33.8586737961,-118.072793484
+77,2010-04-17 05:52:50,"Thai Kitchen, 2730 W Burbank Blvd, Burbank",34.17755,-118.34080688
+78,2010-03-31 14:53:48,"Citadel Outlets, 100 Citadel Dr, Commerce",34.006811973,-118.152602342
+79,2010-03-31 14:52:24,"E-Geniuses, 2718 W Burbank Blvd, Burbank",34.17760849,-118.340604
+80,2010-03-30 10:32:47,"Andre's Cafe, 2714 W Burbank Blvd, Burbank",34.1777334253,-118.34067302
+81,2010-03-25 04:52:48,"Max's of Manila, 313 W Broadway, Glendale",34.147000099,-118.25874567

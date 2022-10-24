@@ -1,0 +1,164 @@
+,time,poi,latitude,longitude
+0,2016-10-26 00:57:31,"Conoco, 295 S Broadway, Denver",39.7115328926,-104.987925489
+1,2016-09-15 23:55:15,"Alamo Drafthouse Cinema, Aspen Grove0e U.S. 85, Littleton",39.583730119,-105.024908781
+2,2016-08-26 08:04:30,"Adrift Tiki, 218 s Broadway, Denver",39.7125844976,-104.987368584
+3,2016-07-11 06:05:31,"AMC Arapahoe Crossing 16, 6696 S Parker Rd, Aurora",39.5961936537,-104.798209631
+4,2016-07-06 00:02:16,"Best Western Plus Abercorn Inn, 9260 Bridgeport Rd, Richmond",49.1916359773,-123.12086369
+5,2016-06-23 08:20:59,"Pho Bom, 8800 E Hampden Ave, Denver",39.652719,-104.886378
+6,2016-04-25 03:55:37,"Peet's Coffee & Tea, 2500 E 2nd Ave, Denver",39.719532,-104.956982
+7,2016-03-29 15:55:03,"Steakhouse 10, 3517 S Elati St, Englewood",39.65275212,-104.9937508
+8,2016-03-26 06:06:02,"Juan's Super Pollo, 10890 E Dartmouth Ave Ste 8, Denver",39.6597033045,-104.860919396
+9,2016-03-26 01:10:59,"Sweet Action Ice Cream, 52 Broadway, Denver",39.71756693,-104.98732704
+10,2016-03-26 01:09:07,"The Original Pancake House - DTC, 8000 E Belleview Ave, Greenwood Village",39.6235012504,-104.896098375
+11,2016-03-14 04:49:19,"Larkburger, 2730 S Colorado Blvd, Denver",39.6672828257,-104.937410925
+12,2016-03-14 04:48:29,"Park Burger, 211 S Holly St, Denver",39.7129045693,-104.92244502
+13,2016-03-14 04:44:03,"High Point Creamery, 215 S. Holly St., Denver",39.7128978708,-104.922484943
+14,2016-03-09 05:24:38,"The Broker, 821 17th street, Denver",39.7474441504,-104.992535627
+15,2016-03-09 05:23:45,"Steakhouse 10, 3517 S Elati St, Englewood",39.65275212,-104.9937508
+16,2015-11-04 18:08:35,"SONIC Drive In, 7739 E Iliff Ave, Denver",39.6752781964,-104.897472659
+17,2015-11-04 18:08:05,"Snooze, 6781 S York St, Ste 515, Centennial",39.5932827901,-104.96153385
+18,2015-11-04 18:06:58,"Cost Plus World Market, 770 S Colorado Blvd, Glendale",39.7025808762,-104.939156278
+19,2015-11-04 18:06:10,"Restoration Hardware, 3000 E 1st Ave, Denver",39.7175793532,-104.953450639
+20,2015-09-19 03:20:06,"The Berkshire, 7352 E 29th Ave, Denver",39.758142848,-104.901914818
+21,2015-07-17 08:12:26,"Timbuk Toys, 2526 S Colorado Blvd, Denver",39.6661376953,-104.93761884
+22,2015-07-14 17:37:04,"Steak 'n Shake, 8271 South Quebec Street, Centennial",39.5671791959,-104.905587248
+23,2015-07-01 00:00:54,"Caffe 817, 817 Washington St, Oakland",37.801139,-122.274618745
+24,2015-06-19 02:07:59,"Starbucks, Broadway, Skagway",59.4534898833,-135.317948267
+25,2015-06-19 02:06:15,"Starbucks, Broadway, Skagway",59.4534898833,-135.317948267
+26,2015-06-10 10:35:05,"Shanghai River Restaurant, 7831 Westminster Hwy, Richmond",49.1701557577,-123.138610577
+27,2015-05-24 02:37:37,"Sushi Kats, 2222 S Havana St, Aurora",39.6761733877,-104.865041264
+28,2014-12-15 03:10:20,"Shanghai Kitchen, 4940 S Yosemite St, Greenwood Village",39.6248692274,-104.883738756
+29,2014-11-24 08:48:51,"Stanley Hotel, 333 E Wonder View Ave, Estes Park",40.3827820472,-105.518888565
+30,2014-09-21 01:06:31,"Fantastic Sams, 3333 S Tamarac Dr Unit V, Denver",39.6562292,-104.9009221
+31,2014-09-14 02:20:52,"Shanghai Kitchen, 4940 S Yosemite St, Greenwood Village",39.6248692274,-104.883738756
+32,2014-08-22 07:14:17,"Adrift Tiki, 218 s Broadway, Denver",39.7125844976,-104.987368584
+33,2014-08-21 08:45:41,"Harbor Freight Tools, 705 W Hampden Ave, Englewood",39.6535418187,-104.9966609
+34,2014-08-21 08:44:47,"El Trompito, 10021 E Hampden Ave, Denver",39.653335927,-104.871027572
+35,2014-08-21 08:43:59,"High Point Creamery, 215 S. Holly St., Denver",39.7128978708,-104.922484943
+36,2014-08-13 02:22:37,"Dardano's Shoes, 1550 S Colorado Blvd, Denver",39.7191671067,-104.946651247
+37,2014-08-13 02:21:09,"it's a small world, Fantasyland, Magic Kingdom, Lake Buena Vista",28.4205472049,-81.5819559231
+38,2014-08-13 02:19:54,"Hollywood Scoops, Sunset Boulevard, Disney's Hollywood Studios, Lake Buena Vista",28.359169896,-81.560116309
+39,2014-08-13 02:18:55,"Exploration Tower, 670 Dave Nisbet Dr, Cape Canaveral",28.406555435,-80.6178263559
+40,2014-08-13 01:46:46,"Disney Cruise Line Terminal - Port Canaveral, 9156 Charles M. Rowland Dr., Merritt Island",28.4133133429,-80.6296862338
+41,2014-08-13 01:45:53,"McDonald's, 2200 State Road 524, Cocoa",28.3975662426,-80.7644844846
+42,2014-08-13 01:44:59,"Walt Disney World Railroad - Main Street Station, 1180 7 Seas Dr., Lake Buena Vista",28.4163946907,-81.5811573075
+43,2014-08-13 01:43:43,"Pirates of the Caribbean, Adventureland, Magic Kingdom, Lake Buena Vista",28.4179896502,-81.584327817
+44,2014-08-13 01:42:20,"The Many Adventures of Winnie the Pooh, Fantasyland, Magic Kingdom, Lake Buena Vista",28.4202429376,-81.5803969697
+45,2014-08-13 01:41:07,"The Twilight Zone Tower of Terror, Sunset Boulevard, Disney's Hollywood Studios, Lake Buena Vista",28.3595925117,-81.5599292035
+46,2014-08-12 08:16:32,"Harry Potter and the Escape from Gringotts, Diagon Alley, Orlando",28.4798074507,-81.4701361408
+47,2014-08-12 08:15:20,"DoubleTree by Hilton Hotel Cocoa Beach Oceanfront, 2080 N Atlantic Ave, Cocoa Beach",28.3431212077,-80.6072062962
+48,2014-08-12 08:08:42,"Walt Disney World Entrance, Hotel Plaza Blvd., Lake Buena Vista",28.3807650555,-81.5055731079
+49,2014-08-12 08:06:06,"Disney's Typhoon Lagoon Water Park, 1145 E Buena Vista Blvd, Lake Buena Vista",28.3658396303,-81.5289698086
+50,2014-08-12 08:03:35,"Splash Mountain, Frontierland, Magic Kingdom, Lake Buena Vista",28.4194851979,-81.5851891104
+51,2014-08-12 08:02:32,"Big Thunder Mountain Railroad, Frontierland, Magic Kingdom, Lake Buena Vista",28.4196729248,-81.5845305439
+52,2014-08-12 08:01:54,"Haunted Mansion, Liberty Square, Magic Kingdom, Lake Buena Vista",28.4202573006,-81.5829938662
+53,2014-08-12 08:00:52,"Expedition Everest, Asia, Animal Kingdom, Lake Buena Vista",28.3584765906,-81.5874845982
+54,2014-08-12 08:00:11,"Space Mountain, Tomorrowland, Magic Kingdom, Lake Buena Vista",28.4188392348,-81.5782390677
+55,2014-08-12 07:58:43,"Under the Sea ~ Journey of the Little Mermaid, Fantasyland, Lake Buena Vista",28.4211742532,-81.5797197819
+56,2014-08-12 07:57:51,"Seven Dwarfs Mine Train, Fantasyland, Lake Buena Vista",28.4204429825,-81.5803259611
+57,2014-08-12 07:57:09,"Restaurant Marrakesh, Morocco Pavilion, Lake Buena Vista",28.3679434879,-81.5519162271
+58,2014-08-12 07:56:03,"Mitsukoshi Merchandise Store, Japan Pavilion, Lake Buena Vista",28.367837458,-81.5506221056
+59,2014-08-12 07:54:11,"Jambo House, Disney's Animal Kingdom Lodge, Lake Buena Vista",28.352504198,-81.6033375634
+60,2014-08-12 07:52:51,"Expedition Everest, Asia, Animal Kingdom, Lake Buena Vista",28.3584765906,-81.5874845982
+61,2014-08-12 06:57:54,"Dinosaur, Dinoland U.S.A., Animal Kingdom, Lake Buena Vista",28.3553478225,-81.5883909622
+62,2014-08-12 06:40:25,"Kali River Rapids, Asia, Animal Kingdom, Lake Buena Vista",28.3588526003,-81.5887388375
+63,2014-08-12 06:39:52,"Boma Flavors of Africa, Jambo House, Lake Buena Vista",28.3524779579,-81.6032251529
+64,2014-08-09 23:35:18,"Be Our Guest Restaurant, Fantasyland, Magic Kingdom, Lake Buena Vista",28.4207675884,-81.5809810862
+65,2014-08-09 02:35:10,"Moe's Original BBQ, 2727 S Parker Rd, Aurora",39.667058,-104.862402
+66,2014-08-09 02:32:02,"The Original Pancake House - Cherry Hills, 5900 S University Blvd, Greenwood Village",39.6093807541,-104.958778553
+67,2014-08-09 02:28:39,"Hogan's Great Sandwiches, 5156 SW 34th St, Gainesville",29.605614,-82.372224
+68,2014-08-09 02:25:51,"Enchanted Garden, Disney Dream, Deck 2, Merritt Island",28.4136061016,-80.6295344729
+69,2014-08-09 02:23:54,"Fishlips Waterfront Bar & Grill, 610 Glen Cheek Dr, Cape Canaveral",28.4086994981,-80.6165277958
+70,2014-08-09 02:10:10,"Wolfgang Puck Express (Marketplace), 1780 E Buena Vista Dr, Lake Buena Vista",28.3729986746,-81.5148371458
+71,2014-08-09 02:06:58,"Disney Springs Marketplace, 1490 E Buena Vista Dr, Lake Buena Vista",28.3716442513,-81.5150433776
+72,2014-07-29 03:14:13,"The Varsity, 61 North Ave NW, Atlanta",33.7716485965,-84.3893184966
+73,2014-07-29 02:55:52,"The Varsity, 61 North Ave NW, Atlanta",33.7716485965,-84.3893184966
+74,2014-07-20 12:20:05,"El Trompito, 10021 E Hampden Ave, Denver",39.653335927,-104.871027572
+75,2014-07-07 06:48:50,"Ziggi's Coffee House, 400 Main St, Longmont",40.1658979631,-105.102285147
+76,2014-06-23 03:27:57,"Safeway, 1677 S Havana St, Aurora",39.6862283495,-104.867663809
+77,2014-06-23 03:26:44,"Safeway, 1677 S Havana St, Aurora",39.6862283495,-104.867663809
+78,2014-05-25 11:52:31,"Landmark Theater at Greenwood Village, 5415 Landmark Pl, Greenwood Village",39.618288668,-104.900956807
+79,2014-05-10 09:34:53,"Lauritzen Gardens - Omaha's Botanical Center, 100 Bancroft St, Omaha",41.2341665293,-95.9167670301
+80,2014-05-10 09:32:59,"Nebraska Bar & Grill, 318 Platte River Rd, Gothenburg",40.9171609724,-100.168125629
+81,2014-05-08 01:58:40,"AMC Westroads 14, 10000 California St, Omaha",41.2677463693,-96.0691630001
+82,2014-05-07 01:58:53,"Scooter's Coffeehouse, 1123 Howard St, Omaha",41.2554273426,-95.9318098567
+83,2014-05-07 01:55:20,"Roja Mexican Grill + Margarita Bar, 1212 Harney St, Omaha",41.2565875214,-95.9324444615
+84,2014-04-11 04:27:54,"The Wizard's Chest, 451 Broadway, Denver",39.723697972,-104.987754323
+85,2014-04-07 02:57:37,"Casa Bonita, 6715 W Colfax Ave, Lakewood",39.741775284,-105.070813932
+86,2014-04-06 01:53:45,"Petco, 7400 E Hampden Ave, Denver",39.6520536218,-104.903183503
+87,2013-11-30 23:48:36,"Steak 'n Shake, 8271 South Quebec Street, Centennial",39.5671791959,-104.905587248
+88,2013-11-29 23:35:32,"Starbucks, 6470 E Hampden Ave, Denver",39.6535996386,-104.915755305
+89,2013-11-24 09:31:33,"Safeway, 6440 E. Yale Ave, Denver",39.6667037008,-104.914101454
+90,2013-11-22 02:40:35,"Costco, 5195 Wadsworth Blvd, Arvada",39.7897752259,-105.082640648
+91,2013-11-20 01:03:32,"Panera Bread, 6385 E Hampden Ave, Denver",39.6534775773,-104.916204661
+92,2013-11-15 00:38:02,"Firehouse Subs Highpointe, 6345 E Hampden Ave Ste 102, Denver",39.65380655,-104.9162601
+93,2013-10-17 11:39:28,"Namaste India Restaurant, 5545 Wadsworth Byp, Arvada",39.7972496221,-105.078583325
+94,2013-10-11 04:44:29,"Sabor Mexican Grill, 12201 East Arapahoe, Aurora",39.713084,-104.82144
+95,2013-07-20 06:54:20,"Alberto's, 2605 W 11th Street Rd, Greeley",40.4209884167,-104.72288104
+96,2013-07-13 08:34:38,"Tacos Rapidos, 2345 W Alameda Ave, Denver",39.711408,-105.01490892
+97,2013-07-04 14:58:46,"Namaste India Restaurant, 5545 Wadsworth Byp, Arvada",39.7972496221,-105.078583325
+98,2013-06-18 06:49:22,"Chick-fil-A Hampden and I-25, 7785 E Hampden Ave, Denver",39.6534862788,-104.900148748
+99,2013-06-16 02:50:58,"Devils Tower National Monument, Wyoming Hwy 110, Devils Tower",44.5900087517,-104.715220928
+100,2013-06-11 02:02:04,"Wild West Pizzeria, Madison Ave, West Yellowstone",44.6602881455,-111.098268339
+101,2013-05-05 04:13:43,"Ace Hardware of Tamarac Square, 3333 S Tamarac Dr, Denver",39.6561246487,-104.90054053
+102,2013-04-30 03:55:35,"Starbucks, 6470 E Hampden Ave, Denver",39.6535996386,-104.915755305
+103,2013-04-26 03:47:32,"Red Mango, 2504 E Colfax Ave, Denver",39.7400538,-104.9571146
+104,2013-03-16 12:39:30,"Fat Sully's Pizza, 3237 E Colfax Ave, Denver",39.740313,-104.949026317
+105,2013-03-11 01:52:41,"Petco, 1350 S Ironton St, Aurora",39.6929268364,-104.863260344
+106,2013-02-16 06:45:09,"McDonald's, 5880 Leetsdale Dr, Denver",39.7062555927,-104.920386178
+107,2013-02-10 05:00:04,"Great Wall Chinese Buffet Restaurant, 3215 S Wadsworth Blvd, Lakewood",39.6578100483,-105.082008597
+108,2013-02-09 10:15:42,"LOLA, 1575 Boulder St, Denver",39.7592300972,-105.010754953
+109,2013-01-28 02:52:16,"H Mart, 2751 S Parker Rd, Aurora",39.6660182515,-104.863296726
+110,2013-01-04 11:53:28,"Starbucks, 9925 E Hampden Ave, Denver",39.653424,-104.872926
+111,2012-12-16 02:35:50,"King Soopers, 3495 S University Blvd, Englewood",39.6539486246,-104.960267434
+112,2012-12-01 22:42:07,"Snooze: An A.M. Eatery, 700 Colorado Blvd, Denver",39.7275301654,-104.940473861
+113,2012-10-27 02:14:09,"Texas De Brazil, 8390 Northfield Blvd, Denver",39.7839616319,-104.890932249
+114,2012-06-23 06:12:18,"Saigon Terrace, 1550 S Colorado Blvd Unit 106, Denver",39.6882678668,-104.940485269
+115,2012-06-06 07:24:21,"Gibby's, 1555 S Havana St, Aurora",39.6874665167,-104.867813217
+116,2012-06-06 07:23:34,"Lowe's Home Improvement, 1701 South Havana Street, Aurora",39.684774,-104.868008
+117,2012-06-03 09:03:48,"Pho 7, 10009 E Hampden Ave, Denver",39.65359259,-104.871327
+118,2012-05-29 04:11:42,"Hampden Heights Pool, 3001 S. Dayton Ct, Denver",39.65635895,-104.876303
+119,2012-04-27 06:03:21,"United Artists Colorado Center 9 & IMAX, 2000 S Colorado Blvd #D, Denver",39.68124476,-104.9392913
+120,2012-04-24 22:40:34,"King Soopers, 6470 E Hampden Ave, Denver",39.6522130214,-104.914221215
+121,2012-04-07 08:04:57,"McCabes Bistro & Pub, 6100 S Main St, Aurora",39.6057047104,-104.708225727
+122,2012-03-12 07:56:07,"Racines, 650 Sherman St, Denver",39.7265664014,-104.984593491
+123,2012-02-21 10:33:30,"Petco, 1350 S Ironton St, Aurora",39.6929268364,-104.863260344
+124,2012-01-14 03:25:22,"Chipotle Mexican Grill, 2760 S Colorado Blvd, Denver",39.666454,-104.939995408
+125,2012-01-06 09:54:06,"El Trompito, 10021 E Hampden Ave, Denver",39.653335927,-104.871027572
+126,2011-12-13 00:10:24,"Denver Liquor Galaxy, S Yosemite St, CO, Denver",39.6520930385,-104.882641867
+127,2011-12-03 09:17:37,"IKEA Centennial, 9800 E Ikea Way, Centennial",39.5717171957,-104.874568152
+128,2011-11-24 01:38:32,"The Bagel Deli, 6439 E Hampden Ave, Denver",39.6541729976,-104.914044425
+129,2011-11-19 09:56:51,"Petco, 7400 E Hampden Ave, Denver",39.6520536218,-104.903183503
+130,2011-09-29 08:27:30,"Blue Bonnet, 457 S Broadway, Denver",39.7081290304,-104.987857023
+131,2011-09-26 03:25:50,"Shanghai Kitchen, 4940 S Yosemite St, Greenwood Village",39.6248692274,-104.883738756
+132,2011-09-17 08:49:16,"Ace Hardware of Tamarac Square, 3333 S Tamarac Dr, Denver",39.6561246487,-104.90054053
+133,2011-08-24 00:02:58,"Morey Middle School, 1350 Clarkson St, Denver",39.7384051995,-104.977370595
+134,2011-08-23 02:10:00,"Pho 95, 1401 S Federal Blvd, Denver, CO, Denver",39.6910126199,-105.025438041
+135,2011-08-16 07:49:58,"Chipotle Mexican Grill, 2760 S Colorado Blvd, Denver",39.666454,-104.939995408
+136,2011-08-10 07:51:46,"Wild Eggs, 300 E Alameda Ave, Denver",39.7106970377,-104.98320708
+137,2011-08-10 07:48:24,"Swing Thai, 301 S Pennsylvania St, Denver",39.710991,-104.981934
+138,2011-08-09 04:03:48,"Phipps IMAX, Denver Museum of Nature & Science, 2001 Colorado Blvd, Denver",39.7478383219,-104.94249874
+139,2011-08-08 00:21:44,"Breakfast King, 300 West Mississippi Avenue, Denver",39.6963328769,-104.991639835
+140,2011-07-26 09:03:12,"Ajuua, 14150 E Iliff Ave, Aurora",39.6733221214,-104.82343416
+141,2011-07-23 08:09:04,"Rio Grande Mexican Restaurants, 825 9th St, Greeley",40.4240497,-104.692203583
+142,2011-07-17 07:36:00,"Johnson's Corner, 2842 SE Frontage Rd, Johnstown",40.3630240809,-104.984062888
+143,2011-07-17 07:27:32,"Johnson's Corner, 2842 SE Frontage Rd, Johnstown",40.3630240809,-104.984062888
+144,2011-06-21 02:21:43,"Larkburger, 340 E. Alameda, Denver",39.7107825,-104.983307719
+145,2011-06-09 00:21:13,"The Boneyard, Dinoland U.S.A., Animal Kingdom, Lake Buena Vista",28.3567292397,-81.5885526847
+146,2011-06-07 02:15:43,"Reflections of China, China Pavilion, Lake Buena Vista",28.3698581608,-81.5463466644
+147,2011-06-06 03:18:53,"Disney's Grand Floridian Resort & Spa, 4401 Floridian Way, Lake Buena Vista",28.4109880383,-81.5877269466
+148,2011-06-06 00:09:40,"Tomorrowland Transit Authority PeopleMover, Tomorrowland, Magic Kingdom, Lake Buena Vista",28.4183827457,-81.5790529735
+149,2011-06-04 10:05:33,"Disney's All-Star Music Resort, 1801 W Buena Vista Dr, Lake Buena Vista",28.339869057,-81.5724885464
+150,2011-06-04 10:02:56,"Disney's All-Star Music Resort, 1801 W Buena Vista Dr, Lake Buena Vista",28.339869057,-81.5724885464
+151,2011-06-02 07:55:43,"Wolfgang Puck Express (Marketplace), 1780 E Buena Vista Dr, Lake Buena Vista",28.3729986746,-81.5148371458
+152,2011-05-26 03:09:39,"Fogo de Cho, 1513 Wynkoop St, Denver",39.7512204079,-105.002110074
+153,2011-05-25 09:31:51,"Starbucks, 9925 E Hampden Ave, Denver",39.653424,-104.872926
+154,2011-05-23 04:46:50,"Gamestop, 10550 Garden Dr, Aurora",39.6935055333,-104.86446306
+155,2011-05-10 03:55:29,"Morey Middle School, 1350 Clarkson St, Denver",39.7384051995,-104.977370595
+156,2011-04-19 08:42:01,"Bardo Coffee House, 238 S Broadway, Denver",39.712245,-104.987467
+157,2011-03-09 20:41:16,"Walmart Supercenter, 9400 E Hampden Ave, Denver",39.6517689729,-104.878616255
+158,2011-03-06 09:53:55,"El Tapatio, 588 Summit Blvd, Broomfield",39.9281806833,-105.136664133
+159,2011-02-01 04:45:31,"Bardo Coffee House, 238 S Broadway, Denver",39.712245,-104.987467
+160,2010-04-09 03:47:10,"Steak Escape, 3000 E 1st Ave, Denver",39.7158133341,-104.938306414
+161,2010-02-27 07:40:00,"Southmoor Elementary School, 3755 S Magnolia Way, Denver",39.6476904084,-104.912202399
+162,2010-02-06 11:02:54,"Moongate Asian Grill, 745 Quebec St, Denver",39.7278767824,-104.903821

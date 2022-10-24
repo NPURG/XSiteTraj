@@ -1,0 +1,166 @@
+,time,poi,latitude,longitude
+0,2014-11-11 23:10:30,"Jkulsrln (Glacier Bay), jvegur 1, Suurland",64.0479704892,-16.1799150006
+1,2014-02-22 04:21:18,"Lola's, Playa avellanas, Playa Avellanas",10.2277883487,-85.8371232911
+2,2013-10-25 03:12:49,"Restaurante Botn, C. de Cuchilleros, 17, Madrid",40.4142618461,-3.70809590879
+3,2013-10-25 03:11:11,"Le Cock, C. Reina, 16, Madrid",40.4199136182,-3.6988841863
+4,2013-10-25 03:10:09,"Hotel de las Letras, C. Gran Va, 11, Madrid",40.4195900834,-3.69951839855
+5,2013-10-25 03:08:20,"Ocaa, Plaa Reial, 13-15, Barcelona",41.3800160535,2.17533667273
+6,2013-10-25 03:07:49,"NAP: Neapolitan Authentic Pizza, Gombau, 5, Barcelona",41.3868544391,2.17857610228
+7,2013-10-25 03:06:33,"Sensi, C. Ample, 26, Barcelona",41.3802672,2.179934
+8,2013-10-25 03:04:53,"Four Points by Sheraton, Av. Diagonal, 161-163, Barcelona",41.4054133595,2.19614986705
+9,2013-10-25 03:03:58,"Adolfo Surez Madrid-Barajas Airport (MAD), Av. de la Hispanidad, s/n, Madrid",40.4833192011,-3.57922554016
+10,2013-10-19 18:58:45,"McDonald's, Terminal T4, Planta 1, Madrid",40.4903693293,-3.59115600586
+11,2013-05-07 00:42:29,"Hilton Reykjavik Nordica, Suurlandsbraut 2, Reykjavk",64.1398780796,-21.8886803344
+12,2013-05-07 00:38:45,"Harpa, Austurbakki 2, Reykjavk",64.1497845944,-21.9324874878
+13,2013-05-07 00:25:31,"The Laundromat Caf, Austurstrti 9, Mibr",64.1477449172,-21.9396221638
+14,2013-03-21 05:46:32,"DuMont Burger, 314 Bedford Ave, Brooklyn",40.7136000418,-73.9619189501
+15,2013-03-21 05:43:36,"Black's Barbecue, 215 N Main St, Lockhart",29.8861038475,-97.672691991
+16,2013-03-21 05:41:30,"Bikinis Sports Bar & Grill, 214 E 6th St, Austin",30.2675719961,-97.7408082429
+17,2013-03-21 05:40:23,"La Barbecue Cuisine Texicana, 1906 E Cesar Chavez St, Austin",30.2571589961,-97.7239095515
+18,2013-01-03 00:05:00,"Library Lounge at Old Hickory Steakhouse, 2800 Opryland Dr, Nashville",36.2116821737,-86.6942644214
+19,2013-01-03 00:03:25,"Yazoo Brewing Company, 910 Division St, Nashville",36.1509206842,-86.7819970661
+20,2013-01-02 23:58:31,"The Tazza Restaurant, 510 Church St, Nashville",36.1629062805,-86.7807997407
+21,2013-01-02 23:47:27,"Sheraton Nashville Downtown Hotel, 623 Union St, Nashville",36.1635011075,-86.7832287103
+22,2012-12-15 00:16:17,"Blue Collar, 160 Havemeyer St, Brooklyn",40.7113395659,-73.9577117259
+23,2012-12-14 05:22:26,"Dolphin Market, Rte 10, Cruz Bay",18.3307102044,-64.7926823284
+24,2012-12-14 05:16:08,"Asolare, 6A Caneel Hill, Cruz Bay",18.3351624012,-64.794262
+25,2012-12-14 05:14:03,"Woody's Seafood Saloon, Rte 10, Cruz Bay",18.33079865,-64.794214
+26,2012-12-14 05:12:33,"Beach Bar, Wharfside Village, Cruz Bay",18.3304835856,-64.7960574889
+27,2012-12-14 05:00:58,"Grande Bay Resort, 84 Cruz Bay Rd, Cruz Bay",18.3299216016,-64.7969770432
+28,2012-10-25 22:41:18,"Pudge Knuckles, 184 Kent Ave, Brooklyn",40.7185340945,-73.9638984203
+29,2012-10-18 22:35:37,"In-N-Out Burger, 641 Leavesley Rd, Gilroy",37.0237735055,-121.564179562
+30,2012-10-18 22:31:56,"Big Sur River Inn & Restaurant, 46840 Highway 1, Big Sur",36.2703787861,-121.808381081
+31,2012-10-16 03:05:05,"Melvyn's, 200 W Ramon Rd, Palm Springs",33.8163794148,-116.548633575
+32,2012-10-15 23:12:54,"McWay Falls, Cabrillo Hwy, Big Sur",36.2279349044,-121.766624451
+33,2012-10-15 23:02:58,"Glen Oaks Big Sur, 47080 California 1, Big Sur",36.2645641256,-121.800648944
+34,2012-10-15 23:00:30,"Madonna Inn, 100 Madonna Rd, San Luis Obispo",35.2672088437,-120.674633083
+35,2012-10-15 22:31:59,"Ace Hotel & Swim Club, 701 E Palm Canyon Dr, Palm Springs",33.80073098,-116.539866341
+36,2012-10-15 22:14:21,"Hog & Rocks, 3431 19th St, San Francisco",37.7602614094,-122.419946194
+37,2012-10-15 22:13:35,"Arinell Pizza, 509 Valencia St, San Francisco",37.7647631238,-122.421886711
+38,2012-10-15 22:11:53,"Thieves' Tavern, 496 14th St, San Francisco",37.76809,-122.424204
+39,2012-10-15 22:07:52,"Hertz, 780 McDonnell Road, San Francisco",37.628275,-122.40036
+40,2012-09-04 21:29:46,"White Horse Country Pub, 258 New Milford Turnpike, New Preston",41.6624608039,-73.3704328537
+41,2012-08-14 04:18:13,"Bistro LeRoux, 668 Rte 149, Lake George",43.3884426059,-73.64579916
+42,2012-08-14 04:08:34,"Tiki Resort, 2 Canada St, Lake George",43.4157403902,-73.7118784701
+43,2012-08-14 04:06:14,"Magic Forest, 1916 Hwy. 9, Lake George",43.3959820017,-73.7026599987
+44,2012-08-14 03:52:09,"The Harbor Market, 111 Barracks Dr, Sackets Harbor",43.9500225288,-76.110599041
+45,2012-06-26 22:35:27,"Love's Travel Stop, 314 Kelly Road, Wamsutter",41.6757552323,-107.98258517
+46,2012-06-26 22:30:25,"Pilot Travel Center, 1564 McCue Street, Laramie",41.3271410134,-105.610499382
+47,2012-06-26 22:29:46,"Southeast Wyoming Welcome Center, 5611 High Plains Rd, Cheyenne",41.0585231474,-104.879300452
+48,2012-06-26 22:29:10,"OAK Restaurant & Wine Bar, 361 Graham Ave, Brooklyn",40.7153943571,-73.9445726488
+49,2012-06-26 22:28:03,"Denver International Airport (DEN), 8500 Pea Blvd, Denver",39.8513557067,-104.674044515
+50,2012-06-24 04:59:05,"Mesa Coyoacn, 372 Graham Ave, Brooklyn",40.715476488,-73.9446243114
+51,2012-06-18 02:02:58,"Jenny Lake, Grand Teton National Park, Moran",43.7521679187,-110.721594154
+52,2012-06-18 02:01:39,"The Bunnery Bakery & Restaurant, 130 N Cache St, Jackson",43.480885,-110.762059
+53,2012-06-18 02:00:15,"Million Dollar Cowboy Bar, 25 N Cache St, Jackson",43.4799411513,-110.762616008
+54,2012-06-18 01:56:24,"Jackson Town Square, Broadway, Jackson",43.479981728,-110.761848092
+55,2012-06-18 01:55:50,"Snake River Brewery & Restaurant, 265 S Millward St, Jackson",43.4767979433,-110.765198539
+56,2012-06-18 01:48:30,"Jackson Lake Lodge, 5 miles North of Moran Junction, Moran",43.8775622022,-110.577639357
+57,2012-06-18 01:40:58,"Old Faithful Geyser, U.S. 191, Yellowstone National Park",44.4595458793,-110.828340054
+58,2012-06-18 01:36:13,"Comfort Inn Yellowstone North, 107 Hellroaring, Gardiner",45.0369506446,-110.716143827
+59,2012-06-18 00:39:21,"Branding Iron Cafe, 517 Main St., Dayton",44.8743036762,-107.262518428
+60,2012-06-18 00:34:32,"Red Velvet Bakery And Tapas, 35 N Main St, Sheridan",44.7976602955,-106.955756416
+61,2012-06-18 00:30:56,"King's Saddlery, 184 N Main St, Sheridan",44.7994870679,-106.956436657
+62,2012-06-18 00:22:50,"Best Out West, 109 N Main St, Sheridan",44.7982908196,-106.954329499
+63,2012-06-18 00:20:50,"Oliver's Bar & Grill, 55 N Main St, Sheridan",44.798129,-106.95577
+64,2012-06-18 00:06:00,"Maverik Adventures First Stop, 74 US Highway 16 E, Buffalo",44.3546148107,-106.684635964
+65,2012-06-17 23:51:13,"Sonic Drive-In, 3518 S Timberline Rd, Fort Collins",40.5384778976,-105.03774
+66,2012-06-17 23:47:42,"Jason's Deli, 549 Flatiron Blvd, Broomfield",39.92782,-105.13110264
+67,2012-06-17 23:46:20,"Budget Car Rental, 24050 East 78Th Avenue, Denver",39.83629834,-104.7044711
+68,2012-06-16 22:07:34,"Hampton Inn & Suites Green River, 1055 Wild Horse Canyon Rd, Green River",41.540562209,-109.472215176
+69,2012-06-14 10:42:27,"Corral Drive In, 711 Scott St, Gardiner",45.035110885,-110.712225571
+70,2012-06-05 07:23:16,"Tacos Morelos, N 7th St, Brooklyn",40.7179041637,-73.9579987207
+71,2012-05-30 01:16:29,"Terminal 5, John F. Kennedy International Airport, New York",40.6458086031,-73.7755341878
+72,2012-05-30 01:15:11,"Portland International Jetport (PWM), 1001 Westbrook St, Portland",43.6474874887,-70.3103914298
+73,2012-05-30 01:11:20,"Hertz, 1001 Westbrook Street, Portland",43.647318,-70.310573
+74,2012-05-30 01:07:47,"Linda Bean's Maine Kitchen, 88 Main St, Freeport",43.8571278874,-70.1026234075
+75,2012-05-30 01:06:53,"Fore Street, 288 Fore St, Portland",43.6580107659,-70.2508735657
+76,2012-05-30 01:02:44,"Atlantic Birches Inn, 20 Portland Ave, Old Orchard Beach",43.5186646916,-70.3779459
+77,2012-05-30 01:01:32,"Two Lights State Park, 7 Tower Dr, Cape Elizabeth",43.56033562,-70.2056193352
+78,2012-05-30 01:01:03,"Fort Williams Park, 1000 Shore Rd, Cape Elizabeth",43.6230598395,-70.2125501633
+79,2012-05-30 00:54:25,"Bard Coffee, 185 Middle St, Portland",43.657753,-70.254918
+80,2012-05-30 00:53:31,"Flatbread Company, 72 Commercial St, Portland",43.6571547647,-70.2498603566
+81,2012-05-30 00:52:38,"Sonny's, 83 Exchange St, Portland",43.6580279336,-70.2550331839
+82,2012-05-30 00:51:50,"Palace Playland, 1 Old Orchard St, Old Orchard Beach",43.5150154393,-70.3742767597
+83,2012-05-30 00:45:17,"Cockeyed Gull, 78 Island Ave, Portland",43.6566795636,-70.1981949806
+84,2012-05-30 00:42:38,"Three Dollar Deweys, 241 Commercial St, Portland",43.654978,-70.254563
+85,2012-05-07 22:19:08,"Stew Leonard's, 99 Federal Rd, Danbury",41.4272598736,-73.4173333302
+86,2012-05-01 04:40:22,"Petite Abeille, 401 E 20th St, New York",40.734953,-73.97967
+87,2012-05-01 04:39:34,"Hill Country Chicken, 1123 Broadway, New York",40.7432578047,-73.9892962575
+88,2012-05-01 04:39:03,"Rue B, 188 Avenue B, New York",40.727874793,-73.9791605379
+89,2012-03-15 03:16:56,"Blue Bottle Coffee, 1 Rockefeller Plz, New York",40.7586589309,-73.9787817463
+90,2012-01-18 07:30:16,"Los Angeles International Airport (LAX), 1 World Way, Los Angeles",33.9435869099,-118.408083022
+91,2012-01-18 07:28:27,"Primitivo Wine Bistro, 1025 Abbot Kinney Blvd, Venice",33.9921609295,-118.471718431
+92,2012-01-18 07:27:44,"Viceroy Santa Monica, 1819 Ocean Ave, Santa Monica",34.0081553892,-118.490436405
+93,2012-01-18 07:27:01,"Casa Del Mar Hotel, 1910 Ocean Way, Los Angeles",34.00645899,-118.491246126
+94,2012-01-18 07:25:54,"Chick-fil-A Citrus Plaza, 27520 W Lugonia Ave, Redlands",34.07058238,-117.2037309
+95,2012-01-18 07:24:47,"Coso Junction Rest Area, Hwy 395, Lone Pine",36.0451095806,-117.946109581
+96,2012-01-18 07:24:17,"Four Points by Sheraton Los Angeles International Airport, 9750 Airport Blvd, Los Angeles",33.947716615,-118.385224687
+97,2012-01-18 07:23:00,"Budget Car Rental, 9775 Airport Boulevard, Los Angeles",33.94766022,-118.3864609
+98,2012-01-18 07:21:19,"Mehanata Bulgarian Bar, 113 Ludlow St, New York",40.7194810863,-73.9887965149
+99,2012-01-18 07:19:41,"Dpanneur, 242 Wythe Ave, Brooklyn",40.7173713,-73.9627764
+100,2012-01-15 03:06:04,"Basement Tavern, 2640 Main St, Santa Monica",34.0015840788,-118.483376842
+101,2012-01-15 03:00:55,"Venice Beach Wines, 529 Rose Ave, Venice",33.9986561499,-118.473151915
+102,2012-01-15 02:59:21,"Rock Paper Scissors, 2308 Broadway, Santa Monica",34.029461,-118.4754
+103,2012-01-15 02:57:05,"The Otheroom, 1201 Abbot Kinney Blvd, Venice",33.9916162218,-118.469382277
+104,2012-01-15 02:53:42,"Best Western Joshua Tree Hotel & Suites, 56525 Twentynine Palms Hwy, Yucca Valley",34.1199986192,-116.430584192
+105,2011-09-02 05:38:06,"The Cellar, Frewin Court, Oxford",51.7530176861,-1.25835783904
+106,2011-09-02 05:36:19,"Oxford Fire Station Studio, 40 George St., Oxford",51.7536685023,-1.26206762579
+107,2011-09-02 05:30:48,"New Theatre, George Street, Oxford",51.7538415802,-1.25999450684
+108,2011-09-02 05:15:47,"Abingdon School, Park Road, Abingdon",51.6724077342,-1.28673403367
+109,2011-09-02 05:07:11,"Ridgefield Road, 113-131 Ridgefield Rd, Oxford",51.7412739389,-1.22652053833
+110,2011-09-02 05:05:20,"Oxford Brookes University, Gipsy Lane, Oxford",51.7554045083,-1.22530808054
+111,2011-09-02 04:56:56,"Jericho Tavern, 56 Walton St, Oxford",51.760129,-1.26644
+112,2011-09-02 04:47:18,"O2 Academy Oxford, 190 Cowley Rd., Oxford",51.7469372701,-1.23445667319
+113,2011-08-16 12:04:17,"Brooklyn Farmacy & Soda Fountain, 513 Henry St, Brooklyn",40.6841074634,-73.9993444569
+114,2011-08-12 21:44:55,"Knobby Knoll, 12863 NYS Rte. 3, Sackets Harbor",43.9147218554,-76.1236968057
+115,2011-05-02 09:07:48,"Blue Bottle Coffee, 160 Berry St, Brooklyn",40.7173793922,-73.96058321
+116,2011-04-24 06:04:36,"184 Kent, 184 Kent Ave, Brooklyn",40.7185340945,-73.9641183615
+117,2011-04-19 04:33:15,"Prada Marfa, U.S. Hwy. 90, Valentine",30.6036103718,-104.518326975
+118,2011-04-18 03:51:15,"Foodtown of Williamsburg, 159 N 3rd St, Brooklyn",40.7153563603,-73.9596001437
+119,2011-04-14 05:13:41,"Lava Restaurant, Bla Lni, Grindavk",63.8799390783,-22.4491779175
+120,2011-04-13 06:15:25,"Blue Lagoon, Bla Lni, Grindavk",63.8801741074,-22.4491453171
+121,2011-04-13 06:14:01,"Priki, Bankastrti 12, Reykjavk",64.146523846,-21.9337159395
+122,2011-04-13 06:13:29,"Kaffibarinn, Bergstaastri 1, Reykjavk",64.1459015936,-21.9313716888
+123,2011-04-13 06:11:45,"Gullfoss, Biskupstungnabraut, Gullfoss",64.3273836698,-20.1196045026
+124,2011-04-13 06:09:36,"Geysir, 6418""49.5""N 2017""58.0""W, Blskgabygg",64.3099499123,-20.301607482
+125,2011-04-13 06:06:26,"Boston, Laugavegur 28b, Reykjavk",64.145346,-21.9276910728
+126,2011-04-13 06:05:55,"Bjarins Beztu Pylsur, Tryggvagata 1, Reykjavk",64.1482706711,-21.9379280169
+127,2011-04-13 06:05:06,"Keflavik International Airport (KEF), Keflavkurflugvelli, Reykjanesbr",63.9911706293,-22.6229095459
+128,2011-04-13 06:03:39,"Icelandair Htel Reykjavk Natura, Nauthlsvegur 52, Reykjavk",64.1307402285,-21.9325751889
+129,2011-04-13 06:02:27,"Church of Hallgrmur, Eirksgata, Reykjavk",64.1418589532,-21.926779747
+130,2011-04-13 06:01:26,"Kolaporti, Tryggvagata 19, Reykjavk",64.1488583375,-21.938431263
+131,2011-03-15 01:44:38,"Chop't, 145 W 51st St, New York",40.7609108121,-73.9813756943
+132,2011-03-15 01:39:18,"Mulholland's, 312 Grand St, Brooklyn",40.7128014197,-73.9569884972
+133,2011-03-15 01:38:32,"The Gutter, 200 N 14th St, Brooklyn",40.7226939236,-73.9555592515
+134,2011-03-01 01:49:07,"Montero Bar & Grill, 73 Atlantic Ave, Brooklyn",40.691185305,-73.9979270033
+135,2011-02-18 04:25:55,"The Cellar, Frewin Court, Oxford",51.7530176861,-1.25835783904
+136,2010-12-31 04:02:57,"Logan's Roadhouse, 2400 Elliston Pl, Nashville",36.148697,-86.807391
+137,2010-12-28 22:49:03,"Chick-fil-A Hattiesburg, 6099 U S Highway 98, Hattiesburg",31.322513,-89.380683
+138,2010-12-28 22:42:44,"Alabama Welcome Center, 26865 Interstate 65, Elkmont",34.953957,-86.892454
+139,2010-12-25 13:13:45,"Hampton Inn & Suites Jennings, 310 Fred Ruth Zigler Meml Dr St, Jennings",30.2423294055,-92.6618993282
+140,2010-12-22 00:38:31,"Pies 'n' Thighs, 166 S 4th St, Brooklyn",40.7112552473,-73.9614426247
+141,2010-12-22 00:37:26,"Surf Bar, 139 N 6th St, Brooklyn",40.7177589689,-73.9585841887
+142,2010-12-22 00:33:15,"Duane Reade, 250 Bedford Ave, Brooklyn",40.7158030383,-73.9599215747
+143,2010-11-27 09:01:02,"Sports Grille Boston, 132 Canal St, Boston",42.3648328,-71.06047
+144,2010-11-10 06:34:42,"Zeitgeist, 199 Valencia St, San Francisco",37.7701168394,-122.422108054
+145,2010-11-09 22:37:35,"Bonneville Salt Flats International Speedway, Exit #4, Wendover",40.7400713114,-113.852090836
+146,2010-11-09 22:36:57,"Stage Coach Inn, 209 Madison Ave, West Yellowstone",44.6607861234,-111.102912438
+147,2010-11-09 22:35:55,"Yellowstone National Park (West Entrance), 436 W Entrance Rd., West Yellowstone",44.6598622399,-111.09992981
+148,2010-11-09 22:34:42,"Wall Drug, 510 Main St., Wall",43.9930109543,-102.241741303
+149,2010-11-09 22:33:52,"Knute Rockne Travel Plaza (Eastbound), Indiana Toll Road, Rolling Prairie",41.7058686546,-86.6214859756
+150,2010-11-09 22:33:30,"Kum & Go, 141 S Jordan Creek Pkwy, West Des Moines",41.567821695,-93.810146113
+151,2010-11-09 22:32:32,"Holiday Inn Toledo-Maumee (I-80/90), 1705 Toll Gate Dr, Maumee",41.589009,-83.666847
+152,2010-11-09 22:31:31,"Five Guys, 7332 Pioneer Ln, Stroudsburg",40.989584509,-75.2349758148
+153,2010-11-05 00:02:54,"Drop Off Service, 211 Avenue A, New York",40.729872,-73.980802
+154,2010-11-03 23:56:42,"The Jane Hotel, 113 Jane St, New York",40.7381507883,-74.0094327502
+155,2010-10-28 01:29:47,"Caf Duke, 140 W 51st St, New York",40.7613983978,-73.9819335938
+156,2010-10-27 03:56:35,"Apple Village Pointe, 17255 Davenport Street, Omaha",41.260615377,-96.1849494428
+157,2010-10-27 03:54:36,"Iowa 80 Truckstop, 755 W I-80 Rd, Walcott",41.6177872673,-90.781969169
+158,2010-10-21 12:48:31,"Motel 6, 7655 Office Plaza Dr N, West Des Moines",41.589195,-93.812043
+159,2010-09-29 04:41:41,"GSP Interactive 2.0, 655 Montgomery St, San Francisco",37.7952158899,-122.404287323
+160,2010-09-21 08:55:24,"Tonga Room & Hurricane Bar, 950 Mason St, San Francisco",37.7922613199,-122.409635782
+161,2010-09-21 08:53:34,"16th St. Mission BART Station, 2000 Mission St, San Francisco",37.7649170471,-122.419779586
+162,2010-09-21 08:52:38,"Golden Gate Fields, 1100 Eastshore Hwy, Albany",37.8844395028,-122.313451767
+163,2010-09-21 08:51:46,"Target, 5001 Junipero Serra Blvd, Colma",37.6737458433,-122.464788747
+164,2010-09-21 08:49:18,"InterContinental Carlton Cannes, 58 boulevard de La Croisette, Cannes",43.549285385,7.02725951016

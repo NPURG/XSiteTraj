@@ -1,0 +1,65 @@
+,time,poi,latitude,longitude
+0,2017-01-01 03:26:24,"El Rey Super Foods, 916 S Cesar E Chavez Dr, Milwaukee",43.0215062564,-87.9327070944
+1,2016-12-10 23:10:18,"Sprocket Cafe, 3385 S Kinnickinnic Ave, Milwaukee",42.982988,-87.880755
+2,2015-11-29 02:19:24,"PRESSED, 120 Charles St, Boston",42.35929313,-71.07078812
+3,2015-11-29 00:59:10,"Tatte Bakery & Cafe, 318 Third Street, Cambridge",42.3651009574,-71.0827949461
+4,2015-10-01 02:44:56,"Don Jacobs Toyota, 5727 S 27th St, Milwaukee",42.9406960169,-87.950096451
+5,2015-09-22 06:28:09,"The Knickerbocker on the Lake, 1028 East Juneau Avenue, Milwaukee",43.04578,-87.89891
+6,2015-08-28 21:52:50,"Alderaan Coffee, 1560 N Water St, Milwaukee",43.050513286,-87.9061442614
+7,2015-08-28 21:51:55,"Pastiche Bistro & Wine Bar, 3001 S Kinnickinnic Ave, Milwaukee",42.990173,-87.88509496
+8,2015-08-28 21:51:07,"Wild Rice Restaurant, 84860 Old San Rd, Bayfield",46.7932859696,-90.8344845284
+9,2015-08-26 00:34:49,"Big Water Coffee Roasters, 117 Rittenhouse Ave, Bayfield",46.811006,-90.81537
+10,2015-06-11 21:53:19,"Keller Williams Realty, 205 E Silver Spring Dr, Whitefish Bay",43.118366,-87.907811
+11,2015-02-21 07:48:54,"Ginger, 235 S 2nd St, Milwaukee",43.028473576,-87.9128396181
+12,2015-02-21 07:48:02,"Art Bar, 722 E Burleigh St, Milwaukee",43.074768,-87.9018849134
+13,2015-02-21 07:46:00,"Keller Williams Realty, 205 E Silver Spring Dr, Whitefish Bay",43.118366,-87.907811
+14,2015-02-21 07:42:24,"Beulah Brinton Recreation Center, 2555 S Bay St, Milwaukee",42.9984014099,-87.894487381
+15,2015-02-21 00:24:39,"The Bar at The Peninsula, 108 E Superior St, Chicago",41.8959204164,-87.6248931885
+16,2015-02-21 00:23:24,"Eataly, 43 E Ohio St, Chicago",41.8924641769,-87.6264590286
+17,2015-02-21 00:18:24,"Fat Rice, 2957 W Diversey Ave, Chicago",41.9320441349,-87.7023349216
+18,2015-02-21 00:12:52,"Pierrot Gourmet, 108 E Superior St, Chicago",41.8957994452,-87.6255576806
+19,2014-09-17 08:44:02,"Henry's on South, 2110 Winthrop Rd, Lincoln",40.791334,-96.675396
+20,2014-09-01 00:24:43,"Roberts Roost, 600 6th St, Racine",42.7264005333,-87.787296
+21,2014-08-02 07:40:13,"R&D Pub, Delaware Street, Milwaukee",42.988716,-87.878152
+22,2014-07-04 09:06:07,"Goodkind, 2457 S Wentworth Ave, Milwaukee",42.9995214758,-87.8916120358
+23,2014-06-11 08:04:58,"Humboldt Park, 3000 S Howell Ave, Milwaukee",42.990972107,-87.9017408269
+24,2014-05-10 08:04:26,"Bay View Dog Park, Lincoln, Milwaukee",43.0033646258,-87.8967294219
+25,2014-01-23 23:49:33,"Schlitz Audubon Nature Center, 1111 E Brown Deer Rd, Bayside",43.174324634,-87.8853390863
+26,2013-12-04 02:22:53,"Soup Brothers, 209 W Florida St, Milwaukee",43.0272929667,-87.912953
+27,2013-11-23 00:20:16,"South Shore Yacht Club, 2300 E Nock St, Milwaukee",42.9972046116,-87.8828900496
+28,2013-11-22 02:17:17,"Anodyne Coffee Company, 224 W Bruce St, Milwaukee",43.0254611978,-87.9136490468
+29,2013-11-13 06:47:31,"Metro Eye, 325 E Chicago St, Milwaukee",43.0327651247,-87.9062774372
+30,2013-11-04 03:47:15,"Landmark On The Lake, 1660 N Prospect Ave, Milwaukee",43.0519055775,-87.8913676516
+31,2013-10-31 07:39:58,"Urban View Condo, 2121 S Kinnickinnic Ave, Milwaukee",43.0062386238,-87.9077528143
+32,2013-10-21 04:39:21,"Stone Creek Coffee, 158 S Barclay St, Milwaukee",43.0295906067,-87.9094848633
+33,2013-09-15 22:27:17,"Santaella, 219 Calle Canals, San Juan",18.4501532,-66.0699019
+34,2013-09-15 22:24:24,"Las Vistas Cafe, 83 #2 Street Las Croabas, Fajardo",18.3675551445,-65.6251219823
+35,2013-07-28 03:22:34,"The Old Fashioned Tavern & Restaurant, 23 N Pinckney St, Madison",43.0761176913,-89.3840092421
+36,2013-07-21 20:22:04,"Holiday Inn Express & Suites Calhoun, 125 Hampton Dr SE, Calhoun",34.4706118367,-84.9210343998
+37,2013-06-16 01:10:17,"Yampah Vapor Caves, 709 E 6th St, Glenwood Springs",39.5503947134,-107.320820974
+38,2013-06-15 05:09:00,"Hotel Colorado, 526 Pine St, Glenwood Springs",39.55062859,-107.32448575
+39,2013-06-06 01:53:17,"Colectivo Coffee, 1701 N Lincoln Memorial Dr, Milwaukee",43.0535661022,-87.8867959841
+40,2013-05-11 02:39:40,"Soup Brothers, 209 W Florida St, Milwaukee",43.0272929667,-87.912953
+41,2013-04-26 21:38:37,"Rail Hall, 131 W Seeboth St, Milwaukee",43.03384,-87.91162271
+42,2013-03-03 04:35:28,"Twin Lobsters, 2700 Placida Rd, Englewood",26.9159072879,-82.3286116839
+43,2013-01-27 01:50:13,"Strictly Sail At Navy Pier, 600 E Grand Ave, Chicago",41.8916496656,-87.6029265785
+44,2012-12-28 11:40:28,"Salaam Bombay, 317 Greenwich St, New York",40.716993,-74.010991
+45,2012-11-11 03:26:44,"Duke Kahanamoku Beach, Waikiki beach fronting Hilton Hawaiian Village, Honolul",21.2816533332,-157.837828185
+46,2012-09-20 14:16:13,"Duke Kahanamoku Beach, Waikiki beach fronting Hilton Hawaiian Village, Honolul",21.2816533332,-157.837828185
+47,2012-09-16 02:47:14,"Bakery Nouvea, 4737 California Ave SW, Seattle",47.5600407839,-122.38677605
+48,2012-07-13 07:23:29,"Le Pain Quotidien 9d6c1297, 9d6c123-3-1, 71ac",35.6581461876,139.750068784
+49,2012-07-02 01:08:42,"Torre dell'Orologio / Clock Tower, Piazza San Marco, Venezia",45.4342029469,12.3390765211
+50,2012-03-11 23:35:41,"Colectivo Coffee, 4500 N Oakland Ave, Shorewood",43.098503,-87.8872873667
+51,2012-01-21 23:22:20,"Le Pain Quotidien, 922 7th Ave, New York",40.7662712112,-73.9795680249
+52,2012-01-21 23:21:19,"Pepolino, 281 W Broadway, New York",40.7208371463,-74.0051576283
+53,2012-01-21 23:18:50,"Eataly NYC, 200 5th Ave, New York",40.7420029038,-73.9897950936
+54,2011-07-26 00:57:43,"Shorewest Realtors, 1610 N Water St, Milwaukee",43.05101,-87.905765
+55,2011-07-23 01:50:43,"Fuel Cafe, 818 E Center St, Milwaukee",43.06751,-87.9009246826
+56,2010-11-10 03:27:30,"Main Salon Studios, Murry, Shorewood",43.0893793145,-87.8852240661
+57,2010-09-05 23:52:02,"Cliff's Boathouse, 301 Hamilton St, Racine",42.7354618667,-87.7838513833
+58,2010-04-03 22:16:39,"Shorewest Realtors, 1610 N Water St, Milwaukee",43.05101,-87.905765
+59,2010-03-18 21:48:49,"Colectivo Coffee, 1701 N Lincoln Memorial Dr, Milwaukee",43.0535661022,-87.8867959841
+60,2010-02-26 09:55:55,"Jean Philippe Patisserie, The Bellagio Hotel & Casino, Las Vegas",36.1118238287,-115.176980459
+61,2010-02-26 09:54:32,"Downtown YMCA, 161 W Wisconsin Ave, Milwaukee",43.0381073103,-87.9121690745
+62,2010-02-26 09:52:17,"oilerie, Bluemound, Brookfield",43.0360236732,-88.1168567192
+63,2010-01-18 23:01:35,"Shoreview Pediatrics, 2524 E Webster Pl, Milwaukee",43.065044,-87.878495

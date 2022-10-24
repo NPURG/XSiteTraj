@@ -1,0 +1,86 @@
+,time,poi,latitude,longitude
+0,2016-02-05 05:41:21,"Randy's Donuts, 805 W Manchester Blvd, Inglewood",33.9617631499,-118.370320201
+1,2016-02-05 05:40:29,"California Donuts, 3540 W 3rd St, Los Angeles",34.0690024,-118.293120861
+2,2016-02-05 01:54:23,"Doughboy Donuts and Deli, 220 Dorchester Ave, Boston",42.3401289745,-71.0568483843
+3,2016-02-05 01:53:54,"Kane's Donuts, 1 International Pl, Boston",42.3562346909,-71.0531863684
+4,2016-02-04 20:33:18,"Pierre Herm, Galeries Lafayette Haussmann, Paris",48.8732262512,2.33137570647
+5,2016-02-04 20:32:45,"Pierre Herm, 18 rue Sainte-Croix-de-la-Bretonnerie, Paris",48.858109058,2.3563533991
+6,2016-02-04 20:31:15,"Blackbird Doughnuts, 492 Tremont St, Boston",42.3457253482,-71.0694301483
+7,2016-02-04 10:34:44,"Honey Dew Donuts, Route 128 South, Newton",42.3304241176,-71.254883958
+8,2016-02-04 05:40:42,"Mike's Donuts, 1524A Tremont St, Boston",42.3323784101,-71.099855751
+9,2016-02-04 05:39:37,"Max Brenner, 841 Broadway, New York",40.7343295114,-73.9909199231
+10,2016-02-04 05:39:04,"Dominique Ansel Bakery, 189 Spring St, New York",40.7250960008,-74.0030747652
+11,2016-02-04 05:38:34,"Doughnut Plant, 220 W 23rd St, New York",40.744493979,-73.996561188
+12,2016-02-03 20:29:59,"Poilne, 8 rue du Cherche-Midi, Paris",48.851323475,2.32908246497
+13,2016-02-03 20:29:16,"Stohrer, 51 rue Montorgueil, Paris",48.8652617421,2.34684735071
+14,2016-02-03 20:28:56,"Pierre Herm, 39 avenue de l'Opra, Paris",48.8682241591,2.33349530008
+15,2016-02-03 20:27:21,"Sapphire New York, 333 E 60th St, New York",40.760595,-73.962361
+16,2016-02-03 20:26:57,"Larry Flynt's Hustler Gentlemen's Club NYC, 641 W 51st St, New York",40.7668359645,-73.9962742508
+17,2016-02-03 20:24:51,"Spearmint Rhino, 3340 S Highland Dr, Las Vegas",36.128447056,-115.17819643
+18,2016-02-03 20:24:15,"Larry Flynt's Hustler Club, 6007 Dean Martin Dr, Las Vegas",36.0802691996,-115.182527059
+19,2016-02-03 20:22:15,"Fenway Strippers, 17 Yawkey Way, Boston",42.3477476124,-71.0935479793
+20,2016-02-03 20:21:37,"The Glass Slipper, 22 Lagrange St, Boston",42.3515737347,-71.0635861759
+21,2016-02-03 20:17:32,"Campus, 1111, rue Saint-Catherine Est, Montral",45.517749,-73.556890275
+22,2016-02-03 20:16:47,"Super Sex, 696, rue Sainte-Catherine Ouest, Montral",45.5025092607,-73.5700493921
+23,2016-02-03 20:15:31,"The Wiener's Circle, 2622 N Clark St, Chicago",41.9301756154,-87.64354527
+24,2016-02-03 20:14:25,"Club Alex's, 584 Washington St, Stoughton",42.130127424,-71.1015675947
+25,2016-02-03 20:12:10,"Centerfolds Gentlemen's Club, 12 Lagrange St, Boston",42.3514994959,-71.0633254051
+26,2016-02-02 20:27:52,"Blunch, 59 E Springfield St, Boston",42.3354758658,-71.0744964042
+27,2016-02-02 20:27:09,"Cafe Madeleine, 517 Columbus Ave, Boston",42.342078,-71.079963
+28,2016-02-02 20:26:09,"Emack & Bolio's, 290 Newbury St, Boston",42.3490563091,-71.0846925609
+29,2016-02-02 20:25:38,"Amorino, 249 Newbury St, Boston",42.349596779,-71.0826498682
+30,2016-02-02 20:20:31,"Highball Lounge, 90 Tremont St, Boston",42.3574405406,-71.0610268728
+31,2016-02-02 20:19:12,"The Fill-A-Buster, 142 Bowdoin St, Boston",42.3584368894,-71.062746048
+32,2016-02-02 20:17:58,"Robert Gould Shaw Memorial, Beacon St, Boston",42.3575246109,-71.0634759115
+33,2016-02-02 20:17:11,"The Sevens Ale House, 77 Charles St, Boston",42.3583239151,-71.070433259
+34,2016-02-02 20:16:41,"Troquet, 140 Boylston St, Boston",42.35262,-71.066268
+35,2016-02-02 20:16:02,"Savenor's Market, 160 Charles St, Boston",42.360444,-71.070775
+36,2016-02-02 20:14:03,"Mooo...., 15 Beacon St, Boston",42.3581861011,-71.0619322063
+37,2016-02-02 20:13:19,"The Paramount, 44 Charles St, Boston",42.3572856723,-71.0700627083
+38,2016-02-02 20:12:34,"J.P. Licks Beacon Hill, 150 Charles St, Boston",42.3601148912,-71.0707416936
+39,2016-02-02 19:20:17,"White Horse Tavern, 116 Brighton Ave, Allston",42.35275505,-71.1306678233
+40,2016-02-02 19:19:26,"Brighton Music Hall, 158 Brighton Ave, Allston",42.35280543,-71.1326175928
+41,2016-02-02 19:18:33,"Mixx Frozen Yogurt, 66 Brighton Ave, Boston",42.352446,-71.12851
+42,2016-02-02 10:28:59,"Refuge Cafe, 155 Brighton Ave, Allston",42.3531602598,-71.1322228707
+43,2016-02-02 10:28:29,"Martys Liquors, 103 North Beacon St, Allston",42.3547601025,-71.1428759427
+44,2016-02-02 10:27:52,"Super 88 Market, 1 Brighton Ave, Allston",42.3526769246,-71.1254990101
+45,2016-02-02 10:27:27,"In Your Ear Records, 957 Commonwealth Ave, Boston",42.3517032167,-71.11884345
+46,2016-02-02 10:26:06,"Ariana Restaurant, 384 Western Ave, Boston",42.362577338,-71.1378163493
+47,2016-02-02 10:25:23,"Raising Cane's Chicken Fingers, 949 Commonwealth Ave, Boston",42.351738,-71.118784
+48,2016-02-02 10:24:17,"BonChon Chicken, 123 Brighton Ave, Allston",42.353014,-71.130967
+49,2016-02-02 10:23:35,"FoM, 481 Cambridge St, Allston",42.3537140211,-71.1369459999
+50,2016-02-02 10:22:30,"Lul""s Allston, 421 Cambridge St, Boston",42.3550446826,-71.1341492643
+51,2016-02-02 10:21:33,"Pavia - Italian Cuisine & Catering, 82 Water St, Boston",42.3577352564,-71.0558581352
+52,2016-02-02 08:30:54,"Kung Fu Tea, 131 Harvard Ave, Allston",42.3522142279,-71.1319037383
+53,2016-02-02 08:30:12,"Brookline Liquor Mart, 1354 Commonwealth Ave, Allston",42.3476620183,-71.1361916955
+54,2016-02-02 08:28:37,"Twin Donuts, 501 Cambridge St, Allston",42.3536392797,-71.1378685702
+55,2016-02-02 08:25:53,"Devlin's Restaurant, 332 Washington St, Brighton",42.34888677,-71.1523309
+56,2016-02-02 08:23:20,"Great Scott, 1222 Commonwealth Ave, Allston",42.3501454924,-71.1307374524
+57,2016-02-02 08:17:30,"Jim's Deli, 371 Washington St, Brighton",42.349248,-71.154089
+58,2016-02-01 19:25:28,"Brookline Lunch, 9 Brookline St, Cambridge",42.3637727833,-71.101636
+59,2016-02-01 19:24:40,"IHOP, 1850 Soldiers Field Road, Brighton",42.3586310641,-71.1572710614
+60,2016-02-01 19:24:16,"Sound Bites, 704 Broadway, Somerville",42.3998817267,-71.1123491418
+61,2016-02-01 19:22:54,"Uncommon Grounds, 575 Mount Auburn St, Watertown",42.3702370104,-71.1594526218
+62,2016-01-27 06:33:36,"Redbox, 5671 Kanan Rd, Agoura Hills",34.153398,-118.757421
+63,2016-01-27 06:32:34,"Regency Agoura Hills 8, 29045 Agoura Rd, Agoura Hills",34.1442959774,-118.757255563
+64,2016-01-27 06:32:05,"Twisted Oak Tavern, 30105 Agoura Rd, Agoura Hills",34.1453223595,-118.778659415
+65,2016-01-27 06:31:21,"Ralphs, 5727 Kanan Rd, Agoura",34.1551064072,-118.758183718
+66,2016-01-27 06:30:32,"Starbucks, 5827 Kanan Road, Agoura",34.155865,-118.75656
+67,2016-01-27 06:29:47,"Tifa Chocolate & Gelato, 28888 Roadside Dr, Agoura Hills",34.144522386,-118.754574186
+68,2016-01-27 06:29:25,"Trader Joe's, 28941 Canwood St, Agoura Hills",34.146185,-118.75669
+69,2016-01-27 06:28:21,"Grissini Ristorante, 30125 Agoura Rd, Agoura Hills",34.1458593474,-118.778591109
+70,2016-01-20 19:44:02,"Waltham YMCA, 725 Lexington St, Waltham",42.4006591508,-71.231454699
+71,2016-01-19 04:55:20,"Starbucks, 1269 Centre St, Newton Centre",42.3301731187,-71.195037961
+72,2016-01-19 03:17:56,"Little Big Diner, 1247 Centre St, Newton",42.3306202956,-71.1946982301
+73,2016-01-18 13:46:01,"Joseph's Two, 805 Main St, Waltham",42.3764677996,-71.2425285234
+74,2016-01-18 13:44:07,"Chiara, 569 High St, Westwood",42.229052,-71.221562
+75,2016-01-18 13:43:12,"Istanbul'l, 237 Holland St, Somerville",42.4026271931,-71.1268788205
+76,2016-01-18 13:42:17,"Sabur, 212 Holland St, Somerville",42.402087,-71.12677
+77,2016-01-13 05:22:52,"B.Good (Seaport), 50 Northern Ave, Boston",42.35325,-71.04613
+78,2016-01-13 05:22:31,"Rosie's Bakery, South Station, Boston",42.3515565701,-71.0549912646
+79,2016-01-08 10:50:53,"Susan's Deli of Course, 695 Atlantic Ave, Boston",42.3520684592,-71.0562622318
+80,2016-01-05 05:32:17,"Trillium Brewing Company (Canton), 110 Shawmut Rd, Canton",42.1851158086,-71.1526816225
+81,2015-12-31 04:28:42,"NTB - National Tire & Battery, 139 Bear Hill Rd, North Waltham",42.3813262946,-71.265139245
+82,2015-12-30 11:43:53,"Massachusetts Table Tennis and Badminton Club, 104 Clematis Ave, Waltham",42.3846119753,-71.1995656457
+83,2015-12-29 12:56:47,"Frank Pepe's Pizzeria, 199 Boylston St, Chestnut Hill",42.321766334,-71.1761446403
+84,2015-12-17 05:25:38,"Pennypackers Food Truck, Tide st, Boston",42.3529311814,-71.0554903664

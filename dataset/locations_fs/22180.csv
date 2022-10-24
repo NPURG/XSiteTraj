@@ -1,0 +1,396 @@
+,time,poi,latitude,longitude
+0,2016-11-03 11:59:21,"Forest Way Grove, 1002 Forestway Dr, Glencoe",42.1290159957,-87.7750673684
+1,2016-09-19 11:32:36,"90 Miles Cuban Cafe, Lincolnwood Town Center, Lincolnwood",42.0101946287,-87.7135454465
+2,2016-09-16 11:39:07,"Carson's Ribs, Steaks and Chops, 200 S Waukegan Rd, Deerfield",42.15732,-87.83855
+3,2016-09-16 11:37:19,"South Blvd Beach, 525 Sheridan Sq, Evanston",42.0276035239,-87.6688841911
+4,2016-09-01 11:23:31,"Poitin Stil, 1502 W Jarvis Ave, Chicago",42.0160359455,-87.6683255878
+5,2016-09-01 11:20:08,"Evanston Grill, 1047 Chicago Ave, Evanston",42.0374378033,-87.6800355619
+6,2016-09-01 11:14:16,"Pete Miller's Evanston, 1557 Sherman Ave, Evanston",42.0457850467,-87.6819516279
+7,2016-09-01 09:58:38,"Stacked & Folded, 551 Lincoln Ave, Winnetka",42.1062606,-87.7323523
+8,2016-09-01 09:57:40,"Stacked & Folded, 551 Lincoln Ave, Winnetka",42.1062606,-87.7323523
+9,2016-07-10 04:41:17,"Wild Pita, 1938 Waukegan Rd, Glenview",42.0903415153,-87.7980451093
+10,2016-07-03 05:01:30,"Farmhouse, 703 Church St, Evanston",42.0486154486,-87.6809191704
+11,2016-06-12 07:26:52,"Tropic World, Brookfield Zoo, Brookfield",41.8319996097,-87.8350925446
+12,2016-05-03 07:22:28,"Redz Belizean Restaurant, 7605 N Paulina St, Chicago",42.0194483952,-87.6730734978
+13,2016-05-03 07:21:05,"Redz Belizean Restaurant, 7605 N Paulina St, Chicago",42.0194483952,-87.6730734978
+14,2016-04-21 08:16:21,"Gyu-Kaku Japanese BBQ, 210 E Ohio St, Chicago",41.8927187718,-87.6222750812
+15,2016-04-11 06:54:17,"Kaufman's Bagel & Delicatessen, 4905 Dempster St, Skokie",42.04060573,-87.74974
+16,2016-02-22 11:54:16,"Jarvis Grill, 1517 W Jarvis Ave, Chicago",42.0159392102,-87.6688504825
+17,2015-11-23 03:07:37,"La Unica Food Market, 1515 W Devon Ave, Chicago",41.99809586,-87.668382
+18,2015-11-23 03:06:51,"La Unica Food Market, 1515 W Devon Ave, Chicago",41.99809586,-87.668382
+19,2015-11-19 13:52:20,"Hecky's Barbecue, 1902 Green Bay Rd, Evanston",42.0523062567,-87.6891674439
+20,2015-11-08 02:27:18,"Sunrise Jamaican Restaurant, Howard Street, Chicago",42.019402,-87.684459
+21,2015-11-08 02:22:22,"CTA - Howard, 7519 N Paulina St, Chicago",42.0189474399,-87.6730120182
+22,2015-11-08 02:16:39,"Roti Modern Mediterranean, 798 Skokie Blvd, Northbrook",42.138433956,-87.7926379391
+23,2015-10-22 11:44:10,"Tapas Barcelona, 1615 Chicago Ave, Evanston",42.0468304397,-87.679400065
+24,2015-10-22 11:43:00,"Tapas Barcelona, 1615 Chicago Ave, Evanston",42.0468304397,-87.679400065
+25,2015-09-04 06:59:52,"Kyoto Sushi, 1062 Gage st., Hubbard Woods",42.1170241368,-87.7438288847
+26,2015-07-12 13:48:38,"Heartland Caf, 7000 N Glenwood Ave, Chicago",42.009119,-87.666355
+27,2015-07-02 11:34:11,"Stir Crazy Fresh Asian Grill, 1186 Northbrook Ct, Northbrook",42.1501477745,-87.8150067398
+28,2015-06-29 01:53:02,"Nacional 27, 325 W Huron St, Chicago",41.894683322,-87.6370135993
+29,2015-06-29 01:50:40,"Nacional 27, 325 W Huron St, Chicago",41.894683322,-87.6370135993
+30,2015-06-29 01:49:29,"Nacional 27, 325 W Huron St, Chicago",41.894683322,-87.6370135993
+31,2015-06-15 11:27:53,"Vertigo Sky Lounge, 2 W Erie St, Chicago",41.8940196947,-87.628133297
+32,2015-06-09 11:31:54,"Max's Deli, 191 Skokie Valley Rd, Highland Park",42.1566113136,-87.8036820907
+33,2015-06-09 11:31:31,"Max's Deli, 191 Skokie Valley Rd, Highland Park",42.1566113136,-87.8036820907
+34,2015-05-25 23:41:43,"Symphony's, 1945 Central St, Evanston",42.0643017333,-87.700942
+35,2015-05-23 12:17:28,"Chase Bank, 332 Park Ave, Glencoe",42.13429,-87.758784
+36,2015-05-14 08:34:38,"Parkside Gyros, 7355 N Clark St, Chicago",42.01537724,-87.6750957838
+37,2015-05-02 07:00:13,"Buffalo Joe's, 1841 W Howard St, Chicago",42.0194107559,-87.6775464814
+38,2015-04-26 13:10:19,"L. Woods Tap And Pine Lodge, 7110 N Lincoln Ave, Lincolnwood",42.0101723492,-87.7378767107
+39,2015-04-26 13:09:53,"L. Woods Tap And Pine Lodge, 7110 N Lincoln Ave, Lincolnwood",42.0101723492,-87.7378767107
+40,2015-04-26 13:09:23,"L. Woods Tap And Pine Lodge, 7110 N Lincoln Ave, Lincolnwood",42.0101723492,-87.7378767107
+41,2015-04-16 11:53:08,"Sub Brothers, 1417 1/2 W Morse Ave, Chicago",42.0078472653,-87.6664674282
+42,2015-04-16 11:51:55,"Crperie Saint Germain, 1512 Sherman Ave, Evanston",42.0452468314,-87.6819131148
+43,2015-04-16 11:51:24,"Crperie Saint Germain, 1512 Sherman Ave, Evanston",42.0452468314,-87.6819131148
+44,2015-04-16 11:50:50,"Crperie Saint Germain, 1512 Sherman Ave, Evanston",42.0452468314,-87.6819131148
+45,2015-04-16 11:49:29,"Hofherr Meat Co., 300 Happ Rd, Northfield",42.0988019123,-87.7691721553
+46,2015-03-21 10:26:28,"Thai Thai Deerfield, 475 Lake Cook Rd, Deerfield",42.1510222507,-87.8388996559
+47,2015-03-18 11:33:48,"Thai Thai Deerfield, 475 Lake Cook Rd, Deerfield",42.1510222507,-87.8388996559
+48,2015-03-14 07:50:45,"Cuetzala Gro, 7360 N Clark St, Chicago",42.0155596733,-87.675264
+49,2015-03-13 11:58:41,"Union Sushi + Barbeque Bar, 230 W Erie St, Chicago",41.8940748225,-87.635428578
+50,2015-03-13 11:56:36,"Union Sushi + Barbeque Bar, 230 W Erie St, Chicago",41.8940748225,-87.635428578
+51,2015-03-13 11:51:36,"153 Akira, 1137 Greenleaf Ave, Wilmette",42.075327,-87.7067607167
+52,2015-02-15 13:45:08,"Real Urban Barbecue, 610 Central Ave, Highland Park",42.1842963933,-87.8004555572
+53,2015-02-15 13:44:26,"Real Urban Barbecue, 610 Central Ave, Highland Park",42.1842963933,-87.8004555572
+54,2015-02-11 12:10:20,"Symphony's, 1945 Central St, Evanston",42.0643017333,-87.700942
+55,2015-02-11 12:09:52,"Symphony's, 1945 Central St, Evanston",42.0643017333,-87.700942
+56,2015-02-09 12:55:29,"Symphony's, 1945 Central St, Evanston",42.0643017333,-87.700942
+57,2015-02-07 10:38:23,"Rocky's Tacos, 7043 N Clark St, Chicago",42.0100307533,-87.6743205847
+58,2015-02-07 10:37:20,"Stormy's Tavern And Grille, 1735 Orchard Ln, Northfield",42.100701,-87.768659
+59,2015-01-29 09:50:12,"Smylie Brothers Brewing Co., 1615 Oak Ave, Evanston",42.0476755879,-87.686471876
+60,2015-01-29 09:49:36,"Smylie Brothers Brewing Co., 1615 Oak Ave, Evanston",42.0476755879,-87.686471876
+61,2015-01-29 09:48:50,"Smylie Brothers Brewing Co., 1615 Oak Ave, Evanston",42.0476755879,-87.686471876
+62,2015-01-29 09:48:14,"Smylie Brothers Brewing Co., 1615 Oak Ave, Evanston",42.0476755879,-87.686471876
+63,2015-01-29 04:58:48,"Turmeric Indian Restaurant, 2300 Lehigh Ave, Glenview",42.0971063324,-87.8165331175
+64,2015-01-15 14:16:50,"Lalo's, 1432 Waukegan Rd, Glenview",42.0813625865,-87.7991014968
+65,2015-01-05 12:52:59,"Bistro Bordeaux, 618 Church Ave, Evanston",42.047823,-87.67997
+66,2014-12-31 13:33:51,"Penny's Noodle Shop, 320 Happ Rd, Northfield",42.100112,-87.769955
+67,2014-12-28 11:30:15,"Poitin Stil, 1502 W Jarvis Ave, Chicago",42.0160359455,-87.6683255878
+68,2014-12-22 12:59:05,"Poitin Stil, 1502 W Jarvis Ave, Chicago",42.0160359455,-87.6683255878
+69,2014-12-11 13:20:16,"M Burger, 3654 Touhy Ave, Chicago",42.0118556273,-87.721136239
+70,2014-11-28 13:04:21,"Little Red Hen, 653 Vernon Ave, Glencoe",42.133103,-87.758775
+71,2014-11-25 14:47:47,"Little Red Hen, 653 Vernon Ave, Glencoe",42.133103,-87.758775
+72,2014-11-18 13:05:06,"Sol Caf, 1615 W Howard St, Chicago",42.0193056248,-87.6719949085
+73,2014-11-14 13:24:42,"Anton's Fruit Ranch, 300 Skokie Valley Rd, Highland Park",42.158148,-87.806195
+74,2014-11-14 13:22:34,"Poitin Stil, 1502 W Jarvis Ave, Chicago",42.0160359455,-87.6683255878
+75,2014-11-14 13:18:45,"Trattoria Oliverii, 1358 Shermer Rd, Northbrook",42.128255,-87.827981
+76,2014-11-11 13:42:28,"Rocky's Tacos, 7043 N Clark St, Chicago",42.0100307533,-87.6743205847
+77,2014-11-05 04:50:19,"Marcello's Father & Son Restaurant, 1911 Cherry Ln, Northbrook",42.1305415645,-87.8266548609
+78,2014-11-04 12:56:22,"Szechwan Kingdom, 545 Waukegan Rd, Northbrook",42.1454678675,-87.8287662701
+79,2014-10-24 12:17:04,"Yeowoosai, 6248 N California Ave, Chicago",41.9951888134,-87.6996641955
+80,2014-10-24 12:16:09,"Panera Bread, 2512 Waukegan Rd, Glenview",42.099976,-87.799302
+81,2014-10-24 12:15:24,"Yeowoosai, 6248 N California Ave, Chicago",41.9951888134,-87.6996641955
+82,2014-10-21 12:34:47,"Sven's Cafe, 2699 S Kinnickinnic Ave, Milwaukee",42.9960403322,-87.896868369
+83,2014-10-21 12:33:34,"Sven's Cafe, 2699 S Kinnickinnic Ave, Milwaukee",42.9960403322,-87.896868369
+84,2014-10-21 12:32:27,"South Shore Park, 2900 S Shore Dr, Milwaukee",42.9928927247,-87.8802609444
+85,2014-10-21 12:30:08,"Sheridan's, 5133 S Lake Dr, Cudahy",42.9512057982,-87.8502586165
+86,2014-10-21 12:29:23,"Poitin Stil, 1502 W Jarvis Ave, Chicago",42.0160359455,-87.6683255878
+87,2014-10-14 12:36:58,"Boston Blackies, 405 Lake Cook Rd, Deerfield",42.1518535116,-87.8384870721
+88,2014-10-06 01:03:50,"Sarkis Cafe, 2632 Gross Point Rd, Evanston",42.0657115566,-87.7272974126
+89,2014-10-05 06:54:51,"The Alley, 210 Green Bay Rd, Highwood",42.2001169674,-87.8088719079
+90,2014-10-02 11:42:58,"Mariano's Fresh Market, 1822 Willow Rd, Northfield",42.1004737106,-87.7715505123
+91,2014-10-02 07:37:59,"Burger King, 7523 N Clark St, Chicago",42.0185043696,-87.6757447642
+92,2014-09-26 11:03:48,"Pizzeria Via Stato, 620 N State St, Chicago",41.8929830604,-87.6280110407
+93,2014-09-26 10:59:45,"Skokie Lagoons, Forestway Dr, Winnetka",42.1158265437,-87.774716656
+94,2014-09-26 10:54:36,"Penny's Noodle Shop, 320 Happ Rd, Northfield",42.100112,-87.769955
+95,2014-09-26 10:51:49,"Cook County Forest Preserve Trail, 1373 Winnetka Rd, Winnetka",42.0936811819,-87.7539092565
+96,2014-09-26 03:23:40,"Penny's Noodle Shop, 320 Happ Rd, Northfield",42.100112,-87.769955
+97,2014-09-24 12:15:38,"Cook County Forest Preserve Trail, 1373 Winnetka Rd, Winnetka",42.0936811819,-87.7539092565
+98,2014-09-24 12:10:19,"Cook County Forest Preserve Trail, 1373 Winnetka Rd, Winnetka",42.0936811819,-87.7539092565
+99,2014-09-24 12:08:22,"Cook County Forest Preserve Trail, 1373 Winnetka Rd, Winnetka",42.0936811819,-87.7539092565
+100,2014-09-21 11:57:32,"Metra - Evanston (Davis Street), 901 Davis St, Evanston",42.0479701195,-87.6847815514
+101,2014-09-21 04:11:27,"Capt'n Nemo's, 7367 N Clark St, Chicago",42.0158317601,-87.6750283757
+102,2014-09-21 04:09:45,"Capt'n Nemo's, 7367 N Clark St, Chicago",42.0158317601,-87.6750283757
+103,2014-09-15 04:53:01,"Eataly, 43 E Ohio St, Chicago",41.8924641769,-87.6264590286
+104,2014-09-15 04:52:13,"Eataly, 43 E Ohio St, Chicago",41.8924641769,-87.6264590286
+105,2014-09-15 04:51:37,"Eataly, 43 E Ohio St, Chicago",41.8924641769,-87.6264590286
+106,2014-09-15 04:50:58,"Eataly, 43 E Ohio St, Chicago",41.8924641769,-87.6264590286
+107,2014-09-13 06:29:22,"Metra - Hubbard Woods, 1065 Gage St, Winnetka",42.1183121869,-87.744128108
+108,2014-09-10 10:40:46,"Potbelly Sandwich Shop, 984 Willow Road, Suite A, Northbrook",42.10673537,-87.80291389
+109,2014-09-06 10:40:02,"Poitin Stil, 1502 W Jarvis Ave, Chicago",42.0160359455,-87.6683255878
+110,2014-09-04 13:00:12,"Noodles & Company, 110 S Waukegan Rd, Deerfield",42.1506899124,-87.8346632954
+111,2014-09-02 02:10:35,"Rogers Park Fruit Market, 7401 N Clark St, Chicago",42.016014153,-87.6748895645
+112,2014-08-30 13:18:24,"1500 Skokie blvd, 1500 Skokie Blvd, Northbrook",42.1247421168,-87.7835726738
+113,2014-08-30 10:49:06,"Cuetzala Gro, 7360 N Clark St, Chicago",42.0155596733,-87.675264
+114,2014-08-30 10:48:30,"Cuetzala Gro, 7360 N Clark St, Chicago",42.0155596733,-87.675264
+115,2014-08-30 10:47:32,"Cuetzala Gro, 7360 N Clark St, Chicago",42.0155596733,-87.675264
+116,2014-08-30 09:52:01,"Cuetzala Gro, 7360 N Clark St, Chicago",42.0155596733,-87.675264
+117,2014-08-30 06:13:43,"Lalo's, 1432 Waukegan Rd, Glenview",42.0813625865,-87.7991014968
+118,2014-08-27 08:32:52,"Max & Benny's, 461 Waukegan Rd, Northbrook",42.1453007799,-87.8296852112
+119,2014-08-27 08:31:36,"Max & Benny's, 461 Waukegan Rd, Northbrook",42.1453007799,-87.8296852112
+120,2014-08-27 08:25:10,"Max & Benny's, 461 Waukegan Rd, Northbrook",42.1453007799,-87.8296852112
+121,2014-08-27 08:24:04,"CTA - Linden, 349 Linden Ave, Wilmette",42.0730853109,-87.6908111572
+122,2014-08-26 09:46:44,"Capt'n Nemo's, 7367 N Clark St, Chicago",42.0158317601,-87.6750283757
+123,2014-08-26 08:33:17,"Tub Tim Thai, 4927 Oakton St, Skokie",42.0262670517,-87.751146
+124,2014-08-26 02:08:51,"Tapas Gitana, 310 Happ Rd, Northfield",42.099507,-87.7697914839
+125,2014-08-26 02:07:55,"Tapas Gitana, 310 Happ Rd, Northfield",42.099507,-87.7697914839
+126,2014-08-26 02:06:02,"Tapas Gitana, 310 Happ Rd, Northfield",42.099507,-87.7697914839
+127,2014-08-25 11:57:06,"Sizzlers Pizza & Grill, 1632 W Howard St, Chicago",42.0194377884,-87.6720912122
+128,2014-08-25 11:55:05,"Jewel-Osco, 1763 W Howard, Chicago",42.017863566,-87.6748068913
+129,2014-08-23 11:12:14,"Sizzlers Pizza & Grill, 1632 W Howard St, Chicago",42.0194377884,-87.6720912122
+130,2014-08-23 08:40:18,"Sizzlers Pizza & Grill, 1632 W Howard St, Chicago",42.0194377884,-87.6720912122
+131,2014-08-21 03:45:03,"U Dawg U, 300 Happ Rd, Northfield",42.0990066833,-87.7691119667
+132,2014-08-19 09:35:19,"Jarvis Grill, 1517 W Jarvis Ave, Chicago",42.0159392102,-87.6688504825
+133,2014-08-19 06:42:48,"Hubbard Woods Park, 939 Green Bay Rd, Winnetka",42.1180919977,-87.7440019572
+134,2014-08-18 04:00:01,"Milwaukee Art Museum, 700 N Art Museum Dr, Milwaukee",43.0393793052,-87.8970515728
+135,2014-08-18 03:57:59,"Milwaukee Art Museum, 700 N Art Museum Dr, Milwaukee",43.0393793052,-87.8970515728
+136,2014-08-18 03:55:44,"Milwaukee Art Museum, 700 N Art Museum Dr, Milwaukee",43.0393793052,-87.8970515728
+137,2014-08-18 03:54:20,"Milwaukee Art Museum, 700 N Art Museum Dr, Milwaukee",43.0393793052,-87.8970515728
+138,2014-08-18 02:48:34,"Milwaukee Art Museum, 700 N Art Museum Dr, Milwaukee",43.0393793052,-87.8970515728
+139,2014-08-18 02:47:26,"Cafe Benelux, 346 N Broadway, Milwaukee",43.03492398,-87.9071396765
+140,2014-08-18 02:45:46,"Cafe Benelux, 346 N Broadway, Milwaukee",43.03492398,-87.9071396765
+141,2014-08-17 12:50:08,"Martino's Italian Beef, 1215 W Layton Ave, Milwaukee",42.959024069,-87.9281252859
+142,2014-08-16 15:50:53,"Lee's Luxury Lounge, 2988 S Kinnickinnic Ave, Milwaukee",42.9904836416,-87.88510167
+143,2014-08-16 15:49:25,"Lee's Luxury Lounge, 2988 S Kinnickinnic Ave, Milwaukee",42.9904836416,-87.88510167
+144,2014-08-16 15:47:38,"Lee's Luxury Lounge, 2988 S Kinnickinnic Ave, Milwaukee",42.9904836416,-87.88510167
+145,2014-08-13 11:25:13,"La Bagh Woods (Cook County Forest Preserve), 4600-4628 W Foster Ave, Chicago",41.9786347888,-87.7441549301
+146,2014-08-13 11:22:47,"La Bagh Woods (Cook County Forest Preserve), 4600-4628 W Foster Ave, Chicago",41.9786347888,-87.7441549301
+147,2014-08-13 11:21:42,"La Bagh Woods (Cook County Forest Preserve), 4600-4628 W Foster Ave, Chicago",41.9786347888,-87.7441549301
+148,2014-08-13 02:12:21,"Potbelly Sandwich Shop, 816 Skokie Blvd, Northbrook",42.13720958,-87.7917639
+149,2014-08-12 12:34:41,"The Art Institute of Chicago, 111 S Michigan Ave, Chicago",41.8795707638,-87.6236593723
+150,2014-08-12 12:00:18,"Barnaby's - The Family Inn, 960 Skokie Blvd, Northbrook",42.1349310124,-87.790207863
+151,2014-08-12 11:30:30,"Burberry, 633 N Michigan Ave, Chicago",41.8935199228,-87.6243189006
+152,2014-08-12 11:26:06,"Brehon Pub, 731 N Wells St, Chicago",41.8956623298,-87.6341462745
+153,2014-08-12 11:24:52,"The Art Institute of Chicago, 111 S Michigan Ave, Chicago",41.8795707638,-87.6236593723
+154,2014-08-12 02:54:51,"Marshalls, 163 Skokie Blvd, Northbrook",42.1499326894,-87.7986693413
+155,2014-08-10 13:12:09,"Portillo's, 100 W Ontario St, Chicago",41.8934366889,-87.6314324141
+156,2014-08-10 13:00:19,"Ethiopian Diamond, 7537 N Clark St, Chicago",42.0188836742,-87.6760053635
+157,2014-08-10 12:29:28,"Viccino's Pizza Company, 300 Happ Rd, Northfield",42.0992269394,-87.76918657
+158,2014-08-10 12:18:12,"Union Sushi + Barbeque Bar, 230 W Erie St, Chicago",41.8940748225,-87.635428578
+159,2014-08-10 08:28:18,"Wilmette Chop House, 1162 Wilmette Ave, Wilmette",42.076995,-87.706692
+160,2014-08-10 04:00:58,"Lee's Luxury Lounge, 2988 S Kinnickinnic Ave, Milwaukee",42.9904836416,-87.88510167
+161,2014-08-10 03:53:57,"Alexander Calder's Flamingo Sculpture, 230 S Dearborn St, Chicago",41.8789556732,-87.6297855377
+162,2014-08-10 03:51:25,"Alexander Calder's Flamingo Sculpture, 230 S Dearborn St, Chicago",41.8789556732,-87.6297855377
+163,2014-08-10 03:50:24,"Alexander Calder's Flamingo Sculpture, 230 S Dearborn St, Chicago",41.8789556732,-87.6297855377
+164,2014-08-10 03:45:53,"Macy's, 111 N State St, Chicago",41.8836206279,-87.6276397705
+165,2014-08-10 03:44:26,"Leon's Frozen Custard, 3131 S 27th St, Milwaukee",42.98787117,-87.9486591167
+166,2014-08-10 03:34:49,"Poitin Stil, 1502 W Jarvis Ave, Chicago",42.0160359455,-87.6683255878
+167,2014-08-10 03:30:13,"Poitin Stil, 1502 W Jarvis Ave, Chicago",42.0160359455,-87.6683255878
+168,2014-08-10 03:28:14,"Smak-Tak, 5961 N Elston Ave, Chicago",41.989663,-87.77717
+169,2014-08-10 03:25:14,"1630 W. Fargo, 1630 W Fargo Ave, Chicago",42.0170440674,-87.6716003418
+170,2014-08-09 21:32:00,"IKEA, 1800 McConnor Pkwy, Schaumburg",42.0566520092,-88.0353271029
+171,2014-08-09 10:00:29,"CTA - Howard, 7519 N Paulina St, Chicago",42.0189474399,-87.6730120182
+172,2014-08-09 08:44:16,"St. Francis Brewery & Restaurant, 3825 S Kinnickinnic Ave, Saint Francis",42.97414733,-87.8759591735
+173,2014-08-09 08:33:12,"Steak 'n Shake, 2209 Oakton St., Evanston",42.0265074684,-87.704214557
+174,2014-08-09 08:28:53,"Steak 'n Shake, 2209 Oakton St., Evanston",42.0265074684,-87.704214557
+175,2014-08-09 08:25:30,"Jewel-Osco, 1763 W Howard, Chicago",42.017863566,-87.6748068913
+176,2014-08-09 07:10:40,"Metra - Hubbard Woods, 1065 Gage St, Winnetka",42.1183121869,-87.744128108
+177,2014-08-09 07:03:26,"Bentley Gold Coast, 834 N Rush St, Chicago",41.8976116084,-87.6262180282
+178,2014-08-09 07:00:13,"1630 W. Fargo, 1630 W Fargo Ave, Chicago",42.0170440674,-87.6716003418
+179,2014-08-09 06:42:02,"Andy's Frozen Custard, 719 Church St, Evanston",42.0484590647,-87.681446141
+180,2014-08-09 06:27:05,"Metra - Hubbard Woods, 1065 Gage St, Winnetka",42.1183121869,-87.744128108
+181,2014-08-08 06:14:20,"Metra - Northbrook, 1340 Shermer Rd, Northbrook",42.1272787025,-87.8280560799
+182,2014-08-08 06:06:06,"Chicago Union Station, 225 S Canal St, Chicago",41.8789443142,-87.6389121993
+183,2014-08-08 06:04:44,"CTA - State/Lake, 200 N State St, Chicago",41.88573,-87.62796
+184,2014-08-07 22:56:37,"Water Tower Place, 835 N Michigan Ave, Chicago",41.898011826,-87.6236681661
+185,2014-08-07 22:54:16,"CTA - Quincy/Wells, 220 S Wells St, Chicago",41.8790369326,-87.6339053146
+186,2014-08-07 12:48:06,"Metra - Hubbard Woods, 1065 Gage St, Winnetka",42.1183121869,-87.744128108
+187,2014-08-07 12:45:52,"Adams Street Bridge, 400 W Adams St, Chicago",41.8793271247,-87.6380896568
+188,2014-08-07 12:43:34,"1630 W. Fargo, 1630 W Fargo Ave, Chicago",42.0170440674,-87.6716003418
+189,2014-08-07 12:42:11,"State Street, 1206 N State Pkwy, Chicago",41.9036296333,-87.6288014863
+190,2014-08-07 12:24:55,"Lurie Garden, Millennium Park, Chicago",41.8814944944,-87.621783394
+191,2014-08-07 12:23:50,"Skokie Lagoons, Forestway Dr, Winnetka",42.1158265437,-87.774716656
+192,2014-08-07 12:22:43,"Skokie Lagoons, Forestway Dr, Winnetka",42.1158265437,-87.774716656
+193,2014-08-07 12:21:02,"The Poetry Foundation, 61 W Superior St, Chicago",41.895631,-87.63025516
+194,2014-07-12 23:40:26,"Osteria Via Stato, 620 N State St, Chicago",41.8930353702,-87.6282459497
+195,2014-07-12 23:37:39,"Kyoto Sushi, 1062 Gage st., Hubbard Woods",42.1170241368,-87.7438288847
+196,2014-07-12 23:35:27,"Rogers Park Fruit Market, 7401 N Clark St, Chicago",42.016014153,-87.6748895645
+197,2014-07-12 23:31:46,"Wilmette Chop House, 1162 Wilmette Ave, Wilmette",42.076995,-87.706692
+198,2014-07-12 23:30:13,"Peckish Pig, 623 Howard St, Evanston",42.0195874473,-87.6795059817
+199,2014-07-12 23:28:52,"Poitin Stil, 1502 W Jarvis Ave, Chicago",42.0160359455,-87.6683255878
+200,2014-07-12 23:26:43,"Capt'n Nemo's, 7367 N Clark St, Chicago",42.0158317601,-87.6750283757
+201,2013-11-06 13:19:19,"Rogers Park Fruit Market, 7401 N Clark St, Chicago",42.016014153,-87.6748895645
+202,2013-11-02 08:41:54,"Capt'n Nemo's, 7367 N Clark St, Chicago",42.0158317601,-87.6750283757
+203,2013-10-14 11:20:25,"Sable Kitchen & Bar, 505 N State St, Chicago",41.8910369368,-87.6278086073
+204,2013-10-14 09:03:34,"Pizzeria Via Stato, 620 N State St, Chicago",41.8929830604,-87.6280110407
+205,2013-10-07 01:59:34,"BIG & little's, 860 N Orleans St, Chicago",41.8983258864,-87.6372641805
+206,2013-10-06 04:10:49,"Big Bowl, 60 E Ohio St, Chicago",41.8925021382,-87.6258372449
+207,2013-10-02 08:00:57,"Bijan's Bistro, 633 N State St, Chicago",41.8939650005,-87.628059239
+208,2013-10-02 07:58:00,"U Dawg U, 300 Happ Rd, Northfield",42.0990066833,-87.7691119667
+209,2013-09-29 09:36:28,"Walgreens, 641 N Clark St, Chicago",41.89369625,-87.63097107
+210,2013-09-28 08:13:03,"Marcello's Father & Son Restaurant, 1911 Cherry Ln, Northbrook",42.1305415645,-87.8266548609
+211,2013-09-28 08:11:12,"Potbelly Sandwich Shop, 984 Willow Road, Suite A, Northbrook",42.10673537,-87.80291389
+212,2013-09-25 08:01:44,"Quartino, 626 N State St, Chicago",41.8933770854,-87.6281122571
+213,2013-09-15 02:54:12,"The Produce Center, 5820 N Milwaukee Ave, Chicago",41.9871945589,-87.778579147
+214,2013-09-12 06:09:47,"Boss Bar, 420 N Clark St, Chicago",41.8899471765,-87.6311871994
+215,2013-09-01 09:55:19,"CTA - Chicago (Red), 800 N State St, Chicago",41.8967317269,-87.6278471661
+216,2013-08-27 09:30:11,"India House Restaurant, 59 W Grand Ave, Chicago",41.8917617938,-87.6304112538
+217,2013-08-26 08:23:53,"Bub City, 435 N Clark St, Chicago",41.8902713085,-87.6311052679
+218,2013-06-10 07:51:41,"Gyu-Kaku Japanese BBQ, 210 E Ohio St, Chicago",41.8927187718,-87.6222750812
+219,2013-06-10 07:49:18,"J. Rocco Italian Table & Bar, 749 N Clark St, Chicago",41.8962848233,-87.6311968384
+220,2013-03-27 01:23:08,"U Dawg U, 300 Happ Rd, Northfield",42.0990066833,-87.7691119667
+221,2013-03-27 01:15:28,"U Dawg U, 300 Happ Rd, Northfield",42.0990066833,-87.7691119667
+222,2013-03-08 04:43:02,"Taco Nano, 1743 Orchard Ln, Northfield",42.100663,-87.768778
+223,2013-02-05 01:25:03,"Spark Hire, 1500 Skokie Blvd, Northbrook",42.1248404613,-87.784242576
+224,2013-02-03 03:46:10,"Brick House Tavern + Tap, 5650 W Touhy Ave, Niles",42.0123180125,-87.7699697597
+225,2013-01-15 13:37:48,"Yolk, 747 N Wells, Chicago",41.8962671266,-87.6340980826
+226,2013-01-02 01:34:50,"Spark Hire, 1500 Skokie Blvd, Northbrook",42.1248404613,-87.784242576
+227,2012-10-30 21:05:51,"Spark Hire, 1500 Skokie Blvd, Northbrook",42.1248404613,-87.784242576
+228,2012-10-27 08:25:32,"Metra - Glenview, 1116 Depot St, Glenview",42.0746960462,-87.8055977357
+229,2012-10-26 22:15:41,"Spark Hire, 1500 Skokie Blvd, Northbrook",42.1248404613,-87.784242576
+230,2012-10-05 11:44:59,"Five Guys, 21720 W Long Grove Rd Ste D, Deer Park",42.163484,-88.057146
+231,2012-10-05 07:14:10,"Panera Bread, 2 N Michigan Ave, Chicago",41.8820992394,-87.6246322138
+232,2012-09-26 06:01:10,"Valpo Viennas, 3 Napoleon St, Valparaiso",41.468051,-87.063574
+233,2012-09-26 06:00:37,"Valpo Viennas, 3 Napoleon St, Valparaiso",41.468051,-87.063574
+234,2012-09-26 01:59:55,"Valpo Viennas, 3 Napoleon St, Valparaiso",41.468051,-87.063574
+235,2012-09-26 01:58:19,"Valpo Viennas, 3 Napoleon St, Valparaiso",41.468051,-87.063574
+236,2012-09-26 00:20:34,"AVL & Associates, 2277-2399 E Chicago St, Valparaiso",41.47211065,-87.033176
+237,2012-09-19 11:17:08,"Lee's Luxury Lounge, 2988 S Kinnickinnic Ave, Milwaukee",42.9904836416,-87.88510167
+238,2012-09-18 11:56:04,"Pita Alsharq, 7336 W Lawrence Ave, Harwood Heights",41.9673779089,-87.8113201803
+239,2012-09-18 11:54:38,"Pita Alsharq, 7336 W Lawrence Ave, Harwood Heights",41.9673779089,-87.8113201803
+240,2012-09-12 06:17:28,"Sheridan's, 5133 S Lake Dr, Cudahy",42.9512057982,-87.8502586165
+241,2012-09-11 23:27:19,"Anmol Barbecue Restaurant, 2858 W Devon Ave, Chicago",41.997592,-87.701969
+242,2012-09-11 23:25:17,"Anmol Barbecue Restaurant, 2858 W Devon Ave, Chicago",41.997592,-87.701969
+243,2012-09-11 23:24:39,"Anmol Barbecue Restaurant, 2858 W Devon Ave, Chicago",41.997592,-87.701969
+244,2012-09-09 00:21:38,"Lee's Luxury Lounge, 2988 S Kinnickinnic Ave, Milwaukee",42.9904836416,-87.88510167
+245,2012-09-03 02:35:56,"Zak's Cafe, 231 S 2nd St, Milwaukee",43.0287452513,-87.9127693176
+246,2012-08-12 03:45:37,"RA Sushi Bar Restaurant, 1139 N State St, Chicago",41.9031002318,-87.6285749575
+247,2012-08-02 02:59:17,"H Mart, 801 Civic Center Dr, Niles",42.0224176676,-87.8014254621
+248,2012-08-02 02:51:25,"H Mart, 801 Civic Center Dr, Niles",42.0224176676,-87.8014254621
+249,2012-08-02 02:49:44,"H Mart, 801 Civic Center Dr, Niles",42.0224176676,-87.8014254621
+250,2012-07-29 00:39:14,"Chick-fil-A Loyola Water Tower In-Line, 30 E Chicago Ave, Chicago",41.896885,-87.627043
+251,2012-07-20 03:25:52,"CTA - Grand (Red), 521 N State St, Chicago",41.8916776563,-87.628068924
+252,2012-07-18 02:07:53,"Al's #1 Italian Beef, 169 W Ontario St, Chicago",41.8932189698,-87.6339390491
+253,2012-07-14 07:16:58,"Hwy 41 SB Rest Stop, N11231 US Hwy 41, Lomira",43.56137755,-88.4313842365
+254,2012-07-12 16:38:10,"Macy's, 111 N State St, Chicago",41.8836206279,-87.6276397705
+255,2012-07-08 06:48:48,"25 Degrees, 736 N Clark St, Chicago",41.8959204164,-87.6315450668
+256,2012-07-01 14:49:54,"Bella Luna Cafe, 731 N Dearborn St, Chicago",41.8955957985,-87.6297268686
+257,2012-07-01 14:45:58,"Flat Top Grill, 30 S Wabash Ave, Chicago",41.8811399305,-87.6260927075
+258,2012-06-30 14:50:49,"Yolk, 747 N Wells, Chicago",41.8962671266,-87.6340980826
+259,2012-06-18 23:04:38,"JD Cleaners, 77 W Huron St, Chicago",41.8950245861,-87.6304739083
+260,2012-06-10 12:51:11,"CTA - Clark/Lake, 124 W Lake St, Chicago",41.8857939238,-87.6315534797
+261,2012-06-04 00:38:43,"Chez Jacques, 1101 S. 1st St., Milwaukee",43.0205105058,-87.911273404
+262,2012-06-04 00:30:47,"Milwaukee Art Museum, 700 N Art Museum Dr, Milwaukee",43.0393793052,-87.8970515728
+263,2012-06-04 00:28:40,"Sheridan's, 5133 S Lake Dr, Cudahy",42.9512057982,-87.8502586165
+264,2012-06-04 00:24:32,"Harbor House, 550 N Harbor Dr, Milwaukee",43.0375443566,-87.8954744339
+265,2012-06-03 14:26:24,"Artasia, 181 N Broadway, Milwaukee",43.0321,-87.907238
+266,2012-06-03 14:24:22,"Hot Pop, 201 N Water St, Milwaukee",43.0326295685,-87.9093957907
+267,2012-06-01 12:39:39,"Royal Berry, 21 W Ontario St, Chicago",41.893346015,-87.6291822448
+268,2012-06-01 12:38:53,"Royal Berry, 21 W Ontario St, Chicago",41.893346015,-87.6291822448
+269,2012-05-31 23:51:53,"Bella Luna Cafe, 731 N Dearborn St, Chicago",41.8955957985,-87.6297268686
+270,2012-05-31 23:50:05,"Bella Luna Cafe, 731 N Dearborn St, Chicago",41.8955957985,-87.6297268686
+271,2012-05-31 03:06:56,"CTA - Cermak-Chinatown, 138 W Cermak Rd, Chicago",41.8538962587,-87.6312402138
+272,2012-05-31 03:02:43,"A. Montgomery Ward Park, 630 N Kingsbury Ave, Chicago",41.893526011,-87.6421695119
+273,2012-05-31 02:54:48,"Five Guys, 2368 N Clark St, Chicago",41.925593,-87.6404607168
+274,2012-05-31 02:54:12,"Five Guys, 2368 N Clark St, Chicago",41.925593,-87.6404607168
+275,2012-05-31 02:52:39,"Five Guys, 2368 N Clark St, Chicago",41.925593,-87.6404607168
+276,2012-05-30 12:56:03,"Le Peep, 100 Euclid Ave, Park Ridge",42.0102279841,-87.8283391976
+277,2012-05-23 06:12:46,"Portillo's, 100 W Ontario St, Chicago",41.8934366889,-87.6314324141
+278,2012-05-23 04:40:36,"Quartino, 626 N State St, Chicago",41.8933770854,-87.6281122571
+279,2012-05-23 04:38:39,"Lincoln Park Zoo, 2001 N Clark St, Chicago",41.9213526287,-87.6337751958
+280,2012-05-23 04:36:58,"Nature Boardwalk, Lincoln Park Zoo, Chicago",41.9181019674,-87.6332831383
+281,2012-05-23 03:31:16,"Bijan's Bistro, 633 N State St, Chicago",41.8939650005,-87.628059239
+282,2012-05-23 03:26:08,"Bijan's Bistro, 633 N State St, Chicago",41.8939650005,-87.628059239
+283,2012-05-23 00:04:26,"Quartino, 626 N State St, Chicago",41.8933770854,-87.6281122571
+284,2012-05-23 00:00:05,"Sable Kitchen & Bar, 505 N State St, Chicago",41.8910369368,-87.6278086073
+285,2012-05-22 23:58:44,"Sable Kitchen & Bar, 505 N State St, Chicago",41.8910369368,-87.6278086073
+286,2012-05-22 16:56:46,"The Signature Lounge at the 96th, 875 N Michigan Ave, Chicago",41.8987642899,-87.6231909549
+287,2012-05-22 09:26:47,"The Kerryman, 661 N Clark St, Chicago",41.8939078858,-87.6311159134
+288,2012-05-22 09:25:42,"The Kerryman, 661 N Clark St, Chicago",41.8939078858,-87.6311159134
+289,2012-05-22 09:24:14,"The Kerryman, 661 N Clark St, Chicago",41.8939078858,-87.6311159134
+290,2012-05-22 09:23:29,"The Kerryman, 661 N Clark St, Chicago",41.8939078858,-87.6311159134
+291,2012-05-20 00:51:35,"Brunch, 644 N Orleans St, Chicago",41.8938146153,-87.6371099768
+292,2012-05-20 00:50:22,"Brunch, 644 N Orleans St, Chicago",41.8938146153,-87.6371099768
+293,2012-05-18 14:34:42,"Lincoln Park Conservatory, 2391 N Stockton Dr, Chicago",41.9240293165,-87.6352733374
+294,2012-05-18 14:31:15,"Union Sushi + Barbeque Bar, 230 W Erie St, Chicago",41.8940748225,-87.635428578
+295,2012-05-17 02:17:42,"Lincoln Park Zoo, 2001 N Clark St, Chicago",41.9213526287,-87.6337751958
+296,2012-05-17 02:13:33,"Nature Boardwalk, Lincoln Park Zoo, Chicago",41.9181019674,-87.6332831383
+297,2012-05-17 02:10:24,"Lincoln Park Conservatory, 2391 N Stockton Dr, Chicago",41.9240293165,-87.6352733374
+298,2012-05-17 02:06:44,"Quartino, 626 N State St, Chicago",41.8933770854,-87.6281122571
+299,2012-05-15 13:06:11,"Sable Kitchen & Bar, 505 N State St, Chicago",41.8910369368,-87.6278086073
+300,2012-05-14 08:06:01,"AMC Loews 600 North Michigan 9, 600 N Michigan Ave, Chicago",41.8926571322,-87.624511709
+301,2012-05-14 06:11:01,"M Burger, 5 W Ontario St, Chicago",41.893247812,-87.6286376145
+302,2012-05-12 03:11:11,"Slurping Turtle, 116 W Hubbard St, Chicago",41.8899639211,-87.6320257841
+303,2012-05-12 03:09:53,"Emilio's Tapas - Sol y Nieve, 215 E Ohio St, Chicago",41.8925839516,-87.6209349802
+304,2012-05-07 10:11:17,"west77 Apartments, 77 W Huron St, Chicago",41.8948981866,-87.6307725906
+305,2012-05-02 15:48:54,"RPM Italian, 52 W Illinois St, Chicago",41.890979815,-87.6297124096
+306,2012-05-02 07:57:04,"Walgreens, 641 N Clark St, Chicago",41.89369625,-87.63097107
+307,2012-05-01 09:12:33,"M Burger, 5 W Ontario St, Chicago",41.893247812,-87.6286376145
+308,2012-04-23 15:32:54,"Big Bowl, 60 E Ohio St, Chicago",41.8925021382,-87.6258372449
+309,2012-03-30 06:01:06,"Walgreens, 641 N Clark St, Chicago",41.89369625,-87.63097107
+310,2012-03-30 05:49:44,"Portillo's, 100 W Ontario St, Chicago",41.8934366889,-87.6314324141
+311,2012-03-30 02:49:03,"Whole Foods Market, 30 West Huron St, Chicago",41.8949117695,-87.6291629659
+312,2012-03-29 14:13:06,"Jewel-Osco, 550 N State St, Chicago",41.8923584,-87.6282862
+313,2012-03-23 02:43:49,"Slurping Turtle, 116 W Hubbard St, Chicago",41.8899639211,-87.6320257841
+314,2012-03-23 02:43:22,"Slurping Turtle, 116 W Hubbard St, Chicago",41.8899639211,-87.6320257841
+315,2012-03-16 02:39:10,"The Field Museum, 1400 S Lake Shore Dr, Chicago",41.8663821383,-87.6170446085
+316,2012-03-15 12:32:00,"Pasta Palazzo, 1966 N Halsted St, Chicago",41.9179522798,-87.6486602426
+317,2012-03-12 06:51:15,"St. Francis Brewery & Restaurant, 3825 S Kinnickinnic Ave, Saint Francis",42.97414733,-87.8759591735
+318,2012-03-08 06:51:58,"Luke's Italian Beef, 215 W Jackson Blvd, Chicago",41.8779623611,-87.6344065097
+319,2012-03-06 01:43:03,"Robinson's #1 Ribs - Union Station, 225 S Canal St, Chicago",41.878656114,-87.638964057
+320,2012-03-03 01:19:13,"Alonti Cafe, 300 S Riverside Plz, Chicago",41.87764931,-87.6381122912
+321,2012-03-02 02:09:58,"Tokyo Lunch Boxes, 300 S. Riverside Plaza, Chicago",41.8780651788,-87.6386953581
+322,2012-02-29 02:10:22,"Baba's Village, 310 S Canal St Ste A, Chicago",41.8777439091,-87.639379609
+323,2012-02-01 14:10:48,"Portillo's, 100 W Ontario St, Chicago",41.8934366889,-87.6314324141
+324,2012-01-31 16:32:52,"Wisconsin State Capitol, 2 E Main St, Madison",43.0747035956,-89.3847854487
+325,2012-01-26 02:16:41,"Alonti Cafe, 300 S Riverside Plz, Chicago",41.87764931,-87.6381122912
+326,2012-01-25 01:54:14,"Arturo Express, 130 S Canal St, Chicago",41.8796749781,-87.6396012656
+327,2012-01-20 13:55:26,"CTA - Monroe (Red), 26 S State St, Chicago",41.8806589519,-87.6279676622
+328,2012-01-19 11:47:33,"Union Sushi + Barbeque Bar, 230 W Erie St, Chicago",41.8940748225,-87.635428578
+329,2012-01-18 13:30:08,"Lincoln Park Zoo, 2001 N Clark St, Chicago",41.9213526287,-87.6337751958
+330,2012-01-05 15:25:35,"Subway, 816 N State St, Chicago",41.8972160841,-87.6281026174
+331,2012-01-04 14:25:59,"Lucille's Piano Bar & Grill, 1110 N Old World 3rd St, Milwaukee",43.0446172324,-87.9142713547
+332,2011-12-24 15:02:14,"Lucille's Piano Bar & Grill, 1110 N Old World 3rd St, Milwaukee",43.0446172324,-87.9142713547
+333,2011-12-24 08:18:54,"Amtrak - General Mitchell International Airport (MKA), 5601 S 6th St, Milwaukee",42.9405591505,-87.9245281219
+334,2011-12-24 06:53:36,"Amtrak - General Mitchell International Airport (MKA), 5601 S 6th St, Milwaukee",42.9405591505,-87.9245281219
+335,2011-12-20 14:13:40,"Arrowhead Stadium, 1 Arrowhead Dr, Kansas City",39.0495515424,-94.4838765331
+336,2011-12-20 14:09:35,"Kauffman Stadium, 1 Royal Way, Kansas City",39.0513382257,-94.4810196386
+337,2011-12-19 09:38:40,"Kronos Gyros & Cafe, Belvidere Oasis, Belvidere",42.2333836693,-88.834550648
+338,2011-12-19 09:37:25,"Kwik Trip, 124 W Mccoy Blvd, Tomah",44.0190141277,-90.5027469799
+339,2011-12-18 02:37:49,"Randy's Family Restaurant, 1132 W MacArthur Ave, Eau Claire",44.78832404,-91.51857412
+340,2011-12-17 14:22:50,"Howard Johnson Plaza Hotel, 3841 E Washington Ave, Madison",43.1196209061,-89.3181479485
+341,2011-12-17 06:00:38,"Cenex, W6575 Cty Hwy O, Millston",44.1919577122,-90.6417453289
+342,2011-12-17 00:18:11,"Howard Johnson Plaza Hotel, 3841 E Washington Ave, Madison",43.1196209061,-89.3181479485
+343,2011-12-17 00:17:05,"Howard Johnson Plaza Hotel, 3841 E Washington Ave, Madison",43.1196209061,-89.3181479485
+344,2011-12-07 01:52:28,"R4dti Mediterranean Grill, 10 S Riverside Plz, Chicago",41.8805544252,-87.6388832872
+345,2011-11-17 13:23:19,"Tokyo Lunch Boxes, 300 S. Riverside Plaza, Chicago",41.8780651788,-87.6386953581
+346,2011-11-08 13:35:49,"CTA - Harrison, 608 S State St, Chicago",41.8740986462,-87.6275646687
+347,2011-10-19 12:58:52,"CTA - Chicago (Red), 800 N State St, Chicago",41.8967317269,-87.6278471661
+348,2011-10-19 00:52:18,"Baba's Village, 310 S Canal St Ste A, Chicago",41.8777439091,-87.639379609
+349,2011-10-15 07:58:31,"Water Tower Place, 835 N Michigan Ave, Chicago",41.898011826,-87.6236681661
+350,2011-10-09 00:08:01,"Gap, 555 N Michigan Ave, Chicago",41.8923744866,-87.6238417625
+351,2011-09-17 11:34:21,"AMC Loews 600 North Michigan 9, 600 N Michigan Ave, Chicago",41.8926571322,-87.624511709
+352,2011-09-17 11:26:20,"Fremont Street Experience, 425 Fremont St, Las Vegas",36.1704783049,-115.14306188
+353,2011-09-15 14:36:37,"DiCarlos Mustard Seed, 15015 E US Highway 40, Kansas City",39.0345870453,-94.3995264043
+354,2011-09-15 11:37:47,"CTA - Washington/Wells, 100 N Wells St, Chicago",41.8823661593,-87.6339486875
+355,2011-09-11 10:40:57,"Flair Tower, 222 W Erie St, Chicago",41.894106,-87.635169
+356,2011-09-07 02:53:18,"Benjyehuda, 212 W Van Buren St, Chicago",41.8767350503,-87.6342908498
+357,2011-09-04 04:32:34,"M Burger, 5 W Ontario St, Chicago",41.893247812,-87.6286376145
+358,2011-08-21 15:01:28,"Downtown Dogs, 804 N Rush St, Chicago",41.8969965352,-87.6258453727
+359,2011-08-21 09:43:45,"Caf Ba-Ba-Reeba!, 2024 N Halsted St, Chicago",41.9189362411,-87.6487749753
+360,2011-08-16 12:55:34,"CTA - Chicago (Brown), 300 W Chicago Ave., Chicago",41.8961682779,-87.6356594734
+361,2011-08-15 13:44:40,"BP, N LaSalle Dr 631, Chicago",41.893456655,-87.6321566105
+362,2011-08-14 10:34:01,"I-70 Rest Area - Wright  City, I-70, Wright City",38.8271626643,-91.0540425851
+363,2011-08-14 10:28:37,"Booche's Billiards Hall, 110 S 9th St, Columbia",38.9501478426,-92.3274493217
+364,2011-08-14 10:20:39,"Ann Nathan Gallery, 212 W Superior St, Chicago",41.89553751,-87.634792
+365,2011-08-14 07:13:37,"Monte Carlo Resort and Casino, 3770 Las Vegas Blvd S, Las Vegas",36.1046221845,-115.174786109
+366,2011-08-14 07:12:45,"Eiffel Tower, 3655 Las Vegas Blvd S, Las Vegas",36.1124565562,-115.172261719
+367,2011-08-14 07:09:28,"Northside Tap Room & Grill, 712 Calumet Ave, Valparaiso",41.475357,-87.05690622
+368,2011-08-14 07:06:05,"The Pub at Monte Carlo, 3770 Las Vegas Blvd S, Las Vegas",36.1056288134,-115.176501274
+369,2011-08-14 07:02:12,"Gordon's Ace Hdw-Orleans LLC, 440 N Orleans St, Chicago",41.8901984424,-87.6371003391
+370,2011-08-11 08:59:11,"77 W. Huron Rooftop, 77 W Huron St Fl 25, Chicago",41.8945629331,-87.6305269236
+371,2011-08-11 01:05:30,"Haifa Cafe, 115 S Clinton St, Chicago",41.8799484568,-87.64096973
+372,2011-07-30 10:04:44,"Morgan Street Brewery, 721 N 2nd St, St Louis",38.6307702033,-90.1846468867
+373,2011-07-30 03:00:42,"Booche's Billiards Hall, 110 S 9th St, Columbia",38.9501478426,-92.3274493217
+374,2011-07-29 05:01:35,"Best Western Truman Inn, 4048 S Lynn Ct, Independence",39.0470719192,-94.4160810114
+375,2011-07-28 12:58:14,"Player's Club bar and grill, 1301 S Noland Rd, Independence",39.0732307864,-94.4138208459
+376,2011-07-24 02:48:15,"Gold Coast Dogs, 210 S Canal St, Chicago",41.8785396541,-87.6394470698
+377,2011-07-22 11:20:51,"Union Sushi + Barbeque Bar, 230 W Erie St, Chicago",41.8940748225,-87.635428578
+378,2011-07-16 23:13:39,"222 S. Riverside Plaza, 222 S Riverside Plz, Chicago",41.8787639555,-87.6390123367
+379,2011-07-06 12:45:24,"Green Door Tavern, 678 N Orleans St, Chicago",41.8947384617,-87.6372098923
+380,2011-04-12 02:12:22,"Monte Carlo Buffet, 3770 Las Vegas Blvd S, Las Vegas",36.1045608876,-115.174441338
+381,2011-03-21 11:15:34,"La Scarola, 721 W Grand Ave, Chicago",41.8912042267,-87.6467707927
+382,2011-03-17 08:58:24,"M Burger, 5 W Ontario St, Chicago",41.893247812,-87.6286376145
+383,2011-03-14 08:11:35,"Citizen Bar Chicago, 364 W Erie St, Chicago",41.8941359433,-87.6381315662
+384,2011-03-12 01:58:14,"R4dti Mediterranean Grill, 10 S Riverside Plz, Chicago",41.8805544252,-87.6388832872
+385,2011-03-10 02:38:39,"Luke's Italian Beef, 215 W Jackson Blvd, Chicago",41.8779623611,-87.6344065097
+386,2011-03-03 02:19:11,"Al's Beef and Catering on Adams, 601 W Adams St, Chicago",41.879298,-87.642615
+387,2011-03-02 08:54:52,"Friends Sushi, 710 N Rush St, Chicago",41.8952732619,-87.625639622
+388,2010-11-11 08:20:34,"77 W. Huron Rooftop, 77 W Huron St Fl 25, Chicago",41.8945629331,-87.6305269236
+389,2010-11-07 01:00:39,"Jake Melnick's Corner Tap, 41 E Superior St, Chicago",41.8956286015,-87.626421677
+390,2010-08-12 10:29:47,"Walgreens, 641 N Clark St, Chicago",41.89369625,-87.63097107
+391,2010-08-10 11:47:02,"Mr. J's Dawg & Burger, 822 N State St, Chicago",41.8973851643,-87.6283243287
+392,2010-06-28 09:22:09,"Macy's, 835 N Michigan Ave, Chicago",41.8978305614,-87.623803134
+393,2010-06-22 12:48:43,"Whole Foods Market, 30 West Huron St, Chicago",41.8949117695,-87.6291629659
+394,2010-01-23 03:26:53,"Tokyo Lunch Box & Catering, 60 E Jackson Blvd, Chicago",41.878316,-87.62590778

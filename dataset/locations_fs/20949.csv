@@ -1,0 +1,117 @@
+,time,poi,latitude,longitude
+0,2016-08-22 07:08:46,"Popsons, 998. Market St, San Francisco",37.7822234229,-122.410283171
+1,2016-06-27 05:06:46,"Boba Guys, 8 Octavia St, San Francisco",37.772877,-122.423441
+2,2016-02-14 06:10:42,"Alamo Drafthouse Cinema 13 New Mission, 2550 Mission St, San Francisco",37.7562424467,-122.419580485
+3,2016-01-29 11:09:30,"Ryumon Coffee Stand, 0965fa573a2-14-9, 6635ce02",35.7012890298,139.583376855
+4,2016-01-28 10:57:49,"MUSEUM YOUR HISTORY 0fMINAMI AOYAMA, 5752715-3-25, 71ac",35.663452,139.714579
+5,2016-01-22 16:59:50,"ACTUS SHINJUKU, b0bf2-19-1, b0bf3a",35.691090429,139.707170377
+6,2016-01-22 08:57:42,"BE A GOOD NEIGHBOR COFFEE KIOSK SENDAGAYA, 43c4f6373-51-6, 71ac",35.6751779401,139.706144929
+7,2016-01-21 09:01:00,"GOOD MORNING CAFE 43c4f637, 43c4f6371-17-1, 71ac",35.6794916906,139.711439249
+8,2015-08-08 13:47:09,"Pizza Luc, 119 N. Fourth St., Minneapolis",44.9816047462,-93.2734051576
+9,2015-05-26 11:08:38,"Ruby Jewel Scoops, 428 SW 12th Ave, Portland",45.5222249852,-122.683339119
+10,2014-10-25 17:48:08,"ceb9dbfcd7 9fbf97, 43c4f6372-1-8, 71ac",35.6740231382,139.70636487
+11,2014-10-25 13:10:52,"5a4c57e52c00 0b3753844297, 5384422-9-1, 71ac",35.658941321,139.69834935
+12,2014-10-25 11:14:00,"THE ROASTERY by NOZY COFFEE, 5eae4d5-17-13, 71ac",35.6655577127,139.704744816
+13,2014-10-24 15:55:04,"7e4b80a7 c7b6a4f3b3ecafb7e7f3, 80a73-6-1, 71ac",35.6720815006,139.76647339
+14,2014-10-21 16:53:50,"MUJI, 8730dd3a21-1, 71ac",35.6615818396,139.699855164
+15,2014-09-14 15:28:20,"Haus Coffee, 3086 24th St, San Francisco",37.752603,-122.413784483
+16,2014-09-14 15:15:52,"Jam on Hawthorne, 2239 SE Hawthorne Blvd, Portland",45.5121935136,-122.642753179
+17,2014-09-12 06:33:58,"State Bird Provisions, 1529 Fillmore St, San Francisco",37.7838765351,-122.432913863
+18,2014-09-01 02:44:47,"The Alite Outpost, 3376 18th St, San Francisco",37.7619475887,-122.418745365
+19,2014-06-12 04:06:18,"Samovar Tea Lounge, 411 Valencia St, San Francisco",37.766361838,-122.421976626
+20,2014-06-11 00:53:23,"Guthrie Theater, 818 S 2nd St, Minneapolis",44.9783699936,-93.2553378087
+21,2014-06-11 00:52:57,"Stone Arch Bridge, 1 Portland Ave, Minneapolis",44.9806838864,-93.2540237904
+22,2014-06-11 00:52:16,"Sea Salt Eatery, 4825 Minnehaha Ave, Minneapolis",44.9161031968,-93.2109260559
+23,2014-06-11 00:51:48,"Borough, 730 Washington Ave N, Minneapolis",44.988898861,-93.278356758
+24,2014-06-11 00:51:34,"Pizza Luc, 119 N. Fourth St., Minneapolis",44.9816047462,-93.2734051576
+25,2014-06-11 00:51:22,"112 Eatery, 112 N 3rd St, Minneapolis",44.9824503706,-93.2720763584
+26,2014-06-11 00:51:13,"Calhoun North Beach, 2710 W Lake St, Minneapolis",44.9492530571,-93.3135130198
+27,2014-06-11 00:51:06,"Galactic Pizza, 2917 Lyndale Ave S, Minneapolis",44.949622,-93.2879430056
+28,2014-06-11 00:50:49,"Red Stag Supperclub, 509 1st Ave NE, Minneapolis",44.9903764625,-93.2535603909
+29,2014-06-11 00:50:33,"moto-i, 2940 Lyndale Ave S, Minneapolis",44.948651303,-93.2882407308
+30,2014-06-11 00:50:22,"Psycho Suzi's Motor Lounge & Tiki Garden, 1900 Marshall St NE, Minneapolis",45.007467664,-93.2721233516
+31,2014-06-11 00:49:49,"Cask Cookhouse at Loews, 601 1st Ave S, Minneapolis",44.979024343,-93.2751416441
+32,2014-06-11 00:49:38,"Marvel Bar, 50 2nd Ave N, Minneapolis",44.9856526502,-93.2688625308
+33,2014-06-11 00:49:09,"Public Functionary, 1113 Buchanan, Minneapolis",44.9993255796,-93.2396572565
+34,2014-06-11 00:49:04,"CO Exhibitions, 1101 Stinson Blvd, Minneapolis",44.998917,-93.226347
+35,2014-06-11 00:48:42,"Prohibition Bar, 821 Marquette Ave, Minneapolis",44.974766294,-93.271552803
+36,2014-06-11 00:48:27,"Black Sheep Coal Fired Pizza, 600 Washington Ave N, Minneapolis",44.9871475247,-93.2758720037
+37,2014-03-22 12:17:55,"La Urbana, 661 Divisadero St, San Francisco",37.7758430003,-122.438156054
+38,2013-12-19 01:57:43,"May's Coffee Shop, 1737 Post St, San Francisco",37.7850657448,-122.430480689
+39,2013-11-30 05:35:57,"Caf Blanc, 10 rue Croix des Petits Champs, Paris",48.862756,2.339354
+40,2013-11-29 20:59:32,"Caf Madam, 150 rue Saint Denis, Paris",48.865505,2.350542
+41,2013-11-29 07:10:30,"Pancho Villa Taqueria, 3071 16th St, San Francisco",37.7648903173,-122.421088815
+42,2013-11-29 07:08:49,"Unionmade, 493 Sanchez St, San Francisco",37.7612589786,-122.430508339
+43,2013-11-29 07:05:50,"Mission Chinese Food, 2234 Mission St, San Francisco",37.7612241104,-122.419323921
+44,2013-11-29 07:04:56,"Sushi Time, 2275 Market St, San Francisco",37.7644734537,-122.432095438
+45,2013-11-29 07:04:27,"La Taqueria, 2889 Mission St, San Francisco",37.7509015677,-122.418175709
+46,2013-11-29 07:03:50,"Papalote Mexican Grill, 3409 24th St, San Francisco",37.7519528216,-122.420965433
+47,2013-11-29 07:02:26,"Locanda, 557 Valencia St, San Francisco",37.7640483497,-122.421809285
+48,2013-11-29 06:36:07,"Blue & Gold San Francisco Ferry, Tiburon Ferry Terminal, Tiburon",37.8728295598,-122.455340639
+49,2013-11-29 06:33:36,"Foreign Cinema, 2534 Mission St, San Francisco",37.756487585,-122.419364792
+50,2013-11-29 06:31:02,"Lands End, El Camino Del Mar, San Francisco",37.7831550306,-122.511185557
+51,2013-11-29 06:28:36,"Coit Tower, 1 Telegraph Hill Blvd, San Francisco",37.8023752772,-122.405827045
+52,2013-11-29 06:27:44,"Tony19s Pizza Napoletana, 1570 Stockton St, San Francisco",37.800328012,-122.409040332
+53,2013-11-29 06:25:18,"Smuggler's Cove, 650 Gough St, San Francisco",37.7793898026,-122.423446288
+54,2013-11-29 06:24:01,"Beauty Bar, 2299 Mission St, San Francisco",37.76034693,-122.41905168
+55,2013-11-29 06:21:01,"Corona Heights Park, Museum Way, San Francisco",37.7650225313,-122.438830663
+56,2013-11-29 06:20:07,"Ton Kiang, 5821 Geary Blvd, San Francisco",37.7801433978,-122.481930266
+57,2013-11-29 06:19:19,"Burma Superstar, 309 Clement St, San Francisco",37.7830303932,-122.462544276
+58,2013-11-29 06:18:27,"Zazie, 941 Cole St, San Francisco",37.7652491292,-122.450021902
+59,2013-11-29 06:17:31,"Escape From New York Pizza, 1737 Haight St, San Francisco",37.7693832404,-122.451392412
+60,2013-11-29 06:17:17,"Escape From New York Pizza, 3242 22nd St, San Francisco",37.75539926,-122.419636
+61,2013-11-29 06:14:48,"Hideout, 3121 16th St, San Francisco",37.764653,-122.42241919
+62,2013-11-29 06:13:37,"Rye, 688 Geary St, San Francisco",37.786556,-122.414502
+63,2013-11-29 06:11:53,"Chow, 215 Church St, San Francisco",37.7671060685,-122.428770661
+64,2013-11-29 06:10:09,"The Sycamore, 2140 Mission St, San Francisco",37.7627158279,-122.419635791
+65,2013-11-29 06:09:36,"Toronado, 547 Haight St, San Francisco",37.7719274835,-122.431029081
+66,2013-11-29 06:07:40,"Super Duper Burger, 783 Mission St, San Francisco",37.784833928,-122.403531075
+67,2013-11-29 06:06:35,"Tanpopo, 1740 Buchanan St, San Francisco",37.7861154294,-122.429877917
+68,2013-11-29 06:04:04,"de Young Museum, 50 Hagiwara Tea Garden Dr, San Francisco",37.7714402309,-122.468393066
+69,2013-11-29 06:03:04,"Hong Kong Lounge 579952b6, 5322 Geary Blvd, San Francisco",37.7806026942,-122.476562262
+70,2013-11-29 06:02:28,"Starbelly, 3583 16th St, San Francisco",37.7641969538,-122.432590127
+71,2013-11-29 06:01:38,"Bi-Rite Creamery, 3692 18th St, San Francisco",37.7614679284,-122.425735838
+72,2013-11-29 05:58:26,"Tartine Bakery, 600 Guerrero St, San Francisco",37.7614213141,-122.42400974
+73,2013-11-27 20:56:07,"Muji, Forum des Halles, Paris",48.8617288376,2.34527444398
+74,2013-11-26 03:03:33,"Caldo Freddo, 34 rue Montorgueil, Paris",48.8640964097,2.34657171589
+75,2013-11-25 22:19:08,"Berlin Schnefeld Airport (SXF), Flughafen 1, Berlin",52.3880157888,13.518075943
+76,2013-11-24 20:18:59,"Lokal, Linienstr. 160, Berlin",52.5278668627,13.3948230743
+77,2013-11-24 20:17:33,"McDonald's, Kurfrstendamm 15, Berlin",52.5041680749,13.3324564386
+78,2013-11-19 19:31:27,"Blaues Band, Alte Schnhauser Str. 7, Berlin",52.527346,13.408471
+79,2013-09-03 10:02:42,"Ryoko's Japanese Restaurant & Bar, 619 Taylor St, San Francisco",37.7881175652,-122.411820797
+80,2013-09-02 11:50:42,"Cocobang, 550 Taylor St, San Francisco",37.7876578045,-122.411748894
+81,2013-08-18 02:29:52,"Honey Honey Cafe & Crepery, 599 Post St, San Francisco",37.7878131317,-122.411599557
+82,2013-04-30 11:04:00,"Tanpopo, 1740 Buchanan St, San Francisco",37.7861154294,-122.429877917
+83,2013-02-28 06:37:24,"Cafe Reverie, 848 Cole St, San Francisco",37.766055,-122.449882
+84,2013-01-21 02:09:40,"Kate's Kitchen, 471 Haight St, San Francisco",37.7721791629,-122.429877917
+85,2013-01-20 01:06:04,"Yerba Buena Gardens, 745 Mission St, San Francisco",37.7848084905,-122.402592301
+86,2012-12-24 12:49:00,"Rosamunde Sausage Grill, 545 Haight St, San Francisco",37.7719105221,-122.431053221
+87,2012-12-16 03:50:09,"L'acajou Bakery & Caf, 498 9th St, San Francisco",37.7713138818,-122.40872893
+88,2012-12-05 04:08:15,"Arlequin Cafe & Food To Go, 384 Hayes St, San Francisco",37.7770587479,-122.422683094
+89,2012-12-05 04:07:05,"Ritual Coffee Roasters, 1026 Valencia St, San Francisco",37.756501,-122.421146
+90,2012-12-05 04:06:35,"Coffee Bar, 1890 Bryant St, San Francisco",37.7631240298,-122.410998344
+91,2012-12-02 08:47:50,"Kinokuniya Bookstore, 1581 Webster St #163, San Francisco",37.784927199,-122.43162185
+92,2012-11-24 22:43:22,"Polpo, 6 Maiden Ln, London",51.5108653478,-0.122728254944
+93,2012-11-24 22:41:52,"Ladure, Covent Garden Market, London",51.5119530347,-0.123330481251
+94,2012-11-23 03:49:34,"Poppies Fish & Chips, 6-8 Hanbury St, London",51.5202231043,-0.0740826129913
+95,2012-11-22 20:00:47,"Pimlico Fresh, 86 Wilton Rd, London",51.492438,-0.140163
+96,2012-11-22 18:05:12,"Spuntino, 61 Rupert St, Soho",51.5122548651,-0.133679395192
+97,2012-11-22 02:09:44,"Piccadilly Circus, Piccadilly Circus, London",51.5100145093,-0.134436786954
+98,2012-11-21 07:57:02,"New Jomuna, Wilton Rd, London",51.49280896,-0.140537
+99,2012-11-17 21:08:40,"Monte Carlo, 147 Lisburn Rd, Belfast",54.583421,-5.944697
+100,2012-11-14 22:03:36,"Doorsteps, 64 Ann St, Belfast",54.5993869057,-5.92496648923
+101,2012-11-05 10:13:19,"Super Duper Burger, 2304 Market St, San Francisco",37.7639790333,-122.433565
+102,2012-10-25 08:09:12,"Mojo Bicycle Cafe, 639A Divisadero St, San Francisco",37.7755451202,-122.437944
+103,2012-10-21 02:44:27,"Hong Kong Lounge 579952b6, 5322 Geary Blvd, San Francisco",37.7806026942,-122.476562262
+104,2012-10-21 01:04:52,"Big Sur Bakery, 47540 1 Highway, Big Sur",36.23593,-121.769067917
+105,2012-10-09 11:41:25,"365 Dean Street, 365 Dean St, Brooklyn",40.6833533932,-73.9794188044
+106,2012-09-03 11:17:58,"Shabu-sen, 1726 Buchanan St, San Francisco",37.7860274167,-122.429844
+107,2012-08-26 02:43:32,"Pancho Villa Taqueria, 3071 16th St, San Francisco",37.7648903173,-122.421088815
+108,2012-08-10 11:39:59,"Regalito Rosticeria, 3481 18th St, San Francisco",37.7616676833,-122.421335
+109,2012-06-20 00:36:05,"Dolores Park Cafe, 501 Dolores St, San Francisco",37.7613131702,-122.425785363
+110,2010-10-18 01:16:43,"India Palace, 2570 Cleveland Ave N, Saint Paul",45.018745,-93.18695883
+111,2010-09-26 03:09:24,"Original Pancake House Edina, 3501 W 70th St, Edina",44.8758214807,-93.3257912974
+112,2010-09-21 01:24:43,"Darbar India Grill, 1221 W Lake St #106, Minneapolis",44.9483629869,-93.2950104343
+113,2010-09-15 08:56:13,"Eli's Food & Cocktails, 1225 E Hennepin Ave, Minneapolis",44.9742518567,-93.2813313603
+114,2009-12-23 09:15:07,"The Anchor Fish & Chips, 302 13th Ave NE, Minneapolis",45.0007935276,-93.2642892537
+115,2009-08-09 02:56:25,"Cask Cookhouse at Loews, 601 1st Ave S, Minneapolis",44.979024343,-93.2751416441

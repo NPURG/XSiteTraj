@@ -1,0 +1,116 @@
+,time,poi,latitude,longitude
+0,2012-11-26 08:39:12,"Aldo's Ristorante Italiano, 306 S High St, Baltimore",39.28602108,-76.60180648
+1,2012-05-27 02:36:42,"Southern Tier Brewing Company, 2072 Stoneman Cir, Lakewood",42.0887350093,-79.3487311085
+2,2012-04-20 09:48:10,"Oberweis, 1735 Algonquin Rd, Rolling Meadows",42.0556377787,-88.0008806498
+3,2012-04-03 07:05:01,"Mahaffey's Pub, 2706 Dillon St, Baltimore",39.281300788,-76.5779471397
+4,2012-02-29 11:53:07,"Courtyard by Marriott, 100 W Algonquin Rd, Arlington Heights",42.0459224852,-87.9850795736
+5,2011-12-28 13:38:20,"Harris Teeter, 1801 Whetstone Way, Baltimore",39.26792907,-76.5999198
+6,2011-12-21 17:17:16,"Bond Street Social, 901 S Bond St, Baltimore",39.280818525,-76.5948777885
+7,2011-12-10 02:24:08,"Gate C25, Terminal 1, Concourse C, Chicago",41.980582735,-87.9096304966
+8,2011-11-20 04:18:54,"Concourse C, BWI Airport, Baltimore",39.1781812651,-76.6674041748
+9,2011-11-20 04:17:46,"BWI Gate C12, Concourse C, Baltimore",39.1775145982,-76.6669246228
+10,2011-11-08 21:07:49,"Fort McHenry Tunnel Toll Plaza, Interstate 95, Baltimore",39.2666725015,-76.5623215429
+11,2011-11-08 21:05:23,"Fort McHenry Tunnel Toll Plaza, Interstate 95, Baltimore",39.2666725015,-76.5623215429
+12,2011-11-04 10:00:36,"Engineer's Club (The Garrett-Jacobs Mansion), 11 W Mount Vernon Pl, Baltimore",39.2971821809,-76.6165942796
+13,2011-10-31 03:43:56,"Sticky Rice, 1634 Aliceanna St, Baltimore",39.2835629952,-76.5938508327
+14,2011-10-16 11:28:54,"Jellyrolls, Boardwalk Inn, Lake Buena Vista",28.3674596047,-81.5578195453
+15,2011-09-03 03:08:44,"50th Street Beach, 50th street, Ocean City",39.2300038369,-74.6283573615
+16,2011-09-02 09:06:55,"Kessel's Korner, 2760 Asbury Ave, Ocean City",39.258488,-74.6033027833
+17,2011-09-02 02:32:50,"50th Street Beach, 50th street, Ocean City",39.2300038369,-74.6283573615
+18,2011-08-27 22:01:18,"Laurance Clothing, 232 Main St, Annapolis",38.978192,-76.49189
+19,2011-08-18 06:07:56,"Sip & Bite Restaurant, 2200 Boston St, Baltimore",39.2839457602,-76.5855753422
+20,2011-07-18 07:18:15,"Federal Reserve Bank of Richmond-Baltimore Branch, 502 S Sharp St, Baltimore",39.2831675994,-76.6176943933
+21,2011-07-17 09:13:51,"Iggie's, 818 N Calvert St, Baltimore",39.2996099519,-76.6130174342
+22,2011-04-30 01:04:32,"Rosina Gourmet, 2819 Odonnell St, Baltimore",39.28004484,-76.5761125088
+23,2011-02-28 08:20:22,"Delia Foley's Pub, 1439 S Charles St, Baltimore",39.2727091296,-76.6139799356
+24,2011-02-23 09:46:26,"Outback Steakhouse, 2400 Boston St, Baltimore",39.281767,-76.581717
+25,2011-02-14 05:36:27,"Jimmy John's, 401 W Pratt St, Baltimore",39.2862673961,-76.619674574
+26,2011-01-30 09:48:14,"Alewife, 21 N Eutaw St, Baltimore",39.2902475002,-76.62088749
+27,2010-12-31 15:26:17,"Madison Square Garden, 4 Penn Plz, New York",40.7502730721,-73.9926301105
+28,2010-12-31 05:08:15,"Havana House, 365 N Washington St, Rochester",43.122826355,-77.4860410677
+29,2010-12-31 05:05:22,"The Red Barn, 3349 Monroe Ave, Rochester",43.1034645714,-77.5415459645
+30,2010-12-31 04:57:53,"The White House, 1600 Pennsylvania Ave NW, Washington",38.898568943,-77.0360464496
+31,2010-12-31 04:54:56,"The White House, 1600 Pennsylvania Ave NW, Washington",38.898568943,-77.0360464496
+32,2010-12-30 14:33:34,"Century Liquor & Wines, 3349 Monroe Ave, Rochester",43.101331714,-77.5382820485
+33,2010-12-23 00:43:51,"Bill Gray's Penfield, 1650 Penfield Rd, Rochester",43.1330269575,-77.4912019
+34,2010-12-13 11:34:21,"Olive Grove Restaurant & Lounge, 705 N Hammonds Ferry Rd, Linthicum",39.2221843288,-76.665199399
+35,2010-12-13 11:33:00,"Fleming's Prime Steakhouse & Wine Bar, 720 Aliceanna St, Baltimore",39.283232,-76.602326
+36,2010-12-13 11:31:37,"G&M Restaurant and Lounge, 804 N Hammonds Ferry Rd, Linthicum Heights",39.224995992,-76.6654470911
+37,2010-12-02 06:23:36,"Johnny Rad's Pizzeria Tavern, 2108 Eastern Ave, Baltimore",39.285985025,-76.586516
+38,2010-12-02 06:19:47,"The Quinntessential Gentleman, 31 S Calvert St, Baltimore",39.2879595562,-76.6121316699
+39,2010-11-28 04:37:29,"Interstate 95, Interstate 95, Richmond",37.65767267,-77.4504482746
+40,2010-11-28 04:06:32,"South of the Border, 3346 Highway 301 N, Hamer",34.4990795366,-79.3089657811
+41,2010-11-25 11:59:48,"One-Eyed Mike's, 708 S Bond St, Baltimore",39.283134,-76.595282
+42,2010-11-25 03:40:30,"Monk's Cafe, 264 S 16th St, Philadelphia",39.9477629747,-75.1680707932
+43,2010-11-25 03:38:15,"Holt's Cigar Company, 1522 Walnut St, Philadelphia",39.9496742098,-75.1671212695
+44,2010-11-25 03:36:23,"Nectar's, 188 Main St, Burlington",44.4760257086,-73.2115200001
+45,2010-11-25 03:34:21,"Anheuser-Busch Brewery Experiences, 1127 Pestalozzi St, St Louis",38.5988138894,-90.214568592
+46,2010-11-25 03:32:48,"Dogfish Head Brewings & Eats, 320 Rehoboth Ave, Rehoboth Beach",38.7152784728,-75.0870733392
+47,2010-11-25 03:31:49,"Dogfish Head Craft Brewery, 6 Cannery Vlg, Milton",38.7703931104,-75.3108481911
+48,2010-11-25 03:30:35,"Miller Brewing Company, 4251 W State St, Milwaukee",43.0421746224,-87.967512516
+49,2010-11-25 01:14:32,"The Fresh Market, 5525 Abercorn St, Savannah",32.024642,-81.111301
+50,2010-11-25 01:13:57,"The Fresh Market, 5525 Abercorn St, Savannah",32.024642,-81.111301
+51,2010-11-24 08:52:04,"Columbia Square, Columbia Square, Savannah",32.076801995,-81.0880064964
+52,2010-11-24 05:09:10,"Two Smart Cookies, 6512 White Bluff Rd, Savannah",32.0154278773,-81.1150150843
+53,2010-11-22 10:49:46,"Tio Pepe Restaurante, 10 E Franklin St, Baltimore",39.2951762234,-76.6150710296
+54,2010-11-22 01:50:07,"Charlotte Douglas International Airport (CLT), 5501 Josh Birmingham Pkwy, Charlotte",35.2201270861,-80.9436496578
+55,2010-11-20 07:08:36,"Savannah Cigars, 308 W Congress St, Savannah",32.080685,-81.09535
+56,2010-11-20 07:03:27,"Savannah Hilton Head International Airport (SAV), 400 Airways Ave, Savannah",32.1356012187,-81.2083733447
+57,2010-11-19 14:37:53,"Oracle, 35 Network Dr, Burlington",42.494948543,-71.2322610281
+58,2010-11-19 10:00:30,"Local 11 Ten, 1110 Bull St, Savannah",32.064211,-81.097374
+59,2010-11-18 13:44:45,"Sigma Chi Fraternity - Lehigh University, 102 Lower Sayre Park Rd, Bethlehem",40.60360674,-75.37836556
+60,2010-11-18 13:39:50,"Sparrow Field, Bartram Road, Savannah",31.9553665482,-81.0241699219
+61,2010-11-16 10:22:54,"Angel's BBQ, 21 W Oglethorpe Ln, Savannah",32.076582,-81.093695
+62,2010-11-16 10:19:27,"The Warehouse River Street, W River St, Savannah",32.0814604239,-81.0902245995
+63,2010-11-16 10:15:21,"Driftaway Cafe, 7400 Skidaway Rd, Savannah",31.98532,-81.07347636
+64,2010-11-15 01:15:54,"Smoking Lounge, Concourse C, Atlanta",33.6401795987,-84.4326240018
+65,2010-10-04 11:23:17,"Bo Brooks Crab House, 2780 Lighthouse Pt E, Baltimore",39.2773476763,-76.578783989
+66,2010-10-04 03:01:10,"Red Star Bar & Grill, 906 S Wolfe St, Baltimore",39.2817120537,-76.5898557835
+67,2010-09-26 09:49:30,"O'Donnell Square Park, O'Donnell St, Baltimore",39.2803229169,-76.575285212
+68,2010-09-06 11:21:06,"Fish Tales, 2207 Herring Way, Ocean City",38.351702887,-75.0785493851
+69,2010-09-06 11:17:29,"Pub Dog Pizza & Drafthouse, 20 E Cross St, Baltimore",39.2770054931,-76.6135082691
+70,2010-09-06 11:14:08,"Cinghiale, 822 Lancaster St, Baltimore",39.28244111,-76.6003397007
+71,2010-08-29 08:13:32,"Burger & Beer Joint, 1766 Bay Rd, Miami Beach",25.7934260839,-80.1438587288
+72,2010-08-29 06:34:44,"Mondrian South Beach, 1100 West Ave, Miami Beach",25.7820344709,-80.1426994801
+73,2010-08-28 12:17:04,"Mango's Tropical Cafe, 900 Ocean Dr, Miami Beach",25.7793628434,-80.1309538854
+74,2010-08-23 10:10:17,"Towson Hot Bagels, 3301 Boston St Ste 16, Baltimore",39.276097258,-76.5691901366
+75,2010-08-23 10:06:50,"Shoppers Food, 857 E Fort Ave, Baltimore",39.2705039474,-76.6033959389
+76,2010-08-23 10:04:51,"Woodberry Kitchen, 2010 Clipper Park Rd, Baltimore",39.3318649379,-76.6452276707
+77,2010-08-22 02:28:33,"Dominion Ice Cream, 3215 N Charles St, Baltimore",39.3279650605,-76.6174292385
+78,2010-08-04 11:03:26,"Fort McHenry Tunnel Toll Plaza, Interstate 95, Baltimore",39.2666725015,-76.5623215429
+79,2010-08-04 10:59:49,"Humidour Cigar Shoppe, 2 Sherwood Rd, Cockeysville",39.4832127944,-76.6439927461
+80,2010-08-04 10:58:15,"Blue Agave, 1032 Light St, Baltimore",39.2773947978,-76.6125830155
+81,2010-08-04 10:57:06,"Abbey Burger Bistro, 1041 Marshall St, Baltimore",39.2771774218,-76.6130156815
+82,2010-08-04 10:54:18,"Hudson Street Stack House, 2626 Hudson St, Baltimore",39.281998,-76.5789556503
+83,2010-07-11 10:27:57,"Shangy's, 40 E Main St, Emmaus",40.5414516862,-75.4858822976
+84,2010-07-11 10:26:47,"Sam Adams Brewery, 7880 Penn Dr, Breinigsville",40.5752742342,-75.6239542303
+85,2010-07-06 11:38:53,"Wegmans, 122 Shawan Rd, Hunt Valley",39.4975975644,-76.6561077902
+86,2010-06-12 08:33:16,"Kisling's Tavern, 2100 Fleet St, Baltimore",39.284878,-76.586936
+87,2010-05-24 10:12:55,"Metropolitan Coffeehouse & Wine Bar, 902 S Charles St, Baltimore",39.2787844423,-76.6145780683
+88,2010-05-24 10:11:52,"Osprey, 521 S Camp Meade Rd, Linthicum",39.2005224962,-76.6551659264
+89,2010-05-24 10:11:13,"Little Havana, 1325 Key Hwy, Baltimore",39.2747236,-76.6030960034
+90,2010-05-24 10:09:22,"Humidour Cigar Shoppe, 2 Sherwood Rd, Cockeysville",39.4832127944,-76.6439927461
+91,2010-05-24 10:08:33,"Ale Mary's, 1939 Fleet St, Baltimore",39.2846771476,-76.5887610731
+92,2010-05-22 10:34:39,"Ropewalk Tavern, 1209 S Charles St, Baltimore",39.2755446752,-76.6142529804
+93,2010-04-26 09:44:40,"Wegmans, 122 Shawan Rd, Hunt Valley",39.4975975644,-76.6561077902
+94,2010-04-26 09:42:58,"Cross Street Market, 1065 S Charles St, Baltimore",39.2767584878,-76.6141175787
+95,2010-04-26 09:41:48,"Pitango Gelato, 802 S Broadway, Baltimore",39.2821926987,-76.5935146809
+96,2010-04-26 09:41:01,"Bank of America, 524 S Broadway, Baltimore",39.284646,-76.593662
+97,2010-04-26 08:38:54,"Italian Graffiti Pizza & Grill, 1635 Fleet St, Baltimore",39.2846393919,-76.594121679
+98,2010-03-14 01:28:11,"Bin 604, 604 S Exeter St, Baltimore",39.2840006888,-76.6002437807
+99,2010-03-11 08:58:05,"Matthew's Pizza, 3131 Eastern Ave, Baltimore",39.286410249,-76.5718990947
+100,2010-03-11 08:11:31,"Woodberry Kitchen, 2010 Clipper Park Rd, Baltimore",39.3318649379,-76.6452276707
+101,2010-02-14 23:22:37,"Wegmans, 122 Shawan Rd, Hunt Valley",39.4975975644,-76.6561077902
+102,2010-01-10 02:46:32,"Bank of America, 1046 Light St, Baltimore",39.2770920433,-76.6123968357
+103,2009-12-31 11:11:18,"Henninger's Tavern, 1812 Bank St, Baltimore",39.2867862253,-76.5908150581
+104,2009-12-17 11:03:58,"Blue Hill Tavern, 938 S Conkling St, Baltimore",39.2816563428,-76.5670850109
+105,2009-12-12 10:38:26,"Woodberry Kitchen, 2010 Clipper Park Rd, Baltimore",39.3318649379,-76.6452276707
+106,2009-12-10 10:23:34,"The Capital Grille, 500 E Pratt St, Baltimore",39.28688093,-76.60817669
+107,2009-11-21 12:17:45,"Wine Cellars of Annapolis, 1410 Forest Dr, Annapolis",38.96106,-76.5099316835
+108,2009-11-17 09:46:33,"Nacho Mama's, 2907 Odonnell St, Baltimore",39.2799533501,-76.5750798583
+109,2009-11-01 15:57:43,"Ropewalk Tavern, 1209 S Charles St, Baltimore",39.2755446752,-76.6142529804
+110,2009-10-26 04:20:03,"The Wine Source, 3601 Elm Ave, Baltimore",39.3317892129,-76.630987823
+111,2009-10-26 04:19:02,"The Brewer's Art, 1106 N Charles St, Baltimore",39.3027732485,-76.6161417961
+112,2009-10-26 04:17:51,"Mother's Federal Hill Grille, 1113 S Charles St, Baltimore",39.2764443689,-76.6141457874
+113,2009-10-21 11:31:07,"Cross Street Tobacco, 1103 Light St, Baltimore",39.2769709811,-76.6123404175
+114,2009-10-21 11:30:08,"Cross Street Tobacco, 1103 Light St, Baltimore",39.2769709811,-76.6123404175

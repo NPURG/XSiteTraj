@@ -1,0 +1,107 @@
+,time,poi,latitude,longitude
+0,2016-12-31 00:26:26,"Dynaco, 1112 Bedford Ave, Brooklyn",40.68672096,-73.9546638151
+1,2016-12-17 00:11:19,"Palais El Badii, Ksibet Nhas, Marrakesh",31.6195889957,-7.98532405693
+2,2016-12-12 01:26:52,"Caf Saudade, Av. Dr. Miguel Bombarda, 6, Sintra",38.798695,-9.387062
+3,2016-11-06 21:54:23,"Primrose Cafe, 147 Greene Ave, Brooklyn",40.6867488332,-73.9663156437
+4,2016-05-29 03:24:56,"Rosticceria Rossi & Sons, 45 S Clover St, Poughkeepsie",41.7037384016,-73.9358012871
+5,2016-05-26 00:52:55,"Sophie's Cuban Cuisine, 96 Chambers St, New York",40.7147820288,-74.0076136832
+6,2016-03-13 00:57:57,"The Depanneur, 1033a College St., Toronto",43.6529828648,-79.4294966448
+7,2016-02-14 18:31:00,"Ovolo Central - 2 Arbuthnot Road, 2 Arbuthnot Rd, 2db0",22.280263,114.154574
+8,2016-02-01 14:24:36,"Lan Fong Yuen, 2 Gage St, 2db0",22.282705639,114.153756201
+9,2016-01-11 09:49:46,"Barrio Cafe, Phoenix Sky Harbor International Airport, Phoenix",33.4343483978,-111.999294299
+10,2015-12-19 05:53:27,"Zum Stammtisch, 6946 Myrtle Ave, Glendale",40.7019775955,-73.8810746671
+11,2015-12-10 10:12:01,"Milk & Hops, 779 Broadway, New York",40.7314280197,-73.9917004132
+12,2015-10-19 14:39:49,"Llama's Peruvian Creole, 611 Trinity St, Austin",30.2678180943,-97.7389940647
+13,2015-09-26 08:45:28,"MATA Petisco Bar, 1690 Queen Street West, Toronto",43.639099214,-79.4443500313
+14,2015-09-18 20:02:37,"Simpatico Espresso, 425 6th Ave, Pittsburgh",40.4412237556,-79.9969717808
+15,2015-07-03 09:37:40,"A Pardia, R. do Patrocnio, 26B, Lisboa",38.7134734334,-9.16469986853
+16,2015-07-03 04:50:29,"Lisbon Short Stay Apartments Baixa, Rua dos Sapateiros 158, Lisboa",38.7116830555,-9.13839180936
+17,2015-06-25 21:26:08,"Le Mans, Rua Mayor 28, Salamanca",40.9629049997,-5.66538982465
+18,2015-06-25 04:36:23,"Los Porfiados, C. Buenavista, 18, Madrid",40.4101060363,-3.69893373385
+19,2015-06-24 17:31:34,"Toma Caf, C. Palma, 49, Madrid",40.426553,-3.705958
+20,2015-06-13 08:19:50,"Saint Patrick's Brewing Company, 2842 W Bowles Ave, Littleton",39.6127470092,-105.024511814
+21,2015-05-26 05:09:08,"Rockaway Beach Surf Club, 302 Beach 87th St, Queens",40.588883,-73.81212
+22,2015-04-10 08:03:49,"Bermondsey Arts Club, Former Public Conveniences, 102A Tower Bridge Road, London",51.4967924247,-0.081240875769
+23,2015-03-15 00:34:56,"Holy Land Auto Repair, 421 Union St, Brooklyn",40.6779226487,-73.9840560649
+24,2015-02-23 12:33:49,"Yakup 2, Asmal31 Mescit Cad. No:35 Beyo1fl, 30stanbul",41.0301220239,28.9745401643
+25,2015-01-25 23:03:21,"Posada Corazn, Jess 34, San Miguel de Allende",20.9118329807,-100.744200318
+26,2015-01-24 13:42:18,"Biko, Presidente Masaryk 407, Miguel Hidalgo",19.4319731859,-99.1987216473
+27,2014-12-11 03:57:35,"Blue Smoke, 116 E 27th St, New York",40.7423340017,-73.9838551958
+28,2014-11-26 02:55:29,"Los Aguachiles, Av. Nizuc, Cancn",21.14151,-86.832235
+29,2014-11-23 10:26:34,"Sisters, 900 Fulton St, Brooklyn",40.6829527518,-73.9650544524
+30,2014-11-21 07:41:59,"Green Pig Bistro, 1025 N Fillmore St, Arlington",38.8861537639,-77.0927542448
+31,2014-11-12 01:40:02,"Bobwhite Counter, 94 Avenue C, New York",40.7237648881,-73.9791892342
+32,2014-11-09 03:30:42,"Celtic Harp, 805 Varick St, Utica",43.103251,-75.2439088333
+33,2014-09-21 03:03:00,"Prince George Hotel, 1725 Market St, Halifax",44.6472691685,-63.5761642456
+34,2014-08-18 01:50:34,"Easy Restaurant, 1645 Queen St W, Toronto",43.6387986982,-79.4456742457
+35,2014-08-10 05:44:06,"The Filling Station, 243 Route 9W, Palisades",41.014525,-73.91328
+36,2014-07-25 12:21:06,"The Gibson, 2009 14th St NW, Washington",38.9173456486,-77.0319306294
+37,2014-06-06 01:13:54,"Mario's Pizzeria, 373 Waverly Ave, Brooklyn",40.686876,-73.9668059349
+38,2014-06-03 08:03:37,"Don Batiz, Madero 23, Cuauhtemoc",19.4337375259,-99.1386782488
+39,2014-05-24 08:30:20,"Kinjo, 1 Greene Ave, Brooklyn",40.6859582126,-73.9733465789
+40,2014-05-01 14:16:34,"2babd5a7 4d838a53 b0bf97, 4c1e0e3a1-16-2, 71ac",35.6936198216,139.70187217
+41,2014-04-25 17:45:14,"f9ad0bdf6e97 47122c97, 71713a47123a1774238, acfd02",35.0039203449,135.773053472
+42,2014-04-24 20:02:19,"d8ce71 656e62 c253, d8ce71, d8ce3a",34.217519327,135.604610969
+43,2014-04-04 01:30:07,"Kora Restaurant & Bar, 2250 Crystal Dr Ste B, Arlington",38.853731,-77.0495170355
+44,2014-03-29 10:19:21,"Black Forest Brooklyn, 733 Fulton St, Brooklyn",40.6867582479,-73.975096643
+45,2014-03-25 10:09:24,"Lulu & Po, 154 Carlton Ave, Brooklyn",40.6929451255,-73.9727496768
+46,2014-03-23 01:27:02,"Poche's Market & Restaurant, 3015 Main Hwy, Breaux Bridge",30.3129208088,-91.9041296667
+47,2014-03-10 02:21:31,"Micklethwait Craft Meats, 1309 Rosewood Ave, Austin",30.268338963,-97.7252566304
+48,2014-03-06 12:53:44,"Meddlesome Moth, 1621 Oak Lawn Ave, Dallas",32.7968841325,-96.8201710676
+49,2014-02-15 10:47:52,"BIN, 114 Greenpoint Ave, Brooklyn",40.729882857,-73.9562621713
+50,2014-02-10 01:33:44,"Gettysburg National Military Park Museum and Visitor Center, 1195 Baltimore Pike, Gettysburg",39.8113711501,-77.2257757187
+51,2014-02-09 05:27:02,"The Vintage Lady, 180 High St., Harpers Ferry",39.3237909478,-77.7313613892
+52,2014-01-07 08:49:48,"Key Food Supermarket, 325 Lafayette Ave, Brooklyn",40.688711703,-73.9626479765
+53,2013-12-22 05:56:02,"LCBO, 8783 Yonge St, Richmond Hill",43.8426523584,-79.429500103
+54,2013-12-13 11:37:09,"Sociable Cider Werks, 1500 Fillmore St NE, Minneapolis",45.0044401851,-93.2441439284
+55,2013-12-13 11:36:22,"Sociable Cider Werks, 1500 Fillmore St NE, Minneapolis",45.0044401851,-93.2441439284
+56,2013-10-28 09:19:51,"Waverly Wu Laundromat, 353 Waverly Ave, Brooklyn",40.6872962076,-73.9666198446
+57,2013-10-26 10:27:17,"Prospect, 773 Fulton St, Brooklyn",40.6861216408,-73.973929882
+58,2013-09-28 01:12:01,"Tulcingo Restaurant, 5520 5th Ave, Brooklyn",40.6419337204,-74.0136217032
+59,2013-09-20 03:22:48,"A&M, 132 E Red Bank Ave, Woodbury",39.8438495007,-75.1452261499
+60,2013-09-02 07:33:22,"Watermark Cruises, 980 Awald Rd, Annapolis",38.97624064,-76.484733
+61,2013-09-02 05:28:29,"Maryland World War II Memorial / Scenic Overlook, MD 450, Annapolis",38.998737122,-76.4816996905
+62,2013-08-21 12:37:25,"Le Diplomate, 1601 14th St NW, Washington",38.9112369964,-77.031739454
+63,2013-08-08 09:11:10,"Cataldo's, 554 Vanderbilt Ave, Brooklyn",40.6800474322,-73.9680604875
+64,2013-07-24 00:24:53,"Kimchi Grill, 766 Washington Ave, Brooklyn",40.6751254793,-73.9634183049
+65,2013-07-10 21:09:14,"Hotel Real Inn, Av. Montaa Monarca No. 1000, Morelia",19.6749768893,-101.163734726
+66,2013-07-03 10:41:49,"Broadway Burger Bar, 2801 Pacific Ave, Atlantic City",39.3535370114,-74.4453639578
+67,2013-06-17 09:35:05,"Tavolino, 274 Patriot Pl, Foxborough",42.0916154652,-71.2681395561
+68,2013-06-14 07:40:37,"The Raleigh Times Bar, 14 E Hargett St, Raleigh",35.7782459778,-78.6385420283
+69,2013-06-01 01:26:09,"Sterling Cooper Draper Pryce, 1271 Avenue of the Americas, New York",40.7601905723,-73.9810774414
+70,2013-05-24 02:42:29,"Biggie Smalls' House, 226 Saint James Pl, Brooklyn",40.6835300855,-73.9637327868
+71,2013-05-16 08:10:21,"Malko Karkanni Bros Inc., 174 Atlantic Ave, Brooklyn",40.690156,-73.993702
+72,2013-05-13 03:38:04,"Clinton Hill Pickles, 431 Dekalb Ave, Brooklyn, NY 11205, Brooklyn",40.6906102853,-73.9603463219
+73,2013-04-29 05:44:34,"Grounds For Sculpture, 18 Fairgrounds Rd, Hamilton",40.2364833135,-74.7203564644
+74,2013-04-28 22:18:36,"Wawa, 464 Hurffville Crosskeys Rd, Sewell",39.736476148,-75.0709277212
+75,2013-04-04 04:45:41,"Fethiye Bal31k Hali, Fethiye Bal31k Pazar31, Fethiye",36.6209936295,29.1113515141
+76,2013-04-02 05:01:09,"Leman Kltr, Barbaros Mah. Atatrk Cad. No:44, Muratpa5fa",36.8838724469,30.7090409515
+77,2013-03-20 06:29:31,"Heritage Wines, 237 Dekalb Ave, Brooklyn",40.6896231055,-73.9698282736
+78,2013-03-13 00:51:27,"Global Entry Office - Bowling Green, 1 Bowling Grn, New York",40.7046018279,-74.0137479441
+79,2013-03-03 02:29:55,"Chase Bank, 290 Flatbush Ave, Brooklyn",40.6780669166,-73.9733076096
+80,2013-03-03 02:21:05,"Madiba Restaurant, 195 Dekalb Ave, Brooklyn",40.6895657669,-73.9719346729
+81,2013-02-21 12:34:07,"Denver International Airport (DEN), 8500 Pea Blvd, Denver",39.8500872508,-104.673953409
+82,2013-02-12 12:22:53,"Dandelion Market, 118 W 5th St, Charlotte",35.228682,-80.8424162625
+83,2013-02-06 23:57:53,"Centre For Social Innovation, Starrett-Lehigh, New York",40.7517947698,-74.006299583
+84,2013-02-01 21:55:56,"Roman19s, 243 Dekalb Ave, Brooklyn",40.6894915245,-73.9695125987
+85,2013-01-25 06:07:33,"Trader Joe's, 142 E 14th St, New York",40.7335047844,-73.9883574843
+86,2013-01-24 08:28:35,"Windsor Custom (under the Ainsworth), 122 W 26th St, New York",40.7453209129,-73.9925153333
+87,2013-01-17 03:08:31,"MakerBot Industries HQ, 1 Metrotech Ctr, Brooklyn",40.6931344448,-73.9870977715
+88,2013-01-05 09:30:31,"Metropolitan Museum of Art, 1000 5th Ave, New York",40.7791685266,-73.9627570318
+89,2012-12-24 02:24:23,"St David's Catholic Church, 2601 Major Mackenize Dr, Vaughan",43.8523931688,-79.5221934534
+90,2012-12-15 02:45:59,"Dah Shop, 134 Division St, New York",40.714490025,-73.991608
+91,2012-12-14 00:30:25,"Benihana, 47 W 56th St, New York",40.7632831499,-73.9769738671
+92,2012-12-12 03:59:36,"Insurity, 170 Huyshope Ave, Hartford",41.7549840147,-72.662677825
+93,2012-12-11 11:18:40,"Marriott Fairfield Inn, 121 Pavilion Dr, Manchester",41.8045260072,-72.5472736359
+94,2012-12-09 15:21:12,"New Roma Pizza, 116 Delancey St, New York",40.7186743494,-73.9881881829
+95,2012-12-03 07:35:57,"Vineapple Cafe, 71 Pineapple St, Brooklyn",40.6983499832,-73.9928940978
+96,2012-11-16 08:26:45,"Boonville Hotel, 103 Water St, Boonville",43.4839688534,-75.3314217603
+97,2012-11-06 05:06:35,"Rouses Market, 701 Baronne St, New Orleans",29.9478754374,-90.0741634322
+98,2012-10-16 01:16:28,"Skyline Chili, 643 Vine St, Cincinnati",39.1037582391,-84.5141449571
+99,2012-09-23 13:45:02,"Miller19s Alehouse, 554 Fellowship Rd, Mount Laurel",39.9318170305,-74.9593467521
+100,2012-08-30 01:14:26,"Le Pain Quotidien, 70 W 40th St, New York",40.7537276528,-73.9843831941
+101,2012-08-27 02:46:56,"MilkBoy Philadelphia, 1100 Chestnut St, Philadelphia",39.9501152984,-75.1588010788
+102,2012-08-25 03:32:04,"Port Authority Bus Terminal, 625 8th Ave, New York",40.757178471,-73.9911839128
+103,2012-08-22 09:29:16,"Corner Bistro, 4718 Vernon Blvd, Queens",40.7448419093,-73.953590434
+104,2012-08-14 01:28:58,"Lucile's Creole Cafe, 2852 W Bowles Ave, Littleton",39.6124329313,-105.024447441
+105,2012-08-05 10:29:22,"Borgata Buffet, 1 Borgata Way, Atlantic City",39.3782979457,-74.4361066818

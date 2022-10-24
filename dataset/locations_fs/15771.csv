@@ -1,0 +1,50 @@
+,time,poi,latitude,longitude
+0,2015-09-26 01:15:03,"Thai Elephant, 915 Folly Rd, Charleston",32.733121,-79.969291
+1,2015-01-11 00:56:49,"Cafe Paulette, 1 S Elliott Pl, Brooklyn",40.6897053751,-73.9757686049
+2,2015-01-02 11:09:20,"Momofuku Ssm Bar, 207 2nd Ave, New York",40.7317183252,-73.9855539679
+3,2014-12-27 02:34:41,"Habanero Mexican Cafe, 501 W Oltorf St, Austin",30.2413297637,-97.7581991384
+4,2014-12-26 05:12:40,"The Driskill, 604 Brazos St, Austin",30.2678890805,-97.7416491508
+5,2014-11-23 02:49:50,"Crabby Shack, 613 Franklin Ave, Brooklyn",40.6773468257,-73.9553824067
+6,2014-10-25 08:55:22,"Sammy's Roumanian Steakhouse, 157 Chrystie St, New York",40.7203321246,-73.9926358493
+7,2014-09-26 21:57:45,"Park Luncheonette, 322 Driggs Ave, Brooklyn",40.7217947517,-73.9506630005
+8,2014-09-18 10:42:00,"El Born, 651 Manhattan Ave, Brooklyn",40.7242909877,-73.9511566492
+9,2014-08-30 21:02:17,"Cagen, 414 E 9th St, New York",40.727941,-73.984161
+10,2014-08-28 07:05:02,"Hunan Kitchen Of Grand Sichuan, 42-47 Main St, Flushing",40.7539787286,-73.8274010868
+11,2014-08-21 06:26:06,"Blockheads Burritos, 322 W 50th St, New York",40.7627158768,-73.9876366407
+12,2014-08-16 10:39:22,"Aziza Cafe & Lounge, 45 1st Ave, New York",40.7244013605,-73.9874191565
+13,2014-04-26 06:24:26,"Plant, 165 Merrimon Ave, Asheville",35.6047395798,-82.552845535
+14,2014-03-12 08:42:08,"El Born, 651 Manhattan Ave, Brooklyn",40.7242909877,-73.9511566492
+15,2014-03-03 00:28:42,"Greenpoint Beer and Ale Company, 7 N 15th St, Brooklyn",40.7249577765,-73.9572572708
+16,2013-09-03 08:13:14,"Hanana Yogurt, 99 Nassau Ave, Brooklyn",40.7239843037,-73.9501176893
+17,2013-08-31 01:52:31,"Nails & Stuff, 120 west 33rd street, New York",40.7497442883,-73.9899557839
+18,2013-07-29 03:28:02,"Cafe Genevieve, 135 E Broadway Ave, Jackson",43.479786,-110.760185122
+19,2013-07-18 02:25:07,"Cup, 79 Norman Ave, Brooklyn",40.725295,-73.9522437
+20,2013-07-05 09:40:52,"Rippers, 8601 Shore Front Pkwy, Queens",40.584706,-73.810652
+21,2013-06-09 01:57:26,"Zenon Taverna, 3410 31st Ave, Astoria",40.763013,-73.9207325
+22,2013-05-18 00:58:19,"Caff Vero, 1 Canada St, Lake George",43.4175271439,-73.7136945284
+23,2013-04-11 00:30:36,"James Bentley Salon, 533 W 57th St, New York",40.769624,-73.989664
+24,2013-01-07 01:08:59,"Blue Bottle Coffee, 160 Berry St, Brooklyn",40.7173793922,-73.96058321
+25,2012-10-26 08:46:07,"Bed Bath & Beyond, 1932 Broadway, New York",40.7726471942,-73.9821104952
+26,2012-10-14 12:28:02,"Tammany Hall, 152 Orchard St, New York",40.7207366,-73.9887598
+27,2012-09-26 04:09:15,"The National, 232 W Hancock Ave, Athens",33.9595217829,-83.3795142174
+28,2012-09-19 19:24:05,"MTA Bus - E125 St & Lexington Av (M60-SBS), E 125 St, New York",40.8042989245,-73.9370240204
+29,2012-07-31 11:28:46,"Blue Talon Bistro, 420 Prince George St, Williamsburg",37.272009676,-76.7068565614
+30,2012-03-26 22:58:57,"Caffe Reggio, 119 Macdougal St, New York",40.7302115017,-74.000291333
+31,2012-03-10 06:18:29,"PPFA Gym, 434 W 33rd St, New York",40.7532155876,-73.9982139381
+32,2012-02-28 22:43:15,"Good Stuff Diner, 109 W 14th St, New York",40.737604,-73.997361
+33,2012-02-07 09:30:27,"Subway, 367 W 34th St, New York",40.753393229,-73.9959471418
+34,2011-12-11 08:27:20,"Burger Heaven, 804 Lexington Ave, New York",40.7641733967,-73.9669584827
+35,2011-11-02 02:16:55,"The Original Chinatown Ice Cream Factory, 65 Bayard St, New York",40.715598898,-73.9982024607
+36,2011-07-13 07:14:42,"Momofuku Milk Bar, 251 E 13th St, New York",40.7317954706,-73.9856725931
+37,2011-07-02 03:25:09,"Planned Parenthood Federation of America, 123 William St, New York",40.7092471191,-74.0067601204
+38,2011-07-02 03:22:34,"La Newyorkina Cart, W 17th & W 18th St, New York",40.7443638202,-74.0068906422
+39,2011-06-30 01:10:14,"James Bentley Salon, 533 W 57th St, New York",40.769624,-73.989664
+40,2011-06-25 19:18:47,"Planned Parenthood, 26 Bleecker St, New York",40.7256284175,-73.9938524834
+41,2011-06-17 02:33:23,"Caf Bistro, 312 W 34th St, New York",40.7527682049,-73.9948051254
+42,2011-06-03 11:07:41,"Morningside Gardens, 80 La Salle St, New York",40.8125894497,-73.9577691249
+43,2011-06-02 07:46:04,"Mill Korean Restaurant, 2895 Broadway, New York",40.80586,-73.965443
+44,2011-06-01 21:34:52,"Duane Reade, 460 8th Ave, New York",40.751629949,-73.9935884974
+45,2011-05-27 11:53:55,"Morningside Gardens, 80 La Salle St, New York",40.8125894497,-73.9577691249
+46,2009-10-08 04:52:20,"Twins Pub, 421 9th Ave Frnt 1, New York",40.7531595794,-73.9965439718
+47,2009-07-07 12:11:35,"Blue Smoke, 116 E 27th St, New York",40.7423340017,-73.9838551958
+48,2009-06-21 06:04:49,"Lucky Jack's, 129 Orchard St, New York",40.7196340993,-73.9895483189

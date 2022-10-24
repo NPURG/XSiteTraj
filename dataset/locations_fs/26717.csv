@@ -1,0 +1,55 @@
+,time,poi,latitude,longitude
+0,2016-10-21 12:46:20,"Bistro SF Grill, 1305 Castro St, San Francisco",37.751129817,-122.434064071
+1,2016-09-18 14:18:44,"Uno Dos Tacos, 595 Market St, San Francisco",37.7890372265,-122.401051414
+2,2016-09-18 14:17:29,"Precita Park Caf, 500 Precita Ave, San Francisco",37.746981643,-122.410612106
+3,2015-07-12 23:51:25,"Andytown, 3655 Lawton St, San Francisco",37.7566352645,-122.502257824
+4,2015-04-26 23:02:03,"Bom Dia Market, 1598 Sanchez St, San Francisco",37.7436412189,-122.428766374
+5,2014-11-02 23:56:40,"Little Collins, 667 Lexington Ave, New York",40.7599031239,-73.9697670937
+6,2014-08-18 02:55:50,"Fiore Caff, 3599 24th St, San Francisco",37.7519111,-122.4227765
+7,2014-08-17 01:08:58,"Sightglass Coffee Cart, Ferry Building Farmers Market, San Francisco",37.7950357809,-122.393290358
+8,2014-08-16 00:55:13,"Linea Caffe, 3417 18th St, San Francisco",37.761726,-122.420042
+9,2014-08-12 06:42:03,"Blue Bottle Coffee, 315 Linden St, San Francisco",37.776407,-122.423250675
+10,2014-08-11 05:37:56,"Precita Park Caf, 500 Precita Ave, San Francisco",37.746981643,-122.410612106
+11,2014-08-11 04:22:20,"Ritual Coffee Roasters, 1026 Valencia St, San Francisco",37.756501,-122.421146
+12,2014-08-11 04:16:41,"Haus Coffee, 3086 24th St, San Francisco",37.752603,-122.413784483
+13,2014-08-11 04:15:24,"Spin City Coffee, 1299 Sanchez St, San Francisco",37.748493,-122.429382
+14,2014-08-11 04:11:13,"Cafe St. Jorge, 3438 Mission St, San Francisco",37.7416872017,-122.422578016
+15,2014-08-10 06:13:29,"Cafe St. Jorge, 3438 Mission St, San Francisco",37.7416872017,-122.422578016
+16,2014-04-08 16:44:00,"Trunk Diner, 275 Exhibition St, Melbourne",-37.8091107222,144.969081062
+17,2014-04-06 06:50:46,"Zaika, 459 Balcombe Rd., Beaumaris",-37.977352,145.031094
+18,2014-03-31 08:00:46,"Caffe Venti, 10-20 Bond Street, Sydney",-33.8646337153,151.208089859
+19,2014-03-30 06:28:22,"Holm Cafe, Shop 4, 165 Victoria Street, Potts Point",-33.872911,151.222686
+20,2014-03-26 09:11:37,"Flour and Stone, 53 Riley St, Sydney",-33.873552642,151.21556887
+21,2014-03-15 13:28:21,"Smith's Organic Markets, 146 Queen St Woollahra, Sydney",-33.888212,151.238338
+22,2014-03-14 18:27:35,"Flour and Stone, 53 Riley St, Sydney",-33.873552642,151.21556887
+23,2013-12-10 19:05:00,"Underwood Caf, 120b Underwood St, Paddington",-33.8864401012,151.230693031
+24,2013-07-15 20:27:48,"Three Blue Ducks, 141-143 Macpherson St., Bronte",-33.906219,151.263749
+25,2013-07-15 20:27:00,"Eau De Vie, 229 Darlinghurst Rd., Darlinghurst",-33.8769004409,151.220669746
+26,2013-07-15 20:26:06,"Din Tai Fung (0ef050), World Square, 644 George St., Sydney",-33.8775195084,151.206690073
+27,2013-07-15 20:21:33,"Almond Bar, 379 Liverpool St., Darlinghurst",-33.8782098301,151.220390797
+28,2013-07-15 20:21:12,"S. Thada Thai, 245 Victoria St., Darlinghurst",-33.878218,151.221545
+29,2013-07-15 20:19:57,"Gelato Messina, 1/241 Victoria St., Sydney",-33.8780984883,151.221587062
+30,2013-07-15 20:18:56,"Malabar Sth Indian Cuisine, 6/274-290 Victoria Street, Darlinghurst",-33.8759837938,151.221961029
+31,2013-07-15 20:14:47,"Room 10, 10 Llankelly Pl., Potts Point",-33.8724086605,151.224448519
+32,2013-07-15 20:13:45,"Bills, 433 Liverpool St., Darlinghurst",-33.8785214,151.222675
+33,2013-07-15 20:13:31,"The Royal, 128 Darlinghurst Road, Darlinghurst",-33.878230167,151.220133858
+34,2013-07-15 20:13:19,"Infinity Sourdough Bakery, 274 Victoria St, Darlinghurst",-33.8763615369,151.221734583
+35,2013-07-15 20:12:33,"The Bunker, 399 Liverpool St., Darlinghurst",-33.8781608948,151.221135669
+36,2013-01-27 12:32:24,"The Royal, 128 Darlinghurst Road, Darlinghurst",-33.878230167,151.220133858
+37,2013-01-27 11:05:19,"The Royal, 128 Darlinghurst Road, Darlinghurst",-33.878230167,151.220133858
+38,2012-11-25 07:58:23,"Three Blue Ducks, 141-143 Macpherson St., Bronte",-33.906219,151.263749
+39,2012-10-14 09:24:57,"Room 10, 10 Llankelly Pl., Potts Point",-33.8724086605,151.224448519
+40,2012-09-02 09:49:51,"Sur Bourke Espresso Bar, 266 Bourke Street, Darlinghurst",-33.8782187374,151.217150688
+41,2011-10-29 12:16:05,"Sur Bourke Espresso Bar, 266 Bourke Street, Darlinghurst",-33.8782187374,151.217150688
+42,2011-10-20 08:08:59,"Sur Bourke Espresso Bar, 266 Bourke Street, Darlinghurst",-33.8782187374,151.217150688
+43,2011-08-11 09:30:42,"Sur Bourke Espresso Bar, 266 Bourke Street, Darlinghurst",-33.8782187374,151.217150688
+44,2011-03-19 07:40:30,"The Goods on Crown, 253 Crown St, Surry Hills",-33.879843,151.215012
+45,2010-01-02 17:26:46,"Claypots Seafood Bar, 213 Barkly St., St Kilda",-37.869871,144.98068
+46,2009-12-28 11:02:30,"Cheeky Monkey, 89A Swan St, Richmond",-37.825195,144.993841052
+47,2009-12-22 07:41:59,"Mart 130 Cafe, 107A Canterbury Rd, Middle Park",-37.8495907319,144.965624213
+48,2009-12-03 15:30:34,"Inspire9 Web Development, 9/83 Dover St, Cremorne",-37.828061,144.991986
+49,2009-11-22 19:04:57,"T1 International Terminal, Sydney (Kingsford Smith) Airport (SYD), Mascot",-33.9355983265,151.16569519
+50,2009-11-22 16:19:38,"Melbourne Airport (MEL), Airport Dr, Tullamarine",-37.6697794591,144.84859955
+51,2009-11-22 16:19:14,"Melbourne Airport (MEL), Airport Dr, Tullamarine",-37.6697794591,144.84859955
+52,2009-11-22 16:18:51,"Melbourne Airport (MEL), Airport Dr, Tullamarine",-37.6697794591,144.84859955
+53,2009-11-20 09:56:21,"Postal Hall, 116 Russell St, Melbourne",-37.813581247,144.968676567

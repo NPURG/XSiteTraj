@@ -1,0 +1,58 @@
+,time,poi,latitude,longitude
+0,2015-05-20 05:56:59,"Benares, 45 Murray St, New York",40.7139986151,-74.0093524132
+1,2015-05-20 05:54:44,"Benares, 45 Murray St, New York",40.7139986151,-74.0093524132
+2,2015-05-12 07:40:51,"The Hamilton Inn, 708 Jersey Ave, Jersey City",40.7290068169,-74.0447938442
+3,2014-06-23 10:01:17,"Slip 14, 14 Old South Wharf, Nantucket",41.2837406282,-70.0948178808
+4,2014-04-27 06:36:51,"Bamboo Leaf, 724 Main St, Bradley Beach",40.2049361675,-74.0172023244
+5,2014-04-27 06:15:04,"Carton Brewing, 6 E Washington Ave, Atlantic Highlands",40.4117642457,-74.0381634235
+6,2014-04-16 05:04:48,"Twin Leaf Brewery, 144 Coxe Ave, Asheville",35.589430523,-82.5545768307
+7,2014-04-16 01:24:36,"Lexington Avenue Brewery, 39 N Lexington Ave, Asheville",35.5961599958,-82.5532681476
+8,2013-06-10 05:42:51,"Belmar Seafood Festival, 201 S Lake Dr, Belmar",40.1814362542,-74.0129675439
+9,2013-05-26 07:38:31,"Ragin Cajun, 1102 State Route 35, Belmar",40.178814,-74.029634
+10,2013-04-20 22:15:52,"Fulop HQ, 353 2nd St, Jersey City",40.7229891733,-74.0490462359
+11,2013-03-03 06:10:29,"Beechwood Cafe, 290 Grove St, Jersey City",40.7182683165,-74.0436933889
+12,2013-03-03 04:15:00,"Steve Fulop's Campaign HQ, 2175 John F Kennedy Blvd, Jersey City",40.7131184118,-74.083316937
+13,2012-06-22 22:11:07,"Nationals Park, 1500 S Capitol St SE, Washington",38.8730828941,-77.0075364629
+14,2012-06-22 22:09:19,"Sunday's on the Bay, 369 Dune Rd, Hampton Bays",40.8420688575,-72.480493821
+15,2012-06-22 22:08:38,"Barcade, 163 Newark Ave, Jersey City",40.7209549932,-74.044720367
+16,2012-06-22 22:08:07,"City Hall Park, 17 Park Row, New York",40.7127120386,-74.0070226261
+17,2012-03-08 00:50:54,"Skyeship Lodge, VT Route 100 / US Route 4, Killington",43.6144202099,-72.7568494635
+18,2012-03-06 06:13:31,"Baja Burrito Co, 3000 Killington Rd, Killington",43.6359472061,-72.7900345734
+19,2012-03-05 01:37:37,"Starbucks, 98 Christopher Columbus Dr, Jersey City",40.71938166,-74.04164866
+20,2012-02-20 23:25:43,"Killington Ski Resort, 4480 Killington Rd, Killington",43.6265070549,-72.7962440219
+21,2011-12-17 13:18:55,"Baba Ghanouge, 165 Church St, New York",40.7152381889,-74.0078030506
+22,2011-12-17 13:18:04,"Museum of Modern Art (MoMA), 11 W 53rd St, New York",40.761396839,-73.9769857493
+23,2011-07-22 06:45:10,"Cortiva Institute Massage School, 2 Hudson Pl Ste 2, Hoboken",40.7357683088,-74.0281675589
+24,2011-07-08 00:43:29,"Hamilton Park, 1 West Hamilton Pl, Jersey City",40.7275839894,-74.0452337265
+25,2011-07-02 00:32:23,"High Line, btwn Gansevoort & W 34th St, New York",40.7439531669,-74.0066725817
+26,2011-06-28 21:47:28,"Madison Square Park, Broadway & Madison Ave, New York",40.7421441752,-73.988006115
+27,2011-06-28 21:45:17,"Wonder Bagels, 517 Jersey Ave, Jersey City",40.7206242039,-74.0466997224
+28,2011-06-08 00:02:43,"City Hall Park, 17 Park Row, New York",40.7127120386,-74.0070226261
+29,2011-06-01 20:00:36,"Dunkin' Donuts/Baskin Robins, 321 Broadway, New York",40.7158702637,-74.0045837791
+30,2011-05-24 03:48:23,"TechCrunch Disrupt, Pier 94, New York",40.7691255339,-73.9962799895
+31,2011-05-03 07:02:08,"Fondu HQ, 568 Broadway Fl 11, New York",40.7242364804,-73.9971063676
+32,2011-05-01 03:37:06,"Barcade, 163 Newark Ave, Jersey City",40.7209549932,-74.044720367
+33,2011-04-29 09:15:28,"General Assembly East, 902 Broadway Fl 4, New York",40.7393071807,-73.9894008636
+34,2011-03-01 01:05:27,"III L's Pizzeria, 315 Broadway, New York",40.7157186832,-74.004824796
+35,2011-02-19 12:08:09,"Harvest Moon Brewery, 392 George St, New Brunswick",40.4962291304,-74.4442018286
+36,2011-01-24 21:32:57,"Los Feliz, 109 Ludlow St, New York",40.7193344079,-73.9887620811
+37,2011-01-16 05:23:39,"Killington Ski Resort, 4480 Killington Rd, Killington",43.6265070549,-72.7962440219
+38,2010-12-16 21:41:31,"Club Metro USA, 333 Washington St, Jersey City",40.7195717989,-74.0370035525
+39,2010-11-02 01:25:52,"Rustique Pizza, 611 Jersey Ave, Jersey City",40.7248641658,-74.0456842296
+40,2010-11-02 01:13:23,"More Thai, 281 Grove St, Jersey City",40.7178798333,-74.043894
+41,2010-10-23 03:19:40,"GSA, 26 Federal Plz, New York",40.7145453446,-74.0027015419
+42,2010-10-07 21:46:26,"The Whiskey Ward, 121 Essex St, New York",40.719623682,-73.987677412
+43,2010-09-20 08:12:30,"Taqueria Downtown, 236 Grove St, Jersey City",40.7159400522,-74.0445899963
+44,2010-09-15 23:10:17,"L Road, Beach Rd, Hampton Bays",40.8321571059,-72.5113230637
+45,2010-08-13 02:53:50,"Club Metro USA, 333 Washington St, Jersey City",40.7195717989,-74.0370035525
+46,2010-08-13 01:25:55,"Salaam Bombay, 317 Greenwich St, New York",40.716993,-74.010991
+47,2010-08-10 21:23:39,"Whole Foods Market, 270 Greenwich Street, New York",40.7157784894,-74.0121412344
+48,2010-06-15 23:39:37,"Sophie's Cuban Cuisine, 96 Chambers St, New York",40.7147820288,-74.0076136832
+49,2010-04-18 00:48:57,"The Little Sandwich Shop, 333 Grove St, Jersey City",40.7202834876,-74.0428729499
+50,2010-04-16 10:29:09,"PS 450, 450 Park Ave S, New York",40.744979739,-73.9828967603
+51,2010-04-13 20:47:56,"Andy's Deli, 291 Broadway, New York",40.714818,-74.0058472333
+52,2010-03-13 08:34:09,"Skinner's Loft, 146 Newark Ave, Jersey City",40.7205443918,-74.0437622368
+53,2010-02-16 07:49:41,"Comedy Corner, 89 Macdougal St, New York",40.7290278717,-74.0010086602
+54,2010-02-13 08:53:15,"Sawadee Thai Cuisine, 137 Newark Ave, Jersey City",40.720397119,-74.0436876516
+55,2010-02-11 09:19:22,"Fit & Trim, 121-125 Newark Ave Fl 5, Jersey City",40.720844,-74.04469
+56,2010-02-11 09:17:15,"Beechwood Cafe, 290 Grove St, Jersey City",40.7182683165,-74.0436933889

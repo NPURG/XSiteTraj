@@ -1,0 +1,114 @@
+,time,poi,latitude,longitude
+0,2016-06-06 03:35:32,"Caff Nero, 560 Washington St, Boston",42.3535530441,-71.0623061657
+1,2016-05-02 04:36:25,"Flour Bakery + Cafe, 131 Clarendon St, Boston",42.3482794846,-71.0735736887
+2,2016-04-26 09:49:20,"Stoked Pizza, 1632 Beacon St, Brookline",42.3396659853,-71.1357913334
+3,2016-04-25 04:34:15,"Tatte Bakery & Cafe, 70 Charles St, Boston",42.3579364097,-71.0704747423
+4,2015-12-04 11:05:11,"JM Curley, 21 Temple Pl, Boston",42.3553729183,-71.0623094281
+5,2015-10-24 22:12:56,"Connelly Hardware Co, 706 Washington St, Brookline",42.3390954276,-71.135058
+6,2015-10-22 06:08:17,"Bee's Knees Supply, 1316 Commonwealth Ave, Boston",42.348374,-71.134501
+7,2015-07-09 12:45:35,"Corsair and Cross Rip Oceanfront, 41 Chase Ave, Dennis Port",41.6555365736,-70.1224251721
+8,2015-07-09 12:42:46,"The Malted Barley, 42 High St, Westerly",41.3788501333,-71.8301097
+9,2015-07-09 12:39:32,"84 Tavern On Canal, 15 Canal St, Westerly",41.380146816,-71.8299718082
+10,2014-11-18 09:13:46,"Thirsty Scholar Pub, 70 Beacon Street, Somerville",42.3763905466,-71.1041472852
+11,2014-11-14 09:13:50,"Green Briar Restaurant & Pub, 304 Washington St, Brighton",42.3489905422,-71.1512310934
+12,2014-11-10 22:12:07,"Pavement Coffeehouse, 1243 Commonwealth Ave, Allston",42.3502781753,-71.1317064564
+13,2014-11-03 01:49:19,"Duckfat, 43 Middle St, Portland",43.6601383189,-70.2503363085
+14,2014-10-31 03:13:30,"Roost, 40 Front St, Salem",42.5205730089,-70.8949899673
+15,2014-10-25 11:17:54,"Maggiano's Little Italy, 4 Columbus Ave, Boston",42.3509742049,-71.0686281323
+16,2014-06-29 05:22:23,"Christina's Homemade Ice Cream, 1255 Cambridge St, Cambridge",42.3733414204,-71.098416636
+17,2014-06-17 08:26:58,"Thinking Cup, 165 Tremont St, Boston",42.3539534386,-71.0638082027
+18,2014-05-28 02:58:52,"Roxy's Grilled Cheese, 485 Cambridge St, Boston",42.353855,-71.13708
+19,2014-04-23 03:29:23,"Cabot Visitor Center, 2878 Main St, Cabot",44.4002915412,-72.3148226738
+20,2014-03-30 04:35:01,"Harry's Bar and Grill, 1430 Commonwealth Ave, Brighton",42.348467,-71.140003
+21,2014-03-18 01:18:58,"Sunset Grill & Tap, 130 Brighton Ave, Allston",42.3527522476,-71.1316439509
+22,2014-03-07 22:51:02,"Clear Flour Bread, 178 Thorndike St, Boston",42.3499789603,-71.1259388173
+23,2014-03-01 08:51:37,"The Tip Tap Room, 138 Cambridge St, Boston",42.3610628248,-71.06402143
+24,2014-02-09 06:29:25,"Anna's Taqueria, 1412 Beacon St, Brookline",42.3412800119,-71.1254688149
+25,2013-12-11 22:17:10,"M. Steinert & Sons - Steinert Hall, 162 Boylston St, Boston",42.35248555,-71.06674385
+26,2013-12-04 00:46:20,"The Flying Biscuit Cafe, 1001 Piedmont Ave NE, Atlanta",33.7818961583,-84.380286634
+27,2013-12-04 00:43:57,"Hyatt Atlanta Midtown, 125 10th St NE, Atlanta",33.781536931,-84.3832782255
+28,2013-12-04 00:29:33,"Cardullo's, 6 Brattle St, Cambridge",42.3734066731,-71.1197475065
+29,2013-12-04 00:25:05,"Fuel America, 152 Chestnut Hill Ave, Brighton",42.3417014019,-71.1543526254
+30,2013-11-26 00:38:53,"Meadhall, 4 Cambridge Ctr, Cambridge",42.3636572686,-71.0872614384
+31,2013-11-10 04:53:31,"Frugal Fannie's, 24 Wilson Way, Westwood",42.2152042534,-71.1851720753
+32,2013-11-09 04:17:47,"YoMa Burmese Restaurant, 5 North Beacon St, Allston",42.3537132213,-71.1376074656
+33,2013-10-01 05:23:40,"WBUR, 890 Commonwealth Ave, Boston",42.3508889686,-71.115719676
+34,2013-09-21 08:09:33,"Flour Bakery & Cafe, 12 Farnsworth St Fl 1, Boston",42.3511567113,-71.048793067
+35,2013-09-13 02:48:14,"Saus Restaurant, 33 Union St, Boston",42.3611125366,-71.0568988323
+36,2013-08-18 04:50:35,"Sweet Cheeks, 1381 Boylston St, Boston",42.3437485306,-71.1010909081
+37,2013-08-09 10:01:12,"Sunset Grill & Tap, 130 Brighton Ave, Allston",42.3527522476,-71.1316439509
+38,2013-08-09 08:43:42,"Carlo's Cucina Italiana, 131 Brighton Ave, Allston",42.3530085235,-71.1312132511
+39,2013-08-08 04:40:50,"Martignetti Liquors, 1650 Soldiers Field Rd, Brighton",42.3595422238,-71.1526119972
+40,2013-08-01 00:50:58,"Patzeria Perfect Pizza, 231 W 46th St, New York",40.7594245286,-73.9869083836
+41,2013-07-28 07:36:32,"Lone Star Taco Bar, 477 Cambridge St, Allston",42.353901,-71.137189
+42,2013-07-12 05:09:28,"JM Curley, 21 Temple Pl, Boston",42.3553729183,-71.0623094281
+43,2013-07-03 01:02:49,"BU Marketing & Communications, 985 Commonwealth Ave, Boston",42.3519155622,-71.1210879015
+44,2013-07-02 06:30:21,"Stone Hearth Pizza Co., 182 Western Ave, Allston",42.3629556939,-71.1294150352
+45,2013-06-21 04:18:11,"Radcliffe Sunken Garden, Garden St and Appian Way, Cambridge",42.37577,-71.121679
+46,2013-06-19 01:25:18,"Cafeteria Boston, 279 Newbury St, Boston",42.349170286,-71.0843269661
+47,2013-06-11 04:26:40,"Blue State Coffee, 957 Commonwealth Ave, Boston",42.351649,-71.118884
+48,2013-06-06 03:26:46,"KitchenWares by Blackstones, 215 Newbury St, Boston",42.3500297563,-71.0811874795
+49,2013-06-01 06:54:15,"Barcelona Wine Bar - Brookline, 1700 Beacon St, Brookline",42.3386836861,-71.1387679291
+50,2013-05-18 03:40:58,"K-Paul's, 416 Chartres St, New Orleans",29.9554017548,-90.0657195725
+51,2013-04-29 02:12:34,"The Abbey, 1657 Beacon St, Brookline",42.3388652696,-71.1367081041
+52,2013-04-25 21:44:08,"Commander's Palace, 1403 Washington Ave, New Orleans",29.9287742812,-90.0842615962
+53,2013-04-24 10:28:28,"Caf du Monde, 800 Decatur St, New Orleans",29.9575059286,-90.0619456172
+54,2013-04-24 10:21:01,"The Grill, 540 Chartres St, New Orleans",29.9565824242,-90.0646431253
+55,2013-04-24 10:15:02,"Gray Line Tours, 400 N Peters St, New Orleans",29.9548601843,-90.0643837452
+56,2013-04-24 10:11:12,"Eastern Standard, 528 Commonwealth Ave, Boston",42.3486374807,-71.0960838662
+57,2013-04-09 03:28:40,"Caffe Vittoria, 296 Hanover St, Boston",42.364005,-71.05427
+58,2013-04-09 03:22:34,"Fenway Park, 4 Yawkey Way, Boston",42.3464066919,-71.0979988275
+59,2013-04-09 03:18:12,"Newbury Street, Newbury St, Boston",42.3503299741,-71.0799336433
+60,2013-04-09 03:04:17,"Mr. Crpe, 51 Davis Sq, Somerville",42.3966375003,-71.1226661963
+61,2013-04-09 03:02:03,"Boston Public Garden, 9 Arlington St, Boston",42.3540121555,-71.0699930687
+62,2013-04-09 02:53:20,"Club Passim, 47 Palmer St, Cambridge",42.3743138643,-71.120101464
+63,2013-04-09 02:48:14,"The Regal Beagle, 308 Harvard St, Brookline",42.3432612862,-71.1230897818
+64,2013-04-09 02:02:36,"Copley Square Farmer's Market, 139 St. James Ave, Boston",42.3499018047,-71.0764789581
+65,2013-04-09 01:56:27,"New England Aquarium, 1 Central Wharf, Boston",42.3591887024,-71.0499247673
+66,2013-04-09 01:54:01,"Isabella Stewart Gardner Museum, 280 Fenway, Boston",42.3381111753,-71.0987532037
+67,2013-04-09 01:45:22,"Picco, 513 Tremont St, Boston",42.3448448249,-71.0705056787
+68,2013-04-07 05:31:30,"Star Market, 1717 Beacon St, Brookline",42.33807,-71.139342
+69,2013-04-02 07:27:58,"Island Creek Oyster Bar, 500 Commonwealth Ave, Boston",42.3487163948,-71.0951632261
+70,2013-03-22 03:38:56,"Blue State Coffee, 957 Commonwealth Ave, Boston",42.351649,-71.118884
+71,2013-03-17 07:15:47,"Babushka Deli, 62 Washington St, Boston",42.3434993257,-71.1423015196
+72,2013-03-15 03:39:45,"Sully's SideBar, 300 Colorado St, Austin",30.265816844,-97.7452324872
+73,2013-03-15 01:59:19,"Moonshine Patio Bar & Grill, 303 Red River St, Austin",30.2639365057,-97.7380498618
+74,2013-03-12 06:27:12,"Moonshine Patio Bar & Grill, 303 Red River St, Austin",30.2639365057,-97.7380498618
+75,2013-02-08 05:02:20,"Brighton Cafe, 1597 Commonwealth Ave, Brighton",42.3441078246,-71.1433343201
+76,2013-02-02 07:10:37,"MiniLuxe, 481 Harvard St, Brookline",42.347248,-71.128305
+77,2013-01-20 09:11:40,"Kartabar, 284 Thayer St, Providence",41.8296177132,-71.4008735391
+78,2013-01-20 09:11:07,"Spectrum India, 252 Thayer St, Providence",41.828664,-71.4008173
+79,2013-01-14 06:18:23,"Whole Foods Market, 15 Washington Street, Brighton",42.3428364052,-71.1407233024
+80,2013-01-13 03:06:49,"Pavement Coffeehouse, 1096 Boylston St, Boston",42.3470393385,-71.088334322
+81,2013-01-08 04:02:54,"South End Open Market @ Ink Block, 375 Harrison Ave, Boston",42.3444463548,-71.0647630692
+82,2013-01-08 04:01:35,"Coolidge Corner Theatre, 290 Harvard St, Brookline",42.3426896067,-71.1223412538
+83,2013-01-08 02:31:48,"Treats On Washington, 379 Washington St, Boston",42.349218,-71.154421
+84,2013-01-08 02:26:22,"The Hawthorne, 500A Commonwealth Ave, Boston",42.3488,-71.095484
+85,2013-01-08 02:23:09,"Eastern Standard, 528 Commonwealth Ave, Boston",42.3486374807,-71.0960838662
+86,2013-01-08 02:19:34,"Island Creek Oyster Bar, 500 Commonwealth Ave, Boston",42.3487163948,-71.0951632261
+87,2013-01-08 00:02:03,"Brookline Booksmith, 279 Harvard St, Brookline",42.3425782167,-71.12177511
+88,2013-01-04 08:09:48,"India Quality Restaurant, 484 Commonwealth Ave, Boston",42.3487685719,-71.0942211225
+89,2012-12-31 08:06:29,"Harry's Bar and Grill, 1430 Commonwealth Ave, Brighton",42.348467,-71.140003
+90,2012-12-30 01:31:51,"Whole Foods Market, 15 Washington Street, Brighton",42.3428364052,-71.1407233024
+91,2012-12-28 04:21:48,"Spare Time Family Fun Center, 350 Talcottville Road, Vernon",41.8415594848,-72.4883459124
+92,2012-11-25 02:29:26,"Rein's New York Style Deli, 435 Hartford Tpke, Vernon",41.8296013363,-72.4827718735
+93,2012-11-15 09:08:34,"Deep Ellum, 477 Cambridge St, Allston",42.3538701885,-71.1369788647
+94,2012-11-15 09:05:20,"Hops n Scotch, 1306 Beacon St, Brookline",42.3424718093,-71.1207461357
+95,2012-11-15 09:03:50,"Tags Hardware, 29 White St, Cambridge",42.3896094155,-71.1187088423
+96,2012-11-04 07:51:38,"Sunset Cantina, 916 Commonwealth Ave, Boston",42.351186304,-71.1165189743
+97,2012-11-03 20:09:30,"Roxy's Gourmet Grilled Cheese Truck, 383 Chestnut Hill Ave, Boston",42.3628782972,-71.159951594
+98,2012-11-03 20:03:47,"Martin's Coffee Shop, 35 Harvard St, Brookline",42.334371,-71.11905
+99,2012-11-03 19:55:13,"Leeba Salon, 1024 Commonwealth Ave, Boston",42.351738,-71.12189
+100,2012-10-19 20:51:50,"Muse Mcanique, Pier 45, Shed A, San Francisco",37.8093770885,-122.415997982
+101,2012-09-17 06:47:23,"Sweet Cheeks, 1381 Boylston St, Boston",42.3437485306,-71.1010909081
+102,2012-09-06 09:31:54,"Five Horses Tavern, 400 Highland Ave, Somerville",42.395832,-71.120845
+103,2012-08-29 10:07:00,"FoM, 481 Cambridge St, Allston",42.3537140211,-71.1369459999
+104,2012-08-23 20:20:33,"Starbucks, 142-148 Brookline Ave, Boston",42.3443586103,-71.1014457349
+105,2012-08-13 03:16:56,"Life Alive, 765 Massachusetts Ave, Cambridge",42.3666402892,-71.1056353705
+106,2012-08-05 07:38:43,"Mad 46 Rooftop Lounge, 45 E 46th St., 19th Floor, New York",40.7551895404,-73.9772558212
+107,2012-08-02 23:00:05,"Abbott's Frozen Custard, 360 Washington St, Boston",42.3490903799,-71.1534881144
+108,2012-07-19 07:23:09,"The Hawthorne, 500A Commonwealth Ave, Boston",42.3488,-71.095484
+109,2012-07-14 06:12:58,"South Station Terminal (MBTA / Amtrak), 700 Atlantic Ave, Boston",42.3514296543,-71.0553278682
+110,2012-07-14 06:08:56,"South Station Terminal (MBTA / Amtrak), 700 Atlantic Ave, Boston",42.3514296543,-71.0553278682
+111,2012-07-10 06:17:37,"The Avenue, 1249 Commonwealth Ave, Boston",42.3501192,-71.13203925
+112,2012-07-01 08:28:38,"Little Italy Garage, 400 S Central Ave, Baltimore",39.2859424708,-76.6003058466

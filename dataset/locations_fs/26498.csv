@@ -1,0 +1,146 @@
+,time,poi,latitude,longitude
+0,2016-11-13 07:18:03,"The Pharmacy, 990 Sonoma Ave, Santa Rosa",38.440514,-122.70207
+1,2016-05-23 09:58:41,"Noeteca, 1551 Dolores St, San Francisco",37.744704,-122.42431973
+2,2016-03-10 02:41:54,"3rd Cousin, 919 Cortland Ave, San Francisco",37.7389939734,-122.413718104
+3,2016-01-27 09:33:20,"Cecconi's Miami Beach, 4384 Collins Ave., Miami Beach",25.8158774003,-80.1221750842
+4,2016-01-13 14:44:30,"L'Usine: Cafe, Bistro & Lifestyle Shop, 151/1 Dong Khoi St., 1st Flr., Dist. 1, Thnh phd1 Hd3 Ch Minh",10.7758411163,106.703173345
+5,2015-11-23 02:25:22,"Mission Cheese, 736 Valencia St, San Francisco",37.761173234,-122.421538292
+6,2015-10-03 23:08:54,"Pagan, 3199 Clement St, San Francisco",37.7815067,-122.493338
+7,2015-07-18 04:50:14,"Cafe Duck Butt, 901 Kawaiahao St, Honolul",21.2984875711,-157.854169567
+8,2015-07-09 01:57:05,"Kiji Sushi Bar & Cuisine, 1009 Guerrero St, San Francisco",37.7548834824,-122.423147648
+9,2015-06-09 11:16:18,"Cease & Desist, 2331 Mission St, San Francisco",37.7597535133,-122.419138038
+10,2015-06-05 12:45:06,"Sunny Spot, 822 Washington Blvd, Marina del Rey",33.9881421252,-118.451907373
+11,2015-06-05 12:42:55,"Poke-Poke, 1827 Ocean Front Walk, Venice",33.985451,-118.472241
+12,2015-04-28 23:46:10,"The Progress, 1525 Fillmore St, San Francisco",37.7837677087,-122.432814325
+13,2015-04-28 06:38:42,"Latin American Club, 3286 22nd St, San Francisco",37.7554137862,-122.420675755
+14,2015-03-20 12:11:57,"El Chilito, 2219 Manor Rd, Austin",30.2842587029,-97.7183942218
+15,2015-03-20 12:07:58,"Lambert's Downtown BBQ, 401 W 2nd St, Austin",30.2653199434,-97.7476303952
+16,2015-03-06 03:31:15,"Bar Crudo, 655 Divisadero St, San Francisco",37.7757107962,-122.43806758
+17,2015-02-26 15:59:55,"Liholiho Yacht Club, 871 Sutter St, San Francisco",37.7883686988,-122.414586254
+18,2015-01-26 12:05:11,"Toyose, 3814 Noriega St, San Francisco",37.7530907214,-122.504650464
+19,2014-11-05 05:27:36,"Murphy's Ice Cream, 27 Wicklow St, Dublin",53.342954,-6.261521
+20,2014-08-03 04:09:43,"Intelligentsia Coffee & Tea, 1331 Abbot Kinney Blvd, Venice",33.9910867996,-118.466930017
+21,2014-04-06 02:35:35,"The Model Bakery, 1357 Main St, Saint Helena",38.504958,-122.469848
+22,2014-03-31 22:18:25,"Lafayette, 380 Lafayette St, New York",40.7276490336,-73.9936065674
+23,2014-03-31 22:15:39,"Smile To Go, 22 Howard St, New York",40.7195607055,-74.0003228188
+24,2014-02-05 15:34:10,"Bow Bow Cocktail Lounge, 1155 Grant Ave, San Francisco",37.7975345519,-122.40688151
+25,2013-08-25 09:45:10,"Marlowe, 500 Brannan St, San Francisco",37.7783233214,-122.396792031
+26,2013-08-17 12:13:13,"Baci Cafe & Wine Bar, 336 Healdsburg Ave, Healdsburg",38.6117824103,-122.870825616
+27,2013-07-07 04:41:22,"The Tasting Kitchen, 1633 Abbot Kinney Blvd, Venice",33.9896568293,-118.463178277
+28,2013-01-23 11:55:33,"Magnolia Gastropub & Brewery, 1398 Haight St, San Francisco",37.770223,-122.445354
+29,2013-01-21 05:20:25,"Ram's Gate Winery, 28700 Arnold Dr, Sonoma",38.1741857529,-122.450419
+30,2013-01-07 04:16:50,"Dell'anima, 38 8th Ave, New York",40.7380688333,-74.0041132216
+31,2013-01-04 13:37:52,"Nick's Crispy Tacos, 1500 Broadway, San Francisco",37.796083,-122.42188095
+32,2012-12-28 14:50:09,"Dick's Drive-In, 115 Broadway E, Seattle",47.6193360844,-122.321110652
+33,2012-12-14 22:34:46,"The Scratcher, 209 E 5th St, New York",40.727486423,-73.990623951
+34,2012-11-21 21:12:40,"Small Foods, 522 2nd St, San Francisco",37.782639,-122.39335
+35,2012-11-17 22:03:17,"Eleven Madison Park, 11 Madison Ave, New York",40.7416483195,-73.9871478081
+36,2012-11-14 12:29:24,"Sushiclub, Av. 10 Nte, Playa del Carmen",20.6325532318,-87.0693848725
+37,2012-11-14 12:27:56,"Sushiclub, Av. 10 Nte, Playa del Carmen",20.6325532318,-87.0693848725
+38,2012-11-13 00:35:43,"Indigo Beach Club, The Beach - El Taj, Playa del Carmen",20.6273220291,-87.0697402954
+39,2012-11-10 11:23:56,"Sur Steak House, 5a Av., Playa del Carmen",20.626752362,-87.0722285763
+40,2012-11-10 09:26:14,"El Taj, 1 Norte Esquina Calle 14 Norte, Playa del Carmen",20.6275133345,-87.0698043661
+41,2012-10-27 23:03:18,"Stella's Italian Kitchen and Market, 5 Main St, Lyme",43.8112126868,-72.1581993351
+42,2012-10-08 10:56:17,"Capannina, 1809 Union St, San Francisco",37.7979352351,-122.42919219
+43,2012-09-25 02:00:12,"Juice Generation, 69 Prince St, New York",40.7239251504,-73.9969110489
+44,2012-09-01 10:22:43,"Jamonera, 105 S 13th St, Philadelphia",39.9502803011,-75.1618658068
+45,2012-08-11 00:24:28,"Local, 144 Sullivan St, New York",40.7270212131,-74.0018579722
+46,2012-08-04 19:57:00,"Zombie Hut, 273 Smith St, Brooklyn",40.682558,-73.99300801
+47,2012-06-29 03:52:28,"Samovar Tea Lounge, 730 Howard St, San Francisco",37.784282779,-122.402265072
+48,2012-06-21 04:24:36,"Foursquare HQ, 568 Broadway Fl 10, New York",40.7241284245,-73.9972651005
+49,2012-06-21 04:22:21,"Billy's Bakery, 184 9th Ave, New York",40.7454135359,-74.0020875153
+50,2012-06-05 22:14:00,"Marea, 240 Central Park S, New York",40.7674279109,-73.9808768034
+51,2012-05-22 05:21:33,"Mandalay Bay Beach, 3950 Las Vegas Blvd S, Las Vegas",36.0904220481,-115.175787753
+52,2012-05-22 05:19:17,"barMASA, Aria Casino, Las Vegas",36.1079046579,-115.176025137
+53,2012-05-22 05:17:44,"Hyde Bellagio, 3600 Las Vegas Blvd S, Las Vegas",36.1129527833,-115.175017703
+54,2012-05-22 05:14:53,"CUT LAS VEGAS, The Palazzo, Las Vegas",36.1233519846,-115.169164103
+55,2012-05-22 05:13:24,"Border Grill, 3950 Las Vegas Blvd S, The Strip",36.0901824228,-115.176546222
+56,2012-05-22 05:12:06,"Trattoria Del Lupo At Mandalay Bay Resort, 3950 Las Vegas Blvd S, Las Vegas",36.0921599442,-115.176378317
+57,2012-05-20 10:17:34,"Exotics Racing, 6925 Speedway Blvd # C-105, Las Vegas",36.2807731846,-115.02115609
+58,2012-05-11 04:09:10,"Blue Hill at Stone Barns, 630 Bedford Rd, Tarrytown",41.1039006287,-73.8289978369
+59,2012-05-05 00:22:40,"Bleecker Street Bar, 56 Bleecker St, New York",40.7261383951,-73.9949658115
+60,2012-05-05 00:21:17,"Foursquare HQ, 568 Broadway Fl 10, New York",40.7241284245,-73.9972651005
+61,2012-03-09 09:14:51,"Embassy Suites by Hilton Austin Downtown Town Lake, 300 S Congress Ave, Austin",30.2585667789,-97.7468982339
+62,2012-03-09 09:10:53,"Embassy Suites by Hilton Austin Downtown Town Lake, 300 S Congress Ave, Austin",30.2585667789,-97.7468982339
+63,2012-02-25 02:18:22,"Fanelli Cafe, 94 Prince St, New York",40.7246105422,-73.9985697366
+64,2012-02-11 02:10:44,"Alidoro, 105 Sullivan St, New York",40.725649,-74.003045
+65,2011-12-22 07:49:19,"Good Luck Dim Sum 7d4bdec3, 736 Clement St, San Francisco",37.7828540121,-122.467091382
+66,2011-12-20 05:37:12,"Deli Board, 1058 Folsom St, San Francisco",37.7774853678,-122.407025322
+67,2011-12-15 10:50:50,"The Standard Grill, 848 Washington St, New York",40.7406891129,-74.0076184273
+68,2011-12-15 10:49:11,"Morimoto, 88 10th Ave, New York",40.7429630129,-74.0074702229
+69,2011-12-03 09:12:19,"Gene Shallit's Tacqueria, 207 2nd Ave, New York",40.7316519908,-73.9855610073
+70,2011-12-03 09:08:19,"Gene Shallit's Tacqueria, 207 2nd Ave, New York",40.7316519908,-73.9855610073
+71,2011-11-24 04:52:15,"Continental, 25 3rd Ave, New York",40.7296165908,-73.9897978306
+72,2011-11-19 10:56:37,"Nomad Restaurant, 78 2nd Ave, New York",40.7263947309,-73.989290066
+73,2011-10-10 04:21:30,"The Barking Lounge, 222 Dexter Ave N, Seattle",47.6204192937,-122.341865127
+74,2011-09-08 11:07:37,"Karaoke One 7, 29 W 17th St, New York",40.7386550376,-73.9939030119
+75,2011-08-23 01:59:42,"Porchetta, 110 E 7th St, New York",40.72659,-73.984711
+76,2011-08-23 01:58:50,"Luke's Lobster, 93 E 7th St, New York",40.7268229975,-73.9854709756
+77,2011-08-23 01:55:19,"Gyu-Kaku Japanese BBQ, 34 Cooper Sq, New York",40.7282929808,-73.9911929246
+78,2011-08-23 01:49:19,"Otto Enoteca Pizzeria, 1 5th Ave, New York",40.732056086,-73.9960848719
+79,2011-08-23 01:29:12,"The Meatball Shop, 84 Stanton St, New York",40.7215451248,-73.9888424267
+80,2011-08-18 01:19:52,"Fiddlesticks Pub & Grill, 56 Greenwich Ave, New York",40.7358404285,-74.0007618999
+81,2011-08-18 01:18:25,"The Rusty Knot, 425 West St, New York",40.7352202829,-74.0100008465
+82,2011-08-18 01:17:05,"The Biergarten at The Standard, 848 Washington St, New York",40.7405579801,-74.0077799625
+83,2011-08-18 01:17:03,"Wilfie & Nell, 228 W 4th St, New York",40.7340037494,-74.00299564
+84,2011-08-13 08:49:38,"Nam Long Le Shaker, 159 Old Brompton Road, London",51.490797,-0.183482
+85,2011-08-13 08:46:32,"Sweet and Vicious, 5 Spring St, New York",40.7212985741,-73.9942542004
+86,2011-08-13 08:45:33,"The Smith, 55 3rd Ave, New York",40.7311558721,-73.9887276473
+87,2011-08-10 12:28:07,"L'Artusi, 228 W 10th St, New York",40.733793607,-74.0050658125
+88,2011-08-10 12:25:22,"Otto Enoteca Pizzeria, 1 5th Ave, New York",40.732056086,-73.9960848719
+89,2011-08-10 12:24:41,"Babbo Ristorante, 110 Waverly Pl, New York",40.732317822,-73.9992365241
+90,2011-08-10 12:08:49,"Bill's Bar & Burger, 22 9th Ave, New York",40.7401424382,-74.0055421062
+91,2011-08-10 12:05:27,"Poco, 33 Avenue B, New York",40.7226302798,-73.9830500633
+92,2011-08-10 12:00:32,"Cookshop, 156 10th Ave, New York",40.7456589565,-74.0056511372
+93,2011-08-10 11:59:06,"Calle Ocho, 45 W 81st St, New York",40.7829037188,-73.9738057331
+94,2011-08-10 11:56:23,"Dos Caminos, 675 Hudson St, New York",40.740566936,-74.0054273368
+95,2011-08-10 11:52:43,"Agave, 140 7th Ave S, New York",40.7347432141,-74.0021506396
+96,2011-08-10 11:50:41,"Macondo, 157 E Houston St, New York",40.7230859252,-73.9890145958
+97,2011-08-10 11:48:49,"Parado, 8 Little West 12th St, New York",40.7396504214,-74.0068275195
+98,2011-08-10 11:47:53,"Essex Restaurant, 120 Essex St, New York",40.7196959138,-73.9876372389
+99,2011-08-10 11:36:58,"Pianos, 158 Ludlow St, New York",40.7211108516,-73.9878610601
+100,2011-08-10 11:32:07,"Lightship Frying Pan @ Pier 66 Maritime, 205 12th Ave, New York",40.7523754403,-74.0093983201
+101,2011-08-10 11:30:36,"Brother Jimmy's BBQ, 181 Lexington Ave, New York",40.7444889205,-73.9809339612
+102,2011-08-10 11:28:27,"The Patriot Saloon, 110 Chambers St, New York",40.7150434473,-74.0081416161
+103,2011-08-10 11:26:25,"Brass Monkey, 55 Little West 12th St, New York",40.7407279518,-74.008611043
+104,2011-07-27 06:54:47,"Souths, 273 Church St, New York",40.718678,-74.005269
+105,2011-07-25 01:17:45,"Agave, 140 7th Ave S, New York",40.7347432141,-74.0021506396
+106,2011-06-18 06:20:58,"XS Nightclub, Encore At Wynn Las Vegas, Las Vegas",36.1284028197,-115.164572629
+107,2011-06-18 06:19:57,"TAO Asian Bistro, 3377 Las Vegas Blvd S, Las Vegas",36.1224155309,-115.171051025
+108,2011-06-11 01:40:40,"St. Marks Karaoke, 6 Saint Marks Pl, New York",40.7293179861,-73.9895942305
+109,2011-06-01 07:03:15,"Japas 38, 9 E 38th St, New York",40.7505686153,-73.9815824906
+110,2011-06-01 07:02:26,"St. Marks Karaoke, 6 Saint Marks Pl, New York",40.7293179861,-73.9895942305
+111,2011-06-01 07:00:15,"East Japanese Restaurant (Japas 27), 366 3rd Ave, New York",40.7410860503,-73.9814964028
+112,2011-06-01 06:57:49,"Sing Sing Karaoke, 81 Avenue A, New York",40.7251207,-73.9843896
+113,2011-06-01 06:56:37,"Sing Sing Karaoke, 9 Saint Marks Pl, New York",40.7293558424,-73.9893072828
+114,2011-06-01 06:54:44,"Karaoke One 7, 29 W 17th St, New York",40.7386550376,-73.9939030119
+115,2011-06-01 06:52:59,"Karaoke Boho Orchard, 152 Orchard St, New York",40.720793903,-73.9887678201
+116,2011-06-01 05:33:18,"Galway Hooker, 133 7th Ave S, New York",40.7346346528,-74.0022080254
+117,2011-06-01 04:57:35,"Ace Bar, 531 E 5th St, New York",40.7246042374,-73.9829024994
+118,2011-06-01 04:55:46,"Off The Wagon Bar & Grill, 109 Macdougal St, New York",40.7298884553,-74.0006126959
+119,2011-05-31 02:18:39,"The Cheesecake Factory, 71 Isham Rd, West Hartford",41.7602659988,-72.7403245077
+120,2011-04-28 10:32:21,"Empelln Taqueria, 230 W 4th St, New York",40.7341805699,-74.0029253454
+121,2011-04-18 08:54:06,"Tia Pol, 205 10th Ave, New York",40.7472198086,-74.0046009946
+122,2011-04-04 10:23:47,"The Spotted Pig, 314 W 11th St, New York",40.7357439145,-74.0068217811
+123,2011-03-29 10:39:45,"Olive Garden, 2 Times Sq, New York",40.7593017542,-73.9849591255
+124,2011-03-04 02:02:04,"The Smile, 26 Bond St, New York",40.7264131828,-73.9938211441
+125,2011-02-25 09:30:10,"Rocking Horse Cafe, 182 8th Ave, New York",40.7430147225,-74.0002454239
+126,2011-02-13 13:31:02,"John Dory Oyster Bar, 1196 Broadway, New York",40.7458891424,-73.988521044
+127,2010-12-28 01:27:23,"Homegrown, 1531 Melrose Ave, Seattle",47.6148047064,-122.328069806
+128,2010-12-25 06:43:50,"Starbucks, 1600 E Olive Way, Seattle",47.6193643199,-122.324943237
+129,2010-10-17 03:31:43,"Bill's Bar & Burger, 22 9th Ave, New York",40.7401424382,-74.0055421062
+130,2010-09-11 11:43:02,"Klimat, 77 E 7th St, New York",40.7272449865,-73.9864377826
+131,2010-08-15 14:59:14,"East Japanese Restaurant (Japas 27), 366 3rd Ave, New York",40.7410860503,-73.9814964028
+132,2010-08-14 10:22:16,"Gnocco, 337 E 10th St, New York",40.7272018229,-73.9804570645
+133,2010-07-19 05:40:17,"The Half King, 505 W 23rd St, New York",40.7478032059,-74.0044747476
+134,2010-07-08 13:09:12,"Karaoke One 7, 29 W 17th St, New York",40.7386550376,-73.9939030119
+135,2010-06-21 11:09:42,"Father's Office, 1018 Montana Ave, Santa Monica",34.0293699777,-118.498447904
+136,2010-06-21 05:48:49,"Hotel Milo Santa Barbara, 202 W Cabrillo Blvd, Santa Barbara",34.4103302231,-119.691920079
+137,2010-06-03 01:32:19,"Brick Lane Curry House, 99 2nd Ave, New York",40.7272756966,-73.988521044
+138,2010-05-31 02:55:41,"Stranger's BBQ, Unclear, Marblehead",42.464504,-70.903756
+139,2010-05-29 13:00:58,"Paul & Daphne's House Of Dreams, Massachusetts Turnpike, Newtonville",42.3480930676,-71.2160297056
+140,2010-05-29 12:00:13,"Paul & Daphne's House Of Dreams, Massachusetts Turnpike, Newtonville",42.3480930676,-71.2160297056
+141,2010-05-29 11:55:26,"Paul & Daphne's House Of Dreams, Massachusetts Turnpike, Newtonville",42.3480930676,-71.2160297056
+142,2010-05-26 05:11:05,"Luke's Lobster, 93 E 7th St, New York",40.7268229975,-73.9854709756
+143,2010-04-22 11:08:45,"Karaoke One 7, 29 W 17th St, New York",40.7386550376,-73.9939030119
+144,2010-02-03 02:24:47,"Locanda Verde, 377 Greenwich St, New York",40.7200408704,-74.0101156132

@@ -1,0 +1,23 @@
+,time,poi,latitude,longitude
+0,2015-10-10 20:40:54,"LUSH, Friedrichstr. 96, Berlin",52.5196483983,13.3886432648
+1,2015-08-08 02:17:53,"Vienna International Airport (VIE), Abflugstr., Schwechat",48.1197881333,16.5631904547
+2,2015-03-16 06:44:07,"Mutter Hoppe, Rathausstr. 21, Berlin",52.517565795,13.4059381485
+3,2014-11-15 10:11:05,"Payard Ptisserie & Bistro, 3570 Las Vegas Blvd S, Las Vegas",36.1159813016,-115.176696757
+4,2014-11-12 01:38:54,"Starbucks, 2200 Westlake Ave, Seattle",47.6182,-122.33715
+5,2014-10-19 00:08:42,"Rockhal Caf, Avenue de Rock 'n' Roll 5, Esch-Uelzecht",49.5006665813,5.94727590943
+6,2013-08-16 08:48:04,"Stromboli Deep Dish Pizza, Calle 70 # 10 A - 25, Bogot",4.65429877789,-74.06008995
+7,2013-07-28 13:46:01,"Kukaramakara, Cra 13 # 93B - 31, Bogot",4.67778141242,-74.0488278866
+8,2013-07-28 13:44:30,"Kukaramakara, Cra 13 # 93B - 31, Bogot",4.67778141242,-74.0488278866
+9,2013-07-28 13:02:01,"Lipstick, Cl 85 11-64, Bogot",4.6683760605,-74.0520524847
+10,2013-04-29 22:23:48,"Reingold, Terminal 1, Frankfurt am Main",50.0471213,8.56188821402
+11,2013-01-04 07:13:04,"Tavolo Gourmet, Carrera 35 # 48-84, Bucaramanga",7.11605938837,-73.1098604278
+12,2013-01-04 07:06:37,"Libreria Abrapalabra, Carrera 35 No. 52-54, Bucaramanga",7.11278745705,-73.1091285044
+13,2012-11-10 22:13:59,"Bakers - The Bread Experience, Calle 85 #11-64, Bogot",4.668256,-74.052113
+14,2012-09-25 01:57:36,"Gd Pizza, Cll 80 No. 12A-29, Bogot",4.66544932631,-74.0555750132
+15,2012-09-25 01:13:59,"Cinemania, carrera 14, Bogot",4.67805485742,-74.050205139
+16,2012-09-25 01:10:53,"Compensar Av. 68 CEF, Av Cra 68 # 49A-47, Bogot",4.66037899725,-74.0995953486
+17,2012-08-06 08:56:17,"Ceylon Tea Room, Calle 127, Bogot",4.70197594053,-74.041518931
+18,2012-08-02 02:49:53,"Bagatelle, Diagonal 70A # 4-99, Bogot",4.65276776759,-74.054358773
+19,2012-03-13 01:51:09,"El Cotidiano Caf Brasserie, C.C. Andino, Bogot",4.66684478107,-74.0527925653
+20,2012-02-25 02:18:15,"To Wok, Cra 5 No 71-25, Bogot",4.65333085514,-74.0541063448
+21,2011-08-30 09:29:05,"Oma, Cra 12A # 83-49, Bogot",4.66787863421,-74.0538309682

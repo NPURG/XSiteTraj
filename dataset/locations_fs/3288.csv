@@ -1,0 +1,53 @@
+,time,poi,latitude,longitude
+0,2015-07-23 22:37:02,"Bread Brothers Bagel Caf, 220 Bushwick Ave, Brooklyn",40.708447,-73.939938
+1,2015-07-23 22:33:29,"The Cobra Club, 6 Wyckoff Ave, Brooklyn",40.706759587,-73.9232175936
+2,2015-07-23 22:31:23,"Bushwick Pita Palace, 243 Bushwick Ave, Brooklyn",40.7074084156,-73.9396933408
+3,2015-07-23 22:17:21,"Danny's Pizzeria, 241 Bushwick Ave, Brooklyn",40.7077323786,-73.9398540729
+4,2015-04-22 23:34:14,"The Atlantic ChipShop, 129 Atlantic Ave, Brooklyn",40.690667991,-73.9959299255
+5,2015-04-22 23:31:54,"The Atlantic ChipShop, 129 Atlantic Ave, Brooklyn",40.690667991,-73.9959299255
+6,2014-08-29 21:12:09,"Concourse D, Terminal B (Central Terminal), East Elmhurst",40.7759268076,-73.8746023178
+7,2014-08-29 04:28:40,"Buffalo Wild Wings, 139 Flatbush Ave, Brooklyn",40.6846572179,-73.9775454998
+8,2014-08-22 01:01:05,"Mamoun's Falafel, 30 Saint Marks Pl, New York",40.7289690611,-73.9884464373
+9,2014-07-29 23:05:29,"Black Brick, 300 Bedford Ave, Brooklyn",40.7140699738,-73.9615719941
+10,2014-06-18 23:49:04,"Time Warner Cable, 43 W 23rd St, New York",40.7422897925,-73.9914306854
+11,2014-06-17 01:03:04,"The Grand, 647 Grand St, Brooklyn",40.7114193256,-73.946415273
+12,2014-06-17 00:59:34,"The Anchored Inn, 57 Waterbury St, Bushwick",40.7091251274,-73.9371943474
+13,2014-02-15 11:45:56,"Megabus Bus Stop - South Side White Marsh Mall, 8000-8098 Honeygo Blvd, White Marsh",39.3726110905,-76.4691445887
+14,2013-11-16 04:50:37,"Vanessa's Dumpling House, 220 E 14th St, New York",40.7329359021,-73.9864435217
+15,2013-10-15 01:39:02,"Chipotle Mexican Grill, 2 Broadway, New York",40.7042372265,-74.0130421412
+16,2013-08-30 06:02:52,"Foley's NY Pub & Restaurant, 18 W 33rd St, New York",40.7484202166,-73.9863000455
+17,2013-08-20 04:39:53,"The Mud House, 2101 Cherokee St, St Louis",38.5929586379,-90.2222585678
+18,2013-08-20 04:38:37,"Meshuggah Caf, 6269 Delmar Blvd, St Louis",38.65575711,-90.302315
+19,2013-08-20 04:36:21,"MoKaBe's Coffeehouse, 3606 Arsenal St, St Louis",38.6026853069,-90.2428150177
+20,2013-08-20 04:35:34,"Kaldi19s Coffee House, 700 DE Mun Ave, St Louis",38.638676,-90.30783
+21,2013-07-25 22:56:30,"Barney's BBQ, 14 Weis Ave, Ellisville",38.5917306131,-90.5921529016
+22,2013-07-09 03:21:28,"Gate A4, 2200 Norview Ave, Norfolk",36.89894477,-76.20241642
+23,2013-07-04 03:33:40,"Baggage Claim, 2200 Norview Ave, Norfolk",36.898768088,-76.2062856796
+24,2013-06-19 21:31:41,"Cup, 221 Montrose Ave, Brooklyn",40.707617,-73.940327
+25,2013-05-14 05:15:27,"Marblewaters Hotel & Suites, 45 Kernan Blvd N, Jacksonville",30.3209044645,-81.4884625074
+26,2013-05-13 21:12:23,"Enterprise, 13657 Atlantic Blvd, Jacksonville",30.32167947,-81.4476591
+27,2013-05-10 02:18:07,"Hale & Hearty, 55 Broad St, New York",40.7050999376,-74.0110968658
+28,2013-03-27 03:20:07,"Nielsen, 85 Broad St, New York",40.7039825029,-74.0111886787
+29,2013-03-25 07:09:09,"Pat's King of Steaks, 1237 E Passyunk Ave, Philadelphia",39.933178408,-75.1592624187
+30,2013-03-12 02:32:09,"Nielsen, 85 Broad St, New York",40.7039825029,-74.0111886787
+31,2013-02-28 23:40:36,"The Patriot Saloon, 110 Chambers St, New York",40.7150434473,-74.0081416161
+32,2013-01-25 05:06:41,"Tacos Nuevo Mexico, 489 5th Ave, Brooklyn",40.667522,-73.987633
+33,2013-01-22 23:40:00,"Brooklyn Museum, 200 Eastern Pkwy, Brooklyn",40.6712859549,-73.963686869
+34,2013-01-22 23:38:24,"Gorilla Coffee, 97 5th Ave, Brooklyn",40.6796683848,-73.97820175
+35,2013-01-19 01:41:27,"International Tap House (iTap), 161 Long Rd, Chesterfield",38.6632963274,-90.6187963486
+36,2013-01-19 01:38:55,"Iron Barley, 5510 Virginia Ave, St Louis",38.5648341754,-90.2459778564
+37,2013-01-19 01:36:20,"Llywelyn's Pub, 1732 S 9th St, St Louis",38.6098854802,-90.2032136126
+38,2013-01-19 01:35:30,"Blueberry Hill, 6504 Delmar Blvd, St Louis",38.6559240408,-90.3049639284
+39,2013-01-19 01:33:18,"Cicero's, 6691 Delmar Blvd, St Louis",38.6564109329,-90.3084383648
+40,2013-01-19 01:31:33,"Black Bear Bakery, 2639 Cherokee St, St Louis",38.5936025752,-90.2270746257
+41,2013-01-19 01:29:27,"Local Harvest Grocery, 3108 Morganford Rd, St Louis",38.6041193981,-90.2611446478
+42,2013-01-19 00:48:56,"Shakespeare in the Park, Shakespeare Glen, St Louis",38.6386361736,-90.2915464164
+43,2013-01-19 00:43:58,"Conoco, 4363 S Broadway, St Louis",38.5761591161,-90.233391479
+44,2013-01-17 23:18:33,"St. Louis Skatium, 120 E Catalan St, St Louis",38.5396565906,-90.2654957771
+45,2013-01-17 23:15:58,"Tivoli Theatre, 6350 Delmar Blvd, St Louis",38.6557754086,-90.3033346755
+46,2013-01-17 12:08:48,"Tower Grove Park, 4256 Magnolia Ave, St Louis",38.6064582288,-90.2583503723
+47,2013-01-17 01:54:55,"The Schlafly Tap Room, 2100 Locust St, St Louis",38.6329813676,-90.2098241765
+48,2013-01-17 01:45:41,"Star Clipper, 6392 Delmar Blvd, St Louis",38.655915,-90.30438
+49,2013-01-17 01:43:44,"Mad Art, 2727 S 12th St, St Louis",38.60058741,-90.21378109
+50,2013-01-17 01:22:39,"Atomic Cowboy, 4140 Manchester Ave, St Louis",38.6274846481,-90.2517431994
+51,2013-01-17 00:35:17,"James S. McDonnell Planetarium, at Saint Louis Science Center, St Louis",38.6315892096,-90.2709138393

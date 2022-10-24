@@ -1,0 +1,67 @@
+,time,poi,latitude,longitude
+0,2016-01-07 12:04:15,"805 Boba, Paseo Nuevo, Santa Barbara",34.4190306722,-119.69999294
+1,2015-03-12 08:55:44,"Hot Yoga 1000, 1714 Newbury Rd, Newbury Park",34.1829442733,-118.917131424
+2,2013-10-25 10:56:04,"Zuzu Candies, 32 W Anapamu St, Santa Barbara",34.422653,-119.705465
+3,2013-08-06 01:29:24,"Good Cup, 918 State St, Santa Barbara",34.421041,-119.701197
+4,2013-08-02 06:36:40,"C Casa, 610 1st St, Napa",38.301769176,-122.281668336
+5,2013-07-31 05:23:30,"Malone's Collision Repair, 559 Work St, Salinas",36.668891,-121.640138
+6,2013-07-07 09:14:05,"Taqueria Cuernavaca, 201 W Carrillo St, Santa Barbara, CA 93101, Santa Barbara",34.4191170591,-119.70416779
+7,2013-04-23 07:34:28,"The Habit, 5735 Hollister Ave, Goleta",34.4355508484,-119.824709507
+8,2013-04-11 11:43:29,"Granada Bistro, 1126 Morro St, San Luis Obispo",35.2801705667,-120.66131
+9,2013-04-10 14:19:59,"DoubleTree by Hilton Hotel & Spa Napa Valley - American Canyon, 3600 Broadway St, American Canyon",38.1728871419,-122.252629692
+10,2013-04-09 23:18:31,"Breakfast Buzz, 295 Santa Rosa St, San Luis Obispo",35.2886120102,-120.665373802
+11,2013-03-24 10:36:21,"Bettie Page Clothing, 807 State St, Santa Barbara",34.4197786505,-119.699744029
+12,2013-02-28 01:54:49,"Blenders in the Grass, 5743 Calle Real, Goleta",34.4409466604,-119.824479818
+13,2013-01-13 08:13:34,"Riviera Theatre, 2044 Alameda Padre Serra, Santa Barbara",34.4388646987,-119.706752968
+14,2013-01-11 10:03:46,"Museum Cafe, 1130 State St, Santa Barbara",34.423061,-119.703927
+15,2013-01-04 12:15:35,"Cold Stone Creamery, 504 State St, Santa Barbara",34.4170636516,-119.695619962
+16,2013-01-02 10:03:33,"Silvergreens, 791 Chapala St, Santa Barbara",34.4184428825,-119.700473789
+17,2012-11-07 01:41:37,"The Coffee Bean & Tea Leaf, 3052 DE La Vina St, Santa Barbara",34.44015121,-119.7294312
+18,2012-09-23 03:02:27,"Carpinteria Bluffs, 6000 Carpinteria Ave, Carpinteria",34.3870788419,-119.498645273
+19,2012-09-07 08:05:50,"CKE Restaurants, Inc., 6307 Carpinteria Ave #A, Carpinteria",34.3846660983,-119.490923577
+20,2012-08-29 04:21:08,"Albertsons, 1018 Casitas Pass Rd, Carpinteria",34.3950109516,-119.512308772
+21,2012-06-05 07:08:53,"Santa Barbara Cottage Hospital, 400 W Pueblo St, Santa Barbara",34.4303281778,-119.723274708
+22,2012-04-13 11:11:31,"San Marcos Pass, San Marcos Pass Rd, Santa Barbara",34.5083476441,-119.817740405
+23,2012-04-09 23:35:58,"Java Station, 4447 Hollister Ave, Santa Barbara",34.439503,-119.77198114
+24,2012-04-08 05:38:41,"The India Club, 5701 Calle Real, Goleta",34.440868,-119.823493
+25,2012-04-07 14:47:39,"San Marcos Pass, San Marcos Pass Rd, Santa Barbara",34.5083476441,-119.817740405
+26,2012-03-17 02:52:41,"Jersey Mike's Subs, 7034 Market Place Dr., Goleta",34.42951559,-119.8725521
+27,2012-02-18 05:44:21,"The Chocolate Gallery, 5705 Calle Real, Goleta",34.440907,-119.823631
+28,2012-01-12 04:05:39,"Montecito Village Grocery, 1482 E Valley Rd, Santa Barbara",34.4378063243,-119.633257747
+29,2012-01-08 05:23:22,"The India Club, 5701 Calle Real, Goleta",34.440868,-119.823493
+30,2011-11-13 08:59:25,"The Chocolate Gallery, 5705 Calle Real, Goleta",34.440907,-119.823631
+31,2011-11-12 05:23:16,"Your Choice Thai Cuisine, 3404 State St, Santa Barbara",34.4406114833,-119.73685
+32,2011-11-07 05:24:13,"Caf International, 5664 Calle Real, Goleta",34.4415342711,-119.823042154
+33,2011-11-05 06:53:50,"Mika, 7020 Market Place Dr, Goleta",34.4297352727,-119.871976376
+34,2011-11-05 06:51:51,"Sushi Ai, 7020 Market Place Dr, Goleta",34.4294013977,-119.872215271
+35,2011-10-23 06:15:54,"The India Club, 5701 Calle Real, Goleta",34.440868,-119.823493
+36,2011-10-23 06:03:12,"The India Club, 5701 Calle Real, Goleta",34.440868,-119.823493
+37,2011-10-16 09:26:58,"The Habit, 3890 LA Cumbre Plaza Ln, Santa Barbara",34.4382744694,-119.749732018
+38,2011-07-31 05:54:02,"Backyard Bowls, 5668 Calle Real, Goleta",34.4415374691,-119.82319476
+39,2011-07-09 05:54:56,"Cafe Zoma, 7127 Hollister Ave, Goleta",34.4285849,-119.876351
+40,2011-05-27 11:34:54,"Rice Bowl, 6 Hemenway St, Boston",42.3466666532,-71.0890209675
+41,2011-03-08 09:07:18,"Carl's Jr., 5820 Calle Real, Goleta",34.4417332716,-119.826258148
+42,2011-02-04 06:41:41,"Coral Tree Cafe, University Rd, Santa Barbara",34.415731,-119.846694
+43,2011-01-26 09:15:28,"University Center, UC University Rd, Santa Barbara",34.4115655613,-119.847804308
+44,2010-12-08 06:34:58,"Nicoletti's, University Rd, Santa Barbara",34.4115036023,-119.848212004
+45,2010-11-24 03:52:28,"Panda Express, University Rd, Bldg 558, Santa Barbara",34.4115301562,-119.847621918
+46,2010-10-03 02:40:37,"Crushcakes Cupcakery & Crushcafe, 1315 Anacapa St, Santa Barbara",34.4256591238,-119.705321792
+47,2010-09-29 12:56:24,"Starbucks, 7030 Market Place Dr, Goleta",34.4295251208,-119.872387277
+48,2010-09-03 07:56:46,"Whole Foods Market, 3761 State Street, Santa Barbara",34.4394327859,-119.745338287
+49,2010-05-27 00:53:20,"Java Station, 4447 Hollister Ave, Santa Barbara",34.439503,-119.77198114
+50,2010-03-20 00:45:13,"Chevron, 62450 Chiriaco Rd, Chiriaco Summit",33.6607639017,-115.720431805
+51,2010-03-15 03:57:26,"Java Station, 4447 Hollister Ave, Santa Barbara",34.439503,-119.77198114
+52,2010-03-13 08:51:50,"Java Station, 4447 Hollister Ave, Santa Barbara",34.439503,-119.77198114
+53,2010-03-13 01:31:36,"Starbucks, 7030 Market Place Dr, Goleta",34.4295251208,-119.872387277
+54,2010-02-10 10:53:58,"The Habit, 628 State St, Santa Barbara",34.4184872205,-119.697526439
+55,2010-01-17 06:49:22,"Pacific Health Foods, 5880 Calle Real, Goleta",34.4418664347,-119.826913772
+56,2010-01-15 06:33:42,"Natural Cafe, 6990 Market Place Dr, Goleta",34.4361790653,-119.828931493
+57,2009-12-25 08:17:52,"Yogurtland, 621 State St, Santa Barbara",34.41822142,-119.6975208
+58,2009-12-15 10:41:16,"Starbucks, 7030 Market Place Dr, Goleta",34.4295251208,-119.872387277
+59,2009-12-12 11:16:22,"Mika, 7020 Market Place Dr, Goleta",34.4297352727,-119.871976376
+60,2009-12-04 18:26:53,"Cardigans Knit Shop, 3030 State St, Santa Barbara",34.4405,-119.729523
+61,2009-12-03 04:09:13,"Mika, 7020 Market Place Dr, Goleta",34.4297352727,-119.871976376
+62,2009-12-03 04:06:29,"Mika, 7020 Market Place Dr, Goleta",34.4297352727,-119.871976376
+63,2009-11-26 09:55:46,"Apple, 8500 Beverly Boulevard, Los Angeles",34.075453,-118.37822
+64,2009-11-21 14:57:28,"Metropolitan Camino Real Theater, 7040 Market Place Dr, Goleta",34.4295494359,-119.872598648
+65,2009-11-16 01:38:20,"Chicago Midway International Airport (MDW), 5700 S Cicero Ave, Chicago",41.7854250716,-87.7508282661

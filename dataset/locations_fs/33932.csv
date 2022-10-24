@@ -1,0 +1,46 @@
+,time,poi,latitude,longitude
+0,2014-05-25 03:08:01,"Humble, 10 S Allen St, Madison",43.0675553386,-89.4240117073
+1,2014-05-25 03:07:23,"Humble, 10 S Allen St, Madison",43.0675553386,-89.4240117073
+2,2013-09-24 03:08:25,"Bahn Thai, 306 S Brearly St, Madison",43.080839,-89.36839014
+3,2013-07-16 00:17:39,"Starbucks, 1 E Main St, Madison",43.0739336758,-89.3828056057
+4,2013-07-10 06:10:17,"Tnt's Coffee & Cafe, 729 N High Point Rd, Madison",43.0758771577,-89.5176402981
+5,2013-07-07 07:58:00,"Shanghai Bistro, 2930 Craig Rd, Eau Claire",44.787954,-91.519718
+6,2013-04-02 06:48:44,"Ian's Pizza on State, 100 State St, Madison",43.0747501464,-89.3869972229
+7,2013-02-27 03:01:41,"Francisco's Cantina, 110 E Main St, Madison",43.0751668016,-89.3813576679
+8,2013-01-20 01:41:13,"Sundance Cinema, 430 N Midvale Blvd, Madison",43.0714898589,-89.4528508186
+9,2012-10-25 01:59:14,"Lambert-St. Louis International Airport (STL), 10701 Lambert International Blvd, St Louis",38.7422713336,-90.364912487
+10,2012-10-11 23:06:18,"Meshuggah Caf, 6269 Delmar Blvd, St Louis",38.65575711,-90.302315
+11,2012-10-07 10:42:34,"Gokul Indian Restaurant, 6101 Delmar Blvd, St Louis",38.6552383667,-90.2961319685
+12,2012-10-07 10:37:21,"Gokul Indian Restaurant, 6101 Delmar Blvd, St Louis",38.6552383667,-90.2961319685
+13,2012-05-28 09:49:00,"Rearn Thai Restaurant, 7910 Bonhomme Ave, St Louis",38.64774522,-90.339308
+14,2012-04-16 23:17:08,"Rooster, 1104 Locust St, St Louis",38.6302045981,-90.1955057629
+15,2012-04-10 02:56:41,"Bamboo Bistro, 214 4th Street, St Louis",38.62744882,-90.1877224445
+16,2012-03-27 07:27:25,"Rearn Thai Restaurant, 7910 Bonhomme Ave, St Louis",38.64774522,-90.339308
+17,2011-09-16 00:57:56,"Village Caf, Forsyth Blvd, St Louis",38.6509578254,-90.314350665
+18,2011-08-29 11:39:19,"Pete and Gadi's Happy House, 6609 Kingsbury Blvd, St Louis",38.653666,-90.306302
+19,2011-08-16 22:01:03,"Blackberry Cafe, 7351 Forsyth Blvd, St Louis",38.648557,-90.326957
+20,2011-08-15 11:49:38,"Central Cafe And Bakery, 331 N Euclid Ave, St Louis",38.6455932229,-90.2614701408
+21,2011-08-15 11:48:55,"Central Cafe And Bakery, 331 N Euclid Ave, St Louis",38.6455932229,-90.2614701408
+22,2011-05-19 23:51:16,"J.P. Licks Jamaica Plain, 659 Centre St, Boston",42.312744,-71.1141629777
+23,2011-03-31 06:42:38,"Crazy Bowls and Wraps - Clayton, 7353 Forsyth Blvd, St Louis",38.64859,-90.3272455931
+24,2011-02-17 08:06:32,"Blackberry Cafe, 7351 Forsyth Blvd, St Louis",38.648557,-90.326957
+25,2011-02-09 13:16:44,"Kaldi19s Coffee House, 700 DE Mun Ave, St Louis",38.638676,-90.30783
+26,2011-02-09 13:15:11,"Kaldi19s Coffee House, 700 DE Mun Ave, St Louis",38.638676,-90.30783
+27,2011-02-09 13:14:14,"Kaldi19s Coffee House, 700 DE Mun Ave, St Louis",38.638676,-90.30783
+28,2011-01-28 07:40:35,"SUBWAY, 1 Brookings Dr, St Louis",38.6477712768,-90.3092094837
+29,2011-01-19 08:34:24,"Kaldi19s Coffee House, 700 DE Mun Ave, St Louis",38.638676,-90.30783
+30,2010-06-19 00:26:28,"Victor Allen's Coffee, 2623 Monroe St, Madison",43.0573494897,-89.4285956025
+31,2010-06-05 06:29:06,"Michelangelo's Coffee House, 114 State St, Madison",43.0749617221,-89.3870889744
+32,2010-04-24 06:59:33,"Noodles & Company, 6310 Delmar Blvd, University City",38.6556932,-90.30254
+33,2010-04-24 06:59:09,"Noodles & Company, 6310 Delmar Blvd, University City",38.6556932,-90.30254
+34,2010-04-24 02:38:13,"John M. Olin Library, Washington University, St Louis",38.648359965,-90.3076672611
+35,2010-04-22 22:30:59,"Wong's Wok, 565 Melville Ave, St Louis",38.6555053247,-90.305491
+36,2010-04-22 14:31:54,"Washington University, 1 Brookings Dr, St Louis",38.6484468325,-90.3084383648
+37,2010-04-22 14:30:14,"Edison Theater, 6445 Forsyth, St Louis",38.6474631869,-90.3096271794
+38,2010-04-12 05:34:25,"The Mud House, 2101 Cherokee St, St Louis",38.5929586379,-90.2222585678
+39,2010-04-06 01:21:56,"Saint Louis Bubble Tea, 6675 Delmar Blvd, St Louis",38.6563051391,-90.3079013445
+40,2010-04-04 11:14:13,"Whispers Cafe, Washington University, St Louis",38.6483829933,-90.3076386452
+41,2010-03-12 05:42:58,"Barriques Coffee, 1901 Cayuga St, Middleton",43.0961643672,-89.5138366368
+42,2010-03-02 07:16:09,"Danforth University Center, 6475 Forsyth Blvd, St Louis",38.6478140544,-90.3104947157
+43,2009-11-30 15:34:13,"Lopata Hall, Washington University in St. Louis, 1 Brookings Dr, St Louis",38.64919885,-90.3060378956
+44,2009-11-30 15:32:00,"Lopata Hall, Washington University in St. Louis, 1 Brookings Dr, St Louis",38.64919885,-90.3060378956

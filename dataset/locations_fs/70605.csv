@@ -1,0 +1,84 @@
+,time,poi,latitude,longitude
+0,2016-09-05 06:32:01,"Tom & Eddie's, 348 Yorktown Shopping Ctr, Lombard",41.838032,-88.00953968
+1,2016-08-27 08:50:30,"Steamboat BBQ, 322 E Geneva Rd, Wheaton",41.8878856631,-88.1035435845
+2,2016-08-25 11:17:10,"Ogilvie Transportation Center, 500 W Madison St, Chicago",41.8836609258,-87.6406179808
+3,2016-08-06 09:13:29,"Portage Bay Cafe, 4130 Roosevelt Way NE, Seattle",47.6575269087,-122.317774786
+4,2016-08-06 09:12:54,"Pike Place Market, 85 Pike St, Seattle",47.6092378269,-122.3409419
+5,2016-08-06 09:12:31,"Starbucks, 1912 Pike Pl, Seattle",47.61002179,-122.3426186
+6,2016-08-06 09:12:00,"Emmett's Brewing Company, 121 W Front St, Wheaton",41.8650817643,-88.1076113837
+7,2016-08-06 09:09:02,"Joseph's Pizza, 1977 Bloomingdale Rd, Glendale Heights",41.9315644961,-88.0793579474
+8,2015-11-13 15:16:33,"moontree asian tapas, 1728 W Marine View Dr #112, Everett",47.995086961,-122.22312904
+9,2015-09-17 10:43:38,"First Tracks Lodge Whistler, 2202 Gondola Way, Whistler",50.0936453009,-122.989860029
+10,2015-09-17 10:40:57,"The Coffee Bean & Tea Leaf, 3701 Ocean View Blvd, Montrose",34.20532697,-118.2282526
+11,2015-08-30 22:22:28,"Starbucks, 2063 Lake Placid Road, Whistler",50.0945763804,-122.990952095
+12,2015-06-10 00:22:27,"Arosa Cafe, 3121 E Madison St Ste 101, Seattle",47.6262035852,-122.291822433
+13,2015-05-04 10:00:24,"Starbucks, 2921 Martin Luther King Jr Way S, Seattle",47.576967,-122.296749
+14,2015-05-04 09:58:42,"Brass Tacks, 6031 Airport Way S, Seattle",47.548551675,-122.316080332
+15,2015-05-04 09:56:50,"Red Mill Burgers, 312 N 67th St, Seattle",47.6778414,-122.354736328
+16,2015-05-04 09:56:15,"Starbucks, 522 Orange St, Redlands",34.0606449899,-117.182861725
+17,2015-04-09 07:31:16,"Elemental PIzza, 2630 NE University Village St, Seattle",47.6635267741,-122.299177051
+18,2015-04-03 09:55:43,"National, 341 10th Ave SW, Calgary",51.0433508846,-114.070189672
+19,2015-03-18 05:20:36,"Essential Bakery Cafe, 2719 E Madison St, Seattle",47.6230146806,-122.29665041
+20,2015-03-10 09:38:31,"Target, 1415 2nd Ave, Seattle",47.6086971086,-122.338304443
+21,2015-02-28 04:20:42,"Le Fournil, 3230 Eastlake Ave E Ste A, Seattle",47.6509135712,-122.321892939
+22,2014-12-08 09:40:31,"Taste of India, 5517 Roosevelt Way NE, Seattle",47.6689421485,-122.317528725
+23,2014-12-01 05:55:34,"Market Optical, 2602 NE University Village St, Seattle",47.663662,-122.299606204
+24,2014-11-17 06:28:07,"Jake's Coffee, 1116 NE 47th St, Seattle",47.6630935669,-122.315872192
+25,2014-11-03 04:30:08,"Cultured Caveman, 1477 NE Alberta St, Portland",45.5590821857,-122.650233954
+26,2014-11-01 12:14:37,"Cultured Caveman, N Denver, Kenton",45.582889,-122.686942
+27,2014-10-02 05:10:45,"Pho Cyclo Cafe, 500 108th Ave NE, Bellevue",47.6146184709,-122.196035385
+28,2014-09-28 00:22:31,"Comcast Service Center, 12645 Stone Ave N, Seattle",47.721956938,-122.34284383
+29,2014-09-25 14:28:28,"Dilettante Mocha Caf & Chocolate Martini Bar, 538 Broadway E #100, Seattle",47.6241539848,-122.320878648
+30,2014-09-25 14:26:53,"8oz Burger Bar, 1401 Broadway, Seattle",47.6130250832,-122.320784479
+31,2014-09-25 14:22:13,"ber Tavern, 7517 Aurora Ave N, Seattle",47.6837656225,-122.344694138
+32,2014-09-25 14:18:47,"Canon, 928 12th Ave, Seattle",47.611202,-122.316686511
+33,2014-09-25 13:45:29,"US Post Office, 1150 23rd Ave, Seattle",47.6124478776,-122.302349426
+34,2014-09-09 04:43:02,"Java Kai, 4-1384 Kuhio Hwy, #C, Kapa18a",22.07636022,-159.31786716
+35,2014-08-17 17:19:47,"NRT - GATE 23 (Terminal 1), 10307a2f, 103002",35.7648027027,140.382297635
+36,2014-06-15 04:30:31,"Pica Border Grill, 4151 California Ave SW, Seattle",47.565027,-122.387029
+37,2014-05-04 09:07:53,"OPA Pizzaria, 8000 SE 13th Ave, Portland",45.4656600952,-122.652885437
+38,2014-03-15 06:46:15,"Paleterias Tropicana, 830 Southwest Blvd, Kansas City",39.0845485123,-94.5944760937
+39,2014-02-20 07:42:10,"Foggy Goggle Bar & Grill (Stevens Pass), Stevens Pass, Leavenworth",47.7445553889,-121.090879936
+40,2014-02-08 09:45:38,"Roy Street Coffee & Tea, 700 Broadway E, Seattle",47.6253521678,-122.321209785
+41,2014-02-07 07:24:43,"Seven Teriyaki, 2739 E Madison St, Seattle",47.623265,-122.296209
+42,2014-01-30 00:51:27,"El Portal Coffee Roasters, 2310 E Madison St, Seattle",47.6196649335,-122.301972895
+43,2014-01-21 13:52:39,"8oz Burger Bar, 1401 Broadway, Seattle",47.6130250832,-122.320784479
+44,2014-01-08 23:39:37,"The BottleNeck Lounge, 2328 E Madison St, Seattle",47.6199144301,-122.301679887
+45,2014-01-03 08:39:03,"Umpqua Bank, 539 Broadway E Ste 12, Seattle",47.624115766,-122.320905557
+46,2013-12-31 13:40:14,"Oliver's Twist, 6822 Greenwood Ave N, Seattle",47.6795009,-122.355089
+47,2013-12-16 13:10:01,"The Pub at Third Place, 6504 20th Ave NE, Seattle",47.6758053915,-122.306241989
+48,2013-12-15 05:20:44,"Espresso Vivace, 532 Broadway E, Seattle",47.62375214,-122.320998
+49,2013-11-20 00:47:41,"Chaco Canyon Organic Cafe, 4757 12th Ave NE, Seattle",47.6647464495,-122.315357734
+50,2013-11-17 07:59:52,"Boxcar And Caboose, 394 Railroad St #2, Saint Johnsbury",44.418239258,-72.0159129009
+51,2013-11-15 02:49:08,"Russell House Tavern, 14 JFK St, Cambridge",42.373137668,-71.1195123196
+52,2013-11-11 05:21:26,"Trader Joe's, 1700 Madison St, Seattle",47.6158515905,-122.309991717
+53,2013-10-17 05:35:19,"Shays Pub & Wine Bar, 58 JFK St, Cambridge",42.3717922621,-71.1207745628
+54,2013-10-03 08:59:27,"C'est What, 67 Front St E, Toronto",43.6484238985,-79.3735250831
+55,2013-10-02 09:12:11,"Shoeless Joe's, 50 Biscayne Cres., Brampton",43.6813424852,-79.7151494804
+56,2013-09-19 02:43:26,"Shine in the Market, 86 Pine St, Seattle",47.6097629417,-122.341288003
+57,2013-08-27 06:38:42,"Chocolati Cafe, 1716 N 45th St, Seattle",47.66152446,-122.33686987
+58,2013-08-15 10:51:26,"Atrium Lounge - Marriott Marquis, 1535 Broadway Ste 400, New York",40.7584212393,-73.9854047521
+59,2013-08-14 10:50:49,"Millennium Broadway Hotel, 145 W 44th St, New York",40.7567999133,-73.9850087555
+60,2013-08-12 12:30:49,"Headlines Salon, University Village, Seattle",47.6626948952,-122.299268246
+61,2013-07-07 08:25:20,"Starbucks, 4634 26th Ave NE, Seattle",47.662687,-122.299743
+62,2013-06-10 04:43:44,"The Printing Office Of Edes & Gill, 21 Unity Street, Boston",42.365963,-71.054063
+63,2013-06-10 03:00:45,"Starbucks, 27 School St, Boston",42.357727,-71.05922
+64,2013-06-06 03:12:45,"Shine in the Market, 86 Pine St, Seattle",47.6097629417,-122.341288003
+65,2013-04-23 23:24:15,"Moose's Tooth Pub & Pizzeria, 3300 Old Seward Hwy, Anchorage",61.1904597,-149.8690459
+66,2013-04-15 03:35:46,"Kaladi Brothers Coffee - Southside, 9900 Old Seward Hwy, Anchorage",61.131005,-149.864612
+67,2013-02-17 11:33:26,"Third Place Books, 6504 20th Ave NE, Seattle",47.67619698,-122.30641073
+68,2013-02-08 23:56:53,"Hemispheres Restaurant & Bistro, 110 Chestnut Street, Toronto",43.6547813,-79.3859473
+69,2012-08-24 07:29:38,"Cast Iron Steakhouse, 1206 E Market St, Jeffersonville",38.2787650824,-85.7236517
+70,2011-11-28 09:57:01,"Muskan Indian Restaurant, 2330 Washington St, Port Townsend",48.1089222494,-122.772326028
+71,2011-09-17 08:33:35,"Studio M Hotel, 3 Nanson Rd, Singapore",1.29082725989,103.839286566
+72,2011-06-14 05:24:31,"Better Living Through Coffee, 100 Tyler St, Port Townsend",48.113772,-122.757266
+73,2011-02-14 09:24:52,"Seattle-Tacoma International Airport (SEA), 17801 International Blvd, SeaTac",47.4435885342,-122.302508354
+74,2011-01-09 10:53:09,"Red Mill Burgers, 312 N 67th St, Seattle",47.6778414,-122.354736328
+75,2011-01-08 13:35:48,"Roanoke Park Place Tavern, 2409 10th Ave E, Seattle",47.6417250805,-122.320263701
+76,2010-12-15 02:52:40,"Arosa Cafe, 3121 E Madison St Ste 101, Seattle",47.6262035852,-122.291822433
+77,2010-12-15 02:51:33,"Arosa Cafe, 3121 E Madison St Ste 101, Seattle",47.6262035852,-122.291822433
+78,2010-11-17 22:26:41,"Starbucks, Concourse B, Gate 8, SeaTac",47.4414463373,-122.303744094
+79,2010-11-01 09:24:32,"CenturyLink Field, 800 Occidental Ave S, Seattle",47.5950157041,-122.331955611
+80,2010-10-03 05:22:02,"Starbucks, 1912 Pike Pl, Seattle",47.61002179,-122.3426186
+81,2009-11-19 12:07:35,"Taste of India, 5517 Roosevelt Way NE, Seattle",47.6689421485,-122.317528725
+82,2009-11-19 01:11:56,"Starbucks, 4000 East Madison St, Seattle",47.6340734305,-122.280818849

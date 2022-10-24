@@ -1,0 +1,161 @@
+,time,poi,latitude,longitude
+0,2015-11-13 14:45:28,"Giordano Bros., 3108 16th St, San Francisco",37.7649407493,-122.422295964
+1,2015-11-13 14:44:22,"La Taqueria, 2889 Mission St, San Francisco",37.7509015677,-122.418175709
+2,2015-11-13 14:42:24,"The Market, 1355 Market St Ste 100, San Francisco",37.7765691414,-122.417301862
+3,2015-11-13 14:41:26,"Harvey's, 500 Castro St, San Francisco",37.760776,-122.435154
+4,2015-11-13 14:40:26,"Tacorgasmico, 2337 Market St, San Francisco",37.7631834015,-122.433915138
+5,2015-11-13 14:39:43,"Five50, 3730 Las Vegas Blvd S, Las Vegas",36.1067712699,-115.177531242
+6,2015-11-13 14:39:10,"Sea Lions at Pier 39, Pier 39's West Marina, San Francisco",37.8106178335,-122.41106858
+7,2015-11-13 14:38:36,"Boudin Bakery Caf Pier 39, Pier 39, Space 5-Q, San Francisco",37.8088541171,-122.409977025
+8,2015-09-27 14:07:39,"Dolores Park Cafe, 501 Dolores St, San Francisco",37.7613131702,-122.425785363
+9,2014-12-26 09:39:54,"Ali'i Sushi & BBQ, 2126 Columbus Pkwy, Benicia",38.0819454653,-122.193730605
+10,2014-12-26 09:39:30,"Ali'i Sushi & BBQ, 2126 Columbus Pkwy, Benicia",38.0819454653,-122.193730605
+11,2014-12-26 09:39:07,"Ali'i Sushi & BBQ, 2126 Columbus Pkwy, Benicia",38.0819454653,-122.193730605
+12,2014-12-01 11:13:12,"Lucky 13, 2140 Market St, San Francisco",37.7671187904,-122.429838181
+13,2014-12-01 10:51:44,"Cups and Cakes, 451 9th St, San Francisco",37.7720001444,-122.40951435
+14,2014-10-24 14:31:35,"The Velvet Scoop, 3280 22nd St #A, San Francisco",37.7553706937,-122.420493027
+15,2014-10-24 14:30:07,"Arlequin Cafe & Food To Go, 384 Hayes St, San Francisco",37.7770587479,-122.422683094
+16,2014-10-24 14:29:17,"Delirium, 3139 16th St, San Francisco",37.7648091496,-122.422842979
+17,2014-10-05 22:42:57,"Golden Gate Tap Room, 449 Powell St, San Francisco",37.788966,-122.408756
+18,2014-10-05 22:37:09,"Church of 8 Wheels, 554 Fillmore Street, San Francisco",37.7747090891,-122.430825233
+19,2014-10-05 22:35:38,"Oasis Inn, 3344 State St, Santa Barbara",34.4405788113,-119.736114297
+20,2014-10-05 22:34:28,"Chop Bar, 247 4th St, Oakland",37.7955037979,-122.270392778
+21,2014-10-05 22:33:11,"Ideal Bar & Grill, 106 Beach St, Santa Cruz",36.962722,-122.023038
+22,2014-10-05 22:32:17,"Nick's Seafood Restaurant, 100 Rockaway Beach Ave, Pacifica",37.6094639124,-122.496974454
+23,2014-08-18 13:36:30,"Colibr Mexican Bistro, 438 Geary St, San Francisco",37.7870511218,-122.410565256
+24,2014-08-18 13:33:30,"Gallardo's, 3248 18th St, San Francisco",37.7621601855,-122.416101694
+25,2014-08-18 13:31:44,"Fire Sign Cafe, 1785 W Lake Blvd, Tahoe City",39.1404127004,-120.154852867
+26,2014-08-18 13:25:54,"Dolce Amore, 1477 Van Ness Ave, San Francisco",37.789265,-122.422317
+27,2014-08-11 23:40:34,"Sweet Maple, 2101 Sutter St, San Francisco",37.7857072788,-122.435073853
+28,2014-07-29 03:32:07,"Atlas Cafe, 3049 20th St, San Francisco",37.7589471664,-122.411477875
+29,2014-07-22 09:12:58,"Doc's Clock, 2575 Mission St, San Francisco",37.7558490349,-122.418750895
+30,2014-05-24 10:37:15,"Piattini, 2331 Mission St, San Francisco",37.7597669448,-122.41916016
+31,2014-04-30 03:10:14,"Rosamunde Sausage Grill, 2832 Mission St, San Francisco",37.7517866031,-122.41852967
+32,2014-03-14 10:39:11,"Tropisueo, 75 Yerba Buena Ln, San Francisco",37.7855526675,-122.403966502
+33,2014-03-10 09:07:34,"Buddy V's Ristorante, 3327 Las Vegas Blvd S, Las Vegas",36.1229601793,-115.17069265
+34,2014-01-25 11:55:24,"Doc's Clock, 2575 Mission St, San Francisco",37.7558490349,-122.418750895
+35,2013-12-01 05:33:43,"DoubleDutch CSM Office, 2601 Mission St #803, San Francisco",37.7557150261,-122.418640283
+36,2013-11-26 04:51:16,"Zaytoon, 1136 Valencia St, San Francisco",37.754726,-122.420849
+37,2013-10-25 04:33:40,"La Corneta Taqueria, 2731 Mission St, San Francisco",37.7534203582,-122.418326139
+38,2013-10-10 13:19:46,"Pub 1842, 3799 Las Vegas Blvd S, Las Vegas",36.1035491687,-115.168463517
+39,2013-09-18 06:50:33,"Mission Picnic, 3275 22nd St, San Francisco",37.7553610257,-122.42042666
+40,2013-09-08 03:40:15,"Garlic Brothers Restaurant & Bar, 6629 Embarcadero Dr, Stockton",38.0015493782,-121.36956
+41,2013-09-02 03:24:09,"Dobbs Ferry Bar, 406 Hayes St, San Francisco",37.7770215328,-122.423142117
+42,2013-08-04 01:47:22,"Tahoe Tree Company, 401 W Lake Blvd, Sunnyside-Tahoe City",39.1599040696,-120.146190402
+43,2013-07-28 03:36:10,"Tropisueo, 75 Yerba Buena Ln, San Francisco",37.7855526675,-122.403966502
+44,2013-07-21 23:13:35,"Jin Wang, 300 Grant Ave, San Francisco",37.7896821916,-122.405399125
+45,2013-07-21 23:12:42,"Steve Madden, 33 Grant Ave, San Francisco",37.7870871873,-122.404873648
+46,2013-07-08 04:55:14,"Benefit Counter & Brow Bar, 845 Market St, San Francisco",37.7866080866,-122.40666026
+47,2013-07-05 10:45:37,"Sunshine Market, 4300 23rd St, San Francisco",37.7528659451,-122.438637128
+48,2013-07-05 07:03:45,"Syd's Bagelry, 550 N Lake Blvd, Tahoe City",39.17179,-120.13974
+49,2013-07-05 07:01:45,"The Bridgetender, 65 West Lake Blvd, Tahoe City",39.1666148339,-120.144391662
+50,2013-07-05 06:59:11,"Lol Cevicheria, 3230 22nd St, San Francisco",37.7554710435,-122.419653833
+51,2013-06-15 01:10:10,"DoubleDutch, 2601 Mission St #802, San Francisco",37.755737577,-122.418380343
+52,2013-05-02 05:33:24,"Anthony's Cookies, 1417 Valencia St, San Francisco",37.750302,-122.42056126
+53,2013-01-06 10:07:37,"Bluestem Brasserie, 1 Yerba Buena Ln, San Francisco",37.786267678,-122.404912367
+54,2013-01-05 23:46:07,"Savor Restaurant, 3913 24th St, San Francisco",37.7513837814,-122.430028
+55,2013-01-05 23:38:49,"Upper Noe Recreation Center, 295 Day St, San Francisco",37.7425223524,-122.428185712
+56,2012-12-23 03:34:41,"Puerto Alegre, 546 Valencia St, San Francisco",37.7641261172,-122.421864589
+57,2012-12-22 23:38:33,"Eric's Restaurant, 1500 Church St, San Francisco",37.746917,-122.427069
+58,2012-10-30 04:15:44,"La Corneta Taqueria, 2731 Mission St, San Francisco",37.7534203582,-122.418326139
+59,2012-09-02 22:46:36,"Philz Coffee, 4298 24th St, San Francisco",37.7511109684,-122.438498888
+60,2012-09-02 04:51:25,"Puerto Alegre, 546 Valencia St, San Francisco",37.7641261172,-122.421864589
+61,2012-08-18 13:08:41,"Lers Ros Thai, 307 Hayes St, San Francisco",37.7771082281,-122.421643371
+62,2012-07-17 03:58:31,"Cha-Ya Vegetarian Japanese Restaurant, 762 Valencia St, San Francisco",37.760768,-122.4215427
+63,2012-07-04 04:56:33,"The Blue Fig, 990 Valencia St, San Francisco",37.757112,-122.4211575
+64,2012-06-29 15:19:35,"Creme Brulee From A Cart, Panoramic Dr, Alameda",37.7646218651,-122.432880683
+65,2012-05-29 00:16:53,"Tropisueo, 75 Yerba Buena Ln, San Francisco",37.7855526675,-122.403966502
+66,2012-05-29 00:16:18,"Elixir, 3200 16th St, San Francisco",37.7648457896,-122.424387932
+67,2012-05-29 00:14:25,"Jump Start Coffee & Grocery, 1192 Guerrero St, San Francisco",37.752084993,-122.42303704
+68,2012-05-29 00:09:47,"The Sycamore, 2140 Mission St, San Francisco",37.7627158279,-122.419635791
+69,2012-05-29 00:08:58,"Mission Bar, 2695 Mission St, San Francisco",37.753993567,-122.41861816
+70,2012-05-08 08:28:57,"Sudachi Sushi & Korean BBQ, 1217 Sutter St, San Francisco",37.7875653,-122.420459
+71,2012-05-08 08:27:32,"Latin American Club, 3286 22nd St, San Francisco",37.7554137862,-122.420675755
+72,2012-05-08 08:26:18,"Rosewood, 732 Broadway, San Francisco",37.797685,-122.409105
+73,2012-05-08 08:25:16,"Puerto Alegre, 546 Valencia St, San Francisco",37.7641261172,-122.421864589
+74,2012-05-08 08:24:45,"Grand Coffee, 2663 Mission St, San Francisco",37.754473,-122.418769
+75,2012-04-13 11:29:43,"The Crystal Ship, 45 Rose St, San Francisco",37.773448,-122.422128
+76,2012-03-15 10:23:37,"The Little Chihuahua, 4123 24th St, San Francisco",37.751296,-122.43459
+77,2012-01-01 06:26:27,"El Adobe de Capistrano, 31891 Camino Capistrano, San Juan Capistrano",33.4997634367,-117.662726782
+78,2011-12-31 10:43:40,"Oeeshi Japanese Grill, 31882 Del Obispo St, San Juan Capistrano",33.497701,-117.660875
+79,2011-12-31 08:30:24,"Golden Spoon, 2445 E Pacific Coast Hwy, Corona del Mar",33.6036685315,-117.873875827
+80,2011-12-30 00:49:19,"alexanders shoe repair, 3281 Mission St, San Francisco",37.7444793842,-122.420714248
+81,2011-12-29 09:54:51,"Neva's Beauty, 2439 Lombard St, San Francisco",37.799073,-122.4415521
+82,2011-12-17 09:59:09,"Ciao Gourmet Market, Post Sec- C 18601 Airport Way, Santa Ana",33.6769634727,-117.863328716
+83,2011-12-16 23:28:26,"Hilton Irvine/Orange County Airport, 18800 MacArthur Blvd, Irvine",33.6749102734,-117.860781981
+84,2011-12-16 01:00:18,"John Wayne Airport (SNA), 18601 Airport Way, Santa Ana",33.6785125659,-117.862458824
+85,2011-12-06 11:39:20,"Budget Car Rental, 9775 Airport Boulevard, Los Angeles",33.94766022,-118.3864609
+86,2011-11-30 06:35:05,"El Porvenir Produce Market, 2950 21st St, San Francisco",37.757381,-122.413514
+87,2011-11-04 23:31:05,"Larkins Bros. Tires, 370 S Van Ness Ave, San Francisco",37.7672098998,-122.417799624
+88,2011-10-03 23:43:18,"Jamba Juice Potrero Center, 2300 16th St. #245, San Francisco",37.76653184,-122.4089723
+89,2011-09-29 09:30:46,"Rogue Ales Public House, 673 Union St, San Francisco",37.800208624,-122.410653752
+90,2011-08-23 23:01:20,"Philz Coffee, 3101 24th St, San Francisco",37.7523522,-122.4142997
+91,2011-08-17 10:04:40,"Mollie Stone's Markets, 4201 18th St, San Francisco",37.7607902182,-122.436596695
+92,2011-08-14 22:54:45,"Hero Cafe, 8691 Irvine Center Dr, Irvine",33.643852,-117.742934
+93,2011-08-14 22:51:26,"Sudachi Sushi & Korean BBQ, 1217 Sutter St, San Francisco",37.7875653,-122.420459
+94,2011-08-14 22:42:19,"Blue Light, 1979 Union St, San Francisco",37.7975401539,-122.431735993
+95,2011-08-14 22:41:24,"Universal Cafe, 2814 19th St, San Francisco",37.76049396,-122.410557
+96,2011-08-14 22:39:33,"Auto City Car Wash, 505 S Van Ness Ave, San Francisco",37.76462976,-122.417204976
+97,2011-08-14 22:38:30,"Murphy's Pub, 217 Kearny St, San Francisco",37.7900955034,-122.403911188
+98,2011-08-14 22:37:44,"Sunrise Bistro, 1559 Botelho Dr, Walnut Creek",37.89453735,-122.060818
+99,2011-08-14 22:36:52,"Mayfield Bakery & Cafe, 855 El Camino Real Ste 110, Palo Alto",37.4382000337,-122.158744633
+100,2011-08-14 22:36:25,"Boxing Room, 399 Grove St, San Francisco",37.777814,-122.423098
+101,2011-07-25 02:36:00,"River Ranch Lodge, Hwy 89 & Alpine Meadows Rd, Tahoe City",39.1857528842,-120.195322109
+102,2011-07-21 03:28:35,"Kafe 99, 470 Treat St, San Francisco",37.7622062762,-122.414027638
+103,2011-05-23 04:38:39,"Cowgirl Creamery at Pt Reyes Station, 80 4th St., Point Reyes Station",38.0682310504,-122.807140989
+104,2011-03-04 18:10:04,"Patxi19s Pizza, 4042 24th St, San Francisco",37.7514099623,-122.432869624
+105,2011-01-27 12:59:33,"Asiento, 2730 21st St, San Francisco",37.7577040415,-122.409431934
+106,2011-01-09 16:57:36,"Nelly's Bridal Boutique, 439 Linden Ave, South San Francisco",37.65702,-122.40978
+107,2011-01-09 05:21:06,"Megan Haney Designs, 13 Fiesta Ln, San Francisco",37.890853,-122.12083
+108,2010-11-23 06:37:18,"Norm's Market, 2201 Bryant St, San Francisco",37.7592496647,-122.409840685
+109,2010-11-02 01:49:22,"Haystack Pizza, 3881 24th St, San Francisco",37.7515683,-122.429222
+110,2010-09-11 04:27:14,"Heavenly Gondola, 4075 Lake Shore Blvd, South Lake Tahoe",38.9567057214,-119.942808151
+111,2010-07-16 11:53:32,"Barnes & Noble, 1150 El Camino Real Ste 277, San Bruno",37.6360656684,-122.418524623
+112,2010-06-08 07:48:34,"John Wayne Airport (SNA), 18601 Airport Way, Santa Ana",33.6785125659,-117.862458824
+113,2010-05-19 13:21:01,"Oola Restaurant & Bar, 860 Folsom St, San Francisco",37.7809613442,-122.4026113
+114,2010-04-26 00:31:30,"Casa Sanchez, 2778 24th St, San Francisco",37.7531594038,-122.407867
+115,2010-03-22 15:32:13,"Walmart, 1021 Arnold Dr, Martinez",37.9965741472,-122.109298415
+116,2010-03-11 14:13:00,"Otoro Sushi, 205 Oak St, San Francisco",37.7749857803,-122.422959614
+117,2010-03-11 00:33:42,"Starbucks, 2727 Mariposa St, San Francisco",37.762913,-122.41042
+118,2010-02-23 12:04:41,"Holiday Inn Long Beach (Dwtn Area), 1133 Atlantic Ave, Long Beach",33.7817589019,-118.185384185
+119,2010-02-19 05:52:16,"Osha Thai Restaurant, 819 Valencia St, San Francisco",37.75978,-122.421345
+120,2010-01-31 13:54:56,"Fire pad, Haight street, San Francisco",37.771392,-122.436738
+121,2010-01-20 05:06:50,"Manora's Thai Cuisine, 1600 Folsom St, San Francisco",37.770825,-122.4153255
+122,2010-01-19 10:28:46,"Valley Tavern, 4054 24th St, San Francisco",37.751466,-122.433093
+123,2010-01-16 04:50:32,"alexanders shoe repair, 3281 Mission St, San Francisco",37.7444793842,-122.420714248
+124,2010-01-13 04:28:11,"El Metate, 2406 Bryant St, San Francisco",37.7557557821,-122.409529
+125,2009-12-25 14:15:49,"Alberta Glen, Alberta Glen, Burlingame",37.5747978012,-122.398534527
+126,2009-12-25 12:34:05,"Nob Hill Foods, 520 Center Ave, Martinez",37.9925470823,-122.120502181
+127,2009-12-24 05:27:07,"Nola, 535 Ramona St, Palo Alto",37.4450149552,-122.161358342
+128,2009-12-22 22:04:21,"San Francisco International Airport (SFO), N McDonnell Rd, San Francisco",37.6164236222,-122.384715469
+129,2009-12-16 01:58:55,"Sunflower, 288 Connecticut St, San Francisco",37.7625927139,-122.39763839
+130,2009-12-12 10:07:13,"Jay 'n Bee Club, 2736 20th St, San Francisco",37.759348,-122.40889246
+131,2009-12-11 04:54:42,"Dos Pias, 251 Rhode Island St, San Francisco",37.7663067095,-122.402549386
+132,2009-12-11 04:12:10,"The Plant, 3352 Steiner St, San Francisco",37.8004170247,-122.437691689
+133,2009-12-11 00:47:05,"Telekenex, 3221 20th St, San Francisco",37.758708,-122.41304
+134,2009-12-04 06:42:40,"Blowfish Sushi to Die For, 2170 Bryant St, San Francisco",37.75963095,-122.410067
+135,2009-12-04 06:41:20,"Blowfish Sushi to Die For, 2170 Bryant St, San Francisco",37.75963095,-122.410067
+136,2009-12-02 01:57:44,"Pacific Catch, Westcoast Fish House, 1200 9th Ave, San Francisco",37.7657792749,-122.466325573
+137,2009-12-01 08:19:25,"Pirate Salon, 3150 18th St, San Francisco",37.762714,-122.41417
+138,2009-12-01 08:16:12,"El Tepa Taqueria, 2198 Folsom St, San Francisco",37.7621501684,-122.415192
+139,2009-12-01 08:04:03,"flour + water, 2401 Harrison St, San Francisco",37.7590497592,-122.412401549
+140,2009-12-01 07:42:19,"Canyon Market, 2815 Diamond St, San Francisco",37.7341788969,-122.433754206
+141,2009-12-01 06:05:34,"Velvet Cantina, 3349 23rd St, San Francisco",37.75384,-122.41953022
+142,2009-12-01 05:51:05,"Whole Foods Market, 450 Rhode Island St, San Francisco",37.7642987323,-122.402796149
+143,2009-11-29 13:40:52,"San Francisco-Oakland Bay Bridge, Interstate 80, San Francisco",37.8176371823,-122.355583296
+144,2009-11-23 09:07:17,"The Mix, 4086 18th St, San Francisco",37.761177401,-122.434517514
+145,2009-11-22 04:19:59,"Whole Foods Market, 3950 24th Street, San Francisco",37.7520015986,-122.430908382
+146,2009-11-20 11:27:15,"Pizza Antica, 800 Redwood Hwy Frontage Rd #705, Mill Valley",37.8986616539,-122.514381439
+147,2009-11-20 11:26:03,"Pizza Antica, 800 Redwood Hwy Frontage Rd #705, Mill Valley",37.8986616539,-122.514381439
+148,2009-11-14 00:24:21,"Coffee Bar, 1890 Bryant St, San Francisco",37.7631240298,-122.410998344
+149,2009-10-29 10:37:08,"Fresca, 3945 24th St, San Francisco",37.7514268765,-122.430744767
+150,2009-10-28 09:49:04,"El Torito, 18512 MacArthur Blvd, Irvine",33.6789701914,-117.859109938
+151,2009-10-26 23:45:25,"Atlas Cafe, 3049 20th St, San Francisco",37.7589471664,-122.411477875
+152,2009-10-25 07:18:20,"Tiki Tom's, 1535 Olympic Blvd, Walnut Creek",37.896165,-122.06076667
+153,2009-10-21 10:25:21,"Pirate Salon, 3150 18th St, San Francisco",37.762714,-122.41417
+154,2009-10-20 23:02:10,"Philz Coffee, 3101 24th St, San Francisco",37.7523522,-122.4142997
+155,2009-10-20 22:10:44,"Avalon at Diamond Heights, 5285 Diamond Heights Blvd, San Francisco",37.744890813,-122.438250057
+156,2009-10-20 05:15:59,"Zuni Cafe, 1658 Market St, San Francisco",37.7736485283,-122.421560414
+157,2009-10-20 05:13:17,"Good Noodle Restaurant, 239 Clement St, San Francisco",37.7830215782,-122.461897462
+158,2009-10-20 04:00:22,"Monk19s Kettle, 3141 16th St, San Francisco",37.7648027162,-122.422926432
+159,2009-10-20 03:36:29,"Shotwell19s, 3349 20th St, San Francisco",37.7587918721,-122.415797501

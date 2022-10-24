@@ -1,0 +1,53 @@
+,time,poi,latitude,longitude
+0,2012-03-20 23:57:55,"Robertson Private Investment Group, 8840 Wilshire Blvd, Beverly Hills, CA 90211, Beverly Hills",34.066665512,-118.38479104
+1,2012-02-17 22:20:27,"Starbucks, 12100 Santa Monica Blvd, West Los Angeles",34.040344,-118.463325
+2,2012-02-17 18:56:02,"Santa Monica Motel, 2102 Lincoln Blvd, Santa Monica",34.010551,-118.481515
+3,2012-01-30 09:41:08,"Poom Thai Cuisine, 2204 Lincoln Blvd, Santa Monica",34.010134,-118.48059851
+4,2012-01-29 03:12:35,"The Coffee Bean & Tea Leaf, 200 Santa Monica Blvd, Santa Monica",34.0148869,-118.4967506
+5,2012-01-27 09:07:53,"Donut King, 1912 Lincoln Blvd, Santa Monica",34.0117757331,-118.482909235
+6,2012-01-14 05:50:33,"Santa Monica Tobacco, 1434 4th St, Santa Monica",34.0157091076,-118.494359522
+7,2012-01-13 05:01:32,"Venice Beach Care Center, 410 Lincoln Blvd, Venice",34.0008303913,-118.466348255
+8,2012-01-13 04:15:18,"Santa Monica Motel, 2102 Lincoln Blvd, Santa Monica",34.010551,-118.481515
+9,2012-01-13 02:37:51,"7-Eleven, 1865 Lincoln Blvd, Santa Monica",34.0126858232,-118.483070532
+10,2012-01-10 00:45:08,"Rest Haven Motel, 815 Grant St, Santa Monica",34.0113302122,-118.480936147
+11,2012-01-08 19:42:37,"Jack in the Box, 2025 Lincoln Blvd, Santa Monica",34.01124542,-118.481218
+12,2012-01-05 09:47:34,"Stay Hotel, 636 S Main St, Los Angeles",34.044446,-118.250735
+13,2011-12-02 03:21:52,"Ono Hawaiian BBQ, 12115 Santa Monica Blvd, Los Angeles",34.040543,-118.463799483
+14,2011-12-01 22:34:18,"Marty, 638 S Main St, Los Angeles",34.044621,-118.250822
+15,2011-11-01 00:12:18,"Stilly Smoke Signals, 2700 Washington 530, Arlington",48.18796605,-122.19389515
+16,2011-10-28 03:19:14,"Squalicum Family Medicine, 3015 Squalicum Pkwy #120, Bellingham",48.7736004,-122.471176733
+17,2011-10-28 03:17:03,"Squalicum Family Medicine, 3015 Squalicum Pkwy #120, Bellingham",48.7736004,-122.471176733
+18,2011-10-24 13:31:04,"Stay Hotel, 636 S Main St, Los Angeles",34.044446,-118.250735
+19,2011-10-23 09:54:10,"AB Chinese Fast Food, 100 W 7th St, Los Angeles",34.0440736665,-118.251277538
+20,2011-10-20 00:42:10,"Clara Shortridge Foltz Criminal Justice Center, 210 W Temple St, Los Angeles",34.0550937081,-118.243676847
+21,2011-10-19 02:44:03,"Los Angeles Superior Metropolitan Courthouse, 1945 S Hill St, Los Angeles",34.0311265079,-118.267511394
+22,2011-10-19 00:18:03,"7-Eleven, 501 S Broadway, Los Angeles",34.048085,-118.25102
+23,2011-10-17 21:09:21,"Wilshire Treatment Center, 11901 Santa Monica Blvd, Los Angeles",34.0486628417,-118.368962156
+24,2011-09-16 06:54:15,"The Habit Burger Grill, 4770 Lankershim Blvd., North Hollywood",34.15750924,-118.3693166
+25,2010-11-30 13:13:44,"Le Mandarette, 1651 N LA Brea Ave, Los Angeles",34.1013125925,-118.345090478
+26,2010-02-20 01:41:41,"Los Angeles Public Library - Central, 630 W 5th St, Los Angeles",34.0505615701,-118.255366087
+27,2010-02-19 12:29:49,"Casey's Irish Pub, 613 S Grand Ave, Los Angeles",34.0484329962,-118.255668768
+28,2010-02-18 09:16:42,"Golfo De Fonseca, 808 N Vermont Ave, Los Angeles",34.0858981,-118.291769028
+29,2010-01-17 02:00:58,"Levitt Pavilion (MacArthur Park), 2230 W 6th St, Los Angeles",34.0602465955,-118.278262691
+30,2010-01-15 03:12:47,"Ralphs, 645 W 9th St, Los Angeles",34.0454884347,-118.260682285
+31,2010-01-13 04:44:02,"Caf Tropical, 2900 W Sunset Blvd, Los Angeles",34.0828105319,-118.273523753
+32,2010-01-12 01:32:13,"Jack in the Box, 2120 W Pico Blvd, Los Angeles",34.0470412104,-118.283829347
+33,2010-01-11 00:54:04,"Saint James In The City Episcopal Church, 3903 Wilshire Blvd, Los Angeles",34.06209398,-118.312110855
+34,2009-12-27 09:54:10,"Tawada Sushi & Teriyaki, 4601 W Pico Blvd, Los Angeles",34.048913,-118.335773349
+35,2009-11-14 01:27:57,"Aladdin Bail Bonds, 900 Avila St, Los Angeles",34.0573114881,-118.232073784
+36,2009-11-09 16:35:14,"Roscoe's House of Chicken and Waffles, 5006 W Pico Blvd, Los Angeles",34.047617737,-118.346266165
+37,2009-11-09 16:34:18,"Living Earth Wellness Center, 4207 W Pico Blvd, Los Angeles",34.0521303423,-118.333835435
+38,2009-11-06 22:49:28,"PLS Loan Store, 1570 S Western Ave, Los Angeles",34.0437044874,-118.30873148
+39,2009-10-31 07:52:09,"El Compita, 4477 W Pico Blvd, Los Angeles",34.0485160767,-118.332790938
+40,2009-10-31 03:23:08,"Tom's Number 5 Chili Burgers, 4497 W Pico Blvd, Los Angeles",34.0485411381,-118.333527223
+41,2009-10-29 10:44:24,"Capitol Burgers, 4301 W Pico Blvd, Los Angeles",34.0480106308,-118.328093476
+42,2009-10-29 02:17:02,"Pico Union Pawnshop, 4579 W Pico Blvd, Los Angeles",34.0489883,-118.3355103
+43,2009-10-29 02:11:33,"Wilshire / Vermont Metro Station, 3191 Wilshire Blvd., Los Angeles",34.0623041404,-118.29040633
+44,2009-10-29 01:28:49,"Huicho's Bakery, 1250 S Vermont Ave, Los Angeles",34.0475238508,-118.291131381
+45,2009-10-29 00:57:27,"L.A. Wonderland Caregivers, 4410 W Pico Blvd, Los Angeles",34.0480219527,-118.330741879
+46,2009-10-28 07:09:03,"Vanilla Bake Shop, 512 Wilshire Blvd, Santa Monica",34.020114,-118.49689
+47,2009-10-28 07:04:50,"ArcLight Cinemas, 6360 W Sunset Blvd, Los Angeles",34.0972604362,-118.328127723
+48,2009-10-28 05:40:43,"Santa Monica Public Library - Main, 601 Santa Monica Blvd, Santa Monica",34.0186619516,-118.493344539
+49,2009-10-28 04:59:46,"Urban Outfitters, 1440 3rd Street Promenade, Santa Monica",34.01471914,-118.4953061
+50,2009-10-28 04:27:56,"Wahoo's Fish Taco, 418 Wilshire Blvd, Santa Monica",34.019506,-118.497751951
+51,2009-10-25 01:56:54,"The Farmacy, 8208 Santa Monica Blvd, West Hollywood",34.0909023787,-118.36032811

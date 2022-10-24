@@ -1,0 +1,66 @@
+,time,poi,latitude,longitude
+0,2013-08-19 03:04:42,"brgr, 287 7th Ave, New York",40.7461190385,-73.9940935137
+1,2013-08-16 07:27:14,"Sookk, 2686 Broadway, New York",40.7987952234,-73.9688697682
+2,2013-08-12 01:19:35,"Wondee Siam I, 792 9th Ave, New York",40.765040724,-73.9879127111
+3,2013-07-24 22:39:10,"0ef030 Din Tai Fung, 9 Dongdaqiao Rd, 17ac02",39.9178425349,116.442945435
+4,2013-07-23 21:58:16,"Kingrand Hotel, No. 18 Zhushikou East Street, Dongcheng District, Beijing",39.888785,116.395982
+5,2013-07-22 10:41:38,"a653b3 McDonald's, 46 Tiantan E Rd, 17ac02",39.8851197423,116.414239412
+6,2013-05-15 11:39:11,"The Breslin, 16 W 29th St, New York",40.7458373458,-73.9879926535
+7,2013-05-13 06:18:29,"Unos/Vienna Hot Dogs, Terminal 1, Concourse C, Chicago",41.976991762,-87.9106450081
+8,2013-05-13 02:45:34,"Springfield-Branson National Airport (SGF), 2300 N Airport Blvd, Springfield",37.2390438103,-93.3967820738
+9,2013-05-11 11:06:07,"McDonald's, H/K Apex Food Court, Terminal 3, Chicago",41.9752693375,-87.9003658605
+10,2013-04-22 06:18:29,"Apple Upper West Side, 1981 Broadway, New York",40.775072,-73.982612
+11,2013-03-23 11:57:48,"Lumberyard Rotisserie & Grill, 264 E 3rd Ave, Cannon Beach",45.9007047443,-123.95908035
+12,2013-03-19 08:09:01,"Din Tai Fung Dumpling House, 700 Bellevue Way NE, Bellevue",47.6171316897,-122.200798988
+13,2013-03-04 23:54:49,"Cheeseboy, 720 Atlantic Ave, Boston",42.3514886339,-71.0549912646
+14,2013-03-04 00:50:31,"Tiecoon, Penn Corridor, New York",40.7499864244,-73.9919873573
+15,2013-03-03 08:09:54,"121 Fulton Street, 121 Fulton St, New York",40.7102049986,-74.0071201793
+16,2013-03-03 00:07:44,"brgr, 287 7th Ave, New York",40.7461190385,-73.9940935137
+17,2013-02-27 08:31:00,"Rare Bar & Grill, 152 W 26th St, New York",40.7457379575,-73.9936745798
+18,2013-02-25 07:44:44,"Pax Wholesome Foods, 225 W 42nd St, New York",40.7567670731,-73.9882627897
+19,2013-01-27 09:17:05,"Oishi Japanese Restaurant, 11025 International Dr, Orlando",28.4060854638,-81.4556837082
+20,2012-08-25 09:38:02,"brgr, 287 7th Ave, New York",40.7461190385,-73.9940935137
+21,2012-05-21 11:02:42,"Empire State Building, 350 5th Ave, New York",40.7484977301,-73.9853817958
+22,2012-05-08 12:05:37,"Pinkberry, near Gate 51B, Terminal 2, San Francisco",37.6173928719,-122.381805182
+23,2012-05-03 09:19:28,"Lenny's Bagels, 2601 Broadway, New York",40.79600176,-73.970776
+24,2012-05-03 09:18:15,"Junoon, 27 W 24th St, New York",40.7430110074,-73.9910461791
+25,2012-04-17 06:29:50,"Johnny Rockets, 4600 International Gtwy, Columbus",39.9993723037,-82.885399003
+26,2012-04-08 00:23:22,"Schnipper's Quality Kitchen, 620 8th Ave, New York",40.7563801581,-73.9902216196
+27,2012-03-31 07:02:58,"Bobby Van's, Terminal 8, Jamaica",40.6483083157,-73.790850375
+28,2012-03-14 15:14:36,"Regent Berlin, Charlottenstr. 49, Berlin",52.5151239965,13.3908748627
+29,2012-03-12 02:26:02,"Terminal 8, John F. Kennedy International Airport, Jamaica",40.6470588771,-73.7902644059
+30,2012-02-03 20:30:49,"MTA Subway - 96th St (1/2/3), Broadway, New York",40.7942248207,-73.9720953782
+31,2012-02-02 07:11:03,"Terakawa Ramen, 885C 9th Ave, New York",40.7682326974,-73.9853645785
+32,2012-02-02 06:48:37,"Deluxe, 2896 Broadway, New York",40.8060195022,-73.9652997241
+33,2012-01-30 21:26:45,"Drago Shoe Repair, 2851 Broadway, New York",40.804522,-73.966331
+34,2012-01-16 03:39:25,"Prince Street Pizza, 27 Prince St, New York",40.7228912921,-73.9946329615
+35,2012-01-05 13:12:23,"Duane Reade, 2522 Broadway, New York",40.7933444098,-73.9716591779
+36,2012-01-03 03:52:58,"Solomon R Guggenheim Museum, 1071 5th Ave, New York",40.7829907897,-73.9589738846
+37,2011-12-25 01:22:14,"Manhattan Cruise Terminal, 711 12th Ave, New York",40.7661963711,-73.9979212646
+38,2011-12-24 07:12:05,"Chase Bank, 2551 Broadway, New York",40.7945275116,-73.9718428413
+39,2011-12-19 06:30:37,"Mobil On the Run, 409 Main St, New Paltz",41.7415573611,-74.0622814053
+40,2011-12-12 21:35:59,"Brad's Cafe at Columbia University School of Journalism, 2950 Broadway, New York",40.8071992327,-73.9636516571
+41,2011-12-12 21:32:27,"Columbia University: Graduate School of Journalism, 2950 Broadway, New York",40.807606529,-73.963686869
+42,2011-12-10 06:51:36,"Phoenix Sky Harbor International Airport (PHX), 3400 E Sky Harbor Blvd, Phoenix",33.4354918997,-111.999335053
+43,2011-12-10 04:30:03,"Chili's Grill & Bar, 3400 E Sky Harbor Blvd, Phoenix",33.4356494742,-111.998105049
+44,2011-12-09 01:43:44,"Gate A15, Terminal A, Newark",40.6870187583,-74.1857074259
+45,2011-11-28 02:53:34,"Ollies to Go, 2425 Broadway, New York",40.7905820064,-73.975045681
+46,2011-11-24 07:38:05,"AAMCAR Car Rental, 315 W 96th St, New York",40.7957479241,-73.9738976955
+47,2011-11-19 23:06:34,"RCI Appliances, 2599 Broadway, New York",40.795837714,-73.9709704385
+48,2011-10-23 01:49:30,"Sprint Store, 209 W 125th St, New York",40.8094486548,-73.9487761259
+49,2011-10-22 09:44:52,"The Heights Bar & Grill, 2867 Broadway, New York",40.805167569,-73.9660286613
+50,2011-03-15 23:42:24,"Atlantic City Aquarium, 800 N New Hampshire Ave, Atlantic City",39.3765929301,-74.4199327675
+51,2011-03-15 08:42:03,"P.F. Chang's, 2801 N Pacific Ave. #101 The Quarter at the Tropicana, Atlantic City",39.3536684,-74.4452637
+52,2011-02-13 09:06:08,"Manhattan Fruit Exchange, 75 9th Ave, New York",40.7426421418,-74.0066324127
+53,2011-01-31 22:36:21,"Van Wyck Expressway (I-678), Interstate 678, Queens",40.6942453412,-73.8104391306
+54,2011-01-31 22:32:49,"SreeOffice, 2950 Broadway #207D, New York",40.8076102816,-73.9629062652
+55,2011-01-31 06:04:55,"Broadway Barber Shop, 206 W 96th St, New York",40.7944756623,-73.9710794891
+56,2011-01-29 11:53:12,"Quince, 1625 Hinman Ave, Evanston",42.0463721178,-87.6774405601
+57,2010-12-09 05:04:50,"Stabile Student Center, 2950 Broadway, New York",40.807681,-73.963848
+58,2010-12-01 03:07:22,"Milano Market, 2892 Broadway, New York",40.805854893,-73.9654489556
+59,2010-11-28 12:27:09,"Aplus at Sunoco, New Jersey Tpke S, Hamilton Township",40.1773322241,-74.630856514
+60,2010-11-28 08:22:03,"Regal Cinemas Bel Air Cinema 14, 409 Constant Friendship Blvd, Abingdon",39.45524377,-76.31655375
+61,2010-11-25 22:06:02,"APlus at Sunoco, Nj Tpk Milepost 30.2 South, Cherry Hill",39.885523,-75.0025792
+62,2010-11-21 02:16:29,"Bank of America Winter Village at Bryant Park, 42nd St, New York",40.7535965987,-73.9835643768
+63,2010-11-20 12:01:02,"Coppola's West, 206 West 79th Street, New York",40.7833456063,-73.9788563568
+64,2010-11-14 03:47:52,"Bhatti Indian Grill, 100 Lexington Ave, New York",40.7422132695,-73.9830896258

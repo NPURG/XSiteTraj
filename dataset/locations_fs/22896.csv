@@ -1,0 +1,89 @@
+,time,poi,latitude,longitude
+0,2016-07-16 03:32:25,"Nobir, Mendoza 1627, Buenos Aires",-34.5564872209,-58.4496001866
+1,2016-06-24 19:06:18,"mid., 43e305283a55-7, 0b373a",35.673395,139.68764
+2,2016-03-07 08:25:52,"Solar de la Plaza, J.M. Leguizamn 669, Ciudad de Salta",-24.7839244097,-65.411270207
+3,2016-03-07 08:23:57,"Caf Martnez, Av. Asamblea 824, Buenos Aires",-34.634702,-58.436079
+4,2015-12-23 05:36:18,"Cinnabon, Av. Oscar R. Benavides 3866, Bellavista",-12.0562135178,-77.1022224426
+5,2015-12-23 05:34:47,"H&M, CC Jockey Plaza, Surco",-12.0858001685,-76.9770677982
+6,2015-12-23 05:33:54,"La Lucha Sanguchera Criolla, Psje. Marcelino Champagnat 139, Lima",-12.1207028298,-77.0301313198
+7,2015-12-23 05:33:11,"Bembos, Av. Oscar R. Benavides 3866, Bellavista",-12.0566541895,-77.1020936966
+8,2015-08-28 03:58:17,"Vivaldi- Cafe, bar y libros, Santiago del Estero, Buenos Aires",-34.620912398,-58.3844676399
+9,2015-08-28 03:57:17,"Rapa Nui, Pedro Goyena 1515, Buenos Aires",-34.627801,-58.448776
+10,2015-08-28 03:55:10,"Margaritas, Av. 7 Lagos 745, Villa La Angostura",-40.7567036612,-71.6539888282
+11,2015-08-28 03:54:00,"Smeterling Patisserie, Uruguay 1308, Buenos Aires",-34.5925715343,-58.3876824306
+12,2015-08-24 19:00:01,"Cerveceria Kunstmann, Km 7,8 Ruta Bustillos, San Carlos de Bariloche",-41.1217496231,-71.3966291561
+13,2015-08-24 18:58:03,"Rapa Nui, Mitre 202, San Carlos de Bariloche",-41.1337364502,-71.3066795981
+14,2015-08-14 11:30:53,"Rochester Hotels, Av. Bustillos 6700, San Carlos de Bariloche",-41.1199786005,-71.3857280547
+15,2015-08-14 11:26:29,"Cervecera Blest, Bustillo 11600, San Carlos de Bariloche",-41.1096597743,-71.4332717657
+16,2015-07-21 04:21:18,"Dubliners, Humboldt 2000, Buenos Aires",-34.5823679034,-58.4325708445
+17,2015-07-09 18:34:29,"Una Cancin Coreana a500, Carabobo 1549, Buenos Aires",-34.6416312358,-58.4458875179
+18,2015-07-04 18:29:37,"Angelina, 226 rue de Rivoli, Paris",48.8650782397,2.32844173908
+19,2015-03-26 09:52:56,"Hong Kong Style, Montaeses 2149, Buenos Aires",-34.5570585408,-58.4492880056
+20,2015-03-17 19:50:48,"Pertutti, Avenida Corrientes 3202, Ciudad de Buenos Aires",-34.604247797,-58.410615921
+21,2014-10-25 20:39:31,"Tienda de Caf, Av. Pedro Goyena 1002, Caballito",-34.6265991049,-58.4414503123
+22,2014-10-18 22:29:26,"LeBl, Valle 1105, Buenos Aires",-34.6251783526,-58.4432954108
+23,2014-10-17 00:32:57,"Ele Bar, Nicaragua 5001, Buenos Aires",-34.5853750019,-58.4288420084
+24,2014-10-16 11:14:32,"Jorge Newbery Airfield (AEP), Av. Rafael Obligado s/n, Buenos Aires",-34.5563043853,-58.414306843
+25,2014-10-16 11:12:57,"Jorge Chvez International Airport (LIM), Av. Elmer Faucett s/n, Lima",-12.0227626909,-77.1078988481
+26,2014-10-14 13:36:22,"Aeropuerto Internacional de Mendoza / Gobernador Francisco Gabrielli (El Plumerillo) (MDZ), RN 40, km 15, El Plumerillo",-32.827797,-68.798609
+27,2014-10-14 13:35:15,"Aeropuerto Domingo F. Sarmiento (UAQ), Acceso Aeropuerto, Ciudad de San Juan",-31.5717102073,-68.4224946801
+28,2014-10-14 13:28:15,"Del Bono Suites Art Hotel, Mitre oeste 75, Ciudad de San Juan",-31.537835686,-68.5265751387
+29,2014-10-14 13:23:26,"Juan Valdez Caf, Av. Oscar R. Benavides 3866, Bellavista",-12.0559688697,-77.1022345062
+30,2014-10-13 10:15:43,"Ohana, Av. Elmer Faucett 299B, San Miguel",-12.0697917843,-77.0981209473
+31,2014-09-10 06:17:36,"Alvear Apart Hotel, Alvear 555, Rosario",-32.9406291964,-60.6539442408
+32,2014-09-10 00:54:52,"Club Bajada Espaa, El Ro, Rosario",-32.9339540005,-60.64363
+33,2014-08-20 18:35:20,"Papachos Cusco, Portal de Beln 115 2do Nivel, Cusco",-13.5169261972,-71.9776467468
+34,2014-08-20 18:32:29,"Aeropuerto Internacional Alejandro Velasco Astete (CUZ), Av. Velasco Astete S/N, Cusco",-13.5381149322,-71.9437144487
+35,2014-08-20 18:28:17,"Greens Organic Restaurant, Santa Catalina Angosta 135, 2do. piso, Cusco",-13.516984,-71.977543
+36,2014-08-20 18:25:18,"PeruRail - Poroy Station, Poroy, Cusco",-13.4946876784,-72.0424907317
+37,2014-08-15 05:10:53,"Caff del Doge, Parana 905, Buenos Aires",-34.5983485841,-58.3880639076
+38,2014-08-15 05:09:48,"Caff del Doge, Parana 905, Buenos Aires",-34.5983485841,-58.3880639076
+39,2014-08-12 06:52:46,"Ministro Pistarini International Airport (EZE), Au. Teniente General Pablo Ricchieri, Ezeiza",-34.8134055821,-58.5390750678
+40,2014-08-08 02:57:57,"McDonald's, Av. Corrientes 980, Buenos Aires",-34.6035764632,-58.3805509555
+41,2014-06-27 05:04:27,"Park Gell, C. Olot s/n, Barcelona",41.4138046135,2.15278231035
+42,2014-05-07 21:06:39,"Dim Sum Wok, Llana 15-21, Barcelona",41.3768568698,2.14937210083
+43,2013-10-16 12:00:37,"Oh! Taisho, 9 Saint Marks Pl, New York",40.7293785233,-73.9893761503
+44,2013-10-08 21:27:33,"NJT - Red Bank Station (NJCL), 175 Monmouth St., Red Bank",40.3482808572,-74.0743569014
+45,2013-10-08 01:22:07,"Auntie Anne's, 180 Routes 35 & 36 Spc 3026 Upper Level, Eatontown",40.287616264,-74.0552996387
+46,2013-09-16 06:29:45,"Hotel Riviera, San Lorenzo 1460, Rosario",-32.9431265739,-60.6425913189
+47,2013-09-16 06:19:47,"Delta Sky Club, Concourse F, Atlanta",33.6400074367,-84.4199208739
+48,2013-09-16 06:19:13,"Plaza Las Americas, 525 F D Roosevelt Ave, San Juan",18.4230877103,-66.0738072554
+49,2013-09-16 06:16:22,"Disco, Av. Directorio 1251, Buenos Aires",-34.6295195977,-58.4444548837
+50,2013-09-16 06:14:41,"Disco, Av. Directorio 1251, Buenos Aires",-34.6295195977,-58.4444548837
+51,2013-08-23 06:42:42,"Vivaldi- Cafe, bar y libros, Santiago del Estero, Buenos Aires",-34.620912398,-58.3844676399
+52,2013-07-10 00:56:13,"Urquiza Apart Hotel & Suites, Urquiza 1491, Rosario",-32.942147,-60.642676
+53,2013-06-04 20:43:56,"Hotel Riviera, San Lorenzo 1460, Rosario",-32.9431265739,-60.6425913189
+54,2013-06-03 11:13:46,"Rock & Feller's, Bv. Oroo 106, Rosario",-32.9355783952,-60.6513979797
+55,2013-02-09 22:36:42,"Starbucks, Av. Paran 3745, Martnez",-34.5071047754,-58.5236978531
+56,2013-01-10 07:43:47,"Mimo's Heladera, Emilio Mitre 1000, Buenos Aires",-34.6337604502,-58.439911824
+57,2013-01-10 00:29:33,"Estacin Jujuy [Lnea E], Av. Jujuy 1300, Buenos Aires",-34.6238322977,-58.4022688866
+58,2013-01-07 03:55:01,"Tiziano Hotel Venice, Dorsoduro 1873, Venezia",45.432937,12.316789
+59,2013-01-07 03:52:09,"Hotel Romagna, Via Panzani, 4, 50123 Florence, Firenze",43.7736742291,11.251712253
+60,2012-12-16 05:26:58,"McDonald's, Stazione Pisa Centrale, Pisa",43.7087490793,10.3983449936
+61,2012-09-08 22:03:43,"Bar El Cairo, Santa Fe 1102, Rosario",-32.9450312415,-60.6380295753
+62,2012-08-04 21:38:01,"Miro, Pedro Goyena, Buenos Aires",-34.6285185604,-58.4523429563
+63,2012-07-09 08:49:47,"Cabaa Vernica, Mercado del Puerto, Montevideo",-34.905757,-56.21179
+64,2012-02-01 21:34:22,"Cinnabon, Av. Oscar R. Benavides 3866, Bellavista",-12.0562135178,-77.1022224426
+65,2012-01-26 02:07:32,"Chifa Chin Siang, Av. Los Patriotas 676, San Miguel",-12.0746236955,-77.1027795983
+66,2012-01-22 09:36:15,"Playa La Herradura, Circuito de Playas, Chorrillos",-12.1743238571,-77.0330945436
+67,2012-01-21 02:42:09,"Tanta, Ca. Mantaro s/n Int. 265, San Miguel",-12.0762996667,-77.0827388092
+68,2011-12-26 04:01:41,"Ministro Pistarini International Airport (EZE), Au. Teniente General Pablo Ricchieri, Ezeiza",-34.8134055821,-58.5390750678
+69,2011-12-20 20:32:00,"Starbucks, Reconquista 383, Buenos Aires",-34.6033536038,-58.3726399995
+70,2011-12-07 04:12:16,"Ministro Pistarini International Airport (EZE), Au. Teniente General Pablo Ricchieri, Ezeiza",-34.8134055821,-58.5390750678
+71,2011-10-29 04:51:31,"Pastas 5 Estrellas, Asamblea, Buenos Aires",-34.633915,-58.440035
+72,2011-10-07 12:51:40,"Stone Lounge, Maipu 765, Tucumn",-26.8203987506,-65.2051724115
+73,2011-10-02 02:04:17,"Soho, Rambla General Artigas, Punta del Este",-34.9652922276,-54.9499207812
+74,2011-09-24 07:29:58,"Arte Pasta, Av. Pedro Goyena 1301, Buenos Aires",-34.6270028437,-58.4455474747
+75,2011-09-09 01:14:00,"La Canastita, Directorio 781, Buenos Aires",-34.6279433235,-58.436455875
+76,2011-08-12 12:02:14,"Palitos, Arribeos 2243, Ciudad de Buenos Aires",-34.5567771762,-58.4511443802
+77,2010-09-22 00:16:51,"Asamblea plaza, Asamblea 1000, Buenos Aires",-34.635243,-58.439032
+78,2010-04-03 06:41:33,"Brioche Dore, Village Caballito, Buenos Aires",-34.6184897113,-58.4370913158
+79,2010-03-25 00:38:46,"Caf Martnez, Hortiguera 381, Ciudad de Buenos Aires",-34.6259833258,-58.4458373475
+80,2010-03-21 05:24:02,"El Caprichoso de la Pizza, Del Barco Centenera 482, Buenos Aires",-34.6246182692,-58.4405082644
+81,2010-02-07 02:23:54,"Mimo's Heladera, Emilio Mitre 1000, Buenos Aires",-34.6337604502,-58.439911824
+82,2010-01-31 05:59:57,"La Continental, Av. Rivadavia 5434, Buenos Aires",-34.6211041659,-58.4416651726
+83,2010-01-29 00:38:44,"Asamblea plaza, Asamblea 1000, Buenos Aires",-34.635243,-58.439032
+84,2010-01-22 05:55:58,"Brioche Dore, Florida 629, Buenos Aires",-34.6007421921,-58.3746622548
+85,2010-01-20 23:54:16,"La Canastita, Directorio 781, Buenos Aires",-34.6279433235,-58.436455875
+86,2010-01-19 05:24:03,"McDonald's, Av. Rivadavia 5730, Buenos Aires",-34.6227981457,-58.4462108386
+87,2010-01-19 03:12:44,"El podio, Malvinas Argentinas 791, Buenos Aires",-34.6329438162,-58.4482344011

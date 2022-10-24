@@ -1,0 +1,108 @@
+,time,poi,latitude,longitude
+0,2016-10-31 02:05:14,"Kalustyan's, 123 Lexington Ave, New York",40.7428152622,-73.9823802361
+1,2016-10-04 02:58:39,"Mamoun's Falafel, 119 Macdougal St, New York",40.7301698559,-74.0002970716
+2,2016-09-24 11:06:29,"Akaoni, Mission & 6th Ave, Carmel",36.5560273798,-121.921085744
+3,2016-09-19 06:32:10,"Grounded, 28 Jane St, New York",40.7381799235,-74.0035278922
+4,2016-09-19 06:31:08,"Chavela's, 736 Franklin Ave, Brooklyn",40.6733504244,-73.9570803359
+5,2016-09-14 01:29:13,"Kittery, 305 Smith St, Brooklyn",40.6814109657,-73.9938640594
+6,2016-09-11 00:10:48,"Bedford Hill, 343 Franklin Ave, Brooklyn",40.6875979677,-73.9571205154
+7,2016-08-12 23:06:07,"La Superior, 295 Berry St, Brooklyn",40.713588,-73.963764
+8,2016-06-18 08:26:47,"ICHI Sushi + NI Bar, 3282 Mission St, San Francisco",37.7443278338,-122.420863572
+9,2016-06-18 08:25:16,"Kusakabe, 584 Washington St, San Francisco",37.795675889,-122.402924895
+10,2016-06-18 08:23:11,"Saru Sushi Bar, 3856 24th St, San Francisco",37.7516376244,-122.428799554
+11,2016-05-06 23:17:54,"Taylor Street Coffee Shop, 375 Taylor St, San Francisco",37.785764,-122.411255
+12,2016-05-06 23:09:56,"Honey Honey Cafe & Crepery, 599 Post St, San Francisco",37.7878131317,-122.411599557
+13,2016-03-12 10:09:48,"Estela, 47 E Houston St, New York",40.7247057196,-73.994808197
+14,2016-03-01 20:20:52,"Lunitas, 1039A Fulton St, Brooklyn",40.6821872802,-73.9603865007
+15,2016-02-24 01:15:15,"Kitchen Grill, 914 Fulton Street, Brooklyn",40.6829341431,-73.9644961681
+16,2015-07-30 07:49:15,"Freehold, 45 S 3rd St, Brooklyn",40.7137037278,-73.9660656452
+17,2015-07-28 21:53:46,"Black Brick, 300 Bedford Ave, Brooklyn",40.7140699738,-73.9615719941
+18,2015-07-27 06:05:11,"Concord Hill, 374 Graham Ave, Brooklyn",40.7155543821,-73.9445726488
+19,2015-07-26 22:14:17,"Bakeri, 150 Wythe Ave, Brooklyn",40.7200038713,-73.9600896835
+20,2015-07-26 22:13:43,"The Marlton Hotel, 5 W 8th St, New York",40.7325421609,-73.9968882959
+21,2015-07-26 22:13:21,"Morandi, 211 Waverly Pl, New York",40.7353238037,-74.0017712116
+22,2015-07-26 22:13:07,"Mekelburg's, 293 Grand Ave, Brooklyn",40.6875250387,-73.9624183863
+23,2015-07-26 21:59:12,"Desnuda Williamsburg, 221 S 1st St, Brooklyn",40.7129670851,-73.9589171011
+24,2015-07-26 21:59:05,"Extra Fancy, 302 Metropolitan Ave, Brooklyn",40.7144727566,-73.9579011425
+25,2015-07-26 21:58:52,"Fabbrica Restaurant & Bar, 44 N 6th St, New York",40.7197456971,-73.9625787735
+26,2015-07-26 21:58:44,"The Saint Austere, 613 Grand St, Brooklyn",40.7113366776,-73.9476379393
+27,2015-07-26 21:58:31,"The Brooklyn Star, 593 Lorimer St, Brooklyn",40.714718,-73.949522
+28,2015-07-26 21:58:12,"Maison Premiere, 298 Bedford Ave, Brooklyn",40.7142283599,-73.9615516806
+29,2015-07-21 07:05:59,"Crema BK, 182 Driggs Ave, Brooklyn",40.7229656882,-73.9457988739
+30,2015-07-11 01:32:56,"Cafe Du Nord, 2174 Market St, San Francisco",37.7665077491,-122.430397739
+31,2015-07-09 02:36:38,"Liholiho Yacht Club, 871 Sutter St, San Francisco",37.7883686988,-122.414586254
+32,2015-05-28 10:17:15,"Freemans, 1 Freeman Aly, New York",40.7218110629,-73.9925122261
+33,2015-05-28 10:15:34,"Tokyo Express, 814 Mission St, San Francisco",37.7842997375,-122.404539585
+34,2015-05-28 10:14:43,"The New York Shaving Company, 202B Elizabeth St, New York",40.722,-73.9944
+35,2015-05-28 10:14:06,"Beco, 45 Richardson St, Brooklyn",40.718275,-73.9504
+36,2015-05-28 10:13:10,"El Gran Canario Reataurant, 174 Borinquen Pl, Brooklyn",40.710722,-73.953857
+37,2015-05-28 10:08:42,"Allswell, 124 Bedford Ave, Brooklyn",40.7196562507,-73.9559698105
+38,2015-05-26 21:47:39,"The West14Coffeehouse & Bar, 379 Union Ave, Brooklyn",40.7116588581,-73.9513690326
+39,2015-05-24 12:08:15,"Le Barrico, 533 Grand St, Brooklyn",40.711093,-73.95009
+40,2015-05-10 06:56:42,"The Armory Club, 1799 Mission St, San Francisco",37.7684248861,-122.41979599
+41,2015-04-26 02:42:55,"Koo, 408 Irving St, San Francisco",37.7643029731,-122.462539673
+42,2015-04-18 14:50:58,"Aatxe, 2170 Market St, San Francisco",37.7665282608,-122.430165478
+43,2015-04-03 09:11:23,"Benjamin Cooper, 398 Geary St, San Francisco",37.787311928,-122.409748435
+44,2015-04-03 09:10:36,"T Lan Restaurant, 8 6th St, San Francisco",37.7819106716,-122.410131991
+45,2015-04-03 09:09:49,"The Mill, 736 Divisadero St, San Francisco",37.7763288173,-122.438024282
+46,2015-03-25 05:31:51,"Garaje, 475 3rd St, San Francisco",37.7818101067,-122.396028643
+47,2015-03-23 07:35:40,"Little Star Pizza, 400 Valencia St, San Francisco",37.766469894,-122.422096868
+48,2015-03-23 07:22:16,"Bender's Bar & Grill, 806 S Van Ness Ave, San Francisco",37.760344,-122.417205
+49,2015-03-23 07:21:46,"Southern Pacific Brewing, 620 Treat Ave, San Francisco",37.7601605144,-122.414027638
+50,2015-03-23 07:20:56,"Nihon Whisky Lounge, 1779 Folsom St, San Francisco",37.7685436209,-122.415289879
+51,2015-03-23 07:20:33,"El Techo, 2518 Mission St, San Francisco",37.756699,-122.418971
+52,2015-03-21 22:29:55,"20 Spot, 3565 20th St, San Francisco",37.7585216477,-122.42052621
+53,2015-03-21 22:29:20,"Bi-Rite Creamery, 3692 18th St, San Francisco",37.7614679284,-122.425735838
+54,2015-03-21 22:28:36,"Tartine Bakery, 600 Guerrero St, San Francisco",37.7614213141,-122.42400974
+55,2015-03-21 22:28:18,"Four Barrel Coffee, 375 Valencia St, San Francisco",37.7670243868,-122.421958607
+56,2015-03-21 22:27:47,"The Sycamore, 2140 Mission St, San Francisco",37.7627158279,-122.419635791
+57,2015-03-21 22:26:24,"Mission Chinese Food, 2234 Mission St, San Francisco",37.7612241104,-122.419323921
+58,2015-03-15 07:12:51,"Jake's Dive Bar, 100 Main St., Breckenridge",39.4826239785,-106.046059425
+59,2015-03-15 07:11:56,"Pug Ryan's Brewing Company, 104 Village Pl, Dillon",39.6280471399,-106.046489926
+60,2015-03-15 07:11:16,"Twist, 200 S Ridge St, Breckenridge",39.480673,-106.044503
+61,2015-03-15 07:10:07,"Mountain Flying Fish, 500 S Main St, Breckenridge",39.47716085,-106.04456
+62,2015-03-15 07:07:57,"Palisade Brewing Company, 342 W 2nd St., Palisade",39.1111440233,-108.354012902
+63,2015-03-15 07:07:33,"626 on Rood...Modern American Cuisine and Wine Bar, 626 Rood Ave, Grand Junction",39.0685120081,-108.561926461
+64,2015-03-15 07:06:56,"Arches National Park, Arches Entrance Rd, Moab",38.6162668974,-109.615745544
+65,2015-03-15 07:06:17,"Budget Motel, 75 S 350 E, Delta",39.3513408232,-112.566557193
+66,2015-03-15 07:05:51,"Himmel Haus, 3819 Saddle Rd, South Lake Tahoe",38.9373128604,-119.940843247
+67,2015-03-15 07:05:23,"A Cup of Cherries, 3434 Lake Tahoe Blvd, South Lake Tahoe",38.945465,-119.966025
+68,2015-03-15 07:04:38,"Heyday Cafe, 325 Main St, Placerville",38.7284036768,-120.802199977
+69,2015-03-15 07:03:20,"Trou Normand, 140 New Montgomery St, San Francisco",37.786638,-122.399754
+70,2015-03-15 07:02:45,"Live Sushi Bar, 2001 17th St, San Francisco",37.76467,-122.40351304
+71,2015-03-15 07:02:20,"Sightglass Coffee, 270 7th St, San Francisco",37.7770249037,-122.408529808
+72,2015-03-15 07:01:59,"Ritual Coffee Roasters, 1026 Valencia St, San Francisco",37.756501,-122.421146
+73,2015-03-15 06:59:51,"Michael Mina, 252 California St, San Francisco",37.7933465383,-122.399615049
+74,2015-03-15 06:57:48,"Saison, 178 Townsend St, San Francisco",37.7793519372,-122.392078852
+75,2015-03-15 06:57:01,"Pop's Bar, 2800 24th St, San Francisco",37.75290351,-122.408308562
+76,2015-03-15 06:56:42,"Krispy Kreme Doughnuts, 1575 Sullivan Ave, Daly City",37.6886826212,-122.471626898
+77,2015-03-15 06:56:16,"Hot Sauce and Panko, 1468 Hyde St, San Francisco",37.7945569371,-122.418076157
+78,2015-03-15 06:55:10,"Trick Dog, 3010 20th St, San Francisco",37.7591916688,-122.411234511
+79,2015-03-15 06:54:51,"Rainbow Grocery, 1745 Folsom St, San Francisco",37.7691033683,-122.415236235
+80,2015-03-15 06:54:34,"Les Clos, 234 Townsend St, San Francisco",37.7781410311,-122.393793765
+81,2015-03-15 06:53:59,"La Espiga de Oro, 2916 24th St, San Francisco",37.752742,-122.410343885
+82,2015-03-08 05:07:22,"Udupi Palace, 1007 Valencia St, San Francisco",37.7567871975,-122.421112444
+83,2015-02-22 09:04:22,"Apres, 130 S. Main St., Breckenridge",39.4809532442,-106.046071351
+84,2015-02-22 09:04:05,"Jersey Boys Pizza, 149 tenderfoot, Dillon",39.6314673167,-106.045777683
+85,2015-02-22 09:03:13,"Mead St. Station, 3625 W 32nd Ave, Denver",39.7622397833,-105.03528893
+86,2015-02-22 09:02:54,"DJ's Berkeley Cafe, 3838 Tennyson St, Denver",39.770195,-105.043866634
+87,2015-02-09 02:48:12,"Snooze, 1617 Pearl St, Boulder",40.0191102618,-105.274166003
+88,2015-01-05 06:21:43,"Bonobos, 55 Grant Ave Fl 2, San Francisco",37.787464862,-122.404873648
+89,2014-09-15 07:20:03,"Paia Fish Market Restaurant, 100 Hana Hwy, Paia",20.915979,-156.381284
+90,2014-09-14 08:29:49,"Da Kitchen Cafe, 425 Koloa St, Kahului",20.8876333076,-156.455210602
+91,2014-09-14 08:29:11,"Coconut's Fish Cafe, 1279 S Kihei Rd #304, K2bhei",20.7500917427,-156.455097198
+92,2014-09-14 08:28:27,"Wailuku Coffee Company, 26 N Market St, Wailuk",20.888228954,-156.501819607
+93,2014-09-01 07:08:53,"Bamboo Fresh, 505 Front St, Lahaina",20.8679911042,-156.675486476
+94,2014-08-18 03:11:43,"Kula Bistro, 4566 Lower Kula Rd, Kula",20.7598214016,-156.327459146
+95,2014-07-07 01:21:22,"Screen Door, 2337 E Burnside St, Portland",45.5230527857,-122.641628087
+96,2014-07-05 10:54:56,"Bailey's Taproom, 213 SW Broadway, Portland",45.5224946098,-122.677915544
+97,2014-06-16 08:38:00,"Solstice Wood Fire Cafe, 501 Portway Ave, Hood River",45.7146990308,-121.516009845
+98,2014-06-08 00:54:06,"10-Speed Coffee Roastery, 1235 State St, Hood River",45.7078089286,-121.524749901
+99,2014-06-03 23:11:17,"Dog River Coffee Co, 411 Oak St, Hood River",45.708821,-121.5150092
+100,2014-06-03 10:38:09,"Hood River Event Site, Portway Ave, Hood River",45.715319211,-121.512093544
+101,2014-06-03 04:09:50,"O'Kanes Whiskey & Cigar Bar, 700 NW Bond St, Bend",44.0561890345,-121.313170195
+102,2014-05-23 19:32:37,"Canal Saint-Martin, Quai de Valmy, Paris",48.8710946505,2.36553668976
+103,2014-01-18 23:33:54,"Local Mission Market, 2660 Harrison St, San Francisco",37.7549797871,-122.412191373
+104,2013-12-05 12:16:48,"Taqueria San Francisco, 2794 24th St, San Francisco",37.752962,-122.408209
+105,2013-11-23 06:44:30,"Kaffe 1668, 401 Greenwich St, New York",40.7208178918,-74.0100123232
+106,2013-09-28 09:49:07,"Frankies Spuntino 457, 457 Court St, Brooklyn",40.6773854748,-73.9981046319

@@ -1,0 +1,90 @@
+,time,poi,latitude,longitude
+0,2016-11-21 13:37:47,"Bitterroot BBQ, 5239 Ballard Ave NW, Seattle",47.6662261212,-122.383345988
+1,2016-11-21 13:36:43,"The Noble Fir, 5316 Ballard Ave NW, Seattle",47.6668022573,-122.383697413
+2,2016-11-21 13:35:28,"Figurehead Brewing Co., 4001 21st Ave W, Seattle",47.656032,-122.383774
+3,2016-11-21 13:34:26,"Rooftop Brewing Company, 1220 W Nickerson St, Seattle",47.6557665539,-122.373007294
+4,2016-11-21 13:33:01,"Metropolitan Market, 100 Mercer St, Seattle",47.6246238996,-122.355112434
+5,2016-11-21 13:31:24,"Ristorante Machiavelli, 1215 Pine St, Seattle",47.61506695,-122.32813046
+6,2016-11-21 13:30:27,"Targy's Tavern, 600 W Crockett St, Seattle",47.6377673349,-122.365078326
+7,2016-11-21 13:28:42,"Seattle Public Theater at the Bathhouse, 7312 W Green Lake Dr N, Seattle",47.6822487937,-122.339930534
+8,2016-11-06 10:10:34,"Super Six, 3714 S Hudson St, Seattle",47.5572601754,-122.28535206
+9,2016-10-29 13:42:28,"Singapore Changi Airport (SIN), Airport Boulevard, Singapore",1.35588888812,103.988284644
+10,2016-10-29 13:40:59,"Brave Horse Tavern, 310 Terry Ave N, Seattle",47.6212613389,-122.337091624
+11,2016-10-29 13:39:15,"Queen Anne Beerhall, 203 W Thomas St, Seattle",47.620811,-122.359607
+12,2016-09-14 08:33:44,"Holy Mountain Brewing Company, 1421 Elliott Ave W, Seattle",47.630737632,-122.374627557
+13,2016-09-14 08:32:54,"Georgetown Brewing Company, 5200 Denver Ave S, Seattle",47.5553655692,-122.326186895
+14,2016-09-01 08:28:59,"Highliner Public House, 3909 18th Ave W, Seattle",47.6553256126,-122.3801008
+15,2016-09-01 08:27:51,"Essex, 1421 NW 70th St, Seattle",47.679422,-122.37491
+16,2016-09-01 08:26:58,"Delancey, 1415 NW 70th St, Seattle",47.6795036185,-122.374824717
+17,2016-08-23 22:31:50,"100 Pound Clam, 1001 Fairview Ave N, Seattle",47.6291650713,-122.331782452
+18,2016-08-23 22:30:39,"Marination Ma Kai, 1660 Harbor Ave SW, Seattle",47.5893265806,-122.380586944
+19,2016-08-05 07:24:21,"Hyatt Regency Chicago, 151 East Wacker Drive, Chicago",41.88767024,-87.6219213
+20,2016-05-11 12:40:16,"Revolution Wine Shop, 518 E Pike St, Seattle",47.614276309,-122.324626839
+21,2016-05-11 12:34:35,"Kerloo Cellars, 3911 1st avenue South, Seattle",47.5676693054,-122.335493461
+22,2016-05-11 12:32:22,"Soul Fitness Club, 159 Western Avenue West, Seattle",47.6189505403,-122.358392523
+23,2016-04-08 13:06:31,"Hamlet, 232 NW 12th Ave, Portland",45.5248570877,-122.683020752
+24,2016-04-08 13:05:23,"Spirit of 77, 500 NE M L King Blvd, Portland",45.52671154,-122.66142457
+25,2016-03-26 01:39:39,"Manolin, 3621 Stone Way N, Seattle",47.65106,-122.343219
+26,2016-03-07 14:17:32,"Hogwash, 582 Sutter St, San Francisco",37.789246,-122.410005
+27,2016-03-07 14:16:32,"Toronado, 547 Haight St, San Francisco",37.7719274835,-122.431029081
+28,2016-03-07 14:15:44,"8oz Burger Bar, 1401 Broadway, Seattle",47.6130250832,-122.320784479
+29,2016-02-29 06:51:56,"Vittles Neighborhood Bistro & Bar, 2330 2nd Ave, Seattle",47.61471643,-122.346616673
+30,2016-02-29 06:50:13,"Teachers Lounge, 8505 Greenwood Ave N, Seattle",47.6908212131,-122.355300175
+31,2016-02-29 06:49:10,"Chandler's Crabhouse, 901 Fairview Ave N, Seattle",47.6282058451,-122.333645098
+32,2016-02-29 06:48:03,"The Carlile Room, 820 Pine St, Seattle",47.6135221066,-122.332436626
+33,2016-02-29 06:46:11,"Rob Roy, 2332 2nd Ave, Seattle",47.614807,-122.346697683
+34,2016-02-29 06:44:42,"Cactus, 2820 Alki Ave SW, Seattle",47.5782521087,-122.413130699
+35,2016-02-29 06:44:06,"West Seattle Bowl, 4505 39th Ave SW, Seattle",47.5624843,-122.38181439
+36,2016-01-27 08:58:36,"Cloudburst Brewing, 2116 Western Ave, Seattle",47.611440658,-122.345361499
+37,2016-01-27 08:57:38,"Maui Brewing Company Tasting Room, 605 Lipoa Parkway, K2bhei",20.7493547013,-156.438138609
+38,2016-01-27 08:56:33,"Nick's Fishmarket, 4100 Wailea Alanui Dr, Wailea",20.6749090565,-156.441364288
+39,2016-01-27 08:55:43,"Cuatro, 1881 S Kihei Rd, K2bhei",20.7337151803,-156.452164694
+40,2016-01-27 08:53:54,"Koa's Seaside Grill, 839 Front St, Lahaina",20.8757999863,-156.680603591
+41,2016-01-27 08:52:02,"Foodland, 1881 S Kihei Rd, K2bhei",20.7331276553,-156.451867819
+42,2016-01-27 08:51:15,"Roasted Chiles, 1279 S Kihei Rd Ste 122, K2bhei",20.7495825718,-156.454271078
+43,2016-01-27 08:49:56,"Fleetwood's, 744 Front St, Lahaina",20.8743045834,-156.678771892
+44,2016-01-27 08:49:01,"Monkeypod Kitchen by Merriman, 10 Wailea Gateway Pl, K2bhei",20.688479671,-156.430882215
+45,2016-01-27 08:48:12,"Fabiani's Bakery and Pizzaria, A-101 Wailea Ike, Wailea",20.689132,-156.431298
+46,2016-01-27 08:47:18,"Infinity Pool, 3700 Wailea Alanui Dr, K2bhei",20.686989,-156.443786
+47,2016-01-27 08:46:25,"Eskimo Candy, 2665 Wai Wai Pl, K2bhei",20.7450024654,-156.449738145
+48,2015-10-21 09:21:42,"Queen Anne Beerhall, 203 W Thomas St, Seattle",47.620811,-122.359607
+49,2015-10-15 08:37:03,"JAX Barber, 1823 Terry Ave, Seattle",47.6161071863,-122.333292176
+50,2015-10-15 08:35:49,"Sushi Kappo Tamura, 2968 Eastlake Ave E, Seattle",47.6486990373,-122.32347228
+51,2015-10-15 08:34:52,"Evergreens Salad, 1631 6th Ave, Seattle",47.6130450189,-122.336249475
+52,2015-10-02 20:37:01,"Long Bar, Raffles Hotel, Singapore",1.29501044066,103.8539958
+53,2015-09-27 00:03:43,"Still Liquor, 1524 Minor Ave, Seattle",47.614603,-122.328255
+54,2015-09-27 00:02:33,"Keys on Main, 11 Roy St, Seattle",47.6254279592,-122.356187978
+55,2015-09-15 09:38:43,"The Independent Pizzeria, 4235 E Madison St, Seattle",47.636089,-122.277349234
+56,2015-09-15 09:37:46,"Clever Bottle, 2222 2nd Ave Ste 100, Seattle",47.613694,-122.34488
+57,2015-08-25 09:30:15,"Roslyn Cafe, 201 West Pennsylvania Ave., Roslyn",47.2225124465,-120.994726686
+58,2015-08-25 09:29:19,"Creekside West Bar and Grille, 4000 Creekside Loop, Yakima",46.5758698763,-120.56251655
+59,2015-08-18 09:34:44,"Reuben's Brews, 1406 NW 53rd St Ste 1A, Seattle",47.6673216678,-122.374153169
+60,2015-08-18 09:34:28,"Shelter Lounge, 4810 Leary Ave. NW, Seattle",47.664465,-122.37916095
+61,2015-08-18 09:32:59,"Fainting Goat Gelato, 1903 N 45th St, Seattle",47.6612741163,-122.334783375
+62,2015-08-13 09:07:22,"Quality Athletics, 115 S King St, Seattle",47.5982601527,-122.333088889
+63,2015-08-13 09:06:32,"Pacifico Cantina, 514 8th St SE, Washington",38.8822339773,-76.9947413412
+64,2015-08-13 09:05:59,"Residence Inn Alexandria Old Town/Duke Street, 1456 Duke St, Alexandria",38.8035660688,-77.05752853
+65,2015-08-13 09:04:55,"Jackson Park Golf Club, 1000 NE 135th St, Seattle",47.72842728,-122.316670418
+66,2015-08-13 09:04:10,"Gourmondo, 645 Elliott Ave W, Seattle",47.6259038144,-122.367669605
+67,2015-07-28 09:52:32,"Starbucks, 601 SW Washington St, Portland",45.520554,-122.677971
+68,2015-07-28 09:50:37,"The Woodsman Tavern, 4537 SE Division St, Portland",45.505409,-122.61533555
+69,2015-07-28 09:49:34,"Red Star Tavern, 503 SW Alder St, Portland",45.519554615,-122.677234
+70,2015-07-28 09:48:44,"The Growlerie, 15151 SW Barrows Rd, Beaverton",45.4293589676,-122.832062244
+71,2015-07-28 09:47:51,"Big Al's, 14950 SW Barrows Rd, Beaverton",45.4290879096,-122.82989502
+72,2015-07-28 09:47:03,"Kimpton Hotel Monaco Portland, 506 SW Washington St, Portland",45.519876,-122.677367
+73,2015-05-04 16:55:01,"Restaurant Mayflower, Haapiti PK 27, Moorea Island",-17.4986824833,-149.913812611
+74,2013-11-26 13:49:35,"Barrel Thief, 3417 Evanston Ave N, Seattle",47.6506935201,-122.35143863
+75,2013-11-23 13:14:06,"Skillet Ballard, 2034 NW 56th St, Seattle",47.6696212886,-122.383704185
+76,2013-11-01 06:46:32,"Evergreens Salad, 823 3rd Ave, Seattle",47.6048918473,-122.333611951
+77,2013-07-16 14:59:17,"Mamnoon, 1508 Melrose Ave, Seattle",47.6143840166,-122.327917951
+78,2013-07-16 14:57:11,"TanakaSan, 2121 6th Ave, Seattle",47.6155514497,-122.339962721
+79,2013-05-14 01:43:07,"Jiffy Lube, 4902 25th Ave NE, Seattle",47.6646780968,-122.300805
+80,2013-01-05 09:14:57,"Dahlia Bakery, 2001 4th Ave, Seattle",47.613135796,-122.34017998
+81,2012-11-09 04:32:57,"Aeropuerto Internacional Las Amricas (SDQ), Ruta 66, Santo Domingo",18.4303860192,-69.6764870378
+82,2012-01-29 06:47:23,"Capelli's Gentlemen Barbershop, 319 Westlake Ave N, Seattle",47.6214229199,-122.338400891
+83,2011-08-11 10:45:33,"Audi Seattle, 4701 11th Ave NE, Seattle",47.6632120307,-122.316806245
+84,2011-03-10 12:09:16,"San Francisco International Airport (SFO), N McDonnell Rd, San Francisco",37.6172990409,-122.387503767
+85,2010-10-20 10:01:12,"Capital Hilton, 1001 16th Street NW, Washington",38.9032196238,-77.0357170701
+86,2010-10-12 10:47:43,"AMF Imperial Lanes, 2101 22nd Ave S, Seattle",47.584252,-122.304986715
+87,2009-11-01 04:31:47,"Paseo Caribbean Restaurant, 4225 Fremont Ave N, Seattle",47.6585010641,-122.350147069
+88,2009-10-17 12:03:46,"7-Eleven, 3939 Stone Way N, Seattle",47.6550971169,-122.342953384

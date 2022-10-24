@@ -1,0 +1,73 @@
+,time,poi,latitude,longitude
+0,2014-07-08 20:07:34,"Adillian, 700 W Morgan St Apt 202, Raleigh",35.7800826806,-78.648974373
+1,2011-03-27 11:37:36,"Marsh Woodwinds, 707 N Person St, Raleigh",35.78936766,-78.634693
+2,2011-03-15 04:46:00,"Fox Science Teaching Laboratory, 2791 Pillsbury Cir, Raleigh",35.7873054029,-78.6735987426
+3,2011-03-02 11:02:10,"Pipes By George, 1209 Hillsborough St, Raleigh",35.7827799616,-78.6556398869
+4,2011-03-02 11:01:32,"All-Star Bike Shop, 1218 Ridge Rd, Raleigh",35.8026044184,-78.6868286133
+5,2010-11-23 09:22:45,"The Brickyard, AT N Carolina State Univ, Raleigh",35.787108533,-78.6710008671
+6,2010-06-24 07:01:31,"The Warehouse River Street, W River St, Savannah",32.0814604239,-81.0902245995
+7,2010-06-24 06:59:55,"Forsyth Park Cafe, Forsyth Park, Savannah",32.0681613361,-81.09539779
+8,2010-06-18 14:10:38,"Charlotte Douglas International Airport (CLT), 5501 Josh Birmingham Pkwy, Charlotte",35.2201270861,-80.9436496578
+9,2010-06-18 14:07:12,"Hartsfield-Jackson Atlanta International Airport (ATL), 6000 N Terminal Pkwy, Atlanta",33.6407847711,-84.43906939
+10,2010-06-18 14:02:49,"Comfort Inn & Suites, 1031 E Apache Blvd, Tempe",33.4141520979,-111.923339343
+11,2010-06-18 14:02:10,"South Mountain Park, 13078 South Warpaint Dr., Phoenix",33.3522545184,-112.071704865
+12,2010-06-18 14:01:40,"In-N-Out Burger, 7050 W Ray Rd, Chandler",33.3204604593,-111.964094174
+13,2010-06-18 14:01:03,"Chase Field, 401 E Jefferson St, Phoenix",33.4455873458,-112.066875477
+14,2010-06-18 13:59:08,"Sun Devil Stadium, 500 E Veterans Way, Tempe",33.4263169573,-111.932963347
+15,2010-06-18 13:58:08,"Saguaro National Park West, 2700 N Kinney Rd, Tucson",32.2543680463,-111.197291909
+16,2010-06-18 13:57:45,"Arizona-Sonora Desert Museum, 2021 N Kinney Rd, Tucson",32.2439153055,-111.167953312
+17,2010-06-18 13:56:42,"The Original Bird Cage Theatre Of Tombstone, East Allen St, Tombstone",31.7120242565,-110.065289945
+18,2010-06-18 13:56:04,"O.K. Corral, 326 East Allen Street, Tombstone",31.7133045643,-110.067703595
+19,2010-06-18 13:55:13,"Titan Missile Museum, 1580 West Duval Mine Road, Sahuarita",31.902726141,-110.998983122
+20,2010-06-18 13:54:30,"San Xavier del Bac Mission, 1950 W San Xavier Rd, Tucson",32.1065954031,-111.007901472
+21,2010-06-18 13:53:23,"In-N-Out Burger, 8180 Cortaro Rd, Marana",32.3551850128,-111.0930296
+22,2010-06-18 13:53:02,"Biosphere 2, 32540 S Biosphere Rd, Oracle",32.5807253361,-110.848670752
+23,2010-06-18 13:52:16,"Mount Lemmon Ski Valley, 10300 Ski Run Road, Mt. Lemmon",32.4484415979,-110.780836665
+24,2010-06-18 13:50:39,"US Post Office, 12984 N Sabino Canyon Pkwy, Mount Lemmon",32.4460046178,-110.760098303
+25,2010-06-18 13:49:55,"Wendy's, 1005 N Campbell Ave, Tucson",32.2351805031,-110.944484382
+26,2010-06-18 13:45:08,"The Westin La Paloma Resort & Spa, 3800 E Sunrise Dr, Tucson",32.3148266206,-110.915995795
+27,2010-06-18 13:40:09,"McDonald's, 29555 N Cave Creek Rd, Cave Creek",33.7536033236,-111.991024017
+28,2010-06-18 13:39:29,"Econo Lodge Lucky Lane Flagstaff, 2480 E Lucky Ln, Flagstaff",35.1942890882,-111.620147202
+29,2010-06-18 12:42:39,"Big Nose Kate's Saloon, 417 East Allen Street, Tombstone",31.7125453108,-110.066598549
+30,2010-06-18 12:39:32,"El Charro, 6910 E Sunrise Dr, Tucson",32.307701475,-110.844927975
+31,2010-06-18 12:35:08,"El Taco, 2825 N Country Club Rd, Tucson",32.2583658933,-110.92715483
+32,2010-06-11 06:43:10,"TJ's Deli & Grill, 5017 Country Club Rd, Winston-Salem",36.0850150076,-80.3492931066
+33,2010-06-09 05:50:01,"The Juice Shop, 308B S Stratford Rd, Winston-Salem",36.091979,-80.283006
+34,2010-05-21 14:36:45,"Cameron Court Apartments, 804 W Morgan St, Raleigh",35.7806388332,-78.652882576
+35,2010-05-15 10:17:42,"6-12 Convenience Store, 2001-2103 Avent Ferry Rd, Raleigh",35.7800107698,-78.6754487875
+36,2010-04-23 20:58:26,"Snoopy's Hot Dogs & More, 600 Hillsborough St, Raleigh",35.7809088382,-78.6478164075
+37,2010-04-22 20:46:59,"Iams Pet Food, 845 1609 Commerce Road, Henderson, Henderson",36.2662044206,-78.4001002506
+38,2010-04-20 07:28:44,"East Village Grill & Bar, 1 Dixie Trl, Raleigh",35.7898330205,-78.6762242453
+39,2010-04-17 04:34:22,"Men's Wearhouse, 214 Crossroads Blvd Ste 2470, Cary",35.7602691196,-78.7402582169
+40,2010-04-14 21:21:19,"Moe's Southwest Grill, 506 Daniels St., Raleigh",35.7912829792,-78.6607253551
+41,2010-04-14 11:26:14,"Buffaloe Lanes Cary Bowling Center, 151 High House Rd, Cary",35.7820575548,-78.7964880466
+42,2010-04-12 23:47:06,"Esquire Haircutters, 2402 Hillsborough St, Raleigh",35.787819219,-78.6673343182
+43,2010-04-12 04:42:25,"The Big Easy Raleigh, 222 Fayetteville St, Raleigh",35.7774096241,-78.6393588781
+44,2010-04-01 02:26:01,"Miller Fields, Dan Allen Dr, Raleigh",35.7824147574,-78.6744240663
+45,2010-03-31 09:37:45,"Shattalon Lake, Sewanne Dr, 4000 Treebrook DR",36.1505056667,-80.34350095
+46,2010-03-28 00:04:19,"The Flying Biscuit, 2016 Clark Ave, Raleigh",35.7896808,-78.6600924
+47,2010-03-27 09:26:07,"Caf Carolina and Bakery, 401 Daniels St, Raleigh",35.7891507828,-78.6614602804
+48,2010-03-26 02:29:38,"Port City Java, 2610 Cates Ave, Raleigh",35.7828371557,-78.671687732
+49,2010-03-24 23:14:06,"Cup A Joe, 3100 Hillsborough St, Raleigh",35.7899087874,-78.6773541872
+50,2010-03-24 07:36:27,"Hong Kong Restaurant, 12287 Capital Blvd, Wake Forest",35.9813487689,-78.5408627987
+51,2010-03-24 07:35:49,"Applebee's, 3625 Hillsborough St, Raleigh",35.79331462,-78.68495016
+52,2010-03-24 07:34:52,"The Brewery, 3009 Hillsborough St, Raleigh",35.7894400973,-78.6765233488
+53,2010-03-24 07:25:43,"Foundation, 213 Fayetteville St, Raleigh",35.7777523676,-78.6392836172
+54,2010-03-24 07:23:55,"The Brickhouse, 3801 Hillsborough St, Raleigh",35.7939239241,-78.6887802827
+55,2010-03-24 07:21:55,"Greek Fiesta at NC State, 3904 Western Blvd, Raleigh",35.7848936,-78.69044211
+56,2010-03-24 07:19:19,"Sweet Tomatoes, 2310 Walnut St, Cary",35.7534438333,-78.741821
+57,2010-03-24 07:18:29,"Bojangles' Famous Chicken 'n Biscuits, 3808 Western Blvd., Raleigh",35.785204,-78.688742
+58,2010-03-24 05:12:22,"Panera Bread, 4325 Glenwood Ave, Raleigh",35.8406141485,-78.6810984131
+59,2010-03-23 22:16:08,"NCSU - University Recreation, 2611 NC State University, Raleigh",35.7828634582,-78.6716434183
+60,2010-03-23 21:50:23,"NC State Schaub Food Science Building, 400 Dan Allen Dr, Raleigh",35.783946243,-78.6780738831
+61,2010-03-23 21:49:15,"Carmichael Gym, 2611 Cates Ave, Raleigh",35.7831990527,-78.6719148395
+62,2010-03-23 09:17:36,"Sammy's Tap & Grill, 2235 Avent Ferry Rd, Raleigh",35.7777490889,-78.6773014069
+63,2010-03-23 03:45:35,"Bill Ellis' Barbecue, 3007 Downing St SW, Wilson",35.7069959595,-77.9506212473
+64,2010-03-16 21:17:06,"The Pour House Music Hall, 224 S Blount St, Raleigh",35.777145,-78.636774
+65,2010-03-16 11:32:19,"Sushi Blues Cafe, 301 Glenwood Ave, Raleigh",35.7844488702,-78.6473760009
+66,2010-03-16 07:03:57,"The Pit Authentic Barbecue, 328 W Davie St, Raleigh",35.7759987399,-78.6447081181
+67,2010-03-16 07:02:42,"The Paris Market & Brocante, 36 W Broughton St, Savannah",32.0792820775,-81.0929944544
+68,2010-03-16 07:00:49,"Cafe @ City Market, City market, Savannah",32.0807738667,-81.09454
+69,2010-03-16 06:58:47,"Savannah Bee Company, 104 W Broughton St, Savannah",32.0793422465,-81.0932531129
+70,2009-10-16 04:51:32,"Carter-Finley Stadium, 4600 Trinity Rd, Raleigh",35.8007013509,-78.7191751788
+71,2009-10-16 04:35:16,"Local 506, 506 W Franklin St, Chapel Hill",35.9102296829,-79.063856

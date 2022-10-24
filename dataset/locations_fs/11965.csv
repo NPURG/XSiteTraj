@@ -1,0 +1,67 @@
+,time,poi,latitude,longitude
+0,2014-03-03 08:18:15,"Copper Coin, 2329 California Ave SW, Seattle",47.5821129812,-122.38665868
+1,2014-01-28 13:41:16,"Club kM, 620 East Eleventh Street, New York",40.726909152,-73.9784896374
+2,2013-11-12 12:52:02,"Mohawk Bend, 2141 W Sunset Blvd, Los Angeles",34.0777106,-118.264743417
+3,2013-08-17 19:42:34,"Polpette, Drottninggatan 6, Stockholm",59.3293097076,18.0659678921
+4,2013-08-13 19:04:10,"Kajsas Fisk, Htorgshallen 3, Stockholm",59.3345683896,18.0620384216
+5,2013-08-04 04:18:21,"RIO All-Suite Hotel & Casino, 3700 W Flamingo Rd, Las Vegas",36.1167902744,-115.18780724
+6,2013-08-02 10:41:47,"MGM Grand Hotel & Casino, 3799 Las Vegas Blvd S, Las Vegas",36.10201277,-115.169777839
+7,2013-06-11 06:23:46,"Temple Billiards, 126 S Jackson St, Seattle",47.5992735855,-122.333302408
+8,2013-04-28 22:28:06,"Juliette's Bistro, 245 Water St, Jacksonville",30.3261434169,-81.6618857398
+9,2013-04-22 05:51:05,"John Colins, 138 Minna St, San Francisco",37.786948284,-122.400199551
+10,2013-04-22 05:50:16,"John Colins, 138 Minna St, San Francisco",37.786948284,-122.400199551
+11,2013-02-27 13:33:25,"Pike Brewing Company, 1415 1st Ave, Seattle",47.6081909758,-122.339662243
+12,2013-01-21 14:46:59,"The Pine Box, 1600 Melrose Ave, Seattle",47.6154374698,-122.327664059
+13,2013-01-16 15:20:27,"Sloppy Beginning, 1420 N Mansfield Ave Apt 207, Los Angeles",34.0967483521,-118.340209961
+14,2013-01-03 11:06:19,"Zippy's Giant Burgers, 9614 14th Ave SW, Seattle",47.5168616684,-122.352560164
+15,2012-11-09 16:46:20,"Boeing IMAX Theater, 200 2nd Ave N, Seattle",47.6197666396,-122.351119032
+16,2012-04-10 06:34:28,"Waterfall Garden Park, 219 2nd Ave S, Seattle",47.6002130196,-122.332059639
+17,2012-01-01 06:43:44,"Alki Beach Park, 1702 Alki Ave. SW, Seattle",47.5809550142,-122.406728268
+18,2011-12-27 16:36:05,"Oz Turk Pizza & Kebabs, 704 George St, Sydney",-33.8781893759,151.205631084
+19,2011-12-24 16:00:10,"Tommee Pickles, Tommee Way, Los Angeles",34.0975185348,-118.332802353
+20,2011-12-08 05:20:03,"Club kM, 620 East Eleventh Street, New York",40.726909152,-73.9784896374
+21,2011-10-04 23:22:28,"Spira Power Yoga, 2332 California Ave SW, Seattle",47.582765344,-122.385834716
+22,2011-10-03 09:00:53,"Costco Wholesale, 4401 4th Ave S, Seattle",47.5649207427,-122.330523044
+23,2011-08-25 00:52:19,"Safeway, 2622 California Ave SW, Seattle",47.5799611666,-122.386076055
+24,2011-08-17 22:58:43,"Chelan Cafe, 3527 Chelan Ave SW, Seattle",47.5717633897,-122.361226118
+25,2011-08-14 01:12:25,"McCoy's Firehouse Bar & Grill, 173 S Washington St, Seattle",47.6007067958,-122.331816852
+26,2011-07-16 03:47:27,"Waterville Hotel, 102 E. Park St., Waterville",47.646403,-120.074332
+27,2011-07-16 02:58:16,"CenturyLink Field, 800 Occidental Ave S, Seattle",47.5951536053,-122.33170583
+28,2011-07-03 09:41:47,"Burnt Mountain Store, 203841 hwy 101, Beaver",48.0697441072,-124.284313402
+29,2011-07-03 07:21:14,"Longhouse Market & Deli, 271020 US 101, Sequim",48.0200305111,-123.0035936
+30,2011-06-12 12:07:58,"La Playa Mexican Restaurant, 10824 Vashon Hwy SW, Vashon",47.50862,-122.4639
+31,2011-06-03 13:12:39,"Olympia Pizza and Spaghetti House III, 516 15th Ave E, Seattle",47.6238394652,-122.312557379
+32,2011-05-09 04:33:56,"Fauntleroy Ferry Terminal, 4829 SW Barton St., Seattle",47.5232267803,-122.395346829
+33,2011-05-04 10:10:01,"Nikko Teriyaki, 4710 42nd Ave SW, Seattle",47.5606181,-122.38532
+34,2011-04-04 05:34:25,"Fox Sports Sky Box, Concourse B, Las Vegas",36.0836444524,-115.151654772
+35,2011-01-13 12:02:14,"Mashiko, 4725 California Ave SW, Seattle",47.5603757037,-122.386999055
+36,2010-11-19 17:34:50,"Ayres Porteos Tango Suites Buenos Aires, Chacabuco 615, Buenos Aires",-34.6151724,-58.3760757
+37,2010-09-19 10:07:48,"Montlake Blvd Market, 2605 22nd Ave E, Seattle",47.643315807,-122.304007779
+38,2010-08-07 07:38:24,"The Brick Saloon, 100 W. Pennsylvania Ave, Roslyn",47.222729,-120.9933797
+39,2010-08-07 01:33:32,"The Tav, 117 W 4th Ave, Ellensburg",46.995674,-120.548132
+40,2010-08-06 08:20:42,"Coldwell Banker Kittitas Valley Realty/Gary Mabee, 100 W 3rd Ave, Ellensburg",46.9752361321,-120.540261426
+41,2010-07-26 04:27:23,"Kenny & Zuke's Delicatessen, 1038 SW Stark St, Portland",45.5221683595,-122.68198788
+42,2010-07-08 00:22:42,"Zeeks Pizza, 6459 California Ave SW, Seattle",47.54509,-122.38722
+43,2010-03-21 04:43:06,"Spud Fish & Chips, 2666 Alki Ave SW, Seattle",47.57959252,-122.408821
+44,2009-11-28 22:12:01,"Corona's Mexican Grill, 2355 W 136th Ave, Broomfield",39.944259014,-105.012559891
+45,2009-11-26 12:01:47,"Rock Bottom Brewery, 10633 Westminster Blvd, Westminster",39.8892535058,-105.069329741
+46,2009-11-26 12:00:22,"Rock Bottom Brewery, 10633 Westminster Blvd, Westminster",39.8892535058,-105.069329741
+47,2009-09-14 10:03:50,"Alaska Airlines Field at Husky Stadium, 3800 Montlake Blvd, Seattle",47.650430544,-122.302919847
+48,2009-09-14 10:02:50,"Regal Cinemas Thornton Place 14 & IMAX, 301 NE 103rd St, Seattle",47.70281174,-122.3252019
+49,2009-08-16 13:55:17,"McCoy's Firehouse Bar & Grill, 173 S Washington St, Seattle",47.6007067958,-122.331816852
+50,2009-08-05 14:19:14,"Universal CityWalk, 100 Universal City Plz, Universal City",34.1363370906,-118.352897796
+51,2009-08-04 07:21:16,"Fremont Street Experience, 425 Fremont St, Las Vegas",36.1704783049,-115.14306188
+52,2009-08-04 04:43:52,"The Coffee Bean & Tea Leaf, 6115 S Rainbow Blvd Ste 101, Las Vegas",36.0771158006,-115.243214863
+53,2009-08-03 03:22:48,"Circus Circus Hotel & Casino, 2880 Las Vegas Blvd S, Las Vegas",36.1379645774,-115.165331124
+54,2009-08-01 21:28:15,"Mr Lucky19s, 4455 Paradise Rd, Las Vegas",36.1089314944,-115.154040359
+55,2009-08-01 13:58:26,"Galleria Bar, 3570 Las Vegas Blvd S, Las Vegas",36.1159325172,-115.174091325
+56,2009-07-26 01:57:41,"Mother's Bistro & Bar, 212 SW Stark St, Portland",45.5201562439,-122.673713062
+57,2009-07-25 09:01:46,"Union Station Amtrak (PDX), 800 NW 6th Ave, Portland",45.5289033164,-122.67693212
+58,2009-07-08 13:46:34,"Pioneer Square Saloon, 77 Yesler Way, Seattle",47.601803,-122.335576
+59,2009-05-23 13:58:15,"Elliott Bay Brewery and Pub, 4720 California Ave SW, Seattle",47.5603991747,-122.386541963
+60,2009-05-19 13:57:35,"VFW, 7421 S 126th St, Seattle",47.4909625664,-122.24054842
+61,2009-05-10 12:05:18,"Bahama Breeze, 15700 Southcenter Pkwy, Tukwila",47.46106,-122.261416
+62,2009-05-04 13:00:57,"Zeeks Pizza, 6459 California Ave SW, Seattle",47.54509,-122.38722
+63,2009-05-04 13:00:08,"West 5, 4539 California Ave SW, Seattle",47.5617941312,-122.387079745
+64,2009-05-03 04:05:47,"Pho Than Brothers - West Seattle, 4822 California Ave SW, Seattle",47.5586416623,-122.386713708
+65,2009-05-02 13:06:14,"The 5 Point Cafe, 415 Cedar St, Seattle",47.6181315194,-122.347429991

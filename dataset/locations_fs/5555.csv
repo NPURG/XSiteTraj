@@ -1,0 +1,91 @@
+,time,poi,latitude,longitude
+0,2016-09-25 05:03:41,"Small World Restaurant, 928 Coombs St, Napa",38.2982517015,-122.28669654
+1,2016-01-03 02:01:46,"OneFold, 1429 E 18th Ave, Denver",39.7447131459,-104.969440617
+2,2016-01-03 02:01:15,"Novo Coffee, 1600 Glenarm Pl, Denver",39.7445569983,-104.989580103
+3,2016-01-03 02:00:44,"Yard House, 1555 Court Place, Denver",39.7430437707,-104.989300529
+4,2015-06-09 11:20:41,"The Grove, 690 Mission St, San Francisco",37.7865339849,-122.401921749
+5,2015-03-22 00:17:01,"Picnic on Third, 493 3rd St, San Francisco",37.7815207071,-122.395796307
+6,2015-03-22 00:16:13,"Workshop Cafe, 180 Montgomery St Ste 100, San Francisco",37.7906504193,-122.402200699
+7,2014-12-12 04:32:37,"Piccino Cafe, 1001 Minnesota St, San Francisco",37.7577374502,-122.390109432
+8,2014-12-03 12:36:19,"Nopalito, 1224 9th Ave, San Francisco",37.7659314106,-122.466402054
+9,2014-11-29 15:52:06,"Philz Coffee, 3191 Middlefield Rd, Palo Alto",37.4295039657,-122.122685015
+10,2014-11-29 15:49:51,"The Counter Palo Alto, 369 S California Ave, Palo Alto",37.4268031128,-122.144259194
+11,2014-11-29 15:49:14,"Cafe Epi, 405 University Ave, Palo Alto",37.4472994099,-122.160415853
+12,2014-11-29 15:46:12,"Flatiron Building, 175 5th Ave, New York",40.74168083,-73.98952961
+13,2014-11-29 15:45:39,"Grand Central Terminal, 87 E 42nd St, New York",40.7526001065,-73.9771058716
+14,2014-11-29 15:44:59,"Empire State Building, 350 5th Ave, New York",40.7484977301,-73.9853817958
+15,2014-11-29 15:44:02,"Don Antonio by Starita, 309 W 50th St, New York",40.7625992962,-73.9865755196
+16,2014-11-29 15:42:57,"Blue Bottle Coffee, 1 Rockefeller Plz, New York",40.7586589309,-73.9787817463
+17,2014-11-29 15:42:23,"Leica Store SoHo, 460 W Broadway, New York",40.7262185384,-74.0005151394
+18,2014-11-29 15:42:13,"Porsche Design, 467 W Broadway, New York",40.7265920574,-74.0003657341
+19,2014-11-29 15:41:46,"Dear Irving, 55 Irving Pl, New York",40.7361144322,-73.9874421126
+20,2014-11-29 15:40:57,"Everyman Espresso, 301 W Broadway, New York",40.7215249871,-74.0046239486
+21,2014-11-29 15:40:00,"Brickyard Gastropub, 785 9th Ave, New York",40.7649185091,-73.9877864531
+22,2014-11-29 15:39:24,"Madman Espresso, 319 E 14th St, New York",40.7320220088,-73.984113456
+23,2014-11-29 15:38:55,"David's Bagels, 273 1st Ave, New York",40.7324240765,-73.9817317095
+24,2014-11-29 15:37:50,"Lombardi's Coal Oven Pizza, 32 Spring St, New York",40.7215671254,-73.9955914021
+25,2014-11-29 15:37:12,"Rye House, 11 W 17th St, New York",40.73830504,-73.9930088747
+26,2014-11-29 15:36:29,"Monk19s Kettle, 3141 16th St, San Francisco",37.7648027162,-122.422926432
+27,2014-11-29 15:35:54,"Elbo Room, 647 Valencia St, San Francisco",37.7625499568,-122.421494048
+28,2014-11-29 15:35:00,"Dosa, 1700 Fillmore St, San Francisco",37.7853389558,-122.432913863
+29,2014-11-29 15:34:04,"Trader Joe's, 1820-22 S Grant Street, San Mateo",37.5544784316,-122.302808762
+30,2014-11-21 02:42:24,"Magnolia Gastropub & Brewery, 1398 Haight St, San Francisco",37.770223,-122.445354
+31,2014-11-21 02:42:02,"The Cavalier, 360 Jessie St, San Francisco",37.7832652624,-122.406792641
+32,2014-11-18 05:36:22,"Magnolia Gastropub & Brewery, 1398 Haight St, San Francisco",37.770223,-122.445354
+33,2014-10-23 04:47:09,"Citizen's Band, 1198 Folsom St, San Francisco",37.7751709,-122.4100535
+34,2014-10-23 00:42:06,"Coffee Cultures, 225 Bush St, San Francisco",37.7910149696,-122.401112261
+35,2014-08-20 03:44:06,"Blue Fog Market, 2567 Gough St, San Francisco",37.797331,-122.427184
+36,2014-08-18 10:16:24,"Dosa, 1700 Fillmore St, San Francisco",37.7853389558,-122.432913863
+37,2014-08-08 14:23:11,"Hard Water, Pier 3, San Francisco",37.79730215,-122.395641415
+38,2014-08-08 06:28:25,"Roam Artisan Burgers, 1923 Fillmore St, San Francisco",37.7877054275,-122.433627214
+39,2014-08-08 00:34:03,"Swensen's Ice Cream, 1999 Hyde St, San Francisco",37.799060629,-122.419224679
+40,2014-08-07 22:48:44,"Smuggler's Cove, 650 Gough St, San Francisco",37.7793898026,-122.423446288
+41,2014-08-07 22:48:17,"CHAMBERS eat + drink, 601 Eddy St, San Francisco",37.7831465512,-122.418197393
+42,2014-08-07 22:47:42,"Sightglass Coffee, 270 7th St, San Francisco",37.7770249037,-122.408529808
+43,2014-08-07 22:38:32,"Bruce Ross & Company, 2906 Octavia St, San Francisco",37.7990869128,-122.429208781
+44,2014-08-07 13:36:42,"Squat & Gobble, 2263 Chestnut St, San Francisco",37.8001620406,-122.440495048
+45,2014-08-07 13:36:14,"Pizzeria Delfina, 2406 California St, San Francisco",37.7889116081,-122.434274203
+46,2014-08-07 13:33:55,"Super Duper Burgers, 2203 Chestnut St, San Francisco",37.8002220444,-122.439676523
+47,2014-08-07 13:33:24,"Delarosa, 2175 Chestnut St, San Francisco",37.8003875735,-122.439123729
+48,2014-08-07 13:32:26,"State Bird Provisions, 1529 Fillmore St, San Francisco",37.7838765351,-122.432913863
+49,2014-08-07 13:31:02,"Warming Hut Park Store & Cafe, Presidio Building 983, San Francisco",37.8083090585,-122.470704317
+50,2014-08-07 13:30:15,"Ritual Coffee Roasters, 432 Octavia St, San Francisco",37.7764926834,-122.424231599
+51,2014-08-07 13:29:33,"The Mill, 736 Divisadero St, San Francisco",37.7763288173,-122.438024282
+52,2014-08-07 13:25:25,"Bi-Rite Creamery, 550 Divisadero St, San Francisco",37.7748069361,-122.437741333
+53,2014-08-07 13:24:46,"Roam Artisan Burgers, 1785 Union St, San Francisco",37.7979727463,-122.42854517
+54,2014-08-07 13:20:09,"Gracias Madre, 2211 Mission St, San Francisco",37.7614700848,-122.419452667
+55,2014-08-07 13:17:01,"Amelie, 1754 Polk St, San Francisco",37.793094192,-122.421184341
+56,2014-08-07 13:16:18,"In-N-Out Burger, 130 Grass Valley Hwy, Auburn",38.9013865239,-121.074789183
+57,2014-08-07 13:15:49,"RN74, 301 Mission St, San Francisco",37.7909113264,-122.396166939
+58,2014-08-07 13:15:06,"Olea, 1494 California St, San Francisco",37.7908613285,-122.419044018
+59,2014-08-07 12:59:17,"Wild Hare, 2801 California St, San Francisco",37.7879976721,-122.440561402
+60,2014-08-07 12:58:23,"Local Edition, 691 Market St, San Francisco",37.7876665585,-122.403435486
+61,2014-08-07 12:56:10,"The Brixton, 2140 Union St, San Francisco",37.7973617954,-122.434578342
+62,2014-08-07 12:55:43,"Za Pizza, 1919 Hyde St, San Francisco",37.798597,-122.418956
+63,2014-08-07 12:51:23,"The Girl & The Fig, 110 W Spain St, Sonoma",38.293944838,-122.458763123
+64,2014-08-07 12:50:02,"Sebastiani Vineyards & Winery, 389 4th St E, Sonoma",38.2936001815,-122.449120675
+65,2014-08-07 12:48:14,"Cheese Plus, 2001 Polk St, San Francisco",37.7949941091,-122.42175951
+66,2014-08-07 12:47:58,"Saint Frank, 2340 Polk St, San Francisco",37.7984460643,-122.422213007
+67,2014-08-07 12:47:35,"Third Rail, 628 20th St, San Francisco",37.7605411118,-122.388239556
+68,2014-08-07 12:36:10,"Kokkari Estiatorio, 200 Jackson St, San Francisco",37.7969359283,-122.399757022
+69,2014-08-07 12:35:03,"Mamacita, 2317 Chestnut St, San Francisco",37.8000521426,-122.441534584
+70,2014-08-07 12:34:12,"Small Foods, 522 2nd St, San Francisco",37.782639,-122.39335
+71,2014-08-07 12:33:22,"Umami Burger, 2184 Union St, San Francisco",37.7972346106,-122.435192147
+72,2014-08-07 12:30:28,"Tradition, 441 Jones St, San Francisco",37.785433,-122.412911
+73,2014-08-07 12:26:23,"Tony's Coal-Fired Pizza & Slice House, 1556 Stockton St, San Francisco",37.8002450257,-122.409226732
+74,2014-08-07 12:25:52,"Tony19s Pizza Napoletana, 1570 Stockton St, San Francisco",37.800328012,-122.409040332
+75,2014-08-07 12:23:43,"Toronado, 547 Haight St, San Francisco",37.7719274835,-122.431029081
+76,2014-08-07 12:23:30,"Blackbird Bar, 2124 Market St, San Francisco",37.7673053769,-122.429409027
+77,2014-08-07 12:22:40,"Town's End Restaurant & Bakery, 2 Townsend St, San Francisco",37.7818746336,-122.389200032
+78,2014-08-07 12:22:01,"Crossroads Caf, 699 Delancey St, San Francisco",37.7830914352,-122.388875484
+79,2014-08-07 12:21:22,"WORLD BREAKFAST ALL DAY, 5eae4d3-1-23, 71ac",35.6704278935,139.713829458
+80,2014-08-07 12:17:54,"Blackwood, 2150 Chestnut St, San Francisco",37.8005723996,-122.438780897
+81,2014-08-07 08:43:20,"Samovar Tea Lounge, 730 Howard St, San Francisco",37.784282779,-122.402265072
+82,2014-08-07 08:35:10,"Zero Zero, 826 Folsom St, San Francisco",37.7816711248,-122.401771545
+83,2014-08-07 03:59:35,"Brannan Street Cafe, 274 Brannan St, San Francisco",37.78227205,-122.391580968
+84,2014-08-07 03:55:37,"Ozone Thai, 598 2nd St, San Francisco",37.7818809933,-122.392335534
+85,2014-08-07 03:53:12,"Homebrew, 300 Brannan St Ste 308, San Francisco",37.7816958875,-122.392510349
+86,2014-06-04 17:21:58,"L'Antica Pizzeria da Michele08c0fbdfb1fcec09, 75d4ff4-4-7, 71ac",35.6452457477,139.711761475
+87,2014-05-23 17:59:08,"Craft Beer Market 5edd3a97, 5e305edd3a2-11-15, 43e3303a",35.6952133892,139.75690985
+88,2013-02-14 10:51:49,"San Francisco Caltrain Station, 700 4th St, San Francisco",37.7764317744,-122.395303973
+89,2012-11-12 14:35:02,"California Pizza Kitchen at Stanford Shopping Center, 136 Stanford Shopping Center, Palo Alto",37.4433939,-122.1722743

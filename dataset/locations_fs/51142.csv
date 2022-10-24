@@ -1,0 +1,111 @@
+,time,poi,latitude,longitude
+0,2016-09-07 10:14:41,"Barney's Gourmet Hamburgers, 4138 24th St, San Francisco",37.7513170546,-122.434970956
+1,2016-09-07 10:14:10,"Belga, 2000 Union St, San Francisco",37.7975455998,-122.432371933
+2,2016-09-07 10:12:23,"La Mditerrane, 2210 Fillmore St, San Francisco",37.790039,-122.434055
+3,2016-09-02 07:57:35,"Asha Tea House, 17 Kearny St, San Francisco",37.7880811883,-122.403424424
+4,2016-09-02 07:57:18,"Patxi19s Pizza, 4042 24th St, San Francisco",37.7514099623,-122.432869624
+5,2016-09-02 07:55:39,"Noe Valley Bakery, 4073 24th St, San Francisco",37.7513013328,-122.433533207
+6,2016-08-09 16:57:12,"Firefly Restaurant, 4288 24th St, San Francisco",37.7511045212,-122.438335419
+7,2016-08-08 04:30:15,"Noe Valley Bakery, 4073 24th St, San Francisco",37.7513013328,-122.433533207
+8,2016-07-25 05:48:15,"Paramount, 680 Mission St, San Francisco",37.7865296521,-122.401875612
+9,2016-05-13 04:09:21,"Bareburger, 366 W 46th St, New York",40.7607495292,-73.9902656864
+10,2016-05-13 04:07:38,"Barbuto, 775 Washington St, New York",40.7377138585,-74.0080153942
+11,2016-05-13 04:06:32,"Sarabeth's East, 1295 Madison Ave, New York",40.7848813491,-73.955915129
+12,2016-05-13 04:06:03,"Catch, 21 9th Ave, New York",40.7402295202,-74.0059093681
+13,2016-05-13 04:05:05,"Levain Bakery, 167 W 74th St, New York",40.7798427593,-73.9805603027
+14,2016-05-13 04:04:50,"CoCo Fresh Tea & Juice, 118 W 72nd St, New York",40.777737,-73.979439
+15,2016-05-13 04:03:11,"Clinton St. Baking Co. & Restaurant, 4 Clinton St, New York",40.721229677,-73.9838138223
+16,2015-10-07 09:21:41,"Pinky Nail Salon, 302 Amsterdam Ave., New York",40.7792225012,-73.9812496174
+17,2015-09-06 08:12:11,"Toby's Estate Coffee, 160 5th Ave, New York",40.7400822479,-73.9906387164
+18,2015-09-06 08:09:12,"Giovanni Rana Pastificio & Cucina, 75 9th Ave, Chelsea Market, New York",40.7420325211,-74.0045091786
+19,2015-06-21 06:07:52,"Dos Pias, 251 Rhode Island St, San Francisco",37.7663067095,-122.402549386
+20,2015-04-15 06:03:05,"Gasoline Alley Coffee, 325 Lafayette St, New York",40.7255513259,-73.9947652817
+21,2015-04-15 06:02:22,"Blick Art Materials, 1-5 Bond St, New York",40.726868499,-73.994808197
+22,2015-04-01 05:57:08,"Hearth, 403 E 12th St, New York",40.7299418013,-73.9833819866
+23,2015-03-18 06:47:48,"CO Bigelow Pharmacy, 414 Avenue of the Americas, New York",40.7340351897,-73.9994018435
+24,2015-03-18 06:42:55,"Bluemercury, 2305 Broadway, New York",40.786630809,-73.9777601532
+25,2015-03-18 06:39:37,"Birch Coffee, 134 1/2 E 62nd St, New York",40.7640527084,-73.9665911464
+26,2015-03-06 05:55:17,"HECHO, 2200 Market St, San Francisco",37.7657639037,-122.43131876
+27,2015-02-20 02:09:47,"Corrado Bread & Pastry, 960 Lexington Ave, New York",40.7692815512,-73.9632225037
+28,2014-09-28 02:04:46,"Sugar and Plumm, 377 Amsterdam Ave, New York",40.7825927244,-73.978484273
+29,2014-09-28 02:02:16,"Fat Cat, 75 Christopher St, New York",40.7336334046,-74.002879437
+30,2014-09-28 01:58:28,"Great Burrito, 100 W 23rd St, New York",40.7431080734,-73.992962964
+31,2014-08-27 08:50:07,"Amsterdam Ale House, 340 Amsterdam Ave, New York",40.7812743895,-73.9799066403
+32,2014-07-29 03:03:53,"Passage du Grand Cerf, Passage du Grand Cerf, Paris",48.86476,2.349486
+33,2014-07-11 04:27:17,"Elsewhere Espresso, 335 E 6th St, New York",40.7266977388,-73.9869141226
+34,2014-06-28 05:22:08,"Whole Foods Market, 4315 Arden Way, Sacramento",38.596576945,-121.363751292
+35,2014-06-27 06:49:15,"Gotham West Market, 600 11th Ave, New York",40.7624460061,-73.9970030705
+36,2014-06-23 10:43:44,"Hearst San Simeon State Historic Monument, 750 Hearst Castle Rd, San Simeon",35.6508094779,-121.186208501
+37,2014-06-23 10:39:05,"San Simeon State Beach, Cabrillo Hwy, Cambria",35.6137156737,-121.144948208
+38,2014-03-20 04:44:39,"Lake Arrowhead Resort, 27984 highway 189, Lake Arrowhead",34.2518070424,-117.192385197
+39,2014-01-20 20:36:56,"Kimpton Nine Zero Hotel, 90 Tremont St, Boston",42.357388,-71.060696
+40,2013-12-25 06:24:25,"Grand Central Holiday Fair, in Vanderbilt Hall, New York",40.7525197892,-73.9776281492
+41,2013-12-03 05:22:23,"Metropolitan Museum of Art, 1000 5th Ave, New York",40.7791685266,-73.9627570318
+42,2013-11-20 05:48:10,"The Pullman Kitchen, 959 2nd Ave, New York",40.7554143256,-73.9681523209
+43,2013-11-20 05:44:41,"Corrado Bread & Pastry, 960 Lexington Ave, New York",40.7692815512,-73.9632225037
+44,2013-11-05 10:48:41,"Thai Stick, 2001 Fillmore St, San Francisco",37.788019,-122.433758
+45,2013-10-04 06:00:46,"1095 Avenue of the Americas Plaza, 1095 Avenue of the Americas, New York",40.7509771714,-73.9861795255
+46,2013-09-07 13:14:40,"Kinokuniya Bookstore, 1073 Avenue of the Americas, New York",40.754106329,-73.9846529319
+47,2013-08-15 02:00:45,"Essex Street Market, 120 Essex St, New York",40.7191806315,-73.9878553211
+48,2013-08-14 08:43:14,"Andanada, 141 W 69th St, New York",40.7762879036,-73.9815423163
+49,2013-08-14 07:23:18,"Murray's Bagels, 500 Avenue of the Americas, New York",40.7363745441,-73.9972892404
+50,2013-08-14 07:22:25,"Jane, 100 W Houston St, New York",40.7271735328,-74.0003315034
+51,2013-08-14 07:21:15,"Lomography Gallery Store New York, 41 W 8th St, New York",40.733123,-73.9984249694
+52,2013-08-14 07:20:46,"International Center of Photography, 250 Bowery, New York",40.7229718953,-73.9930031359
+53,2013-08-14 07:20:15,"B&H Photo Video, 420 9th Ave, New York",40.7529335022,-73.9963302612
+54,2013-08-14 07:20:01,"Jack's Stir Brew Coffee, 138 W 10th St, New York",40.7346585689,-74.0006184345
+55,2013-08-14 07:18:56,"Empelln Cocina, 105 1st Ave, New York",40.7267871927,-73.9861178398
+56,2013-08-14 07:18:44,"Empelln Taqueria, 230 W 4th St, New York",40.7341805699,-74.0029253454
+57,2013-08-14 07:16:55,"Irving Farm Coffee Roasters, Grand Central Terminal, New York",40.7527812943,-73.977042739
+58,2013-08-14 07:16:40,"Irving Farm Coffee Roasters, 224 W 79th St, New York",40.7835795052,-73.9794360222
+59,2013-08-14 07:15:53,"TK Kitchen (TKettle), 26 Saint Marks Pl, New York",40.7290603052,-73.9885899118
+60,2013-08-14 07:15:30,"Momofuku Milk Bar, 561 Columbus Ave, New York",40.7871679272,-73.9717050937
+61,2013-08-13 09:07:24,"Momofuku Milk Bar, 561 Columbus Ave, New York",40.7871679272,-73.9717050937
+62,2013-08-07 06:13:49,"The Booksmith, 1644 Haight St, San Francisco",37.7697670026,-122.449302971
+63,2013-08-07 06:12:55,"A16, 2355 Chestnut St, San Francisco",37.7997832589,-122.442026702
+64,2013-08-07 06:11:16,"Flora Grubb Gardens, 1634 Jerrold Ave, San Francisco",37.73961925,-122.39023187
+65,2013-08-07 06:09:39,"The Grove, 2016 Fillmore St, San Francisco",37.788196798,-122.43375993
+66,2013-08-07 06:06:49,"Zushi Puzzle, 1910 Lombard St, San Francisco",37.80026,-122.433122
+67,2013-08-07 06:06:06,"Miette Patisserie, 1 Ferry Building Ste 10, San Francisco",37.7958009385,-122.393832207
+68,2013-08-07 05:59:50,"Sightglass Coffee, 270 7th St, San Francisco",37.7770249037,-122.408529808
+69,2013-08-07 05:54:52,"Quetzal, 1234 Polk St, San Francisco",37.7884293552,-122.420332641
+70,2013-08-07 05:53:35,"Bob's Donut & Pastry Shop, 1621 Polk St, San Francisco",37.791902136,-122.420929938
+71,2013-08-07 05:52:40,"Pizza Orgasmica, 3157 Fillmore St, San Francisco",37.798704541,-122.435855715
+72,2013-08-07 05:51:35,"Pizzeria Delfina, 3611 18th St, San Francisco",37.761594,-122.42427
+73,2013-08-07 05:49:57,"Bi-Rite Creamery, 3692 18th St, San Francisco",37.7614679284,-122.425735838
+74,2013-08-07 05:48:31,"Mamacita, 2317 Chestnut St, San Francisco",37.8000521426,-122.441534584
+75,2013-08-07 05:45:22,"Genki Crepes, 330 Clement St, San Francisco",37.783033,-122.462893
+76,2013-08-07 05:37:29,"International Center of Photography, 250 Bowery, New York",40.7229718953,-73.9930031359
+77,2013-08-07 05:27:32,"Photoworks, 2077 Market St, San Francisco",37.7675565828,-122.428794024
+78,2013-08-07 05:20:32,"Adolph Gasser Inc, 181 2nd St, San Francisco",37.7870254225,-122.398556654
+79,2013-08-07 05:15:21,"Rayko Photo Center, 428 3rd St, San Francisco",37.7820361845,-122.397278827
+80,2013-08-01 06:31:22,"Metalliferous, 34 W 46th St Fl 3, New York",40.7567126045,-73.9807675241
+81,2013-07-29 12:59:27,"Parm, 248 Mulberry St, New York",40.723019825,-73.995854
+82,2013-07-28 15:09:02,"Charles Chocolates, 535 Florida St, San Francisco",37.76272539,-122.411105633
+83,2013-07-28 15:05:42,"Charles Chocolates, 535 Florida St, San Francisco",37.76272539,-122.411105633
+84,2013-07-28 05:59:45,"Gare SNCF de Paris Lyon, Place Louis Armand, Paris",48.8445497006,2.37504311448
+85,2013-07-28 05:35:45,"Colibr Mexican Bistro, 438 Geary St, San Francisco",37.7870511218,-122.410565256
+86,2013-07-06 09:17:04,"Broadway Hardware, 2748 Broadway, New York",40.8006869742,-73.9680375291
+87,2013-07-05 08:22:40,"Peacefood Cafe, 460 Amsterdam Ave, New York",40.7852107048,-73.9769164738
+88,2013-06-28 09:35:00,"Hester Nights at Eventi Plaza, 851 Avenue of the Americas, New York",40.7471265128,-73.9901681245
+89,2013-06-26 09:17:46,"Bethesda Fountain, Terrace Dr, New York",40.7742937388,-73.9708399773
+90,2013-06-26 09:14:23,"Bridle Path - Central Park, Central Park, New York",40.7841880887,-73.9671306714
+91,2013-06-26 06:35:01,"Ricky's NYC, 2387 Broadway, New York",40.78929613,-73.9757571262
+92,2013-06-22 01:58:44,"SoHo Park, 62 Prince St, New York",40.7236686686,-73.9966013592
+93,2013-06-22 01:56:29,"Jacob's Pickles, 509 Amsterdam Ave, New York",40.7866260713,-73.9755231142
+94,2013-06-17 13:35:32,"Popbar, 5 Carmine St, New York",40.7306409984,-74.0020179749
+95,2013-06-17 13:25:44,"El Aguila, 1634 Lexington Ave, New York",40.7903891136,-73.9477240423
+96,2013-05-07 05:20:18,"Caf du Parc, 1401 Pennsylvania Avenue, NW, Washington",38.8963884085,-77.032835897
+97,2013-03-12 02:18:20,"Harvest Market, 1031 Mountain Rd, Stowe",44.4737285056,-72.6989878389
+98,2013-03-03 07:45:42,"Van Leeuwen Artisan Ice Cream, 48 1/2 E 7th St, New York",40.7279050546,-73.9877634971
+99,2013-02-28 14:02:01,"Zazie, 941 Cole St, San Francisco",37.7652491292,-122.450021902
+100,2013-02-26 03:45:23,"Beadazzled, 3568 MT Diablo Blvd, Lafayette",37.8901249013,-122.122321297
+101,2012-11-05 11:33:28,"Primavera, Ferry Plaza Farmers Market, San Francisco",37.7951845765,-122.391979275
+102,2012-11-05 11:29:32,"Pancho Villa Taqueria, 3071 16th St, San Francisco",37.7648903173,-122.421088815
+103,2012-11-05 11:28:11,"Dos Pias, 251 Rhode Island St, San Francisco",37.7663067095,-122.402549386
+104,2012-11-05 11:23:56,"Dolores Park Cafe, 501 Dolores St, San Francisco",37.7613131702,-122.425785363
+105,2012-11-05 11:21:40,"Pizza Orgasmica, 3157 Fillmore St, San Francisco",37.798704541,-122.435855715
+106,2012-10-27 04:51:49,"La Vita  Bella, Coast road, Tulum",20.1995586128,-87.4352185556
+107,2009-11-18 14:12:02,"Jovino, 2184 Union St, San Francisco",37.797204,-122.435229
+108,2009-10-31 12:33:54,"Thai Stick, 698 Post St, San Francisco",37.78763196,-122.413378
+109,2009-10-13 18:02:26,"Huntington Park, Taylor St, San Francisco",37.7921027879,-122.412230089

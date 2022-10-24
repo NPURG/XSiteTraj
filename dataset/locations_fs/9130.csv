@@ -1,0 +1,101 @@
+,time,poi,latitude,longitude
+0,2016-08-01 10:23:21,"General Mitchell International Airport (MKE), 5300 S Howell Ave, Milwaukee",42.9486342373,-87.9007251764
+1,2016-08-01 10:21:41,"Community Bicycle Supply, 496 Tremont St, Boston",42.345501712,-71.0697957565
+2,2016-07-25 12:40:21,"Portillo's, 17685 W Bluemound Rd, Brookfield",43.0360682137,-88.1326727555
+3,2016-07-25 12:39:13,"Circa 1880, 1100 S 1st St, Milwaukee",43.0200815171,-87.9110339169
+4,2016-07-11 04:32:18,"Chacarero, 101 Arch St, Boston",42.3550416265,-71.0586127639
+5,2016-06-12 07:22:00,"Na Lato, Rozbrat 44, Warszawa",52.2281336317,21.033108213
+6,2016-06-12 07:21:09,"Kita Koguta, Krucza 6/14, Warszawa",52.2254754966,21.0189679841
+7,2016-04-24 10:59:26,"Island Creek Oyster Bar, 500 Commonwealth Ave, Boston",42.3487163948,-71.0951632261
+8,2016-04-17 05:45:49,"Taqueria El Amigo, 196 Willow St, Waltham",42.370433,-71.220821
+9,2016-03-28 06:35:59,"Joseph Gann, 387 Washington St, Boston",42.355972,-71.059303
+10,2016-02-28 23:38:25,"Philly Style Bagels, 1447 E Columbia Ave, Philadelphia",39.9744312649,-75.1327124717
+11,2015-11-08 06:49:40,"Dishoom, 7 Boundary St, Shoreditch",51.5245236192,-0.0767478675563
+12,2015-10-24 04:12:02,"Vagabond, 1122 North Edison St, Milwaukee",43.04462513,-87.9118721162
+13,2015-10-23 06:00:23,"Boston Logan International Airport (BOS), 1 Harborside Dr, Boston",42.3654998972,-71.0178064867
+14,2015-08-31 08:58:55,"Di Fara Pizza, 1424 Avenue J, Brooklyn",40.6251706952,-73.9615000226
+15,2015-08-16 09:17:29,"Franklin Cafe, 278 Shawmut Ave, Boston",42.3430444923,-71.0691225729
+16,2015-08-14 19:32:06,"Porky's, 18 Chalk Farm Rd, London",51.5421979623,-0.146288118952
+17,2015-08-14 19:30:34,"10 Greek Street, 10 Greek St, Soho",51.514456,-0.130907
+18,2015-08-14 19:29:15,"London Heathrow Airport (LHR), 234 Bath Rd, Hounslow",51.4709851642,-0.466146469116
+19,2015-08-10 08:16:39,"Sweet Cheeks, 1381 Boylston St, Boston",42.3437485306,-71.1010909081
+20,2015-08-06 10:12:07,"Serafina Boston, 10 High St, Boston",42.3530867758,-71.0566974936
+21,2015-08-04 05:45:37,"Latitude 43, 25 Rogers St, Gloucester",42.611276138,-70.6643833817
+22,2015-07-24 19:36:07,"1943 Pizza Bar, 308 Main St, Greenport",41.1039563857,-72.3594361897
+23,2015-07-06 03:54:20,"Naco Taco, 297 Massachusetts Ave, Cambridge",42.3623182572,-71.0981555058
+24,2015-07-03 02:41:53,"Hanco's Bubble Tea & Vietnamese Sandwich, 134 Smith St, Brooklyn",40.6871406302,-73.990214036
+25,2015-06-25 07:01:18,"Cafe Corazon, 3129 N Bremen St, Milwaukee",43.07539162,-87.900372
+26,2015-06-25 07:00:20,"JM Curley, 21 Temple Pl, Boston",42.3553729183,-71.0623094281
+27,2015-04-14 01:33:41,"Wheelhouse, 63 Broad Street, Boston",42.3580696134,-71.0539292205
+28,2015-03-30 03:11:50,"Anchovies, 433 Columbus Ave, Boston",42.343933,-71.077814
+29,2015-03-30 03:10:48,"Isabella Stewart Gardner Museum, 280 Fenway, Boston",42.3381111753,-71.0987532037
+30,2015-03-30 03:08:40,"Teranga, 1746 Washington St, Boston",42.336659,-71.07678
+31,2015-03-30 03:05:48,"Bova's Bakery, 134 Salem St, Boston",42.3651941655,-71.0555537045
+32,2014-11-11 10:25:41,"Toro Restaurant, 1704 Washington St, Boston",42.337054349,-71.0760110458
+33,2014-11-03 01:09:18,"Del Frisco's Double Eagle Steakhouse, 58 E Oak St, Chicago",41.9008278204,-87.6260107668
+34,2014-08-10 12:15:14,"Le Colonial, 937 N Rush St, Chicago",41.900078075,-87.627129925
+35,2014-07-24 08:36:52,"SMQ, 333 E Ogden Ave, Westmont",41.809607,-87.967077
+36,2014-07-19 21:48:31,"The Noble, 704 S 2nd St, Milwaukee",43.0239765817,-87.9125547409
+37,2014-05-30 02:05:45,"South Water Kitchen, 225 N Wabash Ave, Chicago",41.8867357334,-87.6263844967
+38,2014-03-22 11:26:40,"Chicago Q, 1160 N Dearborn St, Chicago",41.9035677461,-87.6302088311
+39,2014-01-19 05:05:42,"Little Goat, 820 W Randolph St, Chicago",41.8846411,-87.6484209
+40,2014-01-01 00:13:15,"Extra Fancy, 302 Metropolitan Ave, Brooklyn",40.7144727566,-73.9579011425
+41,2013-12-09 19:39:00,"Kaikaya, 86713a23-7, 0b373a",35.6567730184,139.694280851
+42,2013-11-17 07:04:50,"Simple Cafe, 2124 N Farwell Ave, Milwaukee",43.0580183393,-87.8872800087
+43,2013-11-08 16:04:43,"Union Oriental Market, 2022 S 17th St, Sheboygan",43.7324070864,-87.7285959139
+44,2013-10-31 08:05:19,"The Gutter, 200 N 14th St, Brooklyn",40.7226939236,-73.9555592515
+45,2013-10-27 09:24:47,"Vie Restaurant, 4471 Lawn Ave, Western Springs",41.8085566701,-87.9005000054
+46,2013-10-15 18:28:34,"Il Ritrovo, 515 S 8th St, Sheboygan",43.749338,-87.712788
+47,2013-10-03 01:59:37,"Amaranth Bakery, 3329 W Lisbon Ave, Milwaukee",43.0544226613,-87.9559631714
+48,2013-09-25 02:15:03,"Will's Growing Power Cafe, 2737N. Dr. MLk Dr., Milwaukee",43.0682716874,-87.9141854648
+49,2013-09-17 03:46:18,"ABC Cocina, 38 E 19th St, New York",40.7381690973,-73.9891648293
+50,2013-07-15 08:12:17,"Greens Sports Bar, 2239 Polk St, San Francisco",37.7974922653,-122.422177792
+51,2013-07-11 07:53:22,"Pappasito's Cantina, 6445 Richmond Ave, Houston",29.7314268506,-95.5001061293
+52,2013-05-11 14:36:56,"f0632c00b66965de Popcorn Chicken King, 1789ef5305f, 2d7140",25.0798795156,121.546642425
+53,2013-05-06 20:42:06,"Frost Restaurant, 193 Frost St, Brooklyn",40.7183933314,-73.9433499631
+54,2013-04-08 22:33:13,"Tan Son Nhat International Airport (SGN), Trb0ddng Sa1n, Thnh phd1 Hd3 Ch Minh",10.8162126971,106.664192645
+55,2013-04-01 01:01:38,"Latitude 22, G/F, 40 Staunton St., 2db0",22.2825455555,114.152157605
+56,2012-07-26 09:41:51,"237 East 20th Street, 237 E 20th St, New York",40.7365012474,-73.9827073682
+57,2012-04-30 07:38:24,"The West 79th Street Boat Basin Caf, Henry Hudston Pkwy, New York",40.7858035808,-73.9846587181
+58,2012-03-05 03:26:29,"Rucola, 190 Dean St, Brooklyn",40.6855846894,-73.9858818054
+59,2012-01-23 20:58:03,"Prospect Park, Prospect Park, Brooklyn",40.6611178664,-73.9715903041
+60,2011-07-14 19:13:30,"Affair on 8th, 35 W 8th St, New York",40.732997,-73.998223
+61,2011-07-09 00:44:09,"Mile End Delicatessen, 97A Hoyt St, Brooklyn",40.6874355261,-73.9870753884
+62,2011-05-23 20:31:58,"Gnocco, 337 E 10th St, New York",40.7272018229,-73.9804570645
+63,2011-04-27 07:10:28,"B Bar & Grill, 40 E 4th St, New York",40.7270697314,-73.9919060469
+64,2011-04-23 10:16:30,"Buttermilk Channel, 524 Court St, Brooklyn",40.6759126367,-73.9990403078
+65,2011-04-16 12:35:16,"Colon Inn Puno, Jr. Tacna 290, Puno",-15.838553,-70.026189
+66,2011-04-05 10:01:46,"Temple Bar, 332 Lafayette St, New York",40.7257545951,-73.9949128032
+67,2011-03-28 03:59:05,"Lexington Candy Shop, 1226 Lexington Ave, New York",40.7776040766,-73.957074596
+68,2011-03-23 10:26:59,"Bell Book & Candle, 141 W 10th St, New York",40.7345851049,-74.000865195
+69,2010-10-17 23:31:04,"Paisanos Butcher Shop, 162 Smith St, Brooklyn",40.68624035,-73.990827
+70,2010-09-27 05:03:48,"Bunbury's Coffee Shop, 460 Piermont Ave, Piermont",41.039796,-73.915887
+71,2010-09-27 05:02:37,"Carroll Gardens Classic Diner, 155 Smith St, Brooklyn",40.6865396523,-73.9905526326
+72,2010-09-21 22:38:48,"Mile End Delicatessen, 97A Hoyt St, Brooklyn",40.6874355261,-73.9870753884
+73,2010-09-16 04:47:13,"Juanito's, Qanchipata 596, Cusco",-13.5245175151,-71.973050884
+74,2010-09-03 10:28:27,"Chicha, Ca. Santa Catalina 210 Int. 105, Cercado",-16.3962983689,-71.5362095833
+75,2010-04-03 11:25:25,"Petite Crevette, 144 Hicks St., Brooklyn",40.6837279947,-74.0016915533
+76,2010-03-22 03:02:55,"Swift Hibernian Lounge, 34 E 4th St, New York",40.7273786257,-73.9921996956
+77,2010-03-22 02:59:15,"Bar Tabac, 128 Smith St, Brooklyn",40.6873419686,-73.9902055264
+78,2009-11-09 13:26:00,"Jack the Horse Tavern, 66 Hicks St, Brooklyn",40.6999328624,-73.9936975351
+79,2009-10-11 02:29:32,"Bite, 335 Lafayette St, New York",40.7258602968,-73.994816603
+80,2009-08-21 02:07:36,"Unilever Chicago, 205 N Michigan Ave Fl 32, Chicago",41.8861821114,-87.6237019081
+81,2009-08-08 06:19:17,"Frankies Spuntino 457, 457 Court St, Brooklyn",40.6773854748,-73.9981046319
+82,2009-08-03 03:38:42,"230 Fifth Rooftop Lounge, 230 5th Ave, New York",40.7442152799,-73.9885380368
+83,2009-07-27 08:40:22,"Pacific Standard, 82 4th Ave, Brooklyn",40.6820379511,-73.9802280374
+84,2009-07-08 11:39:27,"Droga5 LLC, 120 Wall St, New York",40.7044690853,-74.0059954449
+85,2009-07-08 11:32:44,"Building on Bond, 112 Bond St, Brooklyn",40.6864185893,-73.9853024483
+86,2009-07-05 03:39:08,"Bar Tabac, 128 Smith St, Brooklyn",40.6873419686,-73.9902055264
+87,2009-06-28 02:03:51,"Thai Sesame, 160 Smith St, Brooklyn",40.6862535402,-73.9907764503
+88,2009-06-13 07:31:02,"New York Country Club, 103 Brick Church Rd, Spring Valley",41.1405927266,-74.0530014038
+89,2009-05-24 01:44:34,"Yankee Stadium, 1 E 161st St, Bronx",40.8292247014,-73.9263406302
+90,2009-05-24 00:14:53,"Stromboli Pizza, 83 Saint Marks Pl, New York",40.727635,-73.985303
+91,2009-05-11 04:40:28,"Layla Jones, 214 Court St, Brooklyn",40.6866565539,-73.994024992
+92,2009-05-11 04:39:54,"Red Hook Ballfield Food Vendors, Bay St, Brooklyn",40.6717001361,-74.0029253454
+93,2009-04-26 03:47:26,"Revival, 129 E 15th St, New York",40.7344514867,-73.9878495821
+94,2009-04-26 03:35:57,"Matts Grill, 932 8th Ave, New York",40.7655032533,-73.9836428482
+95,2009-04-26 00:18:24,"Carroll Gardens Classic Diner, 155 Smith St, Brooklyn",40.6865396523,-73.9905526326
+96,2009-04-26 00:13:04,"Sweet and Vicious, 5 Spring St, New York",40.7212985741,-73.9942542004
+97,2009-04-19 11:03:31,"Pacific Standard, 82 4th Ave, Brooklyn",40.6820379511,-73.9802280374
+98,2009-04-09 05:01:54,"Grassroots Tavern, 20 Saint Marks Pl, New York",40.7291588181,-73.9888825995
+99,2009-04-09 04:56:13,"The Brooklyn Inn, 148 Hoyt St, Brooklyn",40.6858795642,-73.9883890474

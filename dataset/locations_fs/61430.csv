@@ -1,0 +1,59 @@
+,time,poi,latitude,longitude
+0,2016-08-08 12:10:53,"Five Stones Coffee Company, 8102 161st Ave NE, Redmond",47.6763190299,-122.125551127
+1,2016-07-08 08:50:16,"Falafel Stop, 1325 Sunnyvale Saratoga Rd, Sunnyvale",37.3512599435,-122.032621372
+2,2016-07-06 11:17:39,"Las Palmas Park, Hyde Park Dr., Sunnyvale",37.3643542895,-122.038499326
+3,2016-07-06 04:49:17,"Verve Coffee Roasters, 104 Bronson St #19, Santa Cruz",36.968601,-122.006587
+4,2016-07-06 04:48:52,"The Penny Ice Creamery, 820 41st Ave, Santa Cruz",36.96424,-121.964973
+5,2016-07-06 04:48:22,"California Academy of Sciences, 55 Music Concourse Dr, San Francisco",37.7698254854,-122.466242651
+6,2016-07-06 04:47:29,"Miller's East Coast Delicatessen, 1725 Polk St, San Francisco",37.792816,-122.421378493
+7,2016-07-06 04:47:05,"Mount Diablo Summit, Mount Diablo State Park, Clayton",37.8815588543,-121.914829196
+8,2016-07-06 04:46:16,"Gott's Roadside, 65 Town & Country Village, Palo Alto",37.437918014,-122.159733929
+9,2016-07-06 04:45:43,"Fambrini's Terrace Cafe, 2600 El Camino Real Ste 220, Palo Alto",37.4239653785,-122.144281374
+10,2016-07-06 04:44:25,"Philz Coffee, 3191 Middlefield Rd, Palo Alto",37.4295039657,-122.122685015
+11,2016-03-14 02:06:43,"Good Life Cafe, 126 Old Mammoth Road, Mammoth Lakes",37.6444509678,-118.967058063
+12,2016-02-28 07:29:58,"Stumptown Coffee Roasters, 1115 12th Ave, Seattle",47.6120364196,-122.317003012
+13,2015-12-12 11:59:47,"Fogn Cocina Mexicana, 600 E Pine St, Seattle",47.6152910852,-122.32439518
+14,2015-11-10 04:23:56,"Weekend, 1511 Commerce St, Dallas",32.7800856217,-96.7984771729
+15,2015-10-11 05:20:46,"Little Oddfellows, 1521 10th Ave, Seattle",47.6147494082,-122.320073566
+16,2015-10-07 23:26:19,"Blue Bottle Coffee, 54 W 40th St, New York",40.7530601914,-73.9841973782
+17,2015-09-18 09:25:02,"Santorini Greek Grill, 106 Central Way, Kirkland",47.6765494572,-122.207930982
+18,2015-08-12 13:42:07,"Musashi's, 1400 N 45th St, Seattle",47.6613843127,-122.340499163
+19,2015-08-03 06:37:01,"Un Bien, 7302.5 15th Ave NW, Seattle",47.681751,-122.376688
+20,2015-07-22 15:08:39,"Wibbley's Gourmet Burgers, 2255 140th Ave NE Ste B, Bellevue",47.63055318,-122.154316306
+21,2015-07-12 09:25:32,"Elliott Bay Book Company, 1521 10th Ave, Seattle",47.614683563,-122.319760323
+22,2015-07-09 13:30:56,"Mammoth, 2501 Eastlake Ave E, Seattle",47.6422608485,-122.326047421
+23,2015-06-28 05:35:06,"Bricks and Birch, 101 Cajon St, Redlands",34.0544905542,-117.181870937
+24,2015-06-25 11:08:09,"Tacos Chukis, 219 Broadway E, Seattle",47.6204785619,-122.32153228
+25,2015-05-04 00:54:16,"Muse de la Castre, Place de la Castre, Cannes",43.5504749407,7.01060482295
+26,2015-04-28 14:44:07,"Ivar's Salmon House, 401 NE Northlake Way, Seattle",47.6535625342,-122.323896368
+27,2015-04-28 14:43:10,"Olympic Sculpture Park, 2901 Western Ave, Seattle",47.6163654239,-122.354781341
+28,2015-04-28 14:42:44,"Espresso Vivace, 532 Broadway E, Seattle",47.62375214,-122.320998
+29,2015-04-06 15:02:46,"Tacos Chukis, 219 Broadway E, Seattle",47.6204785619,-122.32153228
+30,2015-03-24 11:50:22,"Caff Vita, 1005 E Pike St, Seattle",47.6140653386,-122.319120111
+31,2015-03-08 17:13:23,"Cinerama, 2100 4th Ave, Seattle",47.6141302777,-122.341239452
+32,2015-02-27 09:17:14,"Starbucks, 1912 Pike Pl, Seattle",47.61002179,-122.3426186
+33,2015-02-25 09:34:38,"Chipotle Mexican Grill, 10503 NE 4th St, Bellevue",47.613637,-122.199859
+34,2015-02-24 05:37:46,"Manao, 1222 E Pine St, Seattle",47.61534181,-122.315802725
+35,2015-02-24 05:35:38,"Storyville Coffee Company, 94 Pike St #34, Seattle",47.6089904216,-122.340626703
+36,2015-02-24 05:34:37,"Metsker Maps, 1511 1st Ave, Seattle",47.6091829962,-122.340584993
+37,2015-02-24 05:34:21,"The North Face, 1023 1st Avenue, Seattle",47.6053399978,-122.336878971
+38,2015-02-24 05:34:05,"Pike Place Market, 85 Pike St, Seattle",47.6092378269,-122.3409419
+39,2015-02-24 05:33:48,"Hot Mama's Pizza, 700 E Pine St, Seattle",47.615347136,-122.323220372
+40,2015-02-24 05:33:24,"Elliott Bay Book Company, 1521 10th Ave, Seattle",47.614683563,-122.319760323
+41,2015-02-24 05:32:46,"Pro Sports Club, 4455 148th Ave NE, Bellevue",47.6513286639,-122.145110104
+42,2015-02-24 05:32:25,"Caf Redw-F, 5600 148th Ave NE, Redmond",47.6593104131,-122.14063704
+43,2015-02-23 08:30:36,"Broadcast Coffee, 1623 Bellevue Ave Ste A, Seattle",47.615821475,-122.326857563
+44,2015-02-23 08:30:19,"Oddfellows Cafe & Bar, 1525 10th Ave, Seattle",47.6148863124,-122.3195344
+45,2015-02-23 08:29:48,"Zero Zero, 421 E Pine St, Seattle",47.6152187615,-122.325768471
+46,2015-02-18 13:05:02,"Starbucks Reserve Roastery & Tasting Room, 1124 Pike St, Seattle",47.61404383,-122.328289
+47,2015-01-18 14:08:32,"Manao, 1222 E Pine St, Seattle",47.61534181,-122.315802725
+48,2014-12-02 17:02:45,"Crepes of Wrath, 31 E Citrus Ave, Redlands",34.0556965374,-117.181644151
+49,2014-04-22 03:26:31,"Cafe Rio Mexican Grill, 27510 W Lugonia Ave Ste A, Redlands",34.0710467326,-117.204557061
+50,2014-04-22 03:26:08,"Phoenicia, 572 Orange St, Redlands",34.060756996,-117.181195021
+51,2014-04-22 03:25:59,"Augie's Coffee House, 113 N 5th St, Redlands",34.0569035814,-117.181454623
+52,2012-10-15 05:50:59,"Tomatina, 1338 Park St, Alameda",37.7635308595,-122.243273388
+53,2012-06-22 03:53:35,"Anytime Fitness, 500 Orange St, Redlands",34.05986985,-117.1822946
+54,2012-04-11 03:08:46,"Anytime Fitness, 500 Orange St, Redlands",34.05986985,-117.1822946
+55,2011-10-20 05:27:17,"Loma Linda University - Professional Office Building, 28078 Baxter Rd, Murrieta",33.6147347744,-117.167331371
+56,2011-02-16 02:55:46,"Pacific Pita, 40444 Murrieta Hot Springs Rd, Murrieta",33.555174,-117.177799344
+57,2010-07-15 13:25:20,"Eureka Burger, 345 Pearl Ave Ste 130, Redlands",34.0610680839,-117.186194658

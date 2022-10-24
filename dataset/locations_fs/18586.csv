@@ -1,0 +1,59 @@
+,time,poi,latitude,longitude
+0,2016-09-26 06:29:39,"The Brooklyn Label, 180 Franklin St, Brooklyn",40.7314686161,-73.9576428471
+1,2016-04-19 08:35:56,"Tasty 19N Alder, 580 SW 12th Ave, Portland",45.521264622,-122.683428606
+2,2016-04-17 03:49:38,"Providore Fine Foods, 2340 NE Sandy Blvd, Portland",45.5271937622,-122.641698533
+3,2015-06-24 03:34:14,"El Rey Coffee Bar & Luncheonette, 100 Stanton St, New York",40.7213823929,-73.9881594879
+4,2014-10-27 21:15:59,"Kv Espresso Bar, 1087 Flushing Ave Apt 121, Brooklyn",40.7049122117,-73.9286461473
+5,2014-10-27 21:14:39,"Gasoline Alley Coffee, 154 Grand St, New York",40.7200506272,-73.9988207817
+6,2014-10-27 21:13:25,"Speckled Ax, 567 Congress St, Portland",43.6550852534,-70.262246983
+7,2014-10-27 21:12:34,"Kaffee Vonsolln, 79 Daniel St, Portsmouth",43.0774768,-70.7559831
+8,2014-08-11 11:15:20,"Third Rail Coffee, 159 2nd Ave, New York",40.7299896864,-73.9870289032
+9,2014-08-11 11:13:09,"The Rose Bar, New York, New York",40.7385169939,-73.9855252726
+10,2014-08-11 11:12:48,"Blue Bottle Coffee, 160 Berry St, Brooklyn",40.7173793922,-73.96058321
+11,2014-08-11 11:11:57,"Clark's Oyster Bar, 1200 W 6th St, Austin",30.2728479246,-97.7571326422
+12,2014-08-11 11:11:28,"Gus's World Famous Fried Chicken, 117 San Jacinto Blvd, Austin",30.263690859,-97.7416729115
+13,2014-08-11 11:10:46,"Lafayette, 380 Lafayette St, New York",40.7276490336,-73.9936065674
+14,2014-08-11 11:10:28,"Jack's Stir Brew Coffee, 222 Front St, New York",40.7075822,-74.0023126
+15,2014-08-11 11:09:46,"Peter Luger Steak House, 178 Broadway, Brooklyn",40.710044192,-73.9624757839
+16,2014-08-11 11:08:40,"Shake Shack, 11 Madison Ave, New York",40.7414310297,-73.9884120034
+17,2014-08-11 11:07:45,"N/Naka, 3455 Overland Ave, Los Angeles",34.025141,-118.412154
+18,2014-08-11 11:07:13,"The Tasting Kitchen, 1633 Abbot Kinney Blvd, Venice",33.9896568293,-118.463178277
+19,2014-08-11 11:06:49,"Shake Shack, 1849 Post Rd E, Westport",41.1383626475,-73.2990646362
+20,2014-08-11 11:05:51,"Jack's Wife Freda, 224 Lafayette St, New York",40.7220259674,-73.9972727905
+21,2014-08-11 11:04:33,"Happy Bones, 394 Broome St, New York",40.7207153699,-73.9970988035
+22,2014-08-11 11:03:05,"Gramercy Tavern, 42 E 20th St, New York",40.7385755579,-73.98832798
+23,2014-08-11 00:42:14,"12 Corners, 155 E Broadway, New York",40.7138501077,-73.9904871583
+24,2014-08-07 04:13:18,"Laughing Man Coffee & Tea, 184 Duane St, New York",40.7173387333,-74.0101289749
+25,2014-08-07 04:09:31,"Photobar, 114 E 28th St, New York",40.743130789,-73.9834534569
+26,2014-08-07 02:54:49,"Tonic, 727 7th Ave, New York",40.7600186996,-73.9840158911
+27,2014-08-07 02:53:33,"MyWayCup Coffee, 102 E 23rd St, New York",40.740281,-73.986155
+28,2014-08-07 02:51:08,"Birch Coffee, 21 E 27th St, New York",40.7434834249,-73.986351697
+29,2014-08-07 02:49:31,"5 Napkin Burger, 150 E 14th St, New York",40.7332304028,-73.9875930548
+30,2014-08-07 02:47:58,"Bluestone Lane Coffee Shop, 30 Broad St, New York",40.7063355239,-74.0118616819
+31,2012-02-21 08:33:03,"The HorseBox, 218 Avenue A, New York",40.730101,-73.980512
+32,2011-12-15 02:01:47,"M1-5 Lounge, 52 Walker St, New York",40.7190734214,-74.0034647684
+33,2011-10-04 02:38:35,"Shopsin's General Store, 120 Essex St, New York",40.7189814908,-73.9879815791
+34,2011-09-12 23:44:24,"Dlala, 149 Avenue A, New York",40.7274913333,-73.982487
+35,2011-08-23 21:10:37,"U.S. Consulate General Amsterdam, Museumplein 19, Amsterdam",52.3561535393,4.88169937953
+36,2011-08-15 22:58:27,"Corner Bistro, 331 W 4th St, New York",40.7381877931,-74.003797603
+37,2011-08-15 22:58:16,"Stumptown Coffee Roasters, 18 W 29th St, New York",40.7457410501,-73.9882528782
+38,2011-08-01 23:45:01,"Chen's, 4 W 28th St, New York",40.744564,-73.986866
+39,2011-07-04 23:20:26,"The Gibson, 2009 14th St NW, Washington",38.9173456486,-77.0319306294
+40,2011-07-04 23:19:54,"Kaf Leopold, 3315 M St NW, Washington",38.9047468163,-77.0665115269
+41,2011-06-20 21:46:36,"Brass Monkey, 55 Little West 12th St, New York",40.7407279518,-74.008611043
+42,2011-06-06 21:10:58,"Zona Arqueolgica de Chichn Itz, Carretera Mrida - Puerto Jurez Km. 120, Tinum",20.6827079256,-88.5718168525
+43,2011-05-31 23:57:12,"Templo De San Agustn, Allende, Santiago de Quertaro",20.590786,-100.39339266
+44,2011-05-31 23:56:17,"Central Park SummerStage, Central Park, New York",40.7726118797,-73.9701640606
+45,2011-05-31 23:55:57,"Horus Bar, Hacienda La Laborcilla, Prol. Corregidora 911, Santiago de Quertaro",20.6130010415,-100.388779732
+46,2011-05-31 23:55:16,"Fiesta Americana, Blvd. Bernardo Quintana Arrioja 450, Santiago de Quertaro",20.6152611949,-100.389415955
+47,2011-05-31 23:54:36,"Hacienda Los Laureles, Carretera Qro-SLP Km 8 S/N, Jurica, Santiago de Quertaro",20.6408818334,-100.429134071
+48,2011-05-23 22:25:22,"The Counting Room, 44 Berry St, Brooklyn",40.720933,-73.95663
+49,2011-05-23 22:18:20,"Everyman Espresso, 136 E 13th St, New York",40.732876,-73.988193
+50,2011-05-16 22:06:54,"Whole Foods Market, 4 Union Square South, New York",40.7349983559,-73.991109307
+51,2010-05-09 12:51:49,"Sarge's Delicatessen, 548 3rd Ave, New York",40.7472726493,-73.9770369997
+52,2010-04-16 23:50:01,"Thainy, 394 3rd Ave, New York",40.7421396027,-73.9808291942
+53,2010-04-09 08:15:29,"Abbey Tavern, 354 3rd Ave, New York",40.7408262411,-73.9818005796
+54,2010-01-29 02:15:50,"Hale & Hearty, 40 E 23rd St, New York",40.7406874102,-73.9870403812
+55,2010-01-10 05:14:00,"AMC Loews 34th Street 14, 312 W 34th St, New York",40.7524286554,-73.9942656781
+56,2009-08-14 08:30:57,"Live Bait, 14 E 23rd St, New York",40.7408923358,-73.9883387089
+57,2009-08-05 07:38:37,"Live Bait, 14 E 23rd St, New York",40.7408923358,-73.9883387089

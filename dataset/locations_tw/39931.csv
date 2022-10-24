@@ -1,0 +1,217 @@
+,time,poi,latitude,longitude
+0,2015-07-22 19:21:00,"Pyrmont, Sydney",-33.86869812,151.1927948
+1,2015-07-22 17:45:00,"Pyrmont, Sydney",-33.86869812,151.1927948
+2,2015-04-10 13:21:00,"Vancouver, British Columbia",49.26356506,-123.13857269
+3,2015-03-20 11:19:00,"Vancouver, British Columbia",49.26356506,-123.13857269
+4,2015-03-20 09:30:00,"Vancouver, British Columbia",49.26356506,-123.13857269
+5,2015-03-18 15:31:00,"Vancouver, British Columbia",49.26356506,-123.13857269
+6,2015-02-01 19:22:00,"Manhattan, NY",40.75325012,-74.00380707
+7,2014-11-16 11:58:00,"Paddington, London",51.51596832,-0.174968
+8,2014-11-06 13:34:00,"Vancouver, British Columbia",49.26356506,-123.13857269
+9,2014-10-15 17:51:00,"South of Market, San Francisco",37.77597046,-122.39800262
+10,2014-10-15 17:23:00,"South of Market, San Francisco",37.77597046,-122.39800262
+11,2014-10-12 23:08:00,"San Francisco, CA",37.78007889,-122.42015839
+12,2014-10-12 23:06:00,"San Francisco, CA",37.78007889,-122.42015839
+13,2014-10-12 13:02:00,"Richmond, British Columbia",49.16278076,-123.13665009
+14,2014-09-30 17:32:00,"Calgary International Airport Meridian Industrial Park, Calgary",51.04730606,-114.05796814
+15,2014-09-09 11:11:00,"Downtown, Vancouver",45.63737488,-122.67697144
+16,2014-08-22 13:40:00,"Vancouver, British Columbia",49.26356506,-123.13857269
+17,2014-06-05 19:14:00,"Vancouver, British Columbia",49.26356506,-123.13857269
+18,2014-03-23 10:22:00,"Squamish-Lillooet, British Columbia",49.69834137,-123.15357971
+19,2014-03-07 22:06:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+20,2014-02-27 09:15:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+21,2014-02-23 12:49:00,"Squamish-Lillooet, British Columbia",49.69834137,-123.15357971
+22,2014-02-23 07:09:00,"Squamish-Lillooet, British Columbia",49.69834137,-123.15357971
+23,2014-01-12 10:14:00,"Squamish-Lillooet, British Columbia",49.69834137,-123.15357971
+24,2014-01-12 09:45:00,"Squamish-Lillooet, British Columbia",49.69834137,-123.15357971
+25,2013-10-03 06:13:00,"Manhattan, NY",40.75325012,-74.00380707
+26,2013-09-25 18:35:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+27,2013-09-25 18:34:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+28,2013-08-02 22:24:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+29,2013-07-31 21:22:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+30,2013-07-26 16:39:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+31,2013-07-06 15:58:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+32,2013-07-01 22:54:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+33,2013-07-01 12:05:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+34,2013-06-18 17:59:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+35,2013-05-22 21:12:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+36,2013-04-29 13:20:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+37,2013-04-25 13:04:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+38,2013-04-17 16:47:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+39,2013-04-07 10:17:00,"Squamish-Lillooet, British Columbia",49.69834137,-123.15357971
+40,2013-04-06 18:55:00,"Squamish-Lillooet, British Columbia",49.69834137,-123.15357971
+41,2013-04-01 23:16:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+42,2013-03-31 13:33:00,"Squamish-Lillooet, British Columbia",49.69834137,-123.15357971
+43,2013-03-31 10:38:00,"Squamish-Lillooet, British Columbia",49.69834137,-123.15357971
+44,2013-03-18 20:06:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+45,2013-03-16 19:49:00,"Squamish-Lillooet, British Columbia",49.69834137,-123.15357971
+46,2013-03-16 12:35:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+47,2013-03-12 12:30:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+48,2013-03-12 11:08:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+49,2013-03-03 13:00:00,"Squamish-Lillooet, British Columbia",49.69834137,-123.15357971
+50,2013-02-03 19:05:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+51,2013-02-03 17:39:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+52,2013-01-13 13:12:00,"Squamish-Lillooet, British Columbia",49.69834137,-123.15357971
+53,2013-01-09 09:37:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+54,2013-01-06 10:47:00,"Squamish-Lillooet, British Columbia",49.69834137,-123.15357971
+55,2013-01-03 11:36:00,"Squamish-Lillooet, British Columbia",49.69834137,-123.15357971
+56,2013-01-03 09:50:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+57,2013-01-02 19:50:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+58,2012-12-30 16:06:00,"Squamish-Lillooet, British Columbia",49.69834137,-123.15357971
+59,2012-12-30 15:04:00,"Squamish-Lillooet, British Columbia",49.69834137,-123.15357971
+60,2012-12-28 22:56:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+61,2012-12-12 14:22:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+62,2012-12-12 14:17:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+63,2012-12-06 09:27:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+64,2012-11-22 16:17:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+65,2012-11-21 14:32:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+66,2012-11-20 00:01:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+67,2012-11-18 13:38:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+68,2012-11-13 06:26:00,"Boca Raton, FL",26.35051918,-80.08982849
+69,2012-11-12 14:02:00,"Boca Raton, FL",26.35051918,-80.08982849
+70,2012-11-12 13:46:00,"Boca Raton, FL",26.35051918,-80.08982849
+71,2012-11-12 13:43:00,"Boca Raton, FL",26.35051918,-80.08982849
+72,2012-11-12 13:00:00,"Boca Raton, FL",26.35051918,-80.08982849
+73,2012-11-12 07:25:00,"Boca Raton, FL",26.35051918,-80.08982849
+74,2012-11-12 04:56:00,"Fort Lauderdale, FL",26.12416267,-80.14358521
+75,2012-11-06 22:17:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+76,2012-11-06 21:40:00,"The Haight, San Francisco",37.76928329,-122.44514465
+77,2012-11-06 21:39:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+78,2012-11-06 21:29:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+79,2012-11-06 21:13:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+80,2012-11-06 20:17:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+81,2012-11-01 19:42:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+82,2012-10-30 17:15:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+83,2012-10-30 13:03:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+84,2012-10-28 21:06:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+85,2012-10-24 08:34:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+86,2012-10-22 21:51:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+87,2012-10-19 15:23:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+88,2012-10-11 16:57:00,"Phoenix, AZ",33.44820404,-112.07258606
+89,2012-10-11 16:55:00,"Phoenix, AZ",33.44820404,-112.07258606
+90,2012-10-10 15:20:00,"Scottsdale, AZ",33.49490738,-111.92606354
+91,2012-10-10 11:47:00,"Scottsdale, AZ",33.49490738,-111.92606354
+92,2012-10-10 11:05:00,"Scottsdale, AZ",33.49490738,-111.92606354
+93,2012-10-10 10:38:00,"Scottsdale, AZ",33.49490738,-111.92606354
+94,2012-10-10 10:23:00,"Scottsdale, AZ",33.49490738,-111.92606354
+95,2012-10-10 10:08:00,"Scottsdale, AZ",33.49490738,-111.92606354
+96,2012-10-10 09:39:00,"Scottsdale, AZ",33.49490738,-111.92606354
+97,2012-10-10 09:24:00,"Scottsdale, AZ",33.49490738,-111.92606354
+98,2012-10-10 08:33:00,"Scottsdale, AZ",33.49490738,-111.92606354
+99,2012-10-10 08:31:00,"Scottsdale, AZ",33.49490738,-111.92606354
+100,2012-10-10 01:13:00,"Scottsdale, AZ",33.49490738,-111.92606354
+101,2012-10-09 14:39:00,"Scottsdale, AZ",33.49490738,-111.92606354
+102,2012-10-09 14:12:00,"Scottsdale, AZ",33.49490738,-111.92606354
+103,2012-10-09 12:19:00,"Scottsdale, AZ",33.49490738,-111.92606354
+104,2012-10-09 12:18:00,"Scottsdale, AZ",33.49490738,-111.92606354
+105,2012-10-09 11:58:00,"Scottsdale, AZ",33.49490738,-111.92606354
+106,2012-10-09 11:36:00,"Scottsdale, AZ",33.49490738,-111.92606354
+107,2012-10-09 11:32:00,"Scottsdale, AZ",33.49490738,-111.92606354
+108,2012-10-09 09:53:00,"Scottsdale, AZ",33.49490738,-111.92606354
+109,2012-10-09 09:45:00,"Scottsdale, AZ",33.49490738,-111.92606354
+110,2012-10-09 09:37:00,"Scottsdale, AZ",33.49490738,-111.92606354
+111,2012-10-09 09:23:00,"Scottsdale, AZ",33.49490738,-111.92606354
+112,2012-10-09 09:20:00,"Scottsdale, AZ",33.49490738,-111.92606354
+113,2012-10-09 09:04:00,"Scottsdale, AZ",33.49490738,-111.92606354
+114,2012-10-09 08:59:00,"Scottsdale, AZ",33.49490738,-111.92606354
+115,2012-10-09 08:51:00,"Scottsdale, AZ",33.49490738,-111.92606354
+116,2012-10-09 08:49:00,"Scottsdale, AZ",33.49490738,-111.92606354
+117,2012-10-09 08:47:00,"Scottsdale, AZ",33.49490738,-111.92606354
+118,2012-10-06 11:19:00,"Phoenix, AZ",33.44820404,-112.07258606
+119,2012-10-05 21:43:00,"Scottsdale, AZ",33.49490738,-111.92606354
+120,2012-10-05 21:41:00,"Scottsdale, AZ",33.49490738,-111.92606354
+121,2012-10-03 19:50:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+122,2012-09-30 17:57:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+123,2012-09-28 22:03:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+124,2012-09-23 13:20:00,"Grapevine, TX",32.9398613,-97.07836914
+125,2012-09-18 15:36:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+126,2012-09-16 14:34:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+127,2012-09-16 14:32:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+128,2012-09-16 14:28:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+129,2012-09-16 14:02:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+130,2012-09-16 01:04:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+131,2012-09-16 00:58:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+132,2012-09-15 20:17:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+133,2012-09-15 19:37:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+134,2012-09-15 18:22:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+135,2012-09-15 18:07:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+136,2012-09-15 17:48:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+137,2012-09-15 16:34:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+138,2012-09-12 13:22:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+139,2012-08-11 21:11:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+140,2012-07-31 15:17:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+141,2012-07-28 14:50:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+142,2012-07-28 14:20:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+143,2012-07-27 21:32:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+144,2012-07-22 21:26:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+145,2012-07-22 21:24:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+146,2012-07-22 21:22:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+147,2012-07-16 23:18:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+148,2012-07-16 14:53:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+149,2012-07-12 18:04:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+150,2012-07-12 16:55:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+151,2012-07-10 21:11:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+152,2012-07-06 18:11:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+153,2012-07-02 23:34:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+154,2012-07-01 12:02:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+155,2012-06-30 00:54:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+156,2012-06-29 20:58:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+157,2012-06-29 18:31:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+158,2012-06-29 18:27:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+159,2012-06-28 19:14:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+160,2012-06-28 13:18:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+161,2012-06-26 13:01:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+162,2012-06-25 23:30:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+163,2012-06-25 23:27:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+164,2012-06-20 20:22:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+165,2012-06-20 13:00:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+166,2012-06-16 09:09:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+167,2012-06-11 19:59:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+168,2012-06-11 07:31:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+169,2012-06-10 14:40:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+170,2012-06-09 21:16:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+171,2012-06-06 19:32:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+172,2012-06-06 13:27:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+173,2012-06-05 19:47:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+174,2012-06-01 16:00:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+175,2012-06-01 02:18:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+176,2012-05-28 09:14:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+177,2012-05-16 18:55:00,"Solidaridad, Quintana Roo",20.62753677,-87.0754776
+178,2012-05-11 16:55:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+179,2012-05-11 14:37:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+180,2012-05-10 22:00:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+181,2012-05-10 19:30:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+182,2012-05-08 01:10:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+183,2012-05-05 17:11:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+184,2012-05-05 12:01:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+185,2012-05-05 09:01:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+186,2012-05-01 15:54:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+187,2012-04-27 14:14:00,"Squamish-Lillooet, British Columbia",49.69834137,-123.15357971
+188,2012-04-26 20:33:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+189,2012-04-22 12:34:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+190,2012-04-22 08:44:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+191,2012-04-22 00:11:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+192,2012-04-21 23:29:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+193,2012-04-21 22:59:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+194,2012-04-21 00:48:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+195,2012-04-20 21:26:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+196,2012-04-20 16:03:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+197,2012-04-19 14:20:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+198,2012-04-14 20:31:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+199,2012-04-13 21:31:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+200,2012-04-13 20:26:00,"Palo Alto, CA",37.44510269,-122.16036224
+201,2012-04-13 19:58:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+202,2012-04-13 16:44:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+203,2012-04-09 18:48:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+204,2012-04-09 18:47:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+205,2012-04-08 13:16:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+206,2012-04-07 15:24:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+207,2012-04-05 15:06:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+208,2012-04-05 12:46:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+209,2012-04-02 20:10:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+210,2012-03-19 09:07:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+211,2012-01-13 23:11:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+212,2011-12-07 12:24:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+213,2011-11-03 08:45:00,"West Hollywood, CA",34.09068298,-118.37174988
+214,2011-10-20 10:23:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708
+215,2011-10-05 17:28:00,"Greater Vancouver, British Columbia",49.24377441,-122.98169708

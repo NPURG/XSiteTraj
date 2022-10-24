@@ -1,0 +1,47 @@
+,time,poi,latitude,longitude
+0,2014-08-21 00:46:53,"Menza tterem s kvz, Liszt Ferenc tr 2., Budapest",47.5040042156,19.0629529953
+1,2014-08-21 00:46:06,"Hungarian State Opera House, Andrssy t 22., Budapest",47.5024388503,19.0588068819
+2,2014-08-21 00:43:43,"BRGR, llatkerti krt, Budapest",47.5181400739,19.0784123023
+3,2014-08-17 05:18:58,"KNRDY, Oktber 6. u. 15., Budapest",47.5013005317,19.0508568237
+4,2014-02-24 04:41:58,"New Museum, 235 Bowery, New York",40.7224128307,-73.9931638235
+5,2014-01-21 21:12:09,"Brooklyn Deli, Terminal 8, Concourse C, Queens",40.650070061,-73.7927748689
+6,2012-10-23 04:06:12,"Los Angeles International Airport (LAX), 1 World Way, Los Angeles",33.9430986505,-118.405884389
+7,2012-09-17 05:47:30,"Rotier's Restaurant, 2413 Elliston Pl, Nashville",36.1477593097,-86.807933529
+8,2012-08-19 04:07:48,"Mercat de Sant Josep - La Boqueria, La Rambla, 91, Barcelona",41.3819149789,2.1720015036
+9,2012-08-19 03:35:36,"Socarrat Paella Bar, 259 W 19th St, New York",40.7426420593,-73.9996576309
+10,2012-08-17 03:33:41,"Mies van der Rohe Pavilion, Av. Francesc Ferrer i Gurdia, 7, Barcelona",41.3706966628,2.15005793727
+11,2012-08-17 03:25:59,"Casa Batll, Pg. de Grcia, 43, Barcelona",41.3918024984,2.16510640517
+12,2012-02-20 06:30:39,"San Francisco International Airport (SFO), N McDonnell Rd, San Francisco",37.6153999621,-122.385279773
+13,2012-01-13 04:06:16,"Mother's Restaurant, 401 Poydras St, New Orleans",29.9489200751,-90.0669908524
+14,2012-01-04 09:26:14,"Le Dauphin, 131 avenue Parmentier, Paris",48.8695,2.371526
+15,2012-01-02 09:22:51,"Muse de l'Orangerie, Jardin des Tuileries, Paris",48.8640131351,2.32273966954
+16,2011-12-29 07:03:35,"Espace Dal, 11 rue Poulbot, Paris",48.8864243538,2.34005372979
+17,2011-12-29 06:50:04,"Palais de Tokyo, 13 avenue du Prsident Wilson, Paris",48.8645877204,2.2967004776
+18,2011-12-29 06:46:04,"Palais de Tokyo, 13 avenue du Prsident Wilson, Paris",48.8645877204,2.2967004776
+19,2011-12-29 06:34:59,"Claus - La Table du Petit-Djeuner, 14 rue Jean-Jacques Roussea, Paris",48.8625408971,2.34067797661
+20,2011-12-29 06:33:15,"Muse Nissim de Camondo, 63 rue de moncea, Paris",48.8787473013,2.31281097303
+21,2011-12-29 06:28:49,"Laprouse, 51 quai des Grands Augustins, Paris",48.855277536,2.341810484
+22,2011-12-29 06:27:10,"Jeu de Paume, 1 place de la Concorde, Paris",48.8659707008,2.3236465134
+23,2011-12-29 06:22:44,"Gagosian Gallery, 4 rue de Ponthie, Paris",48.8701709209,2.31139738336
+24,2011-12-29 06:20:56,"Grand Palais, 3 avenue du Gnral Eisenhower, Paris",48.8661121964,2.31262207031
+25,2011-12-29 06:20:24,"La Gat Lyrique, 3 bis rue Papin, Paris",48.8667756113,2.35356330872
+26,2011-12-29 06:19:40,"Galerie Marian Goodman, 79 rue du Temple, Paris",48.8614655047,2.35570314796
+27,2011-12-29 05:09:15,"Coppelia, 207 W 14th St, New York",40.7387216785,-74.0000044013
+28,2011-12-28 11:39:47,"Le Fumoir, 6 rue de l'Amiral de Coligny, Paris",48.8603528211,2.34060287476
+29,2011-12-27 14:48:45,"Gagosian Gallery, 4 rue de Ponthie, Paris",48.8701709209,2.31139738336
+30,2011-12-07 06:10:55,"59 Rivoli, 59 rue de Rivoli, Paris",48.8593207506,2.34569853997
+31,2011-12-04 06:55:58,"Rock & Reilly's Irish Pub, 8911 W Sunset Blvd, West Hollywood",34.0906251092,-118.386032581
+32,2011-11-08 13:18:26,"Le Georges, Centre Pompido, Paris",48.8600175429,2.35205858946
+33,2011-11-08 13:18:13,"La Maroquinerie, 23 rue Boyer, Paris",48.8685256264,2.39211435203
+34,2011-11-08 13:18:01,"Maison Georges Larnicol, 14 rue de Rivoli, Paris",48.8555188745,2.35959784899
+35,2011-09-16 14:16:41,"Cafe Cluny, 284 W 12th St, New York",40.737406977,-74.0039733052
+36,2011-07-25 11:53:50,"Palo Santo, 652 Union St, Brooklyn",40.676804,-73.981941
+37,2011-07-03 04:42:55,"Gagosian Shop, 976 Madison Ave, New York",40.7746676131,-73.9634802389
+38,2011-03-06 00:19:59,"Duane Reade, 52 E 14th St, New York",40.7343726355,-73.9902940392
+39,2010-12-11 12:26:19,"Numero 28 13 Pizzeria Napoletana, 176 2nd Ave, New York",40.7305329194,-73.986357436
+40,2010-07-16 00:42:47,"Museum of Modern Art (MoMA), 11 W 53rd St, New York",40.761396839,-73.9769857493
+41,2010-04-11 12:50:23,"DBGB Kitchen and Bar, 299 Bowery, New York",40.7244175497,-73.9924464669
+42,2010-02-13 08:11:52,"Grafton on Sunset, 8462 W Sunset Blvd, West Hollywood",34.0944725368,-118.374988035
+43,2009-12-14 10:16:57,"Momofuku Noodle Bar, 171 1st Ave, New York",40.7291104035,-73.9842454556
+44,2009-11-13 12:27:19,"El Compadre, 7408 W Sunset Blvd, Los Angeles",34.0978629595,-118.352224372
+45,2009-10-30 03:09:23,"Bar Six, 502 Avenue of the Americas, New York",40.7365828228,-73.997444952

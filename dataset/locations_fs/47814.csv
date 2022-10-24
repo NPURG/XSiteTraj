@@ -1,0 +1,175 @@
+,time,poi,latitude,longitude
+0,2016-12-28 23:08:20,"Bluestone Lane, 51 Astor Pl, New York",40.7302800983,-73.990730539
+1,2016-12-13 10:01:04,"Alabaster Bookshop, 122 4th Ave, New York",40.7330184182,-73.9899328282
+2,2016-12-11 08:15:48,"Metropolitan Museum of Art, 1000 5th Ave, New York",40.7791685266,-73.9627570318
+3,2016-12-01 10:25:50,"Blacktail, 22 Battery Pl, New York",40.7043870628,-74.0178048261
+4,2016-12-01 10:23:38,"City of Saints Coffee Roasters, 79 E 10th St, New York",40.7311003868,-73.9901509077
+5,2016-12-01 10:20:54,"Kobrick Coffee Co., 24 9th Ave, New York",40.7404507998,-74.0055363678
+6,2016-11-30 12:26:18,"The Smile, 26 Bond St, New York",40.7264131828,-73.9938211441
+7,2016-11-28 03:38:48,"Espresso Matto, 510 5th Ave, New York",40.753804,-73.980377
+8,2016-11-13 06:38:20,"Xi'an Famous Foods, 37 W 54th St, New York",40.762232,-73.97738
+9,2016-11-04 10:50:17,"Dunkin Donuts, 601 2nd Ave, New York",40.7441064888,-73.9764688058
+10,2016-11-03 00:00:07,"Paparazzi Dogs, Greenwich Avenue, New York",40.733919,-73.999452
+11,2016-10-30 00:54:18,"Mmuseumm 1, 4 Cortlandt Alley, New York",40.7173326345,-74.0028762817
+12,2016-10-23 11:24:58,"Rue B, 188 Avenue B, New York",40.727874793,-73.9791605379
+13,2016-10-23 03:32:00,"Homespun Cafe at Dia:Beacon, 3 Beekman St, Beacon",41.5009975531,-73.9825064977
+14,2016-10-10 23:10:21,"Delicatessen, 54 Prince St, New York",40.7235190991,-73.9963437617
+15,2016-10-03 00:26:28,"Stop 1 Super Market, 39-03 108th Street, Corons",40.7522733042,-73.8592245215
+16,2016-08-25 23:20:29,"Jim Ellis Freeway Park, 700 Seneca St., Seattle",47.6100005979,-122.331070081
+17,2016-08-24 01:24:10,"Starbucks Reserve Roastery & Tasting Room, 1124 Pike St, Seattle",47.6139771269,-122.328220879
+18,2016-08-07 02:37:04,"Xi'an Famous Foods, 14 E 34th St, New York",40.7481837348,-73.9839011087
+19,2016-08-02 09:53:06,"Panya Bakery, 8 Stuyvesant St, New York",40.7301058417,-73.989284327
+20,2016-07-15 08:20:57,"St. Mark's Market, 21 Saint Marks Pl, New York",40.7291345082,-73.9888252098
+21,2016-07-07 08:46:19,"60 East 8th Street, 60 E 8th St, New York",40.7306060939,-73.9928768812
+22,2016-07-01 01:50:10,"Metropolitan Museum of Art, 1000 5th Ave, New York",40.7791685266,-73.9627570318
+23,2016-06-17 00:45:25,"Santina Coconut Cart, 820 Washington St, New York",40.73961,-74.008336
+24,2016-06-17 00:43:35,"Santina Coconut Cart, 820 Washington St, New York",40.73961,-74.008336
+25,2016-05-29 20:15:11,"Bagel Bob's, 51 University Pl, New York",40.7324921705,-73.9942025512
+26,2016-05-25 06:32:13,"Chipotle Mexican Grill, 24 E 12th St, New York",40.734073,-73.993157
+27,2016-03-18 05:50:17,"Davy Byrnes, Duke St, Dublin",53.3418763066,-6.25931462854
+28,2016-03-18 05:48:10,"The Ginger Man, 40 Fenian St, Dublin",53.3418214589,-6.24955773354
+29,2016-03-14 22:18:54,"Sweny's Pharmacy, 1 Lincoln Pl, Dublin",53.3419063322,-6.25059843063
+30,2016-03-14 22:17:56,"Sweny's Pharmacy, 1 Lincoln Pl, Dublin",53.3419063322,-6.25059843063
+31,2016-02-15 11:18:54,"San Marzano, 117 2nd Ave, New York",40.72806,-73.988127
+32,2016-02-14 11:47:19,"Amorino Gelato, 60 University Pl, New York",40.7328909812,-73.9938908815
+33,2016-02-11 14:55:39,"Gini's Pizza Joint, 126 Lafayette St, New York",40.7187241298,-74.0000445718
+34,2016-02-03 12:01:18,"Swift Hibernian Lounge, 34 E 4th St, New York",40.7273786257,-73.9921996956
+35,2016-02-03 10:27:49,"The Bean, 824 Broadway, New York",40.7331775589,-73.9911603928
+36,2016-01-04 09:27:48,"Kobrick Coffee Co., 24 9th Ave, New York",40.7404507998,-74.0055363678
+37,2016-01-04 02:33:10,"Apple West 14th Street, 401 W 14th Street, New York",40.74127,-74.005389
+38,2016-01-04 02:29:55,"Artichoke Basille's Pizza & Bar, 114 10th Ave, New York",40.743982,-74.006678
+39,2016-01-04 00:42:07,"News Bar Cafe, 107 University Pl, New York",40.7342230212,-73.9925956773
+40,2016-01-04 00:40:32,"Citispot Tea & Coffee, 44 Main St, Clinton",40.6362954486,-74.9115174419
+41,2016-01-04 00:36:45,"MatchaBar, 256 W 15th St, New York",40.7401261822,-74.0015995502
+42,2016-01-03 07:19:24,"CVS/Pharmacy, 253 1st Ave, New York",40.7356408567,-73.9935100079
+43,2016-01-02 03:10:12,"42nd Street Ballroom, Port Authority North Wing, New York",40.7573571486,-73.9908395784
+44,2016-01-02 01:19:56,"Creamline, 75 9th Ave, New York",40.7423308074,-74.0060815218
+45,2015-12-31 09:17:26,"Strand Bookstore, 828 Broadway, New York",40.7332017898,-73.9909600955
+46,2015-12-31 09:13:17,"Di Di Dumpling, 38 Lexington Ave, New York",40.7401363434,-73.9844548702
+47,2015-12-29 14:31:45,"McDonald's, 39 Union Sq W, New York",40.7369497007,-73.9904737473
+48,2015-12-29 07:54:05,"Nathan's Famous, 1310 Surf Ave, Brooklyn",40.5753984408,-73.9814677068
+49,2015-12-29 07:33:56,"Pat Auletta Steeplechase Pier, Coney Island, Brooklyn",40.5701538186,-73.9834785461
+50,2015-12-25 02:27:43,"Factory Fuel Co., 2 Stangl Road, Flemington",40.5071714156,-74.8624634589
+51,2015-12-25 02:05:33,"Factory Fuel Co., 2 Stangl Road, Flemington",40.5071714156,-74.8624634589
+52,2015-12-22 01:34:32,"Brooklyn Roasting Company, 50 W 23rd St, New York",40.7424598529,-73.9916774577
+53,2015-12-18 07:13:00,"12th Street Ale House, 192 2nd Ave, New York",40.731003,-73.985775
+54,2015-12-18 07:11:14,"Blue Bottle Coffee, 450 W 15th St, New York",40.7424774531,-74.0068459511
+55,2015-12-14 01:47:20,"Grain de Caf, 225 Liberty St, New York",40.7125896036,-74.0159010887
+56,2015-12-04 04:16:22,"The City Bakery, 3 W 18th St, New York",40.7388164964,-73.9925956773
+57,2015-11-25 11:54:54,"The Bitter End, 147 Bleecker St, New York",40.7282768773,-73.9992813317
+58,2015-11-25 11:53:43,"TBA Brooklyn, 395 Wythe Ave, Brooklyn",40.7111333123,-73.966407478
+59,2015-11-22 10:46:32,"Umami Umami Japanese Restaurant, 1708 Limekiln Pike, Dresher",40.14199,-75.167026
+60,2015-11-08 21:07:10,"Port Authority Bus Terminal, 625 8th Ave, New York",40.757178471,-73.9911839128
+61,2015-11-07 05:29:40,"Whitney Museum of American Art, 99 Gansevoort St, New York",40.7395219222,-74.0089335127
+62,2015-11-03 00:38:45,"Doughnut Plant, 379 Grand St, New York",40.7163466486,-73.9885425568
+63,2015-11-03 00:16:26,"Classic Coffee Shop, 56 Hester St, New York",40.715835446,-73.9906329774
+64,2015-10-22 04:46:46,"Fair Folks & a Goat, 330 E 11th St, New York",40.7296735028,-73.9847660065
+65,2015-10-16 03:01:56,"Doughnut Plant, 220 W 23rd St, New York",40.744493979,-73.996561188
+66,2015-10-16 03:00:07,"Underline Coffee, 511 W 20th St, New York",40.7461048403,-74.006058568
+67,2015-10-14 05:33:03,"North Dumpling, 27 Essex St, New York",40.7156960932,-73.9894866943
+68,2015-10-11 21:07:50,"Bagel Bob's, 51 University Pl, New York",40.7324921705,-73.9942025512
+69,2015-10-11 05:41:30,"Iris & B Gerald Cantor Roof Garden, 1000 5th Ave, New York",40.7787789749,-73.9644732093
+70,2015-10-04 00:12:14,"Doughnut Plant, 379 Grand St, New York",40.7163466486,-73.9885425568
+71,2015-09-16 10:05:03,"Shi Eurasian Market, 166 Allen St, New York",40.7211402326,-73.989213109
+72,2015-09-16 10:04:24,"New York Public Library, 476 5th Ave, New York",40.7530255355,-73.9814849244
+73,2015-09-16 10:02:32,"76 Greenwich Ave Park, 76 Greenwich Ave, New York",40.7372088498,-74.0009914444
+74,2015-09-16 01:41:04,"Stanley's Pharmacy, 31 Ludlow St, New York",40.7158028239,-73.9905468937
+75,2015-09-14 06:27:30,"Fair Folks & a Goat, 96 W Houston St, New York",40.7271230991,-74.0002339467
+76,2015-09-14 04:14:25,"MTA Subway - 42nd St/Times Square/Port Authority Bus Terminal (A/C/E/N/Q/R/S/1/2/3/7), W 42nd St, New York",40.7559811725,-73.9873273323
+77,2015-09-02 03:15:03,"Red Hook Recreation Area, Bay St, Brooklyn",40.6714759638,-74.0048718452
+78,2015-08-21 07:27:46,"Le Bok Fin, 1901 S 9th St, Philadelphia",39.9253327397,-75.1601443481
+79,2015-08-21 06:23:54,"Le Bok Fin, 1901 S 9th St, Philadelphia",39.9253327397,-75.1601443481
+80,2015-08-19 07:07:10,"Lefty's Colorado Trail Grille, Concourse A Gate A46, Denver",39.8538102963,-104.671430928
+81,2015-08-19 07:01:21,"Denver International Airport (DEN), 8500 Pea Blvd, Denver",39.8500872508,-104.673953409
+82,2015-08-19 06:41:24,"Denver International Airport (DEN), 8500 Pea Blvd, Denver",39.8500872508,-104.673953409
+83,2015-08-19 06:40:21,"Denver International Airport (DEN), 8500 Pea Blvd, Denver",39.8500872508,-104.673953409
+84,2015-08-18 08:01:19,"Boulder Public Library, 1001 Arapahoe Ave, Boulder",40.0143203584,-105.281607697
+85,2015-08-18 06:56:29,"Seeds Library Cafe, 1001 Arapahoe Ave, Boulder",40.0144849003,-105.28213799
+86,2015-08-18 04:57:22,"Rocket Fizz, 1441 Pearl St, Boulder",40.0186603219,-105.276292168
+87,2015-08-17 06:47:42,"Denver Pavilions, 500 16th St, Denver",39.7436264219,-104.991012213
+88,2015-08-16 03:32:47,"Cheba Hut Toasted Subs, 1531 Champa St, Denver",39.7460522329,-104.99464675
+89,2015-08-13 07:07:36,"Wells Fargo Center Parking Garage, 1700 Sherman, Denver",39.7437888063,-104.984941522
+90,2015-08-13 04:58:48,"Museum Of Contemporary Art Denver, 1485 Delgany St, Denver",39.7522689758,-105.004130024
+91,2015-08-13 04:46:35,"MCA Cafe, 1485 Delgany St, Denver, CO 80202, Denver",39.7523062923,-105.004169967
+92,2015-08-13 03:02:57,"BURGERFI, 1147 Broadway, Unit 101, Denver",39.7349319458,-104.987831116
+93,2015-08-13 02:51:15,"History Colorado Center, 1200 Broadway, Denver",39.7355643689,-104.986841441
+94,2015-08-13 00:52:06,"Clyfford Still Museum, 1250 Bannock St, Denver",39.736435523,-104.990042256
+95,2015-08-12 13:29:55,"Cheesman Park, 1599 E. 8th Ave., Denver",39.7334492918,-104.96654827
+96,2015-08-12 13:26:41,"Interstate Kitchen & Bar, 901 W 10th Ave, Denver",39.7322424341,-104.998806312
+97,2015-08-12 06:37:15,"BURGERFI, 1147 Broadway, Unit 101, Denver",39.7349319458,-104.987831116
+98,2015-08-12 06:32:39,"BURGERFI, 1147 Broadway, Unit 101, Denver",39.7349319458,-104.987831116
+99,2015-08-12 06:07:51,"Denver Art Museum, 100 W 14th Avenue Pkwy, Denver",39.7363167785,-104.988977909
+100,2015-08-12 06:06:36,"the ART, a hotel, 1201 Broadway, Denver",39.7357062282,-104.987543219
+101,2015-08-12 05:35:44,"Denver Art Museum, 100 W 14th Avenue Pkwy, Denver",39.7363167785,-104.988977909
+102,2015-08-12 02:14:18,"The Molecule Effect, 1201 Santa Fe Dr, Denver",39.735351,-104.998702
+103,2015-08-12 00:04:01,"Denver International Airport (DEN), 8500 Pea Blvd, Denver",39.8500872508,-104.673953409
+104,2015-08-11 09:39:08,"Chipotle Mexican Grill, 1513 Main St, Warrington",40.2309874453,-75.1362705231
+105,2015-08-08 07:28:41,"Downtown Scoop, 11 W Chestnut St, Souderton",40.309905,-75.322964
+106,2015-07-28 07:14:05,"Cozy Soup 'n Burger, 739 Broadway, New York",40.7300048285,-73.992922792
+107,2015-07-24 10:38:10,"Jackalope Lakeside, 301 Lakeside Ave, Lorain",41.4730503586,-82.1741330127
+108,2015-07-24 10:36:25,"Millennium Force, Cedar Point, Sandusky",41.4817370386,-82.6870803759
+109,2015-07-23 02:56:49,"Decidedly Different Coffee & Gifts, 590 Main St, Vermilion",41.42289153,-82.36521
+110,2015-07-14 04:43:30,"The White House, 1600 Pennsylvania Ave NW, Washington",38.898568943,-77.0360464496
+111,2015-07-13 06:09:27,"National Gallery of Art - West Building, Constitution Ave NW, Washington",38.891333451,-77.0199537277
+112,2015-07-13 05:54:11,"Hirshhorn Museum and Sculpture Garden, 700 Independence Ave SW, Washington",38.8881601285,-77.0229578018
+113,2015-07-13 05:47:31,"National Gallery of Art - East Building, Constitution Ave NW, Washington",38.8913449814,-77.0169789863
+114,2015-07-13 05:45:51,"National Gallery of Art, 6th St and Constitution Ave NW, Washington",38.8913501523,-77.0198893547
+115,2015-07-13 05:39:34,"National Gallery of Art - West Building, Constitution Ave NW, Washington",38.891333451,-77.0199537277
+116,2015-07-12 12:03:21,"Lincoln Memorial, 2 Lincoln Memorial Circle NW, Washington",38.8892582658,-77.0497760818
+117,2015-07-12 11:46:18,"Vietnam Veterans Memorial, 5 Henry Bacon Dr NW, Washington",38.8907934953,-77.0480388804
+118,2015-07-12 04:22:51,"Library Of Congress Main Reading Room, 101 Independence Ave. SE Thomas Jefferson Bldg, LJ 100, Washington",38.8886744017,-77.0053712294
+119,2015-07-03 07:10:35,"Wine And Spirits (Hilltown Plaza), 766 RT 113 STORE 4, Souderton",40.31984,-75.3071
+120,2015-07-03 00:56:21,"Jim's Steaks, 400 South St, Philadelphia",39.9415870058,-75.1492052344
+121,2015-06-28 09:16:14,"Swift Hibernian Lounge, 34 E 4th St, New York",40.7273786257,-73.9921996956
+122,2015-06-28 09:08:37,"La Mia Pizza, 1488 1st Ave, New York",40.7713597993,-73.953418
+123,2015-06-25 23:42:26,"Spot Dessert Bar, 13 Saint Marks Pl, New York",40.729288791,-73.9892441543
+124,2015-06-25 23:38:36,"Biggies Place, 4 S County Line Rd, Souderton",40.3079115072,-75.3002101244
+125,2015-06-25 23:37:03,"Starbucks, 270 Easton Rd, Warrington",40.2201366548,-75.1405571533
+126,2015-06-25 23:34:29,"Riverside Coffee & Tea, 51 Main St, Clinton",40.6361573336,-74.9117629318
+127,2015-06-25 23:33:28,"The Clean Plate Kitchen, 49 Main St, Clinton",40.6358484734,-74.9115916598
+128,2015-06-25 23:31:36,"Green Dragon Tavern, 11 Marshall St, Boston",42.3614940548,-71.0568505526
+129,2015-06-25 23:30:08,"Applebee's, 2333 Welsh Rd, Lansdale",40.26455074,-75.31718086
+130,2015-06-25 23:25:03,"Boston & Maine Fish Company, Quincy Market, Boston",42.36009555,-71.0555600084
+131,2015-06-06 22:45:44,"Empire Coffee & Tea, 568 9th Ave, New York",40.758116568,-73.9928998366
+132,2015-05-22 21:24:11,"Gagosian Gallery, 555 W 24th St, New York",40.7495173034,-74.0059954449
+133,2015-05-22 21:19:04,"The Renee and Chaim Gross Foundation, 526 Laguardia Pl, New York",40.7283708738,-73.9982655863
+134,2015-05-22 00:52:32,"Gramercy Typewriter Co., 174 5th Ave Fl 4, New York",40.740877738,-73.9897147484
+135,2015-05-21 23:36:12,"Printed Matter, 231 11th Ave, New York",40.7507318784,-74.0057773834
+136,2015-05-21 19:46:38,"Underline Coffee, 511 W 20th St, New York",40.7461048403,-74.006058568
+137,2015-05-05 08:15:57,"Intelligentsia Coffee, 180 10th Ave, New York",40.7459076802,-74.0050166845
+138,2015-04-04 04:22:07,"Corrado Bread & Pastry, 960 Lexington Ave, New York",40.7692815512,-73.9632225037
+139,2015-03-26 08:37:33,"Strand Bookstore, 828 Broadway, New York",40.7332017898,-73.9909600955
+140,2015-03-07 22:16:48,"Third Rail Coffee, 240 Sullivan St, New York",40.7298279778,-73.9998292923
+141,2015-03-07 22:15:17,"Solomon R Guggenheim Museum, 1071 5th Ave, New York",40.7829907897,-73.9589738846
+142,2015-03-07 22:14:18,"Konditori, 182 Allen St, New York",40.721928,-73.989006
+143,2015-01-09 02:19:54,"Mamagyro, 1113 Lexington Ave, New York",40.7740462139,-73.9596575421
+144,2015-01-08 10:17:02,"Ennj, 20 E 17th St, New York",40.7373975121,-73.9911666961
+145,2015-01-08 10:01:36,"Ennj, 20 E 17th St, New York",40.7373975121,-73.9911666961
+146,2015-01-08 09:15:15,"Angelika Film Center, 18 W Houston St, New York",40.7258457659,-73.9976515456
+147,2015-01-08 09:06:11,"Bluestone Lane Collective Cafe, 55 Greenwich Ave, New York",40.7357953179,-74.0008512139
+148,2015-01-05 05:41:47,"Starbucks, 665 Broadway, New York",40.7270502115,-73.9953445712
+149,2014-12-31 01:55:10,"Tina's Cuban Cuisine, 23 W 56th St, New York",40.7629149502,-73.9759006102
+150,2014-12-24 21:21:16,"O Cafe, 482 Avenue of the Americas, New York",40.7358258036,-73.9977130294
+151,2014-11-04 13:52:18,"The Donut Pub, 203 W 14th St, New York",40.7386349829,-73.9998609353
+152,2014-11-04 13:49:25,"Percy's Pizza, 190 Bleecker St, New York",40.7292588575,-74.0013313293
+153,2014-10-19 10:50:16,"Rockefeller Center, Rockefeller Plaza, New York",40.7586917892,-73.9785292181
+154,2014-10-15 05:58:56,"Momofuku Noodle Bar, 171 1st Ave, New York",40.7291104035,-73.9842454556
+155,2014-10-12 02:04:41,"NYC Municipal Building, 1 Centre St, New York",40.7129811252,-74.0040099283
+156,2014-10-09 04:26:39,"Ricky's NYC 8th St., 44 E 8th St, New York",40.7312492659,-73.9938983939
+157,2014-10-09 04:24:18,"Dream House @ MELA Foundation, 275 Church St Fl 3, New York",40.7186890326,-74.005094505
+158,2014-10-07 06:41:22,"Ngam, 99 3rd Ave, New York",40.7323938975,-73.9878381041
+159,2014-09-28 21:08:25,"Trader Joe's, 142 E 14th St, New York",40.7335047844,-73.9883574843
+160,2014-09-22 09:52:27,"High Line, btwn Gansevoort & W 34th St, New York",40.7439531669,-74.0066725817
+161,2014-09-17 11:05:48,"Amorino Gelato, 60 University Pl, New York",40.7328909812,-73.9938908815
+162,2014-09-17 10:59:47,"Oren's Daily Roast, 29 Waverly Pl, New York",40.7305061565,-73.9952068405
+163,2014-08-29 21:11:35,"Umami Burger, 432 Avenue of the Americas, New York",40.7344458028,-73.9987134933
+164,2014-08-10 03:27:18,"Library of Congress, 101 Independence Ave SE, Washington",38.8886079697,-77.0053768534
+165,2014-08-09 19:39:16,"Java House, 1645 Q St NW, Washington",38.9112014727,-77.0382167573
+166,2014-08-09 09:53:12,"World War II Memorial, 1750 Independence Ave SW, Washington",38.8894567374,-77.0403364244
+167,2014-08-09 09:09:50,"Woodward Table, 1426 H St. NW, Washington",38.9002383296,-77.0334487761
+168,2014-08-09 04:48:49,"Supreme Court of the United States, 1 1st St NE, Washington",38.8905327124,-77.0054612139
+169,2014-08-08 02:23:13,"Jesse's Barbecue & Local Market, 98 N County Line Rd, Souderton",40.31651274,-75.3145781739
+170,2014-08-08 02:19:47,"Bonefish Grill, 27 Airport Sq, North Wales",40.237136,-75.240854
+171,2014-07-31 02:09:24,"Easton Buffet, 261-499 Easton Rd, Warrington",40.2219402315,-75.1393086436
+172,2014-03-01 23:34:41,"westberlin, Friedrichstr. 215, Berlin",52.5057308002,13.390640079
+173,2014-02-05 08:47:35,"Modulor, Prinzenstr. 85, Berlin",52.5033923854,13.4102499367

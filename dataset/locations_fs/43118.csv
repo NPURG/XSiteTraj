@@ -1,0 +1,66 @@
+,time,poi,latitude,longitude
+0,2016-06-24 09:38:51,"Jax 5th Ave Deli & Ale House, 951 Greenwood Blvd, Lake Mary",28.7484986166,-81.3579367297
+1,2016-02-05 09:44:58,"Comic Central, 1425 Wp Ball Blvd, Sanford",28.7998532391,-81.3355393169
+2,2015-09-27 09:36:56,"The Wine Room on Park Avenue, 270 S Park Ave, Winter Park",28.5961379413,-81.3509496559
+3,2015-07-25 03:21:03,"Narcissus Florist, 635 Bay Ave, Toms River",39.9760578129,-74.1810063229
+4,2015-05-21 21:38:11,"DMV, 845 Primera Blvd, Lake Mary",28.7649279105,-81.3496123184
+5,2015-05-21 21:37:35,"DMV, 845 Primera Blvd, Lake Mary",28.7649279105,-81.3496123184
+6,2015-05-10 21:51:45,"Jax 5th Ave Deli & Ale House, 951 Greenwood Blvd, Lake Mary",28.7484986166,-81.3579367297
+7,2015-03-03 00:53:00,"Big Mountain Data, 300 N Ronald Reagan Blvd, Longwood",28.7004961782,-81.3475982117
+8,2014-09-29 05:35:03,"Burlington International Airport (BTV), 1200 Airport Dr, South Burlington",44.469342486,-73.1547664578
+9,2014-09-01 00:31:42,"Lke, 125 E Houston St, San Antonio",29.4266529367,-98.492609923
+10,2014-08-07 09:53:42,"Regency at Dell Ranch, 670 Louis Henna Blvd, Round Rock",30.4857194419,-97.6537328026
+11,2014-06-28 10:27:28,"Bellini's Texas Grill, 12800 W Parmer Ln, Cedar Park",30.5316285529,-97.7794103726
+12,2014-06-04 02:17:13,"Annie's Cafe & Bar, 3600 Presidential Blvd, Austin",30.2022719836,-97.6699627807
+13,2014-05-20 09:31:20,"Club Quarters Hotel in Houston, 720 Fannin St, Houston",29.7581618848,-95.3629834251
+14,2014-05-01 06:39:01,"Annie's Cafe & Bar, 3600 Presidential Blvd, Austin",30.2022719836,-97.6699627807
+15,2014-05-01 04:51:18,"Annie's Cafe & Bar, 3600 Presidential Blvd, Austin",30.2022719836,-97.6699627807
+16,2014-03-29 06:15:36,"DoubleTree by Hilton Hotel Burlington, 1117 Williston Rd, South Burlington",44.4680342155,-73.179216832
+17,2014-01-13 07:21:43,"Randalls, 2051 Gattis School Rd, Round Rock",30.4950194033,-97.6546812057
+18,2014-01-05 02:43:57,"Gino's Italian Restaurant, 1701 S Mays St, Round Rock",30.4953544162,-97.6754584059
+19,2013-11-07 08:23:59,"Third Base, 3107 S Interstate 35, Round Rock",30.4778373001,-97.6701959518
+20,2013-11-04 00:00:08,"Southside Espresso, 904 Westheimer Rd Ste C, Houston",29.7450027466,-95.3907394409
+21,2013-10-20 06:20:27,"iPic Theaters, 3225 Amy Donovan Plz, Austin",30.3963231672,-97.7275743029
+22,2013-09-28 02:28:24,"Entrepreneur Center of Austin, 4029 S Cap of Texas Hwy Ste 110, Austin",30.2380748211,-97.7968107781
+23,2013-09-18 08:52:50,"The Optimist, 914 Howell Mill Rd NW, Atlanta",33.7798806246,-84.4106212831
+24,2013-08-25 05:07:55,"Third Base, 3107 S Interstate 35, Round Rock",30.4778373001,-97.6701959518
+25,2013-08-11 08:40:39,"The Westin Galleria Dallas, 13340 Dallas Pkwy, Dallas",32.930138434,-96.8205530779
+26,2013-07-22 03:16:58,"Third Base, 3107 S Interstate 35, Round Rock",30.4778373001,-97.6701959518
+27,2013-07-14 06:45:28,"Caesar's Nails & Spa, 3201 Feathergrass Ct #100, Austin",30.395119,-97.727007
+28,2013-06-29 03:22:54,"HydroClean Express Car Wash, 1821 Gattis School Rd, Round Rock",30.4956569672,-97.657875061
+29,2013-05-13 05:10:54,"The Dig Pub, 401 Cypress Creek Rd, Cedar Park",30.4978205226,-97.8206294775
+30,2013-04-14 03:43:30,"Hamilton Pool Nature Preserve, 24300 Hamilton Pool Rd, Dripping Springs",30.3415004303,-98.1310737133
+31,2013-03-31 03:24:27,"Lyndon B. Johnson State Park & Historic Site, Park Rd 52, Stonewall",30.237585579,-98.6263460336
+32,2013-03-31 02:11:00,"William Chris Vineyards, 10352 Hwy 290, Hye",30.2439023767,-98.571235141
+33,2013-03-31 01:15:15,"Texas Hills Vineyard, 878 Ranch Road 2766, Johnson City",30.27110905,-98.3832013607
+34,2013-02-03 07:09:42,"Bellini's Texas Grill, 12800 W Parmer Ln, Cedar Park",30.5316285529,-97.7794103726
+35,2012-12-06 08:53:08,"Taverna, 258 W 2nd St, Austin",30.2650164974,-97.7464985847
+36,2012-05-20 03:31:59,"E-D Nails, 13233 Pond Springs Rd, Austin",30.4464446,-97.7788847667
+37,2012-05-19 07:58:34,"Coach, 11601 Century Oaks Ter, Austin",30.4027165876,-97.7252142023
+38,2012-05-02 21:43:11,"Jiffy Lube, 13000 W Parmer Ln, Cedar Park",30.5332171132,-97.7812149747
+39,2012-04-28 07:23:53,"Red Lobster, 340 W State Road 436, Altamonte Springs",28.6612475765,-81.3955378532
+40,2012-03-18 12:14:20,"Fast Park Shuttle Bus, 3600 Presidential Blvd, Austin",30.2180479792,-97.6633813172
+41,2012-03-07 10:18:49,"Harrington's Bar & Grill, 245 Front St, San Francisco",37.7939758666,-122.398932808
+42,2012-02-20 04:55:58,"H-E-B, 2800 E Whitestone Blvd, Cedar Park",30.5324075328,-97.7850313291
+43,2012-02-05 01:59:53,"Chase Bank, 15004 Avery Ranch Blvd, Austin",30.499450019,-97.7754191811
+44,2011-12-22 03:47:09,"Fara Cafe, 3600 Presidential Blvd, Austin",30.2041165109,-97.6678133011
+45,2011-12-12 07:24:28,"Atelier, Domain Dr, Austin",30.402458,-97.725459
+46,2011-12-11 07:32:02,"Regal Cinemas Arbor 8 at Great Hills, 9828 Great Hills Trl, Austin",30.39595485,-97.74887598
+47,2011-12-10 03:19:40,"Kaffe 1668, 275 Greenwich St, New York",40.715201797,-74.0114124723
+48,2011-11-29 03:44:56,"Orlando Science Center, 777 E Princeton St, Orlando",28.5720301101,-81.3683705008
+49,2011-10-26 21:52:23,"Avery Ranch Dental, 15004 Avery Ranch Blvd A 100, Austin",30.4994983822,-97.7751016617
+50,2011-09-25 05:17:37,"Jessen Auditorium, Homer Rainey Hall, Austin",30.2839862699,-97.7402883859
+51,2011-08-21 05:07:57,"The Sixth Floor Museum, 411 Elm St, Dallas",32.7799314939,-96.8084397328
+52,2011-07-31 03:20:38,"Brooklyn Heights Pizzeria Ristorante, 14900 Avery Ranch Blvd Ste C700, Austin",30.49920265,-97.777501
+53,2011-05-19 03:46:20,"Ruby Tuesday, Airside 3, Orlando",28.427716086,-81.3141079349
+54,2011-05-19 03:31:36,"Orlando International Airport (MCO), 1 Jeff Fuqua Blvd, Orlando",28.4322799863,-81.305665904
+55,2011-05-15 07:31:13,"Miller's Orlando Ale House, 477 E Altamonte Dr, Altamonte Springs",28.664380118,-81.3754561543
+56,2011-01-30 00:24:13,"Altamonte Springs Centra Care, 440 West Highway 436, Altamonte Springs",28.661426,-81.398613
+57,2011-01-29 23:18:06,"Residence Inn Orlando Altamonte Springs, 270 Douglas Ave, Altamonte Springs",28.6644467439,-81.3920573273
+58,2010-12-31 06:55:27,"Gloria's Latin Cuisine, 3309 Esperanza Xing, Austin",30.4001868219,-97.7260440588
+59,2010-11-08 06:35:06,"Evolution Caf & Bar, 5101 Great America Pkwy, Santa Clara",37.4048836875,-121.97664006
+60,2010-11-07 21:27:13,"Austin Bergstrom International Airport (AUS), 3600 Presidential Blvd, Austin",30.2023366383,-97.6669422255
+61,2010-11-07 00:13:29,"OnQ Day Spa, 14900 Avery Ranch Blvd Ste C600, Austin",30.4991893224,-97.7774200561
+62,2010-11-06 08:41:51,"Dillard's, 11200 Lakeline Mall Dr, Cedar Park",30.4699920502,-97.80704706
+63,2010-07-08 03:30:54,"Queen Street Beach, Beach Ave, Cape May",38.9306374868,-74.9127674103
+64,2009-11-05 09:20:39,"San Francisco Marriott Marquis, 780 Mission St, San Francisco",37.7850418376,-122.404414545

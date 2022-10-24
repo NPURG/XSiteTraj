@@ -1,0 +1,138 @@
+,time,poi,latitude,longitude
+0,2016-08-30 10:08:58,"Gimme! Coffee, 228 Mott St, New York",40.7222795768,-73.9951767567
+1,2016-08-30 10:07:57,"Koro Koro, 538 Jersey Ave, Jersey City",40.721266688,-74.0463554882
+2,2016-08-30 10:07:33,"LIC Landing by COFFEED, 52-10 Center Blvd, Queens",40.742120962,-73.9609949206
+3,2016-08-13 21:03:32,"The Wormhole Coffee, 1462 N Milwaukee Ave, Chicago",41.9085428503,-87.6745757759
+4,2016-08-13 21:01:39,"Gasoline Alley Coffee, 325 Lafayette St, New York",40.7255513259,-73.9947652817
+5,2016-08-13 21:00:09,"Honolulu Coffee Company, 3750 Wailea Alanui Dr, Wailea",20.6870042266,-156.439486742
+6,2016-08-13 20:59:57,"Kihei Caffe, 1945 S Kihei Rd, K2bhei",20.7313240274,-156.451791376
+7,2016-08-13 20:57:37,"Brownsville Roasters, Vanderbilt Hall, New York",40.752349,-73.977458
+8,2016-08-13 20:49:50,"Bar Goto, 245 Eldridge St, New York",40.7227523487,-73.989416323
+9,2016-07-16 19:19:14,"Egg Shop, 151 Elizabeth St, New York",40.7203712171,-73.9950805872
+10,2016-07-16 19:17:31,"Kuro-Obi, 230 Park Ave, New York",40.7545572364,-73.9767098579
+11,2016-07-16 19:17:04,"Sjvargrilli - Seafood Grill, Sklavrustg 14, Reykjavk",64.1450913767,-21.9312660376
+12,2016-07-03 17:44:59,"Reykjavk Roasters, Krastgur 1, Reykjavk",64.1436501767,-21.9264550951
+13,2016-07-03 17:38:02,"Hraun, Grundarbraut 2, lafsvk",64.895645959,-23.7083588414
+14,2016-07-03 17:25:06,"Bernhftsbakar, Bergstaastrti 13, Reykjavk",64.14473975,-21.933284
+15,2016-07-03 08:25:07,"Church of Hallgrmur, Eirksgata, Reykjavk",64.1418589532,-21.926779747
+16,2016-07-03 08:23:04,"Mikkeller & Friends, Hverfisgata 12, Reykjavk",64.147102356,-21.9329051971
+17,2016-07-03 08:22:20,"Bjarins Beztu Pylsur, Tryggvagata 1, Reykjavk",64.1482706711,-21.9379280169
+18,2016-06-19 22:44:25,"AMC Loews Village 7, 66 3rd Ave, New York",40.7313564483,-73.9886713028
+19,2016-05-29 21:45:53,"Salvation Burger, 230 E 51st St, New York",40.7559456688,-73.9690419552
+20,2016-05-29 21:44:36,"Root & Bone, 200 E 3rd St, New York",40.7227992008,-73.9832066741
+21,2016-05-29 21:44:06,"Rivington Discount Hardware, 166 Rivington St, New York",40.7190650926,-73.9849341474
+22,2016-05-29 21:39:01,"Green Fingers Market, 5 Rivington St, New York",40.7214420729,-73.9928768812
+23,2016-03-28 21:20:53,"Janovic Paint & Decorating, 888 Lexington Ave, New York",40.7665665854,-73.9649820328
+24,2016-03-28 21:19:39,"Abuelo's Mexican Restaurant - Chandler, 3440 W Chandler Blvd, Chandler",33.306178351,-111.901974678
+25,2016-03-28 21:19:19,"Pastries & Chaat, 3450 W Chandler Blvd #9, Chandler",33.3068200475,-111.899602356
+26,2016-03-20 05:02:37,"Maya, 1191 1st Ave, New York",40.7631875739,-73.9595542249
+27,2016-02-22 04:34:58,"The Slot, 1960 Squaw Valley Road, Squaw Valley",39.1965428922,-120.235093327
+28,2016-02-22 04:34:12,"Fresh & Co, 127 E 60th St, New York",40.7630292513,-73.9681810189
+29,2016-02-22 04:33:29,"Weehawken Waterfront Park and Recreation Center, Port Imperial Blvd, Weehawken",40.7640963068,-74.0202140808
+30,2016-02-22 04:32:12,"The Butcher's Daughter, 19 Kenmare St, New York",40.7205987428,-73.9949715503
+31,2016-02-13 09:22:31,"Little Grocery, 1212 Washington St, Hoboken",40.7516429737,-74.0265839219
+32,2016-02-13 09:21:43,"Piquillo, Terminal 5, Jamaica",40.6457555402,-73.7753101239
+33,2016-02-08 08:48:38,"Anthony's Coal Fired Pizza, 8119 Town Center Way, Livingston",40.7962822811,-74.3140927625
+34,2016-01-26 21:37:15,"Terminal Fluvial Colonia Express, Av. Pedro de Mendoza 330, Buenos Aires",-34.6258377762,-58.359554707
+35,2016-01-26 21:29:06,"Empanadas Carolina, Mercado del Puerto, Montevideo",-34.905739,-56.211741
+36,2016-01-26 21:27:11,"Francisco (Buquebus Ferry), Terminal Fluvio-Martima de Montevideo / Buquebs, Montevideo",-34.9029640318,-56.2135662515
+37,2016-01-26 01:39:39,"Terminal Fluvial Colonia Express, Av. Pedro de Mendoza 330, Buenos Aires",-34.6258377762,-58.359554707
+38,2016-01-26 01:39:00,"Cementerio de la Recoleta, Junn 1760, Buenos Aires",-34.5875558258,-58.3933210373
+39,2016-01-26 01:37:45,"Recoleta Mall, Vicente Lpez 2050, Buenos Aires",-34.589110352,-58.3939003944
+40,2016-01-26 01:34:21,"Hotel Los Cerros El Chalten, San Martin 260, El Chaltn",-49.3282352984,-72.8903771867
+41,2016-01-26 01:29:43,"Parque Nacional Tierra del Fuego, Parque Nacional Tierra del Fuego, Ushuaia",-54.8076186318,-68.3131384574
+42,2016-01-26 01:25:13,"Los Acebos Ushuaia Hotel, Luis F. Martial 1911 Camino Al Glaciar Martial, Ushuaia",-54.8059407187,-68.3518883327
+43,2016-01-26 01:23:17,"Tufic Helados | Espacio de Sabores, Guatemala 4597, Capital Federal",-34.5870538181,-58.423502572
+44,2016-01-26 01:13:31,"Charco Bistro, San Pedro 116, Colonia del Sacramento",-34.4732340392,-57.8518715501
+45,2016-01-25 22:36:21,"Caf Rivas, Estados Unidos 302, Ciudad de Buenos Aires",-34.6185130657,-58.3701386923
+46,2016-01-25 22:33:02,"Ahonikenk, Avenida Guemes 23, El Chaltn",-49.3315071313,-72.8914240562
+47,2016-01-25 22:31:53,"El Burladero, Pte. Jos E. Uriburu 1488, Recoleta",-34.5914457091,-58.3968815803
+48,2016-01-25 22:30:03,"Plaza Dorrego, Humberto Primo 400, Buenos Aires, Buenos Aires C.F.",-34.6204971665,-58.371770829
+49,2016-01-06 16:42:20,"Sierra Nevada Brewing Co., 100 Sierra Nevada Way, Mills River",35.4305754218,-82.5538280415
+50,2016-01-06 16:41:34,"Bojangles' Famous Chicken 'n Biscuits, 2545 N Pleasantburg Drive, Greenville",34.8879726968,-82.3861849308
+51,2016-01-02 23:46:48,"Hometown Hotpot & BBQ, 194 Grand St, New York",40.7192296161,-73.996865341
+52,2016-01-02 23:46:11,"Junoon, 27 W 24th St, New York",40.7430110074,-73.9910461791
+53,2016-01-02 23:42:57,"Delaney Chicken, 230 Park Ave, New York",40.7546187189,-73.9767098579
+54,2016-01-02 23:39:54,"Flex Mussels, 174 E 82nd St, New York",40.776381,-73.956388
+55,2016-01-02 23:38:16,"Mr. Taka, 170 Allen St, New York",40.7213017398,-73.989284327
+56,2016-01-02 23:37:33,"SenYa, 109 1st Ave, New York",40.7268601647,-73.9858466603
+57,2016-01-02 22:38:38,"Passerelle Bistro, 601 S Main St, Greenville",34.8448760135,-82.4016422098
+58,2015-12-25 11:53:10,"Royce' Chocolate Midtown, 509 Madison Ave, New York",40.7595775512,-73.9742463827
+59,2015-12-17 10:50:34,"Draught 55, 245 E 55th St, New York",40.7582339853,-73.9665107915
+60,2015-12-07 10:36:35,"Classic Tile & Marble, 1635 86th St, Brooklyn",40.6094605942,-74.0062823676
+61,2015-11-30 20:40:35,"Ice & Vice, 221 E Broadway, New York",40.7142079238,-73.9869681001
+62,2015-11-30 20:38:05,"Brooklyn Boulders Chicago, 100 S Morgan St, Chicago",41.8802684182,-87.6522724483
+63,2015-11-29 23:53:38,"Bloomingdale Trail - The 606, Bloomingdale Ave, Chicago",41.9139435781,-87.6855043207
+64,2015-11-29 02:04:58,"The Violet Hour, 1520 N Damen Ave, Chicago",41.9090482263,-87.6774215698
+65,2015-11-29 02:02:53,"Lagunitas Taproom, 1843 N Washtenaw Ave, Chicago",41.8575612684,-87.692055375
+66,2015-11-29 02:02:00,"Fig's Cafe, Terminal B, La guardia",40.7757075597,-73.8745055231
+67,2015-11-23 07:55:11,"Horus Caf on A, 293 E 10th St, New York",40.7278766879,-73.9819818735
+68,2015-11-23 07:54:07,"Lower East Side Tenement Museum, 103 Orchard St, New York",40.7188398696,-73.989858222
+69,2015-11-23 07:52:50,"Russian & Turkish Baths, 268 E 10th St, New York",40.7284742997,-73.9836256308
+70,2015-11-23 07:49:57,"Birds & Bubbles, 100B Forsyth St, New York",40.7183419893,-73.992962964
+71,2015-11-23 07:46:34,"Sprinkles Ice Cream, 782 Lexington Ave, New York",40.7631561557,-73.9674406106
+72,2015-11-23 07:44:39,"Mission Chinese Food, 171 E Broadway, New York",40.7140696769,-73.9898085594
+73,2015-11-23 07:41:11,"UrbanSpace Vanderbilt, 230 Park Avenue, New York",40.7543992353,-73.9768705592
+74,2015-11-23 07:39:52,"Basil Brick Oven Pizza, 28-17 Astoria Blvd, Astoria",40.7707445084,-73.920134694
+75,2015-11-23 07:38:44,"Mango Mango, 63 Bayard St, New York",40.7155495896,-73.9979786516
+76,2015-11-23 07:36:18,"Pig 'n' Whistle, 922 3rd Ave, New York",40.7593301993,-73.9681924981
+77,2015-11-23 07:35:10,"Zing's Awesome Rice, 122 Ludlow St, New York",40.719835,-73.988462
+78,2015-11-16 09:36:27,"Cafe Olympia, 664 Lexington Ave, New York",40.7599294354,-73.9699832411
+79,2015-11-16 09:34:43,"Bottega del Vino, 5 E 59th St, New York",40.7639979317,-73.9726865429
+80,2015-11-16 09:34:16,"Tacos Morelos, 25 Ave A, New York",40.7231561397,-73.9856630102
+81,2015-11-16 09:32:17,"Kang Ho Dong Baekjeong, 1 E 32nd St, New York",40.7470527896,-73.9850661464
+82,2015-11-16 09:28:24,"M'o Gelato, 178 Mulberry St, New York",40.720827455,-73.9968366473
+83,2015-11-16 09:27:22,"Sweet Chick, 178 Ludlow St, New York",40.7217690667,-73.9875052417
+84,2015-11-16 09:26:35,"Sakamai, 157 Ludlow St, New York",40.7211028848,-73.9879127111
+85,2015-11-16 09:25:42,"Caffe Vita Coffee Roasting Co., 124 Ludlow St, New York",40.7197413483,-73.9886415626
+86,2015-11-14 23:18:36,"Fishion Herb Center/Massage, 107 Mott St, New York",40.7174083252,-73.9973703487
+87,2015-11-14 23:13:13,"Sushi Nakazawa, 23 Commerce St, New York",40.7317562321,-74.0045149171
+88,2015-11-14 23:10:22,"Blue & Gold Tavern, 79 E 7th St, New York",40.7272963713,-73.9862908423
+89,2015-11-14 23:09:31,"Drunk Shakespeare At Quinn's Bar, 356 W 44th St, New York",40.7577472194,-73.9899041335
+90,2015-11-14 23:04:36,"Johnny Rockets, 930 3rd Ave, New York",40.7595577433,-73.9683133364
+91,2015-11-09 01:30:00,"Joe's Pub at The Public, 425 Lafayette St, New York",40.7293006376,-73.9919299685
+92,2015-11-09 01:27:46,"Washington Square Arch, Washington Sq N, New York",40.7312243996,-73.9970959605
+93,2015-11-09 01:27:13,"The Library at The Public, 425 Lafayette St, New York",40.7292950552,-73.9919357074
+94,2015-11-09 01:26:09,"Tertulia, 359 Avenue of the Americas, New York",40.7321758601,-74.0006126959
+95,2015-10-31 20:15:33,"Rita's Water Ice, 2486 Broadway, New York",40.7921903069,-73.9732217789
+96,2015-10-31 20:13:28,"Popbar, 5 Carmine St, New York",40.7306409984,-74.0020179749
+97,2015-10-31 20:12:09,"Milk & Cookies Bakery, 19 Commerce St, New York",40.731723,-74.004236
+98,2015-10-31 20:06:01,"Great N.Y. Noodletown, 28 Bowery, New York",40.7150640925,-73.9968882959
+99,2015-10-31 20:04:59,"Taiwan Pork Chop House fa63660c7d7353, 3 Doyers St, New York",40.714396,-73.997828
+100,2015-10-31 20:03:29,"Buddha Bodai 5be9d020dc, 5 Mott St, New York",40.713827645,-73.9987017262
+101,2015-10-31 20:02:07,"Nyonya, 199 Grand St, New York",40.7191924589,-73.9968768185
+102,2015-10-31 19:58:37,"Oriental Garden 8fe88077ae52b6, 14 Elizabeth St, New York",40.7159583644,-73.9974334746
+103,2015-10-31 19:56:34,"Jing Fong Restaurant d150275213, 20 Elizabeth St, New York",40.7158065322,-73.9970489803
+104,2015-10-31 19:54:25,"Casa Mezcal, 86 Orchard St, New York",40.7180553345,-73.9903173367
+105,2015-10-31 19:52:35,"An Choi, 85 Orchard St, New York",40.7177290577,-73.9906024933
+106,2015-10-31 19:51:02,"Kuma Inn, 113 Ludlow St, New York",40.7194628816,-73.9886932134
+107,2015-10-31 19:40:04,"Fornos of Spain, 47 Ferry St, Newark",40.7323509703,-74.163324522
+108,2015-10-31 19:32:11,"Crunch, 1109 2nd Ave, New York",40.7604868006,-73.9646281811
+109,2015-10-28 10:10:38,"The Cliffs at Long Island City, 11-11 44th Dr, Long Island City",40.7485143057,-73.9488835584
+110,2015-10-28 10:09:44,"Punjabi Grocery & Deli, 114 E 1st St, New York",40.7224940831,-73.987120986
+111,2015-10-28 10:08:08,"Hong Kong Supermarket 992f851a0234, 157 Hester St, New York",40.7176402842,-73.9961824307
+112,2015-10-27 02:24:48,"Lowline Lab, 140 Essex St, New York",40.7201848514,-73.9873617664
+113,2015-10-22 19:40:08,"Brass Monkey, 55 Little West 12th St, New York",40.7407279518,-74.008611043
+114,2015-10-20 19:40:47,"High Bridge, Harlem River Dr. & W. 172nd St., New York",40.8421842641,-73.9282925025
+115,2015-10-20 19:40:20,"Cathedral Church of St. John the Divine, 1047 Amsterdam Ave, New York",40.804005365,-73.9626766753
+116,2015-10-20 19:39:27,"Goa Taco, 79 Delancey St, New York",40.718938,-73.990083
+117,2015-10-20 19:37:06,"Granville Island Brewing, 1441 Cartwright Street, Vancouver",49.270485,-123.135768
+118,2015-10-19 11:22:47,"Juice Generation, 817 Lexington Ave, New York",40.7643075843,-73.9664840698
+119,2015-10-19 09:52:41,"Somtum Der, 85 Avenue A, New York",40.72528,-73.984394
+120,2015-10-19 09:51:36,"Bobwhite Counter, 94 Avenue C, New York",40.7237648881,-73.9791892342
+121,2015-10-19 09:49:42,"Morgenstern's Finest Ice Cream, 2 Rivington St, New York",40.7215125498,-73.9932671227
+122,2015-10-19 09:44:53,"Caf Plume, 123 Mont-Royal Ouest, Montral",45.5185227549,-73.5879036784
+123,2015-10-19 09:44:28,"Fairmount Bagel, 74 Fairmount O, Montral",45.5228617667,-73.5951760655
+124,2015-10-19 09:43:28,"La Banquise, 994, rue Rachel Est, Montral",45.5252843095,-73.5748171806
+125,2015-10-19 09:40:45,"Parc La Fontaine, 3933 rue du Parc-Lafontaine, Montral",45.5250330307,-73.5704408892
+126,2015-10-19 09:40:10,"Mount Royal Park, 1260 Chemin Remembrance, Montral",45.5040792169,-73.5873207558
+127,2015-10-19 08:59:01,"L'Express, 3927, rue Saint-Denis, Montral",45.520222914,-73.5744292277
+128,2015-10-19 08:54:20,"St-Viateur Bagel (La Maison du Bagel), 263 rue Saint-Viateur Ouest, Montral",45.522637,-73.601799
+129,2015-10-19 08:49:38,"Caff Vero, 1 Canada St, Lake George",43.4175271439,-73.7136945284
+130,2015-10-14 03:15:13,"Le Chic Nail Spa, 128 Rivington St, New York",40.7196384392,-73.9868395152
+131,2015-10-10 11:16:49,"New Moon Cafe, 198 Ida Bell Dr, Dillon",39.607113,-105.942181349
+132,2015-10-10 11:13:38,"Lin's Taiwan, Szechuan Style & Japanese Sushi, 40 Speedwell Ave, Morristown",40.7995409863,-74.4812831428
+133,2015-10-07 09:27:55,"Shanghai Caf Deluxe, 100 Mott St, New York",40.7173341202,-73.997485123
+134,2015-10-07 09:25:18,"Pig and Khao, 68 Clinton St, New York",40.7192553401,-73.9849054519
+135,2015-10-06 10:15:58,"Musubi Cafe IYASUME, 2427 Kuhio Ave, Honolul",21.2764580716,-157.823705077
+136,2015-10-06 10:15:13,"Musette Caff, 1325 Burrard St, Vancouver",49.2778007178,-123.131375313

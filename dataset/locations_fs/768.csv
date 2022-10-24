@@ -1,0 +1,48 @@
+,time,poi,latitude,longitude
+0,2015-03-16 05:10:35,"Beauty's Bagel Shop, 3838 Telegraph Ave, Oakland",37.8277849267,-122.26467701
+1,2014-08-10 12:32:59,"Spoon Korean Bistro, 933 Ashby Ave, Berkeley",37.8516843161,-122.289814128
+2,2014-02-12 01:07:37,"Caracas Arepa Bar, 291 Grand St, Brooklyn",40.713120308,-73.9575280491
+3,2014-02-12 01:06:42,"Manhattan Inn, 632 Manhattan Ave, Brooklyn",40.7239454779,-73.950830698
+4,2014-02-12 01:05:59,"The Diamond, 43 Franklin St, Brooklyn",40.726805,-73.957422
+5,2014-02-12 01:05:29,"Pencil Factory, 142 Franklin St, Brooklyn",40.729831,-73.9575630426
+6,2014-02-12 01:05:14,"Enid's, 560 Manhattan Ave, Brooklyn",40.7222968282,-73.9498421631
+7,2014-02-12 01:01:37,"Spritzenhaus 33, 33 Nassau Ave, Brooklyn",40.7232177517,-73.9527511597
+8,2013-12-17 02:23:53,"Bogart's Cafe, 3045 Monsarrat Ave, Honolul",21.2689680826,-157.813499732
+9,2013-12-17 02:23:23,"Marukame Udon, 2310 Kuhio Ave, Honolul",21.2794442072,-157.826097631
+10,2013-11-26 07:42:34,"Picnic, C. Comer, 1, Barcelona",41.3886878685,2.18154698398
+11,2013-11-26 07:41:10,"Dosnoventa, Passatge Bocabella, 5, Barcelona",41.3964492826,2.17623710632
+12,2013-11-26 07:38:57,"Milk Bar & Bistro, C. Gigns, 21, Barcelona",41.3813906105,2.1801647077
+13,2013-11-26 07:36:02,"Mercat de Sant Josep - La Boqueria, La Rambla, 91, Barcelona",41.3819149789,2.1720015036
+14,2013-11-26 07:32:21,"Tapas 24, Diputaci, 269, Barcelona",41.3906738992,2.16740945206
+15,2013-11-26 07:26:46,"Kling, Banys Nous, 14, Barcelona",41.3825310902,2.17487117386
+16,2013-11-26 07:25:18,"Holala! Tallers, C. dels Tallers, 73, Barcelona",41.3848554467,2.1664930172
+17,2013-11-26 07:23:31,"La Comercial, Carrer del Rec 52, Barcelona",41.384504,2.183541
+18,2013-11-26 07:22:05,"El Ingenio, Raurich 6, Barcelona",41.3812951693,2.17504393577
+19,2013-11-26 07:17:02,"Mir Mosaic on the Rambla, La Rambla, Barcelona",41.3812236472,2.17322996881
+20,2013-11-26 07:15:26,"Fantastik, C. de Joaqun Costa, 62, Barcelona",41.3835838386,2.16474656474
+21,2013-11-26 07:12:08,"Chandal, C. de Valldonzella, 29, Barcelona",41.3868148034,2.18119382858
+22,2013-11-26 07:07:41,"Teatre-Museu Salvador Dal, Pl. Gala-Salvador Dal, 5, Figueres",42.2680715886,2.95952028196
+23,2013-06-15 21:33:13,"Washington Commons, 748 Washington Ave, Brooklyn",40.6755177399,-73.9633252662
+24,2013-01-14 00:36:12,"Dear Mom, 2700 16th St, San Francisco",37.765522,-122.413194
+25,2013-01-14 00:21:31,"Sutro Baths, Point Lobos Ave., San Francisco",37.7804298401,-122.512850846
+26,2013-01-14 00:18:32,"Parkside Cafe, 43 Arenal Ave, Stinson Beach",37.897706,-122.639533
+27,2013-01-14 00:15:25,"Anchor & Hope, 83 Minna St, San Francisco",37.7878958034,-122.398744731
+28,2013-01-14 00:05:41,"Honey Honey Cafe & Crepery, 599 Post St, San Francisco",37.7878131317,-122.411599557
+29,2012-09-13 12:53:47,"Honolulu International Airport (HNL), 300 Rodgers Blvd, Honolul",21.3320753498,-157.920432868
+30,2012-09-08 06:17:47,"Sheraton Waikiki, 2255 Kalakaua Ave, Honolul",21.2776782737,-157.830271721
+31,2012-06-08 06:55:48,"Flatbush Farm & Bar(n), 76 Saint Marks Ave, Brooklyn",40.6798406667,-73.9747881889
+32,2012-06-08 06:53:37,"BKLYN Larder, 228 Flatbush Ave, Brooklyn",40.680658,-73.974825
+33,2012-06-08 06:51:58,"Hungry Ghost, 253 Flatbush Ave, Brooklyn",40.680271537,-73.9746953412
+34,2011-12-11 15:52:42,"Franklin Corner Cafe, 210 Franklin St, Brooklyn",40.7328259421,-73.9579546452
+35,2011-12-11 15:39:57,"Shake Shack, 366 Columbus Ave, New York",40.7808257732,-73.976483345
+36,2011-12-11 15:23:19,"Bloomberg, 731 Lexington Ave, New York",40.7616126048,-73.9678079453
+37,2011-12-11 15:05:39,"The Arrogant Butcher, 2 E Jefferson St #150, Phoenix",33.4473685124,-112.072895765
+38,2011-12-11 14:16:02,"Blue Sky Bakery, 53 5th Ave, Brooklyn",40.681077382,-73.9772075415
+39,2010-01-07 06:45:17,"The Library, 7 Avenue A, New York",40.7224315477,-73.986231177
+40,2010-01-07 06:34:09,"Nancy Whiskey Pub, 1 Lispenard St, New York",40.7205932578,-74.0051691052
+41,2009-07-27 04:08:16,"Caracas Arepa Bar, 291 Grand St, Brooklyn",40.713120308,-73.9575280491
+42,2009-05-25 06:09:08,"McCarren Park, 780 Lorimer St, Brooklyn",40.7207882001,-73.9525974076
+43,2009-05-15 11:37:40,"New York Sports Club, 230 W 41st St, New York",40.7554824284,-73.9889457282
+44,2009-05-15 11:34:45,"New York Times Building, 620 8th Ave, New York",40.7561098738,-73.9899098724
+45,2009-03-17 08:02:47,"Barcade, 388 Union Ave, Brooklyn",40.7120718032,-73.951082028
+46,2009-03-17 07:54:10,"Brooklyn Flea - Fort Greene, 176 Lafayette Ave., Brooklyn",40.6874151876,-73.9692252874

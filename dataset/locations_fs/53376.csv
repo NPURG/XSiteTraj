@@ -1,0 +1,217 @@
+,time,poi,latitude,longitude
+0,2016-12-27 05:34:45,"Dalmatiner Grill, Geibelstrasse, Mnchen",48.141235,11.603532
+1,2016-12-22 18:05:47,"Landhaus, Marienstr. 2, Mnchen",48.136883,11.580591
+2,2016-12-22 18:04:52,"Kerala, Schumannstrae 9, Mnchen",48.1418004261,11.6029326941
+3,2016-12-22 17:47:11,"Taklamakan, Bayerstr. 27, Mnchen",48.1394030593,11.5605373381
+4,2016-12-22 17:45:11,"Ca' de Bezzi, Andreas-Hofer-Str. 30, Bolzano",46.5012693669,11.3573000322
+5,2016-12-17 19:53:45,"Brotmanufaktur Schmidt, Ismaninger Str. 91, Mnchen",48.146786,11.603939
+6,2016-11-14 04:17:04,"Amavida, N Main Street, Rosemary Beach",30.280544,-86.016022
+7,2016-10-07 23:54:25,"Hwaro, 4516 Mission St, San Francisco",37.725687,-122.434407
+8,2016-09-04 14:03:07,"Verdigris, 1315 NE Fremont St, Portland",45.5483075854,-122.65238395
+9,2016-08-28 01:41:33,"Don Weber, Heinrichstr. 213, Zrich",47.387801,8.524554
+10,2016-07-11 03:33:08,"Alamo Drafthouse Cinema 13 New Mission, 2550 Mission St, San Francisco",37.7562424467,-122.419580485
+11,2016-06-23 08:01:58,"Phdf Nice, 800 Geneva Ave, San Francisco",37.71679745,-122.441357643
+12,2016-06-23 08:01:17,"Dianda's Italian American Pastry, 2883 Mission St, San Francisco",37.750801,-122.4183021
+13,2016-06-23 08:00:48,"Like Poke?, 591 Haleakala Hwy, Kahului",20.8882160739,-156.447834184
+14,2016-06-23 08:00:04,"Relish Burger Bistro, 2365 Kaanapali Pkwy, M01la",20.9203386814,-156.695565562
+15,2016-06-23 07:59:23,"Costco Wholesale, 540 Haleakala Hwy, Kahului",20.8873620945,-156.450118597
+16,2016-06-23 07:59:10,"Kmart, 424 Dairy Rd, Kahului",20.88587,-156.45157
+17,2016-06-23 07:58:53,"Mana Foods, 49 Baldwin Ave, Paia",20.9154662236,-156.380134821
+18,2016-06-23 07:58:26,"Haleakala Bike Company, 810 Haiku Road #120, Ha18ik6b",20.913667,-156.322799921
+19,2016-06-23 07:57:49,"Surfing Goat Dairy, 3651 Omaopio Rd, Kula",20.8062988681,-156.364933007
+20,2016-06-23 07:57:30,"Hali'imaile General Store, 900 Haliimaile Rd, Makawao",20.8682812047,-156.34000633
+21,2016-06-23 07:56:58,"Flatbread Pizza Company, 93 Hana Hwy., Paia",20.9158021553,-156.382043499
+22,2016-06-23 07:55:33,"Coconut's Fish Cafe, 1279 S Kihei Rd #304, K2bhei",20.7500917427,-156.455097198
+23,2016-06-23 07:55:02,"Capische, 555 Kaukahi St, Wailea",20.6774723244,-156.43198305
+24,2016-06-23 07:54:08,"Paia Bay Coffee, 43 Hana Hwy., Paia",20.9162092779,-156.381479728
+25,2016-06-23 07:53:30,"Mama's Fish House, 799 Poho Pl, Paia",20.9290637358,-156.36719384
+26,2016-06-23 07:52:27,"Rocks Den, 4431 Mission St, San Francisco",37.7272423423,-122.432819855
+27,2016-06-23 07:51:54,"Zabb Thai, 4440 Mission St, San Francisco",37.7266,-122.433421583
+28,2016-06-23 07:51:12,"Hi Dive Bar, 501 The Embarcadero, San Francisco",37.7875472171,-122.387491465
+29,2016-06-23 07:50:11,"Broken Record, 1166 Geneva Ave, San Francisco",37.7143757851,-122.437050128
+30,2016-06-23 07:49:37,"Fort Point Beer Company, 1 Sausalito, San Francisco",37.795508596,-122.394241851
+31,2016-06-23 07:48:03,"Red Tavern, 2229 Clement St, San Francisco",37.7820292407,-122.483207062
+32,2016-06-13 06:31:47,"Charley's Restaurant & Saloon, 142 Hana Hwy, Paia",20.9164269211,-156.380491677
+33,2016-06-13 06:31:18,"The Gingerbread House, 19 Aolani St, Paia",20.923191,-156.36996
+34,2016-06-13 03:45:37,"Market Fresh Bistro, 3620 Baldwin Ave Ste 102A, Makawao",20.855122297,-156.311706305
+35,2016-04-17 16:26:26,"Fiorella, 2339 Clement St, San Francisco",37.7820265864,-122.484533586
+36,2016-03-25 20:50:24,"Revelry, 297 Page St, San Francisco",37.7736361603,-122.425630764
+37,2016-03-21 03:00:01,"Blue Bottle Coffee, 315 Linden St, San Francisco",37.776407,-122.423250675
+38,2016-03-21 02:57:40,"Destination Baking Company, 641 Chenery St, San Francisco",37.7345927452,-122.432399583
+39,2016-03-21 02:55:31,"Bella Trattoria Italiana, 3854 Geary Blvd, San Francisco",37.7813333273,-122.461021
+40,2016-01-09 14:59:00,"Little Gem, 400 Grove St, San Francisco",37.7778192492,-122.423169769
+41,2015-12-25 06:37:07,"Industrial Eats, 181 B Industrial Way, Buellton",34.614113,-120.199835
+42,2015-12-25 06:05:21,"Mosby Winery, 9496 Santa Rosa Rd, Buellton",34.5987207426,-120.193495851
+43,2015-12-25 06:04:53,"Opal Restaurant & Bar, 1325 State St, Santa Barbara",34.424851,-119.706648
+44,2015-12-25 06:04:21,"Front Page Jamaican Grille, 1117 W Manchester Blvd, Inglewood",33.96043,-118.375661
+45,2015-12-24 12:02:15,"Urth Caff, 267 S Beverly Dr, Beverly Hills",34.0626352809,-118.39921491
+46,2015-12-24 11:57:30,"Rock & Brews, 143 Main St, El Segundo",33.917593451,-118.416078687
+47,2015-12-07 11:17:01,"Ginto Izakaya Japonaise, 658 Market St, San Francisco",37.788442,-122.402627
+48,2015-12-07 11:00:22,"Suppenkche, 525 Laguna St, San Francisco",37.7763457776,-122.426190376
+49,2015-11-26 01:09:42,"Bloodhound, 1145 Folsom St, San Francisco",37.7759217685,-122.408895493
+50,2015-11-26 01:09:19,"Post Ranch Inn, 47900 Highway 1, Big Sur",36.2297696697,-121.771688461
+51,2015-11-26 01:04:30,"San Francisco Passport Agency, 95 Hawthorne St Fl 5, San Francisco",37.7849844744,-122.397721366
+52,2015-11-26 01:04:12,"Fondue Cowboy, 1052 Folsom St, San Francisco",37.777667,-122.406998
+53,2015-11-26 01:03:14,"Sierra Mar, 47900 Post Ranch Inn, Big Sur",36.22983,-121.771656
+54,2015-11-24 17:36:32,"Viktualienmarkt, Viktualienmarkt 6, Mnchen",48.1352630702,11.5761780739
+55,2015-11-24 17:35:57,"Schlemmermeyer, Viktualienmarkt 3, Mnchen",48.136031,11.576713
+56,2015-11-24 17:35:31,"San Francisco Coffee Company, Theatinerstr. 23, Mnchen",48.1423761863,11.5771651268
+57,2015-11-24 17:33:56,"Sankt Emmeramsmhle, Sankt Emmeram 41, Mnchen",48.1759412025,11.6271138315
+58,2015-11-24 17:26:17,"Del Borgo, St. Domnic Street, Birg",35.8862512039,14.5224559307
+59,2015-11-03 04:53:37,"Chatty Monks Brewing Company, 610 Penn Ave., West Reading",40.335789476,-75.9502617858
+60,2015-11-03 04:52:14,"Green Leaf's Beyond Great Salads, Terminal D, Philadelphia",39.8754106491,-75.2382635505
+61,2015-10-11 08:55:40,"PPQ Dungeness Island, 2332 Clement St, San Francisco",37.782113,-122.48443298
+62,2015-10-11 08:53:27,"Hot Sauce and Panko, 1468 Hyde St, San Francisco",37.7945569371,-122.418076157
+63,2015-09-25 17:30:50,"Delarosa, 2175 Chestnut St, San Francisco",37.8003875735,-122.439123729
+64,2015-09-25 17:29:35,"State Bird Provisions, 1529 Fillmore St, San Francisco",37.7838765351,-122.432913863
+65,2015-09-25 17:28:19,"Bogenhausener Ksealm, Ismaninger Strae 132, Mnchen",48.148476,11.60589
+66,2015-08-27 10:34:59,"15 Romolo, 15 Romolo Pl, San Francisco",37.7981024146,-122.406378165
+67,2015-08-15 15:28:03,"Blue Bottle Coffee 05847db3edfcb9bfeafc&abd5a7, 73ce1-4-8, 5f713a",35.6777760174,139.800856944
+68,2015-08-13 20:21:27,"8f41 cf2c97, b04b2-9-17, 71ac",35.6670733082,139.756021458
+69,2015-08-11 20:21:42,"Hakodate Kokusai Hotel, 274b3a5-10, fd2802",41.7693675331,140.72260032
+70,2015-08-11 20:21:14,"Mt. Hakodate Observatory, fd2871, fd2802",41.7594361033,140.704484582
+71,2015-08-11 20:20:39,"fd28d3e4dbfceb, 2b833a14-12, fd2802",41.76669,140.716266
+72,2015-08-11 20:20:08,"Sapporo Grand Hotel, 2d2e3a171617f4, 2d4c02",43.0627700887,141.350864768
+73,2015-08-11 20:19:11,"6893Q 644f702c97, 71b09513-12, 644f7002",36.0770326504,140.110671171
+74,2015-08-06 08:09:37,"0f3dd3fceb 0f3d09abNo.1, 2f3a5-4, 0f3d02",43.1991223629,141.00265331
+75,2015-08-04 20:23:14,"b0e9b9a4bae0 343c97, 2d4c027f3a343c161101ee76a6f700b3b9e2ecb8c7f3b91F, 2d4c02",43.0891425078,141.343296214
+76,2015-07-30 16:12:36,"Mt. Hakodate Observatory, fd2871, fd2802",41.7594361033,140.704484582
+77,2015-07-19 09:47:26,"Fish., 350 Harbor Dr, Sausalito",37.868274,-122.49769
+78,2015-07-19 09:46:37,"Avery Brewing Co., 4910 Nautilus Ct N, Boulder",40.0622769327,-105.205085999
+79,2015-07-19 09:45:28,"West End Tavern, 926 Pearl St, Boulder",40.0170606328,-105.283208105
+80,2015-07-19 09:44:52,"Joe's Ice Cream, 5420 Geary Blvd, San Francisco",37.7806085764,-122.477734972
+81,2015-07-12 05:54:15,"Blue Bottle Coffee, 1355 Market St Ste 190, San Francisco",37.7762555441,-122.416909182
+82,2015-07-11 23:55:22,"Babo: A Market By Sava, 403 W Washington St., Ann Arbor",42.2804426157,-83.7437383718
+83,2015-07-11 23:54:51,"Yank Sing, 101 Spear St, San Francisco",37.7925510428,-122.393096739
+84,2015-07-11 23:54:23,"Turtle Tower #3, 501 6th St, San Francisco",37.776041,-122.402441
+85,2015-07-11 23:53:18,"Theo's Cheese Steak Shop, 121 Spear St Ste B19, San Francisco",37.7922189282,-122.392523289
+86,2015-07-11 23:52:33,"Spicy King, 65 Waverly Pl, San Francisco",37.794179,-122.406819
+87,2015-07-11 23:51:56,"Hong Kong Lounge 579952b6, 5322 Geary Blvd, San Francisco",37.7806026942,-122.476562262
+88,2015-07-11 23:51:42,"Jayakarta Restaurant, 2026 University Ave, Berkeley",37.871957,-122.270004
+89,2015-07-11 23:51:21,"The Trappist, 460 8th St, Oakland",37.80049756,-122.27420032
+90,2015-07-11 23:50:43,"Gold Dust Lounge, 165 Jefferson St #1, San Francisco",37.8081815699,-122.415294199
+91,2015-07-11 23:50:09,"Orenchi Beyond, 174 Valencia St, San Francisco",37.7702737354,-122.422413826
+92,2015-07-11 23:49:16,"Rich Table, 199 Gough St, San Francisco",37.774891,-122.422736
+93,2015-07-11 23:46:48,"Dosa, 1700 Fillmore St, San Francisco",37.7853389558,-122.432913863
+94,2015-07-11 23:45:09,"R+D Kitchen, 6795 Washington St, Yountville",38.4062033505,-122.367938161
+95,2015-05-19 02:17:51,"Zingerman's Delicatessen, 422 Detroit St, Ann Arbor",42.2846492339,-83.745123446
+96,2015-05-19 02:17:35,"Blue Tractor BBQ & Brewery, 207 E Washington St, Ann Arbor",42.2805208023,-83.7468244219
+97,2015-05-19 02:17:18,"Babo: A Market By Sava, 403 W Washington St., Ann Arbor",42.2804426157,-83.7437383718
+98,2015-04-20 01:01:37,"The Grove, 301 Hayes St, San Francisco",37.7770407811,-122.42140556
+99,2015-04-09 22:39:31,"Lemar, Thierschstr. 5, Mnchen",48.1341815838,11.5844073936
+100,2015-04-06 02:52:41,"The Beer Hall, 1 Polk St, San Francisco",37.7768206649,-122.418036461
+101,2015-04-06 02:51:45,"Sternen Grill, Theaterstr. 22, Zrich",47.3672391406,8.54555815458
+102,2015-04-06 02:51:04,"Rimini Bar, Badweg 10, Zrich",47.3715083996,8.53290007449
+103,2015-04-06 02:49:41,"Frau Gerolds Garten, Geroldstr. 23, Zrich",47.385360725,8.51899610528
+104,2015-04-06 02:49:13,"El Lokal, Gessnerallee 11, Zrich",47.3743745841,8.5336627974
+105,2015-04-06 02:48:35,"The Bite, Brauerstr. 15, Zrich",47.3774038285,8.5277241179
+106,2015-04-06 02:47:36,"Fork & Bottle, Allmendstr. 20, Zrich",47.3522734654,8.52438999091
+107,2015-04-06 02:46:58,"holy home, Reichenbachstrae 21, Mnchen",48.1311140791,11.5759969274
+108,2015-04-06 02:44:49,"Gute Nacht Wurst, Klenzestr. 32, Mnchen",48.13094,11.574812
+109,2015-04-06 02:43:32,"Zum Spckmeier, Rosenstr. 9, Mnchen",48.1367630997,11.5739384294
+110,2015-04-06 02:41:25,"Mahlefitz, Nymphenburger Str. 51, Mnchen",48.1492781398,11.5490712547
+111,2015-04-06 02:40:34,"Schlemmermeyer, Viktualienmarkt 3, Mnchen",48.136031,11.576713
+112,2015-04-06 02:40:06,"Gasthaus Altes Bad, Wildbad Kreuth 2, Kreuth",47.6201691056,11.741740988
+113,2015-04-06 02:38:14,"Burma Love, 211 Valencia St, San Francisco",37.769618,-122.422199
+114,2015-04-06 02:36:56,"Burma Superstar, 309 Clement St, San Francisco",37.7830303932,-122.462544276
+115,2015-04-06 02:27:59,"Rsterei, Kalanderplatz 6, Zrich",47.358354967,8.522772789
+116,2015-04-06 02:25:11,"Ristorante Pizzeria Il Galeone, Hornsteinstr. 18, Mnchen",48.1520370842,11.6113852049
+117,2015-04-06 02:20:16,"Biergarten am Chinesischen Turm, Englischer Garten, Mnchen",48.15202,11.59249
+118,2015-03-29 22:58:51,"Der Grne Libanon, Hafnerstrasse 13, Zrich",47.3808296981,8.53479768478
+119,2015-02-15 10:25:54,"Orbit Room, 1900 Market St, San Francisco",37.7706860915,-122.425121978
+120,2015-01-24 11:05:33,"McSorley's Old Ale House, 15 E 7th St, New York",40.7286023487,-73.9899615229
+121,2015-01-24 11:00:37,"Monk19s Kettle, 3141 16th St, San Francisco",37.7648027162,-122.422926432
+122,2014-12-20 20:58:06,"Ginsasa, 80a78-15-2, 71ac",35.6661831172,139.763393998
+123,2014-12-20 16:55:19,"ROOFTOP BAR ebfcd5c8c3d7d0fc, 4ece801-23-4, 71ac",35.6666121324,139.749857977
+124,2014-12-13 11:12:03,"Los Compadres Taco Truck, 298 Spear St, San Francisco",37.7901034368,-122.390950312
+125,2014-12-13 11:11:40,"Side Bar, 408 Clement St, San Francisco",37.7830407398,-122.463788139
+126,2014-12-08 03:14:09,"Rustic Bakery, 2017 Larkspur Landing Cir, Larkspur",37.94707361,-122.509546457
+127,2014-12-08 02:26:02,"Dad's Original Frozen Banana, 318 Marine Ave, Newport Beach",33.6078252655,-117.88976687
+128,2014-12-07 08:02:27,"Saiwaii Ramen, 2240 Irving St, San Francisco",37.7634399642,-122.482228739
+129,2014-12-07 08:01:37,"Blarney Stone Bar & Restaurant, 5625 Geary Blvd, San Francisco",37.7800599933,-122.479963303
+130,2014-12-07 08:00:36,"John Campbell's Irish Bakery, 5625 Geary Blvd, San Francisco",37.78020316,-122.479867
+131,2014-12-07 08:00:08,"Smitten Ice Cream, 5800 College Ave, Oakland",37.8460693359,-122.251838684
+132,2014-12-07 07:59:31,"Dovre Club, 1498 Valencia St, San Francisco",37.749103,-122.42037657
+133,2014-12-07 07:59:09,"Dosa, 995 Valencia St, San Francisco",37.756992,-122.421117
+134,2014-12-07 07:58:31,"Brother's Korean Restaurant, 4128 Geary Blvd, San Francisco",37.78109723,-122.46384895
+135,2014-12-07 07:56:05,"The Hearth, 4701 Geary Blvd, San Francisco",37.7807396817,-122.469587108
+136,2014-12-07 07:55:35,"Taqueria Cancn, 2288 Mission St, San Francisco",37.760452,-122.419412633
+137,2014-12-07 07:55:19,"Doc's Clock, 2575 Mission St, San Francisco",37.7558490349,-122.418750895
+138,2014-12-07 07:54:51,"Taqueria Guadalajara, 3146 24th St, San Francisco",37.7525027999,-122.414995536
+139,2014-12-07 07:54:27,"Hotel Biron, 45 Rose St, San Francisco",37.773536,-122.42211
+140,2014-12-07 07:24:09,"Super Duper Burgers, 98 Mission St, San Francisco",37.792617325,-122.393954191
+141,2014-12-07 07:23:39,"Chapeau!, 126 Clement St, San Francisco",37.7832109986,-122.460692276
+142,2014-12-07 07:19:32,"Arcangeli Grocery Co., 287 Stage Rd, Pescadero",37.2533722713,-122.383414507
+143,2014-12-07 07:19:10,"City Beer Store, 1168 Folsom St, San Francisco",37.7756372481,-122.409320761
+144,2014-12-07 07:18:31,"Flight 151, 151 8th Ave, New York",40.74202,-74.00097
+145,2014-12-07 07:18:10,"Spritzenhaus 33, 33 Nassau Ave, Brooklyn",40.7232177517,-73.9527511597
+146,2014-12-07 07:17:38,"Mamoun's Falafel, 30 Saint Marks Pl, New York",40.7289690611,-73.9884464373
+147,2014-12-07 07:17:10,"Grassroots Tavern, 20 Saint Marks Pl, New York",40.7291588181,-73.9888825995
+148,2014-12-07 07:16:55,"7B Horseshoe Bar aka Vazacs, 108 Avenue B, New York",40.7250799538,-73.9813299662
+149,2014-12-07 07:16:17,"Proletariat, 102 Saint Marks Pl, New York",40.7269498051,-73.984143734
+150,2014-12-07 07:15:47,"Burp Castle, 41 E 7th St, New York",40.728210092,-73.9886473016
+151,2014-12-07 07:15:16,"Crif Dogs, 113 Saint Marks Pl, New York",40.7270408509,-73.9838359607
+152,2014-12-07 07:15:01,"Blue Bottle Coffee, 450 W 15th St, New York",40.7424774531,-74.0068459511
+153,2014-12-07 06:58:48,"Potbelly Sandwich Shop, 501 7th Avenue, New York",40.75297987,-73.98912938
+154,2014-12-07 06:57:54,"DuMont Burger, 314 Bedford Ave, Brooklyn",40.7136000418,-73.9619189501
+155,2014-12-07 06:57:28,"Paulie Gee19s, 60 Greenpoint Ave, Brooklyn",40.729813,-73.958467
+156,2014-12-07 06:56:32,"Joe's Pizza, 7 Carmine St, New York",40.7304911986,-74.0018809265
+157,2014-12-07 06:55:57,"The Pony Bar, 1444 1st Ave, New York",40.7697680598,-73.9544034004
+158,2014-12-07 06:55:20,"Spitzer's Corner, 101 Rivington St, New York",40.7200679065,-73.9883132279
+159,2014-12-07 06:54:56,"Rosamunde Sausage Grill, 285 Bedford Ave, Brooklyn",40.7142811133,-73.9613986015
+160,2014-12-07 06:53:07,"Patxi's Chicago Pizza, 511 Hayes St, San Francisco",37.7766077,-122.4250379
+161,2014-12-07 06:26:51,"Bandera, 3201 Coast Highway, Newport Beach",33.5965814305,-117.871420802
+162,2014-12-07 05:15:21,"Otoro Sushi, 205 Oak St, San Francisco",37.7749857803,-122.422959614
+163,2014-12-07 05:14:20,"Bandera, 3201 Coast Highway, Newport Beach",33.5965814305,-117.871420802
+164,2014-12-07 05:11:32,"Pi Bar, 1432 Valencia St, San Francisco",37.7499541017,-122.420548332
+165,2014-12-07 05:08:38,"Monsieur Benjamin, 451 Gough St, San Francisco",37.7774004038,-122.423169769
+166,2014-11-29 06:38:50,"Tomales Bay Oyster Company, 15479 Hwy 1, Marshall",38.1161140224,-122.853594742
+167,2014-11-29 06:37:57,"Bagel Market Cafe, 2000 Cliff Dr, Santa Barbara",34.4023774242,-119.723296165
+168,2014-11-29 06:37:23,"Rusack Vinyards, 1819 Ballard Canyon Rd, Solvang",34.6373184154,-120.14177527
+169,2014-11-29 06:36:37,"Mikkeller Bar, 34 Mason St, San Francisco",37.7839328406,-122.409243326
+170,2014-11-29 06:33:35,"Arlequin Cafe & Food To Go, 384 Hayes St, San Francisco",37.7770587479,-122.422683094
+171,2014-11-29 06:33:02,"Mission Beach Cafe, 198 Guerrero St, San Francisco",37.7680371663,-122.424469403
+172,2014-11-29 06:32:25,"Magnolia Gastropub & Brewery, 1398 Haight St, San Francisco",37.770223,-122.445354
+173,2014-11-29 06:32:08,"Telegraph Bar and Beer Garden, 2318 Telegraph Ave, Oakland",37.8129649416,-122.268626019
+174,2014-11-29 06:31:31,"Lucky 13, 2140 Market St, San Francisco",37.7671187904,-122.429838181
+175,2014-11-29 06:30:16,"Ritual Coffee Roasters, 610 1st St, Napa",38.3017704258,-122.281701563
+176,2014-11-27 06:39:40,"Hofbrukeller, Innere Wiener Str. 19, Mnchen",48.1343543305,11.5951351496
+177,2014-11-27 06:39:00,"Pacific Catch, Westcoast Fish House, 1200 9th Ave, San Francisco",37.7657792749,-122.466325573
+178,2014-11-27 06:38:36,"Beauty's Bagel Shop, 3838 Telegraph Ave, Oakland",37.8277849267,-122.26467701
+179,2014-11-27 06:35:36,"Gott19s Roadside, 1 Ferry Building Ste 6, San Francisco",37.7960256032,-122.394164801
+180,2014-11-27 06:34:58,"Wilma's Patio, 203 Marine Ave, Balboa",33.6059314854,-117.8899557
+181,2014-11-27 04:54:06,"Olive Oil & Beyond, 210 Marine Ave Ste A, Newport Beach",33.6062327667,-117.88974005
+182,2014-11-16 21:33:10,"Mission Rock Resort, 817 Terry a Francois Blvd, San Francisco",37.7654527056,-122.386596472
+183,2014-11-16 21:32:19,"Vesuvio Cafe, 255 Columbus Ave, San Francisco",37.7976292597,-122.406372634
+184,2014-11-16 21:30:37,"Davis Street Tavern, 500 NW Davis St, Portland",45.524426784,-122.675516228
+185,2014-11-16 21:29:45,"The Richmond Bar, 3203 SE Division St, Portland",45.504864383,-122.632582368
+186,2014-11-16 21:29:08,"Spella Caff, 520 SW 5th Ave, Portland",45.5197771793,-122.6770666
+187,2014-11-16 21:28:14,"Double Mountain Brewery & Taproom, 8 4th St, Hood River",45.7100349128,-121.514488136
+188,2014-11-16 21:26:52,"Cabezon Restaurant, 5200 NE Sacramento St, Portland",45.539957,-122.609766126
+189,2014-11-16 21:24:17,"Voodoo Doughnut, 22 SW 3rd Ave, Portland",45.522632255,-122.673300281
+190,2014-10-30 17:41:25,"Cabaret Voltaire, Spiegelgasse 1, Zrich",47.371648,8.543938
+191,2014-10-23 01:30:31,"Der Grne Libanon, Hafnerstrasse 13, Zrich",47.3808296981,8.53479768478
+192,2014-10-20 23:04:59,"La Stanza, Bleicherweg 10, Zrich",47.3684330047,8.53691166614
+193,2014-10-20 23:03:54,"Ikoo, Bckerstr. 39, Zrich",47.3750642858,8.5287955037
+194,2014-10-20 23:03:07,"Vapiano, Kalanderplatz 9, Zrich",47.358523803,8.52304679222
+195,2014-09-27 09:56:28,"Papito Hayes, 425 Hayes St Ste A, San Francisco",37.7766899451,-122.423496062
+196,2014-08-20 10:59:35,"Souvla, 517 Hayes St, San Francisco",37.7765223593,-122.424945009
+197,2014-08-17 22:02:33,"The James Joyce, 513 State St, Santa Barbara",34.4169646701,-119.696146846
+198,2014-08-17 22:01:58,"Scarlett Begonia, 11 W Victoria St #10, Santa Barbara",34.4237102333,-119.705704
+199,2014-08-17 21:59:59,"Inn at Weathersfield, 1342 VT Route 106, Perkinsville",43.362130537,-72.5210094452
+200,2014-08-16 00:13:05,"Harpoon Brewery & Riverbend Taps, 336 Ruth Carney Dr, Windsor",43.5132690089,-72.4017906189
+201,2014-05-15 10:25:32,"WesCafe, 1536 Webster St, Alameda",37.7739990704,-122.276623281
+202,2014-04-19 06:01:33,"Phdf Huf9nh Hic7p (Kevin's Noodle House), 2034 N Main St, Walnut Creek",37.9079692185,-122.064543889
+203,2014-01-27 05:43:43,"Kingdom of Dumpling, 1713 Taraval St, San Francisco",37.7425297795,-122.4846223
+204,2013-10-26 04:51:57,"Kaiser Franz, Rolandstrasse 22, Zrich",47.379534,8.526118
+205,2013-10-25 05:22:34,"Keo Inn, Zwinglistrasse 39, Zrich",47.3789116,8.527545025
+206,2013-10-24 03:25:00,"Four Points By Sheraton Sihlcity - Zurich, Kalandergasse 1, Zrich",47.3590384681,8.52304932943
+207,2013-09-24 00:36:29,"Nuga Gama, Cinnamon Grand, 9adcc5b9",6.91777161086,79.8495573973
+208,2013-09-17 00:11:26,"SriRam Indian Restaurant, 87 Colombo Street, b8c4b1d4c0bb",7.29394555959,80.6380760046
+209,2013-09-08 09:21:55,"Royal Exchange, 301 Sacramento St, San Francisco",37.7943404575,-122.399253644
+210,2013-07-13 03:06:34,"Mercury Cafe, 201 Octavia St, San Francisco",37.7739737863,-122.424104401
+211,2013-06-30 08:52:49,"Fort Mason, 2 Marina Blvd Bldg A, San Francisco",37.8056009794,-122.430392209
+212,2013-06-16 13:33:51,"The Hearth, 4701 Geary Blvd, San Francisco",37.7807396817,-122.469587108
+213,2013-06-01 23:46:28,"Cibo, 1201 Bridgeway, Sausalito",37.8590424565,-122.485202368
+214,2013-05-08 07:18:51,"Prospect, 300 Spear St, San Francisco",37.7898594843,-122.391409474
+215,2013-04-27 11:18:41,"Noir Lounge, 581 Hayes St, San Francisco",37.776382,-122.425924

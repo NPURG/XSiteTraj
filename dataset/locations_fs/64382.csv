@@ -1,0 +1,324 @@
+,time,poi,latitude,longitude
+0,2016-12-29 23:54:39,"Cohalan Court Complex, 400 Carleton Ave, Central Islip",40.7610775436,-73.1928694765
+1,2016-12-28 23:38:21,"CO Bigelow Pharmacy, 414 Avenue of the Americas, New York",40.7340351897,-73.9994018435
+2,2016-12-28 23:34:41,"Loring Place, 21 W 8th St, New York",40.7327548055,-73.9976406097
+3,2016-12-28 23:31:18,"Paris Blues, 2021 Adam Clayton Powell Jr Blvd, New York",40.8064545793,-73.9502152714
+4,2016-12-07 22:46:46,"Pioneer Works, 159 Pioneer St, Brooklyn",40.6792223005,-74.0120494366
+5,2016-10-14 10:59:55,"Wild By Nature, 369 W Main St, Huntington",40.8705598777,-73.4319734573
+6,2016-10-14 10:58:32,"Starbucks, 1 Wall St, Huntington",40.871268,-73.427555
+7,2016-10-14 10:57:43,"Huntington Station Food Plaza, 2035 New York Ave, Huntington Station",40.8325689335,-73.4114629688
+8,2016-10-14 10:55:59,"Walgreens, 984 New York Ave, Huntington Station",40.85837775,-73.41345431
+9,2016-10-14 10:54:43,"Cinema Arts Centre, 423 Park Ave, Huntington",40.8735593145,-73.4144154353
+10,2016-10-11 10:20:41,"YMCA, 60 Main St, Huntington",40.8748434223,-73.4180688858
+11,2016-10-11 10:19:38,"Little Vincent's Pizza, 329 New York Ave, Huntington",40.870956,-73.426186
+12,2016-10-07 20:45:26,"Blue Star Donuts, 1237 SW Washington St, Portland",45.5221702755,-122.684225543
+13,2016-08-14 19:14:20,"Kyma, 1446 Old Northern Blvd, Roslyn",40.8024031243,-73.6466965167
+14,2016-08-14 19:10:26,"Terminal B (Central Terminal), LaGuardia Airport, East Elmhurst",40.7744401903,-73.8719903554
+15,2016-08-14 19:09:26,"Pocantico Day Camp, 599 Bedford Rd, Sleepy Hollow",41.086254,-73.837832
+16,2016-08-14 19:07:18,"Metro North - Tarrytown Train Station, 1 Depot Plz, Tarrytown",41.0757847354,-73.8651050627
+17,2016-08-14 19:06:26,"By The Way Bakery, 574 Warburton Ave, Hastings-on-Hudson",40.9958898316,-73.8820680587
+18,2016-08-14 19:04:11,"Town Pizza, 317 Bay Walk, Ocean Beach",40.6489634514,-73.157667
+19,2016-08-14 19:03:02,"Beaches and Cream, Bay Walk, Ocean Beach",40.6490137333,-73.15678635
+20,2016-08-14 19:00:23,"Ice Castle Sweet Shoppe, 319 Bay Walk, Fire Island",40.6490833667,-73.156586
+21,2016-08-14 18:59:30,"Dunkin Donuts, 838 New York Ave, Huntington",40.8593669201,-73.4179548885
+22,2016-08-14 18:59:03,"Lobby Shop, 114 Old Country Rd, Mineola",40.7396848627,-73.6349914512
+23,2016-08-14 18:58:40,"White Plains Farmers Market, Court St., White Plains",41.0320836306,-73.7675998722
+24,2016-08-14 18:57:33,"Dom's Pizza & Pasta House, 336 Saw Mill River Rd, Elmsford",41.0660562842,-73.8140637003
+25,2016-08-14 18:56:14,"Carvel Ice Cream, 262 Saw Mill River Rd, Elmsford",41.0638099909,-73.81389552
+26,2016-08-14 18:55:59,"Stella Blue Bistro, 188 New York Ave, Huntington",40.8762454177,-73.423525812
+27,2016-08-14 18:54:59,"The BONEYARD, 542-640 New York 110, Huntington",40.8628561723,-73.4220352589
+28,2016-08-14 18:54:28,"Dom's Deli & Grill House, 284 Saw Mill River Rd, Elmsford",41.0646101849,-73.8141728385
+29,2016-08-14 18:53:41,"Goodwill, 380 Saw Mill River Rd, Elmsford",41.0680537066,-73.8151493351
+30,2016-08-14 18:51:01,"Maisonette, 578 Warburton Ave, Hastings-on-Hudson",40.995881,-73.882054
+31,2016-08-14 18:49:44,"The Hackley School, 293 Benedict Ave, Tarrytown",41.0705315378,-73.8419781321
+32,2016-08-14 18:47:19,"Setback Inn, 33 Main St, Tarrytown",41.0766427002,-73.859902171
+33,2016-08-14 18:46:20,"US Post Office, 45 Beekman Ave, Sleepy Hollow",41.08492011,-73.8605224333
+34,2016-08-14 18:43:48,"Croton Auto Park, 1 Municipal Pl, Croton-on-Hudson",41.20264758,-73.8871325549
+35,2016-08-14 18:42:17,"Shell, 361 Route 202, Pomona",41.18641458,-74.03570687
+36,2016-08-14 18:41:24,"Chester Diner, 65 Brookside Ave, Chester",41.3542641248,-74.2802199925
+37,2016-08-14 18:38:06,"Piccolo Paese, 2067 New York 52, Liberty",41.7876432141,-74.7297661888
+38,2016-08-14 18:36:48,"Stagedoor Manor, 116 Karmel and Jacobs Rd, Loch Sheldrake",41.7824588895,-74.6595273729
+39,2016-03-19 22:01:12,"New Museum, 235 Bowery, New York",40.7224128307,-73.9931638235
+40,2016-03-19 21:59:44,"Tony's Shoe Repair, 266 N Highland Ave, Ossining",41.1739977345,-73.8663397243
+41,2016-03-19 21:57:53,"sleepy hollow convenience store, 35 Beekman Ave, Sleepy Hollow",41.0852686646,-73.859741373
+42,2016-03-19 21:57:20,"Tornello's Auto Repair, 256 N Broadway, Sleepy Hollow",41.0843155,-73.8593146
+43,2016-03-19 21:56:51,"Latino Restaurant America, 185 Valley St, Sleepy Hollow",41.083417,-73.861287
+44,2016-03-19 21:55:52,"Blue Hill Cafe at Stone Barns, 630 Bedford Rd, Tarrytown",41.1038190638,-73.8288760185
+45,2016-03-19 21:55:26,"JP Doyle's, 48 Beekman Ave, Sleepy Hollow",41.084765,-73.8604922333
+46,2016-03-02 05:42:40,"American Eagle Outfitters, 1 Mall Walk, Space 1040, Yonkers",40.928548,-73.854488
+47,2016-03-02 05:41:22,"Stew Leonard's, 1 Stew Leonard Dr, Yonkers",40.9743140972,-73.8640024746
+48,2016-03-02 05:40:17,"Petland Discounts, 1018 Broadway, Thornwood",41.1261040361,-73.7791479028
+49,2016-03-02 05:39:28,"Bridge View Tavern, 226 Beekman Ave, Sleepy Hollow",41.0823232015,-73.8678914309
+50,2016-02-04 07:43:39,"Kava Cafe, 803 Washington St, New York",40.7390321495,-74.0079866794
+51,2016-02-04 07:42:54,"Mamoun's Falafel, 119 Macdougal St, New York",40.7301698559,-74.0002970716
+52,2016-02-04 07:41:52,"Soho House, 2935 9th Ave, New York",40.7405631144,-74.0059018135
+53,2016-02-04 07:40:04,"Bravest on 38th, 700 2nd Ave, New York",40.7472999918,-73.9741787951
+54,2016-01-24 21:01:34,"Enterprise Rent-A-Car, 347 N Broadway, Sleepy Hollow",41.08726988,-73.86076359
+55,2016-01-18 00:49:39,"Taverna Kyclades East Village, 228 1st Ave, New York",40.731187,-73.982752
+56,2016-01-18 00:49:10,"Museum of Modern Art (MoMA), 11 W 53rd St, New York",40.761396839,-73.9769857493
+57,2016-01-18 00:48:46,"Rite Aid, 2833 Broadway, New York",40.8040951362,-73.9672444837
+58,2016-01-18 00:48:25,"Museum of the City of New York, 1220 5th Ave, New York",40.7925598856,-73.9518177509
+59,2016-01-18 00:47:45,"DMV - White Plains, White Plains Mall, White Plains",41.0337644082,-73.7699727309
+60,2016-01-18 00:46:46,"Trader Joe's, 215 N Central Ave, Hartsdale",41.0254887065,-73.7930735947
+61,2016-01-18 00:46:19,"Caney Fork River, Lancaster, TN 38569, Lancaster",36.1388757605,-85.8137450634
+62,2016-01-18 00:46:02,"Martin's Bar-B-Que, 200 Crossings Ln Ste 500, Mount Juliet",36.1652928178,-86.5153337547
+63,2016-01-18 00:43:54,"Cream City Ice Cream & Coffee House, 119 W Broad St, Cookeville",36.164531,-85.50850477
+64,2016-01-18 00:43:30,"Poet's On The Square, 230 E Broad St, Cookeville",36.1628025908,-85.5004178984
+65,2016-01-18 00:42:58,"Murphy USA, 780 S Jefferson Ave, Cookeville",36.1441314848,-85.4998594162
+66,2016-01-18 00:42:27,"Appalachian Center for Crafts, 1560 Crafts Centrer Drive, Smithville",36.0416809779,-85.7381936741
+67,2016-01-18 00:40:43,"Pace University Goldstein Fitness Center, 861 Bedford Rd, Pleasantville",41.1294868575,-73.8095717514
+68,2016-01-10 11:50:25,"Taiko Noodle and Sushi Bar, 125 W Broad St, Cookeville",36.1646585333,-85.50870206
+69,2016-01-05 19:55:45,"Bethany Arts Community, 40 Somerstown Rd, Ossining",41.172351554,-73.8302097501
+70,2016-01-04 07:33:16,"Wasabi, 279 N Broadway, Sleepy Hollow",41.08559936,-73.858675
+71,2016-01-04 07:32:52,"Belkind-Bigi, 21 Main St, Tarrytown",41.076565,-73.85933
+72,2016-01-03 08:12:57,"Victoria's Secret PINK, 1482 Palisades Center Dr, West Nyack",41.0971760193,-73.9561791666
+73,2016-01-03 08:11:22,"Aardvark Pet Supplies, 58 Washington Ave, Pleasantville",41.1363362631,-73.7920050736
+74,2016-01-03 08:10:22,"Starbucks, 107 N State Rd, Briarcliff Manor",41.15204619,-73.82888394
+75,2016-01-03 07:55:19,"Ossining Public Library, 53 Croton Ave, Ossining",41.16423,-73.860204
+76,2016-01-03 07:47:04,"Headless Horsemen Bridge, 540 N Broadway, Sleepy Hollow",41.0890176119,-73.8618489645
+77,2016-01-03 07:42:55,"Phdf Bb1ng, 157 Mott St, New York",40.7194895185,-73.996383287
+78,2016-01-03 07:40:01,"Jazz Standard, 111 E 27th St, New York",40.7423342517,-73.9838781523
+79,2016-01-03 07:35:57,"Duane Reade, 333 7th Ave, New York",40.7473545002,-73.9930164814
+80,2016-01-03 07:35:20,"Key Food Market Place, 35 Pleasantville Rd, Pleasantville",41.1334433344,-73.794308706
+81,2015-12-24 02:22:50,"Pastry Chef, 57 N Broadway, Tarrytown",41.0783318319,-73.8577371302
+82,2015-12-19 05:14:05,"Reamir Barber Shop, 512 Columbus Ave, New York",40.7856995,-73.9730136
+83,2015-12-19 05:12:42,"Hunan Balcony, 3511 Johnson Avenue, Bronx",40.886012,-73.910056
+84,2015-12-19 05:11:51,"Shoe Solution, Inc., Chrysler Building, New York",40.7515232508,-73.9755734665
+85,2015-12-15 18:24:57,"Prego's Pizza, 70 Beekman Ave, Sleepy Hollow",41.0846195381,-73.8614584588
+86,2015-12-08 22:24:15,"Palisades Center Mall, 1000 Palisades Center Dr, West Nyack",41.0970417503,-73.9560758476
+87,2015-12-08 22:23:40,"Victoria's Secret, 1482 Palisades Center Dr, West Nyack",41.0970812063,-73.9561849066
+88,2015-12-08 22:23:00,"Tappan Zee Bridge, New York State Thruway, Tarrytown",41.0700875597,-73.8938735289
+89,2015-12-08 22:21:49,"Walgreens, 162 Wildey St, Tarrytown",41.07908556,-73.86382445
+90,2015-12-08 22:20:59,"Horseman Restaurant, 276 N Broadway, Sleepy Hollow",41.08553,-73.8583359667
+91,2015-11-29 04:07:01,"Catamaran Spread Eagle II, Villa Marina Yacht Harbour Dock J, Fajardo",18.343804632,-65.6370817513
+92,2015-11-29 03:57:44,"La Pescaderia, Palmas del Mar, Palmas Del Mar, Humacao",18.0765160842,-65.7983195297
+93,2015-11-29 03:53:23,"WIN BAKERY, 202 Muoz Rivera Sur, San Lorenzo",18.1846169783,-65.9640826382
+94,2015-11-17 08:09:37,"Pleasantville Diner Restaurant, 10 Memorial Plz, Pleasantville",41.1345765946,-73.7929127424
+95,2015-11-16 06:34:24,"Muddy Water Coffee & Cafe, 52 Main St, Tarrytown",41.0767671392,-73.8605453615
+96,2015-11-14 08:57:26,"Mrs. Green's Natural Market, 45 N Broadway, Tarrytown",41.0778792263,-73.8580369949
+97,2015-11-14 08:56:45,"The Mall at Bay Plaza, 200 Baychester Ave, Bronx",40.8644517333,-73.8275733986
+98,2015-11-14 08:56:18,"JCPenney, 100 Baychester Ave, Bronx",40.86493014,-73.82629985
+99,2015-11-14 08:55:19,"Trader Joe's, 1260 Boston Post Rd, Larchmont",40.9381693705,-73.7461337039
+100,2015-11-14 08:47:42,"Starbucks, 45 Stanley Avenue, Dobbs Ferry",41.00317028,-73.85704085
+101,2015-11-14 08:44:58,"Main Street Sweets, 35 Main St, Tarrytown",41.076654,-73.8599199057
+102,2015-11-14 08:42:35,"Tarrytown Music Hall, 13 Main St, Tarrytown",41.0766593167,-73.8588397534
+103,2015-11-14 08:41:01,"Mr. Nick's Brick Oven Pizza, 21 N Broadway, Tarrytown",41.07704,-73.857972
+104,2015-11-14 08:39:25,"Rockefeller State Park Preserve, Route 117 & Sleepy Hollow Rd, Sleepy Hollow",41.1107874365,-73.8368797302
+105,2015-11-14 08:30:47,"Warner Library, 121 N Broadway, Tarrytown",41.080539594,-73.8580070438
+106,2015-11-14 08:30:18,"Macaron Parlour, 111 Saint Marks Pl, New York",40.7271042864,-73.9838433266
+107,2015-11-14 08:28:45,"Sao Mai, 203 1st Ave, New York",40.7303049211,-73.9832812829
+108,2015-10-25 03:06:18,"Rockefeller State Park ""Rockies"" Sleepy Hollow Road Trailhead, 83 Sleepy Hollow Rd, Sleepy Hollow",41.0945020381,-73.8354363997
+109,2015-10-25 03:03:52,"Terminal 5, 610 W 56th St, New York",40.7695180782,-73.9931351293
+110,2015-10-25 03:03:08,"Apple The Westchester, 125 Westchester Avenue, White Plains",41.031655,-73.760464
+111,2015-10-25 02:59:15,"Patzeria Perfect Pizza, 231 W 46th St, New York",40.7594245286,-73.9869083836
+112,2015-10-25 02:58:19,"CVS Pharmacy, 202 S Highland Ave, Ossining",41.1449585694,-73.8615445998
+113,2015-10-10 21:32:25,"C-Town Supermarkets, 114 North Broadway, Tarrytown",41.07998317,-73.85757633
+114,2015-10-10 21:31:40,"Apple The Westchester, 125 Westchester Avenue, White Plains",41.031655,-73.760464
+115,2015-10-10 21:30:13,"The Westchester, 125 Westchester Ave, White Plains",41.0311241072,-73.7590532196
+116,2015-09-26 19:29:19,"Philipse Manor Beach Club, 1 Riverside Dr, Sleepy Hollow",41.0948690365,-73.8702142239
+117,2015-09-26 19:28:27,"Kykuit, 381 N Broadway, Sleepy Hollow",41.0879879245,-73.8625860214
+118,2015-09-26 19:27:40,"Coffee Labs Roasters, 7 Main St, Tarrytown",41.076364,-73.858601
+119,2015-09-26 19:25:58,"Staples, 339 Tarrytown Road, Elmsford",41.046559,-73.804987
+120,2015-09-26 19:25:17,"Rockefeller State Park - Gory Brook, Rockefeller State Park, Sleepy Hollow",41.0921118267,-73.8559126854
+121,2015-09-26 19:24:50,"Ossining Pizzeria & Family Restaurant, 181 Croton Ave, Ossining",41.1670231459,-73.8486976841
+122,2015-09-26 19:22:44,"Cold Cut City, 228 W 231st St, Bronx",40.8793573336,-73.9058447874
+123,2015-09-26 19:21:57,"Stone Barns Center For Food And Agriculture, 630 Bedford Rd, Tarrytown",41.1037227551,-73.82904953
+124,2015-09-26 19:19:52,"Trilogy Consignment, 107 Broadway, Tarrytown",41.0798349155,-73.8577141588
+125,2015-09-25 17:26:07,"Bella's Restaurant, 5 S Broadway, Tarrytown",41.0761344547,-73.858569841
+126,2015-09-25 17:25:07,"Max Brenner, 841 Broadway, New York",40.7343295114,-73.9909199231
+127,2015-09-25 17:23:21,"Birdbath Neighborhood Green Bakery, 2244 Broadway, New York",40.7847094163,-73.9793269763
+128,2015-09-25 17:22:34,"The Twisted Oak, Main Street, Tarrytown",41.076897,-73.860974
+129,2015-09-25 17:21:25,"J&G Deli, 28 Beekman Ave, Sleepy Hollow",41.0859915072,-73.8583343852
+130,2015-09-25 17:18:23,"Dunkin Donuts, 137 Wildey St, Tarrytown",41.0789895457,-73.863962276
+131,2015-08-30 11:34:38,"Fire Island Ferries, Maple Ave, Bay Shore",40.7177345156,-73.240162793
+132,2015-08-22 09:30:05,"Hideaway Restaurant, Bay Walk, Ocean Beach",40.6494688552,-73.1556200981
+133,2015-08-12 01:13:32,"Poblano's, 2833 24th St, San Francisco",37.752603,-122.408678
+134,2015-08-02 12:26:10,"Caf Koffiehuis John, Bilderdijkstraat 209, Amsterdam",52.3661982776,4.8728744355
+135,2015-08-02 12:25:15,"La Costea, 235 E Middlefield Rd, Mountain View",37.3972837189,-122.061152458
+136,2015-08-02 12:24:25,"Caf Mec, 1301 Haight St, San Francisco",37.7704779159,-122.444061499
+137,2015-08-02 12:24:00,"Cha Cha Cha, 1801 Haight St, San Francisco",37.7692284627,-122.452003956
+138,2015-08-02 12:23:27,"The Commissary, 101 Montgomery, San Francisco",37.7997582243,-122.459791141
+139,2015-08-02 12:22:27,"AMC Van Ness 14, 1000 Van Ness Ave, San Francisco",37.7850612791,-122.420493027
+140,2015-08-02 12:21:32,"De Staalmeesters, Kloveniersburgwal 127, Amsterdam",52.368359,4.89649451579
+141,2015-08-02 12:20:42,"Peet's Coffee & Tea, 1 Ferry Building Ste 43, San Francisco",37.79539078,-122.3936143
+142,2015-08-02 12:20:13,"Ferry Building Marketplace, 1 Ferry Building, San Francisco",37.7953621091,-122.39389334
+143,2015-08-02 12:18:15,"Garaje, 475 3rd St, San Francisco",37.7818101067,-122.396028643
+144,2015-08-02 12:17:03,"San Francisco Botanical Garden, 1199 9th Ave, San Francisco",37.7677032207,-122.468851889
+145,2015-08-02 12:15:57,"Goodwill, 1700 Haight St, San Francisco",37.7696506314,-122.450386813
+146,2015-08-02 12:15:27,"Capitol 6 Drive-In & Public Market, 3630 Hillcap Ave, San Jose",37.2809238089,-121.840462487
+147,2015-08-02 12:14:16,"Hyatt Regency Santa Clara, 5101 Great America Pkwy, Santa Clara",37.405146192,-121.976496577
+148,2015-08-02 12:13:23,"James V. Fitzgerald Marine Reserve, 200 Nevada Ave, Moss Beach",37.5241287779,-122.516315369
+149,2015-08-02 12:11:49,"Divisadero Farmers' Market, 1300 Grove St., San Francisco",37.775841,-122.438353
+150,2015-08-02 12:09:10,"Hotel de l'Europe, Nieuwe Doelenstraat 2-14, Amsterdam",52.3675469286,4.8944454269
+151,2015-08-02 12:06:51,"Torture Museum, Singel 449, Amsterdam",52.3672867403,4.89064872265
+152,2015-08-02 12:05:29,"Coffeeshop Juleebar, Amstel, Amsterdam",52.36705,4.895139
+153,2015-08-02 12:04:18,"Hash Marihuana & Hemp Museum, Oudezijds Achterburgwal 148, Amsterdam",52.3716968239,4.89704765945
+154,2015-08-02 12:03:27,"Ritman Library - Bibliotheca Philosophica Hermetica, Bloemstraat 15, Amsterdam",52.3748393972,4.88219976425
+155,2015-08-02 11:59:45,"Amsterdam Canals, Prinsengracht, Keizersgracht, Herengracht & Singel, Amsterdam",52.3664995127,4.88802187439
+156,2015-08-02 11:58:03,"Disneyland, 1313 S Disneyland Dr, Anaheim",33.810232406,-117.918981688
+157,2015-08-02 11:56:50,"El Pollo Loco, 110 W Ball Rd, Anaheim",33.8177101706,-117.908760808
+158,2015-08-02 11:55:25,"Marri's Pizza & Italian, 1194 W Katella Ave, Anaheim",33.80275806,-117.927954197
+159,2015-08-02 11:53:10,"Hilton Anaheim, 777 W Convention Way, Anaheim",33.8000582722,-117.918403846
+160,2015-08-02 11:50:08,"Starbucks, 1200 S. Harbor Blvd, Anaheim",33.81784122,-117.9146594
+161,2015-08-02 11:49:19,"Anaheim Majestic Garden Hotel, 900 S Disneyland Dr, Anaheim",33.8195665194,-117.92140174
+162,2015-08-02 11:47:33,"Dinosaur Mountains, Grapevine/I-5, Lebec",34.7935453074,-118.8412946
+163,2015-08-02 11:47:05,"In-N-Out Burger, 33464 Bernard Dr, Kettleman City",35.9861633103,-119.959189885
+164,2015-08-02 11:46:29,"Pea Soup Andersen's, 12411 State Highway 33, Gustine",37.1091041156,-121.016968489
+165,2015-08-02 11:42:42,"Ren's Croissanterie, Damstraat 20, Amsterdam",52.3722419222,4.89476841058
+166,2015-08-02 11:40:08,"Golden Gate Park, 501 Stanyan St, San Francisco",37.768789571,-122.481905222
+167,2015-08-02 11:39:22,"Blade Runners, 1792 Haight St, San Francisco",37.769382,-122.45167309
+168,2015-08-02 11:37:01,"Park Branch Library, 1833 Page St, San Francisco",37.7703173827,-122.450928649
+169,2015-07-26 22:45:43,"Turkish Pizza, Rozengracht 148, Amsterdam",52.3708227782,4.89353725703
+170,2015-07-26 22:42:33,"Freddy's Bar, Hotel de l'Europe, Amsterdam",52.3675216515,4.89407480584
+171,2015-07-26 22:41:22,"Starbucks, 990 Serramonte Blvd, Colma",37.67152235,-122.4642398
+172,2015-07-26 22:40:57,"CAU, Damstraat 5, Amsterdam",52.372495,4.894477
+173,2015-07-18 13:40:51,"De Italiaan, Bosboom Toussaintstraat 29, Amsterdam",52.36556,4.87653
+174,2015-07-04 02:12:04,"Vinyl Coffee & Wine Bar, 359 Divisadero St, San Francisco",37.773111,-122.437473
+175,2015-07-04 02:11:08,"Fairmont Hotel Starlight Ballroom, 101 Wilshire Blvd, Santa Monica",34.0178621701,-118.498829937
+176,2015-07-04 02:10:20,"Best Buy, 1717 Harrison St, San Francisco",37.76885675,-122.4129989
+177,2015-07-04 02:09:19,"Southside Spirit House, 575 Howard St, San Francisco",37.7872304631,-122.397555414
+178,2015-07-04 02:08:19,"Apple Union Square, 300 Post Street, San Francisco",37.7886,-122.407159
+179,2015-07-04 02:07:04,"K&L Wine Merchants, 855 Harrison St, San Francisco",37.7796317657,-122.400741577
+180,2015-07-04 02:05:46,"Haight Jewelry, 1504 Haight St, San Francisco",37.7700878023,-122.44693116
+181,2015-07-04 02:05:14,"Adah's Garden Stairway, Buena Vista East, San Francisco",37.770082,-122.439193
+182,2015-07-01 07:51:31,"Anchor & Hope, 83 Minna St, San Francisco",37.7878958034,-122.398744731
+183,2015-06-28 08:41:15,"Kafe K, 2209 Main St #B, Santa Monica",34.0054807901,-118.486969471
+184,2015-06-28 08:40:23,"Lucca's Delicatessen, 2120 Chestnut St, San Francisco",37.80064,-122.43834
+185,2015-06-28 08:38:31,"Hotel Potter, 1288 Mission St, San Francisco",37.77653797,-122.41471808
+186,2015-06-28 08:37:13,"Tony's Cable Car Restaurant, 2500 Geary Blvd, San Francisco",37.7828079475,-122.444780304
+187,2015-06-26 22:08:52,"SFJazz Center, 201 Franklin St, San Francisco",37.7764192908,-122.421278359
+188,2015-06-26 22:07:27,"William McKinley Statue, 1400 Fell St, San Francisco",37.7732969973,-122.441274701
+189,2015-06-22 09:58:42,"John F. Cunningham Aquatic Complex, 801 Heartwood Ave, Vallejo",38.1025446305,-122.212107496
+190,2015-06-21 11:02:29,"Vans, 5671 Bay St, Emeryville",37.83577794,-122.29233515
+191,2015-06-21 10:56:58,"Pork Store Cafe, 1451 Haight St, San Francisco",37.7701719651,-122.446210384
+192,2015-06-21 10:27:02,"Casa Del Mar Hotel, 1910 Ocean Way, Los Angeles",34.00645899,-118.491246126
+193,2015-06-21 10:24:20,"Campus, 2241 Chestnut St, San Francisco",37.8002249221,-122.440213045
+194,2015-06-21 10:22:26,"Firenze by Night Ristorante, 1429 Stockton St, San Francisco",37.799002,-122.4089009
+195,2015-06-21 10:21:41,"Pizzeria Avellino, 2769 Lombard St, San Francisco",37.7983851898,-122.447218675
+196,2015-06-21 10:19:02,"Hard Knox Cafe, 2526 3rd St, San Francisco",37.7576547861,-122.38832203
+197,2015-06-21 10:18:23,"Specialty19s Caf & Bakery, 500 Howard St, San Francisco",37.7886729501,-122.396249916
+198,2015-06-21 08:52:01,"Boboquivari's, 1450 Lombard St, San Francisco",37.8012260681,-122.425724778
+199,2015-06-21 08:49:41,"Moscone West, 800 Howard St, San Francisco",37.7833839734,-122.403488159
+200,2015-06-21 08:48:26,"Infusion Lounge, 124 Ellis St, San Francisco",37.7854359476,-122.408466339
+201,2015-06-21 08:45:37,"Mara's Italian Pastry, 503 Columbus Ave, San Francisco",37.79972845,-122.409275867
+202,2015-06-21 08:44:03,"Hayes Valley Bakeworks, 550 Gough St, San Francisco",37.7786564895,-122.42332462
+203,2015-06-15 06:41:25,"Union Square, 333 Post St, San Francisco",37.787829545,-122.407661413
+204,2015-06-15 06:40:42,"Boys & Girls Clubs of San Francisco - Don Fisher Clubhouse, 380 Fulton St, San Francisco",37.7788387849,-122.422854537
+205,2015-06-15 06:39:41,"Presidio of San Francisco, Golden Gate National Recreation Area, San Francisco",37.7964240634,-122.461509705
+206,2015-06-15 06:38:35,"Mediterranean Cafe, 3848 Judah St, San Francisco",37.7605751653,-122.503396036
+207,2015-06-15 06:37:38,"Escape From New York Pizza, 1737 Haight St, San Francisco",37.7693832404,-122.451392412
+208,2015-06-15 06:36:41,"Coffee to the People, 1206 Masonic Ave, San Francisco",37.7701168394,-122.445247471
+209,2015-06-15 06:35:57,"Mifune Restaurant, 1737 Post St, San Francisco",37.7851222197,-122.430744767
+210,2015-06-15 06:31:55,"Old Ship Saloon, 298 Pacific Ave, San Francisco",37.7977180774,-122.400846746
+211,2015-06-15 06:27:53,"Taqueria Cazadores, 1600 Mission St, San Francisco",37.7727480122,-122.418822793
+212,2015-06-15 06:26:21,"Super Duper Burgers, 2203 Chestnut St, San Francisco",37.8002220444,-122.439676523
+213,2015-06-15 06:24:53,"Tommy's Joynt, 1101 Geary Blvd, San Francisco",37.7855525354,-122.421603799
+214,2015-06-14 02:58:14,"Hyperoptics, 1728 Haight St, San Francisco",37.7694932435,-122.450807013
+215,2015-05-31 05:30:59,"Sports Basement, 1590 Bryant St, San Francisco",37.767054,-122.41096
+216,2015-05-31 05:29:22,"Sports Basement, 1590 Bryant St, San Francisco",37.767054,-122.41096
+217,2015-05-15 12:21:21,"Kate O'Brien's, 579 Howard St, San Francisco",37.7871614274,-122.397678494
+218,2015-05-14 09:19:00,"Double Play Bar & Grill, 2401 16th St, San Francisco",37.765479081,-122.410603973
+219,2015-05-11 02:39:55,"Arizmendi Bakery, 1331 9th Ave, San Francisco",37.763461,-122.466368
+220,2015-05-11 02:34:54,"Buena Vista Park, Buena Vista Ave., San Francisco",37.7677651705,-122.442524346
+221,2015-05-11 02:33:04,"Presidio YMCA, 63 Funston Ave, San Francisco",37.8001274389,-122.454544504
+222,2015-05-03 09:49:00,"Tikka Masala Pizza, 1668 Haight St, San Francisco",37.76976291,-122.44968716
+223,2015-05-03 09:48:20,"Tikka Masala Pizza, 1668 Haight St, San Francisco",37.76976291,-122.44968716
+224,2015-04-25 04:51:07,"Fish 'n' Frites, 328 Main St, Half Moon Bay",37.465323,-122.429533
+225,2015-04-19 06:38:50,"Judahlicious, 3906 Judah St, San Francisco",37.76063,-122.503938
+226,2015-04-18 01:07:09,"Dr. Blair Keck, DDS., 4128 18th St, San Francisco",37.7610056287,-122.435717472
+227,2015-04-17 02:10:12,"Red Door Coffee, 111 Minna St, San Francisco",37.7874624283,-122.399333417
+228,2015-04-15 03:35:12,"Pet Food Express, 3150 California St, San Francisco",37.787478,-122.44625825
+229,2015-04-14 12:31:14,"Fairmont Miramar Hotel & Bungalows, 101 Wilshire Blvd, Santa Monica",34.0177811163,-118.501464232
+230,2015-04-14 12:14:14,"Presidio YMCA Letterman Pool, 1151 Gorgas Ave, San Francisco",37.8010946764,-122.448761288
+231,2015-04-14 12:00:14,"1428 Haight, 1428 Haight St, San Francisco",37.7703289037,-122.445952499
+232,2015-04-14 11:57:54,"Jacob's Family Restaurant, 1428 Polk St, San Francisco",37.7901366491,-122.420670003
+233,2014-12-29 11:29:00,"Metro Caffe, 247 Fillmore St, San Francisco",37.7719473098,-122.430425389
+234,2014-12-29 11:26:00,"Lefty O'Doul's, 333 Geary St, San Francisco",37.7871723043,-122.408662556
+235,2014-12-29 11:20:54,"DELICA, 1 Ferry Building, San Francisco",37.7955882702,-122.393450785
+236,2014-12-29 11:19:38,"Cowgirl Creamery, 1 Ferry Building #17, San Francisco",37.795714,-122.393626
+237,2014-12-29 11:16:41,"Haight Street Market, 1530 Haight St, San Francisco",37.7699858129,-122.447644416
+238,2014-12-23 01:01:15,"Walgreens, 199 Parnassus Ave, San Francisco",37.76447022,-122.452551
+239,2014-08-11 09:51:11,"101 Drive-in, 100 N Main St, Willits",39.4134814486,-123.354705267
+240,2014-08-07 12:55:00,"Marin Joe's, 1585 Casa Buena Dr, Corte Madera",37.9225744231,-122.513375781
+241,2014-07-27 10:29:06,"Brandy Melville, 2085 Chestnut St, San Francisco",37.800625576,-122.437592033
+242,2014-07-19 09:13:58,"Collective Digital Studio, 2255 3rd St, San Francisco",37.7830996857,-122.392421837
+243,2014-07-11 02:12:09,"Millbrae Pancake House, 1301 El Camino Real, Millbrae",37.6085030579,-122.400127351
+244,2014-05-02 04:03:52,"Blabwire World HQ, 18012 Cowan, Irvine",33.691108,-117.864812
+245,2014-03-16 03:28:04,"Buena Vista Park Summit, Buena Vista Park, San Francisco",37.7677506383,-122.441462874
+246,2014-03-01 13:11:43,"Golden Bear Trading Company, 1401 6th Ave, San Francisco",37.7623180667,-122.462913
+247,2014-02-16 05:53:04,"Tennessee Grill, 1128 Taraval St, San Francisco",37.7430409408,-122.478375435
+248,2014-01-26 00:36:55,"Chromatic Coffee, 5237 Stevens Creek Blvd, Santa Clara",37.3238682619,-121.994454144
+249,2013-10-26 22:38:05,"Sunset Barber Services, 1374 9th Ave, San Francisco",37.7627036,-122.466173
+250,2013-09-22 12:40:16,"Golden Bear Trading Company, 1401 6th Ave, San Francisco",37.7623180667,-122.462913
+251,2013-09-20 02:14:16,"Collective Digital Studio, 2255 3rd St, San Francisco",37.7830996857,-122.392421837
+252,2013-09-16 09:52:30,"Bus Stop Pizza, 256 Divisadero St, San Francisco",37.77156,-122.437155
+253,2013-09-08 06:33:20,"Antioch Water Park, 4701 Lone Tree Way, Antioch",37.9654819594,-121.772847176
+254,2013-08-17 21:56:19,"Safeway, 1020 Johnson Blvd, South Lake Tahoe",38.9445140946,-119.967399615
+255,2013-08-17 21:50:56,"Forest Buffet at Harrah's Hotel Casino Lake Tahoe, 15 Lake Tahoe, Stateline",38.9588693119,-119.940623005
+256,2013-07-17 02:21:04,"Bayshore Farmers Market, 300 Bay Shore Blvd, San Francisco",37.7430558942,-122.405382531
+257,2013-02-07 09:54:05,"Blood Centers of the Pacific, 270 Masonic Ave, San Francisco",37.779083,-122.446821928
+258,2012-12-10 00:31:12,"Starbucks, 1799 Fulton St, San Francisco",37.77573,-122.446276
+259,2012-08-26 08:57:22,"Victoria Pastry Company, 700 Filbert St, San Francisco",37.8012289848,-122.411046456
+260,2012-05-22 05:10:38,"BayTires, 420 Victory Ave, South San Francisco",37.6476408711,-122.416641712
+261,2012-05-13 13:18:44,"Domo Sushi, 511 Laguna St, San Francisco",37.7760320111,-122.42610991
+262,2012-04-22 03:35:40,"CCSF Swimming Pool, 50 Phelan Ave, San Francisco",37.7256942294,-122.450773839
+263,2012-03-23 01:49:18,"Saluggi's, 325 Church St, New York",40.7201551703,-74.0039640201
+264,2012-02-24 10:49:59,"Joe's Pizza, 7 Carmine St, New York",40.7304911986,-74.0018809265
+265,2011-12-21 10:24:32,"Patxi19s Pizza, 4042 24th St, San Francisco",37.7514099623,-122.432869624
+266,2011-11-01 21:48:50,"Haight Street Market, 1530 Haight St, San Francisco",37.7699858129,-122.447644416
+267,2011-10-28 19:00:51,"Silon, 89 King George St., eadc d0d1d9d1-d9e4d5",32.0767586974,34.7773293812
+268,2011-08-11 10:34:10,"Levi's Store, 815 Market St, San Francisco",37.7854698641,-122.406234741
+269,2011-08-07 11:30:31,"Carousel Candies, 31 Fishermans Wharf, Monterey",36.604119,-121.892948266
+270,2011-08-07 10:39:11,"Shake's Old Fisherman's Grotto, 39 Fishermans Wharf, Monterey",36.6043231737,-121.89291358
+271,2011-08-03 12:51:07,"Hot Dog on a Stick, 1855 41st Ave #R2, Capitola",36.9757810857,-121.968455315
+272,2011-08-02 22:35:18,"Pure Pacific Inn, 330 Ocean Street, Santa Cruz",36.9721439602,-122.017356082
+273,2011-08-02 07:02:38,"Pure Pacific Inn, 330 Ocean Street, Santa Cruz",36.9721439602,-122.017356082
+274,2011-07-28 23:13:12,"Hamm's Building, 1550 Bryant St, San Francisco",37.7676727459,-122.410880525
+275,2011-07-28 21:34:30,"Haight Street Market, 1530 Haight St, San Francisco",37.7699858129,-122.447644416
+276,2011-07-18 07:36:53,"Recycled Records, 1377 Haight St, San Francisco",37.7702756422,-122.444951711
+277,2011-07-15 23:06:01,"Viumbe, 1550 Bryant St, San Francisco",37.7676367107,-122.411499999
+278,2011-06-02 23:55:52,"Starstream Cafe, 1380 harrison st., San Francisco",37.7680807562,-122.413413709
+279,2011-05-02 03:41:04,"Treasure Island Sailing Center, 698 California Ave, San Francisco",37.818776981,-122.364769236
+280,2011-03-13 09:12:31,"Bar-B-Que Heaven, 519 E 7th St, Austin",30.2671094288,-97.7368722782
+281,2010-12-04 05:17:15,"Basil Canteen, 1489 Folsom St, San Francisco",37.7718227461,-122.41385065
+282,2010-11-15 03:10:28,"Miller's East Coast Delicatessen, 1725 Polk St, San Francisco",37.792816,-122.421378493
+283,2010-11-07 05:48:35,"Boudin Bakery 10th Ave., 399 10th Ave., San Francisco",37.7811552469,-122.46873893
+284,2010-09-29 04:02:08,"Evergreen Garden Restaurant, 3100 18th St, San Francisco",37.762417,-122.41304
+285,2010-09-25 11:46:20,"Braindrops, 1325 Haight St, San Francisco",37.770339,-122.444012
+286,2010-09-23 21:09:04,"Franklin Square, 2500 17th St, San Francisco",37.7646107016,-122.409569661
+287,2010-09-23 21:06:59,"Oroweat Bakery Outlet, 1798 Bryant St, San Francisco",37.764466525,-122.410599
+288,2010-09-21 08:38:38,"Costco Wholesale, 450 10th St, San Francisco",37.7706494832,-122.410709063
+289,2010-07-09 03:02:58,"AT&T, 3555 Geary Blvd, San Francisco",37.7812937107,-122.457087691
+290,2010-05-30 00:36:29,"Haight Street Market, 1530 Haight St, San Francisco",37.7699858129,-122.447644416
+291,2010-05-15 22:03:32,"Nate Thurmond Basketball Court, Golden Gate Park Panhandle, San Francisco",37.7720716546,-122.448205948
+292,2010-04-07 06:34:07,"The Breslin, 16 W 29th St, New York",40.7458373458,-73.9879926535
+293,2010-03-28 23:40:58,"Haight Street Market, 1530 Haight St, San Francisco",37.7699858129,-122.447644416
+294,2010-03-24 06:53:16,"Hamm's Building, 1550 Bryant St, San Francisco",37.7676727459,-122.410880525
+295,2010-03-23 23:58:12,"Park Animal Hospital, 1207 9th Ave, San Francisco",37.765753,-122.46638
+296,2010-03-23 23:57:40,"Park Animal Hospital, 1207 9th Ave, San Francisco",37.765753,-122.46638
+297,2010-03-10 05:20:08,"Levi's Store, 815 Market St, San Francisco",37.7854698641,-122.406234741
+298,2010-03-08 06:49:18,"Boudin Bakery 10th Ave., 399 10th Ave., San Francisco",37.7811552469,-122.46873893
+299,2010-03-05 01:26:00,"Hamm's Building, 1550 Bryant St, San Francisco",37.7676727459,-122.410880525
+300,2010-02-04 05:57:32,"Sotto Mare Oysteria and Seafood Restaurant, 552 Green St, San Francisco",37.7996263717,-122.408330686
+301,2010-02-04 05:48:41,"Gino & Carlo Cocktail Lounge, 548 Green St, San Francisco",37.7996741818,-122.408220063
+302,2010-01-24 04:12:59,"Happy Donuts, 1794 Haight St, San Francisco",37.7694625876,-122.451885149
+303,2010-01-23 10:35:30,"Haight Street Market, 1530 Haight St, San Francisco",37.7699858129,-122.447644416
+304,2010-01-20 06:22:54,"Magnolia Gastropub & Brewery, 1398 Haight St, San Francisco",37.770223,-122.445354
+305,2010-01-17 03:10:52,"Stewart's Barber Shop, 1918 Hayes St, San Francisco",37.7737212181,-122.448186
+306,2010-01-16 11:31:18,"Ceiba Records, 1364 Haight St, San Francisco",37.7703322,-122.444611683
+307,2010-01-13 21:40:26,"Central Haight Market, 1301 Haight St, San Francisco",37.7703246205,-122.443753481
+308,2010-01-13 05:01:36,"Henry's Hunan Restaurant, 1016 Bryant St, San Francisco",37.772257,-122.407469233
+309,2010-01-11 01:52:23,"Lucky, 1750 Fulton St., San Francisco",37.77632967,-122.4456713
+310,2010-01-10 01:49:59,"Sunset Service Super Lube, 2095 19th Ave, San Francisco",37.748852,-122.476117
+311,2010-01-10 01:48:33,"Sunset Service Super Lube, 2095 19th Ave, San Francisco",37.748852,-122.476117
+312,2010-01-10 00:40:18,"Sunset Service Super Lube, 2095 19th Ave, San Francisco",37.748852,-122.476117
+313,2010-01-04 09:27:47,"Central Haight Market, 1301 Haight St, San Francisco",37.7703246205,-122.443753481
+314,2009-12-27 06:36:06,"Lefty O'Doul's, 333 Geary St, San Francisco",37.7871723043,-122.408662556
+315,2009-12-27 04:22:33,"Recycled Records, 1377 Haight St, San Francisco",37.7702756422,-122.444951711
+316,2009-12-20 13:18:42,"Recycled Records, 1377 Haight St, San Francisco",37.7702756422,-122.444951711
+317,2009-12-01 14:09:09,"Trader Joe's, 555 9th St, San Francisco",37.771007877,-122.407722256
+318,2009-12-01 14:07:37,"Trader Joe's, 555 9th St, San Francisco",37.771007877,-122.407722256
+319,2009-11-27 01:21:50,"Recycled Records, 1377 Haight St, San Francisco",37.7702756422,-122.444951711
+320,2009-11-22 06:15:10,"Recycled Records, 1377 Haight St, San Francisco",37.7702756422,-122.444951711
+321,2009-11-20 14:05:53,"Golden Gate Park Panhandle, Panhandle, San Francisco",37.7723769573,-122.446575165
+322,2009-10-23 04:55:14,"Basil Canteen, 1489 Folsom St, San Francisco",37.7718227461,-122.41385065

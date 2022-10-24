@@ -1,0 +1,64 @@
+,time,poi,latitude,longitude
+0,2012-11-22 21:56:55,"Boston Logan International Airport (BOS), 1 Harborside Dr, Boston",42.3662859738,-71.0161117053
+1,2012-05-31 01:27:18,"Clover Food Truck, 20 Carleton St, Cambridge",42.3600479742,-71.084506862
+2,2012-05-27 06:09:32,"The Whale House, 842 E 7th St, Ocean City",39.2776019323,-74.5694442487
+3,2012-05-27 05:26:08,"Manco & Manco Pizza, 758 Boardwalk, Ocean City",39.275912265,-74.5692440242
+4,2012-05-19 23:51:56,"The Regal Beagle, 308 Harvard St, Brookline",42.3432612862,-71.1230897818
+5,2012-05-19 23:25:20,"Zaftigs Delicatessen, 335 Harvard St, Brookline",42.3436909266,-71.1237802831
+6,2012-05-05 00:29:41,"ROFLCon, MIT (Vassar St), Cambridge",42.3608087248,-71.0910410915
+7,2012-04-15 22:14:54,"Starbucks, 36 JFK St, Cambridge",42.3724718673,-71.1194828153
+8,2012-04-04 21:38:43,"The Hawthorne, 500A Commonwealth Ave, Boston",42.3488,-71.095484
+9,2012-01-28 07:43:05,"Newtown Farmer's Market, 2150 S Eagle Rd, Newtown",40.2315050938,-74.9410363901
+10,2012-01-25 09:30:14,"Microsoft New England Research & Development Center, 1 Memorial Dr, Cambridge",42.3614168424,-71.0811816764
+11,2012-01-15 07:51:05,"Lanes and Games, 195 Concord Tpke, Cambridge",42.3993002726,-71.1484750736
+12,2012-01-13 12:19:44,"Long Beach Airport (LGB), 4100 E Donald Douglas Dr, Long Beach",33.8183323911,-118.14560869
+13,2012-01-13 08:28:56,"McCarran International Airport (LAS), 5757 Wayne Newton Blvd, Las Vegas",36.0826179726,-115.147647873
+14,2012-01-06 10:27:21,"Four Burgers, 704 Massachusetts Ave, Cambridge",42.3660368178,-71.1048345848
+15,2011-12-29 01:07:43,"Joyce Kilmer Service Area, New Jersey Turnpike, East Brunswick",40.4166555018,-74.4440644335
+16,2011-12-28 08:07:03,"P.F. Chang's, 721 Easton Road, Warrington",40.23463,-75.13703
+17,2011-12-28 02:01:15,"Aldo's Ristorante Italiano and Pizzeria, 1456 Buck Rd, Southampton",40.20425608,-74.95450504
+18,2011-12-23 08:10:03,"Papa T's Restaurant, 64 Merrow Rd, Tolland",41.8651578591,-72.3630952382
+19,2011-11-30 07:06:25,"Harvard Innovation Lab, 125 Western Ave, Boston",42.3642748855,-71.1240297917
+20,2011-11-23 08:23:18,"Life Alive, 765 Massachusetts Ave, Cambridge",42.3666402892,-71.1056353705
+21,2011-10-27 01:11:06,"Matilda's Sandwich Shoppe, 1 A Crawford St., Watertown",42.368002,-71.155677
+22,2011-10-26 20:37:25,"Chipotle Mexican Grill, 485 Arsenal St, Watertown",42.3618780741,-71.1593249777
+23,2011-10-24 00:12:54,"Paul Revere House, 19 North Sq, Boston",42.3638078881,-71.053712368
+24,2011-10-22 07:26:43,"Osaka Japanese Sushi and Steakhouse, 14 Green St, Brookline",42.3431550817,-71.1218828522
+25,2011-10-12 00:32:01,"Chipotle Mexican Grill, 485 Arsenal St, Watertown",42.3618780741,-71.1593249777
+26,2011-10-05 03:08:51,"Sterling Cooper Draper Pryce, 1271 Avenue of the Americas, New York",40.7601905723,-73.9810774414
+27,2011-10-01 10:07:57,"Regal Cinemas Fenway 13 & RPX, 201 Brookline Ave, Boston",42.3442793231,-71.1015850033
+28,2011-09-02 10:12:32,"Pini's Pizza, 511 Broadway, Somerville",42.39761,-71.105179
+29,2011-08-14 11:54:31,"Tavern in the Square, 730 Massachusetts Ave, Cambridge",42.3660823815,-71.1051711471
+30,2011-08-08 01:14:42,"Cinderella's Restaurant, 901 Main St, Cambridge",42.3634724123,-71.0995888187
+31,2011-08-05 01:10:24,"Saus Restaurant, 33 Union St, Boston",42.3611125366,-71.0568988323
+32,2011-08-03 04:49:39,"Allen & Gerritsen, 2 Seaport Ln, Boston",42.3489579628,-71.0408130402
+33,2011-08-01 00:39:11,"Bed Bath & Beyond, 401 Park Dr, Boston",42.3450748583,-71.1034767271
+34,2011-08-01 00:32:03,"Bed Bath & Beyond, 401 Park Dr, Boston",42.3450748583,-71.1034767271
+35,2011-07-30 22:55:47,"Panera Bread, 201 Brookline Ave, Boston",42.344521,-71.1012853833
+36,2011-07-26 08:47:21,"The Whale House, 842 E 7th St, Ocean City",39.2776019323,-74.5694442487
+37,2011-07-24 01:06:38,"Sonsie, 327 Newbury St, Boston",42.348686,-71.086074
+38,2011-07-18 06:08:27,"Crazy Dough's Pizza, 1124 Boylston St, Boston",42.346868,-71.08885
+39,2011-07-14 22:53:30,"The Intellectual Magpie's Nest, 311 Arsenal St, Watertown",42.3635185397,-71.1678081751
+40,2011-07-10 10:04:09,"The Publick House, 1648 Beacon St, Brookline",42.3393373884,-71.1366543174
+41,2011-06-19 08:36:16,"CVS/pharmacy, 1249 Boylston St, Boston",42.3452689456,-71.0955267849
+42,2011-06-01 01:19:42,"Starbucks, Food Court, Terminal 3, Chicago",41.97589572,-87.9012617493
+43,2011-05-30 21:46:17,"Washington Marriott Wardman Park, 2660 Woodley Rd NW, Washington",38.9242740865,-77.0554147865
+44,2011-05-30 21:00:24,"Whole Foods Market, 15 Westland Ave, Boston",42.3436496161,-71.0869093352
+45,2011-05-16 20:53:29,"McGolf Mini-Putt & Driving Range, 150 Bridge St, Dedham",42.2665519523,-71.1762664773
+46,2011-05-02 02:58:47,"Chipotle Mexican Grill, 148 Brookline Ave, Boston",42.3448500115,-71.1007435895
+47,2011-05-01 06:34:49,"Sheraton Commander Hotel, 16 Garden St, Cambridge",42.3773436664,-71.1231420046
+48,2011-04-26 20:41:39,"Arsenal On The Charles Shuttle, 1 Bennett St, Cambridge",42.3729259585,-71.123298673
+49,2011-04-16 07:45:18,"5 Napkin Burger, 105 Huntington Ave, Boston",42.3460868302,-71.0810888261
+50,2011-04-11 22:25:18,"Poe's Kitchen at the Rattlesnake, 384 Boylston St, Boston",42.3516501443,-71.0720532348
+51,2011-04-09 07:09:42,"Max Brenner, 745 Boylston St, Boston",42.3492595453,-71.0810065269
+52,2011-03-29 01:05:38,"Strip T's Restaurant, 93 School St, Watertown",42.36581,-71.166014
+53,2011-02-25 06:11:22,"Anna's Taqueria, 242 Cambridge St, Boston",42.3611442473,-71.0670375824
+54,2011-02-25 02:31:16,"Allen & Gerritsen, 2 Seaport Ln, Boston",42.3489579628,-71.0408130402
+55,2011-01-05 01:28:38,"Panera Bread, 321 Arsenal St, Watertown",42.3631023514,-71.1649274826
+56,2010-12-11 01:51:20,"Three Tomatoes, 1 Court St, Lebanon",43.6428610614,-72.252609299
+57,2010-11-20 13:02:15,"Foundation Room, 15 Lansdowne St, Boston",42.347295,-71.096227
+58,2010-11-06 08:48:24,"Audubon Boston, 838 Beacon St, Boston",42.3474056673,-71.1031343606
+59,2010-10-07 08:03:22,"Hennessey's, 25 Union St, Boston",42.3610141361,-71.0569702575
+60,2010-08-31 05:24:35,"Waverley/Myrtle Station Route 70, Waverley Ave at Main St, Watertown",42.369638,-71.191099
+61,2010-08-22 10:35:21,"The Corner Tavern, 421 Marlborough St, Boston",42.350161,-71.089155
+62,2010-07-04 05:37:29,"Caesars Atlantic City Hotel and Casino, 2100 Pacific Ave, Atlantic City",39.3561684201,-74.4360637665

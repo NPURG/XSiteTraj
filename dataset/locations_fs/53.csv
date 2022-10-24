@@ -1,0 +1,54 @@
+,time,poi,latitude,longitude
+0,2016-09-23 23:15:11,"Old Town Bar, 45 E 18th St, New York",40.7374202857,-73.9893589334
+1,2016-08-26 22:25:26,"Centre Canadien d'Architecture / Canadian Centre for Architecture (CCA), 1920 rue Baile, Montral",45.4911412422,-73.5789585114
+2,2016-08-26 22:24:51,"Le Sainte-lisabeth, 1412, rue Sainte-lisabeth, Montral",45.5124090214,-73.5622409688
+3,2016-08-26 22:24:29,"Rservoir, 9 ave. Duluth Est, Montral",45.5172034241,-73.5793232918
+4,2016-08-26 22:23:44,"Tour de l'Horloge / Clock Tower, Rue Quai de l'Horloge, Montral",45.5122396816,-73.5458090901
+5,2016-08-26 22:23:07,"Le Hachoir, 4177, rue Saint-Denis, Montral",45.521974753,-73.5781134107
+6,2016-08-26 22:22:38,"Barroco, 312 rue Saint-Paul O., Montral",45.5014055653,-73.5561179857
+7,2016-08-13 00:34:07,"Amity Hall, 982 Amsterdam Ave, New York",40.8022355147,-73.9645535651
+8,2016-07-08 23:03:28,"Peekskill Brewery, 47-53 S Water St, Peekskill",41.2867234609,-73.9292442799
+9,2016-06-28 22:55:36,"The Pit Authentic Barbecue, 328 W Davie St, Raleigh",35.7759987399,-78.6447081181
+10,2016-06-28 22:55:01,"Carolina Beach Boardwalk, Carolina Beach Ave, Carolina Beach",34.033520383,-77.8924971044
+11,2016-06-28 22:54:26,"The Monocle, 107 D St NE, Washington",38.8947436472,-77.005314989
+12,2016-06-28 22:53:57,"Tunnicliff's Tavern, 222 7th St SE, Washington",38.8865984677,-76.9959586859
+13,2016-06-28 22:53:34,"Gravelly Point Park, George Washington Memorial Pkwy, Arlington",38.8650229959,-77.0401115278
+14,2016-06-28 22:52:39,"Union Pub, 201 Massachusetts Ave NE, Washington",38.8948378948,-77.0027279049
+15,2016-06-10 23:23:36,"Pacifica Motor Inn, 200 Rockaway Beach Ave, Pacifica",37.6091003418,-122.496398926
+16,2016-06-10 23:22:16,"Pender County Solid Waste and Recycling, 17585 US 17 N, Hampstead",34.3965961144,-77.6748157252
+17,2016-06-10 23:21:56,"The Pit Authentic Barbecue, 328 W Davie St, Raleigh",35.7759987399,-78.6447081181
+18,2016-05-06 22:50:33,"Lavender Lake, 383 Carroll St, Brooklyn",40.6785551094,-73.9897549152
+19,2016-05-06 22:49:38,"Sunny's, 253 Conover St, Brooklyn",40.6756178442,-74.0168063936
+20,2016-01-28 10:50:11,"Johnny's Bar, 90 Greenwich Ave, New York",40.7378459594,-74.0016907454
+21,2016-01-28 10:46:38,"The Scratcher, 209 E 5th St, New York",40.727486423,-73.990623951
+22,2016-01-14 10:36:24,"Bier International, 2099 Frederick Douglass Blvd, New York",40.8026782168,-73.9564948634
+23,2016-01-14 10:35:12,"Rolf's German Restaurant, 281 3rd Ave, New York",40.7382102715,-73.9836485873
+24,2016-01-14 10:34:39,"Pete's Tavern, 129 E 18th St, New York",40.7364585638,-73.9868911665
+25,2016-01-14 10:34:10,"Adalya, 55 Irving Pl, New York",40.7361052926,-73.9872871592
+26,2016-01-14 10:33:44,"Vinatera, 2211 Frederick Douglass Blvd, New York",40.8064041006,-73.9540151951
+27,2016-01-14 10:33:24,"Think Coffee, 73 8th Ave, New York",40.7394295841,-74.0026728491
+28,2016-01-14 10:32:48,"Lido Harlem, 2168 Frederick Douglass Blvd, New York",40.8050275833,-73.954893
+29,2015-11-19 21:42:21,"Jimmy's No. 43, 43 E 7th St, New York",40.7281694366,-73.9884349593
+30,2015-08-11 06:35:06,"Bin 152, 152 King St, Charleston",32.7778773733,-79.9328650943
+31,2015-08-11 06:29:53,"Harold's Diner, 641 William Hilton Pkwy, Hilton Head Island",32.1935437743,-80.7060511776
+32,2014-08-10 16:21:48,"Cabinet Bar & Balcony, 11 Rainbow Alley, Melbourne",-37.814218,144.966156
+33,2014-08-09 09:32:39,"Captains Of Industry, 2 Somerset Pl., Melbourne",-37.8134092436,144.962697402
+34,2014-08-08 19:28:18,"Bluestone Restaurant & Bar, 349 Flinders Ln., Melbourne",-37.8176791589,144.962767313
+35,2014-08-08 11:12:10,"Captain Melville, 34 Franklin St, Melbourne",-37.8078424753,144.961750919
+36,2013-04-25 05:21:56,"Hyatt Regency Boston, One Avenue De Lafayette, Boston",42.3534602791,-71.0608518719
+37,2012-07-03 07:53:58,"Amorina Cucina Rustica, 624 Vanderbilt Ave, Brooklyn",40.6775310557,-73.9689271639
+38,2012-01-29 04:11:07,"Bellevue Sobriety Garden, 462 1st Ave, New York",40.7380065124,-73.9745736122
+39,2011-09-25 03:03:39,"7 World Trade Center, 250 Greenwich St, New York",40.713079367,-74.0116190508
+40,2011-08-25 19:46:45,"Amity Hall, 80 W 3rd St, New York",40.729751,-73.9987545
+41,2011-07-22 03:07:46,"Elite Tax Service, 121 W 27th St, New York",40.7459155864,-73.9917520632
+42,2011-06-11 06:00:14,"Airport Plaza Inn & Conference Center, 4530 N Lindbergh Blvd, Bridgeton",38.7456927819,-90.3939467669
+43,2010-08-28 16:08:41,"Hotel Admiral, 8 rue Pellegrino Rossi, Genve",46.210039,6.146238
+44,2010-07-16 10:14:30,"Delicatessen, 54 Prince St, New York",40.7235190991,-73.9963437617
+45,2010-07-02 06:55:12,"Soda Bar, 629 Vanderbilt Ave, Brooklyn",40.6782347023,-73.9685713105
+46,2009-11-28 09:23:25,"The Vanderbilt, 570 Vanderbilt Ave, Brooklyn",40.679406,-73.968334
+47,2009-05-25 04:05:12,"Henry Street Ale House, 62 Henry St, Brooklyn",40.6989768265,-73.9922513455
+48,2009-05-17 22:57:19,"Manitoba's, 99 Avenue B, New York",40.7248220659,-73.9814562284
+49,2009-03-23 02:22:19,"The Cloisters, 99 Margaret Corbin Dr, New York",40.8648886225,-73.9318728447
+50,2009-03-22 11:15:54,"The Cloisters, 99 Margaret Corbin Dr, New York",40.8648886225,-73.9318728447
+51,2009-02-05 23:14:26,"Weather Up, 589 Vanderbilt Ave, Brooklyn",40.6798732121,-73.9678385854
+52,2009-02-05 23:13:42,"Soda Bar, 629 Vanderbilt Ave, Brooklyn",40.6782347023,-73.9685713105

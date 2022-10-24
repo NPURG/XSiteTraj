@@ -1,0 +1,110 @@
+,time,poi,latitude,longitude
+0,2015-07-06 13:05:01,"Far Eats, 2301 5th Ave Ste 101, Seattle",47.6160029362,-122.343022042
+1,2015-07-06 13:01:33,"Hudson, 5000 E Marginal Way S, Seattle",47.5572875417,-122.338640442
+2,2015-07-06 13:00:57,"Elkano, Herrerieta, 2, Getaria",43.302983,-2.204765
+3,2015-02-13 14:06:13,"Roy Street Coffee & Tea, 700 Broadway E, Seattle",47.6253521678,-122.321209785
+4,2015-02-13 14:05:45,"Northwest Hospital Child Birth Center, 1710 N 120th St, Seattle",47.714773052,-122.337669247
+5,2015-02-13 14:05:21,"Swedish Medical Center - First Hill Campus, 747 Broadway, Seattle",47.6084027512,-122.321890092
+6,2015-02-13 14:04:05,"Play-It-Again Sports, 19513 Highway 99, Lynnwood",47.8219674435,-122.313981333
+7,2015-02-13 14:03:52,"Cafe Selam, 2715 E Cherry St, Seattle",47.6078299146,-122.297414366
+8,2015-02-02 05:16:14,"Liberty, 517 15th Ave E, Seattle",47.6235653027,-122.312867157
+9,2015-02-02 05:15:36,"Canon, 928 12th Ave, Seattle",47.611202,-122.316686511
+10,2015-02-02 05:15:04,"Rhein Haus, 912 12th Ave, Seattle",47.6109420305,-122.31646463
+11,2015-02-02 05:14:26,"Big Mario's Pizza, 1009 E Pike St, Seattle",47.6139114934,-122.318853736
+12,2015-02-02 05:14:09,"Top Pot Doughnuts, 590 Terry Ave N, Seattle",47.6239113537,-122.336454391
+13,2015-02-02 05:13:19,"Homegrown, 208 Westlake Ave N, Seattle",47.6201799354,-122.338235378
+14,2015-02-02 05:12:49,"sur 16, 340 15th Ave E, Seattle",47.621603,-122.312518
+15,2015-01-30 16:53:12,"Elysian Bar, 1516 2nd Ave, Seattle",47.6097081452,-122.339201127
+16,2015-01-30 16:52:33,"Feierabend, 422 Yale Ave N, Seattle",47.6223317963,-122.33059757
+17,2015-01-30 16:52:16,"Amazon - Day 1 South (SEA22), 410 Terry Ave N, Seattle",47.6224831776,-122.336878181
+18,2015-01-29 15:18:53,"Tavern Law, 1406 12th Ave, Seattle",47.613291298,-122.316713333
+19,2015-01-29 15:18:24,"Barrio Mexican Kitchen & Bar, 1420 12th Ave, Seattle",47.6137071488,-122.317005812
+20,2015-01-29 15:17:47,"Blue Water Taco Grill - Met Park, 1730 Minor Ave, Seattle",47.6168186278,-122.33011241
+21,2015-01-29 15:17:17,"tea republik, 202 Broadway E, Seattle",47.619983,-122.320929
+22,2015-01-29 15:16:34,"The Berliner Dner Kebab, 428 Westlake Ave N, Seattle",47.6227796629,-122.338377535
+23,2015-01-29 15:16:09,"Uptown Espresso, 500 Westlake Ave N, Seattle",47.6233220098,-122.338219285
+24,2015-01-23 14:52:18,"The Vude, 308 9th Ave N, Seattle",47.621212,-122.339614
+25,2015-01-23 06:35:36,"Naanz Kitchen + Bar, 1256 Republican St, Seattle",47.6231715685,-122.331351821
+26,2015-01-23 06:33:16,"Monsoon, 615 19th Ave E, Seattle",47.6247971649,-122.307569683
+27,2015-01-23 06:31:16,"Veggie Grill, 446 Terry Ave N, Seattle",47.6230610193,-122.336918042
+28,2015-01-21 14:56:13,"Shiku Sushi, 5310 Ballard Ave NW, Seattle",47.666702,-122.383527961
+29,2015-01-21 14:55:28,"Mamnoon, 1508 Melrose Ave, Seattle",47.6143840166,-122.327917951
+30,2015-01-21 14:54:42,"Postino Winecaf, 3939 E Campbell Ave, Phoenix",33.50228346,-111.996026
+31,2015-01-21 14:54:14,"Cafe Lago, 2305 24th Ave E, Seattle",47.639677,-122.302219
+32,2015-01-21 13:11:32,"New Amsterdam, 4421 Butler St, Pittsburgh",40.472076,-79.95929
+33,2015-01-17 16:57:46,"Gila River Arena, 9400 W Maryland Ave, Glendale",33.5318794916,-112.261133194
+34,2015-01-17 16:57:21,"Citizen Public House, 7111 E 5th Ave, Scottsdale",33.497986019,-111.92796795
+35,2015-01-17 16:54:49,"Pisa Lisa, 2245 W State Route 89A, Sedona",34.8632250161,-111.799715826
+36,2015-01-17 16:54:18,"Butters Pancakes & Cafe, 8390 E Via de Ventura Ste F108, Scottsdale",33.5547620058,-111.899247
+37,2015-01-17 16:53:47,"Topgolf, 9500 E Indian Bend Rd, Scottsdale",33.5411666,-111.8768185
+38,2015-01-17 16:53:09,"Sip Coffee & Beer House, 3617 N Goldwater Blvd, Scottsdale",33.489638785,-111.92656517
+39,2015-01-17 16:52:41,"Shakes & Cones, 7215 E 1st St, Scottsdale",33.4920456815,-111.925674677
+40,2015-01-17 16:52:09,"Echo Canyon Park / Camelback Trailhead, E McDonald Dr, Phoenix",33.5218623839,-111.974415779
+41,2015-01-17 16:51:10,"Diego Pops, 4338 N Scottsdale Rd, Scottsdale",33.4992956755,-111.926471659
+42,2015-01-17 16:50:41,"Jobot Coffee, 918 N 5th St, Phoenix",33.4583430436,-112.067778111
+43,2015-01-17 16:49:57,"The Lost Leaf, 914 N 5th St, Phoenix",33.458228,-112.067767382
+44,2015-01-17 16:49:28,"Angels Trumpet Ale House, 810 N 2nd St, Phoenix",33.4570786012,-112.071573726
+45,2015-01-17 16:48:46,"Bitter & Twisted Cocktail Parlour, 1 W Jefferson St, Phoenix",33.4471892132,-112.073855895
+46,2015-01-17 16:47:34,"Kona International Airport (KOA), 73-200 Kupipi St, Kailua",19.735308728,-156.04127987
+47,2015-01-14 04:18:06,"Kek Lok Si Temple (7502fa), Jalan Balik Pula, Air Itam",5.40007458584,100.274245106
+48,2015-01-14 04:17:44,"Air Itam Market, Jalan Pasar, Air Itam",5.40108660878,100.27780652
+49,2015-01-14 04:16:17,"Kimberley St. (553457) Hawker Stalls, Lebuh Kimberley, Georgetown",5.41641899126,100.332694566
+50,2015-01-14 04:16:03,"GeorgeTown White Coffee, Komtar Walk, Georgetown",5.41597068075,100.330758691
+51,2015-01-14 04:15:40,"Penang Road Laksa, 475 Penang Rd., Georgetown",5.41711735052,100.330770667
+52,2015-01-14 04:15:28,"Penang National Park, Jalan Hassan Abas, Teluk Bahang",5.46006532535,100.206234455
+53,2015-01-14 04:15:05,"Chungking Mansions, 36-44 Nathan Rd, 169980",22.2963406037,114.172448516
+54,2015-01-14 04:14:53,"Lobby Lounge, Intercontinental Hong Kong, 18 Salisbury Rd, Tsim Sha Tsui",22.2934,114.174030556
+55,2015-01-14 04:14:25,"Temple Spice Crabs, 210 Temple St, b9bb30",22.3060212662,114.169921875
+56,2015-01-14 04:14:10,"Aqua Bar & Cafe, 302 3/F Ho King Commercial Centre, 2-16 Fa Yuen St, Mongkok",22.3160099956,114.171625978
+57,2015-01-14 04:13:45,"Tim Ho Wan, Concession 12A, 1/F, MTR Hong Kong Station, 2db0",22.28503029,114.158348404
+58,2015-01-14 04:12:40,"Tian Tan Buddha (Giant Buddha), Po Lin Monastery, Ngong Ping Rd, Ngong Ping",22.253953,113.905011
+59,2015-01-14 04:11:59,"Thai Vegetarian Food, 28A Nam Kok Rd, 5d99ce",22.329292,114.189731
+60,2015-01-14 04:11:18,"Bocado Caf, 1293 Lexington Ave, New York",40.7802002206,-73.9548325539
+61,2015-01-14 04:10:59,"Levain Bakery, 167 W 74th St, New York",40.7798427593,-73.9805603027
+62,2015-01-14 04:10:35,"Cafe Moulin, 732 Filbert St, Pittsburgh",40.4516600518,-79.9332913529
+63,2015-01-14 04:10:03,"Alla Famiglia, 804 E Warrington Ave, Pittsburgh",40.4218071699,-79.993411
+64,2015-01-14 04:09:35,"Phipps Conservatory and Botanical Gardens, 1 Schenley Park, Pittsburgh",40.4391389415,-79.9474660008
+65,2015-01-14 04:09:13,"El Campesino, 4063 William Penn Hwy, Monroeville",40.4395131488,-79.7686786099
+66,2015-01-14 04:08:43,"Schenley Park Ice Skating Rink, 1 Overlook Dr, Pittsburgh",40.4316789974,-79.9448979043
+67,2015-01-14 04:08:20,"Anthony's Coal Fired Pizza, 2740 Stroschein Road, Monroeville",40.4379784862,-79.769045437
+68,2015-01-14 04:07:56,"Daphne Cafe, 5811 Ellsworth Ave, Pittsburgh",40.456472,-79.930533
+69,2015-01-14 04:07:25,"Kona Brewing Co. & Brewpub, 75-5629 Kuakini Hwy, Kailua",19.6430118922,-155.997655965
+70,2015-01-14 04:07:07,"Kona Inn Restaurant, 75-5744 Alii Dr, #135, Kailua",19.6377289295,-155.993596315
+71,2015-01-14 04:06:18,"Volcano House, Crater Rim Dr, Hilo",19.4286846555,-155.258416452
+72,2015-01-14 04:05:45,"Village Burger, 67-1185 Mamalahoa Hwy, Kamuela",20.0201791394,-155.667165499
+73,2015-01-14 04:05:01,"Columbia City Bakery, 4865 Rainier Ave S, Seattle",47.5582377936,-122.285365381
+74,2015-01-14 04:04:29,"The BottleNeck Lounge, 2328 E Madison St, Seattle",47.6199144301,-122.301679887
+75,2015-01-14 04:03:48,"Clever Dunne's, 1501 E Olive Way, Seattle",47.617871,-122.32607
+76,2015-01-14 04:03:12,"Kedai Makan, 1802 Bellevue Ave, Seattle",47.6178946718,-122.326583862
+77,2015-01-14 04:02:51,"The Butcher and The Baker, 6412 Latona Ave NE, Seattle",47.6756503433,-122.325248457
+78,2015-01-14 04:01:55,"Meeker Street Bar & Grill, 1721 W Meeker St, Kent",47.3815333843,-122.258477211
+79,2015-01-14 04:01:34,"Sluggers Bar & Grill, 12506 NE 144th St, Kirkland",47.7317762375,-122.173657
+80,2015-01-14 04:01:06,"Kingsgate Ice Arena, 14326 124th Ave NE, Kirkland",47.730389141,-122.174125239
+81,2014-03-27 09:11:13,"Brimmer & Heeltap, 425 NW Market St, Seattle",47.668529,-122.363051
+82,2014-03-27 09:10:28,"Lot No. 3, 460 106th Ave NE, Bellevue",47.6142062192,-122.198781967
+83,2014-03-24 15:31:20,"Kingsgate Ice Arena, 14326 124th Ave NE, Kirkland",47.730389141,-122.174125239
+84,2014-01-29 16:43:07,"Vete-Katten, Kungsgatan 55, Stockholm",59.334104,18.058303
+85,2014-01-25 19:37:21,"Icehotel, Marknadsvgen 63, Jukkasjrvi",67.8504521228,20.5954089069
+86,2014-01-22 17:09:10,"Andersen Bakery, Bernstoffsgade 5, Kbenhavn V",55.6732585,12.5661061
+87,2013-12-13 13:56:03,"Florera Atlntico, Arroyo 872, Capital Federal",-34.5915472271,-58.3796428388
+88,2013-12-12 12:15:16,"Tilo, Soldado de la Independencia 1003, Buenos Aires",-34.5659486549,-58.4370578715
+89,2013-12-11 04:38:06,"Cementerio de la Recoleta, Junn 1760, Buenos Aires",-34.5875558258,-58.3933210373
+90,2013-12-04 10:09:06,"Ovejitas De La Patagonia - Acuarela, Av. del Libertador 1197, El Calafate",-50.3382903389,-72.2663108343
+91,2013-12-04 10:08:03,"La Cocina, Avenida Del Libertador 1245, El Calafate",-50.3383176785,-72.2670244719
+92,2013-11-30 12:37:10,"Blue Heaven, 729 Thomas St, Key West",24.5518237161,-81.8027692222
+93,2013-09-25 14:09:04,"Smith, 332 15th Ave E, Seattle",47.6215327966,-122.312489183
+94,2013-09-25 14:08:51,"Punjab Sweets, 23617 104th Ave SE, Kent",47.390028,-122.20308927
+95,2013-09-25 14:08:32,"Poquitos, 1000 E Pike St, Seattle",47.614182423,-122.319060548
+96,2013-09-25 14:08:13,"Daniel's Broiler, 10500 NE 8th St, Bellevue",47.6178078877,-122.200498581
+97,2013-04-22 05:19:55,"Tavern Law, 1406 12th Ave, Seattle",47.613291298,-122.316713333
+98,2013-04-22 05:19:29,"Kent Valley Ice Centre, 6015 S 240th St, Kent",47.3863820437,-122.258579535
+99,2013-03-12 09:42:54,"Lounge 5280, Concourse B, Denver",39.8586838847,-104.673714255
+100,2012-11-25 04:32:16,"Gllo1fl, Hasbahe Cad. Ka1f31thane, 30stanbul",41.079299,28.968684
+101,2012-03-14 01:22:52,"Regent Bakery & Cafe, 1404 E Pine St, Seattle",47.6152986943,-122.314201754
+102,2012-01-23 05:34:52,"The Tin Table, 915 E Pine St, Seattle",47.6151247405,-122.320082188
+103,2011-10-20 10:28:43,"Nishino, 3130 E Madison St, Seattle",47.626706,-122.291731
+104,2011-10-03 05:48:19,"Crazy Moose Casino & Sports Bar, 22003 66th Ave W, Mountlake Terrace",47.7988056596,-122.321630653
+105,2011-10-03 05:48:06,"Brouwer's Cafe, 400 N 35th St, Seattle",47.6516787329,-122.35420336
+106,2011-10-03 05:47:53,"Liberty, 517 15th Ave E, Seattle",47.6235653027,-122.312867157
+107,2011-06-06 01:53:44,"Old School Frozen Custard, 1316 E Pike St, Seattle",47.6142243005,-122.314830422
+108,2011-06-06 01:46:07,"Eltana Wood-Fired Bagel Cafe, 1538 12th Ave, Seattle",47.614944,-122.316767

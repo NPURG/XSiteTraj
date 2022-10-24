@@ -1,0 +1,60 @@
+,time,poi,latitude,longitude
+0,2016-02-02 04:30:08,"Anthropologie, 203 Newbury St., Boston",42.3502264136,-71.0805723462
+1,2016-02-02 04:02:40,"James Perse, 17 Arlington St, Boston",42.3524475164,-71.0710492678
+2,2016-02-02 04:02:19,"Flour Bakery & Cafe, 1595 Washington St, Boston",42.338466713,-71.0743339136
+3,2016-02-02 04:02:04,"Carmichael Dining Hall, Tufts University, 200 Packard Ave, Medford",42.4093304619,-71.1227010116
+4,2016-02-02 04:01:56,"Bl, 4 Avery St, Boston",42.353363,-71.062963
+5,2015-12-04 12:38:37,"Thinking Cup, 236 Hanover St, Boston",42.3632959118,-71.0552350121
+6,2015-12-04 12:37:26,"Empire Restaurant & Lounge, 1 Marina Park Dr, Boston",42.353105075,-71.0453438759
+7,2015-11-18 13:30:30,"Star Market, 49 White St, Cambridge",42.389749134,-71.1180937662
+8,2015-11-18 13:30:05,"Wink & Nod, 3 Appleton St, Boston",42.3466346274,-71.0694011317
+9,2015-11-18 13:28:54,"Mistral, 223 Columbus Ave, Boston",42.3480002095,-71.0727786429
+10,2015-11-04 03:16:49,"Mej, 243 Elm St, Somerville",42.3950991011,-71.1216391449
+11,2015-10-23 00:21:40,"River Bar, 661 Assembly Row, Somerville",42.3957499221,-71.079487156
+12,2015-10-23 00:18:01,"Harvard Business School, 117 Western Ave, Boston",42.3664074694,-71.1221555722
+13,2015-10-23 00:17:33,"Spoke, 89 Holland St, Somerville",42.3987166241,-71.1243547328
+14,2015-10-23 00:17:10,"AMC Assembly Row 12, 395 Artisan Way, Somerville",42.3948212047,-71.0799107867
+15,2015-10-23 00:16:41,"Legal Harborside - Floor 3, 270 Northen Avenue, Boston",42.3487063094,-71.0378241178
+16,2015-10-23 00:16:24,"Magnificent Muffin & Bagel, 1118 Broadway, Somerville",42.40304,-71.1266595167
+17,2015-10-23 00:15:59,"W Boston, 100 Stuart St, Boston",42.3509825185,-71.0654780768
+18,2015-10-23 00:15:37,"Boston Public Market, 100 Hanover St, Boston",42.3619012342,-71.0575912298
+19,2015-10-23 00:15:15,"Pedro's Tacos, 55 Bromfield St, Boston",42.3569906855,-71.0606206327
+20,2015-09-07 02:17:57,"Century Cinema 16, 1500 N Shoreline Blvd, Mountain View",37.414823119,-122.080496084
+21,2015-09-07 02:16:14,"Beltramo's Wines and Spirits, 1540 El Camino Real, Menlo Park",37.4572575569,-122.189518328
+22,2015-09-07 02:15:49,"Drink, 348 Congress St, Boston",42.3503934063,-71.0486268997
+23,2015-09-07 02:15:04,"Amsterdam Falafelshop, 248 Elm St, Somerville",42.395427876,-71.1219524829
+24,2015-09-07 02:14:34,"Beehive, 541 Tremont St, Boston",42.3443360357,-71.0714903172
+25,2015-09-07 02:13:57,"Liquiteria, 1440 Massachusetts Ave, Cambridge",42.3743300397,-71.1188945255
+26,2015-09-07 02:12:35,"La Victoria Taqueria, 12 Medford St, Arlington",42.415063,-71.151026
+27,2015-08-14 06:06:11,"Voyageur du Temps, 288 1st St, Los Altos",37.3772646823,-122.117778996
+28,2015-08-14 06:04:41,"Gravity Bistro & Wine Bar, 544 Emerson St, Palo Alto",37.4440665233,-122.161979272
+29,2015-08-05 11:32:55,"Ramen Shop, 5812 College Ave, Oakland",37.8464322433,-122.251798793
+30,2015-07-06 05:10:30,"Calave, 299 California Ave, Palo Alto",37.4274679187,-122.143854415
+31,2015-04-19 00:15:53,"Legal Harborside - Floor 1 & Market, 270 Northern Ave, Boston",42.3486569309,-71.0378821553
+32,2015-04-19 00:15:10,"Casa B, 253 Washington St, Somerville",42.3797648605,-71.0944822553
+33,2015-04-03 03:26:21,"The Pub, 682 Broadway, Somerville",42.3996305466,-71.1117515167
+34,2015-04-03 03:25:55,"Cantab Lounge, 738 Massachusetts Ave, Cambridge",42.366202,-71.10519751
+35,2015-04-03 03:24:22,"Beat Brasserie, 13 Brattle St, Cambridge",42.3733955083,-71.1204031981
+36,2015-04-03 03:24:00,"Union Square Donuts, 20 Bow St, Somerville",42.3808412369,-71.0970529538
+37,2015-04-03 03:23:23,"Atlas Liquors (Medford), 156 Mystic Ave, Medford",42.4098659278,-71.1052697947
+38,2015-04-03 03:23:02,"Trident Booksellers & Cafe, 338 Newbury St, Boston",42.348496,-71.086753
+39,2015-04-03 03:22:48,"wellesley Optical, 216 Newbury St, Boston",42.3500122,-71.081005
+40,2015-04-03 03:21:27,"Kintaro, 24 rue Saint-Augustin, Paris",48.8689245916,2.33488708735
+41,2015-04-03 03:20:24,"ATO, Tufts University, 134 Professors Row, Medford",42.4074881603,-71.1242759228
+42,2015-04-03 03:19:46,"Renee's Cafe, 198 Holland St, Somerville",42.40160892,-71.12652878
+43,2015-04-03 03:19:19,"Blue Shirt Cafe, 424 Highland Ave, Somerville",42.396356,-71.121959
+44,2015-04-03 03:18:45,"Bank of America, 406 Highland Ave, Somerville",42.395939,-71.121202
+45,2015-04-03 03:18:27,"L.A. Burdick Chocolate, 220 Clarendon St, Boston",42.3510252789,-71.0754365272
+46,2015-04-03 03:18:11,"Jugos, 147 Dartmouth st, Boston",42.3475245578,-71.0761213068
+47,2015-04-03 03:17:37,"Market in the Square, 60 Church St, Cambridge",42.3739144266,-71.1212986708
+48,2015-04-03 03:16:42,"Pemberton Farms & Garden Center, 2225 Massachusetts Ave, Cambridge",42.3937397772,-71.1256544949
+49,2015-04-03 03:16:02,"Dave's Fresh Pasta, 81 Holland St, Somerville",42.398685,-71.124396
+50,2015-04-01 05:48:05,"Little Red Door, 60 rue Charlot, Paris",48.8636753719,2.36357388419
+51,2015-04-01 05:46:36,"Yumchaa, 9-11 Tottenham St, Fitzrovia",51.520636026,-0.134977072468
+52,2015-04-01 05:46:13,"Coutume Instituutti, 31 rue du Sommerard, Paris",48.8502723896,2.34348487189
+53,2015-04-01 05:43:51,"Carette, 4 place du Trocadro, Paris",48.8635007971,2.28730201721
+54,2015-04-01 05:43:08,"Spring, 6 rue Bailleul, Paris",48.8609880788,2.34187960625
+55,2015-04-01 05:42:00,"Ladure, 75 avenue des Champs-lyses, Paris",48.8710182656,2.30321120775
+56,2015-04-01 05:40:55,"Candelaria, 56 rue de Saintonge, Paris",48.863001809,2.36410246913
+57,2015-04-01 05:39:52,"Ozone Coffee Roasters, 11 Leonard St, London",51.5246088832,-0.0868378657602
+58,2015-04-01 05:38:47,"Dishoom, 12 Upper St Martin19s Ln, Covent Garden",51.5123545335,-0.127133760477

@@ -1,0 +1,30 @@
+,time,poi,latitude,longitude
+0,2016-10-25 11:26:34,"Echo Tap & Grille, 1079 US Highway 22, Mountainside",40.682278987,-74.3390692971
+1,2016-06-21 21:05:40,"Don Pepi Delicatessen, 2 Penn Plz, New York",40.7503328248,-73.9934794596
+2,2016-05-01 00:06:46,"Lola Bistro, 2058 E 4th St, Cleveland",41.4986949198,-81.6902068971
+3,2016-03-22 21:22:22,"Workshop Cafe, 180 Montgomery St Ste 100, San Francisco",37.7906504193,-122.402200699
+4,2016-03-22 21:21:05,"Blue Bottle Coffee, 115 Sansome St, San Francisco",37.7911147327,-122.400758241
+5,2016-03-22 21:20:01,"Press Club, 20 Yerba Buena Ln, San Francisco",37.7861481899,-122.405118942
+6,2016-03-22 21:19:07,"Eagle Club Indoor Golf, 555 Howard St Ste 102, San Francisco",37.7874518785,-122.397040961
+7,2016-03-22 21:18:19,"Eleven O One, 1101 Polk St, San Francisco",37.7869282568,-122.420139313
+8,2016-03-05 20:25:30,"Capital Craft, 171 US Highway 22, Green Brook Township",40.6020691823,-74.4781351406
+9,2016-03-05 20:22:24,"Bottlerocket Wine & Spirit, 5 W 19th St, New York",40.7393831128,-73.9919644018
+10,2016-03-05 20:20:50,"Maysville, 17 W 26th St, New York",40.7440535347,-73.9897377042
+11,2016-03-05 20:20:12,"ilili, 236 5th Ave, New York",40.7443353766,-73.9875396758
+12,2016-02-19 21:10:32,"Pacci's Neapolitan Pizzeria, 8113 Georgia Ave, Silver Spring",38.99086,-77.026241
+13,2016-02-19 21:09:46,"&pizza, 11626 Old Georgetown Rd, North Bethesda",39.0492472066,-77.1160858215
+14,2016-01-27 07:45:42,"T.J. Stone's, 608 Montgomery St, Alexandria",38.8139475166,-77.0444637537
+15,2016-01-27 07:44:31,"Sugar Shack Donuts and Coffee, 804 N Henry St, Alexandria",38.8138780308,-77.0498435454
+16,2016-01-27 07:43:28,"Rye House, 11 W 17th St, New York",40.73830504,-73.9930088747
+17,2016-01-27 07:42:58,"The Berkshire Room, 15 E Ohio St, Chicago",41.8924579831,-87.6274519368
+18,2016-01-27 07:42:01,"Tortoise Supper Club, 350 N State St, Chicago",41.8886230502,-87.6280399597
+19,2016-01-27 07:41:10,"Public House, 400 N State St, Chicago",41.8891456468,-87.6280062209
+20,2016-01-27 07:40:01,"Beasley's Chicken + Honey, 237 S Wilmington St, Raleigh",35.777117,-78.63826264
+21,2016-01-27 07:38:01,"The Teapot, 450 Springfield Ave, Summit",40.718073,-74.360303
+22,2016-01-11 11:56:26,"Mandarin Bar at Mandarin Oriental, Las Vegas, 3752 Las Vegas Blvd S, Las Vegas",36.106285858,-115.174183846
+23,2016-01-11 11:55:41,"Yardbird, The Venetian (Restaurant Row), Las Vegas",36.1225908391,-115.169036724
+24,2016-01-11 11:53:06,"Fad Irish Pub & Restaurant, 273 Buckhead Ave NE, Atlanta",33.8381736882,-84.3786385482
+25,2016-01-11 11:52:36,"Woodbridge Center Mall, 250 Woodbridge Center Dr, Woodbridge",40.5567217103,-74.2993140221
+26,2016-01-11 11:51:45,"SOHO, 4300 Paces Ferry Rd SE, Atlanta",33.8658099109,-84.4667637348
+27,2016-01-11 11:48:40,"Carnevino, 3225 Las Vegas Blvd S, Las Vegas",36.1250499115,-115.168770386
+28,2016-01-11 11:47:53,"Your Pie, 5 W Paces Ferry Rd NW, Atlanta",33.8396379005,-84.3804092646

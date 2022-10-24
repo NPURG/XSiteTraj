@@ -1,0 +1,183 @@
+,time,poi,latitude,longitude
+0,2016-12-20 01:24:08,"Klein's Deli & Coffee Bar, Terminal 3, San Francisco",37.6203465444,-122.388787245
+1,2016-12-04 12:47:06,"Sightglass Coffee, 3014 20th St, San Francisco",37.759122,-122.411312
+2,2016-11-06 01:07:28,"Duboce Park Cafe, 2 Sanchez St, San Francisco",37.7692075112,-122.431415256
+3,2016-09-04 22:35:03,"Liquor Shop NIGHT OWL, 75d4ff1-8-3, 71ac",35.647814457,139.710322132
+4,2016-09-04 22:34:20,"Udon Yamacho, 75d4ff1-1-5, 71ac",35.6483124881,139.711117744
+5,2016-09-04 22:27:05,"Himeji Castle, 2c3a68, ebef02",34.8363659017,134.692837946
+6,2016-09-04 22:24:02,"Fushimi Inari Taisha Shrine, 0f8b3af149ea4b853a68, acfd02",34.9673157261,135.772451655
+7,2016-09-04 22:14:30,"Tousuiro, 0a272a3a517-3, 2dac3a",35.0102785818,135.771234157
+8,2016-08-24 22:04:16,"efish, 0bac3a7f4b703a798-1, acfd02",34.9952556585,135.767410845
+9,2016-08-24 22:02:18,"efish, 0bac3a7f4b703a798-1, acfd02",34.9952556585,135.767410845
+10,2016-08-22 07:42:49,"Gogyo, 7fbb031-4-36, 71ac",35.6622315376,139.724296228
+11,2016-08-09 23:40:07,"Morning Due Cafe, 3698 17th St, San Francisco",37.7628906333,-122.428445
+12,2016-08-03 23:48:33,"Caf de la Presse, 352 Grant Ave, San Francisco",37.7904744899,-122.405397892
+13,2016-08-03 23:45:35,"Mazarine Coffee, 720 Market St, San Francisco",37.7873762065,-122.403817154
+14,2016-07-25 00:14:05,"Grit Cafe, 112 Main St, Charlottesville",38.0308843957,-78.48198466
+15,2016-06-22 10:15:03,"Stanislaus National Forest - Summit Ranger Station, 1 Pinecrest Lake Rd, Pinecrest",38.0675862288,-120.186878274
+16,2016-06-11 04:50:08,"sweetgreen, 100 Kenmare St, New York",40.7210262952,-73.9972568956
+17,2016-06-01 06:54:07,"Two Boots East Village, 42 Avenue A, New York",40.7237071309,-73.9852038843
+18,2016-05-26 22:22:12,"Rubirosa Ristorante, 235 Mulberry St, New York",40.7227261667,-73.9959930518
+19,2016-05-23 23:30:22,"Caf Select, 212 Lafayette St, New York",40.7216829958,-73.9977988601
+20,2015-11-09 01:22:51,"Sweetleaf, 135 Kent Ave, Brooklyn",40.7195302123,-73.9622730017
+21,2015-10-26 04:34:45,"B C Ph, 222 Lafayette St, New York",40.721987917,-73.9976218343
+22,2015-08-06 10:50:19,"Amor Cubano, 2018 3rd Ave, New York",40.7948401642,-73.9424544702
+23,2015-08-06 06:30:38,"Habana To Go, 229 Elizabeth St, New York",40.722912,-73.994089
+24,2015-08-02 04:15:23,"Peddler Coffee, 2100 Spring St, Philadelphia",39.9582878249,-75.1740636827
+25,2015-08-01 00:46:19,"PT, 331 Bedford Ave, Brooklyn",40.7125967757,-73.9624872634
+26,2015-07-31 23:55:13,"Freehold, 45 S 3rd St, Brooklyn",40.7137037278,-73.9660656452
+27,2015-07-31 23:53:56,"Calle Ocho, 45 W 81st St, New York",40.7829037188,-73.9738057331
+28,2015-07-28 23:59:25,"Sweetwater Restaurant, 105 N 6th St, Brooklyn",40.7184114507,-73.9600822899
+29,2015-07-28 23:57:09,"Toby19s Estate Coffee, 125 N 6th St, Brooklyn",40.7177941115,-73.9590167999
+30,2015-07-20 00:54:56,"Kerlin BBQ, 1700 E Cesar Chavez St, Austin",30.2579023741,-97.7256437878
+31,2015-07-19 11:28:37,"Kung Fu Saloon, 510 Rio Grande St, Austin",30.2693666066,-97.7498055593
+32,2015-07-19 04:23:15,"The Container Bar, 90 Rainey St, Austin",30.2603600919,-97.7384848301
+33,2015-07-06 06:06:39,"Cafe Mogador, 133 Wythe Ave, Brooklyn",40.7197618703,-73.9600535908
+34,2015-06-16 02:10:48,"Hopfen & Co., Obstplatz 17, Bolzano",46.499295156,11.3524866371
+35,2015-06-16 02:08:47,"Ca' de Bezzi, Andreas-Hofer-Str. 30, Bolzano",46.5012693669,11.3573000322
+36,2015-05-26 04:23:22,"mk The Restaurant, 868 N Franklin St, Chicago",41.898445,-87.636063
+37,2015-05-22 04:13:50,"I-Bar, 5961 Isla Verde Ave, San Juan",18.4433096735,-66.0196910273
+38,2015-05-22 04:12:17,"Intercontinental San Juan Resort & Casino, 5961 Isla Verde Ave, Carolina",18.44312699,-66.0196794113
+39,2015-04-23 21:28:43,"Benny's Burritos, 113 Greenwich Ave, New York",40.7380334764,-74.0019268352
+40,2015-04-10 01:19:52,"McNally Jackson Books, 52 Prince St, New York",40.7233702089,-73.9960205555
+41,2015-03-26 04:00:52,"Parc 55 San Francisco - A Hilton Hotel, 55 Cyril Magnin St, San Francisco",37.7849772338,-122.408645963
+42,2015-03-21 05:47:41,"Full Belly Deli, 10601-10611 Pioneer Trail, Truckee",39.3355421691,-120.180881023
+43,2015-01-19 07:54:57,"Victoria's Espresso, 510 E Durant Ave, Aspen",39.1873624503,-106.818888187
+44,2015-01-04 05:10:49,"Hotel Mountain Brook, 57 Hill Street, Tannersville",42.197826,-74.13551
+45,2014-12-29 07:12:21,"Mas (farmhouse), 39 Downing St, New York",40.729303,-74.003774
+46,2014-12-18 01:11:21,"City of Saints Coffee Roasters, 79 E 10th St, New York",40.7311003868,-73.9901509077
+47,2014-12-06 23:52:22,"Skinny Dennis, 152 Metropolitan Ave, Brooklyn",40.7159808222,-73.9620395618
+48,2014-11-23 03:27:58,"Prodigy Coffee, 33 Carmine St, New York",40.7300589354,-74.0030343779
+49,2014-11-23 03:26:28,"Victory Garden, 31 Carmine St, New York",40.7301819314,-74.0028909141
+50,2014-11-15 10:48:39,"Mighty Quinn's BBQ, 75 Greenwich Ave, New York",40.7368006603,-74.0010717849
+51,2014-11-11 10:58:11,"Monument Lane, 103 Greenwich Ave, New York",40.7377686435,-74.0017546777
+52,2014-11-01 06:10:31,"Union Station, 50 Massachusetts Ave NE, Washington",38.8980553075,-77.0061023515
+53,2014-10-24 02:44:19,"Darwin Cafe, 212 Ritch St, San Francisco",37.780679,-122.396086
+54,2014-10-10 00:12:56,"Alidoro, 105 Sullivan St, New York",40.725649,-74.003045
+55,2014-10-07 22:09:03,"Bluestone Lane Collective Cafe, 55 Greenwich Ave, New York",40.7357953179,-74.0008512139
+56,2014-10-07 01:56:51,"Legend Bar & Restaurant 005999, 88 7th Ave, New York",40.739563,-73.998965
+57,2014-10-07 01:53:50,"The ELK, 128 Charles St, New York",40.7342414785,-74.0074759613
+58,2014-10-07 01:52:40,"Calexico Cart, Wooster St, New York",40.7254946087,-74.000073265
+59,2014-10-04 02:53:18,"Foreign Cinema, 2534 Mission St, San Francisco",37.756487585,-122.419364792
+60,2014-10-04 02:52:06,"Brenda's French Soul Food, 652 Polk St, San Francisco",37.7828888764,-122.419104854
+61,2014-10-04 02:49:29,"Starbelly, 3583 16th St, San Francisco",37.7641969538,-122.432590127
+62,2014-10-04 02:45:33,"Monk19s Kettle, 3141 16th St, San Francisco",37.7648027162,-122.422926432
+63,2014-10-04 02:44:16,"Canela Bistro & Wine Bar, 2272 Market St, San Francisco",37.7648405655,-122.432532301
+64,2014-10-04 02:37:00,"The Grove, 690 Mission St, San Francisco",37.7865339849,-122.401921749
+65,2014-10-01 00:57:06,"Siggy's Good Food, 292 Elizabeth St, New York",40.7247394937,-73.9931006963
+66,2014-09-30 02:33:03,"Charlie Beinlichs, 290 Skokie Blvd, Northbrook",42.147121,-87.798008
+67,2014-09-24 08:20:05,"Greenwich Treehouse, 46 Greenwich Ave, New York",40.735582,-74.0005197525
+68,2014-09-23 07:36:31,"In the Bowl Vegetarian Noodle Bistro, 1554 E Olive Way, Seattle",47.6187007,-122.325626172
+69,2014-09-22 01:11:14,"Elixr Coffee Roasters, 207 S Sydenham St, Philadelphia",39.9494706405,-75.1667564709
+70,2014-09-16 04:21:16,"Mole Restaurante Mexicano & Tequileria, 57 Jane St, New York",40.738197,-74.005448
+71,2014-09-16 04:19:37,"Gimme! Coffee, 228 Mott St, New York",40.7222795768,-73.9951767567
+72,2014-09-15 06:20:56,"Grounded, 28 Jane St, New York",40.7381799235,-74.0035278922
+73,2014-09-09 10:06:13,"Crystal Mountain Ski Area, 33914 Crystal Mountain Blvd, Enumclaw",46.9333268055,-121.474628448
+74,2014-09-09 10:00:25,"Alpental Ski Area, 17701 Alpental Access Rd NE, Snoqualmie",47.4452428947,-121.427121162
+75,2014-09-09 09:57:05,"Squaw Valley Ski Resort, 1960 Squaw Valley Rd, Olympic Valley",39.1966885582,-120.234901742
+76,2014-09-09 09:55:00,"Aspen Highlands, 133 Prospector Rd, Aspen",39.1819300714,-106.856502444
+77,2014-09-09 09:50:40,"Copper Mountain, 209 Ten Mile Cir, Copper Mountain",39.5003319944,-106.155910492
+78,2014-09-09 09:43:31,"Mulligans Irish Pub, Center Village, Copper Mountain",39.5014625417,-106.155339763
+79,2014-09-09 09:42:30,"Endo's Adrenaline Cafe, 209 Ten Mile Circle, Copper Mountain",39.500404,-106.155896
+80,2014-09-09 09:41:36,"Copper Mountain, 209 Ten Mile Cir, Copper Mountain",39.5003319944,-106.155910492
+81,2014-09-09 09:36:03,"Tahoe Cross Country Ski Area, 925 Country Club Dr., Sunnyside-Tahoe City",39.1971347,-120.106189504
+82,2014-09-09 05:19:34,"Cafe Duke, 545 Broadway, New York",40.7237093569,-73.9985123498
+83,2014-08-27 21:03:49,"The Caf, 2369 Market St, San Francisco",37.7629671186,-122.434357703
+84,2014-08-27 21:01:19,"Plow, 1299 18th St, San Francisco",37.7626490352,-122.395442269
+85,2014-08-27 20:58:29,"Badlands, 4121 18th St, San Francisco",37.7607639663,-122.435497642
+86,2014-08-27 20:55:47,"The Mix, 4086 18th St, San Francisco",37.761177401,-122.434517514
+87,2014-08-27 20:48:56,"QBar, 456 Castro St, San Francisco",37.7615719425,-122.435136849
+88,2014-08-27 20:45:39,"Sand Bar, 115 Grove St, Tahoe City",39.171484,-120.139093
+89,2014-08-27 20:45:07,"Safeway, 850 North Lake Blvd, Tahoe City",39.173581,-120.13708988
+90,2014-08-27 20:42:09,"DTUT, 1744 2nd Ave, New York",40.7808176492,-73.9493501186
+91,2014-08-24 07:09:48,"Tahoe House Bakery & Gourmet Store, 625 W. Lake Blvd, Tahoe City",39.157576,-120.146333
+92,2014-08-24 07:05:50,"Lookout, 3600 16th St, San Francisco",37.764353,-122.433365
+93,2014-08-18 17:37:26,"Fergbaker, 39 Shotover St., Queenstown",-45.0316690911,168.659410382
+94,2014-08-18 17:27:48,"Alpenglow, 415 north lake blvd., Tahoe City",39.16981588,-120.142637
+95,2014-08-18 17:14:30,"Tahoe Mountain Brewing Co., 475 N Lake Blvd., Tahoe City",39.1706709999,-120.141718882
+96,2014-08-18 17:12:31,"The Slot, 1960 Squaw Valley Road, Squaw Valley",39.1965428922,-120.235093327
+97,2014-08-18 17:10:40,"Terrace Bar & Restaurant, High Camp, Olympic Valley",39.1951099525,-120.260785799
+98,2014-08-18 17:06:32,"Rocker@Squaw, 1960 Squaw Valley Dr, Olympic Valley",39.196571633,-120.235076423
+99,2014-08-18 17:02:39,"Le Chamois & Loft Bar, 1960 Squaw Valley Road, Olympic Valley",39.196265,-120.23615
+100,2014-08-18 17:00:12,"Fat Cat Bar & Grill, 599 N Lake Blvd, Tahoe City",39.172267,-120.13996126
+101,2014-08-18 16:58:47,"Syd's Bagelry, 550 N Lake Blvd, Tahoe City",39.17179,-120.13974
+102,2014-08-18 16:57:25,"Tahoe Dave's Skis & Boards, 590 N. Lake Blvd, Tahoe City",39.1718730176,-120.139593025
+103,2014-08-18 16:55:24,"The Blue Agave, 425 N Lake Blvd, Tahoe City",39.170058,-120.142382
+104,2014-08-18 16:53:29,"Sunnyside, 1850 W. Lake Blvd., Tahoe City",39.1393660058,-120.153424586
+105,2014-08-18 16:49:05,"The Bridgetender, 65 West Lake Blvd, Tahoe City",39.1666148339,-120.144391662
+106,2014-08-17 20:19:23,"Bardeaux, Suite 5, Eurika Arcade, Queenstown",-45.0325112177,168.661254767
+107,2014-08-16 15:49:41,"The Baker's Oven Caf, 121 George St, The Rocks",-33.860131,151.208421
+108,2014-08-12 20:07:16,"Lime & Pepper, Peppers Beach Club & Spa Resort, Palm Cove",-16.743374,145.670929
+109,2014-08-12 20:06:02,"Apres Beach Bar & Grill, Caryota Cl., Palm Cove",-16.743951,145.671012998
+110,2014-08-08 08:35:56,"La Renaissance Caf Ptisserie, 47 Argyle St., The Rocks",-33.8593905536,151.208431359
+111,2014-08-05 00:57:11,"Hi Dive Bar, 501 The Embarcadero, San Francisco",37.7875472171,-122.387491465
+112,2014-08-05 00:54:50,"Molotov's, 582 Haight St, San Francisco",37.7720094107,-122.431730463
+113,2014-08-05 00:46:17,"Brouwer's Cafe, 400 N 35th St, Seattle",47.6516787329,-122.35420336
+114,2014-08-04 01:35:14,"Latin American Club, 3286 22nd St, San Francisco",37.7554137862,-122.420675755
+115,2014-07-31 12:00:43,"Bait Shop, 606 Broadway E, Seattle",47.62462034,-122.320842215
+116,2014-07-31 11:52:32,"Chow, 215 Church St, San Francisco",37.7671060685,-122.428770661
+117,2014-07-31 11:50:08,"Canlis, 2576 Aurora Ave N, Seattle",47.64300933,-122.346751
+118,2014-07-31 11:46:11,"Pony, 1221 E Madison St, Seattle",47.613134,-122.315939083
+119,2014-07-31 11:43:12,"Smith, 332 15th Ave E, Seattle",47.6215327966,-122.312489183
+120,2014-07-31 11:41:58,"Liberty, 517 15th Ave E, Seattle",47.6235653027,-122.312867157
+121,2014-07-31 11:39:47,"The Canterbury Alehouse, 534 15th Ave E, Seattle",47.6242116238,-122.312637409
+122,2014-07-31 11:38:27,"El Rio, 3158 Mission St, San Francisco",37.746868,-122.41951655
+123,2014-07-31 11:36:36,"Trick Dog, 3010 20th St, San Francisco",37.7591916688,-122.411234511
+124,2014-07-31 11:35:56,"Zeitgeist, 199 Valencia St, San Francisco",37.7701168394,-122.422108054
+125,2014-07-31 11:34:37,"Doc's Clock, 2575 Mission St, San Francisco",37.7558490349,-122.418750895
+126,2014-07-31 11:33:21,"Hi Tops, 2247 Market St, San Francisco",37.7649319246,-122.431807882
+127,2014-07-31 11:32:02,"Locanda, 557 Valencia St, San Francisco",37.7640483497,-122.421809285
+128,2014-07-31 11:28:35,"Victrola, 411 15th Ave E, Seattle",47.622351,-122.31276964
+129,2014-07-31 11:26:53,"Kitchen Story, 3499 16th St, San Francisco",37.7643662527,-122.430895439
+130,2014-07-31 11:24:25,"Gracias Madre, 2211 Mission St, San Francisco",37.7614700848,-122.419452667
+131,2014-07-31 11:21:06,"Beretta, 1199 Valencia St, San Francisco",37.7537892209,-122.420708717
+132,2014-07-31 11:01:38,"The Park Tavern, 931 E 11th Ave, Denver",39.7337816521,-104.97563053
+133,2014-07-31 10:55:28,"Mission Dolores Park, Dolores St, San Francisco",37.7596459214,-122.426852944
+134,2014-07-31 10:52:37,"Andrew Molera State Park, 2211 Garden Rd, Big Sur",36.2873351812,-121.843754053
+135,2014-07-31 10:50:58,"Kings Canyon National Park, State Highway 180, Sierra",36.7402669387,-118.963385769
+136,2014-07-31 10:48:27,"Seward Park, 5895 Lake Washington Blvd. S, Seattle",47.5502069311,-122.257331819
+137,2014-07-31 10:42:09,"Woodland Park, 1000 NE 50th St, Seattle",47.6682485495,-122.343621254
+138,2014-07-31 10:39:54,"Green Lake Park, 7201 E Green Lake Dr N, Seattle",47.6806928917,-122.329054189
+139,2014-07-31 10:38:04,"Rancho Bravo Tacos, 1001 E Pine St, Seattle",47.6151020202,-122.319057984
+140,2014-07-31 10:37:42,"Volunteer Park, 1247 15th Ave E, Seattle",47.630172482,-122.315206717
+141,2014-07-31 10:33:55,"Intelligentsia Coffee, 53 W Jackson Blvd, Chicago",41.8780208635,-87.6297075899
+142,2014-07-31 10:29:54,"Mission Beach Cafe, 198 Guerrero St, San Francisco",37.7680371663,-122.424469403
+143,2014-07-31 10:28:52,"Philz Coffee, 748 Van Ness Ave, San Francisco",37.7824469992,-122.420450449
+144,2014-07-31 10:25:59,"Four Barrel Coffee, 375 Valencia St, San Francisco",37.7670243868,-122.421958607
+145,2014-07-31 10:23:04,"Good Restaurant, 89 Greenwich Ave, New York",40.7372996592,-74.001301329
+146,2014-07-28 01:28:01,"Roasting Plant Coffee, 75 Greenwich Ave, New York",40.736772,-74.000943
+147,2014-07-17 22:08:08,"Bonsignour, 35 Jane St, New York",40.7380050099,-74.0043485005
+148,2014-07-11 22:41:54,"The Grey Dog, 244 Mulberry St, New York",40.723096,-73.995774
+149,2014-07-10 01:07:11,"Nourish Kitchen + Table, 95 Greenwich Ave, New York",40.7374699793,-74.0016692877
+150,2014-07-05 09:01:47,"Sweetleaf, 4615 Center Blvd, Queens",40.7469900094,-73.9563226652
+151,2014-07-04 01:52:33,"Bonsignour, 35 Jane St, New York",40.7380050099,-74.0043485005
+152,2014-07-03 00:55:35,"Gasoline Alley Coffee, 325 Lafayette St, New York",40.7255513259,-73.9947652817
+153,2014-07-01 20:36:17,"Corner Cafe and Bakery, 1645 3rd Ave, New York",40.7830996267,-73.9507835427
+154,2014-06-27 01:22:46,"Chop't, 54 Spring St, New York",40.722037,-73.996711
+155,2013-03-06 06:30:00,"The Crepe House, 1132 Valencia St, San Francisco",37.7547631,-122.420864
+156,2013-02-16 06:00:31,"Morning Due Cafe, 3698 17th St, San Francisco",37.7628906333,-122.428445
+157,2012-09-18 13:19:51,"Earl's on the Ave, 4333 University Way NE, Seattle",47.6608517667,-122.313413
+158,2012-09-18 13:14:41,"Glo's, 1621 E Olive Way, Seattle",47.6193407354,-122.324561825
+159,2012-09-18 13:13:48,"Portage Bay Cafe, 391 Terry Ave N, Seattle",47.622057,-122.337282
+160,2012-09-18 13:12:29,"Espresso Vivace, 532 Broadway E, Seattle",47.62375214,-122.320998
+161,2012-09-18 13:11:47,"Victrola, 411 15th Ave E, Seattle",47.622351,-122.31276964
+162,2012-09-18 13:11:01,"Discovery Park, 3801 Discovery Park Blvd, Seattle",47.660184785,-122.415332794
+163,2012-09-18 13:10:06,"Redwood, 514 E Howell St, Seattle",47.6178195438,-122.324536281
+164,2012-09-18 13:09:44,"R Place, 619 E Pine St, Seattle",47.615173,-122.323565
+165,2012-09-18 13:09:19,"Tilth, 1411 N 45th St, Seattle",47.661296,-122.340094
+166,2012-09-18 13:07:06,"Unicorn, 1118 E Pike St, Seattle",47.6140535389,-122.317238969
+167,2012-09-18 13:04:56,"Linda's Tavern, 707 E Pine St, Seattle",47.6152321688,-122.32306662
+168,2012-09-18 13:01:35,"The Walrus and the Carpenter, 4743 Ballard Ave NW, Seattle",47.6634183886,-122.380287051
+169,2012-09-18 12:59:45,"Hopvine Pub, 507 15th Ave E, Seattle",47.623344,-122.31275855
+170,2012-09-10 04:19:25,"Haus Coffee, 3086 24th St, San Francisco",37.752603,-122.413784483
+171,2012-08-23 03:19:06,"Glo's, 1621 E Olive Way, Seattle",47.6193407354,-122.324561825
+172,2012-07-16 07:28:30,"Arizmendi Bakery Panaderia & Pizzeria, 1268 Valencia St, San Francisco",37.752532,-122.42087925
+173,2012-07-15 01:01:08,"Ritual Coffee Roasters, 1026 Valencia St, San Francisco",37.756501,-122.421146
+174,2012-05-17 06:31:55,"Future of Flight Aviation Center & Boeing Tour, 8415 Paine Field Blvd, Mukilteo",47.9217824429,-122.289761402
+175,2012-05-17 06:28:38,"Kerry Park, 211 Highland Dr, Seattle",47.6294176017,-122.359939814
+176,2012-05-17 06:25:46,"Highline, 210 Broadway E, Seattle",47.6202612919,-122.320711166
+177,2012-05-17 06:09:05,"Pi Bar, 1432 Valencia St, San Francisco",37.7499541017,-122.420548332
+178,2012-05-02 05:57:24,"Epicenter Cafe, 764 Harrison St, San Francisco",37.7814803347,-122.398933768
+179,2012-04-14 06:20:53,"Rodger's Coffee & Tea, 3520 20th St Ste A, San Francisco",37.758656,-122.419752
+180,2010-04-16 02:07:09,"Coastal Kitchen, 429 15th Ave E, Seattle",47.622802,-122.312953
+181,2010-04-16 02:06:19,"Hopvine Pub, 507 15th Ave E, Seattle",47.623344,-122.31275855

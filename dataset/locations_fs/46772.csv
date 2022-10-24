@@ -1,0 +1,105 @@
+,time,poi,latitude,longitude
+0,2016-04-14 13:07:20,"Ginza Kyubey, 80a78-7-6, 71ac",35.6683760664,139.761456832
+1,2016-04-05 06:53:59,"Turret COFFEE, c9302-12-6, 71ac",35.6679808554,139.772046804
+2,2015-08-16 21:37:54,"L'Auberge Restaurant on Oak Creek, 301 Lauberge Ln, Sedona",34.868247,-111.759972
+3,2015-08-16 21:29:02,"Sedona Airport Overlook, 1185 Airport Rd, Sedona",34.853304964,-111.789695632
+4,2015-08-16 21:26:05,"Red Rock Crossing, 468 Redrock Crossing Road, Sedona",34.8262034233,-111.806714233
+5,2014-11-09 12:15:48,"Corso Trattoria, 1788 Shattuck Ave, Berkeley",37.875072,-122.268876
+6,2014-11-01 09:44:14,"Muracci's Japanese Curry & Grill, 307 Kearny St, San Francisco",37.7910722243,-122.404252589
+7,2014-10-16 06:21:31,"Moloa'a Sunrise Fruit Stand, 6011 Koolau Rd, Anahola",22.1794508728,-159.330993926
+8,2014-10-14 07:46:24,"Koloa Fish Market, 5476 Koloa Rd., K4dloa",21.9049059156,-159.463720322
+9,2014-09-29 10:58:38,"Koo, 408 Irving St, San Francisco",37.7643029731,-122.462539673
+10,2014-09-13 03:37:12,"Luke's Lobster, 93 E 7th St, New York",40.7268229975,-73.9854709756
+11,2014-09-06 23:49:29,"Bouche, 603 Bush St, San Francisco",37.7902803732,-122.407318477
+12,2014-08-08 18:02:03,"Ippudo, 65 4th Ave, New York",40.7309155952,-73.9905583715
+13,2014-08-08 00:50:56,"Tacombi at Fonda Nolita, 267 Elizabeth St, New York",40.7240508482,-73.9938352669
+14,2014-07-27 02:18:13,"L'Ardoise, 151 Noe St, San Francisco",37.7665929531,-122.433271408
+15,2014-07-13 05:31:27,"Plow, 1299 18th St, San Francisco",37.7626490352,-122.395442269
+16,2014-06-29 02:19:25,"20th Century Cafe, 198 Gough St, San Francisco",37.7750062286,-122.422589077
+17,2014-03-30 08:14:18,"Big Bottom Market, 16228 Main St, Guerneville",38.5020933167,-122.9980397
+18,2014-01-19 05:57:12,"Tacolicious, 741 Valencia St, San Francisco",37.7609920052,-122.421438743
+19,2013-12-19 05:57:22,"Little Shanghai Restaurant, 17 E 25th Ave, San Mateo",37.5449877977,-122.305372
+20,2013-11-18 07:33:38,"Woodhouse Fish Co., 2073 Market St, San Francisco",37.7676827891,-122.428507805
+21,2013-10-25 03:36:18,"Huckleberry Cafe & Bakery, 1014 Wilshire Blvd, Santa Monica",34.0239065561,-118.492055843
+22,2013-09-25 23:14:11,"Duboce Park Cafe, 2 Sanchez St, San Francisco",37.7692075112,-122.431415256
+23,2013-09-22 04:13:41,"Nopa, 560 Divisadero St, San Francisco",37.774948211,-122.437658389
+24,2013-09-03 04:59:34,"Sol Food Puerto Rican Cuisine, 901 Lincoln Ave, San Rafael",37.9718486132,-122.524133605
+25,2013-07-23 23:59:34,"Nopa, 560 Divisadero St, San Francisco",37.774948211,-122.437658389
+26,2013-07-22 05:17:32,"Kitchen Story, 3499 16th St, San Francisco",37.7643662527,-122.430895439
+27,2013-07-18 00:51:13,"Craftsman Table & Tap, 6712 Frank Lloyd Wright Ave, Middleton",43.1065967255,-89.4978434347
+28,2013-06-29 23:13:50,"Galeries Lafayette Haussmann, 40 boulevard Haussmann, Paris",48.8733748031,2.33207409867
+29,2013-06-28 06:14:17,"Caffe Soprano, 2 rue Dupetit-Thouars, Paris",48.864813604,2.36302159616
+30,2013-06-05 13:12:35,"Lemonade LAX, Terminal 5, Los Angeles",33.9411581481,-118.404389627
+31,2013-05-13 13:59:30,"Limon Rotisserie, 524 Valencia St, San Francisco",37.764466,-122.421841
+32,2013-05-13 04:07:24,"Universal Cafe, 2814 19th St, San Francisco",37.76049396,-122.410557
+33,2013-04-28 07:54:26,"Domo Sushi, 511 Laguna St, San Francisco",37.7760320111,-122.42610991
+34,2013-04-27 12:41:21,"Bar Crudo, 655 Divisadero St, San Francisco",37.7757107962,-122.43806758
+35,2013-02-16 04:05:36,"GL Alfieri, 1 Ferry Building, San Francisco",37.7956761494,-122.39372185
+36,2013-01-09 12:34:25,"Delarosa, 2175 Chestnut St, San Francisco",37.8003875735,-122.439123729
+37,2012-12-07 03:31:40,"Ayola, 118 New Montgomery St, San Francisco",37.7871597133,-122.400111046
+38,2012-12-01 11:07:58,"Tempest Oyster Bar, 120 E Wilson St, Madison",43.074124874,-89.3795673337
+39,2012-11-18 11:01:04,"Roam Artisan Burgers, 1785 Union St, San Francisco",37.7979727463,-122.42854517
+40,2012-11-17 14:11:48,"Marlowe, 500 Brannan St, San Francisco",37.7783233214,-122.396792031
+41,2012-10-31 11:16:04,"Bi-Rite Creamery, 3692 18th St, San Francisco",37.7614679284,-122.425735838
+42,2012-10-30 11:34:20,"Copita Tequileria y Comida, 739 Bridgeway, Sausalito",37.8564228808,-122.47998476
+43,2012-10-25 03:27:50,"Pork Store Cafe, 1451 Haight St, San Francisco",37.7701719651,-122.446210384
+44,2012-10-19 05:54:36,"The Butler & The Chef Bistro, 155A South Park Avenue, San Francisco",37.7809567195,-122.394293547
+45,2012-10-15 03:24:22,"Cafe Reverie, 848 Cole St, San Francisco",37.766055,-122.449882
+46,2012-10-01 04:07:20,"Blue Front Cafe, 1430 Haight St, San Francisco",37.77026505,-122.446003417
+47,2012-09-17 00:46:05,"Tacolicious, 741 Valencia St, San Francisco",37.7609920052,-122.421438743
+48,2012-09-16 01:40:39,"Monk19s Kettle, 3141 16th St, San Francisco",37.7648027162,-122.422926432
+49,2012-09-09 11:18:18,"The Marshall Store, 19225 State Route 1, Marshall",38.1516686647,-122.888174057
+50,2012-08-28 07:17:13,"The Breslin, 16 W 29th St, New York",40.7458373458,-73.9879926535
+51,2012-08-26 04:54:45,"Dairy King, 232 S Main St, Plymouth",42.37174989,-83.4683348167
+52,2012-08-12 11:27:55,"Great Dane Pub & Brewing Company, 123 E Doty St, Madison",43.0746871096,-89.3803908049
+53,2012-08-12 10:50:21,"Madison's, 119 King St, Madison",43.074595,-89.380618
+54,2012-08-05 06:19:14,"Chicago Bagel Authority, 955 W Belmont Ave, Chicago",41.9398295134,-87.6538013667
+55,2012-07-28 01:34:08,"Panhead, BBQ and Tavern, 5701 Old US Highway 40, Kingdom City",38.9488329615,-91.9368065874
+56,2012-07-23 05:13:12,"Bradbury's Coffee, 127 N Hamilton St, Madison",43.0772846383,-89.3841193442
+57,2012-07-01 23:33:43,"Milk & Honey Caf, 1920 W Division St, Chicago",41.9032846214,-87.6757024521
+58,2012-06-18 02:48:39,"Fiskmarkaurinn | Fish Market, Aalstrti 12, Reykjavk",64.1476517146,-21.9420910801
+59,2012-06-16 18:58:29,"The Chelsea Quarter Cafe, 219 Kings Rd, Kensington",51.4866534651,-0.170758254601
+60,2012-06-10 05:31:15,"Blue Lagoon, Bla Lni, Grindavk",63.8801741074,-22.4491453171
+61,2012-05-30 07:38:05,"Numero 28, 28 Carmine St, New York",40.730181643,-74.0026241541
+62,2012-05-27 23:17:56,"Mickey's Tavern, 1524 Williamson St, Madison",43.087856484,-89.3586649283
+63,2012-05-27 23:08:14,"Mickey's Tavern, 1524 Williamson St, Madison",43.087856484,-89.3586649283
+64,2012-05-21 08:43:49,"The Alchemy Cafe, 1980 Atwood Ave, Madison",43.0923563643,-89.3552719444
+65,2012-05-21 00:39:30,"Cafe Zoma, 2326 Atwood Ave, Madison",43.0936057555,-89.3476239486
+66,2012-05-15 00:49:59,"Gino's, 6509 Century Ave, Middleton",43.1038518339,-89.49211881
+67,2012-04-29 14:05:33,"Umami Ramen & Dumpling Bar, 923 Williamson St, Madison",43.0799047428,-89.3687958819
+68,2012-04-15 12:02:15,"Lillie's Q, 1856 W North Ave, Chicago",41.9104854138,-87.6751041412
+69,2012-04-07 21:43:21,"Tony19s Pizza Napoletana, 1570 Stockton St, San Francisco",37.800328012,-122.409040332
+70,2012-04-03 11:18:15,"Starbucks, 1899 Union St, San Francisco",37.797642,-122.430404
+71,2012-04-03 02:38:47,"Sushi Hana, 800 Van Ness Ave, San Francisco",37.7829892063,-122.420775083
+72,2012-04-02 01:28:00,"Sightglass Coffee, 270 7th St, San Francisco",37.7770249037,-122.408529808
+73,2012-04-02 00:09:08,"Tacko, 3115 Fillmore St, San Francisco",37.7983216806,-122.435916542
+74,2012-04-02 00:03:33,"Muir Woods National Monument, 1 Muir Woods Rd, Mill Valley",37.892822,-122.572462
+75,2012-04-01 23:58:37,"Starbelly, 3583 16th St, San Francisco",37.7641969538,-122.432590127
+76,2012-04-01 23:55:49,"Tommy's Joynt, 1101 Geary Blvd, San Francisco",37.7855525354,-122.421603799
+77,2012-04-01 23:52:05,"Samovar Tea Lounge, 730 Howard St, San Francisco",37.784282779,-122.402265072
+78,2012-04-01 23:49:11,"Delarosa, 2175 Chestnut St, San Francisco",37.8003875735,-122.439123729
+79,2012-04-01 23:44:59,"Philz Coffee, 748 Van Ness Ave, San Francisco",37.7824469992,-122.420450449
+80,2012-03-30 22:36:45,"Philz Coffee, 748 Van Ness Ave, San Francisco",37.7824469992,-122.420450449
+81,2012-03-25 06:20:29,"Blue River Sports, 600 S. Park St, Breckenridge",39.4774485704,-106.046093865
+82,2012-03-02 01:44:16,"Cafe Lalo, 201 W 83rd St, New York",40.7858994421,-73.9768590806
+83,2011-12-15 12:12:27,"Prime One Twelve, 112 Ocean Dr, Miami Beach",25.7698500466,-80.1330693878
+84,2011-11-02 08:26:47,"Eno Vino Wine Bar and Bistro, 601 Junction Rd, Madison",43.0730886754,-89.5250558853
+85,2011-09-26 01:22:31,"farm : table, 754 Post St, San Francisco",37.7875945657,-122.414143786
+86,2011-09-21 23:15:40,"The Oympic Club Golf Course, 599 Skyline Blvd, San Francisco",37.7082866603,-122.494833469
+87,2011-09-16 09:53:28,"Eno Vino Wine Bar and Bistro, 601 Junction Rd, Madison",43.0730886754,-89.5250558853
+88,2011-08-24 20:23:02,"Barriques, 8410 Old Sauk Rd, Middleton",43.0753101545,-89.528196426
+89,2011-05-30 08:26:09,"The Pirates' House, 20 E Broad St, Savannah",32.0782176441,-81.0841510532
+90,2011-05-23 02:02:50,"Maudie's Cafe, 2608 W 7th St, Austin",30.2827084064,-97.775674
+91,2011-05-20 22:56:19,"Maggie Mae's, 323 E 6th St, Austin",30.2670568143,-97.7397314005
+92,2011-04-24 05:07:17,"The Biergarten at The Standard, 848 Washington St, New York",40.7405579801,-74.0077799625
+93,2011-04-24 05:05:29,"Caliente Cab Co., 57 7th Ave S, New York",40.7319956719,-74.0035817027
+94,2011-03-20 05:02:02,"The London Cleaners, 778 N Milwaukee St, Milwaukee",43.040657,-87.906675
+95,2010-12-20 05:18:44,"Colectivo Coffee, 1701 N Lincoln Memorial Dr, Milwaukee",43.0535661022,-87.8867959841
+96,2010-11-10 09:17:25,"Comet Cafe, 1947 N Farwell Ave, Milwaukee",43.0561422339,-87.8894877434
+97,2010-08-28 23:07:38,"Riverside Park Tennis Courts, 2808 N. Bartlett Ave., Milwaukee",43.0676818268,-87.8898054781
+98,2010-08-02 18:34:47,"Comet Cafe, 1947 N Farwell Ave, Milwaukee",43.0561422339,-87.8894877434
+99,2010-05-30 01:40:11,"Koppa's Farwell Foods, 1940 N Farwell Ave, Milwaukee",43.0559825167,-87.889268
+100,2009-10-24 09:44:28,"Elsa's On The Park, 833 N Jefferson St, Milwaukee",43.0420140691,-87.9056451178
+101,2009-10-18 11:35:21,"Landmark Lanes, 2220 N Farwell Ave, Milwaukee",43.0596861757,-87.8855451636
+102,2009-10-17 09:22:28,"Lakefront Brewery, 1872 N Commerce St, Milwaukee",43.0548720464,-87.9051708724
+103,2009-10-17 04:11:45,"Bartolotta's Pizzeria Piccola, 7606 W State St, Wauwatosa",43.0493686178,-88.007569313

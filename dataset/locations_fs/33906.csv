@@ -1,0 +1,44 @@
+,time,poi,latitude,longitude
+0,2016-08-28 14:10:16,"Sala VIP Pau Casals, Aeroport de Barcelona-El Prat, T1, El Prat de Llobregat",41.2880886849,2.07550889632
+1,2016-01-11 18:08:03,"Domestic Terminal Departure, 30stanbul Atatrk Havaliman31, Bak31rky",40.9801711929,28.8164961774
+2,2016-01-11 18:01:47,"International Terminal Departure, 30stanbul Atatrk Havaliman31, Bak31rky",40.9780979033,28.8192163417
+3,2015-12-29 09:03:45,"Buckley's Tavern, 5812 Kennett Pike, Wilmington",39.8226492346,-75.6176063804
+4,2015-12-11 14:58:29,"Istanbul Atatrk Airport (IST), Ye5filky Mah., Bak31rky",40.979866108,28.8173953164
+5,2015-10-25 13:45:13,"Berlin Tegel Otto Lilienthal Airport (TXL), Flughafen Tegel, Berlin",52.5551297869,13.2917087496
+6,2015-10-25 13:42:45,"Berlin Tegel Otto Lilienthal Airport (TXL), Flughafen Tegel, Berlin",52.5551297869,13.2917087496
+7,2015-07-18 19:59:09,"Terminal 1, Aeroport de Barcelona-El Prat, El Prat de Llobregat",41.2885702756,2.07320098875
+8,2015-05-15 20:04:43,"Presse & Tabak, Hausvogteiplatz 13, Berlin",52.5130705608,13.3969473839
+9,2015-03-15 23:39:01,"Local Blend, 587 Green Lanes, London",51.5840202168,-0.100116648697
+10,2015-03-08 20:08:06,"Granier Bakery, 4 High Rd, London",51.5907491786,-0.103639594842
+11,2015-01-05 16:21:02,"The Imp, 863 Albany Hwy, East Victoria Park",-31.98511575,115.903505
+12,2014-11-24 06:59:22,"Hilo International Airport (ITO), 2450 Kekuanaoa St Ste 215, Hilo",19.7188785766,-155.047645569
+13,2014-10-09 00:20:46,"De Koffie Salon, Utrechtsestraat 130, Amsterdam",52.361268,4.899203
+14,2014-08-29 00:23:18,"Klunkerkranich, Karl-Marx-Str. 66, Berlin",52.4821224283,13.4313914813
+15,2014-03-17 03:06:42,"Concourse E, Central Terminal, Miami",25.7950634669,-80.2804475551
+16,2014-03-15 05:58:46,"South Pointe Park, 1 Ocean Dr, Miami Beach",25.7664677742,-80.1335219241
+17,2014-03-14 03:01:25,"Park @ 420, 1601 Drexel Ave. Miami Beach FL 33139, Miami Beach",25.7892744975,-80.1328512972
+18,2013-12-13 04:30:53,"Brussels Airport (BRU), Leopoldlaan,  Zaventem",50.8980798728,4.4816493988
+19,2013-12-13 04:30:21,"Pier A, Leopoldlaan,  Zaventem",50.9027351272,4.4831943512
+20,2013-10-22 21:17:06,"Kaiser Kiosk, Hauptstrae 18, Berlin",52.4867293143,13.3570262329
+21,2013-10-16 20:24:23,"Pure Origins, Georgenstr. 193, Berlin",52.520111,13.390958
+22,2013-09-18 02:47:43,"Big Fisherman Seafood, Magazine, New Orleans",29.923487,-90.08786108
+23,2013-08-23 23:53:43,"Tasty Donuts, 8120 Santa Monica Blvd, West Hollywood",34.0911198878,-118.367552662
+24,2013-08-09 15:52:22,"KaffeeBar, Graefestr. 8, Berlin",52.4942561309,13.4187261097
+25,2013-06-21 15:32:59,"Baci's Coffee, Knigin-Luise-Str. 39, Berlin",52.45810106,13.292151
+26,2013-06-18 21:45:52,"Pure Origins, Georgenstr. 193, Berlin",52.520111,13.390958
+27,2013-06-16 06:05:01,"Jin Stav, Rumunsk 15, Praha",50.0740518631,14.432368865
+28,2013-06-14 06:00:35,"U Bejka Restaurant Bar, Lineck 41, 0cesk Krumlov",48.808861334,14.3147939444
+29,2013-04-27 23:53:08,"Dialogue Books, Schnleinstrae 31, Berlin",52.4923708821,13.4213876724
+30,2013-04-15 21:55:11,"Tire Bouchon, Schnleinstr. 10, Berlin",52.4915085922,13.4200143814
+31,2013-03-10 22:18:09,"S Greifswalder Strae, Greifswalder Str. 80, Berlin",52.5406147108,13.4386694545
+32,2013-02-21 02:30:10,"Aroma Espresso Bar, 540 Collins Ave, Miami Beach",25.7750537853,-80.1328840108
+33,2013-02-19 06:35:25,"Bro South Beach, 1815 Purdy Ave, Miami Beach",25.7939335966,-80.1441803709
+34,2012-07-13 11:15:24,"Island Creek Oyster Bar, 500 Commonwealth Ave, Boston",42.3487163948,-71.0951632261
+35,2012-04-10 22:05:20,"St. Oberholz, Rosenthaler Str. 72, Berlin",52.5295503485,13.4017406525
+36,2012-01-12 14:57:30,"Pan Pacific Park, 7600 Beverly Blvd, Los Angeles",34.0738350776,-118.354815328
+37,2011-11-01 04:47:09,"The Westin Peachtree Plaza, 210 Peachtree St NW, Atlanta",33.7595440551,-84.3884164095
+38,2011-10-25 05:15:22,"Taste Bakery Cafe, 900 Alton Rd, Miami Beach",25.7793342365,-80.1411223412
+39,2011-10-20 18:25:14,"Miami International Airport (MIA), 2100 NW 42nd Ave, Miami",25.7967085102,-80.2783629234
+40,2011-08-06 02:02:13,"Kappo Honda, 18450 Brookhurst St, Fountain Valley",33.6948287,-117.95388808
+41,2010-12-22 11:08:46,"The River Oyster Bar, 650 S Miami Ave, Miami",25.7674263339,-80.1933501483
+42,2010-10-09 07:54:01,"The Dean Swift, 10 Gainsford St, London",51.5028010745,-0.0751345486623

@@ -1,0 +1,138 @@
+,time,poi,latitude,longitude
+0,2016-07-10 00:21:27,"Wigwam Bar, 300 E Wigwam Blvd, Litchfield Park",33.4954452515,-112.355812073
+1,2016-07-10 00:20:47,"Fallout Games, 13843 N Tatum Blvd #12, Phoenix",33.6128565042,-111.977304455
+2,2016-07-10 00:17:17,"Fran's Chocolates, 5900 Airport Way S, Seattle",47.5499791709,-122.317628542
+3,2016-07-10 00:16:07,"Hallava Falafel, 5825 Airport Way S, Seattle",47.5500964616,-122.318179766
+4,2016-07-10 00:14:28,"Sheraton Seattle Hotel, 1400 6th Ave, Seattle",47.6109565099,-122.333847171
+5,2016-07-10 00:09:20,"Country Boys Restaurant, 3202 E Greenway, Phoenix",33.6268941734,-112.011770858
+6,2016-07-10 00:08:26,"Desert Jade Restaurant, 3301 E Indian School Rd, Phoenix",33.49499859,-112.01222615
+7,2016-07-10 00:07:38,"Rocket Donuts, 1021 Harris Ave, Bellingham",48.7202418771,-122.503524878
+8,2016-07-10 00:02:27,"Portage Bay Cafe & Catering, 2821 NW Market St, Seattle",47.668577,-122.39433375
+9,2016-07-09 23:59:43,"The Seattle Great Wheel, 1301 Alaskan Way, Seattle",47.6062831663,-122.342250877
+10,2016-07-09 23:58:37,"Lecosho, 89 University St, Seattle",47.6065667204,-122.339000167
+11,2016-07-09 23:55:25,"Lola, 2000 4th Ave, Seattle",47.6131791919,-122.340005636
+12,2016-06-07 09:33:21,"Bink's, 2320 E Osborn Rd, Phoenix",33.4877934064,-112.031449129
+13,2016-06-07 09:31:58,"El Guero Canelo, 5131 W McDowell Rd, Phoenix",33.4656108919,-112.170356512
+14,2016-06-07 09:30:25,"My Pie Pizza, 12601 N. Tatum Blvd., Phoenix",33.6001599,-111.9786989
+15,2016-06-07 09:28:50,"The Oink Caf, 4326 E Cactus Rd, Phoenix",33.5996338306,-111.989117393
+16,2016-06-07 09:26:56,"Salty Sow, 4801 E Cactus Rd, Scottsdale",33.5973973679,-111.977519872
+17,2016-06-07 09:23:54,"O.H.S.O. Paradise Valley, 10810 N Tatum Blvd, Phoenix",33.5840502416,-111.979586702
+18,2016-06-07 09:21:46,"T. Cook's, 5200 E Camelback Rd, Phoenix",33.5050287151,-111.968495666
+19,2016-06-07 09:19:44,"Pomo Pizzeria Napoletana, 705 N 1st St Ste 120, Phoenix",33.4560224312,-112.072371321
+20,2016-06-07 09:14:34,"Angry Crab Shack and BBQ, 2808 E Indian School Rd, Phoenix",33.4961453875,-112.021243226
+21,2016-06-07 09:10:41,"The Vic Bar & Kitchen, 5325 N. Verrado Way, Buckeye",33.5135877474,-112.511515498
+22,2016-06-07 09:08:16,"Shake Shack, 100 E Camelback Rd, Phoenix",33.5106603503,-112.073326106
+23,2016-06-07 09:03:49,"32 Shea, 10626 N 32nd St, Phoenix",33.5833598353,-112.013468742
+24,2016-06-07 09:01:52,"Wright's at the Biltmore, 2400 E Missouri Ave, Phoenix",33.5232632151,-112.022436731
+25,2016-06-07 08:58:18,"Cold Beers & Cheeseburgers, 4222 N Scottsdale Rd, Scottsdale",33.4974229298,-111.926361322
+26,2016-06-07 08:53:07,"Relish Burger Bistro, 6000 E Camelback Rd, Scottsdale",33.5060844816,-111.948124159
+27,2016-06-07 08:45:25,"Otro Cafe, 6035 N 7th St, Phoenix",33.5252528554,-112.064564192
+28,2016-06-07 08:44:23,"Desert Botanical Garden, 1201 N Galvin Pkwy, Phoenix",33.4619282416,-111.944782265
+29,2016-06-07 08:43:21,"Mother Bunch Brewing, 825 N 7th St #102, Phoenix",33.457334,-112.064827
+30,2016-06-07 08:35:26,"Hopdoddy Burger Bar, 11055 N Scottsdale Rd, Scottsdale",33.586023318,-111.925749779
+31,2016-06-07 08:32:05,"The Baked Bear, 7366 E Shea Blvd, Scottsdale",33.5840251831,-111.922530063
+32,2015-06-14 07:50:45,"Founding Farmers, 1924 Pennsylvania Ave NW, Washington",38.9002388738,-77.0445924997
+33,2015-06-14 07:50:10,"Oohh19s & Aahh19s, 1005 U St NW, Washington",38.9170373783,-77.0262402212
+34,2015-06-14 07:49:51,"Good Stuff Eatery, 303 Pennsylvania Ave SE, Washington",38.8867028579,-77.0018219948
+35,2015-06-14 07:49:24,"Taylor Gourmet, 1910 14th St NW, Washington",38.9158759806,-77.0321846008
+36,2015-06-14 07:49:13,"Ted's Bulletin, 1818 14th St NW, Washington",38.914729165,-77.0321161817
+37,2015-06-14 07:48:26,"Old Ebbitt Grill, 675 15th St NW, Washington",38.8980018706,-77.0334656443
+38,2015-06-14 07:47:37,"Sticky Rice, 1224 H St NE, Washington",38.9003042537,-76.989313553
+39,2015-05-26 00:07:07,"Pizzeria Bianco, 623 E Adams St, Phoenix",33.4491678578,-112.065653801
+40,2015-05-26 00:03:34,"George's Kitchen, 6102 N 16th St Ste 1, Phoenix",33.5256451376,-112.04775637
+41,2015-05-26 00:01:19,"LON's at the Hermosa, 5532 N Palo Cristi Rd, Paradise Valley",33.5184066279,-112.004633085
+42,2015-04-12 23:07:40,"Citizen Public House, 7111 E 5th Ave, Scottsdale",33.497986019,-111.92796795
+43,2014-11-30 23:01:41,"World of Beer, 350 E Congress St Ste A, Tucson",32.22203195,-110.9661859
+44,2014-11-30 23:00:18,"Cowboy Ciao, 7133 E Stetson Dr, Scottsdale",33.4991583964,-111.927525467
+45,2014-10-27 06:15:37,"Morning Squeeze, 4233 N Scottsdale Rd, Scottsdale",33.4977334,-111.9258174
+46,2014-10-27 06:14:17,"Churn, 5223 N Central Ave, Phoenix",33.5135347801,-112.073378563
+47,2014-09-26 07:13:14,"Kona Grill, 5310 E High St, Phoenix",33.6764077932,-111.966884136
+48,2014-09-15 08:04:20,"Everything Bagels, 6025 N 16th St, Phoenix",33.5246515354,-112.047115959
+49,2014-09-15 08:03:09,"Rustler's Rooste, 8383 S 48th St, Phoenix",33.370436397,-111.973298876
+50,2014-09-15 08:01:06,"Phoenix City Grille, 5816 N 16th St, Phoenix",33.52252841,-112.047858383
+51,2014-09-07 03:19:51,"Copper Star Coffee, 4220 N 7th Ave, Phoenix",33.4975073701,-112.083892759
+52,2014-08-11 09:46:03,"Snooze, 2045 E Camelback Rd, Phoenix",33.5081745577,-112.03704402
+53,2014-08-11 09:43:26,"Taylor Gourmet, 1910 14th St NW, Washington",38.9158759806,-77.0321846008
+54,2014-08-11 09:42:26,"The Henry, 4455 E Camelback Rd, Phoenix",33.5089106049,-111.984279276
+55,2014-08-11 09:13:51,"Sweet Republic Phoenix, 6054 N 16th St, Phoenix",33.5250867671,-112.048037052
+56,2014-08-03 21:38:52,"French Grocery, 5345 N 7th Ave, Phoenix",33.516413,-112.082035
+57,2014-07-15 12:39:00,"Barrio Caf, 2814 N 16th St, Phoenix",33.478794,-112.047819783
+58,2014-07-15 12:38:37,"Olive & Ivy Restaurant + Marketplace, 7135 E Camelback Rd Ste 195, Scottsdale",33.5001563856,-111.928340568
+59,2014-07-15 12:37:32,"Nami Soft Serve and Coffee, 2014 N 7th St, Phoenix",33.469951,-112.065355
+60,2014-07-15 12:36:40,"Southern Rail, 300 W Camelback Rd, Phoenix",33.5095318476,-112.078664746
+61,2014-07-15 12:35:42,"Moto, 6845 N 16th St, Phoenix",33.5373917833,-112.047193
+62,2014-07-15 12:34:56,"Black Bart's Steakhouse, 2760 E Butler Ave, Flagstaff",35.194309105,-111.616957786
+63,2014-07-15 12:32:25,"Schaffer's Bridal, 15222 N Kierland Blvd, Scottsdale",33.6260939685,-111.927251827
+64,2014-07-15 12:31:52,"Humble Pie, 21050 N Tatum Blvd, Phoenix",33.6780077649,-111.978538732
+65,2014-05-31 12:50:03,"Brush Bar, 4165 N Craftsman Ct, Scottsdale",33.496829925,-111.92761355
+66,2014-05-31 12:47:25,"Culinary Dropout, 5632 N 7th St, Phoenix",33.5195562017,-112.065350146
+67,2014-05-31 12:43:23,"Dahl & DiLuca, 2321 W State Route 89A, Sedona",34.8629665375,-111.800803
+68,2014-05-31 12:41:55,"Delux Burger, 3146 E Camelback Rd, Phoenix",33.5112000448,-112.014080286
+69,2013-11-11 11:09:45,"Todd English's Olives, 3600 Las Vegas Blvd S, Las Vegas",36.1139686259,-115.174131854
+70,2013-11-11 11:09:03,"Gordon Ramsay Pub & Grill, 3570 Las Vegas Blvd S, Las Vegas",36.1177240471,-115.175353515
+71,2013-11-11 11:07:31,"Wolfgang Puck Bar & Grill, 3799 Las Vegas Blvd S, Las Vegas",36.1018910096,-115.171694756
+72,2013-10-30 05:21:49,"Richardson's Cuisine of New Mexico, 6335 N 16th St, Phoenix",33.5305671272,-112.047185822
+73,2013-08-31 20:35:42,"Moto, 6845 N 16th St, Phoenix",33.5373917833,-112.047193
+74,2013-08-31 20:34:37,"FEZ, 105 W Portland St, Phoenix",33.4916162031,-112.073432207
+75,2013-08-31 20:30:15,"The Habit Burger Grill, 745 E. Glendale Ave., Phoenix",33.5380762,-112.063203
+76,2013-08-31 20:28:38,"Matt's Big Breakfast, 116 East Garfield Street, Phoenix",33.4574568973,-112.072348595
+77,2013-08-31 20:27:05,"Daily Dose Midtown Bar & Grill, 1928 E Highland Ave Ste F107, Phoenix",33.5058245684,-112.041270746
+78,2013-08-19 05:13:53,"Cooper's Hawk Winery & Restaurant, 798 W Algonquin Rd, Arlington Heights",42.0507104439,-87.9918548832
+79,2013-07-29 12:24:48,"BoSa Donuts, 3722 E Indian School Rd, Phoenix",33.4953972,-112.0010971
+80,2013-06-27 23:22:06,"Matt's Big Breakfast, 116 East Garfield Street, Phoenix",33.4574568973,-112.072348595
+81,2013-06-26 11:28:49,"O.H.S.O. Eatery + nanoBrewery, 4900 E Indian School Rd, Phoenix",33.4949725579,-111.975808186
+82,2013-02-10 22:20:34,"Comfort Inn, 20157 Ventura Blvd, Woodland Hills",34.1706797889,-118.572923541
+83,2012-12-31 06:59:11,"DV Nails, 1747 E Camelback Rd, Phoenix",33.5085163416,-112.043762531
+84,2012-11-25 02:56:31,"Continental Hair, 5620 N 7th St, Phoenix",33.5191525436,-112.065385077
+85,2012-11-05 14:00:07,"Arcadia Tavern, 4801 E Indian School Rd, Phoenix",33.4943620733,-111.977799331
+86,2012-10-18 19:07:46,"Pat's King of Steaks, 1237 E Passyunk Ave, Philadelphia",39.933178408,-75.1592624187
+87,2012-09-28 21:10:58,"One Ocean Resort & Spa, 1 Ocean Blvd, Atlantic Beach",30.3249704527,-81.3952887305
+88,2012-09-11 23:37:09,"Einstein Bros Bagels, 1550 N Dysart Rd Ste A1, Goodyear",33.46378618,-112.3415999
+89,2011-10-16 00:40:24,"Chelsea's Kitchen, 5040 N 40th St, Phoenix",33.5112790881,-111.995719577
+90,2011-10-16 00:37:41,"Ticoz, 5114 N 7th St, Phoenix",33.511679,-112.065361383
+91,2011-10-16 00:36:46,"Gallagher's, 7575 N 16th St, Phoenix",33.5466272438,-112.047011164
+92,2011-09-26 01:09:53,"Cibo, 603 N 5th Ave, Phoenix",33.4549908566,-112.079923153
+93,2011-09-26 01:07:49,"Pappadeaux Seafood Kitchen, 11051 N Black Canyon Hwy, Phoenix",33.5877694149,-112.11593592
+94,2011-09-26 01:05:17,"Different Pointe Of View, 11111 N 7th St, Phoenix",33.5917104777,-112.063341597
+95,2011-09-26 00:57:24,"Roof Terrace Restaurant & Bar, 2700 F St NW, Washington",38.8953133285,-77.0559713342
+96,2011-09-26 00:56:02,"Filomena Ristorante, 1063 Wisconsin Ave NW, Washington",38.9043181823,-77.0626721928
+97,2011-09-26 00:55:05,"Zaytinya, 701 9th St NW, Washington",38.898605199,-77.0239853511
+98,2011-09-26 00:52:31,"Ben's Chili Bowl, 1213 U St NW, Washington",38.9170458695,-77.0288492954
+99,2011-09-26 00:51:18,"H Street Country Club, 1335 H St NE, Washington",38.900024,-76.98709711
+100,2011-09-26 00:50:16,"Rock & Roll Hotel, 1353 H St NE, Washington",38.9000041577,-76.9866361298
+101,2011-09-26 00:49:47,"Marvin, 2007 14th St NW, Washington",38.9171156145,-77.031712532
+102,2011-09-26 00:48:48,"ChurchKey, 1337 14th St NW, Washington",38.908492,-77.031603
+103,2011-09-26 00:48:06,"Cafe Saint-Ex, 1847 14th St NW, Washington",38.9154147644,-77.0317232609
+104,2011-09-26 00:47:23,"El Centro D.F. 14th Street, 1819 14th St NW, Washington",38.9146780646,-77.0317205787
+105,2011-09-26 00:44:56,"Stoney's Restaurant, 1433 P St NW, Washington",38.9097901909,-77.0333057642
+106,2011-09-26 00:43:13,"sweetgreen, 1471 P St NW, Washington",38.9098910685,-77.0340362191
+107,2011-09-26 00:42:30,"Sticky Fingers Bakery, 1370 Park Rd NW, Washington",38.9304246625,-77.0318439603
+108,2011-09-26 00:42:02,"Lauriol Plaza Restaurant, 1835 18th St NW, Washington",38.9153376549,-77.0415621036
+109,2011-09-26 00:40:54,"Logan Tavern, 1423 P St NW, Washington",38.909668773,-77.0329258611
+110,2011-09-16 14:20:45,"Scott's Generations Deli, 5555 N 7th St Ste 108, Phoenix",33.5183158709,-112.063668966
+111,2011-09-16 14:19:13,"Tomo Japanese Cuisine, 1550 N Dysart Rd Ste A7-9, Goodyear",33.463303,-112.34157051
+112,2011-09-16 14:16:40,"Beyond Bread, 421 W Ina Rd, Tucson",32.3365327359,-110.976116957
+113,2011-09-16 14:15:13,"Nakama Sushi Restaurant & Lounge, 13215 W McDowell Rd Ste D3, Goodyear",33.4631123219,-112.343466085
+114,2011-09-16 14:14:12,"Stoney's Restaurant, 1433 P St NW, Washington",38.9097901909,-77.0333057642
+115,2011-09-16 14:12:12,"P.F. Chang's, 14681 West McDowell Road, Goodyear",33.46363,-112.37468
+116,2011-09-16 14:10:37,"University of Phoenix Stadium, 1 Cardinals Dr, Glendale",33.5277977922,-112.262493416
+117,2011-09-16 14:06:42,"Fajitas: A Sizzlin' Celebration, 9841 N Black Canyon Hwy, Phoenix",33.5762547443,-112.116436591
+118,2011-09-16 14:05:19,"Cibo, 603 N 5th Ave, Phoenix",33.4549908566,-112.079923153
+119,2011-09-06 04:06:49,"The Home Depot, 5902 W Peoria Ave, Glendale",33.5834000563,-112.187892795
+120,2011-06-15 13:50:44,"Zinburger, 2502 E Camelback Rd, Phoenix",33.5102423001,-112.028200477
+121,2011-04-14 04:34:36,"Blanco, 2905 E Skyline Dr, Tucson",32.324796,-110.929654
+122,2011-02-15 04:50:00,"Pig On Beale, 167 Beale St, Memphis",35.1396310329,-90.05234495
+123,2010-09-26 20:04:45,"China Taste | Tokyo Express, 155 Rollins Ave, Rockville",39.0587588625,-77.1243733677
+124,2010-09-26 20:03:46,"Reading Terminal Market, 51 N 12th St, Philadelphia",39.9532317288,-75.1594090172
+125,2010-09-26 20:01:58,"City Tavern, 138 S 2nd St, Philadelphia",39.9472247234,-75.1443938359
+126,2010-09-26 19:59:48,"The Continental Mid-Town, 1801 Chestnut St, Philadelphia",39.9517787372,-75.1704418659
+127,2010-03-07 20:58:06,"Mission Bar & Grill, Terminal 3, San Francisco",37.6187356003,-122.384734154
+128,2010-03-01 07:40:05,"Italian Kitchen on U, 1110 U St NW, Washington",38.9170122421,-77.0276853404
+129,2009-12-01 11:43:46,"Alero Restaurant, 1301 U St NW, Washington",38.9171211042,-77.02991765
+130,2009-10-28 06:44:39,"Rak, 7240 Woodmont Ave, Bethesda",38.9815300536,-77.0957422256
+131,2009-10-14 23:43:57,"Lia's, 4435 Willard Ave, Chevy Chase",38.9617492449,-77.0873362348
+132,2009-09-21 11:51:48,"Good Stuff Eatery, 303 Pennsylvania Ave SE, Washington",38.8867028579,-77.0018219948
+133,2009-09-21 11:49:45,"H Street Country Club, 1335 H St NE, Washington",38.900024,-76.98709711
+134,2009-09-12 23:08:37,"Tono Sushi, 2605 Connecticut Ave NW, Washington",38.9239024713,-77.0516369397
+135,2009-09-12 23:06:17,"Cleveland Park Bar & Grill, 3421 Connecticut Ave NW, Washington",38.9350073414,-77.0578995557
+136,2009-08-06 22:46:23,"Maggiano's Little Italy, 5333 Wisconsin Ave NW, Washington",38.9596069302,-77.0848444104

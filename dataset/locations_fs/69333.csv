@@ -1,0 +1,44 @@
+,time,poi,latitude,longitude
+0,2016-08-07 05:01:09,"Hitchcocktales, a0bfc1afbdbfc5 10, 91b8aebdb1",37.9682698815,23.7300310422
+1,2016-06-26 01:58:39,"The Spotted Pig, 314 W 11th St, New York",40.7357439145,-74.0068217811
+2,2016-06-26 01:58:06,"Fonda Chelsea, 189 9th Ave, New York",40.745515,-74.002263
+3,2016-06-26 01:57:22,"Tacombi Bleecker, 255 Bleecker St, New York",40.7311083512,-74.0028507443
+4,2016-06-26 01:55:28,"Statue of Liberty, Liberty Island, New York",40.6899271764,-74.0446974178
+5,2016-06-22 09:22:29,"Fonda Chelsea, 189 9th Ave, New York",40.745515,-74.002263
+6,2016-04-14 14:35:20,"Joe Fortes Seafood & Chop House, 777 Thurlow St, Vancouver",49.284897,-123.124533
+7,2016-04-14 14:34:45,"Joe Fortes Seafood & Chop House, 777 Thurlow St, Vancouver",49.284897,-123.124533
+8,2016-03-24 11:10:49,"Scampo at The Liberty Hotel, 215 Charles St, Boston",42.3618461503,-71.0705617917
+9,2016-03-23 10:30:51,"McGreevy's, 911 Boylston St, Boston",42.3482892056,-71.0843726993
+10,2016-03-23 10:30:33,"The Liberty Hotel, 215 Charles St, Boston",42.3618675021,-71.0702890369
+11,2016-03-23 10:29:42,"40 Berkeley Hostel, 40 Berkeley St, Boston",42.3459767832,-71.0707497597
+12,2016-03-16 08:48:18,"La Taquera, Passatge de Font, 5, Barcelona",41.40255332,2.175577
+13,2016-03-15 19:36:48,"Collage Art & Cocktails Social Club, C. Consellers, 4, Barcelona",41.3825565737,2.18138859601
+14,2016-03-15 15:23:05,"SALSAMENTERIA DI PARMA, 86 Rue Meynadier, Cannes",43.5515037736,7.01158624673
+15,2016-03-15 15:21:47,"Casa Batll, Pg. de Grcia, 43, Barcelona",41.3918024984,2.16510640517
+16,2016-03-15 15:21:28,"Can Paixano, Reina Cristina, 7, Barcelona",41.3817156663,2.18344288329
+17,2016-03-15 15:17:41,"East Caf Bar, East Pier, Howth",53.3883747685,-6.06363264086
+18,2016-03-15 15:10:46,"Sor Rita Bar, Carrer de la Merc, 27, Barcelona",41.3806546691,2.18076199293
+19,2016-03-15 15:10:00,"Port Pierre Canto, Boulevard de la Croisette, Cannes",43.5414869421,7.03275203705
+20,2016-02-01 08:24:02,"Teeling Whiskey Distillery, 13-17 Newmarket, Dublin",53.3378070086,-6.27714988255
+21,2016-02-01 08:23:52,"Rouge Restaurant Franais/Bar  Vins, 38 Dominick St, Galway",53.2704617509,-9.05726194382
+22,2016-02-01 08:23:11,"Cupn Tae, 8 Quay Ln, The Latin Quarter, Galway",53.2704895735,-9.054086
+23,2016-02-01 08:22:56,"Bierhaus, Henry St, Galway",53.270222,-9.059059
+24,2016-02-01 08:22:35,"The Salt House, Raven Terrace, Galway",53.2699138714,-9.05689341825
+25,2015-11-09 06:59:26,"The Bloody Stream, Harbour Rd, Howth, Dublin",53.3889102283,-6.0741506656
+26,2015-11-09 06:59:07,"Gahan House Pub & Brewery, 126 Sydney St, Charlottetown",46.233445,-63.125934
+27,2015-08-16 02:40:54,"Le Salama - Restaurant, Bar, Marrakech, 40 rue des banques, 4531274334",31.6263626605,-7.98693180084
+28,2014-08-24 01:16:35,"Ting Thai Caravan, 8-9 Teviot Pl, Midlothian",55.9456310066,-3.18986050865
+29,2014-08-20 03:36:28,"East Caf Bar, East Pier, Howth",53.3883747685,-6.06363264086
+30,2014-08-20 03:34:27,"Il Panorama Cafe, Harbour Rd, Howth",53.3879118786,-6.06654004027
+31,2014-08-19 05:49:28,"Jamie's, Unit 1 Howth Village, Dublin",53.3886010683,-6.07363700867
+32,2014-08-10 06:32:47,"The Doghouse - Blue's Tearoom, Harbour Rd, Howth",53.3889310878,-6.07459665622
+33,2014-08-07 07:47:23,"Howth Harbour, Harbour Rd, Dublin",53.3897015982,-6.07095479965
+34,2014-08-07 00:15:29,"D4H Technologies: Lighthouse Office, The Baily Lighthouse, Howth, Dublin",53.3613634896,-6.05228126049
+35,2014-08-07 00:09:38,"The Country Market, Main St, Howth",53.3849099616,-6.064973
+36,2014-08-07 00:05:19,"Octopussy Seafood Tapas Bar, 7-8 West Pier, Howth, Dublin",53.3908413,-6.07098299258
+37,2011-11-24 14:19:10,"Dublin Airport (DUB), Arrivals Rd, Dublin",53.4273838076,-6.24388806116
+38,2011-09-06 08:23:40,"Octopussy Seafood Tapas Bar, 7-8 West Pier, Howth, Dublin",53.3908413,-6.07098299258
+39,2010-04-16 02:37:29,"Burleigh Arms, 9-11 Newmarket Road, Cambridge",52.208309,0.132911
+40,2010-04-15 16:53:01,"BeginSpace, Fitzroy Street, Cambridge",51.52299,-0.141734
+41,2009-11-09 17:02:48,"Open Coffee Cambridge, Begin Space, Cambridge",52.189125,0.136641
+42,2009-11-09 16:59:01,"BeginSpace, Fitzroy Street, Cambridge",51.52299,-0.141734

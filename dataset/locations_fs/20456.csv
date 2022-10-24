@@ -1,0 +1,64 @@
+,time,poi,latitude,longitude
+0,2016-10-24 07:59:09,"The Pit Room, 1201 Richmond Ave, Houston",29.734166,-95.393826
+1,2016-10-23 22:35:09,"Mary's Tacos, 1616 Broadway, Kerrville",30.0363260508,-99.1346288123
+2,2016-10-20 10:27:43,"Salata, 19708 Northwest Fwy #1000, Jersey Village",29.9152287436,-95.6124468202
+3,2016-10-08 06:53:08,"The Blue Fish Bayou Place, 550 Texas St, Houston",29.7619847122,-95.3662078586
+4,2016-09-09 05:40:17,"Rudy & Paco, 2028 Post Office St, Galveston",29.3053177039,-94.7912616359
+5,2016-09-09 05:37:19,"The Tremont House, 2300 Ship's Mechanic Road, Galveston",29.3062209058,-94.7948133945
+6,2016-09-07 09:59:03,"Keller Williams Greater Northwest, 19708 Northwest Fwy #2800, Jersey Village",29.9153936751,-95.6124930065
+7,2016-09-05 01:06:17,"Becks Prime Memorial Park, 1001 E Memorial Loop, Houston",29.7732712255,-95.4330314009
+8,2016-08-07 01:22:56,"Laurenzo's Restaurant, 4412 Washington Ave, Houston",29.770577637,-95.4056668095
+9,2016-08-05 08:26:15,"Laurenzo's Restaurant, 4412 Washington Ave, Houston",29.770577637,-95.4056668095
+10,2016-08-05 08:16:24,"Laurenzo's Restaurant, 4412 Washington Ave, Houston",29.770577637,-95.4056668095
+11,2016-08-03 05:07:23,"Keller Williams Greater Northwest, 19708 Northwest Fwy #2800, Jersey Village",29.9153936751,-95.6124930065
+12,2016-07-05 02:59:53,"Laurenzo's Restaurant, 4412 Washington Ave, Houston",29.770577637,-95.4056668095
+13,2016-07-05 00:57:23,"Tacos A Go-Go, 2912 White Oak Dr, Houston",29.7818791538,-95.3899955348
+14,2016-04-03 02:46:49,"Laurenzo's Restaurant, 4412 Washington Ave, Houston",29.770577637,-95.4056668095
+15,2016-03-22 07:27:35,"Laurenzo's Restaurant, 4412 Washington Ave, Houston",29.770577637,-95.4056668095
+16,2016-03-15 11:34:50,"Laurenzo's Restaurant, 4412 Washington Ave, Houston",29.770577637,-95.4056668095
+17,2014-10-09 08:25:19,"The BLVD Hotel and Spa, 10730 Ventura Blvd, Studio City",34.1382166447,-118.36491625
+18,2014-07-21 22:16:47,"Scoma's Sausalito, 588 Bridgeway, Sausalito",37.8540035294,-122.478768611
+19,2014-07-21 22:13:34,"Apple Union Square, 300 Post Street, San Francisco",37.7886,-122.407159
+20,2014-05-23 01:02:38,"Champions School of Real Estate: Galleria, 4543 Post Oak Place Dr Ste 130, Houston",29.7498478826,-95.4494563537
+21,2014-04-13 09:59:41,"JW Marriott Las Vegas Resort & Spa, 221 N Rampart Blvd, Las Vegas",36.1759166769,-115.291401253
+22,2014-04-08 02:38:22,"McRee Ford, 2800 Gulf Fwy, Dickinson",29.4555831645,-95.0832774356
+23,2013-10-13 22:23:54,"Hotel Granduca, 1080 Uptown Park Blvd, Houston",29.7576683767,-95.4580697972
+24,2013-10-06 11:35:43,"Hugo's, 1600 Westheimer Rd, Houston",29.7429868085,-95.3996086121
+25,2013-08-11 22:13:55,"The New Taqueria La Tapatia, 801 S Gordon St, Alvin",29.417674731,-95.2432300505
+26,2013-08-09 07:49:00,"El Tiempo Cantina - Richmond, 3130 Richmond Ave, Houston",29.7343192928,-95.4256493614
+27,2013-07-12 23:06:04,"The Grove, 690 Mission St, San Francisco",37.7865339849,-122.401921749
+28,2013-07-12 08:52:01,"The St. Regis San Francisco, 125 3rd St, San Francisco",37.7860085292,-122.401615631
+29,2013-03-02 23:54:24,"Over Easy, 4730 E Indian School Rd, Phoenix",33.4954408528,-111.979773008
+30,2013-01-22 00:53:57,"Prudential Anderson Properties, 741 E 11th St, Houston",29.7910976028,-95.3882676085
+31,2012-03-29 00:13:56,"Critter Care Hospital, 13040 Dairy Ashford Rd, Sugar Land",29.627838,-95.602908
+32,2012-01-20 07:18:03,"Floyd's Cajun Seafood - Pearland, 1300 Broadway St, Pearland",29.5431969613,-95.2243200643
+33,2011-12-13 04:46:38,"Classy Chassis Car Wash, 475 W Bay Area Blvd, Webster",29.5458819807,-95.132003
+34,2011-12-11 04:00:37,"Wells Fargo, 930 W Bay Area Blvd, Webster",29.5427944925,-95.138068428
+35,2011-12-04 04:14:00,"Cinemark 18, 20915 Gulf Fwy, Webster",29.5262259797,-95.1255233729
+36,2011-11-11 03:47:27,"William P Hobby Airport (HOU), 7800 Airport Blvd, Houston",29.6536697916,-95.2769205136
+37,2011-09-16 21:14:38,"Keller Williams Realty, 18050 Saturn Ln #100, Houston",29.4872159035,-95.1336913387
+38,2011-08-07 00:23:22,"Victory Circle Carwash, 300 W Parkwood Ave, Friendswood",29.508093388,-95.1902938036
+39,2011-07-28 01:20:18,"Kindred Hospital Clear Lake, 350 Blossom St, Webster",29.5435094199,-95.1272739156
+40,2011-05-26 03:03:12,"Memorial Hermann Southeast Hospital, 11800 Astoria Blvd, Houston",29.5826233964,-95.207383383
+41,2011-05-04 01:13:11,"Whataburger, 18190 Gulf Fwy, Friendswood",29.5531923484,-95.1568326659
+42,2011-03-30 20:34:38,"Revention Music Center, 520 Texas St, Houston",29.7624820749,-95.3672397137
+43,2011-03-12 02:19:03,"Discount Tire Store, 707 W Bay Area Blvd, Webster",29.5438137,-95.13491583
+44,2010-11-28 02:54:24,"Pocorello's Casa D'Italia, 12240 Coursey Blvd Ste A11, Baton Rouge",30.4108578804,-91.0428547785
+45,2010-08-28 04:26:26,"Brake Check, 14030, Webster",29.5777375894,-95.1561300405
+46,2010-06-26 05:54:13,"SWBC Mortgage Corporation, 2525 Bay Area Blvd Ste 240, Houston",29.5764,-95.108049
+47,2010-05-12 22:02:04,"Longworth House Office Building, 1 US Capitol, Washington",38.8868406526,-77.0086026192
+48,2010-02-27 07:12:26,"Bayway Volvo, 12353 Gulf Freeway, Houston",29.6198598766,-95.2188098667
+49,2010-02-23 12:02:53,"Hyatt Regency Austin, 208 Barton Springs, Austin",30.2608382987,-97.7468876716
+50,2010-02-11 22:50:46,"Taquerias Arandas, 1837 N Main St, Pearland",29.57479171,-95.28570068
+51,2010-01-29 01:33:56,"Norris Conference Center, 803 Town and Country Village, Houston",29.7807099559,-95.5610331564
+52,2009-12-25 02:31:11,"Discount Tire Store, 2832 Ymca Dr, Pearland",29.55706128,-95.26718975
+53,2009-12-10 05:01:59,"Tony's, 3755 Richmond Ave, Houston",29.73211,-95.435996
+54,2009-11-18 05:58:54,"San Diego International Airport (SAN), 3225 N Harbor Dr, San Diego",32.7322376471,-117.20114743
+55,2009-11-17 01:55:21,"Manchester Grand Hyatt San Diego, One Market Place, San Diego",32.710584,-117.1680844
+56,2009-11-13 07:36:23,"Manchester Grand Hyatt San Diego, One Market Place, San Diego",32.710584,-117.1680844
+57,2009-11-12 22:10:32,"William P Hobby Airport (HOU), 7800 Airport Blvd, Houston",29.6536697916,-95.2769205136
+58,2009-11-12 03:02:51,"Stewart Title, 2625 Bay Area Blvd, Houston",29.5773640614,-95.1078632229
+59,2009-11-05 00:20:41,"HAR Main Office, 3693 Southwest Fwy, Houston",29.7286226982,-95.4341876474
+60,2009-11-03 04:44:12,"Keller Williams Realty, 2734 Sunrise Blvd, Pearland",29.5593556267,-95.3659574603
+61,2009-10-31 07:57:43,"Pappasito's Cantina, 20099 Gulf Fwy, Webster",29.5344081101,-95.1349496841
+62,2009-10-10 02:50:18,"Keller Williams Realty, 2734 Sunrise Blvd, Pearland",29.5593556267,-95.3659574603

@@ -1,0 +1,45 @@
+,time,poi,latitude,longitude
+0,2014-08-24 20:56:46,"Jackson-Medgar Wiley Evers International Airport (JAN), 100 International Dr Ste 300, Jackson",32.3100665664,-90.0748523433
+1,2014-08-11 06:29:30,"Pacific Aquarium & Pet, 46 Delancey St, New York",40.7196391888,-73.9915167688
+2,2014-06-20 22:41:41,"Kansas City International Airport (MCI), 1 International Sq, Kansas City",39.2974431129,-94.7162246704
+3,2014-03-05 01:54:40,"Liberty Towers Apartments, 33-35 Hudson St, Jersey City",40.7133843872,-74.0354773647
+4,2014-02-22 22:12:29,"Thonet, Av. Ignacio de la Roza Oeste 100, Ciudad de San Juan",-31.5372585429,-68.5272967815
+5,2013-11-01 08:49:47,"Sally Lunn's Restaurant & Tearoom, 15 Perry St, Chester",40.784448,-74.696305
+6,2013-10-13 12:53:14,"InterContinental Kansas City At The Plaza, 401 Ward Pkwy, Kansas City",39.0394215673,-94.5924751779
+7,2013-09-16 23:57:46,"Sports Page Pub, Seattle Tacoma International Airport, 17801 International Blvd, Seattle",47.4455393332,-122.301031728
+8,2013-08-18 12:48:39,"Relish Burger Bistro, 1900 5th Ave, Seattle",47.6133383102,-122.337913513
+9,2013-08-13 04:17:23,"The Cricketers Arms, 57 Murray St, New York",40.714216056,-74.0097856522
+10,2013-08-08 22:43:29,"Rapid City Regional Airport (RAP), 4550 Terminal Rd, Rapid City",44.0391318389,-103.060498396
+11,2013-06-25 02:13:38,"City Wok, Concourse B, Dulles",38.9488158434,-77.4532081422
+12,2013-06-05 04:04:52,"American Airlines Admirals Club, Gate D1, Central Terminal, Flushing",40.7750655923,-73.8743448257
+13,2013-05-02 22:43:25,"Legends New York, 6 W 33rd St, New York",40.748202477,-73.9857261399
+14,2013-01-28 02:29:16,"Liberty Towers Apartments, 33-35 Hudson St, Jersey City",40.7133843872,-74.0354773647
+15,2013-01-23 12:19:32,"The Standard Grill, 848 Washington St, New York",40.7406891129,-74.0076184273
+16,2012-11-27 09:47:14,"Bad Daddy's Burger Bar, Gates C4/C6, Concourse C, Charlotte",35.2192759839,-80.9425449371
+17,2012-11-12 21:03:03,"NY Waterway Ferry Terminal Paulus Hook, 30 Hudson St, Jersey City",40.7137747125,-74.0327749496
+18,2012-10-02 08:20:23,"Terminal A, EWR Airport, Newark",40.6870653629,-74.1825199127
+19,2012-09-13 21:00:13,"DoubleTree by Hilton Hotel San Diego - Mission Valley, 7450 Hazard Center Dr, San Diego",32.7700097242,-117.160002288
+20,2012-09-03 00:22:39,"MTA Bus - W 42 St & 8 Av (M42), W 42nd St, New York",40.7571606177,-73.9899385671
+21,2012-08-31 23:34:22,"The Home Depot, 180 Twelfth Street, Jersey City",40.7307873411,-74.0404057503
+22,2012-08-22 07:01:41,"Sky Thai, 62 Morris St, Jersey City",40.7136542914,-74.0364068489
+23,2012-07-24 19:47:36,"Toronto Pearson International Airport (YYZ), 3111 Convair Dr., Mississauga",43.6813866458,-79.6127449908
+24,2012-05-02 04:19:23,"McCarran International Airport (LAS), 5757 Wayne Newton Blvd, Las Vegas",36.0826179726,-115.147647873
+25,2012-04-30 03:24:24,"Gate S5, South Satellite, SeaTac",47.4387702757,-122.302336693
+26,2012-04-21 01:50:14,"Apple Grand Central, 45 Grand Central Terminal, New York",40.752735,-73.977002
+27,2012-03-24 04:09:53,"Loblaws, 60 Carlton St, Toronto",43.6619393114,-79.3795611818
+28,2012-03-21 06:24:57,"Fairway Market, 2328 12th Ave, New York",40.8198787851,-73.9596403226
+29,2012-03-20 06:07:31,"Adorama, 42 W 18th St, New York",40.7393717654,-73.9941222078
+30,2012-03-05 05:08:09,"DFW Airport Travel Lounge, Terminal C, near Gate 27, Dallas",32.8960132594,-97.036410086
+31,2012-03-05 04:50:08,"Urban Taco, at Gate C22, DFW Airport",32.8970985617,-97.0357748073
+32,2012-02-17 03:37:36,"Revolucion, Terminal 5, Gate 12, Jamaica",40.6457513506,-73.7728568942
+33,2011-11-15 21:44:39,"Terminal 5, John F. Kennedy International Airport, New York",40.6458086031,-73.7755341878
+34,2011-10-17 09:39:43,"Etta's Seafood, 2020 Western Ave, Seattle",47.610587135,-122.344062752
+35,2011-10-08 18:29:55,"Newark Liberty International Airport (EWR), 10 Toler Pl, Newark",40.6948468185,-74.1774574844
+36,2011-09-20 05:22:17,"Pier I Cafe, W. 70th St, New York",40.7798265111,-73.9888858795
+37,2011-09-14 00:44:24,"Kia Motors Manufacturing Georgia, 7777 Kia Pkwy, West Point",32.9172058617,-85.1190447807
+38,2011-09-13 07:56:40,"Hartsfield-Jackson Atlanta International Airport (ATL), 6000 N Terminal Pkwy, Atlanta",33.640741327,-84.4400999711
+39,2011-09-05 05:36:03,"Newark Liberty International Airport (EWR), 10 Toler Pl, Newark",40.6948468185,-74.1774574844
+40,2011-09-05 00:53:54,"Billy Bishop Toronto City Airport Ferry, 2 Bathurst St., Toronto",43.6336621188,-79.3970064799
+41,2011-07-25 04:28:47,"Adorama Rental Co., 50 W 17th St, New York",40.7393731571,-73.99408268
+42,2010-04-04 03:45:48,"Hallo Berlin, 626 10th Ave, New York",40.7612114904,-73.9941430092
+43,2009-07-20 05:02:13,"The Shops at Columbus Circle, 10 Columbus Cir, New York",40.7684634824,-73.9826098026

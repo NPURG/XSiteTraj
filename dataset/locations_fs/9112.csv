@@ -1,0 +1,58 @@
+,time,poi,latitude,longitude
+0,2015-10-19 09:01:01,"Oiji, 119 1st Ave, New York",40.7271841178,-73.9856170977
+1,2014-12-01 01:03:51,"Jing Fong Restaurant d150275213, 20 Elizabeth St, New York",40.7158065322,-73.9970489803
+2,2014-06-03 19:32:50,"Bar Pitti, 268 Avenue of the Americas, New York",40.7293076394,-74.002468586
+3,2014-05-28 16:59:36,"Munich Franz Josef Strauss Airport (MUC), Nordallee 25, Mnchen",48.3541583033,11.7915310247
+4,2014-05-09 06:02:05,"Newark Liberty International Airport (EWR), 10 Toler Pl, Newark",40.6949687915,-74.177669614
+5,2014-04-11 04:52:21,"Four Seasons Hotel, 57 E 57th St, New York",40.7623248006,-73.9712637663
+6,2014-04-07 06:12:06,"Citarella, 424 Avenue of the Americas, New York",40.7343116628,-73.998799324
+7,2014-02-03 03:05:46,"Carbone Ristorante, 331 W 38th St, New York",40.7556151094,-73.9930949574
+8,2013-12-30 05:42:31,"Marismo, Ruta 10, km 185, Jos Igncio",-34.82445,-54.625312
+9,2013-11-10 23:34:34,"Andrade Shoe Repair, 487 Avenue of the Americas, New York",40.7361844651,-73.9975482488
+10,2013-10-12 23:26:44,"Bittersweet, 180 Dekalb Ave, Brooklyn",40.689607,-73.972452
+11,2013-09-29 03:23:17,"Toronto Pearson International Airport (YYZ), 3111 Convair Dr., Mississauga",43.6815125265,-79.6134031366
+12,2013-09-27 18:11:34,"LaGuardia Airport (LGA), Grand Central Pkwy, East Elmhurst",40.7716531197,-73.8676929474
+13,2013-08-30 01:37:56,"Despaa, 408 Broome St, New York",40.7210783364,-73.9978868324
+14,2013-08-23 23:57:58,"Dominique Ansel Bakery, 189 Spring St, New York",40.7250960008,-74.0030747652
+15,2013-08-22 02:29:13,"Hanjan, 36 W 26th St, New York",40.7444780945,-73.9905755883
+16,2013-08-21 23:19:40,"Kind Healthy Snacks, 8 W 38th St, New York",40.751208394,-73.9833616308
+17,2013-08-08 01:25:29,"Bittersweet, 180 Dekalb Ave, Brooklyn",40.689607,-73.972452
+18,2013-08-06 01:55:27,"Locanda Verde, 377 Greenwich St, New York",40.7200408704,-74.0101156132
+19,2013-08-02 21:45:03,"Bitly HQ, 139 5th Ave, New York",40.739876215,-73.9906024933
+20,2013-07-26 21:18:16,"Balthazar, 80 Spring St, New York",40.7227054927,-73.9981985092
+21,2013-07-18 22:37:48,"Petrol, Mednarodni Prehod 4A, 60empeter pri Gorici",45.91934084,13.62763684
+22,2013-07-12 01:32:09,"Galli Restaurant, 45 Mercer St, New York",40.7216282923,-74.0012267272
+23,2013-07-09 00:30:01,"Bittersweet, 180 Dekalb Ave, Brooklyn",40.689607,-73.972452
+24,2013-07-09 00:29:38,"Bittersweet, 180 Dekalb Ave, Brooklyn",40.689607,-73.972452
+25,2013-07-08 07:02:58,"Chicago O'Hare International Airport (ORD), 10000 W Ohare Ave, Chicago",41.97151,-87.89537
+26,2013-07-08 02:14:33,"Albuquerque International Sunport (ABQ), 2200 Sunport Blvd SE, Albuquerque",35.0477122719,-106.616670946
+27,2013-07-07 23:01:56,"Santa Fe Baking Co. Cafe, 504 W Cordova Rd, Santa Fe",35.6727296139,-105.950758701
+28,2013-07-03 23:06:33,"Activate, 156 5th Ave, New York",40.7400491859,-73.9910576569
+29,2013-06-22 01:20:09,"San Francisco International Airport (SFO), N McDonnell Rd, San Francisco",37.6160022626,-122.385954722
+30,2013-06-21 18:42:19,"Newark Liberty International Airport (EWR), 10 Toler Pl, Newark",40.6949687915,-74.177669614
+31,2013-06-17 11:51:42,"Hannover Airport (HAJ), Flughafenstr. 4, Langenhagen",52.4586944334,9.69614582574
+32,2013-06-14 08:54:09,"John F. Kennedy International Airport (JFK), at JFK Access Rd, Queens",40.6443302012,-73.7831292333
+33,2013-05-29 22:42:50,"Everyman Espresso, 301 W Broadway, New York",40.7215249871,-74.0046239486
+34,2013-05-26 21:58:54,"Lucky Lotus Yoga, 184 Dekalb Ave, Brooklyn",40.689574711,-73.9723019991
+35,2013-05-22 12:47:34,"John F. Kennedy International Airport (JFK), at JFK Access Rd, Queens",40.6443302012,-73.7831292333
+36,2013-05-20 04:07:28,"Sushi Zo, 9824 National Blvd, Los Angeles",34.0312067852,-118.400823825
+37,2013-05-18 05:55:04,"Khosla Ventures, 2128 Sand Hill Rd, Menlo Park",37.4240212817,-122.221650481
+38,2013-05-18 02:40:13,"LinkedIn, 2029 Stierlin Ct, Mountain View",37.4233928201,-122.071896061
+39,2013-05-13 02:05:46,"Oslo Coffee, 133 Roebling St, Brooklyn",40.7147365124,-73.9568549395
+40,2013-04-15 20:33:15,"Lufthansa Senator Lounge I (Schengen), Terminal 2, near Gate G28, Mnchen",48.3536413769,11.790769443
+41,2013-04-12 12:53:43,"Mahaneyuda, 1 Mahane Yehuda St., e9dcdd",31.7851677108,35.2112004011
+42,2013-04-10 19:48:41,"Xixa, 241 S 4th St, Brooklyn",40.7103612992,-73.95855546
+43,2013-04-05 23:23:11,"La Quinta Resort & Club, A Waldorf Astoria Resort, 49-499 Eisenhower Dr, La Quinta",33.6884425869,-116.310762903
+44,2013-02-25 06:40:25,"The Dutch, 131 Sullivan St, New York",40.7264375462,-74.0022539339
+45,2013-02-25 04:18:01,"Top Hat, 245 Broome St, New York",40.7180296975,-73.9897377042
+46,2013-02-09 06:09:56,"Kollabora HQ, 39 Wooster St, New York",40.722535,-74.0027
+47,2013-01-18 22:49:15,"La Colombe Torrefaction, 319 Church St, New York",40.7200740452,-74.0039525431
+48,2013-01-16 21:36:08,"Argo Tea, 275 7th Ave, New York",40.7459819076,-73.9942197676
+49,2012-12-04 08:00:27,"Greene Grape Annex, 753 Fulton St, Brooklyn",40.6865568936,-73.9746648073
+50,2012-11-29 04:59:36,"Martha, 184 Dekalb Ave, Brooklyn",40.6895777885,-73.9723766121
+51,2012-11-16 17:21:17,"Delaney Barbecue: BrisketTown, 359 Bedford Ave, Brooklyn",40.7115536868,-73.9631358549
+52,2012-11-01 18:42:42,"Lufthansa Senator Lounge A, Terminal 1, Frankfurt am Main",50.0482657032,8.56687034169
+53,2012-08-28 09:13:09,"Basta Pasta, 37 W 17th St, New York",40.7388022763,-73.9941853347
+54,2012-06-30 04:50:05,"Magnolia Gastropub & Brewery, 1398 Haight St, San Francisco",37.770223,-122.445354
+55,2012-05-17 18:23:45,"Lufthansa Senator Lounge (Non-Schengen), Terminal 2, near Gate H24, Mnchen",48.3544053554,11.7902512363
+56,2012-05-17 16:49:11,"Flughafen Paderborn/Lippstadt (PAD), Flughafenstr. 33, Bren",51.6105470503,8.62000764934

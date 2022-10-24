@@ -1,0 +1,200 @@
+,time,poi,latitude,longitude
+0,2014-09-01 14:06:22,"New York Marriott Marquis, 1535 Broadway, New York",40.7586814127,-73.986122135
+1,2014-08-28 13:04:39,"John Jay Playground, Cherokee Pl, New York",40.769559,-73.949437
+2,2014-04-07 08:55:21,"Arlington Club, 1032 Lexington Ave, New York",40.7714418657,-73.9616131783
+3,2014-02-10 00:47:30,"Barnes & Noble, 150 E 86th St, New York",40.7793732532,-73.955071354
+4,2014-02-08 03:05:58,"Himalayan Eyebrow Threading Salon Inc., 75 W 47th St Unit 2, New York",40.7580261878,-73.9817317095
+5,2014-02-08 02:46:23,"TGI Fridays, 604 5th Ave, New York",40.75753087,-73.97780607
+6,2014-01-27 04:54:08,"Whitney Museum of American Art, 99 Gansevoort St, New York",40.7395219222,-74.0089335127
+7,2014-01-10 13:27:56,"Smugglers' Notch Resort, 4323 VT Route 108 S, Jeffersonville",44.5891667361,-72.786791535
+8,2013-12-07 00:27:03,"Quiropraxia Paulo Henrique Sugimoto, Alameda Dos Arapurus,1438, So Paulo",-23.611385,-46.661943
+9,2013-11-25 08:34:51,"Shopping Iguatemi, Av. Brg. Faria Lima, 2232, So Paulo",-23.5770463012,-46.6883325577
+10,2013-11-15 10:42:06,"Clinic P, Shopping Ibirapuera, So Paulo",-23.61008178,-46.6670465469
+11,2013-11-15 10:41:08,"Design By T, Av. Rouxinol, 741, So Paulo",-23.6049853245,-46.6680561988
+12,2013-11-14 09:15:38,"Quiropraxia Paulo Henrique Sugimoto, Alameda Dos Arapurus,1438, So Paulo",-23.611385,-46.661943
+13,2013-10-24 02:43:59,"Olive Garden, 2 Times Sq, New York",40.7593017542,-73.9849591255
+14,2013-10-07 22:17:11,"New York Public Library, 476 5th Ave, New York",40.7530255355,-73.9814849244
+15,2013-09-30 23:14:16,"New York Public Library, 476 5th Ave, New York",40.7530255355,-73.9814849244
+16,2013-09-12 00:13:40,"Consulate General of Brazil in New York, 225 E 41st St, New York",40.7495208841,-73.9738114725
+17,2013-08-27 08:21:31,"Trevi Nails, 343 Lexington Ave, New York",40.74978165,-73.976988
+18,2013-08-18 22:57:22,"MarieBelle, 484 Broome St, New York",40.7231933585,-74.0023934841
+19,2013-08-13 00:26:33,"Consulado Geral do Brasil, 225 E 41st St, New York",40.7502161176,-73.974735517
+20,2013-08-13 00:25:00,"Consulado Geral do Brasil, 225 E 41st St, New York",40.7502161176,-73.974735517
+21,2013-07-31 09:34:33,"Asanda Aveda Spa Lounge, 598 Broadway, New York",40.7251529166,-73.9968466759
+22,2013-07-26 02:25:43,"Grandaisy Bakery, 176 W 72nd St, New York",40.7785045937,-73.9816226649
+23,2013-07-04 06:30:13,"lululemon athletica, 1146 Madison Ave, New York",40.7801027314,-73.9597691596
+24,2013-07-02 02:31:24,"Salon champ, 199 E 4th St, New York",40.7240527933,-73.98421676
+25,2013-06-28 22:49:05,"ValEl, 1291 1st Ave, New York",40.7660978506,-73.9570344166
+26,2013-06-27 10:30:27,"Beacon Theatre, 2124 Broadway, New York",40.7805372395,-73.980899526
+27,2013-06-25 02:39:34,"Brazilian Embassy, 1185 Avenue of the Americas, New York",40.7574648333,-73.9778462427
+28,2013-04-21 02:44:11,"ValEl, 1291 1st Ave, New York",40.7660978506,-73.9570344166
+29,2013-03-19 06:17:02,"Complete Tile Collection, 42 W 15th St, New York",40.7374329225,-73.9951551914
+30,2013-02-22 19:39:25,"1060 Brickell, 1060 Brickell Ave, Miami",25.7633862327,-80.1919880328
+31,2013-02-11 06:27:44,"P.C. Richard & Son, 226 E 86th St, New York",40.778773669,-73.9535502538
+32,2013-01-08 02:58:03,"Ketly Michel MD, 261 E 78th St, New York",40.7730423918,-73.9559495687
+33,2012-11-15 09:30:03,"Magic Hands, 214 E 82nd St, New York",40.776015,-73.955141
+34,2012-10-31 09:10:20,"E&E Grill House, 233 W 49th St, New York",40.7613983978,-73.9855384827
+35,2012-10-28 12:37:31,"L'Artusi, 228 W 10th St, New York",40.733793607,-74.0050658125
+36,2012-10-28 02:19:47,"Stork and Cradle, 171 Madison Ave Rm 1600, New York",40.7475107069,-73.9833903264
+37,2012-10-15 02:42:16,"Adam's Chinese Restaurant, 301 E 90th St, New York",40.7810950943,-73.9495264555
+38,2012-10-06 23:07:28,"Toshi & Hair Mates, 114 E 40th St, New York",40.75049,-73.977657
+39,2012-10-05 04:46:06,"Serenity Spa NY, 1397 3rd Ave, New York",40.774618722,-73.9571664347
+40,2012-10-02 02:08:10,"New York Water Taxi - IKEA Dock, 1 Beard St, Brooklyn",40.6710702822,-74.0133979121
+41,2012-10-01 04:50:53,"The Morgan Library & Museum, 225 Madison Ave, New York",40.7492889632,-73.9815098047
+42,2012-09-28 01:09:13,"Ketly Michel MD, 261 E 78th St, New York",40.7730423918,-73.9559495687
+43,2012-09-23 06:36:02,"Sage Spa, 405 5th Ave, Brooklyn",40.6702436649,-73.9852899705
+44,2012-07-29 20:01:42,"Hilton Garden Inn Hershey, 550 E Main St, Hummelstown",40.2666126249,-76.6928575732
+45,2012-07-29 05:38:16,"Hershey's Chocolate Tasting Adventure, 251 Park Blvd, Hershey",40.2882913601,-76.6603827488
+46,2012-07-16 02:33:15,"Rei da Picanha, Rt 22, Hillside",40.6978285262,-74.2491835171
+47,2012-06-23 09:47:52,"Restaurante Porto da Ilha, Rua Dom Jaime Cmara, 43, Florianpolis",-27.592491,-48.55209
+48,2012-06-23 09:16:12,"Kanpai Cozinha Oriental, Rod. Admar Gonzaga, 4720B, Florianpolis",-27.601316332,-48.4818506241
+49,2012-06-07 01:34:16,"Potbelly Sandwich Shop, 501 7th Avenue, New York",40.75297987,-73.98912938
+50,2012-06-03 21:02:13,"Carnival Legend, 615 Channelside Dr, Tampa",27.942694931,-82.4458269276
+51,2012-05-27 09:33:09,"Carne Chophouse, 1536 E 7th Ave, Tampa",27.9602766545,-82.4417848431
+52,2012-05-22 08:46:39,"Vanderbilt YMCA, 224 E 47th St, New York",40.7535793057,-73.970964699
+53,2012-04-27 01:24:53,"Crunch, 144 W 38th St, New York",40.7532042607,-73.9878323651
+54,2012-04-14 06:34:20,"Osteria Laguna, 209 E 42nd St, New York",40.750582,-73.974123
+55,2012-04-08 00:17:38,"Fonda, 40 Avenue B, New York",40.7228762461,-73.9829796553
+56,2012-04-03 09:54:32,"Ribalta, 48 E 12th St, New York",40.7333960015,-73.9914880743
+57,2012-03-03 07:04:22,"Kavanaugh Chiropractic, 295 Madison Ave Fl 17, New York",40.751758,-73.979465
+58,2012-03-02 01:16:08,"SilkTouch Laser, 352 7th Ave, New York",40.7482851628,-73.9928662777
+59,2012-03-02 00:47:14,"SilkTouch Laser, 352 7th Ave, New York",40.7482851628,-73.9928662777
+60,2012-03-01 10:36:36,"Crunch, 1109 2nd Ave, New York",40.7604868006,-73.9646281811
+61,2012-02-23 07:48:50,"Crunch, 144 W 38th St, New York",40.7532042607,-73.9878323651
+62,2012-02-20 05:27:26,"New York Water Taxi - IKEA Dock, 1 Beard St, Brooklyn",40.6710702822,-74.0133979121
+63,2012-02-20 01:50:19,"Bond No. 9, 897 Madison Ave, New York",40.772009,-73.9654433727
+64,2012-02-13 11:42:43,"The London Eye, Westminster Bridge Rd, London",51.5033236332,-0.119601648454
+65,2012-02-11 18:35:55,"Darlington Railway Station (DAR), Bank Top, Darlington",54.5209732765,-1.54666938612
+66,2012-02-09 08:26:39,"Bank of America Winter Village at Bryant Park, 42nd St, New York",40.7535965987,-73.9835643768
+67,2012-02-09 08:26:13,"Bank of America Winter Village at Bryant Park, 42nd St, New York",40.7535965987,-73.9835643768
+68,2012-02-08 21:21:22,"Calle Ocho, 45 W 81st St, New York",40.7829037188,-73.9738057331
+69,2012-02-05 12:16:39,"Avenue Q, 340 W 50th St, New York",40.7625644864,-73.987665934
+70,2012-02-05 04:04:19,"The Good Fork, 391 Van Brunt St, Brooklyn",40.676014,-74.014373
+71,2012-02-05 04:03:45,"The Good Fork, 391 Van Brunt St, Brooklyn",40.676014,-74.014373
+72,2012-02-04 01:54:38,"Crunch, 144 W 38th St, New York",40.7532042607,-73.9878323651
+73,2012-02-01 02:09:10,"Grace Plaza, 1114 Avenue of the Americas, New York",40.7555252451,-73.9833444134
+74,2012-01-31 09:46:00,"Crunch, 162 W 83rd St, New York",40.7853819049,-73.9758432166
+75,2012-01-31 01:58:04,"Crunch, 144 W 38th St, New York",40.7532042607,-73.9878323651
+76,2012-01-31 01:57:05,"Crunch, 144 W 38th St, New York",40.7532042607,-73.9878323651
+77,2012-01-30 10:20:50,"Sojourn, 244 E 79th St, New York",40.7735211789,-73.9555420317
+78,2012-01-30 05:49:41,"Zabar's, 2245 Broadway, New York",40.784591251,-73.9794819362
+79,2012-01-29 01:37:01,"US Post Office - FDR Station, 909 3rd Ave, New York",40.7586121288,-73.968766456
+80,2012-01-26 21:43:06,"US Post Office, 1483 York Ave, New York",40.7711042407,-73.9507778026
+81,2012-01-24 09:09:02,"NYC Airporter, Terminal 7, Jamaica",40.6416583965,-73.7925048664
+82,2012-01-22 15:44:38,"Dublin Airport (DUB), Arrivals Rd, Dublin",53.4271001395,-6.24405707805
+83,2012-01-20 06:32:14,"NH Ventas, Calle de Biarritz, 2, Madrid",40.43553499,-3.663811755
+84,2012-01-17 07:25:45,"Terminal 8, John F. Kennedy International Airport, Jamaica",40.6473998442,-73.7908848437
+85,2012-01-13 10:16:39,"Crunch, 1109 2nd Ave, New York",40.7604868006,-73.9646281811
+86,2012-01-13 02:09:28,"Crunch, 144 W 38th St, New York",40.7532042607,-73.9878323651
+87,2012-01-12 09:26:43,"Wondee Siam II, 813 9th Ave, New York",40.765811065,-73.9870461203
+88,2012-01-10 09:34:19,"Crunch, 1109 2nd Ave, New York",40.7604868006,-73.9646281811
+89,2012-01-01 13:32:19,"The Westin Resort & Casino, J.E. Irausquin Blvd., Palm Beach",12.5656325648,-70.0485375518
+90,2012-01-01 11:20:43,"Bon Bini Cafe, The Westin Hotel Aruba, Noord",12.5657300609,-70.0486771129
+91,2011-12-24 12:47:54,"Daniel, 60 E 65th St, New York",40.7667351284,-73.9675094859
+92,2011-12-21 11:06:55,"Zucchero e Pomodori, 1435 2nd Ave, New York",40.770523594,-73.9570631162
+93,2011-12-20 02:17:38,"Himalayan Eyebrow Threading Salon Inc., 75 W 47th St Unit 2, New York",40.7580261878,-73.9817317095
+94,2011-12-14 04:29:41,"SilkTouch Laser, 352 7th Ave, New York",40.7482851628,-73.9928662777
+95,2011-12-13 07:56:01,"No Mas Vello, 42 W 72nd St, New York",40.7769342529,-73.977856636
+96,2011-12-11 12:39:55,"Rosa Mexicano, 61 Columbus Ave, New York",40.7711658116,-73.9830861521
+97,2011-12-04 23:22:35,"Eli's Manhattan, 1411 3rd Ave, New York",40.7751271747,-73.9567531603
+98,2011-12-01 08:36:54,"Innate Chiropractic of Manhattan, 119 W 57th St Ste 712, New York",40.7652738009,-73.9779323322
+99,2011-11-27 10:24:43,"Shine Spa for Sheraton @ Sheraton Maldives, Furanafushi Island, 89a78dac",4.25110134953,73.5462907927
+100,2011-11-27 10:24:17,"Shine Spa for Sheraton @ Sheraton Maldives, Furanafushi Island, 89a78dac",4.25110134953,73.5462907927
+101,2011-11-27 10:23:07,"Sheraton Maldives Full Moon Resort & Spa, Furanafushi Island, North Mal Atoll",4.24982052263,73.5445997934
+102,2011-11-27 10:21:34,"Sheraton Maldives Full Moon Resort & Spa, Furanafushi Island, North Mal Atoll",4.24982052263,73.5445997934
+103,2011-11-22 00:44:39,"San-Qi, 114 Dr. E. Moses Rd., Mumbai",18.9945160138,72.8202839563
+104,2011-11-22 00:44:08,"San-Qi, 114 Dr. E. Moses Rd., Mumbai",18.9945160138,72.8202839563
+105,2011-11-22 00:42:36,"San-Qi, 114 Dr. E. Moses Rd., Mumbai",18.9945160138,72.8202839563
+106,2011-11-21 00:24:00,"Four Seasons, 114 Dr. E. Moses Road , Worli, Mumbai",18.993553807,72.8203868866
+107,2011-11-16 23:28:11,"Alsisar Haveli, Sansar Chandra Road, Jaipur",26.92305,75.804622
+108,2011-11-16 08:01:54,"The Oberoi Amarvilas, Taj East Gate Road, 00gra",27.168083186,78.0488078006
+109,2011-11-15 06:41:50,"Hotel Palace Of Ganges, Assi Ghat, Varanasi",25.287493523,83.0058395863
+110,2011-11-15 06:40:48,"Hotel Palace Of Ganges, Assi Ghat, Varanasi",25.287493523,83.0058395863
+111,2011-11-14 22:42:00,"Hotel Palace Of Ganges, Assi Ghat, Varanasi",25.287493523,83.0058395863
+112,2011-11-14 02:03:48,"Amarya Villa, A 2/20 SAFDARJUNG ENCLAVE, New Dehli",28.5663735445,77.1907316332
+113,2011-11-13 00:09:00,"Amarya Villa, A 2/20 SAFDARJUNG ENCLAVE, New Dehli",28.5663735445,77.1907316332
+114,2011-11-12 21:28:01,"Amarya Villa, A 2/20 SAFDARJUNG ENCLAVE, New Dehli",28.5663735445,77.1907316332
+115,2011-11-12 21:26:51,"Amarya Villa, A 2/20 SAFDARJUNG ENCLAVE, New Dehli",28.5663735445,77.1907316332
+116,2011-11-12 21:20:54,"Airport Authority of India, Rajiv Gandhi Bhawan, New Delhi",28.5859371718,77.2123936767
+117,2011-11-12 01:43:47,"Air India Flight 102, JFK International Airport, Queens",40.6424,-73.7813
+118,2011-11-07 03:53:52,"Villagio, 358 San Lorenzo Ave, Coral Gables",25.7322997024,-80.2604808802
+119,2011-11-06 04:05:13,"Las Vegas Cuban Cuisine, 2810 Stirling Rd, Hollywood",26.0478544144,-80.1637328573
+120,2011-11-06 04:04:57,"Las Vegas Cuban Cuisine, 2810 Stirling Rd, Hollywood",26.0478544144,-80.1637328573
+121,2011-11-03 02:52:06,"Go Burger, 310 W 38th St, New York",40.755110076,-73.9924120337
+122,2011-10-29 07:11:01,"Apple Fifth Avenue, 767 Fifth Avenue, New York",40.7638193428,-73.9727987498
+123,2011-10-26 08:42:45,"SP+ Parking @ 215 East 80th St, 213-217 E 80th St, New York",40.7748009172,-73.9557544102
+124,2011-10-23 03:49:06,"A Miniatura - Presentes, Av. Ibirapuera, 3103, So Paulo",-23.6097541601,-46.6671367687
+125,2011-10-23 03:48:17,"A Miniatura - Presentes, Av. Ibirapuera, 3103, So Paulo",-23.6097541601,-46.6671367687
+126,2011-10-21 19:17:22,"Promenade Barra First, Av. das Amricas, 7897, Rio de Janeiro",-23.0008929077,-43.3920341871
+127,2011-10-21 10:07:38,"Lagoa Rodrigo de Freitas, Av. Epitcio Pessoa, Rio de Janeiro",-22.9772485175,-43.2146937264
+128,2011-10-19 10:09:12,"Riocentro, Av. Salvador Allende, 6555, Rio de Janeiro",-22.9770303898,-43.4107693409
+129,2011-10-17 18:14:26,"John F. Kennedy International Airport (JFK), at JFK Access Rd, Queens",40.6441551881,-73.7831694483
+130,2011-10-17 18:11:41,"TAM Airlines, Terminal 8, Jamaica",40.6467674165,-73.7902873851
+131,2011-10-16 06:10:14,"No Mas Vello, 42 W 72nd St, New York",40.7769342529,-73.977856636
+132,2011-10-16 05:59:47,"No Mas Vello, 42 W 72nd St, New York",40.7769342529,-73.977856636
+133,2011-10-01 21:08:53,"Graceful Spa, 240 E 56th St, New York",40.7590141808,-73.9661204957
+134,2011-09-23 21:15:34,"Villa Mara, Fiesta Americana, Alvaro Obregon",19.3649489114,-99.2622937912
+135,2011-09-12 09:50:50,"Peter Luger Steak House, 178 Broadway, Brooklyn",40.710044192,-73.9624757839
+136,2011-08-31 10:12:04,"Vanderbilt YMCA, 224 E 47th St, New York",40.7535793057,-73.970964699
+137,2011-08-25 08:24:18,"Riverside Park South, Riverside Blvd, New York",40.7783235275,-73.9891111851
+138,2011-08-23 08:40:59,"Vanderbilt YMCA, 224 E 47th St, New York",40.7535793057,-73.970964699
+139,2011-08-23 00:10:50,"Bryant Park, E 42nd St, New York",40.7538185002,-73.983964239
+140,2011-08-23 00:10:08,"Eli's Manhattan, 1411 3rd Ave, New York",40.7751271747,-73.9567531603
+141,2011-08-23 00:09:52,"Levain Bakery, 167 W 74th St, New York",40.7798427593,-73.9805603027
+142,2011-08-23 00:08:57,"Cookshop, 156 10th Ave, New York",40.7456589565,-74.0056511372
+143,2011-08-23 00:08:26,"B&H Photo Video, 420 9th Ave, New York",40.7529335022,-73.9963302612
+144,2011-08-23 00:08:03,"High Line, btwn Gansevoort & W 34th St, New York",40.7439531669,-74.0066725817
+145,2011-08-21 06:36:42,"Bike Rentals NYC, 117 W 58th St, New York",40.7651651183,-73.9773928374
+146,2011-08-20 03:15:42,"Go Burger, 310 W 38th St, New York",40.755110076,-73.9924120337
+147,2011-08-12 05:49:02,"KyoChon, 319 5th Ave, New York",40.7471899057,-73.985221982
+148,2011-08-08 02:44:53,"Focus Camera, 905 McDonald Ave, Brooklyn",40.6320053101,-73.9771632648
+149,2011-08-02 07:05:54,"Apple Fifth Avenue, 767 Fifth Avenue, New York",40.7638193428,-73.9727987498
+150,2011-08-02 07:04:55,"Apple Fifth Avenue, 767 Fifth Avenue, New York",40.7638193428,-73.9727987498
+151,2011-08-01 02:09:19,"The Art Institute of Chicago, 111 S Michigan Ave, Chicago",41.8796184321,-87.6234753541
+152,2011-08-01 01:37:23,"The Art Institute of Chicago, 111 S Michigan Ave, Chicago",41.8796184321,-87.6234753541
+153,2011-07-31 23:30:42,"Sheraton Grand Chicago, 301 E North Water St, Chicago",41.888790559,-87.6198358753
+154,2011-07-28 11:05:15,"The Press Lounge, 653 11th Ave, New York",40.764555348,-73.9958954929
+155,2011-07-25 04:30:13,"Rumsey Playfield, Central Park, New York",40.7724044987,-73.9698282736
+156,2011-07-23 01:09:35,"Morimoto, 88 10th Ave, New York",40.7429630129,-74.0074702229
+157,2011-07-17 03:14:50,"Persepolis, 1407 2nd Ave, New York",40.7698157333,-73.9576313673
+158,2011-07-16 00:14:40,"Focus Camera, 905 McDonald Ave, Brooklyn",40.6320053101,-73.9771632648
+159,2011-07-05 13:55:52,"Cathay Pacific Flight 888 (CX888), Vancouver International Airport, Richmond",49.1975306839,-123.17541632
+160,2011-07-01 08:18:34,"British Airways Galleries Lounge, Terminal 7, Jamaica",40.6489967297,-73.7829780579
+161,2011-06-24 07:56:29,"Corrado Bread & Pastry, 960 Lexington Ave, New York",40.7692815512,-73.9632225037
+162,2011-06-24 07:46:59,"Corrado Bread & Pastry, 960 Lexington Ave, New York",40.7692815512,-73.9632225037
+163,2011-06-13 02:54:37,"Cohen's Fashion Optical, 825 Broadway, New York",40.733574,-73.991392
+164,2011-06-10 03:44:51,"Christian Louboutin - HEADQUARTERS, W 38th St, New York",40.7549811208,-73.9921136125
+165,2011-06-08 23:43:31,"Cohen's Fashion Optical, 500 Lexington Ave, New York",40.754726,-73.97386679
+166,2011-06-07 07:17:47,"Times Square, Broadway & 7th Ave, New York",40.7583402876,-73.9860360492
+167,2011-06-05 04:31:30,"Eataly NYC, 200 5th Ave, New York",40.7421145531,-73.9895655358
+168,2011-06-04 05:11:28,"Terminal A, EWR Airport, Newark",40.6870653629,-74.1825199127
+169,2011-06-04 05:10:23,"Baggage Claim, Terminal A, Newark",40.6877984961,-74.1825141287
+170,2011-06-04 05:09:36,"Newark Liberty International Airport (EWR), 10 Toler Pl, Newark",40.6947463499,-74.1772453546
+171,2011-06-03 14:00:06,"Hyatt Regency Vancouver, 655 Burrard St, Vancouver",49.2849335763,-123.120407173
+172,2011-05-31 08:26:30,"The Stanton Social, 99 Stanton St, New York",40.7213084757,-73.988079142
+173,2011-05-30 23:48:46,"Landmarc, 10 Columbus Circle, New York",40.7688247068,-73.9823458012
+174,2011-05-30 23:34:11,"Landmarc, 10 Columbus Circle, New York",40.7688247068,-73.9823458012
+175,2011-05-27 00:17:51,"SkinBar, 20 E 46th St, New York",40.755682,-73.977909
+176,2011-05-25 22:19:59,"Cafe Mason, 320 Mason St, San Francisco",37.7865807332,-122.409735594
+177,2011-05-25 20:51:53,"Cafe Mason, 320 Mason St, San Francisco",37.7865807332,-122.409735594
+178,2011-05-23 14:26:44,"Hotel Fusion, 140 Ellis St, San Francisco",37.7855751155,-122.408507684
+179,2011-05-15 11:22:54,"DSW Designer Shoe Warehouse, 40 East 14th Street, New York",40.734917,-73.991604
+180,2011-05-15 11:18:11,"Crispo, 240 W 14th St, New York",40.7391758314,-74.0017604163
+181,2011-05-09 01:57:27,"Morton Williams, 908 2nd Ave, New York",40.7537347635,-73.968962431
+182,2011-05-01 06:09:29,"Peter Luger Steak House, 178 Broadway, Brooklyn",40.710044192,-73.9624757839
+183,2011-05-01 05:33:31,"Brooklyn Botanic Garden, 990 Washington Ave, Brooklyn",40.6695104005,-73.964364155
+184,2011-04-05 20:36:23,"SkinBar, 20 E 46th St, New York",40.755682,-73.977909
+185,2011-03-20 05:24:46,"Toshi & Hair Mates, 114 E 40th St, New York",40.75049,-73.977657
+186,2011-03-20 03:19:48,"Whole Foods Market, 95 East Houston St, New York",40.7237891915,-73.9915856354
+187,2011-02-26 08:52:04,"El Dorado International Airport (BOG), Avenida Calle 26 # 110 - 00, Bogot",4.69834110374,-74.1411969684
+188,2011-02-24 22:01:29,"Corferias, Cra 37, Bogot",4.63036768217,-74.0905041611
+189,2011-02-24 01:35:30,"Corferias, Cra 37, Bogot",4.63036768217,-74.0905041611
+190,2011-02-20 03:43:49,"The Spotted Pig, 314 W 11th St, New York",40.7357439145,-74.0068217811
+191,2011-01-25 09:58:20,"The Uptown Restaurant & Bar, 1576 3rd Ave, New York",40.780482,-73.952901
+192,2011-01-17 12:04:07,"Becco, 355 W 46th St, New York",40.760683271,-73.9899802208
+193,2011-01-16 03:20:44,"Limelight Shops, 656 Avenue of the Americas, New York",40.7410833974,-73.9939129651
+194,2011-01-16 00:53:58,"Joseph Hanna Fine Leather Goods, 33 Greenwich Ave, New York",40.7348903128,-74.0000904809
+195,2011-01-16 00:53:40,"Joseph Hanna Fine Leather Goods, 33 Greenwich Ave, New York",40.7348903128,-74.0000904809
+196,2011-01-11 10:20:05,"Katsu-Hama, 11 E 47th St, New York",40.7564809664,-73.9776281492
+197,2010-12-21 18:30:37,"Shed 5, Queens Wharf, Wellington",-41.2842874789,174.779120686
+198,2009-10-29 03:22:04,"Zabar's, 2245 Broadway, New York",40.784591251,-73.9794819362

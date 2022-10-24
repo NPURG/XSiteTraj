@@ -1,0 +1,63 @@
+,time,poi,latitude,longitude
+0,2014-03-31 21:21:18,"Burger & Lobster, 29 Clarges St, Mayfair",51.5071438258,-0.145605166433
+1,2014-03-31 21:10:30,"Bar Tabac, 128 Smith St, Brooklyn",40.6873419686,-73.9902055264
+2,2014-03-31 21:08:05,"Employees Only, 510 Hudson St, New York",40.7334764039,-74.0062192447
+3,2014-03-31 21:07:35,"Jane, 100 W Houston St, New York",40.7271735328,-74.0003315034
+4,2014-03-31 21:04:38,"Red Bamboo, 140 W 4th St, New York",40.7314161195,-74.0002454239
+5,2014-03-31 21:01:53,"Sukiyabashi Jiro, 80a74-2-15, 71ac",35.6729635808,139.763802831
+6,2014-03-31 20:57:48,"Ichiran, 71608b1-39-11, 4af63a",35.7325596937,139.714052589
+7,2014-03-31 20:56:59,"MeWe, 5c183a28-3, 71ac",35.6555230759,139.69941638
+8,2014-03-31 20:46:21,"L'Alibi, 11 rue Lapeyrere, Paris",48.892203487,2.34300240479
+9,2014-03-31 20:44:59,"Le Comptoir Gnral, 80-82 quai de Jemmapes, Paris",48.8725765879,2.36566543579
+10,2014-03-31 20:44:37,"Caf de l'Industrie, 16 rue Saint-Sabin, Paris",48.8556551928,2.37181842327
+11,2014-03-31 20:43:24,"Le Bistrot du Peintre, 116 avenue Ledru-Rollin, Paris",48.8532348021,2.37716463937
+12,2014-03-31 20:42:49,"Legrand Filles et Fils, 1 rue de la Banque, Paris",48.8662748239,2.33957480202
+13,2014-03-31 20:41:56,"Pain de Sucre, 14 rue Rambutea, Paris",48.860378,2.355586
+14,2014-03-31 20:41:32,"Zro Zro, 89 rue Amelot, Paris",48.8605433993,2.36777901649
+15,2014-03-31 20:41:12,"Sadaharu Aoki, 56 boulevard de Port-Royal, Paris",48.837631,2.346343
+16,2014-03-31 20:36:27,"Duc des Lombards, 42 rue des Lombards, Paris",48.8596079301,2.34869097191
+17,2014-03-31 20:35:58,"Le Batofar, 11 quai Franois Mauriac, Paris",48.8333822254,2.37925887108
+18,2014-03-31 20:35:07,"La Lucha Libre, 10 rue de la Montagne Sainte Genevive, Paris",48.849119,2.348657
+19,2014-03-31 20:34:41,"Le Bar Dix, 10 rue de l'Odon, Paris",48.8511240621,2.33871058594
+20,2014-03-31 20:33:09,"Le Truskel, 12 rue Feydea, Paris",48.8700323,2.341382
+21,2014-03-31 20:32:39,"La Cantada II, 13 rue Moret, Paris",48.8670610075,2.37951138355
+22,2014-03-31 20:31:57,"Pop In, 105 rue Amelot, Paris",48.8613999017,2.36775462907
+23,2014-03-31 20:31:35,"Le Motel, 8 passage Josset, Paris",48.8527292309,2.376501284
+24,2014-03-31 20:31:12,"La Cigale, 120 boulevard de Rochechouart, Paris",48.8824127165,2.34018981457
+25,2014-03-31 20:30:55,"Le Vieux Lon, 18 rue de la Grande Truanderie, Paris",48.8627658568,2.34867334784
+26,2014-03-31 20:30:20,"La Fline, 12 Rue Victor Letalle, Paris",48.8672781287,2.38527287985
+27,2014-03-31 20:29:31,"Point phmre, 200 quai de Valmy, Paris",48.8814402889,2.36890364944
+28,2014-03-31 20:29:00,"Le Bataclan, 50 boulevard Voltaire, Paris",48.8632919137,2.37083950788
+29,2014-03-31 20:28:43,"Nouveau Casino, 109 rue Oberkampf, Paris",48.865816,2.377876
+30,2014-03-31 20:28:27,"La Maroquinerie, 23 rue Boyer, Paris",48.8685256264,2.39211435203
+31,2014-03-31 20:28:01,"La Flche d'Or, 102 bis rue de Bagnolet, Paris",48.8594040979,2.4028654483
+32,2014-03-31 20:06:51,"St. Lawrence Market (North Building), 92 Front St. E, Toronto",43.6487929016,-79.3719453582
+33,2014-03-31 20:03:04,"Nathan Phillips Square, 100 Queen St W, Toronto",43.6522704732,-79.3835163116
+34,2014-03-31 20:02:18,"The Bloor Hot Docs Cinema, 506 Bloor St. W, Toronto",43.6654337146,-79.4104242325
+35,2014-03-31 20:01:44,"Sneaky Dee's, 431 College St, Toronto",43.6563380259,-79.4073557854
+36,2014-03-31 20:00:21,"Gladstone Hotel, 1214 Queen St W, Ste 2, B, Toronto",43.6427448015,-79.4269520044
+37,2014-03-31 19:55:33,"People's, Arbeidersamfunnets plass 1, Oslo",59.9154817281,10.7511004065
+38,2014-03-31 19:53:51,"Tilt, Badstugata 2, Oslo",59.9161432971,10.7507094741
+39,2014-03-31 19:52:58,"Hells Kitchen, Mllergata 23, Oslo",59.9155001047,10.7488526142
+40,2014-03-31 19:47:34,"Tavolta, 2323 2nd Ave, Seattle",47.6143488554,-122.34663432
+41,2014-03-31 19:46:39,"Stumbling Monk, 1635 E Olive Way, Seattle",47.61946607,-122.324214
+42,2014-03-31 19:46:27,"Lark, 952 E Seneca St, Seattle",47.6122678692,-122.31969595
+43,2014-03-31 19:46:14,"Shorty's, 2222 2nd Ave, Seattle",47.6137889406,-122.344920741
+44,2014-03-31 19:46:00,"Rendezvous, 2322 2nd Ave, Seattle",47.6145074163,-122.346222687
+45,2014-03-31 19:45:44,"Kerry Park, 211 Highland Dr, Seattle",47.6294176017,-122.359939814
+46,2014-03-31 19:45:22,"The Hideout, 1005 Boren Ave, Seattle",47.609548272,-122.325446606
+47,2014-03-31 19:45:05,"Caff Vita, 1005 E Pike St, Seattle",47.6140653386,-122.319120111
+48,2014-03-31 19:44:30,"Caf Presse, 1117 12th Ave, Seattle",47.6121955413,-122.317142487
+49,2014-03-31 19:44:01,"Dick's Drive-In, 111 NE 45th St, Seattle",47.6611673744,-122.327789662
+50,2014-03-31 19:42:10,"Cupcake Royale and Verite Coffee, 2052 NW Market St, Seattle",47.6688337743,-122.384337187
+51,2014-03-31 19:41:41,"La Carta De Oaxaca, 5431 Ballard Ave NW, Seattle",47.6681274161,-122.385732647
+52,2014-03-31 19:41:15,"Archie McPhee, 1300 N 45th St, Seattle",47.6615133747,-122.341745124
+53,2014-03-31 19:40:59,"Tutta Bella Neapolitan Pizzeria, 4411 Stone Way N, Seattle",47.660492,-122.342405
+54,2014-03-31 19:40:14,"Piroshky Piroshky, 1908 Pike Pl, Seattle",47.6099143498,-122.342428443
+55,2014-03-31 19:39:57,"Whisky Bar, 2122 2nd Ave, Seattle",47.6131171618,-122.343588926
+56,2014-03-31 19:39:40,"Wann Japanese Izakaya, 2020 2nd Ave, Seattle",47.6121016668,-122.342692491
+57,2014-03-31 19:23:03,"Jolly Butchers, 204-208 Stoke Newington High St, Stoke Newington",51.562427,-0.073433
+58,2014-03-31 19:15:47,"PSB, Sknegatan 80, Stockholm",59.312210798,18.0794245005
+59,2014-03-31 19:15:10,"Sdra Bar, Mosebacketorg 1-3, Stockholm",59.318441,18.074815
+60,2014-03-31 18:52:39,"Pembury Tavern, 90 Amhurst Rd, London",51.5493774079,-0.0596523284912
+61,2014-03-31 18:17:49,"Bone Daddies, 31 Peter St, London",51.512878418,-0.133983001113

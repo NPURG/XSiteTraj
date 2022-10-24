@@ -1,0 +1,104 @@
+,time,poi,latitude,longitude
+0,2016-09-05 19:44:21,"Weyerbacher Brewing Co0empany, 905 Line St, Easton",40.6734237472,-75.2260763843
+1,2016-09-05 19:44:04,"Weyerbacher Brewing Co0empany, 905 Line St, Easton",40.6734237472,-75.2260763843
+2,2016-03-06 05:12:10,"Cemitas el Tigre, 45-14 48th Ave, Woodside",40.739213,-73.919834
+3,2016-02-24 09:59:30,"Da Pasquale Restaurant, 9749 Santa Monica Blvd, Beverly Hills",34.0678697333,-118.4083
+4,2016-02-24 09:57:56,"29 South Eats, 29 S 3rd St, Fernandina Beach",30.670129,-81.463286
+5,2016-01-31 04:21:16,"Nishida Shoten Ramen, 302 E 49th St, New York",40.7541425111,-73.9687434977
+6,2015-12-27 03:13:15,"Service Station, 500 E 62nd St, New York",40.7600683415,-73.9585038305
+7,2015-12-27 03:10:49,"Greek Eats, 1229 1st Ave, New York",40.7641957602,-73.9585784488
+8,2015-12-27 03:09:47,"EJ's Luncheonette, 1271 3rd Ave, New York",40.7703523289,-73.9601224687
+9,2015-12-06 07:02:19,"Kitchenette, 1219 Rte 213, High Falls",41.8269442105,-74.1265623269
+10,2015-11-29 01:23:28,"Calexico, 1491 2nd Ave, New York",40.7725153373,-73.9556510909
+11,2015-09-07 22:57:34,"Caf Nv, 151 rue Rachel Est, Montral",45.519486,-73.580355
+12,2015-07-08 07:01:20,"Nerai, 55 E 54th St, New York",40.7601876906,-73.973203093
+13,2015-03-07 20:58:42,"Writing Room, 1703 2nd Ave, New York",40.7793939391,-73.9506687406
+14,2015-03-07 20:57:30,"Hinata Ramen, 159 E 55th St, New York",40.7590976169,-73.9688640287
+15,2015-01-18 08:51:47,"The Tomato Cafe, 1123 Main St, Fishkill",41.535767,-73.9015308667
+16,2015-01-18 08:49:58,"North River Hops and Brewing, 1571 Route 9, Wappingers Falls",41.5960788758,-73.911706704
+17,2014-12-17 09:59:23,"Space Market, 1130 1st Ave, New York",40.7615348839,-73.9606103535
+18,2014-12-17 09:58:49,"La Pulperia, 1626 2nd Ave, New York",40.7767112126,-73.9524653863
+19,2014-12-07 20:48:41,"Birdsall House, 970 Main St, Peekskill",41.2917188032,-73.9205193415
+20,2014-12-07 20:46:15,"Zapata's Mexican Restaurant, 107 E Jericho Tpke, Huntington Station",40.82852,-73.406058
+21,2014-12-07 20:42:07,"Cyclo, 5-51 47th Ave, Queens",40.7456026294,-73.9535158137
+22,2014-12-02 09:22:21,"Yellow Bar, Via del Proconsolo 39, Firenze",43.771299,11.257884
+23,2014-11-21 10:37:42,"Xe My Sandwich Shop, 96 Saint Marks Pl, New York",40.7273712945,-73.9848538001
+24,2014-10-14 02:43:38,"The Daily Planet Diner, 1202 Route 55, Lagrangeville",41.6697526281,-73.7928552951
+25,2014-10-14 02:42:45,"Prairie Whale, 178 Main St, Great Barrington",42.1978325167,-73.361518144
+26,2014-10-14 02:42:21,"Moe's Tavern, 10 Railroad St, Lee",42.3057937333,-73.2500123978
+27,2014-10-14 02:41:49,"Tino's Delicatessen, 2410 Arthur Ave, Bronx",40.85585805,-73.8872076
+28,2014-09-09 10:14:01,"Mission Cantina, 172 Orchard St, New York",40.7215142721,-73.9884084463
+29,2014-09-02 02:04:59,"Duane Reade, 399 E 72nd St, New York",40.7678423183,-73.9557981491
+30,2014-08-27 04:02:00,"John & Tony's, 1097 1st Ave, New York",40.7601763858,-73.9612876503
+31,2014-08-27 04:01:07,"Madison Restaurant, 965 1st Ave, New York",40.7558315223,-73.9647774131
+32,2014-08-17 23:51:53,"Ristorante Greppia, Vicolo Samaritana, Verona",45.4415978673,10.9975155676
+33,2014-08-17 23:42:04,"Draught 55, 245 E 55th St, New York",40.7582339853,-73.9665107915
+34,2014-08-17 23:40:44,"The Cannibal Beer & Butcher, 113 E 29th St, New York",40.7437008127,-73.9827758074
+35,2014-08-17 23:38:57,"Leo's Latticini, 46-02 104th St, Corona",40.7462890561,-73.8598619715
+36,2014-08-17 23:38:08,"Tortilleria Nixtamal, 104-05 47th Ave, Corona",40.7459889631,-73.8591957092
+37,2014-08-17 23:37:10,"Barrier Brewing Co., 3001 New St, Oceanside",40.6392179178,-73.6561417182
+38,2014-08-17 23:35:59,"Bagelworks, 1229 1st Ave, New York",40.7643945434,-73.9584636513
+39,2014-08-12 09:12:38,"Eggs Travaganza, E 52nd St NE, New York",40.7583372275,-73.9729505576
+40,2014-08-12 09:08:23,"I due Fratellini, Via dei Cimatori 38r, Firenze",43.7705976637,11.2553985972
+41,2014-08-12 09:04:20,"Transmitter Brewing, 53-02 11th St Ste A, Queens",40.7401604897,-73.9525629673
+42,2014-08-12 09:03:19,"Birrificio La Diana, Via Della Stufa Secca 1, Siena",43.322215633,11.3299075744
+43,2014-08-12 09:00:56,"Bolpetta, Via Santo Stefano, 6, Bologna",44.4934597076,11.346906562
+44,2014-08-12 08:56:32,"Panino Buono, Via Garibaldi 8, Como",45.8112948745,9.0790203769
+45,2014-08-12 08:54:01,"Village Social, 251 E Main St, Mount Kisco",41.2016534321,-73.7258490557
+46,2014-08-07 20:46:31,"Fatty Fish, 406 E 64th St, New York",40.762270058,-73.9593705498
+47,2014-08-07 19:31:04,"Bondurants, 303 E 85th St, New York",40.7771178464,-73.9520980224
+48,2014-08-07 09:42:57,"Lucky Cat, 232 E 53rd St, New York",40.7571722377,-73.9680891855
+49,2014-08-07 09:35:24,"Just Salad, 663 Lexington Ave, New York",40.7598462378,-73.9697778225
+50,2014-07-12 23:30:12,"Ristorante al Castello, Via Castello, Vernazza",44.1348275726,9.68178760945
+51,2014-07-12 23:28:10,"Osteria del Caff Italiano, Via dell'Isola delle Stinche, 11/13r, Firenze",43.7700871818,11.2602641174
+52,2014-07-12 23:24:51,"Peperino, Piazzetta Municipio 10, Verona",45.4377117388,10.9945318506
+53,2014-04-28 03:27:14,"'Essen, 515 Madison Ave, New York",40.7597662043,-73.9739205215
+54,2014-04-28 03:24:35,"Just Salad, 1306 1st Ave, New York",40.7666167774,-73.956695761
+55,2014-01-19 04:22:54,"Hoffman House Tavern, N Front St., Kingston",41.934719,-74.022683
+56,2014-01-18 21:06:17,"The Jeffrey Craft Beer & Bites, 311 E 60th St, New York",40.7609898848,-73.9629464435
+57,2013-12-22 23:57:00,"Financier Patisserie, 983 1st Ave, New York",40.7563598406,-73.9645877481
+58,2013-07-12 10:13:38,"Ninth Street Espresso, 109 E 56th St, New York",40.760651,-73.970573
+59,2013-06-29 20:40:34,"Vinus And Marc, 1825 2nd Ave, New York",40.7833327223,-73.9477412628
+60,2013-06-15 03:30:48,"Pine State Biscuits, 2204 NE Alberta St, Portland",45.559028,-122.642713
+61,2013-06-13 22:22:57,"Chateau Ste. Michelle Winery, 14111 NE 145th St, Woodinville",47.7300618375,-122.150561213
+62,2013-06-08 02:42:40,"Serious Pie, 316 Virginia St, Seattle",47.612891693,-122.340560853
+63,2013-05-13 10:40:15,"due ponti ristorante, 154-11 powells cove blvd, Whitestone",40.7955307447,-73.8056311602
+64,2012-12-30 07:13:27,"The Surfin Burrito, Blvd. Kukulcan Km. 10, Cancn",21.1298359483,-86.7497044802
+65,2012-12-28 08:15:52,"The Surfin Burrito, Blvd. Kukulcan Km. 10, Cancn",21.1298359483,-86.7497044802
+66,2012-11-24 23:18:56,"Avli Little Greek Tavern, 3831 Bell Blvd, Flushing",40.765808,-73.7718693363
+67,2012-11-19 00:49:04,"Honky Tonk Tavern, 1154 1st Ave, New York",40.7623125611,-73.959978973
+68,2012-08-19 14:37:58,"Schloss Hellbrunn, Frstenweg 37, Salzburg",47.7627447425,13.0607926833
+69,2012-07-13 10:50:19,"Artichoke Basille19s Pizza & Brewery, 328 E 14th St, New York",40.7318442507,-73.9838647842
+70,2012-07-10 09:10:08,"The NUAA, 1122 1st Ave, New York",40.7612635839,-73.9608858644
+71,2012-07-07 20:01:07,"Dog Watch Cafe, 194 Water St, Stonington",41.338472,-71.9076647833
+72,2012-06-29 00:51:26,"Domo Taco, Park Ave, New York",40.7505479183,-73.97625645
+73,2012-06-22 11:18:04,"Linen Hall, 101 3rd Ave, New York",40.7324610214,-73.9878930281
+74,2012-06-04 19:54:59,"La Dolce Vita, Ocean Ave., Belmar",40.1827577343,-74.011802676
+75,2012-05-19 06:16:44,"El Porrn, 1123 1st Ave, New York",40.7612729247,-73.9608342061
+76,2012-04-10 20:55:04,"BONDST, 6 Bond St, New York",40.7268032728,-73.9944091482
+77,2012-04-03 08:00:21,"Umi Sushi, 303 E 56th St, New York",40.7585529235,-73.9655522696
+78,2012-03-12 19:30:03,"Sido Gourmet, 849 2nd Ave, New York",40.752116,-73.970511
+79,2012-03-05 03:36:30,"Casablanca Grill, 1132 1st Ave, New York",40.7616128728,-73.9605357359
+80,2012-01-13 20:50:38,"Omni Charlottesville Hotel, 212 Ridge McIntire Rd, Charlottesville",38.0313867099,-78.4838826191
+81,2011-12-30 10:01:52,"YogurFit, Av. Ashford 1050, San Juan",18.4583174694,-66.0758170545
+82,2011-12-30 10:00:51,"Caf Berln, 407 Calle San Francisco, Old San Juan",18.4663945625,-66.1120761703
+83,2011-12-25 04:09:49,"Parnell's Pub, 350 E 53rd St, New York",40.755757355,-73.9649553434
+84,2011-12-17 02:43:21,"Bodegas Compostela, Ave. Condado 106, San Juan",18.4525728746,-66.0738188728
+85,2011-11-12 09:48:44,"Island Burgers & Shakes, 422 Amsterdam Ave, New York",40.783963,-73.977718
+86,2011-11-12 09:48:10,"Katz's Delicatessen, 205 E Houston St, New York",40.7223070664,-73.987351656
+87,2011-11-12 09:44:55,"Bar Boulud, 1900 Broadway, New York",40.7719404115,-73.9823687578
+88,2011-11-12 09:44:36,"Murray's Cheese, 254 Bleecker St, New York",40.7310939262,-74.0028450057
+89,2011-11-12 09:44:04,"Mile End Delicatessen, 97A Hoyt St, Brooklyn",40.6874355261,-73.9870753884
+90,2011-11-12 09:43:50,"Porchetta, 110 E 7th St, New York",40.72659,-73.984711
+91,2011-11-12 09:43:37,"Terroir, 24 Harrison St, New York",40.718781,-74.01013895
+92,2011-11-12 09:43:18,"Alidoro, 105 Sullivan St, New York",40.725649,-74.003045
+93,2011-11-12 09:42:49,"Saltie, 378 Metropolitan Ave, Brooklyn",40.714119,-73.95558
+94,2011-11-12 09:42:27,"El Quinto Pino, 401 W 24th St, New York",40.7473098821,-74.0012496816
+95,2011-11-12 09:42:02,"Mile End Delicatessen, 97A Hoyt St, Brooklyn",40.6874355261,-73.9870753884
+96,2011-11-12 09:41:26,"Ba Xuyn, 4222 8th Ave, Brooklyn",40.6451842651,-73.9995280938
+97,2011-11-12 09:41:05,"The Spotted Pig, 314 W 11th St, New York",40.7357439145,-74.0068217811
+98,2011-08-28 23:31:59,"Hotel Du Poete Fontaine-de-Vaucluse, Le Village, Fontaine-de-Vaucluse",43.921018,5.126794
+99,2011-08-25 00:39:53,"Antiq Y Th, 20 rue longue, Lyon",45.7653931763,4.83368094497
+100,2011-07-19 00:59:53,"Rare View Lexington, 303 Lexington Ave, New York",40.7483391757,-73.97794955
+101,2011-07-19 00:59:12,"The Kati Roll Company, 49 W 39th St, New York",40.7527676038,-73.9849376678
+102,2011-05-30 22:19:49,"Joe's Shanghai 7f2325, 24 W 56th St, New York",40.7629816629,-73.9758833921

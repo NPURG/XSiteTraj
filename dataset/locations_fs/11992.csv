@@ -1,0 +1,87 @@
+,time,poi,latitude,longitude
+0,2015-09-03 10:41:02,"Akha Ama Coffee La Fattoria, Ratchadamnoen Road, Prasingh, 4021372d07400a352207432b2148",18.7884037061,98.9832823241
+1,2014-11-21 06:28:31,"Tinto, Jan Thiel, Willemstad",12.0760115525,-68.8795781136
+2,2014-11-21 06:28:06,"Plein Caf Wilhelmina, Wilhelminaplein 19-23, Punda",12.1046148714,-68.9331150055
+3,2014-11-21 06:26:32,"Kome, Johan van Walbeeckplein 6, Willemstad",12.1030634214,-68.9265776154
+4,2014-11-21 06:25:56,"Iguana Cafe, Handelskade 1, Willemstad",12.1059628709,-68.9340162277
+5,2014-11-21 06:25:03,"Zest, Jan Thiel Beach Z/n, Willemstad",12.0748872827,-68.8792882864
+6,2014-11-21 06:23:44,"Zanzibar, Jan Thiel, Willemstad",12.0772930434,-68.8788459719
+7,2014-11-21 06:23:06,"Papagayo Beach Club, Jan Thiel Baai z/n, Willemstad",12.074619782,-68.8788807658
+8,2014-09-28 03:34:44,"Ma, 665 Valencia St, San Francisco",37.7622290206,-122.421615718
+9,2014-09-28 03:34:12,"What's Up Dog!, 699 Folsom St, San Francisco",37.783819,-122.398742
+10,2014-09-28 03:33:53,"Bloodhound, 1145 Folsom St, San Francisco",37.7759217685,-122.408895493
+11,2014-09-28 03:33:18,"Sextant Coffee Roasters, 1415 Folsom St, San Francisco",37.7725911027,-122.412943581
+12,2014-09-28 03:32:38,"Epicenter Cafe, 764 Harrison St, San Francisco",37.7814803347,-122.398933768
+13,2014-09-28 03:32:07,"Consulate General of the Netherlands, 120 Kearny St #3100, San Francisco",37.7894248231,-122.40364568
+14,2014-09-28 03:31:47,"Super Duper Burger, 721 Market St, San Francisco",37.7870331836,-122.404043376
+15,2014-09-28 03:31:15,"Mikkeller Bar, 34 Mason St, San Francisco",37.7839328406,-122.409243326
+16,2014-09-28 03:30:47,"Town Hall, 342 Howard St, San Francisco",37.7895384772,-122.395060571
+17,2014-09-28 03:30:19,"Special Xtra, 46 Minna St, San Francisco",37.7886364625,-122.398269006
+18,2014-09-28 03:29:07,"G Food Lounge, 431 2nd St, San Francisco",37.7838994387,-122.394468659
+19,2014-09-28 03:28:20,"Sightglass Coffee, 270 7th St, San Francisco",37.7770249037,-122.408529808
+20,2014-09-22 04:17:06,"KelSoMa, 191 Russ St, San Francisco",37.777861,-122.406958
+21,2014-09-08 13:50:59,"Red Door Coffee, 111 Minna St, San Francisco",37.7874624283,-122.399333417
+22,2014-09-05 10:53:06,"Van Mechelen, Sloterkade 96/97, Amsterdam",52.3527415961,4.85246999712
+23,2014-09-05 10:51:27,"City Beer Store, 1168 Folsom St, San Francisco",37.7756372481,-122.409320761
+24,2014-09-05 10:50:51,"Philz Coffee, 3101 24th St, San Francisco",37.7523522,-122.4142997
+25,2014-09-05 10:50:26,"Geekdom SF, 620 Folsom St, San Francisco",37.7851091086,-122.397367335
+26,2014-08-27 03:17:56,"Koopman Fijne Vleeswaren, Elandsgracht 100, Amsterdam",52.3693180716,4.87992575282
+27,2014-08-27 03:17:25,"Wercker, Lauriergracht 116Z, Amsterdam",52.371057047,4.87910053905
+28,2014-08-24 19:34:28,"Ice and Bites, Mercatorplein 24, Amsterdam",52.3698007058,4.85121067285
+29,2014-08-18 23:09:28,"Brandstof, Marnixstraat 341, Amsterdam",52.3725403296,4.87613797188
+30,2014-08-16 04:23:37,"Bar Baarsch, Jan Evertsenstraat 91, Amsterdam",52.370505,4.853722
+31,2014-08-16 02:53:04,"Mossel & Gin, Gosschalklaan 12, Amsterdam",52.38644,4.868179
+32,2014-08-12 00:52:43,"Caf Cook, James Cookstraat 2HS, Amsterdam",52.371212,4.85251844286
+33,2014-08-12 00:49:32,"Brandstof, Marnixstraat 341, Amsterdam",52.3725403296,4.87613797188
+34,2014-08-09 14:43:12,"White Label Coffee, Jan Evertsenstraat 136, Amsterdam",52.370265,4.851639
+35,2014-08-09 14:41:13,"Staring At Jacob, Jacob Van Lennepkade 215, Amsterdam",52.3625977673,4.86189933098
+36,2014-08-07 11:13:27,"Hog & Rocks, 3431 19th St, San Francisco",37.7602614094,-122.419946194
+37,2014-08-07 11:12:52,"Curry Up Now, 659 Valencia St, San Francisco",37.7623637147,-122.421588066
+38,2014-08-07 11:11:29,"Elbo Room, 647 Valencia St, San Francisco",37.7625499568,-122.421494048
+39,2014-08-07 11:10:44,"Beretta, 1199 Valencia St, San Francisco",37.7537892209,-122.420708717
+40,2014-08-07 11:08:53,"Burgerlijk, Runstraat 1, Amsterdam",52.3689880474,4.8841824536
+41,2014-08-07 11:08:08,"Fier, De Clercqstraat 79, Amsterdam",52.3703821117,4.86829847563
+42,2014-08-07 11:06:50,"Toscanini, Lindengracht 75, Amsterdam",52.38012,4.885355
+43,2014-08-07 11:05:32,"Sightglass Coffee, 270 7th St, San Francisco",37.7770249037,-122.408529808
+44,2014-08-07 11:02:53,"Phat Philly, 3388 24th St, San Francisco",37.7521614166,-122.420349233
+45,2014-08-07 11:00:48,"Four Barrel Coffee, 375 Valencia St, San Francisco",37.7670243868,-122.421958607
+46,2014-08-07 11:00:12,"Rosamunde Sausage Grill, 2832 Mission St, San Francisco",37.7517866031,-122.41852967
+47,2014-08-07 10:34:39,"Phoenix Bar, 811 Valencia St, San Francisco",37.7598685355,-122.421206463
+48,2014-08-07 10:34:05,"Cafe O'Lei, 2439 S Kihei Rd, K2bhei",20.719061,-156.446454976
+49,2014-08-07 10:33:02,"Teeth SF, 2323 Mission St, San Francisco",37.7599105905,-122.419071671
+50,2014-08-07 10:32:16,"Latin American Club, 3286 22nd St, San Francisco",37.7554137862,-122.420675755
+51,2014-08-07 10:31:32,"Mission Bowling Club, 3176 17th St, San Francisco",37.7637144275,-122.416787506
+52,2014-08-07 10:30:31,"The Sycamore, 2140 Mission St, San Francisco",37.7627158279,-122.419635791
+53,2014-08-07 10:29:19,"Craftsman and Wolves, 746 Valencia St, San Francisco",37.7608593881,-122.421534061
+54,2014-08-07 10:28:30,"Dolores Park Cafe, 501 Dolores St, San Francisco",37.7613131702,-122.425785363
+55,2014-08-07 10:27:31,"Rosamunde Sausage Grill, 545 Haight St, San Francisco",37.7719105221,-122.431053221
+56,2014-08-07 10:25:59,"Velvet Cantina, 3349 23rd St, San Francisco",37.75384,-122.41953022
+57,2013-10-07 08:41:52,"Tartine Bakery, 600 Guerrero St, San Francisco",37.7614213141,-122.42400974
+58,2013-05-17 18:46:18,"Burgermeester, Elandsgracht 130, Amsterdam",52.3691308082,4.8787343502
+59,2013-03-23 21:54:58,"Bar Baarsch, Jan Evertsenstraat 91, Amsterdam",52.370505,4.853722
+60,2013-03-16 03:31:52,"Radijs, Jan Evertsenstraat 41, Amsterdam",52.3710151152,4.85681934931
+61,2013-02-22 09:27:50,"Trick Dog, 3010 20th St, San Francisco",37.7591916688,-122.411234511
+62,2013-02-19 05:49:03,"Sidewalk Juice, 3228 21st St, San Francisco",37.7569837383,-122.420752961
+63,2013-02-18 12:52:01,"The Stinking Rose, 325 Columbus Ave, San Francisco",37.7981847975,-122.407384852
+64,2013-02-10 11:26:19,"Frjtz, 590 Valencia St, San Francisco",37.7634914253,-122.421809285
+65,2013-01-10 06:18:34,"The Butcher, Albert Cuypstraat 129, Amsterdam",52.3553881113,4.8923533387
+66,2012-10-09 10:34:17,"Shotwell19s, 3349 20th St, San Francisco",37.7587918721,-122.415797501
+67,2012-09-21 02:27:09,"El Rio, 3158 Mission St, San Francisco",37.746868,-122.41951655
+68,2012-09-16 10:10:13,"Sidewalk Juice, 3228 21st St, San Francisco",37.7569837383,-122.420752961
+69,2012-08-19 03:58:09,"Ice and Bites, Mercatorplein 24, Amsterdam",52.3698007058,4.85121067285
+70,2012-06-10 21:42:03,"Gr8acht, Elandsgracht 8a, Amsterdam",52.3701185938,4.88234752726
+71,2012-06-09 01:05:38,"Caf van Leeuwen, Keizersgracht 711, Amsterdam",52.3640831853,4.89841103554
+72,2012-01-25 00:46:04,"Emil, Kinkerstraat, Amsterdam",52.3672829578,4.87243880843
+73,2011-10-11 22:31:58,"Bright Computing, Nieuw-zeelandweg  15M, Amsterdam",52.3862406837,4.84323229316
+74,2011-02-06 16:51:07,"Bender's Bar & Grill, 806 S Van Ness Ave, San Francisco",37.760344,-122.417205
+75,2011-01-30 17:09:39,"Anso Labs HQ, 1136 Guerrero St Apt C, San Francisco",37.75291762,-122.423354
+76,2011-01-27 13:06:42,"Lone Palm, 3394 22nd St, San Francisco",37.7551837664,-122.423053631
+77,2011-01-23 04:27:48,"Jump Start Coffee & Grocery, 1192 Guerrero St, San Francisco",37.752084993,-122.42303704
+78,2011-01-09 23:20:02,"Tazzina, Bilderdijkstraat 140, Amsterdam",52.367717,4.871663
+79,2010-12-10 21:41:02,"L'Oisiveth, 1 rue Jean Marie Jgo, Paris",48.828054,2.351752
+80,2010-12-08 22:23:02,"Vrije Universiteit - Hoofdgebouw, De Boelelaan 1101, Amsterdam",52.3347506579,4.86670371519
+81,2010-10-31 20:07:13,"Eetcaf Festina Lente, Looiersgracht 40b, Amsterdam",52.3686689796,4.88137364388
+82,2010-10-10 22:09:07,"Caf Brecht, Weteringschans 157, Amsterdam",52.3595973911,4.89029617532
+83,2010-08-14 02:17:53,"De Staalmeesters, Kloveniersburgwal 127, Amsterdam",52.368359,4.89649451579
+84,2009-06-24 04:25:32,"Noorderlicht, NDSM Plein 102, Amsterdam",52.3995218452,4.89668620385
+85,2009-06-06 01:10:59,"Lux, Marnixstraat 403, Amsterdam",52.364831,4.880536

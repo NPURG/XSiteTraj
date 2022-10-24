@@ -1,0 +1,86 @@
+,time,poi,latitude,longitude
+0,2016-04-10 17:11:29,"Buckley's, East Circular Quay, Sydney",-33.8603488866,151.212552179
+1,2014-04-06 06:35:06,"Singapore Changi Airport (SIN), Airport Boulevard, Singapore",1.35629549846,103.989338779
+2,2013-11-29 20:58:08,"Tommy Flynn's Bar & Diner, Cippenham Lane, Slough",51.5134669978,-0.627330418335
+3,2013-10-27 20:57:37,"Burnham Beeches, Hawthorn Ln, Farnham Common, Slough",51.5558496978,-0.622607233983
+4,2013-07-06 21:14:41,"Carpenters Arms, 68-70 Whitfield St, London",51.521798,-0.136634
+5,2013-07-06 21:06:51,"Carpenters Arms, 68-70 Whitfield St, London",51.521798,-0.136634
+6,2013-05-27 21:34:22,"Vue Cinema, Royale Leisure Park, London",51.5262464462,-0.280804186467
+7,2013-04-21 17:44:06,"Gurnell Leisure Centre, Ruislip Rd. E, Ealing",51.5290477804,-0.331040918827
+8,2012-09-15 03:27:19,"Koobla, 26-42 Bond St., London",51.511766,-0.30585
+9,2012-08-29 14:50:38,"Ealing Broadway Railway Station (EAL), Haven Green, Ealing",51.5149367256,-0.30145703242
+10,2012-08-07 00:58:56,"Ealing Broadway Railway Station (EAL), Haven Green, Ealing",51.5149367256,-0.30145703242
+11,2012-07-30 16:01:30,"Telefnica, 20 Air St, London",51.5105375034,-0.136318174745
+12,2012-07-29 04:31:56,"Atlantis Greek Restaurant, 86 Pitshanger Ln., Ealing",51.5261208743,-0.314210057259
+13,2012-07-21 18:34:59,"Costa Coffee, Ealing Hospital, Southall",51.507334388,-0.34656096501
+14,2012-06-27 15:24:45,"Ealing Delivery Office, Ealing Green, Ealing",51.5097443027,-0.307049537847
+15,2012-06-06 12:01:29,"Terminal 5, LHR Airport, Hounslow",51.4722585545,-0.488282626723
+16,2012-05-18 14:08:16,"Sheraton Madrid Mirasierra Hotel & Spa, C. Alfredo Marquerie, 43, Madrid",40.4865397219,-3.70352625848
+17,2012-05-16 01:13:45,"Terminal 5, LHR Airport, Hounslow",51.4722585545,-0.488282626723
+18,2012-04-16 17:04:00,"Deutsche Telekom UK Headoffice, Mosquito Way, Hatfield",51.7682082595,-0.236032569661
+19,2012-04-15 16:37:05,"The Co-operative Food, 107-109 Pitshanger Lane,, London",51.5256686388,-0.315344631672
+20,2012-03-14 02:42:12,"Golden Dragon, 94 Pitshanger Ln., Ealing",51.5261223062,-0.313630852095
+21,2012-03-10 04:38:05,"Pizza Piccolo, 40 Pitshanger Ln., Ealing",51.5257036831,-0.316205620766
+22,2012-02-07 00:40:04,"IKEA, 2 Drury Way, Wembley",51.5533175588,-0.259867953547
+23,2011-12-29 18:36:41,"Waitrose, 2 Alexandria Rd, West Ealing",51.5129003802,-0.321528087851
+24,2011-12-27 21:08:42,"Village Inn, Pitshanger Ln., Ealing",51.5265333652,-0.312466233333
+25,2011-12-08 15:39:05,"Coffee Shop, in Building 4, T-Mobile, Hatfield",51.7676349134,-0.236277410514
+26,2011-12-07 01:24:10,"Platform 15 (H&C and Circle lines), Paddington Underground Station, London",51.5184406059,-0.1786673069
+27,2011-11-09 00:33:21,"Gate B40, Terminal 1, Kln",50.8770492021,7.12289378132
+28,2011-11-08 05:11:35,"Piano Bar, Kurt-Georg-Kiesinger Allee 1, Bonn",50.704482968,7.13497638702
+29,2011-10-31 04:28:46,"Golden Dragon, 94 Pitshanger Ln., Ealing",51.5261223062,-0.313630852095
+30,2011-10-29 02:36:09,"Jamie's Italian, Westfield London, London",51.506286714,-0.22340118885
+31,2011-10-26 14:33:30,"Coffee Shop, in Building 4, T-Mobile, Hatfield",51.7676349134,-0.236277410514
+32,2011-10-17 01:06:59,"Gate D101, Pier D, Terminal 3, Kastrup",55.6277916807,12.6517271001
+33,2011-10-13 23:53:06,"Gate B24, Terminal 1, Frankfurt am Main",50.04677786,8.57125103474
+34,2011-10-13 23:08:36,"Goethe-Bar, Terminal 1, Bereich B, Ebene 2, Frankfurt am Main",50.0476540092,8.57336950314
+35,2011-10-12 14:34:54,"Gate 5B, at Terminal 1, Hounslow",51.4743022182,-0.451056618001
+36,2011-09-18 21:53:45,"The Co-operative Food, 107-109 Pitshanger Lane,, London",51.5256686388,-0.315344631672
+37,2011-08-02 22:27:03,"Middle Security Barrier - Building 3, Comet Way, Hatfield",51.7681565,-0.236498475
+38,2011-08-01 14:48:07,"Coffee Shop, in Building 4, T-Mobile, Hatfield",51.7676349134,-0.236277410514
+39,2011-08-01 14:47:03,"Coffee Shop, in Building 4, T-Mobile, Hatfield",51.7676349134,-0.236277410514
+40,2011-06-08 02:03:23,"Pizza Piccolo, 40 Pitshanger Ln., Ealing",51.5257036831,-0.316205620766
+41,2011-06-06 16:17:38,"Coffee Shop, in Building 4, T-Mobile, Hatfield",51.7676349134,-0.236277410514
+42,2011-06-02 19:25:28,"Middle Elevator - Building 3, T-Mobile - Mosquito Way, Hatfield",51.7684241625,-0.236377716064
+43,2011-05-30 22:39:34,"Cinnamon Cafe, Pitshanger, Ealing",51.5262753417,-0.313997174179
+44,2011-05-30 22:35:34,"Cinnamon Cafe, Pitshanger, Ealing",51.5262753417,-0.313997174179
+45,2011-05-22 18:40:29,"Waitrose, 2 Alexandria Rd, West Ealing",51.5129003802,-0.321528087851
+46,2011-05-14 02:57:55,"Blue Ocean, 151 Pitshanger Ln., Ealing",51.5260407739,-0.313582420349
+47,2011-05-13 22:06:35,"TUK Shop, Mosquito Way, Hatfield",51.76818911,-0.236318622222
+48,2011-05-09 16:02:00,"Coffee Shop, in Building 4, T-Mobile, Hatfield",51.7676349134,-0.236277410514
+49,2011-05-08 19:20:59,"Brentham Club, Meadvale Road, Ealing",51.5289974152,-0.308981346676
+50,2011-05-08 04:28:40,"Santa Maria Pizzeria, 15 St Mary's Rd, Ealing",51.5079645145,-0.305036902428
+51,2011-04-24 19:32:46,"The Co-operative Food, 107-109 Pitshanger Lane,, London",51.5256686388,-0.315344631672
+52,2011-04-17 20:24:13,"Brentham Club, Meadvale Road, Ealing",51.5289974152,-0.308981346676
+53,2011-04-15 16:08:36,"EE, Comet Way, Hatfield",51.7689276554,-0.235802345819
+54,2011-04-05 21:40:25,"Village Inn, Pitshanger Ln., Ealing",51.5265333652,-0.312466233333
+55,2011-04-01 16:11:55,"Hanger Lane London Underground Station, Hanger Ln, London",51.5302925762,-0.293583869934
+56,2011-03-17 01:50:57,"Village Inn, Pitshanger Ln., Ealing",51.5265333652,-0.312466233333
+57,2011-03-05 04:03:04,"Sushi World, 58 Pitshanger Ln., Ealing",51.5258405222,-0.31559407711
+58,2011-02-21 16:26:10,"Coffee Shop, in Building 4, T-Mobile, Hatfield",51.7676349134,-0.236277410514
+59,2011-02-20 03:08:09,"Chiquito, Park Royal Leisure Park, London",51.5253182646,-0.280917308246
+60,2011-02-12 02:29:14,"Blue Ocean, 151 Pitshanger Ln., Ealing",51.5260407739,-0.313582420349
+61,2011-02-11 17:51:14,"Coffee Shop, in Building 4, T-Mobile, Hatfield",51.7676349134,-0.236277410514
+62,2011-02-06 22:20:01,"The Duke of Kent, 2 Scotch Common, West Ealing",51.5250995834,-0.320234298706
+63,2011-01-22 18:51:58,"Gossips Cafe, The Square, Yarmouth",50.7068006136,-1.49949270493
+64,2011-01-22 18:48:27,"Gossips Cafe, The Square, Yarmouth",50.7068006136,-1.49949270493
+65,2011-01-19 17:50:43,"Coffee Shop, in Building 4, T-Mobile, Hatfield",51.7676349134,-0.236277410514
+66,2011-01-09 04:55:04,"Sushi World, 58 Pitshanger Ln., Ealing",51.5258405222,-0.31559407711
+67,2011-01-08 18:14:02,"Pitshanger Bookshop, 141 Pitshanger Ln, Ealing",51.5258844333,-0.313984366667
+68,2011-01-08 18:11:28,"The Co-operative Food, 107-109 Pitshanger Lane,, London",51.5256686388,-0.315344631672
+69,2011-01-08 04:51:30,"Sushi World, 58 Pitshanger Ln., Ealing",51.5258405222,-0.31559407711
+70,2011-01-04 23:04:15,"Wap Chat, Comet Way, Hatfield",51.7682980286,-0.23632825
+71,2011-01-03 22:16:22,"Shayona, 54-62 Meadow Garth, Neasden",51.5479889513,-0.262372768599
+72,2010-10-09 18:29:37,"Pitshanger Village Bakery, 117 Pitshanger Ln., Ealing",51.5258933135,-0.314820361233
+73,2010-10-04 22:57:26,"Cinnamon Cafe, Pitshanger, Ealing",51.5262753417,-0.313997174179
+74,2010-09-28 02:16:26,"Golden Dragon, 94 Pitshanger Ln., Ealing",51.5261223062,-0.313630852095
+75,2010-09-05 20:05:28,"Brentham Club, Meadvale Road, Ealing",51.5289974152,-0.308981346676
+76,2010-09-05 19:53:57,"Brentham Club, Meadvale Road, Ealing",51.5289974152,-0.308981346676
+77,2010-08-25 16:53:47,"Coffee Shop, in Building 4, T-Mobile, Hatfield",51.7676349134,-0.236277410514
+78,2010-08-23 16:44:00,"Coffee Shop, in Building 4, T-Mobile, Hatfield",51.7676349134,-0.236277410514
+79,2010-08-23 16:37:28,"Coffee Shop, in Building 4, T-Mobile, Hatfield",51.7676349134,-0.236277410514
+80,2010-08-19 16:55:29,"Coffee Shop, in Building 4, T-Mobile, Hatfield",51.7676349134,-0.236277410514
+81,2010-08-16 02:54:11,"Heathrow Airport Terminals 1, 2 & 3 London Underground Station, Wellington Rd., Hounslow",51.4711722908,-0.453014373779
+82,2010-08-15 23:12:16,"Gate C23, Pier C, Terminal 3, Kastrup",55.6267723985,12.6501774788
+83,2010-08-08 20:27:16,"Gourmet Burger Kitchen, 35 Haven Green, Ealing",51.5156665791,-0.302081108093
+84,2010-08-08 20:26:02,"Gourmet Burger Kitchen, 35 Haven Green, Ealing",51.5156665791,-0.302081108093

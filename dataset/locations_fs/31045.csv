@@ -1,0 +1,68 @@
+,time,poi,latitude,longitude
+0,2014-02-16 06:00:35,"Curiosities, 2025 Abrams Rd, Dallas",32.8146939574,-96.7531081387
+1,2014-01-06 03:46:37,"Grub Burger Bar, 4925 Greenville Ave, Dallas",32.8469435123,-96.7702046392
+2,2013-09-21 09:29:59,"Neighborhood Services, 5027 W Lovers Ln, Dallas",32.851366,-96.82401
+3,2013-09-20 10:18:07,"Tillman's Roadhouse, 324 W 7th St, Dallas",32.748773,-96.827654
+4,2013-09-02 01:40:49,"Jake's, 2422 N Henderson Ave, Dallas",32.81578615,-96.779436
+5,2013-08-27 01:06:42,"Bioworld Merchandising, 2111 W Walnut Hill Ln, Irving",32.8671416453,-96.9748164329
+6,2013-08-04 04:28:51,"Bubba's Cooks Country, 6617 Hillcrest Ave, Dallas",32.8474644278,-96.7870563269
+7,2013-07-25 10:40:52,"Libertine Bar, 2101 Greenville Ave, Dallas",32.8155554691,-96.7704534531
+8,2013-07-07 11:09:50,"Cafe Brazil, 2815 Elm St, Dallas",32.78503764,-96.7827486992
+9,2013-06-19 08:31:04,"Cinemark XD West Plano, 3800 Dallas Pkwy, Plano",33.0490816012,-96.8281257181
+10,2013-05-27 13:52:32,"Nandina, 5631 Alta Ave, Dallas",32.8135916876,-96.7710569682
+11,2013-04-10 10:35:39,"FM Smoke House, 660 Walnut Ridge Dr, Irving",32.8845237216,-96.955406167
+12,2013-03-13 09:43:03,"Jake's, 2422 N Henderson Ave, Dallas",32.81578615,-96.779436
+13,2013-01-24 10:51:34,"Jake's, 2422 N Henderson Ave, Dallas",32.81578615,-96.779436
+14,2012-11-08 02:45:53,"Firehouse Subs, 7601 N MacArthur Blvd Ste 140, Irving",32.90986554,-96.95940608
+15,2012-09-24 02:13:07,"Kung Fu Saloon, 2911 Routh St, Dallas",32.7991263381,-96.8051854735
+16,2012-04-09 11:18:07,"NY Giant Pizza, 12812 Rancho Penasquitos Blvd, San Diego",32.9500320236,-117.108013428
+17,2011-10-04 20:50:17,"Blue Goose Cantina, 14920 Midway Rd, Addison",32.9516941309,-96.838333
+18,2011-10-04 20:49:44,"Gordon Biersch Brewery Restaurant, 8060 Park Ln, Dallas",32.8698661331,-96.7684268111
+19,2011-10-04 20:49:25,"Serious Pizza, 2807 Elm St, Dallas",32.7848504786,-96.7833736539
+20,2011-08-16 13:29:51,"All Good Cafe, 2934 Main St, Dallas",32.7843160516,-96.780667305
+21,2011-08-16 13:29:14,"Zenna Thai & Japanese, 1914 Laws St, Dallas",32.7836996022,-96.8058865381
+22,2011-08-11 08:47:42,"Fire Fly Lounge, 14905 Midway Rd, Addison",32.9506639222,-96.839373787
+23,2011-07-12 11:29:11,"Globe Life Park in Arlington, 1000 Ballpark Way, Arlington",32.7510958609,-97.0828123746
+24,2011-06-28 09:08:30,"Fireside Pies, 2820 N Henderson Ave, Dallas",32.8197792848,-96.7840001503
+25,2011-06-28 09:07:59,"Mattito's, 3102 Oak Lawn Ave, Dallas",32.8090012445,-96.80853391
+26,2011-06-21 01:40:33,"Beauty Bar, 1924 N Henderson Ave, Dallas",32.8118652105,-96.774924
+27,2011-06-21 01:39:43,"Centre, 5307 E Mockingbird Ln #140, Dallas",32.8370847614,-96.777122946
+28,2011-06-21 01:39:26,"Jakes, 2702 McKinney Ave #101, Dallas",32.7975434667,-96.801224
+29,2011-06-13 22:55:42,"La Paisanita, 2930 W Davis St, Dallas",32.7493858337,-96.86969924
+30,2011-06-06 22:01:40,"Pluckers Wing Bar, 5500 Greenville Ave #406, Dallas",32.8529038984,-96.7681896687
+31,2011-06-06 22:00:56,"Ojeda's Mexican Restaurant, 4617 Maple Ave, Dallas",32.8130045328,-96.8247710397
+32,2011-06-06 22:00:28,"American Airlines C.R. Smith Museum, 4601 Highway 360, Fort Worth",32.8329740702,-97.0636832714
+33,2011-05-23 22:25:31,"Barcadia, 1917 N Henderson Ave, Dallas",32.8117097535,-96.7751312256
+34,2011-05-23 22:21:17,"Odom's BBQ, 1971 Singelton, Dallas",32.7788359333,-96.8532049249
+35,2011-05-08 21:43:23,"Trinity Hall Irish Pub and Restaurant, 5321 E Mockingbird Ln, Dallas",32.838031316,-96.7759037018
+36,2011-05-01 22:46:05,"Nandina, 5631 Alta Ave, Dallas",32.8135916876,-96.7710569682
+37,2011-05-01 22:44:45,"Sushi Axiom, 2323 N Henderson Ave, Dallas",32.8143848705,-96.7783675875
+38,2011-04-30 23:06:33,"Whole Foods Market, 8190 Park Lane, Dallas",32.8679592054,-96.7682041693
+39,2011-04-30 23:03:18,"Jimmy John's, 4980 W. Beltline Rd.  Ste 150, Addison",32.9537102482,-96.8265652657
+40,2011-04-30 23:00:07,"Fish Bone Grill, 318 Medallion Shp Ctr, Dallas",32.8564433621,-96.7509125851
+41,2011-04-30 22:59:08,"Cantina Laredo, 4546 Belt Line Rd, Addison",32.953336,-96.834247
+42,2011-04-30 22:58:16,"Target, 212 Medallion Shopping Ctr., Dallas",32.8570767873,-96.7526435852
+43,2011-04-30 22:57:30,"Tampopo Japanese Cafe, 6130 Greenville Ave Ste 100, Dallas",32.8598270357,-96.7679300738
+44,2011-04-30 22:56:39,"Apple NorthPark Center, 8687 North Central Expressway, Dallas",32.868432,-96.774126
+45,2011-04-30 22:53:40,"NorthPark Center, 8687 N Central Expy, Dallas",32.8692051214,-96.773347331
+46,2011-04-30 22:50:51,"The Old Monk, 2847 N Henderson Ave, Dallas",32.8200997813,-96.7849588394
+47,2011-04-30 22:48:21,"la Madeleine Country French Caf, 3072 Mockingbird Ln, Dallas",32.836966299,-96.7813119395
+48,2011-04-30 22:41:31,"Kenichi, 2400 Victory Park Ln, Dallas",32.787471587,-96.8090989756
+49,2011-04-30 22:38:36,"Pei Wei, 2222 McKinney Ave. Suite 100, Dallas",32.7927169904,-96.8019925716
+50,2011-04-30 22:37:39,"American Airlines Center, 2500 Victory Ave, Dallas",32.7904795281,-96.8103651591
+51,2011-04-30 22:32:29,"Flying Saucer Draught Emporium, 14999 Montfort Dr, Dallas",32.9529360146,-96.8188405037
+52,2011-04-30 22:29:44,"Central Market, 5750 E Lovers Ln, Dallas",32.8498949316,-96.7687196265
+53,2011-04-30 22:27:30,"Romano's Macaroni Grill, 4535 Belt Line Rd, Addison",32.954594,-96.8345314264
+54,2011-04-30 22:26:43,"Jen's Place, 4455 Alpha Rd, Dallas",32.933385,-96.833207
+55,2011-04-30 22:25:23,"Humperdinks Restaurant & Brew Pub, 6050 Greenville Ave, Dallas",32.8585547897,-96.7682594887
+56,2011-04-30 22:23:13,"Houlihan's, 5225 Belt Line Rd Ste 220, Dallas",32.9546015087,-96.8172419071
+57,2011-02-08 03:44:49,"Cantina Laredo, 4546 Belt Line Rd, Addison",32.953336,-96.834247
+58,2011-01-03 04:27:29,"Fortress of Nerditude, 1, Dallas",32.799953,-96.757055
+59,2010-10-30 03:35:00,"Park Lane Station (DART Rail), 8169 Park Ln, Dallas",32.8727481526,-96.7658722401
+60,2010-10-11 09:47:36,"Spring Valley Station (DART Rail), 100 W Spring Valley Rd, Richardson",32.9407544466,-96.7375802994
+61,2010-10-04 08:12:34,"Ebar, 8687 N Central Expy, Dallas",32.86973514,-96.77442456
+62,2009-10-05 05:37:42,"The Comic Cellar, 135 W Main St, Alhambra",34.0944439173,-118.128792644
+63,2009-09-23 09:16:17,"7-Eleven, 601 S Fremont Ave, Alhambra",34.087638194,-118.152179531
+64,2009-09-20 08:04:07,"Best Buy, 3415 E Foothill Blvd, Pasadena",34.15111106,-118.0805933
+65,2009-09-19 11:40:01,"El Super Burrito, 3631 E Colorado Blvd, Pasadena",34.1463502145,-118.075239476
+66,2009-09-18 05:15:38,"GCS Alhambra, 2881 W Valley Blvd, Alhambra",34.076607,-118.155586

@@ -1,0 +1,64 @@
+,time,poi,latitude,longitude
+0,2016-01-15 11:16:51,"Sushi Rock, 1900 Clarendon Blvd, Arlington",38.891658,-77.08121775
+1,2014-08-08 10:56:43,"Bangkok Golden, 6395 Seven Corners Ctr, Falls Church",38.8674131284,-77.1505022049
+2,2014-08-08 00:50:10,"Uprising Muffin Company, 1817 7th St NW, Washington",38.9147118193,-77.0216952754
+3,2014-08-08 00:48:24,"Chop't Creative Salad Company, 730 7th St NW, Washington",38.8994398546,-77.0218485277
+4,2014-08-07 11:25:42,"Dogfish Head Alehouse, 6220 Leesburg Pike, Falls Church",38.8674204063,-77.1513895863
+5,2014-08-07 11:24:02,"M.E. Swing Coffee Roasters, 501 E Monroe Ave, Alexandria",38.8046341435,-77.129945755
+6,2014-08-07 11:20:32,"Cassatt's Kiwi Cafe & Gallery, 4536 Lee Hwy, Arlington",38.8984427259,-77.1191873976
+7,2014-08-07 11:16:37,"Galaxy Hut, 2711 Wilson Blvd, Arlington",38.8895130387,-77.0910455209
+8,2013-08-10 10:40:26,"Tsunami Sushi, 13039 Fair Lakes Shopping Ctr, Fairfax",38.8563121329,-77.3927163382
+9,2013-07-07 04:04:56,"Screwtop Wine Bar, 1025 N Fillmore St, Arlington",38.8854039214,-77.0929001209
+10,2013-06-16 02:31:11,"Bakeshop, 1025 N Fillmore St Apt G, Arlington",38.8859585675,-77.0930406198
+11,2013-06-06 06:40:33,"Sportrock Climbing Center (SR3), 45935 Maries Rd, Sterling",39.019417087,-77.4121785164
+12,2013-05-25 01:17:13,"Bakeshop, 1025 N Fillmore St Apt G, Arlington",38.8859585675,-77.0930406198
+13,2013-05-19 08:44:29,"Sushi Yoshi, 101 Church St NW, Vienna",38.9024819923,-77.2663742825
+14,2013-05-19 08:42:25,"Sushi Yoshi, 101 Church St NW, Vienna",38.9024819923,-77.2663742825
+15,2012-11-21 02:10:48,"Chop't Creative Salad Company, 730 7th St NW, Washington",38.8994398546,-77.0218485277
+16,2012-11-18 02:46:35,"Rick's Tattoo, 4818 Lee Hwy, Arlington",38.8964979167,-77.1257171167
+17,2012-11-18 02:28:45,"LeoNora Gourmet Bakery, 1108 N Irving St, Arlington",38.8863103501,-77.0971369743
+18,2012-08-04 10:13:20,"Lyon Hall, 3100 Washington Blvd, Arlington",38.885664,-77.094719
+19,2012-07-15 23:46:01,"Bakeshop, 1025 N Fillmore St Apt G, Arlington",38.8859585675,-77.0930406198
+20,2012-05-11 10:46:43,"Astor Mediterranean, 2300 N Pershing Dr, Arlington",38.8805313419,-77.0858300071
+21,2012-05-08 10:32:52,"Kotobuki, 4822 MacArthur Blvd NW, Washington",38.916936,-77.096157
+22,2012-05-04 08:00:31,"Liberty Tavern, 3195 Wilson Blvd, Arlington",38.8863209937,-77.0967710233
+23,2012-02-12 14:44:06,"Whitlow's on Wilson, 2854 Wilson Blvd, Arlington",38.8886236094,-77.0928937197
+24,2012-02-12 14:38:24,"Pho 75, 1721 Wilson Blvd, Arlington",38.894061764,-77.0787088917
+25,2012-02-10 01:26:59,"Right Angle Cafe, 8401 Arlington Blvd, Fairfax",38.8648063206,-77.2348376122
+26,2012-02-07 01:24:05,"Chipotle Mexican Grill, 8191 Strawberry Ln, Falls Church",38.8722612783,-77.2288874095
+27,2012-02-06 09:45:03,"Bakeshop, 1025 N Fillmore St Apt G, Arlington",38.8859585675,-77.0930406198
+28,2012-02-06 08:57:19,"Hibachi Buffet & Grill, 13948 Metrotech Dr, Chantilly",38.896606819,-77.425118204
+29,2012-01-27 08:57:46,"Boccato Gelato & Espresso, 2719 Wilson Blvd, Arlington",38.88945,-77.091196
+30,2011-11-29 12:52:51,"Bakeshop, 1025 N Fillmore St Apt G, Arlington",38.8859585675,-77.0930406198
+31,2011-10-22 11:29:43,"Toki Underground, 1234 H St NE, Washington",38.9003766423,-76.9890359044
+32,2011-10-11 03:21:13,"New Season, 7279 Arlington Blvd, Falls Church",38.8649314437,-77.1981773547
+33,2011-10-10 06:18:43,"Pete's New Haven Style Apizza, 3017 Clarendon Blvd, Arlington",38.8873918291,-77.0941543579
+34,2011-10-09 06:52:43,"1800 Wilson Condominiums, 1800 Wilson Blvd, Arlington",38.8930399605,-77.078793201
+35,2011-10-08 09:50:17,"Ray19s Hell Burger, 1650 Wilson Blvd, Arlington",38.894039014,-77.0777928829
+36,2011-10-03 23:17:34,"Inova Fairfax Hospital, 3300 Gallows Rd, Falls Church",38.85781,-77.22675
+37,2011-10-02 22:48:49,"Bakeshop, 1025 N Fillmore St Apt G, Arlington",38.8859585675,-77.0930406198
+38,2011-10-02 14:25:38,"IBM Casa, 10524 Rosehaven St, Fairfax",38.874699038,-77.3096104856
+39,2011-09-27 10:17:08,"Pinkberry, 2930 Clarendon Blvd., Arlington",38.887676919,-77.0937431115
+40,2011-09-26 06:09:30,"Sportrock Climbing Center (SR2), 5308 Eisenhower Ave, Alexandria",38.8010678018,-77.1263622934
+41,2011-09-24 22:20:06,"Dancing Mind Yoga, 929 W Broad St Ste 200, Falls Church",38.8901625355,-77.1844535048
+42,2011-09-11 11:10:28,"Starbucks, 8381 Leesburg Pike, Vienna",38.921754983,-77.2361118147
+43,2011-08-22 10:41:24,"Pinkberry, 2930 Clarendon Blvd., Arlington",38.887676919,-77.0937431115
+44,2011-08-22 10:31:24,"New Season, 7279 Arlington Blvd, Falls Church",38.8649314437,-77.1981773547
+45,2011-06-04 22:59:00,"Northside Social, 3211 Wilson Blvd, Arlington",38.8855629998,-77.0976938484
+46,2011-05-22 05:56:54,"Brooklyn Boulders, 575 Degraw St, Brooklyn",40.6795640299,-73.9841651917
+47,2011-04-04 07:56:56,"Chinatown Coffee Company, 475 H St NW, Washington",38.8999498304,-77.0186882092
+48,2011-03-06 12:40:33,"Mussel Bar & Grille, 7262 Woodmont Ave, Bethesda",38.9817302144,-77.0960426331
+49,2011-02-20 00:51:28,"Bakeshop, 1025 N Fillmore St Apt G, Arlington",38.8859585675,-77.0930406198
+50,2011-02-10 07:24:39,"Sportrock Climbing Center (SR3), 45935 Maries Rd, Sterling",39.019417087,-77.4121785164
+51,2011-02-02 10:01:30,"7-Eleven, 1625 Wilson Blvd, Arlington",38.894472,-77.078065
+52,2011-02-02 03:07:25,"Sweetwater Tavern, 3066 Gate House Plz, Falls Church",38.8665121003,-77.2285393695
+53,2011-02-01 22:08:52,"Pho Cyclo, 8102 Arlington Blvd, Falls Church",38.8666726213,-77.226080606
+54,2011-01-29 19:49:07,"Amphora Restaurant, 377 Maple Ave W, Vienna",38.8963637615,-77.2720420169
+55,2010-07-06 06:06:12,"Shilla Korean Bakery, 7039 Little River Tpke, Annandale",38.8291231869,-77.1893895568
+56,2010-06-29 12:37:50,"Shik Do Rak, 14775 Jeffrey Rd, Irvine",33.6878040764,-117.771538496
+57,2010-06-29 12:37:44,"Shik Do Rak, 14775 Jeffrey Rd, Irvine",33.6878040764,-117.771538496
+58,2010-04-08 10:00:13,"Exxon, 1824 Wilson Blvd, Arlington",38.8931288206,-77.0797616243
+59,2010-04-08 09:59:25,"Rhodeside Green Park, 1601 N Rhodes St, Arlington",38.8924789256,-77.0793046761
+60,2010-04-08 09:56:45,"Bakeshop, 1025 N Fillmore St Apt G, Arlington",38.8859585675,-77.0930406198
+61,2010-04-02 08:23:51,"Whole Foods Market, 2700 Wilson Blvd, Arlington",38.8890941661,-77.0912422222
+62,2010-03-15 08:26:58,"Sette Bello, 3101 Wilson Blvd, Arlington",38.887633,-77.0950448513

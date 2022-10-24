@@ -1,0 +1,49 @@
+,time,poi,latitude,longitude
+0,2015-12-19 13:11:25,"Tenoch, Highland Ave, Somerville",42.3953002604,-71.1193065097
+1,2015-12-18 13:35:39,"Tenoch, Highland Ave, Somerville",42.3953002604,-71.1193065097
+2,2015-02-12 10:17:51,"Felipe's Mexican Taqueria, 21 Brattle St, Cambridge",42.3733905262,-71.120554065
+3,2014-09-20 08:30:35,"Pho Viet's, 1095 Commonwealth Ave, Boston",42.35238865,-71.12542573
+4,2014-08-16 09:11:13,"Shanghai Gate, 204 Harvard Ave, Allston",42.349847,-71.130777
+5,2014-08-16 09:10:24,"Anna's Taqueria, 1412 Beacon St, Brookline",42.3412800119,-71.1254688149
+6,2014-08-16 09:08:44,"Bamboo Thai Restaurant, 1616 Commonwealth Ave, Brighton",42.3432966947,-71.1428237225
+7,2014-08-12 08:17:55,"Dorado Tacos & Cemitas, 401 Harvard St, Brookline",42.3451793593,-71.1266409606
+8,2014-08-10 17:07:49,"Twin Donuts, 501 Cambridge St, Allston",42.3536392797,-71.1378685702
+9,2014-08-07 11:30:27,"The Phoenix Landing, 512 Massachusetts Ave, Cambridge",42.3641783927,-71.1018171171
+10,2014-08-07 11:22:53,"Eastern Vapor, 353 Washington St Ste 3, Brighton",42.3491522315,-71.1527860604
+11,2014-08-07 11:18:21,"5 Napkin Burger, 105 Huntington Ave, Boston",42.3460868302,-71.0810888261
+12,2014-08-07 11:17:54,"El Oriental De Cuba, 416 Centre St, Jamaica Plain",42.3206788202,-71.1106025275
+13,2014-08-07 11:16:29,"Rod Dee, 1422 Beacon St, Brookline",42.3409502105,-71.1261419046
+14,2014-08-07 11:15:19,"The Avenue, 1249 Commonwealth Ave, Boston",42.3501192,-71.13203925
+15,2014-08-07 11:14:50,"OTTO, 888 Commonwealth Ave., Brookline",42.3509710768,-71.1150067661
+16,2014-08-07 11:14:06,"Jim's Deli, 371 Washington St, Brighton",42.349248,-71.154089
+17,2014-08-07 11:13:06,"Deep Ellum, 477 Cambridge St, Allston",42.3538701885,-71.1369788647
+18,2014-08-07 08:49:24,"Quic Pic BBQ, 50 Beach St, Boston",42.3514935492,-71.0607370734
+19,2014-08-07 08:49:06,"Susan's Fish And Chips, 1135 Forest Ave, Portland",43.6859606,-70.29204486
+20,2014-08-07 08:48:50,"Rivalries, 10 Cotton St, Portland",43.6552786743,-70.2570460342
+21,2014-08-07 08:48:36,"Azama Grill, 54 Harvard Ave, Allston",42.3544,-71.132345
+22,2014-08-07 08:47:59,"El Pelon Taqueria, 2197 Commonwealth Ave, Brighton",42.3402136939,-71.1664885283
+23,2014-08-07 08:47:14,"Big Mamo, 63 Liberty St, Springfield",42.1062973293,-72.5956805222
+24,2014-08-07 08:46:52,"B.G. Hunter's Pub, 182 Chicopee St, Chicopee",42.161163,-72.615345
+25,2014-03-25 05:32:33,"Mi Pueblito Restaurant, 333 Border St, East Boston",42.3789893365,-71.0398960527
+26,2014-02-26 04:37:09,"Gene's Chinese Flatbread Cafe, 86 Bedford St, Boston",42.3532588512,-71.0593961066
+27,2014-02-09 17:07:38,"Brighton Music Hall, 158 Brighton Ave, Allston",42.35280543,-71.1326175928
+28,2014-01-05 12:06:10,"Golden Temple, 1651 Beacon St, Brookline",42.3389552377,-71.1361742885
+29,2013-12-25 10:43:30,"Ittok, 1414 Commonwealth Ave, Brighton",42.3486103024,-71.1390464398
+30,2013-05-07 10:25:41,"Tory Row, 3 Brattle St, Cambridge",42.373379,-71.119457
+31,2013-03-13 09:18:26,"Buffalo Billiards, 201 E 6th St, Austin",30.2674906304,-97.7412843704
+32,2013-03-02 10:45:13,"Tasty Burger, 1301 Boylston St, Boston",42.3445479707,-71.0982450426
+33,2013-02-27 14:05:52,"New York Pizza, 224 Tremont St, Boston",42.3513490483,-71.064741049
+34,2012-12-23 15:00:10,"Golden Temple, 1651 Beacon St, Brookline",42.3389552377,-71.1361742885
+35,2012-01-16 09:42:04,"Matt Murphy's, 14 Harvard St, Brookline",42.333683,-71.118944
+36,2011-09-23 04:24:27,"Anna's Taqueria, 446 Harvard St, Brookline",42.346215,-71.128091
+37,2011-09-22 00:09:04,"Tedeschi Food Shops, 1219 Commonwealth Ave, Allston",42.3505801126,-71.1309463397
+38,2011-05-18 06:31:46,"Taco Trio, 119 Ocean St, South Portland",43.638038,-70.252897
+39,2011-04-10 11:56:38,"Amigos Mexican Restaurant, 9 Dana St, Portland",43.6560402577,-70.2534305414
+40,2011-03-10 18:04:36,"Tortilleria La Rancherita, 26751 Old 41 Rd #3, Bonita Springs",26.3489673928,-81.7790999525
+41,2011-03-08 08:41:10,"Chipotle Mexican Grill, 359 Maine Mall Rd, South Portland",43.6349965642,-70.3377364749
+42,2011-03-08 08:37:14,"Chipotle Mexican Grill, 359 Maine Mall Rd, South Portland",43.6349965642,-70.3377364749
+43,2010-08-12 12:41:50,"The Big Easy, 55 Market St, Portland",43.6576253262,-70.2539287935
+44,2010-08-12 12:27:12,"The Big Easy, 55 Market St, Portland",43.6576253262,-70.2539287935
+45,2010-05-10 12:19:34,"Amigos Mexican Restaurant, 9 Dana St, Portland",43.6560402577,-70.2534305414
+46,2010-03-22 03:49:39,"Professor Thom's, 219 2nd Ave, New York",40.7320300313,-73.9854965772
+47,2010-03-20 05:57:19,"Arby's, 267 Washington Ave, North Haven",41.401961,-72.84975

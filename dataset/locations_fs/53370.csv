@@ -1,0 +1,89 @@
+,time,poi,latitude,longitude
+0,2016-04-29 21:59:43,"Pizza Luc, 11 E Superior St, Duluth",46.7872518595,-92.0980779053
+1,2016-04-25 08:09:34,"Tire Barn, 6415 E 82nd St, Indianapolis",39.904806515,-86.057370007
+2,2016-02-22 01:37:58,"Fort Wayne Indoor Skatepark, 3052 E State Blvd, Fort Wayne",41.0969487324,-85.1002517969
+3,2015-04-14 03:18:28,"Corrales Mexican Food #2, 795 E Thompson Blvd, Ventura",34.278438,-119.2886632
+4,2014-11-21 14:59:19,"Thai Style Noodle House, 3516 Wynn Rd, Las Vegas",36.12588253,-115.19452114
+5,2014-11-21 13:02:35,"Downtown Container Park, 707 Fremont St, Las Vegas",36.1677557281,-115.138475821
+6,2014-08-11 03:35:48,"Regal Cinemas Coldwater Crossing 14, 211 W Washington Center Rd, Fort Wayne",41.1312950451,-85.1420644955
+7,2014-06-18 19:59:53,"Wings Etc. Maysville Rd. Fort Wayne, 10134 Maysville Rd, Fort Wayne",41.128071,-85.012126
+8,2014-05-29 07:54:41,"Zombie Burger + Drink Lab, 300 E Grand Ave, Des Moines",41.5903846169,-93.6132693318
+9,2014-05-28 09:07:21,"Iowa Machine Shed, 11151 Hickman Rd, Urbandale",41.615991328,-93.7721882125
+10,2014-04-14 02:30:24,"Agave's Mexican Grill, 212 E Washington Center Rd, Fort Wayne",41.1310796115,-85.0089380207
+11,2014-04-05 05:37:26,"Elevation Burger, 3365 Washtenaw Ave Ste L, Ann Arbor",42.2568251191,-83.6925913641
+12,2014-03-16 03:12:31,"Taqueria Tepatitlan, 362 N Ventura Ave, Ventura",34.28558793,-119.299389124
+13,2014-03-10 21:53:34,"Gate B22, 7800 Col H Weir Cook Mem Dr, Indianapolis",39.7179831884,-86.2965175948
+14,2014-03-02 06:28:22,"Big Boy, 1213 N West Ave, Jackson",42.264101667,-84.4230648592
+15,2014-03-02 02:05:32,"Applebee's, 1706 W Michigan Ave, Jackson",42.24926052,-84.43571627
+16,2014-01-25 09:37:07,"Four Seasons Diner, 223 S Main St, Bryan",41.4722920054,-84.5506927371
+17,2013-12-07 01:04:15,"LaGuardia Airport (LGA), Grand Central Pkwy, East Elmhurst",40.7716531197,-73.8676929474
+18,2013-11-22 10:12:23,"PBR Rock Bar & Grill, 3663 Las Vegas Blvd S #730, Las Vegas",36.1093001787,-115.173078095
+19,2013-11-21 13:05:07,"Cucina by Wolfgang Puck, 3720 Las Vegas Blvd S, Las Vegas",36.1078898388,-115.174907696
+20,2013-07-22 04:25:48,"Dari DE-Lite, 961 E High St, Hicksville",41.3030737638,-84.748013
+21,2013-06-27 08:17:50,"Harbor Freight Tools, 3927 E State Blvd, Fort Wayne",41.09815981,-85.0894021
+22,2013-06-24 06:05:10,"Dave's Lake Shack, 1865 W SR 120, Fremont",41.736063,-85.0272896
+23,2013-06-13 06:47:27,"B. Antonio's Pizza, 5417 Meijer Dr, Fort Wayne",41.1310207844,-85.014183
+24,2013-06-03 06:39:39,"Applebee's, 5414 Meijer Dr, Fort Wayne",41.13148821,-85.01344084
+25,2013-05-27 01:19:15,"Satek Winery, 6208 N Van Guilder Rd, Fremont",41.7331790027,-84.9757070906
+26,2013-05-25 05:44:09,"Nolt's Marketplace, 10370 Leo Rd, Fort Wayne",41.1798823359,-85.0738296952
+27,2013-05-04 23:31:06,"IAB, 17505 State Road 37, Harlan",41.1964902424,-84.9201954482
+28,2013-04-07 00:21:46,"Invicta, 2223 N West Shore Boulevard, Tampa, Florida 33607, Tampa",27.964736418,-82.5216674289
+29,2013-04-06 21:43:20,"Siesta Key Beach, 948 Beach Rd, Sarasota",27.266693,-82.555406
+30,2013-04-06 01:25:05,"Siesta Key Chamber of Commerce, 5118 Ocean Blvd, Sarasota",27.2768954333,-82.5647922333
+31,2013-04-05 04:35:01,"Rico's Pizzeria & Pasta House, 1902 Bay Rd, Sarasota",27.2986637831,-82.5315755785
+32,2013-04-03 09:08:16,"Davidson Drugs, 5124 Ocean Blvd, Sarasota",27.2769313044,-82.5649541616
+33,2013-04-02 22:13:41,"Sun Garden Cafe, 210 Avenida Madera, Sarasota",27.2766690694,-82.5637954473
+34,2013-03-30 05:30:10,"Holiday Inn Chicago - Midway Airport, 6624 S Cicero Ave, Chicago",41.772188,-87.745225
+35,2013-03-30 04:56:17,"Toll Plaza 43, I-80, Westbound, Hazel Crest",41.5814796292,-87.6781001572
+36,2013-03-19 23:10:16,"Michigan Welcome Center, Mile #10, I-75 NB, Monroe",41.8631748453,-83.4048954733
+37,2013-03-01 03:16:44,"Teppanyaki Grill and Buffet, 285 E Coliseum Blvd, Fort Wayne",41.119519392,-85.1383268018
+38,2013-02-09 08:19:45,"Zianos Italian Eatery, 10520 Maysville Rd, Fort Wayne",41.13075939,-85.00607994
+39,2013-01-11 01:30:46,"Cosmos Restaurants, 3232 Saint Joe Center Rd, Fort Wayne",41.133449742,-85.1005268097
+40,2012-12-04 13:23:58,"Dallas BBQ, 241 W 42nd St, New York",40.7569391097,-73.9888309488
+41,2012-12-04 07:27:07,"Element New York Times Square West, 311 W 39th St, New York",40.755841,-73.991784
+42,2012-12-02 08:46:27,"Rally's Hamburgers, 4810 Coldwater Rd, Fort Wayne",41.1220710746,-85.1352775097
+43,2012-11-10 06:31:25,"Hopsing's Carry Out, 6214 Stellhorn Rd, Fort Wayne, IN 46815, Fort Wayne",41.1200895303,-85.0623941441
+44,2012-11-05 04:38:44,"Rest Area 7-34 (Westbound), US-33 Mile Marker 29.94, Saint Marys",40.5587472948,-84.3278628588
+45,2012-11-04 00:20:56,"Betina Natural Skin Care, 122 W Elder St, Cincinnati",39.11552169,-84.51930378
+46,2012-11-03 05:50:08,"Embassy Suites by Hilton Cincinnati RiverCenter, 10 E Rivercenter Blvd, Covington",39.0901299458,-84.5111945271
+47,2012-10-25 00:24:57,"Ambrosia Bella, 2995 N State Road 127, Angola",41.6859306998,-84.9998603758
+48,2012-10-14 03:28:26,"816 Pint & Slice, 816 S Calhoun St, Fort Wayne",41.0788308754,-85.1395929865
+49,2012-10-05 06:55:09,"Clip-N-Tan, Main St, Woodburn",41.12524805,-84.85554083
+50,2012-09-16 10:45:29,"Arena Dinner Theatre, 719 Rockhill St, Fort Wayne",41.0774667717,-85.1532355567
+51,2012-08-25 07:24:16,"SR 37 Railroad Crossing, 11401-11719 Maysville Rd, New Haven",41.1458274345,-84.991776582
+52,2012-05-28 00:56:08,"The Outlet Shoppes at Fremont, 6245 N Old 27, Fremont",41.7342374054,-85.0024954813
+53,2012-05-10 01:09:58,"McDonald's, 3202 Saint Joe Center Rd, Fort Wayne",41.1331440531,-85.1014985776
+54,2012-05-06 07:55:23,"Bob Evans Restaurant, 5135 Meijer Dr, Fort Wayne",41.1295887869,-85.0123544489
+55,2012-04-30 01:18:32,"Casa Grande, 6035 Stellhorn Rd, Fort Wayne",41.1213412799,-85.0653508772
+56,2012-04-27 19:34:33,"Lassus Handy Dandy, 5545 Stellhorn Rd, Fort Wayne",41.12023512,-85.0719682
+57,2012-04-16 03:08:10,"Concourse A, ATL Airport, Atlanta",33.640883484,-84.4392120838
+58,2012-04-08 02:21:22,"Kentucky Welcome Center, Interstate 65, Franklin",36.64346182,-86.5687167818
+59,2012-04-05 08:49:40,"Magic Kingdom Monorail Station, Walt Disney World, Lake Buena Vista",28.4158146293,-81.5821659565
+60,2012-04-05 05:18:15,"Tony's Town Square Restaurant, Main Street, U.S.A., Lake Buena Vista",28.4168024908,-81.5808204198
+61,2012-04-05 01:28:28,"Walt Disney World Railroad - Main Street Station, 1180 7 Seas Dr., Lake Buena Vista",28.4163946907,-81.5811573075
+62,2012-03-18 06:35:07,"Cheddar's Scratch Kitchen, 305 W Coliseum Blvd, Fort Wayne",41.117497,-85.143212
+63,2012-02-19 01:59:05,"Fort Wayne Youth Theater, 303 E Main St, Fort Wayne",41.0821909799,-85.1367111082
+64,2012-02-08 05:34:00,"TSA Screening, 7800 Col H Weir Cook Mem Dr, Indianapolis",39.7149786595,-86.2976721438
+65,2012-02-04 03:00:05,"McDonald's, 3202 Saint Joe Center Rd, Fort Wayne",41.1331440531,-85.1014985776
+66,2012-01-30 01:50:41,"Chili's Grill & Bar, 317 E Coliseum Blvd, Fort Wayne",41.118868,-85.136865
+67,2012-01-27 00:44:47,"Burger King, 2994 W Lansing Rd, Perry",42.8368726394,-84.2184607192
+68,2012-01-15 00:30:56,"IAB, 17505 State Road 37, Harlan",41.1964902424,-84.9201954482
+69,2012-01-08 05:01:11,"Save-A-Lot, 13325 State St, Grabill",41.21293,-84.9732266
+70,2011-12-31 11:23:35,"Glenbrook Hyundai - Happy Car Store, 4801 Coldwater Rd, Fort Wayne",41.1226176742,-85.136361626
+71,2011-12-24 04:39:44,"Glenbrook Square Mall, 4201 Coldwater Rd, Fort Wayne",41.1158960287,-85.1394939423
+72,2011-12-20 07:26:27,"Charming Charlie, 4110 W. Jefferson Blvd., Fort Wayne",41.07165824,-85.19623483
+73,2011-12-19 01:38:19,"Arts United Center, 303 E Main St, Fort Wayne",41.0810656558,-85.1368761063
+74,2011-12-19 01:34:37,"Fort Wayne Newspapers, 600 W Main St, Fort Wayne",41.0789370958,-85.1481364442
+75,2011-12-18 01:50:35,"Dash In, 814 S Calhoun St, Fort Wayne",41.07890835,-85.139498
+76,2011-12-18 01:37:15,"Cottage Flowers Inc, 236 E Wayne St, Fort Wayne",41.07868,-85.1367
+77,2011-09-11 04:02:13,"Walgreens, 10170 Maysville Rd, Fort Wayne",41.129072,-85.011537
+78,2011-04-09 21:39:35,"At The Beach, 1060 Windsong Ln, Sarasota",27.2604827083,-82.5441819658
+79,2011-01-15 00:52:39,"Tilted Kilt Pub & Eatery, 4541 Illinois Rd, Fort Wayne",41.0740217556,-85.2002700372
+80,2010-10-19 20:07:06,"Masters of Business Online, 11313 USA Pkwy, Fishers",39.951236,-86.002336
+81,2010-05-24 00:48:55,"Hall's Triangle Park, 3010 Trier Rd, Fort Wayne",41.1114536513,-85.1015847362
+82,2010-05-14 22:24:31,"Cirrus ABS, 3213 Stellhorn Rd, Fort Wayne",41.1198993877,-85.0974743149
+83,2010-04-05 02:26:40,"Island oasis, 53rd Ave N, Myrtle Beach",33.72425815,-78.84055705
+84,2010-04-04 07:26:41,"Margaritaville, 1114 Celebrity Circle, Broadway at the Beach, Myrtle Beach",33.7154185142,-78.8766418086
+85,2010-03-26 07:06:38,"Bob Evans Restaurant, 5135 Meijer Dr, Fort Wayne",41.1295887869,-85.0123544489
+86,2010-02-14 22:50:14,"Mike's Express Carwash, 10320 Maysville Rd, Fort Wayne",41.1294408333,-85.0110744
+87,2010-01-23 01:03:09,"Baan Thai, 3235 N Anthony Blvd, Fort Wayne",41.1203509963,-85.1334491883

@@ -1,0 +1,80 @@
+,time,poi,latitude,longitude
+0,2016-10-21 08:54:05,"Double Play Bar & Grill, 2401 16th St, San Francisco",37.765479081,-122.410603973
+1,2016-08-10 10:25:36,"Capital Hotel, 111 W Markham St, Little Rock",34.7479134089,-92.2713030931
+2,2016-05-29 16:18:42,"El Yaqui, Mar del Norte, Rosarito",32.3377923523,-117.053833008
+3,2016-05-12 21:34:33,"Reunion Cafe, 544 Union Ave, Brooklyn",40.7167003702,-73.9519889611
+4,2016-05-08 03:18:54,"EYE, IJpromenade 1, Amsterdam",52.3841228369,4.90100524076
+5,2016-05-08 03:16:06,"Van Gogh Museum, Museumplein 6, Amsterdam",52.3582752657,4.88105880766
+6,2016-05-08 03:13:46,"Winkel 43, Noordermarkt 43, Amsterdam",52.3791031629,4.88630890846
+7,2016-01-10 14:12:17,"Jaleo, 3708 Las Vegas Blvd S, Las Vegas",36.1096522951,-115.173761302
+8,2016-01-10 14:11:38,"Penn & Teller Theater, 3700 W Flamingo Rd, Las Vegas",36.1184691292,-115.187153012
+9,2016-01-10 14:10:59,"Tea Lounge at Mandarin Oriental, Las Vegas, 3752 Las Vegas Blvd S, Las Vegas",36.1064305944,-115.174033426
+10,2016-01-10 14:09:45,"Perry's, 155 Steuart St, San Francisco",37.792861,-122.392363
+11,2016-01-10 14:07:03,"San Drino, 45 Caledonia St, Sausalito",37.858443014,-122.485263167
+12,2015-09-15 00:01:45,"The Market, 1355 Market St Ste 100, San Francisco",37.7765691414,-122.417301862
+13,2015-02-23 19:41:43,"La Concha A Renaissance Resort, 1077 Ashford Ave, San Juan",18.45740065,-66.0741035
+14,2015-02-23 19:40:35,"Ramada Inn 36 St, NW 36 St, Miami Springs",25.8082594553,-80.2780690026
+15,2015-02-23 19:38:50,"Ice Box Cafe, Concourse D, near Gate D8, Miami",25.7986547748,-80.2721214294
+16,2015-02-20 21:58:05,"Davey Jones Deli, 1 Gate 6 Rd, Sausalito",37.8731859625,-122.506048553
+17,2015-02-20 21:56:46,"Atlantic Beach Hotel, Vendig St., San Juan",18.4571793394,-66.0722098777
+18,2015-02-20 21:54:57,"Mill Valley Beerworks, 173 Throckmorton Ave, Mill Valley",37.9052990906,-122.549462859
+19,2015-02-05 23:49:05,"Bloodhound, 1145 Folsom St, San Francisco",37.7759217685,-122.408895493
+20,2015-02-05 23:47:25,"Box Kitchen, 431 Natoma St, San Francisco",37.7811326716,-122.406387627
+21,2015-02-05 23:44:23,"Borderlands Cafe, 870 Valencia St, San Francisco",37.7591120892,-122.421469688
+22,2015-02-05 23:41:19,"Belcampo Meat Co., 2405 Larkspur Landing Cir, Larkspur",37.9468131022,-122.508623641
+23,2015-02-01 06:00:49,"Frog Hollow Farm, 1 Ferry Building, Shop # 46, San Francisco",37.7952371543,-122.392941713
+24,2015-02-01 05:59:10,"Trader Joe's, 337 3rd St, San Rafael",37.9697859047,-122.516536387
+25,2015-02-01 05:58:07,"Farley Bar, 601 Murray Cir, Sausalito",37.8374788392,-122.47892338
+26,2015-02-01 05:57:22,"Cibo, 1201 Bridgeway, Sausalito",37.8590424565,-122.485202368
+27,2014-11-15 10:44:26,"Bar Bocce, 1250 Bridgeway, Sausalito",37.859559273,-122.484820997
+28,2014-11-15 10:21:32,"Fast Food Francais, 39 Caledonia St, Sausalito",37.8583195202,-122.485086299
+29,2014-10-11 23:20:02,"Fish., 350 Harbor Dr, Sausalito",37.868274,-122.49769
+30,2014-10-11 23:19:01,"Stanza Coffee, 3126 16th St, San Francisco",37.7650582315,-122.42263332
+31,2014-10-11 23:17:05,"Fred's Coffee Shop, 1917 Bridgeway, Sausalito",37.861926,-122.494572
+32,2014-10-03 00:00:26,"Proof Lab, 244 Shoreline Hwy, Mill Valley",37.8817130641,-122.524277256
+33,2014-09-06 07:03:05,"Bio: A French Caf, 2633 Bridgeway, Sausalito",37.8688480624,-122.502948417
+34,2014-09-06 06:17:48,"Salsalito Taco Shop, 1115 Bridgeway, Sausalito",37.8589316005,-122.484732563
+35,2014-09-03 07:07:30,"Espresso Cielo, 3101 Main St, Santa Monica",33.9979916831,-118.479437828
+36,2014-06-24 18:23:35,"Terminal 4, John F. Kennedy International Airport, Jamaica",40.643759869,-73.7825547316
+37,2014-04-17 07:06:25,"Cucina, 109 Mill Hill Rd, Woodstock",42.0371592874,-74.1104353698
+38,2014-04-13 02:19:17,"Blue Stone Roasting Co., 138 Partition St, Saugerties",42.0762939453,-73.9517974854
+39,2014-03-18 00:35:04,"Cafe La Vie, 514 Octavia St, San Francisco",37.7767610476,-122.424607661
+40,2014-03-18 00:32:27,"Cafe La Vie, 514 Octavia St, San Francisco",37.7767610476,-122.424607661
+41,2014-03-14 03:54:48,"The Ice Cream Bar Soda Fountain, 815 Cole St, San Francisco",37.7664347514,-122.450171184
+42,2014-03-14 03:52:36,"Padrecito, 901 Cole St, San Francisco",37.7657471854,-122.450088249
+43,2014-03-14 03:51:12,"M. Wells Dinette, 22-25 Jackson Ave, Queens",40.7456082269,-73.9476666403
+44,2014-02-27 01:23:34,"A' Putia, 179 5th Ave, Brooklyn",40.6771899755,-73.9797402023
+45,2014-02-09 07:40:45,"Cave Mountain Brewing Co., 5359 State Route 23, Windham",42.307371652,-74.2509269714
+46,2013-12-21 01:37:26,"BKLYN Larder, 228 Flatbush Ave, Brooklyn",40.680658,-73.974825
+47,2013-11-21 05:51:49,"Metropolitan Museum of Art, 1000 5th Ave, New York",40.7791685266,-73.9627570318
+48,2013-10-09 08:43:56,"Standings, 43 E 7th St, New York",40.7282009571,-73.9885784338
+49,2013-10-07 07:42:32,"The Brewery @ Dutch Ale House, 253 Main St, Saugerties",42.07764542,-73.9534297133
+50,2013-09-30 09:15:24,"Allswell, 124 Bedford Ave, Brooklyn",40.7196562507,-73.9559698105
+51,2013-09-09 06:38:27,"Patisserie Lenox, 313 Main St, Great Barrington",42.193989,-73.362644
+52,2013-07-18 22:52:58,"El Rancho, 2904 State Route 32, Saugerties",42.0963430833,-73.9715105295
+53,2013-07-18 22:51:45,"Maison Kayser, 921 Broadway, New York",40.7401246318,-73.9895253631
+54,2013-05-09 09:20:58,"Melt Bar & Grilled, 6700 Rockside Rd, Independence",41.3943322593,-81.6443935287
+55,2013-04-22 21:13:50,"Four Points by Sheraton San Diego Downtown, 1617 1st Ave, San Diego",32.7223323324,-117.163421363
+56,2013-02-06 05:42:51,"Joe Pro Shop, 131 W 21st St, New York",40.7421712318,-73.995005983
+57,2013-01-06 23:50:50,"Arctic Dreams, 394 Main St, New London",43.412962,-71.982376
+58,2012-11-16 00:36:52,"Camp Creek Golf Club, 684 Fazio Dr, Panama City Beach",30.2966161727,-86.039881705
+59,2012-11-14 01:34:48,"Francis Marion Hotel, 387 King St, Charleston",32.7857976763,-79.9365538018
+60,2012-11-12 10:30:22,"Squeeze, 213 E Bay St, Charleston",32.780375,-79.927179
+61,2012-11-12 08:22:46,"Sticky Fingers Smokehouse - Get Sticky. Have Fun!, 235 Meeting St, Charleston",32.7823287249,-79.931784
+62,2012-09-05 07:52:02,"Hotel Triton, 342 Grant Ave, San Francisco",37.7903522221,-122.405404656
+63,2012-04-15 12:09:09,"Souvlaki GR, 116 Stanton St, New York",40.7210447738,-73.9871953349
+64,2012-04-08 23:10:31,"All Souls Unitarian Church, 1157 Lexington Ave, New York",40.7754852054,-73.9584406918
+65,2011-08-22 23:02:46,"NJT - Frank R. Lautenberg Secaucus Junction Station, 1000 New County Rd, Secaucus",40.7617068812,-74.0754066587
+66,2011-05-30 01:31:19,"James Hook & Company, 440 Atlantic Ave, Boston",42.3549286461,-71.0509282351
+67,2011-05-20 21:12:06,"Gimme! Coffee, 228 Mott St, New York",40.7222795768,-73.9951767567
+68,2011-05-08 07:10:35,"The Regal Beagle, 55 Stratford Ave, Greenlawn",40.86818,-73.344005
+69,2011-01-23 00:52:13,"Chicago O'Hare International Airport (ORD), 10000 W Ohare Ave, Chicago",41.97151,-87.89537
+70,2010-11-29 19:51:37,"Terminal C, LaGuardia Airport, East Elmhurst",40.770792514,-73.8645997106
+71,2010-11-20 08:38:34,"Watty & Meg, 248 Court St, Brooklyn",40.685485,-73.9944433
+72,2010-08-21 03:05:26,"Beach Bakery Cafe, 112 Main St, Westhampton Beach",40.809983,-72.64323
+73,2010-02-04 02:26:03,"Sit & Wonder, 688 Washington Ave, Brooklyn",40.677492,-73.963759
+74,2009-12-07 02:41:19,"South Station Terminal (MBTA / Amtrak), 700 Atlantic Ave, Boston",42.3514296543,-71.0553278682
+75,2009-10-24 22:49:18,"O's Tap, 2044 N Western Ave, Chicago",41.918805,-87.687342
+76,2009-10-12 09:08:13,"Fermented Grapes, 651 Vanderbilt Ave, Brooklyn",40.67736487,-73.968944
+77,2009-09-12 21:01:17,"Bill19s New York City, 57 E 54th St, New York",40.7600770845,-73.9730309098
+78,2009-09-05 22:18:46,"La Bagel Delight, 104 Front St, Brooklyn",40.702495,-73.988499

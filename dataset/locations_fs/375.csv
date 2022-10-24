@@ -1,0 +1,78 @@
+,time,poi,latitude,longitude
+0,2016-08-13 02:58:54,"Flavor of India, 161 E Orange Grove Ave, Burbank",34.1815792808,-118.310278466
+1,2016-01-03 15:32:57,"801 Royal, 801 Royal St, New Orleans",29.9589541696,-90.0640228134
+2,2016-01-03 15:32:09,"Ye Old Original Dungeon, 738 Toulouse St, New Orleans",29.9576205861,-90.0663262277
+3,2016-01-01 03:19:50,"Cafe Envie, 1241 Decatur St, New Orleans",29.9614598895,-90.0587403774
+4,2015-11-06 10:55:46,"Smoke's Poutinerie, 1552 N Cahuenga Blvd, Los Angeles",34.0995938397,-118.329183664
+5,2015-08-12 10:19:46,"Poquito Mas, 3701 Cahuenga Blvd #1, Studio City",34.134622,-118.361347
+6,2015-08-11 21:18:06,"Byward Taps, Ottawa MacDonald-Cartier International Airport (YOW), Ottawa",45.3219098143,-75.6669502141
+7,2015-02-22 07:26:30,"Herm's Inn, 1435 Canyon Rd, Logan",41.740734901,-111.799628492
+8,2015-01-20 15:45:14,"Power House, 1714 N Highland Ave, Los Angeles",34.1020501703,-118.338698253
+9,2014-12-13 07:15:38,"Ball & Chain, 1643 N Cahuenga Blvd, Los Angeles",34.1010282818,-118.32970307
+10,2014-12-13 07:13:47,"The Nice Guy, 401 N LA Cienega Blvd, West Hollywood",34.078709,-118.37681
+11,2014-12-13 07:13:05,"Hooray Henry's, 8713 Beverly Blvd, Los Angeles",34.077015,-118.381018
+12,2014-10-31 13:40:00,"Olympia Pizza and Spaghetti House III, 516 15th Ave E, Seattle",47.6238394652,-122.312557379
+13,2014-10-31 11:10:31,"La Cocina Oaxaquena, 1216 Pine St Ste 100, Seattle",47.6152508421,-122.328002437
+14,2014-09-26 11:35:53,"Ball & Chain, 1643 N Cahuenga Blvd, Los Angeles",34.1010282818,-118.32970307
+15,2014-09-23 09:32:25,"Ball & Chain, 1643 N Cahuenga Blvd, Los Angeles",34.1010282818,-118.32970307
+16,2014-09-14 06:34:49,"Sloppy Beginning, 1420 N Mansfield Ave Apt 207, Los Angeles",34.0967483521,-118.340209961
+17,2014-09-13 05:39:15,"Stout Burgers & Beers, 1544 N Cahuenga Blvd, Los Angeles",34.099583,-118.32941
+18,2014-09-06 13:42:53,"The Night Light, 311 Broadway, Oakland",37.7971287951,-122.275908869
+19,2014-09-06 05:08:18,"Exploratorium, Pier 15, San Francisco",37.8012117413,-122.398418361
+20,2014-08-10 06:06:01,"Park Inn by Radisson Hotel and Conference Centre London Heathrow, Bath Rd, Heathrow",51.4826390169,-0.451083183289
+21,2014-07-04 03:25:12,"Malbec Beer, Saint Moritz, Braslia",-15.7901838135,-47.8848937831
+22,2014-02-26 16:35:23,"Executive Hotel Vintage Court, 650 Bush St, San Francisco",37.7903210471,-122.408032003
+23,2013-11-17 16:18:38,"Pizza Inn, Oilibya Westlands, Nairobi",-1.26398973929,36.8031424067
+24,2013-10-26 15:25:33,"The Lobos Truck, 4470 W Sunset Blvd Ste 480, Los Angeles",34.0254880244,-118.381390295
+25,2013-10-21 13:09:07,"Casablanca Lounge, 836 5th Ave, San Diego",32.714143,-117.160072
+26,2013-10-21 10:34:33,"Kansas City Barbeque, 600 W Harbor Dr, San Diego",32.71149506,-117.168597
+27,2013-09-04 15:22:13,"Club kM, 620 East Eleventh Street, New York",40.726909152,-73.9784896374
+28,2013-09-03 01:48:01,"Vault Cafe & Restaurant, 3250 Adeline St, Berkeley",37.8495251148,-122.271373068
+29,2013-07-13 12:42:15,"The Spare Room, 7000 Hollywood Blvd, Los Angeles",34.1012571183,-118.341580492
+30,2013-06-24 09:45:34,"Mi Tierra Restaurant, 11746 Victory Blvd, North Hollywood",34.186385,-118.389432
+31,2013-05-28 02:24:42,"Mi Nayarit Restaurant, 11th Avenue, Delano",35.7690678228,-119.25354396
+32,2013-05-11 15:46:05,"The Other Door, 10437 Burbank Blvd, North Hollywood",34.1724954086,-118.359203882
+33,2013-04-27 13:20:40,"In-N-Out Burger, 25220 N The Old Rd, Newhall",34.377099,-118.565313
+34,2013-03-10 12:15:08,"Hyatt Lobby Bar, 285 Bay St, Long Beach",33.7646374142,-118.194758263
+35,2013-01-13 10:39:09,"Arnaud's Restaurant, 813 Bienville St, New Orleans",29.9556598992,-90.0686206569
+36,2012-11-11 04:04:36,"Poquito Mas, 10651 Magnolia Blvd, North Hollywood",34.16513,-118.363312
+37,2012-10-21 09:05:57,"Pokez Mexican Restaurant, 947 E St, San Diego",32.7145378928,-117.155789137
+38,2012-10-20 15:06:31,"Just Another Day In Paradise, 425 W Ash St, San Diego",32.719859,-117.166968
+39,2012-10-03 05:27:16,"Louise's Trattoria, 232 N Larchmont Blvd, Los Angeles",34.0757151667,-118.323573
+40,2012-08-14 03:44:45,"Crystal Gateway Marriott, 1700 Jefferson Davis Hwy, Arlington",38.8585825949,-77.0528062859
+41,2012-07-11 03:43:38,"Fatburger, 6767 W Sunset Blvd, Los Angeles",34.09834132,-118.33840419
+42,2012-04-08 02:48:51,"Rancheros Tacos Inc, 8447 sunland blvd, Los Angeles",34.2241247491,-118.369515678
+43,2012-04-04 13:40:16,"Blipsy, 369 N Western Ave, Los Angeles",34.0777522102,-118.309308033
+44,2012-04-01 05:04:05,"Do It Center, 3221 W Magnolia Blvd, Burbank",34.1696176924,-118.342864642
+45,2012-02-02 10:28:49,"SUGARFISH by sushi nozawa, 11288 Ventura Blvd, Studio City",34.14035914,-118.3755344
+46,2012-01-28 14:21:13,"Heaven and Hell, 2327 18th St NW, Washington",38.9203460406,-77.0418432209
+47,2012-01-14 17:26:04,"Mardi Gras Bar, 4500 W Tropicana Ave, Las Vegas",36.1021099326,-115.201418354
+48,2011-12-27 08:33:21,"Royal Wolf, 63 Wallace Avenue, Driggs",43.7246689322,-111.112568378
+49,2011-09-24 13:49:43,"Salvage Bar & Lounge, 717 W 7th St, Los Angeles",34.0482431937,-118.258141284
+50,2011-08-05 17:17:34,"RIO All-Suite Hotel & Casino, 3700 W Flamingo Rd, Las Vegas",36.1167902744,-115.18780724
+51,2011-07-02 05:13:08,"Interstate 5, I-5, Bakersfield",35.1709142193,-119.121086597
+52,2011-06-18 15:32:28,"Sake Bar Satsko, 202 E 7th St, New York",40.724671,-73.980181
+53,2011-06-17 11:20:06,"Back Room, 102 Norfolk St, New York",40.718849974,-73.9868280372
+54,2011-06-10 03:46:18,"Los Burritos, 6517 Hollywood Blvd, Los Angeles",34.1016976,-118.331575
+55,2011-06-08 03:21:24,"Lotera Grill, 6627 Hollywood Blvd, Los Angeles",34.1017363177,-118.334446996
+56,2011-04-08 04:12:17,"Te19kila Hollywood, 6541 Hollywood Blvd #108, Los Angeles",34.1017819693,-118.332482724
+57,2011-03-25 12:06:53,"Sushi Eyaki, 5040 Wilshire Blvd, Los Angeles",34.062084,-118.338967
+58,2011-03-06 12:28:22,"The Rustic Spoon, 4384 Lankershim Blvd, Universal City",34.150189,-118.36552132
+59,2011-01-15 03:53:22,"Molly Malone's Irish Pub, 575 S Fairfax Ave, Los Angeles",34.0652992848,-118.361583583
+60,2011-01-15 03:52:05,"Molly Malone's Irish Pub, 575 S Fairfax Ave, Los Angeles",34.0652992848,-118.361583583
+61,2011-01-04 16:32:15,"Unicorn, 1118 E Pike St, Seattle",47.6140535389,-122.317238969
+62,2009-08-15 23:35:08,"Motel 6, 1511 S Country Club Dr, Mesa",33.387602,-111.83883
+63,2009-08-01 19:20:49,"Alexis Park Resort, 375 E. Harmon Ave., Las Vegas",36.1066678641,-115.156009034
+64,2009-07-09 05:33:31,"Saigon Deli, 1237 S Jackson St, Seattle",47.5991061131,-122.315348311
+65,2009-06-17 10:38:10,"Club 33, 33 Royal Street (New Orleans Square), Anaheim",33.8112576223,-117.921418904
+66,2009-03-25 03:29:43,"La Paella, 476 S San Vicente Blvd, Los Angeles",34.069359,-118.37494677
+67,2009-03-15 08:42:04,"Sunset Marquis, 1200 Alta Loma Rd, West Hollywood",34.0923410167,-118.377350395
+68,2009-03-14 05:37:31,"Brennan's Pub, 4089 Lincoln Blvd, Marina del Rey",33.9883159054,-118.446089601
+69,2009-03-14 05:29:31,"Caioti Pizza Cafe, 4346 Tujunga Ave, Studio City",34.1490622649,-118.378836215
+70,2009-03-14 05:28:53,"The Dresden Restaurant, 1760 N Vermont Ave, Los Angeles",34.1030480823,-118.291536724
+71,2009-03-14 05:27:16,"Echo Park Lake, 751 Echo Park Ave, Los Angeles",34.0731398655,-118.260174088
+72,2009-03-14 05:25:11,"Pink's Hot Dogs, 709 N LA Brea Ave, Los Angeles",34.0838588294,-118.34420085
+73,2009-03-14 04:57:22,"Griffith Park, 4730 Crystal Springs Dr, Los Angeles",34.1329431776,-118.284387589
+74,2009-03-11 01:54:55,"Harvelle's, 1432 4th St, Santa Monica",34.015657179,-118.494407237
+75,2009-03-11 01:50:19,"Pink Pepper, 1638 N LA Brea Ave, Los Angeles",34.1007679371,-118.34494209
+76,2009-03-10 12:09:04,"The Waffle, 6255 W Sunset Blvd, Los Angeles",34.0981016528,-118.325804629

@@ -1,0 +1,62 @@
+,time,poi,latitude,longitude
+0,2016-06-30 03:13:01,"Starlandia, 2438 Bull St, Savannah",32.053845037,-81.1014704638
+1,2016-04-06 12:13:30,"American Legion, 1108 Bull St, Savannah",32.0644579201,-81.0972675987
+2,2016-04-06 12:11:52,"Betty Bomber's, 1108 Bull St, Savannah",32.0645000484,-81.097283764
+3,2016-04-06 12:11:03,"Carlito's Mexican, 119 Martin Luther King Jr Blvd, Savannah",32.079551963,-81.0977160931
+4,2016-04-06 12:08:37,"520 Wings, 2705 Bull St, Savannah",32.0526264249,-81.1023702787
+5,2016-04-06 12:05:15,"The Starland Cafe, 11 E 41st St, Savannah",32.05337846,-81.10102
+6,2016-04-06 12:02:55,"The Ordinary Pub, 217 1/2 W Broughton St, Savannah",32.0797135669,-81.0948697091
+7,2016-04-06 12:01:49,"Sorry Charlie's, 116 W Congress St, Savannah",32.080164,-81.093393
+8,2016-04-06 12:01:17,"Foxy Loxy Caf, 1919 Bull St, Savannah",32.0584389375,-81.1001126398
+9,2016-04-06 12:00:02,"The Florence, 1 B West Victory Drive, Savannah",32.0524776027,-81.1029845176
+10,2016-04-06 11:58:53,"the grey, 109 Martin Luther King Jr Blvd, Savannah",32.0798706844,-81.0976663418
+11,2014-10-06 05:13:00,"Monday Night Brewing, 670 Trabert Ave NW, Atlanta",33.795007353,-84.4100262233
+12,2014-10-06 05:10:59,"West Egg Caf, 1100 Howell Mill Rd NW, Atlanta",33.7843149638,-84.41200912
+13,2013-12-10 21:19:47,"T.J. Maxx, 1646 Montgomery Hwy, Hoover",33.3932896775,-86.8073351886
+14,2013-08-20 06:00:23,"Skip's Chicago Dogs, 48 N Avondale Rd, Avondale Estates",33.7758215,-84.27099897
+15,2013-08-20 05:58:13,"Eyebrow Queen Spa, 1775 Columbia Dr, Decatur",33.7385261508,-84.2528642246
+16,2013-08-20 05:52:41,"Holly's Cupcake Shop, 1706 Highway 138 SE Ste D, Conyers",33.6451127711,-84.0130475664
+17,2013-08-02 19:50:13,"Chapel Hill Middle School, 3501-3597 Dogwood Farm Rd, Decatur",33.6796365137,-84.215917296
+18,2013-07-04 01:49:21,"McDonald's, 1015 Quintard Dr, Oxford",33.607097,-85.8281569667
+19,2013-06-17 06:58:49,"MARBAR Beachside Cantina, 314 E Howard Ave, Decatur",33.7719094834,-84.2921218884
+20,2013-06-05 05:37:40,"Cake Cafe Atlanta, 368 Candler Rd SE, Atlanta",33.742308,-84.289476
+21,2013-04-05 23:44:02,"Cafeteria, 119 7th Ave, New York",40.7405760411,-73.9982024607
+22,2013-03-07 23:34:43,"JC Mar Restaurant, 736 Nostrand Ave, Brooklyn",40.673484,-73.950302
+23,2013-03-07 03:08:56,"Prohibition Bakery, 9 Clinton St, New York",40.7211525827,-73.984061804
+24,2013-03-04 03:20:14,"Cafe Katja, 79 Orchard St, New York",40.7177756338,-73.990449332
+25,2013-02-28 10:05:33,"Masago Bistro, 766 Nostrand Ave, Brooklyn",40.672414482,-73.9502324918
+26,2013-02-16 09:31:21,"Joe's Pub at The Public, 425 Lafayette St, New York",40.7293006376,-73.9919299685
+27,2013-01-25 03:20:05,"Tugboat Tea Company, 546 Flatbush Ave, Brooklyn",40.6606664817,-73.9608055071
+28,2013-01-14 22:36:51,"BcCo Studios - TWiB! EAST | #TWiBnation, Crown Heights, Brooklyn",40.6655660776,-73.9514895744
+29,2012-12-07 23:45:37,"Mayfield, 688 Franklin Ave, Brooklyn",40.67493467,-73.956609662
+30,2012-12-04 06:58:02,"Lucid Cafe, 311 Lexington Ave, New York",40.7488505881,-73.978006943
+31,2012-11-17 22:46:08,"Khamit Kinks, 400 Atlantic Ave, Brooklyn",40.6868095176,-73.9850718855
+32,2012-03-29 09:59:35,"Jacques Torres Chocolate, 350 Hudson St, New York",40.7279585411,-74.0070168877
+33,2012-03-18 23:31:13,"Artists and Fleas at Chelsea Market, 88 10th Ave, New York",40.7428986539,-74.0073841467
+34,2012-03-02 03:51:59,"Tuck Shop, 75 9th Ave, New York",40.7423921016,-74.0063256025
+35,2012-01-31 22:18:55,"Barboncino, 781 Franklin Ave, Brooklyn",40.6720618526,-73.957259953
+36,2012-01-03 08:35:41,"Chavela's, 736 Franklin Ave, Brooklyn",40.6733504244,-73.9570803359
+37,2012-01-02 09:38:31,"Blue Ginger, 106 8th Ave, New York",40.7407582467,-74.0018924037
+38,2011-12-30 01:24:05,"BKLYN Larder, 228 Flatbush Ave, Brooklyn",40.680658,-73.974825
+39,2011-12-15 01:49:27,"Paulie Gee19s, 60 Greenpoint Ave, Brooklyn",40.729813,-73.958467
+40,2011-12-05 02:18:06,"Sweet & Social, 1935 Palmer Ave, Larchmont",40.9320485539,-73.7594296689
+41,2011-09-20 03:25:07,"Blue Ginger, 106 8th Ave, New York",40.7407582467,-74.0018924037
+42,2011-09-20 03:24:49,"Exit 9 Gift Emporium, 51 Avenue A, New York",40.7240572787,-73.9852112532
+43,2011-09-20 03:24:31,"Divine Studios, 21 E 4th St, New York",40.727977,-73.993141
+44,2011-09-20 03:24:08,"Bond No. 9, 9 Bond St, New York",40.7267611753,-73.9945124467
+45,2011-09-14 03:56:40,"Weather Up, 589 Vanderbilt Ave, Brooklyn",40.6798732121,-73.9678385854
+46,2011-09-14 03:56:17,"Cheryl's Global Soul, 236 Underhill Ave, Brooklyn",40.6735642058,-73.967256943
+47,2011-09-11 05:40:34,"Nyonya, 199 Grand St, New York",40.7191924589,-73.9968768185
+48,2011-09-01 22:38:48,"The Meatball Shop, 170 Bedford Ave, Brooklyn",40.7181100714,-73.9575452688
+49,2011-06-27 21:36:58,"Joe & Pat Pizzeria and Restaurant, 1758 Victory Blvd, Staten Island",40.613106,-74.122238
+50,2011-06-27 21:36:22,"Wooly's Ice, 89 South St, New York",40.7138326591,-74.0027417118
+51,2011-06-27 21:35:57,"SoHo Gallery for Digital Art, 138 Sullivan St, New York",40.7268961969,-74.0020473453
+52,2011-06-27 21:35:35,"Ms. Dahlia's Cafe, 449 Nostrand Ave, Brooklyn",40.682055,-73.949952
+53,2011-06-27 21:33:02,"Tom's Restaurant, 782 Washington Ave, Brooklyn",40.6745586001,-73.9632391702
+54,2011-06-13 20:08:07,"Wix.com Office, 10 W 18th St Fl 7, New York",40.7388438205,-73.9929950237
+55,2011-06-13 20:07:44,"Jacques Torres Chocolate, 350 Hudson St, New York",40.7279585411,-74.0070168877
+56,2011-06-13 20:07:10,"Hanson Dry, 925 Fulton St, Brooklyn",40.683419,-73.966372
+57,2011-05-12 10:17:58,"Sprinkles Cupcakes, 780 Lexington Ave, New York",40.7630728113,-73.9675898404
+58,2011-03-23 05:57:47,"Dough, 305 Franklin Ave, Brooklyn",40.6891968241,-73.9573431015
+59,2010-11-02 23:05:36,"Bar Veloce, 146 W Houston St, New York",40.7280767553,-74.0021506396
+60,2010-02-08 12:50:31,"Sweet Revenge, 62 Carmine St, New York",40.7299418013,-74.0042173862

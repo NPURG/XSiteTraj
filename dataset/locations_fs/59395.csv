@@ -1,0 +1,68 @@
+,time,poi,latitude,longitude
+0,2015-09-27 08:17:01,"The Original London Sightseeing Tour, 17-19 Cockspur St, London",51.5080106041,-0.130052100633
+1,2015-09-27 08:11:15,"The White Swan, 14 Vauxhall Bridge Rd, Pimlico",51.489733,-0.13154
+2,2015-09-27 08:09:26,"The Barley Mow, 104 Horseferry Rd, City of Westminster",51.4949787305,-0.131776928902
+3,2015-04-21 04:16:18,"Bistro Bestick, Bryggargatan 8, Stockholm",59.332921,18.059423
+4,2014-12-06 09:51:55,"Moose's Tooth Pub & Pizzeria, 3300 Old Seward Hwy, Anchorage",61.1904597,-149.8690459
+5,2014-12-06 09:51:01,"Double Musky Inn, Mile .3 Crow Creek Rd, Girdwood",60.9657347756,-149.136968851
+6,2014-12-06 09:50:09,"P.F. Chang's, 1600 Settler's Ridge Center Drive, Pittsburgh",40.43097,-80.13236
+7,2014-12-06 09:47:13,"Chama River Brewing Co., 106 2nd St SW, Albuquerque",35.0840628581,-106.649678859
+8,2014-12-03 15:17:42,"The Library Bar & Grill, 312 Central Ave SW, Albuquerque",35.0844162268,-106.65108932
+9,2014-09-27 08:25:45,"Scoops Ice Cream, 3902-3998 N Carolina 12, Nags Head",35.9585896053,-75.6252328597
+10,2014-09-25 08:36:04,"Dirty Dick's Crab House, 2407 S Croatan Hwy, Nags Head",35.9873653983,-75.6450871202
+11,2014-09-24 22:56:15,"Miller's Seafood & Steakhouse, 1520 S Virginia Dare Trail, Kill Devil Hills",36.00018483,-75.6490731
+12,2014-09-23 22:48:18,"Stack 'em High Pancakes, 1225 S Croatan Hwy, Kill Devil Hills",36.0022606054,-75.6536149979
+13,2014-09-22 07:34:01,"Commonwealth Park Suites, 901 Bank St, Richmond",37.5387275647,-77.4356758493
+14,2014-09-21 09:15:48,"Capital Ale House, 623 E Main St, Richmond",37.5394433664,-77.4385821819
+15,2014-09-21 04:57:46,"Triple Crossing Brewing - Downtown, 113 S Foushee St, Richmond",37.5414808273,-77.4456015229
+16,2014-04-18 01:29:41,"De Pottekijker, Kaasrui 5, Antwerpen",51.22117,4.40194
+17,2014-04-17 03:22:15," la Mort Subite, Warmoesberg 7 Rue Montagne-aux-Herbes-Potagres, Brussel",50.8487380728,4.3560898304
+18,2014-03-21 02:42:46,"Stoney's Restaurant, 1433 P St NW, Washington",38.9097901909,-77.0333057642
+19,2013-11-23 20:15:53,"Markt, Markt, Brugge",51.2087553572,3.22426736355
+20,2013-10-01 10:51:11,"South Lawn - White House, 1600 Pennsylvania Ave NW, Washington",38.8953328553,-77.0364793897
+21,2013-08-09 06:30:44,"Harpoon Hanna's, Lighthouse Rd, Fenwick Island",38.4519419213,-75.0638401508
+22,2013-06-08 07:48:54,"Novotel Brussels Centre Tour Noire, Rue de la Vierge Noire 32, Brussel",50.8506791349,4.35007221937
+23,2013-05-27 03:14:20,"VisitPittsburgh Welcome Center, 1000 Airport Blvd, Findlay Township",40.4960611865,-80.2582868719
+24,2013-05-26 09:27:26,"Kona Brewing Co. & Brewpub, 75-5629 Kuakini Hwy, Kailua",19.6430118922,-155.997655965
+25,2013-05-26 04:40:30,"Bongo Ben's Island Cafe, 75-5819 Alii Dr, Kailua",19.6339791906,-155.989687818
+26,2013-05-24 12:54:43,"Papak4dlea Beach (Green Sand Beach), South Point Rd., Ka Lae",18.9215598954,-155.672841265
+27,2012-12-07 08:23:13,"Pittsburgh Grille And Sports Bar, 381 N Shore Dr, Pittsburgh",40.4456124874,-80.0111743014
+28,2012-10-16 00:40:28,"Rossi Pizza and Italian Cuisine, 215 9th St, Monaca",40.69284,-80.2808225155
+29,2012-10-02 07:43:53,"Bowser's Resturaunt, 1493 Brodhead Road, Monaca",40.6720211661,-80.3090715408
+30,2012-09-14 08:30:09,"Billy Goat Tavern, 500 New Jersey Ave NW, Washington",38.896748,-77.0118224
+31,2012-08-14 04:41:58,"The Kimpton George Hotel, 15 E St NW, Washington",38.896392,-77.009982
+32,2012-05-15 03:46:40,"Schouskjelleren Mikrobryggeri, Trondheimsveien 2, Oslo",59.9183253533,10.7601749897
+33,2012-05-14 22:49:16,"Peppes Pizza, Karl Johans gate 1, Oslo",59.9113417305,10.7495856285
+34,2012-05-12 04:00:20,"Belgobaren, Bryggargatan 12, Stockholm",59.3327407043,18.05809021
+35,2012-03-15 03:11:58,"Chicago O'Hare International Airport (ORD), 10000 W Ohare Ave, Chicago",41.97151,-87.89537
+36,2012-03-14 06:40:50,"Billy Goat Tavern, 600 E Grand Ave, Chicago",41.8910966258,-87.6050233841
+37,2012-02-26 14:37:56,"Smokin Joe's, 2001 E Carson St, Pittsburgh",40.4286681092,-79.9774961975
+38,2012-02-26 11:37:00,"Smokin Joe's, 2001 E Carson St, Pittsburgh",40.4286681092,-79.9774961975
+39,2012-01-10 07:46:55,"PJ's Bar-B-Q & Steak House, 3162 Brodhead Rd, Aliquippa",40.6304692667,-80.31055668
+40,2011-09-09 07:56:24,"Bocktown Beer and Grill, 500 Beaver Valley Mall Blvd, Monaca",40.6735184151,-80.3135427833
+41,2011-09-03 22:49:03,"Shay's Restaurant, 4007 Saint Clair Ave, Cleveland",41.5164390685,-81.6642605117
+42,2011-08-10 06:40:09,"PJ's Bar-B-Q & Steak House, 3162 Brodhead Rd, Aliquippa",40.6304692667,-80.31055668
+43,2011-07-26 03:40:43,"Casa Bacardi, Bay View Industrial Park, Catao",18.4580813699,-66.1393100067
+44,2011-07-11 02:59:42,"Steak 'n Shake, 230 Golfview Drive, Monaca",40.6775738032,-80.3111341311
+45,2011-06-05 06:31:52,"Steven F Udvar-Hazy Center, 14390 Air and Space Museum Pkwy, Chantilly",38.9108546157,-77.4443006516
+46,2011-06-05 06:29:13,"Monte Cello's, 20325 Perry Highway, Cranberry Township",40.6923691236,-80.1042930006
+47,2011-05-15 07:32:47,"Sharp Edge Creekhouse, 288 W Steuben St, Pittsburgh",40.4403036833,-80.080864
+48,2011-04-26 20:08:24,"ArcelorMittal Dofasco, 1330 Burlington Street, Hamilton",43.259303393,-79.8104597847
+49,2011-04-14 10:16:46,"Brother Jimmy's BBQ, 6063 Isla Verde Avenue 10th Floor, Carolina",18.4433902016,-66.0180044174
+50,2011-04-14 01:27:31,"Blizz, 413 San Francisco St., San Juan",18.4665583267,-66.1117047071
+51,2011-01-23 01:50:49,"First Watch - Settlers Ridge, 215 Settlers Ridge Center Dr, Pittsburgh",40.44073651,-80.15022909
+52,2011-01-15 08:34:58,"Palazzo Ristorante, 144 6th St, Pittsburgh",40.4429121978,-80.0023396344
+53,2010-10-14 12:01:47,"National Association of Home Builders, 1201 15th St NW, Washington",38.9058289705,-77.0342696919
+54,2010-09-18 00:27:27,"Bocktown Beer and Grill, 500 Beaver Valley Mall Blvd, Monaca",40.6735184151,-80.3135427833
+55,2010-06-14 08:25:34,"J&T's Drive-in Custard, 1257 Mercer Rd, Ellwood City",40.82150147,-80.28665259
+56,2010-04-08 23:05:11,"Score Board, 3455 Brodhead Rd, Monaca",41.0404975476,-80.6584073264
+57,2010-04-08 23:01:50,"Yolandas Pizza, 1601 Pennsylvania Ave, Monaca",40.6875888327,-80.2714010791
+58,2010-04-02 07:27:30,"Rossi Pizza and Italian Cuisine, 215 9th St, Monaca",40.69284,-80.2808225155
+59,2010-02-02 00:27:44,"Monaca Turners, 1700 Brodhead Rd, Monaca",40.6524209149,-80.2959908639
+60,2010-01-09 04:43:12,"SteelCentral, 680 Andersen Dr, Pittsburgh",40.42152158,-80.0625646087
+61,2010-01-09 04:38:36,"Brighton Hot Dog Shoppe, 2401 Noblestown Rd, Pittsburgh",40.42680987,-80.0572013855
+62,2009-12-30 01:52:08,"Vesuvio Pizzeria, 88 Stone Quarry Rd, Monaca",40.6797267576,-80.310857892
+63,2009-11-28 07:31:48,"Rossi Pizza and Italian Cuisine, 215 9th St, Monaca",40.69284,-80.2808225155
+64,2009-11-22 14:02:10,"Applebee's, 3944 Brodhead Rd, Monaca",40.68083988,-80.30027205
+65,2009-11-01 05:37:45,"Brewski's, 1495 Old Brodhead Rd, Monaca",40.67213,-80.3086918
+66,2009-10-31 00:52:43,"Brighton Hot Dog Shoppe, 2401 Noblestown Rd, Pittsburgh",40.42680987,-80.0572013855

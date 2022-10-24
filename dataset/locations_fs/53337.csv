@@ -1,0 +1,58 @@
+,time,poi,latitude,longitude
+0,2017-01-02 10:16:32,"green leaf restaurant, 13200 Aurora Ave N, Seattle",47.724604,-122.344122
+1,2017-01-02 10:15:28,"Regal Cinemas Meridian 16, 1501 7th Ave, Seattle",47.61161363,-122.3336233
+2,2017-01-02 10:14:59,"Gordon Biersch Brewery Restaurant, 600 Pine St, Seattle",47.6127560798,-122.334839702
+3,2016-12-31 04:41:29,"Starbucks, 434 Broadway E, Seattle",47.623122,-122.32063
+4,2016-12-31 04:40:53,"Rudy's Barbershop, 614 E Pine St, Seattle",47.6153706412,-122.323831916
+5,2016-12-31 04:40:35,"McDonald's, Concourse D, Minneapolis",44.8850922205,-93.2101278174
+6,2016-12-31 04:40:14,"M&H, 322 E Main St, Mandan",46.8272268112,-100.885777473
+7,2016-12-31 04:39:38,"Portland International Airport (PDX), 7000 NE Airport Way, Portland",45.5899094992,-122.592842216
+8,2016-12-24 11:26:50,"Petro Serve USA, 1300 E Main St, Mandan",46.82897,-100.87284
+9,2016-12-24 11:25:47,"Walmart, 1000 Old Red Trail Nw, Mandan",46.8468950212,-100.90377972
+10,2016-12-24 11:25:27,"Wok & Roll, 3412 Concourse C, Saint Paul",44.8827132955,-93.2066641504
+11,2016-12-24 11:25:10,"Herberger's, 641 Kirkwood Mall, Bismarck",46.7979889946,-100.785665436
+12,2016-12-24 11:24:55,"Hong Kong Restaurant & Lounge, 1055 E Interstate Ave, Bismarck",46.8330981719,-100.7744302
+13,2016-12-11 10:04:33,"DoubleTree by Hilton Seattle Airport, 18740 International Blvd, SeaTac",47.4354465812,-122.293893099
+14,2016-12-11 10:04:03,"Maxi's, 18740 International Blvd, SeaTac",47.4356062395,-122.293624878
+15,2016-12-11 10:03:17,"SUBWAY, 9540 Aurora Ave N, Seattle",47.6982301715,-122.344397903
+16,2016-12-11 02:36:35,"Jack in the Box, 2840 S 188th St, SeaTac",47.4348991263,-122.296246066
+17,2016-12-11 02:36:15,"Agua Verde Cafe, 1303 NE Boat St, Seattle",47.6515858576,-122.314361036
+18,2016-12-08 13:30:20,"Vermillion Gallery & Wine Bar, 1508 11th Ave, Seattle",47.6143219393,-122.317957878
+19,2016-12-06 00:36:24,"Victrola Cafe and Roastery, 310 E Pike St, Seattle",47.6141953704,-122.327340245
+20,2016-12-06 00:35:59,"Kona Kitchen, 8501 5th Ave NE, Seattle",47.690542058,-122.323206961
+21,2016-12-06 00:34:57,"Perry Ellis - Fashion Outlets of Chicago, 5220 Fashion Outlets Way #2265, Rosemont",41.9747425012,-87.8672790527
+22,2016-12-06 00:34:28,"Gap Outlet, Fashion Outlets of Chicago, Rosemont",41.9760899728,-87.8672629083
+23,2016-12-06 00:33:38,"Calvin Klein, Fashion Outlets of Chicago, Rosemont",41.9760306685,-87.8673875635
+24,2016-12-06 00:33:13,"Banana Republic Factory Outlet, Fashion Outlets of Chicago, Rosemont",41.9743001622,-87.8668793517
+25,2016-12-06 00:32:08,"Chicago Fire Oven, 5440 N River Rd, Rosemont",41.9774662374,-87.8640553156
+26,2016-12-06 00:31:43,"Fashion Outlets of Chicago Nordstrom Rack, 5220 Fashion Outlets Way Ste 2325, Rosemont",41.9749817881,-87.8669250011
+27,2016-12-06 00:31:21,"Wetzel's Pretzels, 5220 Fashion Outlets Way, Rosemont",41.974496262,-87.8675361903
+28,2016-12-06 00:30:39,"Kenneth Cole @ Fashion Outlets of Chicago, 5220 Fashion Outlets Way, Rosemont",41.9746703448,-87.8675937232
+29,2016-12-06 00:30:10,"Disney Store, 5220 Fashion Outlet Way, Rosemont",41.974322736,-87.8671127901
+30,2016-12-06 00:29:43,"Chickenow, Fashion Outlets of Chicago, Rosemont",41.9745014552,-87.8675697512
+31,2016-12-06 00:29:23,"Food Court, Fashion Outlets of Chicago, Rosemont",41.9744600873,-87.8675601624
+32,2016-12-06 00:28:43,"Fashion Outlets of Chicago, 5220 Fashion Outlets Way, Rosemont",41.9753045582,-87.8675170127
+33,2016-12-06 00:28:24,"Crowne Plaza Chicago O'Hare Hotel & Conference Center, 5440 N River Rd, Rosemont",41.9774487007,-87.86383955
+34,2016-11-28 02:49:15,"Thai Fusion Bistro, 323 NE Thornton Pl, Seattle",47.7025844186,-122.324757032
+35,2016-11-28 02:48:25,"Yellow Dot Cafe, 301 Westlake Ave N, Seattle",47.6209229862,-122.338562608
+36,2016-11-28 02:47:34,"Fuji Bakery, 526 S King St, Seattle",47.5983256102,-122.326376
+37,2016-10-30 08:43:10,"Brooklyn Brothers Pizza, 1919 Hewitt Ave, Everett",47.979338,-122.20296
+38,2016-10-26 22:26:55,"Saranac Public House, 21 W Main Ave, Spokane",47.6589129665,-117.412219048
+39,2016-10-26 22:26:35,"Courtyard Spokane Downtown at the Convention Center, 401 N Riverpoint Blvd, Spokane",47.6620418777,-117.409958189
+40,2016-10-26 22:25:52,"Starbucks, 1790 Kittleson Road NE, Moses Lake",47.101438,-119.247105
+41,2016-10-26 07:08:09,"Lantern Brewing, 938 N 95th St, Seattle",47.6979562575,-122.345638108
+42,2016-10-26 07:06:56,"Cactus, 350 Terry Ave N, Seattle",47.6218458385,-122.337123519
+43,2016-09-18 06:32:18,"Starbucks, 442 Terry Ave N, Seattle",47.6227511187,-122.336953037
+44,2016-09-15 11:18:09,"Red Mill Burgers, 312 N 67th St, Seattle",47.6778414,-122.354736328
+45,2016-09-12 21:26:49,"El Chupacabra, 6711 Greenwood Ave N, Seattle",47.6781404944,-122.355540991
+46,2016-09-12 21:26:26,"NSC College Center, 9600 College Way N, Seattle",47.699042025,-122.333458109
+47,2016-09-12 21:26:07,"North Seattle College, 9600 College Way N, Seattle",47.6988968239,-122.333464836
+48,2016-09-06 21:16:45,"Auntie Anne's Pretzels, at Gate D36, DFW Airport",32.8991769778,-97.043204274
+49,2016-09-06 21:16:15,"Dallas Fort Worth International Airport (DFW), 2400 Aviation Dr, DFW Airport",32.8972775632,-97.0371188753
+50,2016-09-06 21:15:43,"Gate A13, Terminal 3, Mississauga",43.6852402349,-79.6237792688
+51,2016-09-05 17:03:30,"Starbucks, T3 Gate A14 USA Post-Security, Mississauga",43.6851379209,-79.6238505594
+52,2016-09-05 17:03:16,"Terminal 3, Toronto Pearson International Airport (YYZ), Mississauga",43.6855785619,-79.6200172359
+53,2016-09-05 17:02:50,"Toronto Pearson International Airport (YYZ), 3111 Convair Dr., Mississauga",43.6816571553,-79.6125310924
+54,2016-09-05 05:28:14,"DEQ, 181 Wellington Street W., Toronto",43.6447881808,-79.3866595553
+55,2016-09-05 05:27:59,"The Ritz-Carlton Toronto, 181 Wellington Street West, Toronto",43.6457588544,-79.3871268962
+56,2016-09-05 05:27:42,"Popeyes Louisiana Kitchen, 273 Yonge St., Toronto",43.6553942832,-79.3803584701

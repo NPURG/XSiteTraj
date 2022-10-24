@@ -1,0 +1,103 @@
+,time,poi,latitude,longitude
+0,2016-01-02 05:54:49,"Scorpios Mykonos, a0b1c1acb3bab1, 9ccdbabfbdbfc2",37.4068518073,25.3476525755
+1,2016-01-02 05:53:33,"JackieO' Beach, a0bbb9bdc4c1af, 9ccdbabfbdbfc2",37.4140323543,25.3679167081
+2,2016-01-02 05:52:16,"ABC Kitchen, 35 E 18th St, New York",40.7376829838,-73.9897032705
+3,2016-01-02 05:50:50,"Angel's Breakfast with Noreen, 11 Carver Street, Provincetown",42.049598,-70.190175
+4,2016-01-02 05:49:16,"Pop+Dutch, 147 Commercial St, Provincetown",42.0464155257,-70.19121717
+5,2016-01-02 05:46:28,"The Local House, 400 Ocean Dr, Miami Beach",25.7733696423,-80.1321043326
+6,2016-01-02 02:10:31,"The Red Inn & Restaurant, 15 Commercial St, Provincetown",42.0393352529,-70.1950658531
+7,2016-01-02 02:09:01,"Atlantic House, 6 Masonic Pl, Provincetown",42.0500255892,-70.1887536049
+8,2016-01-02 02:08:08,"Saki, 258 Commercial St, Provincetown",42.051125,-70.187685
+9,2016-01-02 01:11:37,"Joe Coffee & Cafe, 170 Commercial St, Provincetown",42.0478067945,-70.1900678873
+10,2016-01-02 01:10:40,"Le Pain Quotidien, 931 Broadway, New York",40.7403995657,-73.9894737125
+11,2016-01-02 01:09:38,"Taqueria Diana, 601 Avenue of the Americas, New York",40.7394877593,-73.9952642283
+12,2016-01-02 01:08:27,"Herbsaint, 701 Saint Charles Ave, New Orleans",29.9472653335,-90.0714325905
+13,2016-01-02 01:06:36,"Apple West 14th Street, 401 W 14th Street, New York",40.74127,-74.005389
+14,2016-01-02 01:05:47,"House of Blues New Orleans, 225 Decatur St, New Orleans",29.9533008923,-90.066171142
+15,2016-01-02 01:05:19,"Arnaud's French 75 Bar, 813 Bienville St, New Orleans",29.9557163369,-90.0687803141
+16,2016-01-02 01:04:00,"Walter's, 166 Dekalb Ave, Brooklyn",40.6894612182,-73.9732539654
+17,2016-01-02 01:02:45,"Glass House Tavern, 252 W 47th St, New York",40.7599437568,-73.9865845442
+18,2016-01-02 01:00:44,"Pizza Beach, 167 Orchard St, New York",40.7214089773,-73.9884062644
+19,2016-01-02 00:59:28,"Santa Fe Restaurant, Main St, Kingston",41.9332524443,-74.017139205
+20,2016-01-02 00:58:41,"Kitchenette, 1219 Rte 213, High Falls",41.8269442105,-74.1265623269
+21,2016-01-02 00:57:18,"Belle Isle, Island Ave, Miami Beach",25.7911129451,-80.1480781421
+22,2016-01-02 00:55:59,"Wynwood Kitchen & Bar, 2550 NW 2nd Ave, Miami",25.8013135175,-80.1992833614
+23,2016-01-02 00:53:33,"Yard House, 1681 Lenox Ave, Miami Beach",25.7915353005,-80.1400043803
+24,2015-12-31 03:17:03,"Savory Bakery & Cafe, 1701 Sunset Harbor Dr Ste 101, Miami Beach",25.7919122645,-80.1442551613
+25,2015-12-31 03:13:14,"Made Man Barbershop, 170 W 23rd St, New York",40.7441798049,-73.9952986609
+26,2015-12-31 03:12:18,"Five On Black, 325 Higgins Ave, Missoula",46.872621,-113.993607
+27,2015-12-31 03:11:02,"The Silk Road, 515 S Higgins Ave, Missoula",46.8665923624,-113.997614086
+28,2015-12-31 03:04:16,"El Cazador, 101 S Higgins Ave, Missoula",46.8699596672,-113.995343788
+29,2015-12-31 03:02:14,"El Diablo, 1429 S Higgins Ave, Missoula",46.85738132,-113.9977998
+30,2015-12-31 03:01:02,"Caffe Dolce, 500 Brooks St, Missoula",46.8592996632,-114.002305269
+31,2015-12-31 02:54:48,"Martin Patrick, 212 3rd Ave N, Minneapolis",44.9850711467,-93.2717436949
+32,2015-12-31 02:53:36,"The Commodore Bar and Restaurant, 79 Western Ave N, Saint Paul",44.9436688705,-93.1168373396
+33,2015-12-31 02:49:17,"The Continental Miami, 2360 Collins Ave, Miami Beach",25.7995138116,-80.1278786808
+34,2015-12-31 02:36:41,"Boli Miami, 1906 Collins Ave, Miami Beach",25.7953445873,-80.1295417041
+35,2015-09-12 23:02:21,"Queen Vic Guest House Provincetown, 166 Commercial St, Provincetown",42.0475711998,-70.190100931
+36,2015-02-18 03:48:53,"Uma Temakeria, 64 7th Ave, New York",40.7388015822,-73.9995051392
+37,2014-12-20 06:53:29,"Delta SkyClub & SkyDeck, Gate B31, Terminal 4, Queens",40.6390000084,-73.7812103913
+38,2014-05-18 23:36:39,"Salt Lake City International Airport (SLC), 776 N Terminal Dr, Salt Lake City",40.7876443762,-111.982369644
+39,2014-04-23 10:08:26,"Belasco Theatre, 111 W 44th St, New York",40.7566338661,-73.9841249342
+40,2014-03-29 02:33:43,"Empire Tavern, LGA Terminal C, Flushing",40.7708874581,-73.8636119732
+41,2014-01-02 22:59:50,"Chez Drewcifer II, 3 Island Ave, Miami Beach",25.7912290481,-80.1494082501
+42,2013-12-16 03:19:40,"Wolfgang Puck Express, Concourse B, Denver",39.8587230067,-104.67374842
+43,2013-12-15 03:50:15,"ABC Cocina, 38 E 19th St, New York",40.7381690973,-73.9891648293
+44,2013-05-04 11:05:39,"Melibea, 2 Bank St, New York",40.7369984769,-74.0015459061
+45,2013-04-11 08:40:32,"Westside Market, 77 7th Ave, New York",40.7389701456,-73.9993100249
+46,2013-04-10 10:43:53,"FedEx Office Print & Ship Center, 239 Seventh Ave, New York",40.744407,-73.99517
+47,2013-03-23 06:02:51,"Whole Foods Market, 250 7th Ave, New York",40.7449988788,-73.9954880405
+48,2013-02-25 03:17:29,"Cookshop, 156 10th Ave, New York",40.7456589565,-74.0056511372
+49,2013-02-23 13:29:58,"Po, 31 Cornelia St, New York",40.7313320581,-74.0025222301
+50,2013-01-13 06:22:02,"ABC Carpet & Home, 888 Broadway, New York",40.7382173685,-73.9899557839
+51,2013-01-07 02:34:28,"Park Avenue Armory, 643 Park Ave, New York",40.7673190854,-73.9660573596
+52,2013-01-05 12:26:58,"I Sodi, 105 Christopher St, New York",40.7333670497,-74.0048993964
+53,2013-01-01 03:26:43,"Pool at The Standard Spa, Miami Beach, 40 Island Ave, Miami Beach",25.7925835907,-80.149476
+54,2012-12-31 12:50:58,"Sardinia Enoteca Ristorante, 1801 Purdy Ave, Miami Beach",25.7936481584,-80.1442621442
+55,2012-12-29 20:57:46,"Gate G21, Concourse G, Minneapolis",44.8794045374,-93.2063501758
+56,2012-12-29 10:46:51,"Los Ocampo, 1751 Suburban Ave, Saint Paul",44.9503980109,-93.0262190205
+57,2012-12-28 13:08:31,"Marcus Oakdale Cinema, 5677 Hadley Ave N, Oakdale",45.0317577867,-92.9725313187
+58,2012-12-28 11:34:15,"Mill Valley Kitchen, 3906 Excelsior Blvd, Minneapolis",44.940658386,-93.3293912778
+59,2012-12-28 02:45:59,"Marcus Oakdale Cinema, 5677 Hadley Ave N, Oakdale",45.0317577867,-92.9725313187
+60,2012-12-27 04:35:11,"Rosedale Center, 10 Rosedale Ctr, Roseville",45.0123516857,-93.1725360791
+61,2012-12-26 07:57:21,"Senator Larry Craig Memorial Restroom, MSP Airport, Minneapolis",44.8836981833,-93.21190238
+62,2012-12-26 04:50:50,"Missoula International Airport/Johnson-Bell Field (MSO), MSO, Missoula",46.9188979315,-114.084148733
+63,2012-12-25 07:34:13,"Tagliare Delicatessen, 1433 S Higgins Ave, Missoula",46.85728031,-113.997686505
+64,2012-12-24 13:40:50,"Finn & Porter, 100 Madison St, Missoula",46.8675798376,-113.986955107
+65,2012-12-24 07:06:43,"Carmike 12, 3640 Mullan Rd, Missoula",46.8873817983,-114.042742558
+66,2012-12-24 01:46:35,"James Bar, 127 W Alder St, Missoula",46.8749744667,-113.99324406
+67,2012-12-24 01:20:02,"James Bar, 127 W Alder St, Missoula",46.8749744667,-113.99324406
+68,2012-12-23 09:54:10,"Scotty's Table, 131 S Higgins Ave, Missoula",46.8694455048,-113.996060682
+69,2012-12-22 10:14:19,"Walgreens, 2100 Brooks St, Missoula",46.85128194,-114.0137944
+70,2012-12-21 05:56:11,"Southgate Mall, 2901 Brooks St, Missoula",46.845516664,-114.027314186
+71,2012-12-16 04:15:48,"Missoula International Airport/Johnson-Bell Field (MSO), MSO, Missoula",46.9188979315,-114.084148733
+72,2012-12-16 00:22:17,"Minneapolis13Saint Paul International Airport (MSP), 4300 Glumack Dr, Minneapolis",44.8824280244,-93.2112955113
+73,2012-12-15 20:42:06,"Gate B40, Newark Liberty International Airport, Newark",40.6880578839,-74.1772842407
+74,2012-12-15 09:43:09,"Morandi, 211 Waverly Pl, New York",40.7353238037,-74.0017712116
+75,2012-12-15 09:42:04,"Morandi, 211 Waverly Pl, New York",40.7353238037,-74.0017712116
+76,2012-12-14 12:44:21,"The Red Cat, 227 10th Ave, New York",40.7480941545,-74.00413692
+77,2012-08-22 21:47:15,"Relish, 93 Commercial St, Provincetown",42.043839,-70.192463
+78,2012-01-03 11:04:17,"Osteria del Teatro, 1200 Collins Ave, Miami Beach",25.7830633455,-80.1314234734
+79,2011-10-30 07:35:12,"Mole Restaurante Mexicano & Tequileria, 57 Jane St, New York",40.7381965897,-74.005588014
+80,2011-10-17 10:53:25,"Newark Liberty International Airport (EWR), 10 Toler Pl, Newark",40.6950309458,-74.1772224216
+81,2011-10-15 09:07:25,"Scotty's Table, 131 S Higgins Ave, Missoula",46.8694455048,-113.996060682
+82,2011-09-24 09:02:58,"Malatesta Trattoria, 649 Washington St, New York",40.7328381369,-74.0084499121
+83,2011-09-17 23:03:54,"Time Warner Cable, 43 W 23rd St, New York",40.7422897925,-73.9914306854
+84,2011-08-15 00:04:35,"Victor's, 175 Bradford St, Provincetown",42.0437163159,-70.1950774805
+85,2011-07-31 08:07:05,"Ofrenda, 113 7th Ave S, New York",40.7339483631,-74.0025925093
+86,2011-05-27 07:08:30,"Le Zie 2000 Trattoria, 172 7th Ave, New York",40.7423825045,-73.9969399445
+87,2011-01-30 11:08:00,"El Camion Cantina, 194 Avenue A, New York",40.729057,-73.981348
+88,2010-12-28 11:05:26,"Finn & Porter, 100 Madison St, Missoula",46.8675798376,-113.986955107
+89,2010-11-28 11:24:47,"Apple Restaurant & Bombar, 17 Waverly Pl, New York",40.7301900099,-73.9945181855
+90,2010-07-09 22:00:47,"89 Bayberry, 89 Bayberry Ave, Provincetown",42.045836,-70.198207
+91,2010-07-07 21:28:58,"89 Bayberry, 89 Bayberry Ave, Provincetown",42.045836,-70.198207
+92,2010-07-07 03:20:13,"89 Bayberry, 89 Bayberry Ave, Provincetown",42.045836,-70.198207
+93,2010-07-06 03:39:37,"89 Bayberry, 89 Bayberry Ave, Provincetown",42.045836,-70.198207
+94,2010-07-05 03:17:20,"89 Bayberry, 89 Bayberry Ave, Provincetown",42.045836,-70.198207
+95,2010-07-04 22:24:40,"Spiritus Pizza, 190 Commercial St, Provincetown",42.04866556,-70.18925522
+96,2010-07-04 22:23:44,"89 Bayberry, 89 Bayberry Ave, Provincetown",42.045836,-70.198207
+97,2010-06-23 03:19:10,"Chelsea Barbers, 465 W 23rd St, New York",40.74754,-74.003876
+98,2010-06-14 07:56:33,"Morandi, 211 Waverly Pl, New York",40.7353238037,-74.0017712116
+99,2010-06-13 08:51:00,"High Tea, Harbor Park, Fire Island Pines",40.6653319581,-73.0695426464
+100,2010-06-01 00:51:38,"Cookshop, 156 10th Ave, New York",40.7456589565,-74.0056511372
+101,2010-05-29 10:58:56,"Morandi, 211 Waverly Pl, New York",40.7353238037,-74.0017712116

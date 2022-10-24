@@ -1,0 +1,62 @@
+,time,poi,latitude,longitude
+0,2014-10-13 06:06:17,"Royale Eatery, 273 Long St., iKapa",-33.9262356855,18.414782422
+1,2014-08-18 03:52:39,"Radar, 3951 N Mississippi Ave, Portland",45.5516397788,-122.67575057
+2,2014-08-16 14:27:10,"Fishwife, 5328 N Lombard St, Portland",45.58262477,-122.72477
+3,2014-08-16 14:26:19,"Trifecta Tavern and Bakery, 726 SE 6th Ave, Portland",45.5176995863,-122.659510374
+4,2014-08-16 14:25:40,"Old Salt Marketplace, 5027 NE 42nd Ave, Portland",45.5593484487,-122.620629072
+5,2014-08-16 14:24:40,"Pok Pok Noi, 1469 NE Prescott St, Portland",45.555575,-122.650238
+6,2014-08-16 14:23:57,"Tasty 19N Alder, 580 SW 12th Ave, Portland",45.521264622,-122.683428606
+7,2014-08-16 14:22:49,"Laughing Planet Caf, 721 NW 9th Ave, Portland",45.528286,-122.68114248
+8,2014-08-16 14:21:08,"Cafe Nell, 1987 NW Kearney St, Portland",45.529323,-122.692411
+9,2014-08-16 14:19:35,"Burger 7, 4533 Duke St, Alexandria",38.8126344679,-77.1110062553
+10,2014-08-16 14:17:42,"Cafe Rio Mexican Grill, 776 N Terminal Dr, Salt Lake City",40.7870684688,-111.982346356
+11,2014-08-16 14:14:54,"Roman Candle Baking Company, 3377 SE Division St, Portland",45.5048900821,-122.630005815
+12,2014-08-16 14:13:20,"Ava Gene's, 3377 SE Division St, Portland",45.5049796325,-122.629819505
+13,2014-08-16 14:10:39,"Nostrana, 1401 SE Morrison St, Portland",45.517687,-122.651424
+14,2014-08-16 14:06:15,"Nong19s Khao Man Gai, 609 SE Ankeny St, Portland, OR 97214, Portland",45.5222969055,-122.659484863
+15,2014-08-16 14:04:09,"Beam & Anchor, 2710 N Interstate Ave, Portland",45.5421930574,-122.67706232
+16,2014-08-16 14:02:09,"Petite Provence of Alberta, 1824 NE Alberta St, Portland",45.5589465547,-122.646211982
+17,2014-08-16 13:59:12,"Brder Nord, 2240 N. Interstate Blvd, Portland",45.5393600464,-122.67477417
+18,2014-08-16 13:57:55,"Helser's on Alberta, 1538 NE Alberta St, Portland",45.5590180605,-122.648916537
+19,2014-08-16 13:56:03,"Podnah's Pit BBQ, 1625 NE Killingsworth St, Portland",45.5628384236,-122.648305291
+20,2014-08-16 13:55:21,"Sweedeedee, 5202 N Albina Ave, Portland",45.5606942414,-122.67494419
+21,2014-08-16 13:53:25,"Tasty 'N Sons, 3808 N Williams Ave, Portland",45.5499301306,-122.666496658
+22,2014-08-16 13:45:35,"Radar, 3951 N Mississippi Ave, Portland",45.5516397788,-122.67575057
+23,2014-08-16 13:44:07,"Mississippi Studios, 3939 N Mississippi Ave, Portland",45.551541,-122.675715
+24,2014-08-16 13:40:46,"What's The Scoop?, 3540 N Williams Ave, Portland",45.5490658265,-122.666659781
+25,2014-08-16 13:39:24,"Salt & Straw, 2035 NE Alberta St, Portland",45.5591655429,-122.644133299
+26,2014-08-16 13:38:47,"Lovely's Fifty Fifty, 4039 N Mississippi Ave, Portland",45.5530370276,-122.67578418
+27,2013-07-31 12:20:15,"Foodland Farms, 345 Keawe St, Lahaina",20.8853336142,-156.680301215
+28,2012-11-12 07:59:20,"Las Primas Peruvian Kitchen, 3971 N Williams Ave, Portland",45.5517981536,-122.666865594
+29,2012-10-14 01:56:59,"Ringside, 2165 W Burnside St, Portland",45.523368,-122.695793
+30,2012-10-14 01:55:54,"Lincoln Restaurant, 3808 N Williams Ave, Portland",45.5506451017,-122.666504239
+31,2012-10-14 01:54:24,"Ink & Peat, 3808 N Williams Ave #126, Portland",45.550507,-122.66652438
+32,2012-10-14 01:53:30,"Pepita's Mexican Restaurant, 4190 SW Cedar Hills Blvd, Beaverton",45.4900506687,-122.81052947
+33,2012-10-14 01:49:16,"Peking Gourmet Inn, 6029 Leesburg Pike, Falls Church",38.8553794317,-77.1395984807
+34,2012-10-14 01:48:31,"Screen Door, 2337 E Burnside St, Portland",45.5230527857,-122.641628087
+35,2012-10-14 01:45:09,"Table of Contents, 33 NW 4th Ave, Portland",45.5235404399,-122.674530745
+36,2012-08-19 02:02:36,"Ox, 2225 NE M L King Blvd, Portland",45.5393417805,-122.661869441
+37,2012-08-19 01:59:49,"Boke Bowl, 1028 SE Water Ave, Portland",45.5153989358,-122.665898676
+38,2012-08-19 01:58:11,"Cerulean Tower Tokyu Hotel, 5c183a26-1, 71ac",35.6564462995,139.699554741
+39,2012-08-19 01:56:49,"Kyotatsu Sushi, e4bc1, 103002",35.7617068902,140.384833402
+40,2012-08-19 01:53:50,"Nong's Khao Man Gai, 1003 SW Alder St., Portland",45.5209404487,-122.680665961
+41,2012-08-19 01:49:50,"Burger & Lobster, 36-38 Dean St, Soho",51.5134059113,-0.132404002581
+42,2012-08-19 01:47:05,"Blackfish Cafe, 2733 NE Highway 101, Lincoln City",44.9851888418,-124.007286
+43,2012-07-05 12:40:45,"What's The Scoop?, 3540 N Williams Ave, Portland",45.5490658265,-122.666659781
+44,2012-03-25 05:03:36,"Boke Bowl, 1028 SE Water Ave, Portland",45.5153989358,-122.665898676
+45,2012-03-25 04:59:57,"Samurai Blue, 3807 N Mississippi Ave, Portland",45.550231885,-122.675721645
+46,2012-03-25 04:58:06,"Prickly Ash, Mississippi, Portland",45.554388,-122.675938
+47,2011-03-22 16:53:13,"Sevruga, Shop 4, Quay 5, V&A Waterfront, iKapa",-33.9047425219,18.4205023981
+48,2011-03-22 16:49:34,"Fork Restaurant, 84 Long St, iKapa",-33.9223347834,18.4192563972
+49,2010-08-08 05:38:14,"FIN, 1852 SE Hawthorne Blvd, Portland",45.5120930745,-122.646431923
+50,2010-03-22 10:44:15,"Podnah's Pit BBQ, 1625 NE Killingsworth St, Portland",45.5628384236,-122.648305291
+51,2010-03-22 10:35:14,"EaT: An Oyster Bar, 3808 N Williams Ave, Portland",45.550309,-122.666516304
+52,2010-03-22 10:34:25,"Nostrana, 1401 SE Morrison St, Portland",45.517687,-122.651424
+53,2010-03-22 10:27:01,"Toro Bravo, 120 NE Russell St, Portland",45.5408188996,-122.663608789
+54,2010-03-22 10:25:10,"Biwa, 215 SE 9th Ave, Portland",45.521453,-122.656767
+55,2010-03-22 10:22:26,"Mee-Sen Thai Eatery, 3924 N Mississippi Ave, Portland",45.5512744188,-122.675398
+56,2010-03-22 10:20:42,"Sinj, 1022 NW Johnson St, Portland",45.5285764678,-122.681461573
+57,2010-03-22 10:18:53,"Laurelhurst Market, 3155 E Burnside St, Portland",45.523184,-122.632049
+58,2010-03-22 10:17:42,"Milo's City Cafe, 1325 NE Broadway St, Portland",45.5351408665,-122.651838413
+59,2010-03-22 10:16:56,"Pok Pok, 3226 SE Division St, Portland",45.5046212428,-122.632159889
+60,2009-07-07 01:05:31,"Justa Pasta Co, 1336 NW 19th Ave, Portland",45.5325131424,-122.690435246

@@ -1,0 +1,73 @@
+,time,poi,latitude,longitude
+0,2016-10-10 09:35:37,"Lambert's Downtown BBQ, 401 W 2nd St, Austin",30.2653199434,-97.7476303952
+1,2016-10-05 08:29:38,"Pi Pizza, 181 Heights Boulevard, Houston",29.773409,-95.39796
+2,2016-10-05 08:27:41,"Masraff's, 1743 Post Oak Blvd, Houston",29.7479657738,-95.4609560966
+3,2016-10-04 11:01:35,"Jerry Built Homegrown Burgers, 10403 Katy Freeway, Houston",29.7827932544,-95.5540142712
+4,2016-09-21 20:38:07,"Rattan Pan-Asian Bistro, 1396 Eldridge Pkwy, Houston",29.7607543867,-95.6260836124
+5,2016-08-28 06:47:13,"Eureka Heights Brew Co., 941 W 18th St, Houston",29.8022199892,-95.4159808159
+6,2016-07-23 22:48:42,"La Table, 1800 Post Oak Blvd Ste 6110, Houston",29.7474299676,-95.4616885406
+7,2016-04-08 09:23:20,"Sticky's Chicken, Moving Target! (Greater Houston Area), Houston",29.7158406536,-95.4177721297
+8,2016-01-11 00:59:11,"Eight Row Flint, 1039 Yale St, Houston",29.7903818416,-95.3991216828
+9,2015-12-19 09:36:26,"Hubcap Grill, 1111 Prairie, Houston",29.7600768082,-95.3606066108
+10,2015-12-19 09:33:22,"Pax Americana, 4319 Montrose Blvd, Houston",29.7335444542,-95.3909719895
+11,2015-12-18 22:20:13,"Straits, 800 Sorella Court, Suite 940, Houston, TX 77024, Houston",29.7802089491,-95.5609273911
+12,2015-11-12 10:26:53,"KA Sushi, 1901 N Shepherd Dr Ste 1, Houston",29.8030965752,-95.4105863683
+13,2015-11-02 10:46:51,"Republic Diner + Sojubang, 1221 W 11th St, Houston",29.7903025989,-95.4092001915
+14,2015-09-06 12:27:35,"Lei Low, 6412 N Main St Ste C, Houston",29.8087764329,-95.3895200943
+15,2015-08-24 01:29:00,"Southern Goods, 623 W 19th St, Houston",29.8026630756,-95.4094868465
+16,2015-07-26 08:42:14,"Bramble, 2231 S Voss Rd, Houston",29.7448736484,-95.5007924794
+17,2015-07-26 08:34:51,"Tacos A Go-Go, 2912 White Oak Dr, Houston",29.7818791538,-95.3899955348
+18,2015-07-26 08:27:30,"Hugs & Donuts, 1901 N Shepherd Dr Ste 4, Houston",29.8029245655,-95.410755134
+19,2015-07-26 08:13:49,"Harold's In The Heights, 350 W 19th St, Houston",29.8026576369,-95.4031816195
+20,2015-07-19 02:27:38,"Boomtown Coffee, 242 W 19th St, Houston",29.8027443875,-95.4008345937
+21,2015-07-19 02:22:22,"Sushi Choo Choo, 1675 S Voss Rd, Houston",29.7493281831,-95.5000344216
+22,2015-07-13 07:28:53,"Julep, 1919 Washington Ave Ste A, Houston",29.7676947155,-95.3778704674
+23,2015-07-10 09:45:03,"Pho Binh, 2916 White Oak Dr, Houston",29.7819286359,-95.3901949143
+24,2015-07-10 09:11:04,"Bovine & Barley, 416 Main St, Houston",29.7611176228,-95.3618752956
+25,2015-07-05 23:51:00,"Velvet Taco, 4819 Washington Ave, Houston",29.7701887848,-95.4101014137
+26,2015-07-05 00:36:04,"Max's Wine Dive, 4720 Washington Ave Ste B, Houston",29.7706186536,-95.4091135252
+27,2015-05-30 12:59:14,"Soma Sushi, 4820 Washington Ave, Houston",29.7707382435,-95.4101657867
+28,2015-05-13 07:26:38,"Watermark Restaurant, 507 12th Ave S, Nashville",36.151702218,-86.7844820023
+29,2015-05-13 07:17:12,"Hughie's Tavern & Grille, 1802 W 18th St, Houston",29.8015155196,-95.4315477556
+30,2015-04-10 21:13:40,"The Pass and Provisions, 807 Taft St, Houston",29.7587783765,-95.3856195848
+31,2015-04-07 03:13:40,"Jackson Street BBQ, 209 Jackson St, Houston",29.7592116303,-95.354159312
+32,2015-03-31 22:19:33,"Samurai Noodle, 1801 Durham Dr Ste 2, Houston",29.7766690904,-95.4112665481
+33,2015-03-17 08:47:47,"Karbach Brewing Co., 2032 Karbach St, Houston",29.8063663155,-95.4601529784
+34,2015-03-17 08:41:58,"Urban Eats, 3414 Washington Ave, Houston",29.7694843422,-95.3947757185
+35,2015-03-17 08:40:12,"Down House, 1801 Yale St, Houston",29.8021402625,-95.3994233559
+36,2015-02-21 01:32:27,"Catalina Coffee, 2201 Washington Ave, Houston",29.7679173946,-95.38064083
+37,2014-09-11 01:44:02,"Tout Suite, 2001 Commerce St, Houston",29.7586389765,-95.3506750023
+38,2014-08-24 01:29:01,"Torchy's Tacos, 2411 S Shepherd Dr, Houston",29.7440808425,-95.4105096568
+39,2014-08-22 01:42:48,"Darband Shish Kabob, 5670 Hillcroft St, Houston",29.7215439743,-95.5012022444
+40,2014-08-07 11:35:23,"Fiskeriet, Youngstorget 2b, Oslo",59.9146159068,10.7498243451
+41,2014-08-07 00:36:17,"Bubba's Texas Burger Shack, 5230 Westpark Dr, Houston",29.7259616743,-95.4668739217
+42,2014-01-16 10:07:54,"Charlie's BBQ, 4803 Bissonnet St, Bellaire",29.7096556222,-95.4628658323
+43,2013-09-21 13:06:39,"13 Celsius, 3000 Caroline St, Houston",29.7412456088,-95.373725423
+44,2013-07-29 07:57:45,"The Rouxpour, 2298 Texas Dr, Sugar Land",29.5963174289,-95.6201296435
+45,2013-07-29 07:39:47,"Brooklyn Athletic Club, 601 Richmond Ave, Houston",29.7342714169,-95.3871173902
+46,2013-06-08 10:34:31,"Batanga, 908 Congress @ Travis, Houston",29.7625332997,-95.361521244
+47,2013-03-13 08:02:18,"The Barber's Mark, 4807 Texas 6 #33, Missouri City",29.579819,-95.581705
+48,2012-12-21 03:58:45,"Otto's Barbeque And Burgers, 11222 Fountain Lake Dr, Stafford",29.6401853716,-95.5853878683
+49,2012-12-11 12:56:10,"Adair Kitchen, 5161 San Felipe St Ste 390, Houston",29.7492673411,-95.4665974929
+50,2012-10-07 01:10:27,"Einstein Bros Bagels, 5525 Weslayan St, Houston",29.72214495,-95.44113167
+51,2012-10-05 20:20:59,"Aka Sushi House, 2390 W Alabama St, Houston",29.738669021,-95.4173326492
+52,2012-10-05 20:19:19,"Cleveland Hopkins International Airport (CLE), 5300 Riverside Dr, Cleveland",41.4112001174,-81.8389551394
+53,2012-10-05 20:13:38,"Argentina Cafe, 3055 Sage Rd Ste 130, Houston",29.735261,-95.466281
+54,2012-09-24 03:37:36,"LA Bar, 4302 Richmond Ave Ste A, Houston",29.73283,-95.44893
+55,2012-06-12 20:18:30,"E Tao, 5135 W Alabama St, Houston",29.7366992089,-95.4642120691
+56,2012-06-08 07:36:44,"Kata Robata, 3600 Kirby Dr, Houston",29.7336104056,-95.4192960262
+57,2011-11-15 05:21:13,"Cafe Express, 15930 City Walk, Sugar Land",29.5969398697,-95.6210483648
+58,2011-11-15 05:20:45,"Terry's Pour House, 7535 Broadview Rd, Seven Hills",41.360489721,-81.6845339058
+59,2011-07-12 01:53:16,"Blue Fish House, 2241 Richmond Ave, Houston",29.7339749046,-95.4148757458
+60,2011-01-18 07:42:46,"Red Oak Grill, 203 Century Square Blvd, Sugar Land",29.624469,-95.604963
+61,2011-01-18 07:39:45,"Fish City Grill, 15980 City Walk, Sugar Land",29.5966121703,-95.6215308275
+62,2010-10-26 10:24:35,"The Bombay Palace, 15295 Southwest Fwy, Sugar Land",29.6054884523,-95.6140274394
+63,2010-10-21 08:01:29,"Under the Volcano, 2349 Bissonnet St, Houston",29.7252459,-95.41492
+64,2010-08-16 08:17:21,"Soliz Casa Del Tacos, 303 Dulles Ave, Sugar Land",29.6243578441,-95.582546221
+65,2010-07-10 14:31:40,"Bombay to Beijing, 14025 Southwest Fwy Ste 501, Sugar Land",29.6186002756,-95.6028985977
+66,2010-03-29 07:17:07,"Sabine Park, 100 Sabine St, Houston",29.7617806701,-95.3755040246
+67,2009-11-22 03:39:41,"The Tremont Tap House, 2572 Scranton Rd, Cleveland",41.4771545167,-81.695208
+68,2009-11-15 08:45:29,"Swensons (Seven Hills) Drive-In Restaurants, 7635 Broadview Rd, Seven Hills",41.3580819787,-81.6841354966
+69,2009-10-22 11:30:31,"Winking Lizard Tavern, 6111 Quarry Ln, Independence",41.3943546896,-81.6488268971
+70,2009-09-28 05:45:30,"Prosperity Social Club, 1109 Starkweather Ave, Cleveland",41.4771342333,-81.68982
+71,2009-09-28 05:42:52,"Bar Cento, 1948 W 25th St, Cleveland",41.4847937376,-81.7040266458

@@ -1,0 +1,109 @@
+,time,poi,latitude,longitude
+0,2016-09-08 08:22:53,"Peter Otts Steakhouse & Tavern, 16 Bayview Lndg, Camden",44.2092304155,-69.0640819073
+1,2016-04-04 05:17:01,"Big John's Texas Barbeque, 153 S. Lake Powell Blvd, Page",36.9149930268,-111.455602745
+2,2015-09-15 13:21:01,"Miyo's (new location), 564 Hinano St, Hilo",19.7129405736,-155.068855609
+3,2015-06-28 06:06:08,"Masala House, 6993 Hamner Ave, Corona",33.9608884052,-117.558891275
+4,2015-03-18 15:07:58,"National Car Rental, 320 Ofarrell St, San Francisco",37.7862167256,-122.409901527
+5,2015-03-18 15:07:04,"Souvla, 517 Hayes St, San Francisco",37.7765223593,-122.424945009
+6,2015-03-18 15:05:54,"Souvla, 517 Hayes St, San Francisco",37.7765223593,-122.424945009
+7,2015-03-18 15:05:13,"Papito Hayes, 425 Hayes St Ste A, San Francisco",37.7766899451,-122.423496062
+8,2015-03-18 15:04:11,"Bob's Donut & Pastry Shop, 1621 Polk St, San Francisco",37.791902136,-122.420929938
+9,2015-02-17 11:05:42,"Boxing Room, 399 Grove St, San Francisco",37.777814,-122.423098
+10,2015-02-17 11:04:36,"Samovar Tea Lounge, 411 Valencia St, San Francisco",37.766361838,-122.421976626
+11,2014-12-28 16:35:37,"Canaan Restaurant, E Garvey Ave, West Covina",34.0703474024,-117.888473664
+12,2014-09-14 04:08:42,"Ace Hotel & Swim Club, 701 E Palm Canyon Dr, Palm Springs",33.80073098,-116.539866341
+13,2014-09-14 04:07:11,"Ace Hotel & Swim Club, 701 E Palm Canyon Dr, Palm Springs",33.80073098,-116.539866341
+14,2014-09-14 04:05:23,"Ace Hotel & Swim Club, 701 E Palm Canyon Dr, Palm Springs",33.80073098,-116.539866341
+15,2014-08-28 12:27:30,"Revel, 403 N 36th St, Seattle",47.65201,-122.354083
+16,2014-08-28 12:26:04,"Revel, 403 N 36th St, Seattle",47.65201,-122.354083
+17,2014-08-17 08:56:03,"The Mill, 736 Divisadero St, San Francisco",37.7763288173,-122.438024282
+18,2014-08-17 08:49:23,"The Tipsy Pig, 2231 Chestnut St, San Francisco",37.8002093283,-122.440143228
+19,2014-07-14 14:49:30,"Papito Hayes, 425 Hayes St Ste A, San Francisco",37.7766899451,-122.423496062
+20,2014-06-15 11:54:51,"Pizzeria Delfina, 2406 California St, San Francisco",37.7889116081,-122.434274203
+21,2014-06-15 11:53:59,"Pizzeria Delfina, 2406 California St, San Francisco",37.7889116081,-122.434274203
+22,2014-06-08 07:14:53,"The Tripel, 333 Culver Blvd, Playa del Rey",33.9603360605,-118.446853908
+23,2014-06-02 12:45:34,"Absinthe Brasserie & Bar, 398 Hayes St, San Francisco",37.7773294693,-122.423003912
+24,2014-06-02 12:44:54,"Absinthe Brasserie & Bar, 398 Hayes St, San Francisco",37.7773294693,-122.423003912
+25,2014-06-02 12:42:13,"Denny's, 816 Mission St, San Francisco",37.7842287238,-122.404952645
+26,2014-06-02 12:41:13,"La Boulangerie de San Francisco, 500 Hayes St, San Francisco",37.7766955833,-122.424712479
+27,2014-06-02 12:40:01,"Ritual Coffee Roasters, 432 Octavia St, San Francisco",37.7764926834,-122.424231599
+28,2014-06-02 12:39:09,"Blowfish Sushi to Die For, 2170 Bryant St, San Francisco",37.75963095,-122.410067
+29,2014-05-19 14:32:14,"Bull Valley Roadhouse, 14 Canyon Lake Dr, Port Costa",38.0464054998,-122.183709549
+30,2014-03-09 08:09:36,"Jane, 2123 Fillmore St, San Francisco",37.7893023229,-122.433979511
+31,2014-01-19 08:50:04,"Thrifty Car Rental, 3273 Hoolimalima Pl, Lihue",21.9778325167,-159.356328094
+32,2013-12-16 04:13:19,"Ritual Coffee Roasters, 432 Octavia St, San Francisco",37.7764926834,-122.424231599
+33,2013-11-24 09:22:03,"Proposition Chicken, 1750 Market St, San Francisco",37.7722402862,-122.422754989
+34,2013-09-23 04:55:24,"D.C. Vegetarian, 430 SW 3rd Ave, Portland",45.519560311,-122.677103934
+35,2013-09-23 04:54:33,"Whiskey Soda Lounge, 3131 SE Division St, Portland",45.5048881782,-122.632849216
+36,2013-09-23 04:51:02,"Tacolicious, 741 Valencia St, San Francisco",37.7609920052,-122.421438743
+37,2013-09-15 06:29:41,"Clyde Common, 1014 SW Stark St, Portland",45.5219882001,-122.681426704
+38,2013-09-13 11:23:01,"Andina, 1314 NW Glisan St, Portland",45.5264643975,-122.684369087
+39,2013-09-03 05:05:02,"Brass Tacks, 488 Hayes St, San Francisco",37.7765922908,-122.424408569
+40,2013-09-03 05:03:38,"Twitter HQ, 1355 Market St, San Francisco",37.7766002005,-122.417041919
+41,2013-09-03 05:00:23,"Krux San Francisco, 181 South Park, San Francisco",37.7807143853,-122.394656744
+42,2013-09-03 04:59:06,"Alamo Square, Steiner St, San Francisco",37.7763542578,-122.434698343
+43,2013-09-03 04:57:50,"Toyose, 3814 Noriega St, San Francisco",37.7530907214,-122.504650464
+44,2013-09-03 04:57:06,"Polly Ann Ice Cream, 3138 Noriega St, San Francisco",37.7534542894,-122.497765124
+45,2013-08-30 03:20:41,"Blue Bottle Coffee, 315 Linden St, San Francisco",37.776407,-122.423250675
+46,2013-08-24 04:04:43,"Hyatt Place Austin Downtown, 211 E 3rd St, Austin",30.2645320084,-97.7418002255
+47,2013-08-24 04:04:08,"Hyatt Place Austin Downtown, 211 E 3rd St, Austin",30.2645320084,-97.7418002255
+48,2013-08-22 09:35:04,"Ann W. Richards Congress Avenue Bridge, 1 Congress Ave, Austin",30.2620517957,-97.7449831519
+49,2013-08-21 05:31:21,"Torchy's Tacos, 1311 S 1st St, Austin",30.2511201983,-97.7539756956
+50,2013-08-21 05:30:10,"La Condesa, 400 W 2nd St, Austin",30.2653840403,-97.7477099732
+51,2013-08-20 00:27:14,"Lark Creek Grill, Gate 50, Terminal 2, San Francisco",37.6173588784,-122.38181591
+52,2013-07-26 02:23:48,"Murray's Cheese Bar, 264 Bleecker St, New York",40.7312588874,-74.0030908585
+53,2013-07-14 04:41:09,"Blue Bottle Coffee, 315 Linden St, San Francisco",37.776407,-122.423250675
+54,2013-05-11 13:30:36,"Dosa, 995 Valencia St, San Francisco",37.756992,-122.421117
+55,2013-04-15 14:58:28,"Biergarten, 424 Octavia St, San Francisco",37.7760245512,-122.424165235
+56,2013-04-15 14:55:48,"The Sports Page, 1431 Plymouth St, Mountain View",37.41607098,-122.07860549
+57,2013-04-15 14:53:40,"The Grove, 301 Hayes St, San Francisco",37.7770407811,-122.42140556
+58,2013-03-04 03:42:58,"Little Griddle, 1400 Market St, San Francisco",37.7764432994,-122.418020368
+59,2013-02-02 12:13:32,"Two Sisters Bar & Books, 579 Hayes St, San Francisco",37.7765196206,-122.425873876
+60,2013-01-01 07:41:05,"Ruth's Chris Steak House, 74740 Highway 111, Palm Desert",33.7220836,-116.3608791
+61,2013-01-01 07:38:39,"Esquire Grill, at Terminal B, Sacramento",38.6955253271,-121.592377424
+62,2013-01-01 07:37:46,"Esquire Grill, at Terminal B, Sacramento",38.6955253271,-121.592377424
+63,2013-01-01 07:35:32,"Maracas Cantina, 72775 Dinah Shore Dr, Rancho Mirage",33.8010273704,-116.392827207
+64,2013-01-01 07:33:29,"Pacifica Seafood, 73505 El Paseo, Palm Desert",33.719611,-116.382538
+65,2013-01-01 07:30:30,"Fresh Agave, 73325 Highway 111, Palm Desert",33.7210766668,-116.385478024
+66,2013-01-01 07:28:38,"Jake's, 664 N Palm Canyon Dr, Palm Springs",33.8326750179,-116.546548253
+67,2013-01-01 07:25:46,"Jake's, 664 N Palm Canyon Dr, Palm Springs",33.8326750179,-116.546548253
+68,2012-11-22 08:23:06,"Baagan, 910 Pleasant Grove Blvd Ste 160, Roseville",38.7855738401,-121.286871
+69,2012-11-22 06:50:49,"Shady Coffee and Tea, 325 Douglas Blvd, Roseville",38.7441447973,-121.287477729
+70,2012-11-20 13:48:21,"Suppenkche, 525 Laguna St, San Francisco",37.7763457776,-122.426190376
+71,2012-11-20 13:47:09,"Dobbs Ferry Bar, 406 Hayes St, San Francisco",37.7770215328,-122.423142117
+72,2012-11-20 13:44:07,"La Boulangerie de San Francisco, 500 Hayes St, San Francisco",37.7766955833,-122.424712479
+73,2012-11-20 13:43:06,"Ottimista Enoteca-Caf, 1838 Union St, San Francisco",37.797945,-122.429622
+74,2012-11-20 13:39:54,"Partnerplex, 1600 Amphitheatre Pkwy, Mountain View",37.4222486792,-122.083286783
+75,2012-11-09 07:50:48,"Patricia's Green, 499 Octavia St, San Francisco",37.7763943267,-122.42441963
+76,2012-11-02 22:24:44,"The Sixth Floor Museum, 411 Elm St, Dallas",32.7799314939,-96.8084397328
+77,2012-11-02 22:22:43,"Pecan Lodge, 2702 Main St, Dallas",32.7837607635,-96.7839583096
+78,2012-09-10 10:38:49,"Bistro Central Parc, 560 Central Ave, San Francisco",37.7751179224,-122.444454078
+79,2012-09-10 10:34:42,"Ritual Coffee Roasters, 432 Octavia St, San Francisco",37.7764926834,-122.424231599
+80,2012-08-21 14:30:49,"The Grove, 301 Hayes St, San Francisco",37.7770407811,-122.42140556
+81,2012-08-21 14:27:27,"Chez Maman, 401 Gough St, San Francisco",37.776918161,-122.423086813
+82,2012-08-21 14:21:19,"Blue Bottle Coffee, 315 Linden St, San Francisco",37.776407,-122.423250675
+83,2012-07-05 08:31:37,"Biergarten, 424 Octavia St, San Francisco",37.7760245512,-122.424165235
+84,2012-07-05 08:29:49,"Hamura Saimin Stand, 2956 Kress St, Lihue",21.9717378579,-159.365954116
+85,2012-07-05 08:27:53,"Jack Harter Helicopters, 4231 Ahukini Rd, Lihue",21.98038,-159.359881282
+86,2012-07-05 08:26:45,"Koloa Fish Market, 5476 Koloa Rd., K4dloa",21.9049059156,-159.463720322
+87,2011-10-13 10:51:44,"Bun Mee, 2015 Fillmore St, San Francisco",37.78819,-122.433733
+88,2011-07-23 08:43:09,"Mehfil Indian Cuisine, 2301 Fillmore St, San Francisco",37.79081862,-122.434258367
+89,2011-03-14 13:05:58,"Tanpopo, 1740 Buchanan St, San Francisco",37.7861154294,-122.429877917
+90,2011-03-14 13:04:28,"Tanpopo, 1740 Buchanan St, San Francisco",37.7861154294,-122.429877917
+91,2010-09-28 13:19:31,"La Boulangerie de San Francisco, 2325 Pine St, San Francisco",37.787916016,-122.434008772
+92,2010-09-18 02:10:28,"Tanpopo, 1740 Buchanan St, San Francisco",37.7861154294,-122.429877917
+93,2010-07-15 07:56:41,"Fumi's Shrimp Truck, 56-777 Kamehameha Hwy, Kahuk",21.6893485098,-157.967124493
+94,2010-06-02 06:25:39,"Ong Go Jib Korean Restaurant, 18891 Colima Rd, Rowland Heights",33.9886871935,-117.892377377
+95,2010-04-01 13:53:53,"Dino & Santino's Pizza, 2101 Fillmore St, San Francisco",37.7889181743,-122.433964534
+96,2009-10-26 08:31:45,"Maru Ichi Japanese Noodle House, 368 Castro St, Mountain View",37.3918455585,-122.08039999
+97,2009-10-14 04:54:49,"Turntable Chicken Jazz, 314 5th Ave #F # 2, New York",40.7470972759,-73.9856917055
+98,2009-10-14 04:54:24,"Turntable Chicken Jazz, 314 5th Ave #F # 2, New York",40.7470972759,-73.9856917055
+99,2009-10-03 02:24:48,"Starbucks, 1380 Pear Ave, Mountain View",37.415752,-122.077698
+100,2009-09-16 00:46:51,"Great Mall, 447 Great Mall Dr, Milpitas",37.415738,-121.897412
+101,2009-08-28 04:14:45,"Papalote Mexican Grill, 1777 Fulton St, San Francisco",37.775919,-122.445955
+102,2009-08-18 12:57:53,"Madam Geneva, 4 Bleecker St, New York",40.7253277922,-73.9924981167
+103,2009-08-09 10:05:48,"Costco Wholesale, 1000 N Rengstorff Ave, Mountain View",37.4208388404,-122.095227242
+104,2009-07-15 02:13:46,"Osha Thai Noodle Cafe, 696 Geary St, San Francisco",37.786554,-122.414665
+105,2009-07-15 02:11:56,"Googleplex - CL5, 1500 Crittenden Ln, Mountain View",37.4268542649,-122.071967125
+106,2009-07-07 07:37:18,"Cobb's Comedy Club, 915 Columbus Ave, San Francisco",37.8028698573,-122.414182502
+107,2009-07-07 07:35:04,"Googleplex - CL5, 1500 Crittenden Ln, Mountain View",37.4268542649,-122.071967125

@@ -1,0 +1,95 @@
+,time,poi,latitude,longitude
+0,2016-11-03 02:52:04,"Bread & Butter, 303 5th Ave, New York",40.74653921,-73.9857548353
+1,2016-09-05 07:51:18,"The PokSpot, 120 4th Avenue, New York",40.733201,-73.990132
+2,2016-06-27 06:45:49,"Dunkin' Donuts, 1250 Newell Ave, Walnut Creek",37.8938234067,-122.054316606
+3,2016-05-18 06:54:38,"Tender Greens, 1352 Locust St, Walnut Creek",37.8981036567,-122.061652823
+4,2016-05-18 06:54:24,"Crunch, 61 New Montgomery St, San Francisco",37.788144972,-122.401189703
+5,2016-03-26 00:59:30,"La Note, 2377 Shattuck Ave, Berkeley",37.866266,-122.267418
+6,2015-11-21 08:51:30,"Delarosa, 37 Yerba Buena Ln, San Francisco",37.7857550665,-122.404292854
+7,2015-10-25 04:37:00,"Sushi Rok, 3500 S Las Vegas Blvd., Las Vegas",36.1187928914,-115.173083885
+8,2015-10-25 04:36:37,"Jean Philippe Patisserie, 3730 Las Vegas Blvd S, Las Vegas",36.1078329712,-115.177183102
+9,2015-10-25 04:36:17,"Yardbird, The Venetian (Restaurant Row), Las Vegas",36.1225908391,-115.169036724
+10,2015-10-25 04:35:26,"Otto Las Vegas, 3355 Las Vegas Blvd S, Las Vegas",36.1227199725,-115.168776176
+11,2015-07-23 08:21:31,"Filippos, 5400 College Ave, Oakland",37.8402715698,-122.251239317
+12,2015-07-23 08:20:55,"Restaurant Ch, 5362 College Ave, Oakland",37.839619,-122.25118
+13,2015-07-23 08:20:14,"Lavender Nails Spa, 5856 College Ave, Hayward",37.8470994127,-122.25190404
+14,2015-07-23 08:19:54,"Toast Kitchen + Bar, 5900 College Ave, Oakland",37.8473151822,-122.251848647
+15,2015-07-23 08:18:49,"The Trappist Provisions, 6309 College Ave, Oakland",37.850536,-122.252525
+16,2015-07-23 08:01:38,"Rockridge Market Hall, 5655 College Ave, Oakland",37.843774852,-122.251887422
+17,2015-07-23 07:59:35,"Rockridge Branch Library, 5366 College Ave, Oakland",37.8400748122,-122.251361183
+18,2015-07-23 07:58:58,"Cole Coffee, 307 63rd St, Oakland",37.8502261103,-122.252613902
+19,2015-07-23 07:58:39,"Philz Coffee, 6310 College Ave, Oakland",37.8503108261,-122.252258558
+20,2015-07-23 07:56:59,"Nathan & Co, College Ave, Oakland",37.8438209663,-122.25173786
+21,2015-07-23 07:56:35,"George & Walt's, 5445 College Ave, Oakland",37.8411207244,-122.251638151
+22,2015-07-23 07:56:07,"Ben & Nick's, 5612 College Ave, Oakland",37.84356331,-122.251569
+23,2015-07-23 07:55:25," Ct, 5478 College Ave, Oakland",37.8421015546,-122.251399959
+24,2015-07-23 07:55:02,"Rockridge Cafe, 5492 College Ave, Oakland",37.842342,-122.251587
+25,2015-07-02 04:46:46,"Uno Dos Tacos, 595 Market St, San Francisco",37.7890372265,-122.401051414
+26,2015-07-02 04:46:36,"Acme Bar, 2115 San Pablo Ave, Berkeley",37.8677187974,-122.291453178
+27,2015-07-02 04:46:19,"Xolo, 1916 Telegraph Ave, Oakland",37.808386,-122.269726
+28,2015-07-02 04:46:01,"Mixed Greens (Macy's), 170 Ofarrell St, San Francisco",37.7879244825,-122.407506539
+29,2015-07-02 04:45:44,"Philz Coffee, 6310 College Ave, Oakland",37.8503108261,-122.252258558
+30,2015-07-02 04:45:35,"Shady Lady Saloon, 1409 R St, Sacramento",38.5700307273,-121.491438097
+31,2015-07-02 04:41:03,"Caf Bellini, 235 Powell St, San Francisco",37.786869917,-122.408109439
+32,2015-07-02 04:40:53,"Rockridge Branch Library, 5366 College Ave, Oakland",37.8400748122,-122.251361183
+33,2014-10-12 10:08:23,"Kitchen Story, 3499 16th St, San Francisco",37.7643662527,-122.430895439
+34,2014-10-12 10:07:32,"Cato's Ale House, 3891 Piedmont Ave, Oakland",37.824939,-122.254591
+35,2014-10-12 10:06:35,"Anda Piroshki Haight st., 1727 Haight St, San Francisco",37.7694882464,-122.451160864
+36,2014-10-12 10:05:42,"Bourbon & Beef, 5634 College Ave, Oakland",37.8437331777,-122.251655087
+37,2014-10-12 10:04:31,"La Mission, 1255 University Ave, Berkeley",37.8698165797,-122.287887104
+38,2014-10-12 10:03:19,"Trader Joe's, 5727 College Ave, Oakland",37.8455892988,-122.252513367
+39,2014-10-12 09:59:25,"High Hill Ranch, 2901 High Hill Rd, Placerville",38.7399516721,-120.712078137
+40,2014-10-12 09:58:06,"Pilates ProWorks, 563 Commercial St, San Francisco",37.7942059925,-122.402390041
+41,2014-10-12 09:57:19,"Fresca, 2114 Fillmore St, San Francisco",37.7893155731,-122.433789721
+42,2014-10-12 09:56:29,"Local Edition, 691 Market St, San Francisco",37.7876665585,-122.403435486
+43,2014-10-12 09:55:55,"The Rotunda at Neiman Marcus, 150 Stockton St, San Francisco",37.7875715563,-122.406549634
+44,2014-10-12 09:55:10,"Posh Bagel, 270 Sutter St, San Francisco",37.7896098177,-122.40496215
+45,2014-10-12 09:53:49,"RN74, 301 Mission St, San Francisco",37.7909113264,-122.396166939
+46,2014-10-12 09:53:02,"Americano Restaurant & Bar, 8 Mission St, San Francisco",37.7937933203,-122.392853332
+47,2014-10-12 09:52:32,"Prospect, 300 Spear St, San Francisco",37.7898594843,-122.391409474
+48,2014-10-12 09:52:01,"Perry's, 155 Steuart St, San Francisco",37.792861,-122.392363
+49,2014-10-07 23:24:36,"The Fillmore, 1805 Geary Blvd, San Francisco",37.7840790698,-122.433002341
+50,2014-10-01 15:18:03,"58 Degrees & Holding, 1217 18th St, Sacramento",38.574527,-121.48366727
+51,2014-10-01 15:17:09,"Downtown & Vine, 1200 K St #8, Sacramento",38.5781480923,-121.49009943
+52,2014-10-01 15:12:08,"ENO Wine Bar, 320 Geary St, San Francisco",37.7873891069,-122.408657025
+53,2014-10-01 15:10:38,"Jones, 620 Jones St, San Francisco",37.7869377399,-122.41275553
+54,2014-10-01 15:09:47,"Hawthorn, 46 Geary St, San Francisco",37.7878686766,-122.40415457
+55,2014-10-01 15:08:52,"The Ice Cream Bar Soda Fountain, 815 Cole St, San Francisco",37.7664347514,-122.450171184
+56,2014-10-01 15:07:58,"Tara's Organic Ice Cream, 4731 Telegraph Ave, Oakland",37.834782,-122.263105
+57,2014-10-01 15:07:06,"Tender Greens, 1352 Locust St, Walnut Creek",37.8981036567,-122.061652823
+58,2014-10-01 15:05:50,"The Alembic, 1725 Haight St, San Francisco",37.7694342346,-122.451149806
+59,2014-10-01 15:04:43,"Lush Lounge, 1221 Polk St, San Francisco",37.7881251633,-122.420382416
+60,2014-10-01 15:03:57,"Mr. Pickle's Sandwich Shop, 1050 20th St Ste 120, Sacramento",38.5760345579,-121.480282485
+61,2014-10-01 15:02:56,"Viansa Winery, 25200 Arnold Dr, Sonoma",38.2084441904,-122.451890678
+62,2014-10-01 15:02:17,"Jacuzzi Family Vineyards, 24724 Arnold Dr, Sonoma",38.2146594832,-122.454146434
+63,2014-10-01 15:00:59,"Kunde Family Estate, 9825 Sonoma Hwy, Kenwood",38.4106591336,-122.540044785
+64,2014-10-01 15:00:23,"Lava Cap Winery, 2221 Fruitridge Rd, Placerville",38.7515899335,-120.740733147
+65,2014-10-01 14:59:56,"Gloria Ferrer Caves & Vineyards, 23555 Arnold Dr, Sonoma",38.2239100206,-122.471228893
+66,2014-10-01 14:59:16,"Dosa, 1700 Fillmore St, San Francisco",37.7853389558,-122.432913863
+67,2014-10-01 14:58:43,"Noodle Theory, 6099 Claremont Ave, Oakland",37.849248,-122.252514
+68,2014-10-01 14:58:11,"Lavender Nails Spa, 5856 College Ave, Hayward",37.8470994127,-122.25190404
+69,2014-10-01 14:57:19,"Jack Russell Brewing Co., 2380 Larsen Dr, Camino",38.755605,-120.679064
+70,2014-10-01 12:35:38,"Illuzion, 337 Washington St, Hoboken",40.7412809661,-74.0296192145
+71,2014-10-01 12:30:40,"Lucca Restaurant & Bar, 1615 J St, Sacramento",38.5780510191,-121.484538479
+72,2014-10-01 12:29:26,"Sawasdee By The Sea, 101 Main St, Santa Cruz",36.963431188,-122.022332847
+73,2014-10-01 12:28:54,"Boeger Winery, 1709 Carson Rd, Placerville",38.7429668919,-120.774528939
+74,2014-10-01 12:28:02,"Mizuki Sushi, 5500 Sunrise Blvd Ste 500, Citrus Heights",38.6675695996,-121.27145775
+75,2014-10-01 12:27:25,"Make Westing, 1741 Telegraph Ave, Oakland",37.8074825961,-122.270348668
+76,2014-10-01 12:26:49,"Bar 355, 355 19th St, Oakland",37.8069461507,-122.267036463
+77,2014-10-01 12:26:18,"Fauna, 1900 Telegraph Ave, Oakland",37.808356,-122.269664
+78,2014-10-01 12:25:32,"Xolo, 1916 Telegraph Ave, Oakland",37.808386,-122.269726
+79,2014-10-01 12:24:27,"Ici Ice Cream, 2948 College Ave, Berkeley",37.85735515,-122.253176
+80,2014-07-22 14:23:48,"Omescape - Real Escape Game in SF Bay Area, 5327 Jacuzzi St Ste 3H, Richmond",37.8990110823,-122.311236074
+81,2014-07-06 12:23:51,"Sapporo Grill Japanese Steakhouse, 1118 16th St, Sacramento",38.5764118884,-121.486183405
+82,2014-05-23 10:18:10,"Pancho's Salsa Bar & Grill, 1639 Polk St, San Francisco",37.7919692077,-122.421035017
+83,2014-05-11 05:59:09,"Cafe Citti, 9047 Sonoma Hwy, Kenwood",38.41811335,-122.550259
+84,2014-01-06 03:15:47,"Portal, 1611 2nd Ave, Oakland",37.799489,-122.254728
+85,2013-11-19 06:39:01,"Marconi Dental Group, 4350 Marconi Ave, Sacramento",38.61734,-121.3628483
+86,2013-09-22 13:10:53,"Lallapalooza, 474 Alvarado St, Monterey",36.5982867826,-121.895001482
+87,2013-07-09 00:58:59,"Temple Coffee & Tea, 2600 Fair Oaks Blvd Ste 101, Sacramento",38.5738880142,-121.401214065
+88,2012-05-14 02:58:06,"Sheraton Grand Sacramento Hotel, 1230 J St, Sacramento",38.5792206706,-121.489865221
+89,2012-03-07 05:08:50,"Muntean's Sandwiches and Soups, 1225 J St, Sacramento",38.5792350965,-121.48977598
+90,2012-01-27 11:19:18,"A16, 2355 Chestnut St, San Francisco",37.7997832589,-122.442026702
+91,2012-01-27 01:19:04,"The R & R Cafe, 1230 J St, Sacramento",38.5792105071,-121.489831756
+92,2012-01-01 02:21:09,"The R & R Cafe, 1230 J St, Sacramento",38.5792105071,-121.489831756
+93,2011-11-20 08:35:41,"Zen Sushi, 900 15th St, Sacramento",38.5795031025,-121.486317805

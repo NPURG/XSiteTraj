@@ -1,0 +1,85 @@
+,time,poi,latitude,longitude
+0,2014-04-24 08:04:37,"Klassic Kleaners, 9353 Clairemont Mesa Blvd Ste F, San Diego",32.8307462514,-117.127573639
+1,2013-12-27 08:42:10,"San Diego DMV Office, 3960 Normal St, San Diego",32.7505812572,-117.149169009
+2,2013-11-07 04:59:48,"Whole Foods Market, 8825 Villa La Jolla Dr, La Jolla",32.8686905271,-117.230852449
+3,2013-11-07 04:55:23,"Whole Foods Market, 8825 Villa La Jolla Dr, La Jolla",32.8686905271,-117.230852449
+4,2013-10-31 08:03:41,"Mad House Comedy Club, 502 Horton Plz, San Diego",32.7133506292,-117.163506036
+5,2013-10-31 08:02:35,"Bangkok Spices Thai Restaurant, 3755 Murphy Canyon Rd #J, San Diego",32.8111742405,-117.11598782
+6,2013-10-31 08:00:33,"The Blind Burro, 639 J St, San Diego",32.7092527894,-117.158325062
+7,2013-10-31 07:56:10,"Nordstrom Rack Mission Valley, 1640 Camino Del Rio N, San Diego",32.7695564844,-117.147474462
+8,2013-07-27 12:00:20,"Rubio's, 2075 Camino De La Reina, San Diego",32.7710919074,-117.142410278
+9,2013-07-27 11:58:06,"Fresh & Easy Neighborhood Market, 3231 University Ave, San Diego",32.7482571588,-117.124513415
+10,2013-07-27 11:56:43,"Souplantation, 3804 Valley Centre Dr, San Diego",32.938115,-117.231219
+11,2013-07-27 11:55:41,"San Diego County Fair, 2260 Jimmy Durante Blvd, Del Mar",32.9735750488,-117.261971139
+12,2013-07-27 11:54:06,"Vantage Pointe Apartments, 1281 Ninth Ave, San Diego",32.7185641,-117.1564151
+13,2013-07-27 11:49:18,"Whole Foods Market, 8825 Villa La Jolla Dr, La Jolla",32.8686905271,-117.230852449
+14,2013-07-27 11:47:44,"Mad House Comedy Club, 502 Horton Plz, San Diego",32.7133506292,-117.163506036
+15,2013-07-27 11:42:01,"YMCA Hazard Center Mind & Body Annex, 7610 Hazard Center Dr, San Diego",32.77121179,-117.158009145
+16,2013-07-27 11:40:41,"Whole Foods Market, 711 University Ave, San Diego",32.747940415,-117.15806365
+17,2013-07-27 11:39:11,"Whole Foods Market, 711 University Ave, San Diego",32.747940415,-117.15806365
+18,2013-07-27 11:32:19,"TownePlace Suites Phoenix North, 9425 N Black Canyon Hwy, Phoenix",33.5723083323,-112.114847252
+19,2012-11-28 12:16:34,"Costco Gas, 2345 Fenton Pkwy, San Diego",32.7830021532,-117.127282433
+20,2012-11-28 12:13:25,"Downtown YMCA, 500 W Broadway, San Diego",32.7157726072,-117.16785979
+21,2012-11-28 12:10:32,"La Jolla YMCA, 8355 Cliffridge Ave, La Jolla",32.8584535193,-117.242381852
+22,2012-10-25 08:08:13,"Toby Wells YMCA, 5105 Overland Ave, San Diego",32.8298279582,-117.130195033
+23,2012-09-23 04:55:36,"Pacific Honda, 4761 Convoy St, San Diego",32.827898783,-117.154154916
+24,2012-09-04 06:54:58,"Center Bar, 3790 Las Vegas Blvd S, Las Vegas",36.1019168717,-115.174322919
+25,2012-08-31 15:29:42,"Lucha Libre, 1810 W Washington St, San Diego",32.7432164465,-117.181608081
+26,2012-08-31 15:28:23,"Sipz Vegetarian Fusion Caf, 3930 30th St, San Diego",32.7488788622,-117.130351067
+27,2012-08-31 15:22:22,"Kyoto Sushi, 3166 Midway Dr, San Diego",32.7508855366,-117.20867028
+28,2012-07-18 14:03:05,"Portland City Grill, 111 SW 5th Ave, Portland",45.5225444556,-122.676059604
+29,2012-07-18 14:01:27,"Molly Moon's Homemade Ice Cream, 1622 1/2 N 45th St, Seattle",47.6614710245,-122.338085175
+30,2012-07-18 13:59:45,"Theo Chocolate, 3400 Phinney Ave N, Seattle",47.6511928693,-122.354307175
+31,2012-07-18 13:57:22,"Pike Place Market, 85 Pike St, Seattle",47.6091579031,-122.341047772
+32,2012-07-18 13:53:51,"Analog Bar, 801 5th Ave, San Diego",32.7136632474,-117.160042495
+33,2012-07-11 16:08:21,"Molly Moon's Homemade Ice Cream, 917 E Pine St, Seattle",47.6151645187,-122.319718748
+34,2012-05-11 02:35:45,"County Of San Diego, 9225 Clairemont Mesa Blvd, San Diego",32.8311728292,-117.129275874
+35,2012-05-02 14:57:58,"National Comedy Theatre, 3717 India St, San Diego",32.7428948879,-117.180649
+36,2012-04-20 06:56:24,"La Jolla Yoga Center, 7741 Fay Ave, La Jolla",32.8441972616,-117.274767447
+37,2012-04-20 06:54:38,"La Jolla Yoga Center, 7741 Fay Ave, La Jolla",32.8441972616,-117.274767447
+38,2012-04-15 05:53:07,"The Salvation Army Drop Box, 1640 Camino del Rio N, San Diego",32.7679618287,-117.147325112
+39,2012-04-06 14:43:07,"San Diego International Airport (SAN), 3225 N Harbor Dr, San Diego",32.7326086857,-117.201514965
+40,2012-04-06 14:34:22,"Cell Phone Parking Lot, 2701 N Harbor Dr, San Diego",32.7291280194,-117.184676586
+41,2012-04-06 11:23:47,"Pho Cali Vietnamese Restaurant, 1400 Camino de La Reina #105, San Diego",32.7690914266,-117.15202868
+42,2012-03-08 01:59:26,"McGregor's Grill & Ale House, 10475 San Diego Mission Rd, San Diego",32.7844964493,-117.111082077
+43,2012-02-12 06:55:13,"Grand Creation Salon, 1010 Grand Ave, San Diego",32.7959482708,-117.251240901
+44,2011-12-31 04:49:19,"Bed Bath & Beyond, 1750 Camino del Rio N, San Diego",32.770063481,-117.145671844
+45,2011-12-26 04:22:39,"Pechanga Resort and Casino, 45000 Pechanga Pkwy, Temecula",33.4576717215,-117.107992172
+46,2011-12-25 05:51:42,"Longshadow Ranch Winery, 39847 Calle Contento, Temecula",33.5336004178,-117.075239357
+47,2011-11-24 06:30:00,"Souplantation, 6171 Mission Gorge Rd, San Diego",32.7870940771,-117.097344037
+48,2011-11-08 08:10:55,"Rubio's, 2075 Camino De La Reina, San Diego",32.7710919074,-117.142410278
+49,2011-11-05 00:22:00,"Monte Vista Apartment Homes, 2507 Northside Dr, San Diego",32.7856456071,-117.12783968
+50,2011-11-03 06:22:43,"Jade Thai & Mandarin Cuisine, 10330 FRIARS RD #104-105, San Diego",32.791252,-117.100664
+51,2011-11-03 06:21:58,"San Diego Brewing Company, 10450 Friars Rd, San Diego",32.792241,-117.098914839
+52,2011-11-03 06:20:07,"Rubio's, 10460 Friars Rd, San Diego",32.7920894833,-117.09831
+53,2011-11-03 03:58:42,"Digital Media Now with @MyMelodie #DMN1, 4689 Convoy St, San Diego",32.8260072333,-117.154030383
+54,2011-11-03 03:57:13,"Digital Media Now with @MyMelodie #DMN1, 4689 Convoy St, San Diego",32.8260072333,-117.154030383
+55,2011-10-20 03:41:35,"Bank of America, 1775 Camino de La Reina, San Diego",32.77031471,-117.14421532
+56,2011-10-18 16:34:14,"Godiva Chocolatier, 7007 Friars Rd Ste 526, San Diego",32.7678622476,-117.167816162
+57,2011-10-18 16:32:04,"URBN Coal Fired Pizza, 3085 University Ave, San Diego",32.74830321,-117.127411366
+58,2011-10-18 16:30:28,"Bub's at the Ballpark, 715 J St, San Diego",32.7093592674,-117.158273367
+59,2011-10-18 16:29:41,"Lux Art Institute, 1550 S El Camino Real, Encinitas",33.0276231611,-117.256379315
+60,2011-10-18 16:26:49,"San Diego Brewing Company, 10450 Friars Rd, San Diego",32.792241,-117.098914839
+61,2011-10-18 16:24:09,"Tapioca Heaven, 9225 Mira Mesa Blvd Ste 115, San Diego",32.9166730973,-117.126116233
+62,2011-10-18 16:22:29,"Tilted Kilt Mission Valley, 1640 Camino del Rio N, #341, San Diego",32.7684035395,-117.14700222
+63,2011-10-18 16:22:04,"Tilted Kilt Mission Valley, 1640 Camino del Rio N, #341, San Diego",32.7684035395,-117.14700222
+64,2011-10-17 04:58:06,"La Jolla Yoga Center, 7741 Fay Ave, La Jolla",32.8441972616,-117.274767447
+65,2011-10-15 07:36:39,"Target, 1288 Camino del Rio N, San Diego",32.767781044,-117.150691217
+66,2011-10-10 17:27:23,"Lyceum Theatre, 79 Horton Plz, San Diego",32.7149041893,-117.162167726
+67,2011-10-10 17:25:59,"University Club at Symphony Towers, 750 B St Fl 34, San Diego",32.7179736852,-117.157917242
+68,2011-10-10 17:25:00,"Jake's Del Mar, 1660 Coast Blvd, Del Mar",32.9618703346,-117.268050779
+69,2011-10-10 17:24:12,"Ranchos Cocina, 3910 30th St, San Diego",32.748794,-117.130334
+70,2011-10-08 09:14:14,"McGregor's Grill & Ale House, 10475 San Diego Mission Rd, San Diego",32.7844964493,-117.111082077
+71,2011-10-04 13:07:09,"Ralphs, 5680 Mission Center Rd, San Diego",32.7755258336,-117.155384141
+72,2011-10-04 04:02:10,"Milano Coffee Co, 8685 Rio San Diego Dr Ste B, San Diego",32.774998581,-117.142637747
+73,2011-10-04 04:00:06,"Rubio's, 2075 Camino De La Reina, San Diego",32.7710919074,-117.142410278
+74,2011-10-04 03:58:00,"6 Degrees, 2159 India St Ste 200, San Diego",32.7681341833,-117.136169383
+75,2011-10-04 03:54:50,"Playa Grill & Margarita Bar, 2401 Fenton Pkwy, San Diego",32.7810688313,-117.130951881
+76,2011-10-04 03:50:05,"Monte Vista Leasing Office And Club House, 2507 Northside Dr, San Diego",32.7848451667,-117.12804695
+77,2011-10-02 20:57:13,"Kobey's Swap Meet, 3500 Sports Arena Blvd, San Diego",32.7550008942,-117.213620278
+78,2011-09-30 09:55:34,"L&L Hawaiian Barbecue, 4150 Regents Park Row, San Diego",32.8728472726,-117.217319012
+79,2011-09-20 15:29:45,"Fashion Valley, 7007 Friars Rd, San Diego",32.7679610647,-117.166732948
+80,2011-09-15 02:56:50,"Nordstrom Fashion Valley, 6997 Friars Rd, San Diego",32.7686858544,-117.168434157
+81,2011-09-05 14:59:19,"Blind Lady Ale House, 3416 Adams Ave, San Diego",32.7635137496,-117.120330334
+82,2010-12-03 02:08:46,"Jade Thai & Mandarin Cuisine, 10330 FRIARS RD #104-105, San Diego",32.791252,-117.100664
+83,2010-11-25 06:08:58,"Self-Realization Fellowship Hermitage & Meditation Gardens, 215 W K St, Encinitas",33.0366556934,-117.294106752

@@ -1,0 +1,54 @@
+,time,poi,latitude,longitude
+0,2016-05-14 00:33:47,"Podium onder de Dom, Domstraat 4, Utrecht",52.0915442808,5.12256860733
+1,2016-04-04 16:19:26,"John Dory, Prinsengracht 999, Amsterdam",52.3619425387,4.8938452061
+2,2016-02-20 10:56:23,"Puralma, Rafael Casanova 572, Santa Cruz",-34.6415773468,-71.3739046302
+3,2016-02-19 06:56:31,"Restaurant Casa Luisa, Almirante Montt 533, Valparaso",-33.0438857538,-71.6288241628
+4,2016-02-16 05:04:56,"Mercado Central, Puente 967, Santiago de Chile",-33.4336797326,-70.6510162354
+5,2016-02-16 05:04:15,"Hotel Altiplanico Bellas Artes, Santo Domingo, 526, Santiago de Chile",-33.4358175758,-70.6448079093
+6,2016-02-16 05:00:52,"Paseo Barrio Lastarria, Jos Victorino Lastarria 70, Santiago de Chile",-33.4394351627,-70.6413980948
+7,2016-01-13 16:32:58,"Osteria Le Logge, Via del Porrione 33, Siena",43.318435,11.33331
+8,2016-01-13 16:31:12,"Il Baretto, 43 Blandford St., London",51.5182303065,-0.154377222061
+9,2016-01-07 17:38:24,"Johannes, Herengracht 413, Amsterdam",52.3675114719,4.88719698548
+10,2015-12-31 18:16:29,"Restaurant Breda, Singel 210, Amsterdam",52.3738226866,4.88899369139
+11,2015-12-24 18:07:52,"Balthasar, Praterstrae 38, Wien",48.21498,16.385011
+12,2015-12-24 18:07:37,"Da Laura, 8 rue du 24 Aot, Cannes",43.553068,7.019377
+13,2015-12-24 18:06:29,"The Lobby, Hotel V Nesplein, Amsterdam",52.3711,4.893671
+14,2015-08-16 20:50:46,"De Branding, Midsland aan Zee, Midsland",53.4066745934,5.2860583266
+15,2015-08-16 17:38:08,"De Duyf Terschelling, Raadhuisstraat 3, West-Terschelling",53.3589944596,5.21585047245
+16,2015-08-16 17:22:51,"Restaurant 't Golfje, Heereweg 22a, Midsland",53.38735,5.284999
+17,2015-08-13 20:08:20,"Toldboden, Nordre Toldbod 24, Kbenhavn K",55.6895060512,12.5996017456
+18,2015-08-13 20:05:48,"De Ceuvel, Korte Papaverweg 4, Amsterdam",52.3932380319,4.91063684953
+19,2015-08-13 20:00:52,"Cafe Panache, Ten Katestraat 117, Amsterdam",52.3659149375,4.86803341066
+20,2015-08-13 19:55:02,"Slagerij De Wit, Wakkerstraat 13, Amsterdam",52.35405,4.928832
+21,2015-08-09 03:12:17,"Groot Vleeshuis, Groentenmarkt 7, Gent",51.0558120866,3.72186811978
+22,2015-08-09 03:10:53,"Barista, Meerseniersstraat 16, Gent",51.0575743653,3.72448325157
+23,2015-07-19 18:45:14,"Den Hoek Af, Vlaanderenstraat 1, Gent",51.0512552808,3.7288069725
+24,2015-06-18 06:47:56,"Hotel Graben, 3 Dorotheergasse, Wien",48.2078492373,16.3702328112
+25,2015-05-31 18:52:29,"Estado D'Alma, R. da Junqueira, Centro de Congressos de Lisboa, Loja 3/4, Lisboa",38.699367,-9.185514
+26,2015-05-31 18:47:16,"Sprezzatura Enoteca Italiana, Czaar Peterstraat 118, Amsterdam",52.3702354201,4.92979771669
+27,2015-04-12 18:51:10,"Cordobar, Groe Hamburger Str. 32, Berlin",52.5256966714,13.3986908584
+28,2015-04-12 18:47:08,"Mogg, Auguststr. 11-13, Berlin",52.5264406549,13.394291997
+29,2015-01-15 20:29:40,"Brandmeester's, Van Baerlestraat 13, Amsterdam",52.359667,4.877556
+30,2015-01-15 20:29:13,"Vis aan de Schelde, Scheldeplein 4, Amsterdam",52.344414,4.890473
+31,2015-01-15 20:25:47,"Ngurah Rai International Airport (DPS), Jalan Airport Ngurah Rai, Badung",-8.74446926797,115.166460179
+32,2015-01-12 14:52:38,"Mercure Bali Nusa Dua, Jl.Nusa Dua Selatan Lot SW 03, Nusa Dua",-8.80685719172,115.221136348
+33,2015-01-11 17:23:57,"Nusa Dua Beach, Jalan Nusa Dua, Badung",-8.79449332813,115.232162476
+34,2015-01-11 17:19:55,"The Westin Resort Nusa Dua, Kawasan Pariwisata Nusa Dua BTDC, Nusa Dua",-8.79566856749,115.231081713
+35,2015-01-10 20:03:40,"The Waterfront Resort, Gili Air, Gili Air",-8.36210300106,116.087351667
+36,2015-01-02 12:19:25,"Bar Oldenhof, Elandsgracht 84, Amsterdam",52.36959,4.88057
+37,2015-01-02 12:16:50,"Rakang Thai Restaurant, Elandsgracht 29-31, Amsterdam",52.3697917381,4.88119536526
+38,2015-01-02 12:16:13,"Restaurant Gebr. Hartering, Peperstraat 10HS, Amsterdam",52.37159,4.90750234
+39,2015-01-02 12:14:03,"Restaurant Kul, Hkerboderne 16B - 20, Kbenhavn V",55.6681461376,12.5576305389
+40,2015-01-02 12:12:36,"Kong Arthur, Nrre Sgade 11, Kbenhavn",55.6847669709,12.5653990822
+41,2015-01-02 12:11:48,"Burgermeester, Elandsgracht 130, Amsterdam",52.3691308082,4.8787343502
+42,2015-01-02 12:10:38,"KLM Crown Lounge 25 (Schengen), Concourse D, Luchthaven Schiphol",52.3083211902,4.76523399353
+43,2015-01-02 12:09:42,"Sahadewa Resort And Spa, Jalan Hanoman, Ubud",-8.519226,115.26342
+44,2015-01-02 12:08:50,"Kafe Batan War, Jl. Dewi Sita, Ubud",-8.5099652292,115.263243914
+45,2015-01-02 12:08:06,"Madu Sari Mountain Restaurant, Jl. Raya Penelokan - Kintamani, Bangli",-8.27591406796,115.349718399
+46,2015-01-02 12:06:51,"Aneka Lovina Villas & Spa Bali, Jl. Raya Kalibukbuk, Kalibukbuk",-8.15437838006,115.03279901
+47,2015-01-02 12:05:10,"Fou Fow Ramen, Elandsgracht 2a, Amsterdam",52.3701184481,4.88239425585
+48,2015-01-02 12:04:27,"Cafe Angsa Ubud, Jl. Hanoman, Ubud",-8.514211,115.263753
+49,2014-10-29 21:00:07,"Caf Bopa, Bopa Plads, Kbenhavn ",55.705259903,12.5814378262
+50,2014-10-18 21:55:05,"Delmontel, 39 rue des Martyrs, Paris",48.879467,2.339927
+51,2014-10-09 22:33:37,"Geist, Kongens Nytorv 8, Kbenhavn",55.6813594404,12.5863216418
+52,2014-09-30 02:46:22,"K5feba5f31, Amsteldijk 25, Amsterdam",52.3567111462,4.90462907645

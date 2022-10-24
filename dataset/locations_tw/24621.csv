@@ -1,0 +1,517 @@
+,time,poi,latitude,longitude
+0,2015-10-31 07:27:00,"Nieuwmarkt/Lastage, Amsterdam",52.37164688,4.90910292
+1,2015-10-28 11:24:00,"Grachtengordel-Zuid, Amsterdam",52.36497879,4.89296198
+2,2015-10-28 10:36:00,"Grachtengordel-Zuid, Amsterdam",52.36497879,4.89296198
+3,2015-10-27 00:53:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+4,2015-10-24 01:32:00,"Halle, België",50.73681259,4.23709488
+5,2015-10-24 00:35:00,"Dordtse Biesbosch, Dordrecht",51.81839,4.68334
+6,2015-10-23 23:20:00,"Burgwallen-Nieuwe Zijde, Amsterdam",52.3744278,4.89202595
+7,2015-10-23 13:36:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+8,2015-10-23 13:32:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+9,2015-10-22 23:51:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+10,2015-10-22 12:03:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+11,2015-10-22 11:22:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+12,2015-10-21 22:17:00,"Abcoude, De Ronde Venen",52.27245331,4.97469521
+13,2015-10-21 22:09:00,"Nieuwmarkt/Lastage, Amsterdam",52.37164688,4.90910292
+14,2015-10-21 13:03:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+15,2015-10-21 11:57:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+16,2015-10-21 11:43:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+17,2015-10-21 04:40:00,"Dinant, Belgique",50.26066208,4.91217422
+18,2015-10-21 02:43:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+19,2015-10-18 06:18:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+20,2015-10-17 02:12:00,"Nijenoord, Hoogstraat en omgeving, Utrecht",51.48668,6.16371
+21,2015-10-16 10:28:00,"Nieuwmarkt/Lastage, Amsterdam",52.37164688,4.90910292
+22,2015-10-16 05:44:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+23,2015-10-16 00:19:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+24,2015-10-14 23:47:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+25,2015-10-14 00:10:00,"Bilthoven-Zuid, De Bilt",52.12948608,5.20513582
+26,2015-10-13 14:18:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+27,2015-10-13 13:54:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+28,2015-10-13 13:54:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+29,2015-10-13 01:22:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+30,2015-10-11 22:58:00,"Den Dolder-Zuid, Zeist",52.13983917,5.2415719
+31,2015-10-11 22:39:00,"Hoog-Catharijne NS en Jaarbeurs, Utrecht",52.09168243,5.12036324
+32,2015-10-11 22:38:00,"Hoog-Catharijne NS en Jaarbeurs, Utrecht",52.09168243,5.12036324
+33,2015-10-10 13:10:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+34,2015-10-10 03:15:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+35,2015-10-10 03:07:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+36,2015-10-10 00:41:00,"Nieuwmarkt/Lastage, Amsterdam",52.37164688,4.90910292
+37,2015-10-07 23:31:00,"Stichtse Vecht, Utrecht",52.15000153,5.03299999
+38,2015-10-07 08:38:00,"Anklaar, Apeldoorn",52.22792816,5.98998404
+39,2015-10-06 22:37:00,"Hoog-Catharijne NS en Jaarbeurs, Utrecht",52.09168243,5.12036324
+40,2015-10-06 07:21:00,"Het Zand, 's-Hertogenbosch",51.64731,5.95917
+41,2015-10-01 21:06:00,"Nieuwmarkt/Lastage, Amsterdam",52.37164688,4.90910292
+42,2015-09-29 10:53:00,"Nieuwmarkt/Lastage, Amsterdam",52.37164688,4.90910292
+43,2015-09-29 00:40:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+44,2015-09-27 11:14:00,"Sint-Gillis, België",50.81700134,4.3499999
+45,2015-09-27 08:57:00,"Beersel, België",50.76724625,4.30756807
+46,2015-09-27 06:42:00,"Charbuy, Bourgogne",47.80173919,3.43992235
+47,2015-09-26 22:49:00,"Barcelona, Catalonia",41.38299942,2.18300009
+48,2015-09-26 22:33:00,Sants,41.37926102,2.13445807
+49,2015-09-25 15:00:00,la Dreta de l'Eixample,41.3938179,2.16931391
+50,2015-09-24 11:24:00,"Universidad, Madrid",40.42791748,-3.70913291
+51,2015-09-23 12:49:00,"Sol, Madrid",40.41661835,-3.7034719
+52,2015-09-23 12:08:00,"Sol, Madrid",40.41661835,-3.7034719
+53,2015-09-23 11:59:00,"Sol, Madrid",40.41661835,-3.7034719
+54,2015-09-23 11:45:00,"Sol, Madrid",40.41661835,-3.7034719
+55,2015-09-23 11:42:00,"Madrid, Comunidad de Madrid",40.41669083,-3.70034599
+56,2015-09-23 11:39:00,"Sol, Madrid",40.41661835,-3.7034719
+57,2015-09-23 03:31:00,"Sol, Madrid",40.41661835,-3.7034719
+58,2015-09-18 11:58:00,"Justicia, Madrid",40.42475891,-3.6941011
+59,2015-09-18 11:52:00,"Justicia, Madrid",40.42475891,-3.6941011
+60,2015-09-14 11:41:00,"Seville, Andalusia",37.38264084,-5.99629498
+61,2015-09-12 21:22:00,"Bilbao, País Vasco",43.25696182,-2.92346001
+62,2015-09-11 08:44:00,"Bilbao, País Vasco",43.25696182,-2.92346001
+63,2015-09-11 08:29:00,"Bilbao, País Vasco",43.25696182,-2.92346001
+64,2015-09-11 05:36:00,"Bilbao, País Vasco",43.25696182,-2.92346001
+65,2015-09-10 13:16:00,"Bilbao, País Vasco",43.25696182,-2.92346001
+66,2015-09-10 04:42:00,"Sloterweg-Zuid, Schiphol, Haarlemmermeer",52.30635,4.75803
+67,2015-09-10 03:53:00,"Sloterweg-Zuid, Schiphol, Haarlemmermeer",52.30635,4.75803
+68,2015-09-10 03:21:00,"Sloterweg-Zuid, Schiphol, Haarlemmermeer",52.30635,4.75803
+69,2015-09-10 03:07:00,"Sloterweg-Zuid, Schiphol, Haarlemmermeer",52.30635,4.75803
+70,2015-09-10 02:24:00,"Sloterweg-Zuid, Schiphol, Haarlemmermeer",52.30635,4.75803
+71,2015-09-10 02:18:00,"Sloterweg-Zuid, Schiphol, Haarlemmermeer",52.30635,4.75803
+72,2015-09-10 02:01:00,"Amsterdam, North Holland",52.37316513,4.89065981
+73,2015-09-09 05:27:00,"Maarschalkerweerd en Mereveld, Utrecht",52.07511139,5.14077091
+74,2015-09-08 15:08:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+75,2015-09-07 23:58:00,"Breukelen, Stichtse Vecht",52.17066956,5.0030551
+76,2015-09-06 09:35:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+77,2015-09-06 09:26:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+78,2015-09-05 07:52:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+79,2015-09-05 03:39:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+80,2015-09-05 01:44:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+81,2015-09-05 00:58:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+82,2015-09-05 00:23:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+83,2015-09-05 00:15:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+84,2015-09-04 11:45:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+85,2015-09-03 21:41:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+86,2015-09-03 13:39:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+87,2015-09-03 13:03:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+88,2015-09-03 12:05:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+89,2015-09-03 09:43:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+90,2015-08-30 05:59:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+91,2015-08-29 03:06:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+92,2015-08-28 12:38:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+93,2015-08-28 12:13:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+94,2015-08-28 03:50:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+95,2015-08-27 04:19:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+96,2015-08-26 22:27:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+97,2015-08-25 13:08:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+98,2015-08-24 05:54:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+99,2015-08-23 12:01:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+100,2015-08-22 04:42:00,"Nieuwmarkt/Lastage, Amsterdam",52.37164688,4.90910292
+101,2015-08-22 03:47:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+102,2015-08-22 00:43:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+103,2015-08-22 00:40:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+104,2015-08-22 00:28:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+105,2015-08-21 11:17:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+106,2015-08-21 10:56:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+107,2015-08-21 10:41:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+108,2015-08-20 23:24:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+109,2015-08-20 08:34:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+110,2015-08-20 07:32:00,"Frankendael, Amsterdam",52.34628296,4.92749119
+111,2015-08-19 09:10:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+112,2015-08-19 09:08:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+113,2015-08-18 10:47:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+114,2015-08-17 08:21:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+115,2015-08-17 07:43:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+116,2015-08-14 05:11:00,"Tiergarten, Berlin",52.5134964,13.35760403
+117,2015-08-12 23:40:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+118,2015-08-12 21:13:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+119,2015-08-11 22:37:00,"Hoog-Catharijne NS en Jaarbeurs, Utrecht",52.09168243,5.12036324
+120,2015-08-11 12:16:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+121,2015-08-11 09:33:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+122,2015-08-11 00:34:00,"Maasdriel, Gelderland",51.74674225,5.26121092
+123,2015-08-11 00:00:00,"Maarssen, Stichtse Vecht",52.13904953,5.03968477
+124,2015-08-10 23:43:00,"Frankendael, Amsterdam",52.34628296,4.92749119
+125,2015-08-07 23:35:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+126,2015-08-07 23:30:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+127,2015-08-07 23:28:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+128,2015-08-07 23:25:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+129,2015-08-07 23:23:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+130,2015-08-07 23:21:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+131,2015-08-07 12:13:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+132,2015-08-07 12:03:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+133,2015-08-07 11:19:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+134,2015-08-07 11:12:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+135,2015-08-07 10:44:00,"Amsterdam, North Holland",52.37316513,4.89065981
+136,2015-08-07 00:13:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+137,2015-08-06 05:52:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+138,2015-08-05 11:19:00,"Amsterdam, North Holland",52.37316513,4.89065981
+139,2015-08-05 11:10:00,"Amsterdam, North Holland",52.37316513,4.89065981
+140,2015-08-03 08:57:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+141,2015-08-03 08:22:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+142,2015-08-01 23:16:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+143,2015-07-31 11:29:00,"Amsterdam, North Holland",52.37316513,4.89065981
+144,2015-07-31 11:06:00,"Amsterdam, North Holland",52.37316513,4.89065981
+145,2015-07-31 09:15:00,"De Weteringschans, Amsterdam",52.36195755,4.88826895
+146,2015-07-31 09:14:00,"De Weteringschans, Amsterdam",52.36195755,4.88826895
+147,2015-07-31 09:12:00,"De Weteringschans, Amsterdam",52.36195755,4.88826895
+148,2015-07-31 09:09:00,"De Weteringschans, Amsterdam",52.36195755,4.88826895
+149,2015-07-31 09:04:00,"De Weteringschans, Amsterdam",52.36195755,4.88826895
+150,2015-07-30 23:57:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+151,2015-07-29 13:35:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+152,2015-07-29 12:02:00,"Indische Buurt West, Amsterdam",52.36301422,4.93541622
+153,2015-07-27 22:20:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+154,2015-07-27 22:17:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+155,2015-07-26 10:34:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+156,2015-07-25 10:00:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+157,2015-07-24 05:38:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+158,2015-07-21 22:50:00,"Thorbeckeplein, Amersfoort",52.15076828,5.36521912
+159,2015-07-21 22:50:00,"Birkhoven en Bokkeduinen, Amersfoort",52.15446472,5.347785
+160,2015-07-21 22:42:00,"Tuindorp en Van Lieflandlaan-West, Utrecht",52.10725403,5.1269021
+161,2015-07-21 22:39:00,"Hoog-Catharijne NS en Jaarbeurs, Utrecht",52.09168243,5.12036324
+162,2015-07-21 22:38:00,"Hoog-Catharijne NS en Jaarbeurs, Utrecht",52.09168243,5.12036324
+163,2015-07-18 05:37:00,"Winterswijk-Noordwest, Winterswijk",51.9720192,6.72012901
+164,2015-07-17 00:33:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+165,2015-07-16 02:05:00,"Leebrug, Houten",39.10800171,-77.55063629
+166,2015-07-15 04:20:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+167,2015-07-14 08:07:00,"Loenersloot, Loenen",51.88764954,5.77570009
+168,2015-07-13 11:45:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+169,2015-07-12 09:30:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+170,2015-07-12 02:41:00,"Haarlem, North Holland",52.37949371,4.6377182
+171,2015-07-11 08:22:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+172,2015-07-10 05:51:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+173,2015-07-09 22:43:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+174,2015-06-29 09:57:00,"Lisbon, Portugal",38.70700836,-9.1356411
+175,2015-06-29 09:42:00,"Lisbon, Portugal",38.70700836,-9.1356411
+176,2015-06-29 09:32:00,"Lisbon, Portugal",38.70700836,-9.1356411
+177,2015-06-29 09:29:00,"Lisbon, Portugal",38.70700836,-9.1356411
+178,2015-06-27 05:34:00,"Nieuwmarkt/Lastage, Amsterdam",52.37164688,4.90910292
+179,2015-06-27 04:19:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+180,2015-06-25 11:14:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+181,2015-06-24 02:35:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+182,2015-06-23 23:22:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+183,2015-06-22 23:56:00,"Oud Aa, Stichtse Vecht",52.18013,4.97203398
+184,2015-06-20 08:22:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+185,2015-06-20 08:12:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+186,2015-06-20 05:05:00,"Holthuizen, Apeldoorn",52.20419693,5.95210886
+187,2015-06-19 22:18:00,"Weesp, Noord-Holland",52.30732727,5.04261017
+188,2015-06-19 22:17:00,"Naardermeer, Naarden",52.29434204,5.12499905
+189,2015-06-19 10:49:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+190,2015-06-19 08:18:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+191,2015-06-19 08:09:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+192,2015-06-18 22:42:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+193,2015-06-17 23:42:00,"Hoog-Catharijne NS en Jaarbeurs, Utrecht",52.09168243,5.12036324
+194,2015-06-17 23:30:00,"Oud Aa, Stichtse Vecht",52.18013,4.97203398
+195,2015-06-17 23:24:00,"Bijlmer-Centrum (D, F, H), Amsterdam",52.31679916,4.96852922
+196,2015-06-17 08:33:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+197,2015-06-15 07:32:00,"Grachtengordel-West, Amsterdam",52.37535095,4.8881402
+198,2015-06-14 07:22:00,"Grachtengordel-West, Amsterdam",52.37535095,4.8881402
+199,2015-06-14 00:17:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+200,2015-06-12 16:52:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+201,2015-06-12 13:48:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+202,2015-06-12 13:45:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+203,2015-06-12 13:41:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+204,2015-06-12 09:05:00,"Overtoomse Veld, Amsterdam",52.36548996,4.84207296
+205,2015-06-12 09:00:00,"Overtoomse Veld, Amsterdam",52.36548996,4.84207296
+206,2015-06-12 03:17:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+207,2015-06-11 01:31:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+208,2015-06-10 01:14:00,"Bedrijvenpark Apeldoorn-Noord, Apeldoorn",52.24104,5.97627
+209,2015-06-09 13:09:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+210,2015-06-08 23:02:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+211,2015-06-08 21:50:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+212,2015-06-08 09:21:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+213,2015-06-07 02:06:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+214,2015-06-06 02:42:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+215,2015-06-06 02:40:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+216,2015-06-06 02:38:00,"Nieuwmarkt/Lastage, Amsterdam",52.37164688,4.90910292
+217,2015-06-06 02:36:00,"Nieuwmarkt/Lastage, Amsterdam",52.37164688,4.90910292
+218,2015-06-06 00:24:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+219,2015-06-06 00:21:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+220,2015-06-05 09:03:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+221,2015-06-01 11:04:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+222,2015-06-01 10:39:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+223,2015-05-31 12:50:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+224,2015-05-31 12:18:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+225,2015-05-31 08:22:00,"Grachtengordel-West, Amsterdam",52.37535095,4.8881402
+226,2015-05-31 08:14:00,"Grachtengordel-West, Amsterdam",52.37535095,4.8881402
+227,2015-05-28 08:45:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+228,2015-05-25 22:42:00,"Nieuwmarkt/Lastage, Amsterdam",52.37164688,4.90910292
+229,2015-05-23 11:46:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+230,2015-05-23 09:54:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+231,2015-05-21 08:34:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+232,2015-05-21 08:14:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+233,2015-05-20 22:44:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+234,2015-05-20 09:41:00,"Nieuwmarkt/Lastage, Amsterdam",52.37164688,4.90910292
+235,2015-05-20 09:22:00,"Nieuwmarkt/Lastage, Amsterdam",52.37164688,4.90910292
+236,2015-05-17 07:09:00,"Stationsplein, Arnhem",51.9837265,5.90208578
+237,2015-05-15 08:56:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+238,2015-05-12 09:40:00,"Binnenstad-Centrum, 's-Hertogenbosch",51.68928146,5.30354023
+239,2015-05-12 07:25:00,"Het Zand, 's-Hertogenbosch",51.64731,5.95917
+240,2015-05-10 14:49:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+241,2015-05-09 09:42:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+242,2015-05-09 00:18:00,"Verspreide huizen Delden en Veldwijk, Bronckhorst",52.29790497,5.23665905
+243,2015-05-07 14:24:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+244,2015-05-06 10:07:00,"Kleine Driftbuurt, Hilversum",52.22396851,5.1709218
+245,2015-05-06 09:20:00,"Piet Mondriaanlaan, Amersfoort",52.15613174,5.36888409
+246,2015-05-04 10:41:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+247,2015-05-03 23:34:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+248,2015-05-03 07:34:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+249,2015-05-01 22:59:00,"Verspreide huizen Reyerscamp, Renkum",52.29790497,5.23665905
+250,2015-04-30 22:37:00,"Wassenaar, Zuid-Holland",52.14321136,4.39484692
+251,2015-04-25 00:07:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+252,2015-04-24 07:41:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+253,2015-04-23 23:19:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+254,2015-04-22 12:14:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+255,2015-04-22 12:10:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+256,2015-04-22 08:53:00,"Binnenstad, Apeldoorn",52.2130394,5.95956993
+257,2015-04-18 10:39:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+258,2015-04-17 07:22:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+259,2015-04-14 23:16:00,"De Haven, Apeldoorn",52.21044922,5.97407007
+260,2015-04-14 11:51:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+261,2015-04-14 11:05:00,"Amsterdam, North Holland",52.37316513,4.89065981
+262,2015-04-14 11:11:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+263,2015-04-09 14:58:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+264,2015-04-09 14:55:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+265,2015-04-09 03:00:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+266,2015-04-07 23:06:00,"Bijlmer-Centrum (D, F, H), Amsterdam",52.31679916,4.96852922
+267,2015-04-05 14:07:00,Brussels,50.83611679,4.3706069
+268,2015-04-05 14:04:00,Brussels,50.83611679,4.3706069
+269,2015-03-31 23:00:00,"Castilla, Madrid",40.46860886,-3.68826699
+270,2015-03-31 22:48:00,"Castilla, Madrid",40.46860886,-3.68826699
+271,2015-03-30 13:34:00,"Sol, Madrid",40.41661835,-3.7034719
+272,2015-03-26 07:03:00,"Sloterweg-Zuid, Schiphol, Haarlemmermeer",52.30635,4.75803
+273,2015-03-24 00:17:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+274,2015-03-22 06:42:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+275,2015-03-21 14:30:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+276,2015-03-21 05:40:00,"Nieuwstad en Coehoornsingel, Zutphen",52.1468981,6.199007
+277,2015-03-19 15:03:00,"Amsterdam, North Holland",52.37316513,4.89065981
+278,2015-03-18 11:06:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+279,2015-03-18 11:03:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+280,2015-03-15 03:01:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+281,2015-03-14 03:53:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+282,2015-03-13 09:27:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+283,2015-03-13 05:24:00,"Nieuw-Maarsseveen, Stichtse Vecht",52.15000153,5.03299999
+284,2015-03-12 13:15:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+285,2015-03-09 12:26:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+286,2015-03-07 05:43:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+287,2015-03-07 00:46:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+288,2015-03-07 00:11:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+289,2015-03-06 08:21:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+290,2015-03-06 05:57:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+291,2015-03-04 12:17:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+292,2015-03-01 10:20:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+293,2015-02-27 04:18:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+294,2015-02-26 23:13:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+295,2015-02-26 23:07:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+296,2015-02-26 13:05:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+297,2015-02-26 09:51:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+298,2015-02-23 09:51:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+299,2015-02-21 11:32:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+300,2015-02-21 06:21:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+301,2015-02-21 04:24:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+302,2015-02-21 00:29:00,"Nieuwmarkt/Lastage, Amsterdam",52.37164688,4.90910292
+303,2015-02-20 23:28:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+304,2015-02-20 10:14:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+305,2015-02-18 13:17:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+306,2015-02-17 10:31:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+307,2015-02-17 10:29:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+308,2015-02-17 10:27:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+309,2015-02-16 03:40:00,"Seelze, Niedersachsen",52.39705658,9.58960724
+310,2015-02-16 03:38:00,"Oststadt, Hannover",52.37995148,9.74416733
+311,2015-02-16 03:35:00,"Oststadt, Hannover",52.37995148,9.74416733
+312,2015-02-16 03:32:00,"Oststadt, Hannover",52.37995148,9.74416733
+313,2015-02-16 03:29:00,"Kleefeld, Hannover",52.37164307,9.79249287
+314,2015-02-16 02:46:00,"Gardelegen, Sachsen-Anhalt",52.52421951,11.39404488
+315,2015-02-16 01:12:00,"Tiergarten, Berlin",52.5134964,13.35760403
+316,2015-02-12 00:42:00,"Kreuzberg, Berlin",52.49345016,13.39496326
+317,2015-02-11 14:31:00,"Kreuzberg, Berlin",52.49345016,13.39496326
+318,2015-02-11 03:42:00,"Hanover, Lower Saxony",52.3720665,9.7356863
+319,2015-02-10 22:01:00,"Burgwallen-Nieuwe Zijde, Amsterdam",52.3744278,4.89202595
+320,2015-02-10 21:59:00,"Burgwallen-Nieuwe Zijde, Amsterdam",52.3744278,4.89202595
+321,2015-02-09 10:42:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+322,2015-02-04 13:01:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+323,2015-02-04 11:12:00,"Piet Mondriaanlaan, Amersfoort",52.15613174,5.36888409
+324,2015-02-03 00:24:00,"Tricht, Geldermalsen",52.02842,4.22513
+325,2015-02-01 13:29:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+326,2015-02-01 10:01:00,"Volewijck, Amsterdam",52.39125061,4.91307688
+327,2015-02-01 08:57:00,"Volewijck, Amsterdam",52.39125061,4.91307688
+328,2015-02-01 03:49:00,"Volewijck, Amsterdam",52.39125061,4.91307688
+329,2015-02-01 03:36:00,"Volewijck, Amsterdam",52.39125061,4.91307688
+330,2015-02-01 02:02:00,"Volewijck, Amsterdam",52.39125061,4.91307688
+331,2015-02-01 01:57:00,"Volewijck, Amsterdam",52.39125061,4.91307688
+332,2015-01-31 06:55:00,"Amsterdam, North Holland",52.37316513,4.89065981
+333,2015-01-31 06:52:00,"Amsterdam, North Holland",52.37316513,4.89065981
+334,2015-01-28 13:36:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+335,2015-01-28 13:36:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+336,2015-01-27 10:12:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+337,2015-01-26 11:45:00,"Nieuw-Vennep-Oost, Haarlemmermeer",52.26453018,4.63702011
+338,2015-01-25 09:32:00,"Rotterdam, South Holland",51.9229126,4.47058487
+339,2015-01-24 09:47:00,"Cool, Rotterdam",51.91719818,4.47802019
+340,2015-01-24 04:15:00,"Rotterdam, South Holland",51.9229126,4.47058487
+341,2015-01-24 02:40:00,"Rotterdam, South Holland",51.9229126,4.47058487
+342,2015-01-24 02:37:00,"Rotterdam, South Holland",51.9229126,4.47058487
+343,2015-01-24 00:09:00,"Rotterdam, South Holland",51.9229126,4.47058487
+344,2015-01-23 04:07:00,"Cool, Rotterdam",51.91719818,4.47802019
+345,2015-01-20 13:49:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+346,2015-01-20 13:35:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+347,2015-01-17 00:01:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+348,2015-01-16 23:59:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+349,2015-01-16 23:57:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+350,2015-01-16 07:39:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+351,2015-01-15 13:01:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+352,2015-01-15 12:55:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+353,2015-01-15 11:48:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+354,2015-01-15 11:38:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+355,2015-01-15 11:08:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+356,2015-01-15 00:27:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+357,2015-01-13 09:10:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+358,2015-01-09 03:47:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+359,2015-01-08 10:15:00,"Grachtengordel-West, Amsterdam",52.37535095,4.8881402
+360,2015-01-06 10:48:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+361,2015-01-06 10:16:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+362,2015-01-06 10:14:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+363,2015-01-03 23:30:00,"Haarlemmerbuurt, Amsterdam",52.38469696,4.8867569
+364,2015-01-03 23:26:00,"Burgwallen-Nieuwe Zijde, Amsterdam",52.3744278,4.89202595
+365,2015-01-03 23:25:00,"Burgwallen-Nieuwe Zijde, Amsterdam",52.3744278,4.89202595
+366,2014-12-30 14:39:00,"Schiermonnikoog, Friesland",53.47935867,6.16105318
+367,2014-12-28 01:07:00,"Zeeheldenkwartier, Den Haag",52.08238983,4.29506397
+368,2014-12-12 23:58:00,"Nieuwmarkt/Lastage, Amsterdam",52.37164688,4.90910292
+369,2014-12-12 12:40:00,"Nieuwmarkt/Lastage, Amsterdam",52.37164688,4.90910292
+370,2014-12-12 11:07:00,"Nieuwmarkt/Lastage, Amsterdam",52.37164688,4.90910292
+371,2014-12-07 23:54:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+372,2014-12-05 07:37:00,"Kerkdorp Acht, Eindhoven",51.47965622,5.42786789
+373,2014-12-05 07:34:00,"Fellenoord, Eindhoven",51.44400024,5.47736597
+374,2014-12-04 05:03:00,"Amstel III/Bullewijk, Amsterdam",52.30680084,4.9520998
+375,2014-11-26 02:21:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+376,2014-11-25 07:50:00,"Frankendael, Amsterdam",52.34628296,4.92749119
+377,2014-11-22 00:24:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+378,2014-11-21 23:49:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+379,2014-11-21 23:48:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+380,2014-11-08 06:23:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+381,2014-11-08 04:49:00,"Nieuwmarkt/Lastage, Amsterdam",52.37164688,4.90910292
+382,2014-11-08 04:46:00,"Nieuwmarkt/Lastage, Amsterdam",52.37164688,4.90910292
+383,2014-11-07 01:39:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+384,2014-11-07 00:46:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+385,2014-11-06 07:31:00,"Castellum, Houten",52.01719666,5.17935085
+386,2014-11-04 11:40:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+387,2014-11-04 00:43:00,"Nieuwmarkt/Lastage, Amsterdam",52.37164688,4.90910292
+388,2014-11-01 02:19:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+389,2014-11-01 02:17:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+390,2014-11-01 02:16:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+391,2014-11-01 02:12:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+392,2014-10-31 23:28:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+393,2014-10-31 23:06:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+394,2014-10-31 23:04:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+395,2014-10-29 09:49:00,"Buitengebied Terschuur, Barneveld",52.16379547,5.52021408
+396,2014-10-27 23:34:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+397,2014-10-24 19:25:00,"Amsterdam, North Holland",52.37316513,4.89065981
+398,2014-10-24 07:22:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+399,2014-10-24 07:11:00,"Amsterdam, North Holland",52.37316513,4.89065981
+400,2014-10-23 11:33:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+401,2014-10-23 10:50:00,"Nieuwmarkt/Lastage, Amsterdam",52.37164688,4.90910292
+402,2014-10-21 11:50:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+403,2014-10-16 23:17:00,"Industriegebied Amstel, Ouder-Amstel",52.29590607,4.90302992
+404,2014-10-16 10:59:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+405,2014-10-13 13:32:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+406,2014-10-13 09:11:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+407,2014-10-12 22:48:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+408,2014-10-12 03:56:00,"Polderland, Diemen",52.33275986,4.95376921
+409,2014-10-10 03:03:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+410,2014-10-09 12:14:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+411,2014-10-03 09:16:00,"Velsen, Noord-Holland",52.46076584,4.62510681
+412,2014-10-02 21:01:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+413,2014-09-29 09:23:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+414,2014-09-15 22:57:00,"Amsterdam, North Holland",52.37316513,4.89065981
+415,2014-09-11 14:01:00,Vila de Gracia,41.40483856,2.15353489
+416,2014-09-11 13:59:00,Vila de Gracia,41.40483856,2.15353489
+417,2014-09-11 12:51:00,Vila de Gracia,41.40483856,2.15353489
+418,2014-09-10 22:41:00,Vila de Gracia,41.40483856,2.15353489
+419,2014-09-10 11:58:00,Vila de Gracia,41.40483856,2.15353489
+420,2014-09-09 11:27:00,Vila de Gracia,41.40483856,2.15353489
+421,2014-09-09 11:08:00,Vila de Gracia,41.40483856,2.15353489
+422,2014-09-09 11:04:00,Vila de Gracia,41.40483856,2.15353489
+423,2014-09-09 10:21:00,"Bussum, Noord-Holland",52.27404022,5.16659403
+424,2014-09-08 06:36:00,Vila de Gracia,41.40483856,2.15353489
+425,2014-09-07 00:28:00,"Sloterweg-Zuid, Schiphol, Haarlemmermeer",52.30635,4.75803
+426,2014-09-07 00:26:00,"Sloterweg-Zuid, Schiphol, Haarlemmermeer",52.30635,4.75803
+427,2014-09-07 00:19:00,"Sloterweg-Zuid, Schiphol, Haarlemmermeer",52.30635,4.75803
+428,2014-09-06 22:54:00,"Westlandgracht, Amsterdam",52.35266495,4.84496212
+429,2014-09-06 22:53:00,"Westlandgracht, Amsterdam",52.35266495,4.84496212
+430,2014-09-06 22:52:00,"Van Galenbuurt, Amsterdam",52.37197495,4.84942198
+431,2014-09-06 22:36:00,"Haarlemmerbuurt, Amsterdam",52.38469696,4.8867569
+432,2014-09-06 22:33:00,"Burgwallen-Nieuwe Zijde, Amsterdam",52.3744278,4.89202595
+433,2014-09-05 12:15:00,"Dikkenberg, Ede",52.04166412,5.6688118
+434,2014-09-05 04:10:00,"Bunnik, Utrecht",52.06738663,5.20089102
+435,2014-09-05 00:29:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+436,2014-09-05 00:23:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+437,2014-09-04 23:56:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+438,2014-09-04 22:29:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+439,2014-09-02 08:49:00,"Binnenstad-Centrum, 's-Hertogenbosch",51.68928146,5.30354023
+440,2014-09-02 00:58:00,"Waardenburg, Neerijnen",52.13125,5.579
+441,2014-09-01 23:55:00,"Industriegebied Amstel, Ouder-Amstel",52.29590607,4.90302992
+442,2014-09-01 02:37:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+443,2014-08-31 00:46:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+444,2014-08-31 00:30:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+445,2014-08-28 09:29:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+446,2014-08-28 09:23:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+447,2014-08-24 09:26:00,"Sloten- en Riekerpolder, Amsterdam",52.33956146,4.81662607
+448,2014-08-20 10:48:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+449,2014-08-17 01:42:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+450,2014-08-15 22:37:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+451,2014-08-15 22:34:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+452,2014-08-14 23:03:00,"Weesperbuurt/Plantage, Amsterdam",52.36449814,4.91079807
+453,2014-08-12 00:16:00,"Winterswijk-Zuidwest, Winterswijk",51.9720192,6.72012901
+454,2014-08-09 01:49:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+455,2014-08-09 01:36:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+456,2014-08-04 23:39:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+457,2014-08-03 11:54:00,"Nieuwmarkt/Lastage, Amsterdam",52.37164688,4.90910292
+458,2014-08-03 11:28:00,"Nieuwmarkt/Lastage, Amsterdam",52.37164688,4.90910292
+459,2014-08-03 09:18:00,"Grachtengordel-West, Amsterdam",52.37535095,4.8881402
+460,2014-08-03 09:11:00,"Grachtengordel-West, Amsterdam",52.37535095,4.8881402
+461,2014-08-03 05:56:00,"Vondelbuurt, Amsterdam",52.36137772,4.87482977
+462,2014-08-03 05:55:00,"Vondelbuurt, Amsterdam",52.36137772,4.87482977
+463,2014-08-03 05:52:00,"De Weteringschans, Amsterdam",52.36195755,4.88826895
+464,2014-08-03 00:23:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+465,2014-08-03 00:01:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+466,2014-08-02 23:58:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+467,2014-08-01 12:15:00,"Winterswijk-Zuidoost, Winterswijk",51.9720192,6.72012901
+468,2014-07-31 10:19:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+469,2014-07-31 10:04:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+470,2014-07-31 00:36:00,"Rokkehage, Zoetermeer",52.04956055,4.50749397
+471,2014-07-31 00:28:00,"Oostpolder in Schieland, Gouda",52.01026917,4.70983315
+472,2014-07-28 21:06:00,"Velsen, Noord-Holland",52.46076584,4.62510681
+473,2014-07-28 09:47:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+474,2014-07-28 05:26:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+475,2014-07-28 05:24:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+476,2014-07-28 04:47:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+477,2014-07-28 04:46:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+478,2014-07-28 02:37:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+479,2014-07-27 23:57:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+480,2014-07-27 09:59:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+481,2014-07-27 09:56:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+482,2014-07-27 05:41:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+483,2014-07-26 07:31:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+484,2014-07-26 05:45:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+485,2014-07-23 11:58:00,"Nieuwmarkt/Lastage, Amsterdam",52.37164688,4.90910292
+486,2014-07-20 15:16:00,"Oostelijk Havengebied, Amsterdam",52.41155624,4.80043888
+487,2014-07-20 13:41:00,"Antwerp, Belgium",51.21648026,4.42319584
+488,2014-07-20 13:25:00,"Antwerp, Belgium",51.21648026,4.42319584
+489,2014-07-20 13:21:00,"Antwerp, Belgium",51.21648026,4.42319584
+490,2014-07-19 07:43:00,"Ghent, Belgium",51.05381775,3.72227192
+491,2014-07-19 07:41:00,"Ghent, Belgium",51.05381775,3.72227192
+492,2014-07-19 07:40:00,"Ghent, Belgium",51.05381775,3.72227192
+493,2014-07-19 06:44:00,"Ghent, Belgium",51.05381775,3.72227192
+494,2014-07-19 06:17:00,"Ghent, Belgium",51.05381775,3.72227192
+495,2014-07-18 23:14:00,"Ghent, Belgium",51.05381775,3.72227192
+496,2014-07-18 12:45:00,"Pompei, Campania",40.74918365,14.50073814
+497,2014-07-17 13:56:00,"Ghent, Belgium",51.05381775,3.72227192
+498,2014-07-17 11:32:00,"Ghent, Belgium",51.05381775,3.72227192
+499,2014-07-17 10:07:00,"Ghent, Belgium",51.05381775,3.72227192
+500,2014-07-16 16:04:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+501,2014-07-16 08:08:00,"Grachtengordel-West, Amsterdam",52.37535095,4.8881402
+502,2014-07-16 08:05:00,"Grachtengordel-West, Amsterdam",52.37535095,4.8881402
+503,2014-07-15 10:23:00,"Nieuwmarkt/Lastage, Amsterdam",52.37164688,4.90910292
+504,2014-07-14 09:34:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+505,2014-07-13 22:12:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+506,2014-07-13 22:10:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+507,2014-07-13 11:53:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+508,2014-07-13 03:16:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+509,2014-07-08 23:22:00,"Hillegersberg-Zuid, Rotterdam",51.9438858,4.47254181
+510,2014-07-12 13:05:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+511,2014-07-10 11:48:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+512,2014-07-10 11:16:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+513,2014-07-10 11:13:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572
+514,2014-07-10 08:10:00,"Burgwallen-Nieuwe Zijde, Amsterdam",52.3744278,4.89202595
+515,2014-07-09 15:53:00,"Burgwallen-Oude Zijde, Amsterdam",52.37216568,4.8964572

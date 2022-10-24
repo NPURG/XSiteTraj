@@ -1,0 +1,97 @@
+,time,poi,latitude,longitude
+0,2015-04-13 08:56:45,"Ducks Eatery, 351 E 12th St, New York",40.7301611754,-73.9838781523
+1,2015-02-14 12:33:46,"Joseph Leonard, 170 Waverly Pl, New York",40.7335677903,-74.0016531944
+2,2015-01-07 13:30:53,"BONDST, 6 Bond St, New York",40.7268032728,-73.9944091482
+3,2014-10-09 21:34:34,"Frank Restaurant, 88 2nd Ave, New York",40.7269574657,-73.9889399892
+4,2014-05-23 06:02:52,"Harry's Corner Shop, 64 Macdougal St, New York",40.7278279049,-74.0022754669
+5,2014-05-17 02:13:00,"Charlie Bird, 5 King St, New York",40.7278116439,-74.0030264854
+6,2014-05-16 00:24:50,"Cover HQ, 110 Greene St, New York",40.7244333345,-73.9996039867
+7,2014-05-03 08:13:35,"Saxon + Parole, 316 Bowery, New York",40.7251629321,-73.9921595235
+8,2014-04-24 02:10:10,"Black Seed Bagels, 170 Elizabeth St, New York",40.7209843306,-73.9949543339
+9,2014-04-19 05:28:46,"Trst, 615 Manhattan Ave, Brooklyn",40.7235058118,-73.9507089213
+10,2014-04-19 01:24:46,"Flinders Lane, 162 Avenue A, New York",40.7280565,-73.9818726
+11,2014-04-13 03:16:08,"Flinders Lane, 162 Avenue A, New York",40.7280565,-73.9818726
+12,2014-04-06 06:58:12,"New York Penn Station (NYP), 1 Penn Plz, New York",40.7504878128,-73.9922800398
+13,2014-04-04 02:37:23,"Washington Square Park, W 4th St, New York",40.7309214691,-73.9973818261
+14,2014-03-27 03:04:45,"El Toro Blanco, 257 6th Ave, New York",40.7290333079,-74.0024662609
+15,2014-03-26 05:19:18,"Galli Restaurant, 45 Mercer St, New York",40.7216282923,-74.0012267272
+16,2014-03-23 23:51:48,"L'Artusi, 228 W 10th St, New York",40.733793607,-74.0050658125
+17,2014-03-22 02:53:37,"Parm, 248 Mulberry St, New York",40.723019825,-73.995854
+18,2014-03-21 02:50:33,"The Cannibal Beer & Butcher, 113 E 29th St, New York",40.7437008127,-73.9827758074
+19,2014-03-09 00:52:14,"Delaney Barbecue: BrisketTown, 359 Bedford Ave, Brooklyn",40.7115536868,-73.9631358549
+20,2014-03-08 03:19:50,"Cmodo, 58 MacDougal St, New York",40.7276510663,-74.0023183823
+21,2014-03-05 11:04:25,"Pig and Khao, 68 Clinton St, New York",40.7192553401,-73.9849054519
+22,2014-02-23 09:45:53,"The Royal Palms Shuffleboard Club, 514 Union St, Gowanus",40.6786852935,-73.9869278669
+23,2014-02-22 05:10:04,"Mission Cantina, 172 Orchard St, New York",40.7215142721,-73.9884084463
+24,2014-01-16 00:57:02,"Wabi Sabi, 1637 Abbot Kinney Blvd, Venice",33.989655,-118.46306061
+25,2014-01-16 00:55:07,"In-N-Out Burger, 9149 S Sepulveda Blvd, Los Angeles",33.9536939525,-118.396768123
+26,2014-01-16 00:54:22,"Groundwork Coffee, 3 Westminster Ave, Venice",33.9885235928,-118.474851361
+27,2014-01-16 00:53:46,"Sunny Spot, 822 Washington Blvd, Marina del Rey",33.9881421252,-118.451907373
+28,2014-01-16 00:52:54,"The Tasting Kitchen, 1633 Abbot Kinney Blvd, Venice",33.9896568293,-118.463178277
+29,2014-01-16 00:52:02,"Gjelina, 1429 Abbot Kinney Blvd, Venice",33.9905041397,-118.464978039
+30,2014-01-15 22:57:15,"Salt Air, 1616 Abbot Kinney Blvd, Venice",33.989676,-118.463647
+31,2014-01-15 22:56:44,"Intelligentsia Coffee & Tea, 1331 Abbot Kinney Blvd, Venice",33.9910867996,-118.466930017
+32,2013-12-08 02:21:14,"New York Penn Station (NYP), 1 Penn Plz, New York",40.7504878128,-73.9922800398
+33,2013-08-19 00:30:06,"Equinox SoHo, 69 Prince Street, New York",40.724037,-73.996969
+34,2013-08-04 05:29:48,"Hampton Chutney Co., 143 Grand St, New York",40.7202271327,-73.9993788888
+35,2013-07-30 08:34:06,"Umami Burger, 432 Avenue of the Americas, New York",40.7344458028,-73.9987134933
+36,2013-07-19 09:13:33,"Equinox SoHo, 69 Prince Street, New York",40.724037,-73.996969
+37,2013-07-15 07:26:42,"Miss Lily's & Melvin's Juice Box, 132 W Houston St, New York",40.7278888836,-74.0013366938
+38,2013-07-01 03:38:26,"Mighty Quinn's BBQ, 103 2nd Ave, New York",40.7275189452,-73.9886713028
+39,2013-06-29 00:05:05,"Equinox Flatiron, 897 Broadway, New York",40.739009,-73.989994
+40,2013-06-03 00:25:30,"DayLife, Delancey St, New York",40.7208053608,-73.9888539047
+41,2013-05-31 03:18:01,"The Grey Dog, 90 University Pl, New York",40.7337872945,-73.9930352569
+42,2013-05-10 10:51:01,"Il Buco Alimentari & Vineria, 53 Great Jones St, New York",40.7266526523,-73.9922685621
+43,2013-04-29 09:16:19,"Big Gay Ice Cream Shop, 125 E 7th St, New York",40.7263486456,-73.984157145
+44,2013-02-19 07:38:15,"The Meatball Shop, 200 9th Ave, New York",40.746011304,-74.0016915533
+45,2012-10-24 03:16:22,"Toby19s Estate Coffee, 125 N 6th St, Brooklyn",40.7177941115,-73.9590167999
+46,2012-08-27 05:44:33,"Mission Chinese Food, 171 E Broadway, New York",40.7140696769,-73.9898085594
+47,2012-08-11 08:11:27,"Thinking Cup, 165 Tremont St, Boston",42.3539534386,-71.0638082027
+48,2012-07-17 02:28:54,"Tarallucci e Vino Restaurant, 15 E 18th St, New York",40.7380917652,-73.9907592336
+49,2012-07-15 22:22:53,"Jack's Stir Brew Coffee, 138 W 10th St, New York",40.7346585689,-74.0006184345
+50,2012-07-05 11:24:16,"Crif Dogs, 113 Saint Marks Pl, New York",40.7270408509,-73.9838359607
+51,2012-07-01 08:00:34,"The Bent Spoon, 35 Palmer Sq W, Princeton",40.3498986125,-74.6617770195
+52,2012-06-28 04:52:41,"Momofuku Milk Bar, 251 E 13th St, New York",40.7317954706,-73.9856725931
+53,2012-06-18 09:00:51,"Standings, 43 E 7th St, New York",40.7282009571,-73.9885784338
+54,2012-06-10 00:23:57,"Basketball Courts @ Hudson River Park, Canal St., New York",40.725582236,-74.0114755935
+55,2012-06-09 23:56:36,"Saturdays Surf NYC, 31 Crosby St, New York",40.7207804312,-73.9994936619
+56,2012-06-08 09:50:52,"The Meatball Shop, 64 Greenwich Ave, New York",40.7361118902,-74.0008422405
+57,2012-06-08 01:28:34,"WeWork Labs NY, 175 Varick St, New York",40.7271911179,-74.005685568
+58,2012-06-08 00:35:35,"Mudspot, 307 E 9th St, New York",40.729070448,-73.9868110443
+59,2012-05-15 07:09:49,"FoundersCard Signature Event: New York - IWNY - Artists Space, 38 Greene St Fl 3, New York",40.721713488,-74.0021896362
+60,2012-04-16 08:12:55,"Luke's Lobster, 93 E 7th St, New York",40.7268229975,-73.9854709756
+61,2012-04-16 02:59:27,"The Grey Dog, 90 University Pl, New York",40.7337872945,-73.9930352569
+62,2012-04-16 02:56:34,"Yankee Stadium, 1 E 161st St, Bronx",40.8290910872,-73.9265185958
+63,2012-04-16 02:55:43,"Madison Square Garden, 4 Penn Plz, New York",40.7505081436,-73.993037569
+64,2012-04-16 02:54:30,"General Assembly East, 902 Broadway Fl 4, New York",40.7393071807,-73.9894008636
+65,2012-04-16 02:53:12,"WeWork Labs NY, 175 Varick St, New York",40.7271911179,-74.005685568
+66,2012-04-16 02:51:02,"Equinox Greenwich Avenue, 97 Greenwich Ave, New York",40.737569,-74.001891
+67,2012-04-16 02:45:57,"West Side Basketball Court, West side highway, New York",40.7256104882,-74.0113837808
+68,2012-04-16 02:43:11,"Washington Square Dog Run, Washington Square Park, New York",40.730730685,-73.9985238272
+69,2012-04-16 02:42:10,"Washington Square Park, W 4th St, New York",40.7309214691,-73.9973818261
+70,2012-04-16 02:40:40,"The Meatball Shop, 64 Greenwich Ave, New York",40.7361118902,-74.0008422405
+71,2012-04-16 02:37:56,"Westville, 210 W 10th St, New York",40.7340918085,-74.0042566844
+72,2012-04-16 02:36:42,"Saturdays Surf NYC, 31 Crosby St, New York",40.7207804312,-73.9994936619
+73,2012-04-16 02:36:14,"The Spotted Pig, 314 W 11th St, New York",40.7357439145,-74.0068217811
+74,2012-04-15 06:05:51,"Washington Square Park, W 4th St, New York",40.7309214691,-73.9973818261
+75,2012-04-02 07:26:34,"Lenwich by Lenny's, 418 Avenue of the Americas, New York",40.7341070226,-73.9991665584
+76,2012-03-24 01:32:07,"Washington Square Park, W 4th St, New York",40.7309214691,-73.9973818261
+77,2012-03-23 10:39:21,"Diablo Royale, 189 W 10th St, New York",40.734195,-74.00316
+78,2011-12-16 14:26:23,"Sushi Toni, 733 Bush St, San Francisco",37.7900952786,-122.409459039
+79,2011-11-07 00:27:30,"Jack's Stir Brew Coffee, 138 W 10th St, New York",40.7346585689,-74.0006184345
+80,2011-10-24 05:56:09,"Westville, 210 W 10th St, New York",40.7340918085,-74.0042566844
+81,2011-10-09 23:23:45,"MetLife Stadium, 1 Metlife Stadium Dr, East Rutherford",40.8133606883,-74.0746724028
+82,2011-09-19 03:50:46,"Clevelander, 1020 Ocean Dr, Miami Beach",25.7806022433,-80.1307703555
+83,2011-09-01 22:10:00,"Cameo Cleaners, 280 3rd Ave, New York",40.7380298,-73.9837766
+84,2011-09-01 22:02:43,"Eastmore Cleaners, 1441 2nd Ave, New York",40.771381026,-73.9570171968
+85,2011-09-01 21:56:05,"D'Jais Oceanview Bar & Cafe, 1803 Ocean Ave, Belmar",40.170323101,-74.0163610876
+86,2011-09-01 21:54:52,"West 4th Street Courts (The Cage), W 3rd St & 6th Ave, New York",40.7311857167,-74.0010040998
+87,2011-09-01 21:54:00,"NYU Palladium Athletic Facility, 140 E 14th St, New York",40.7335322819,-73.9882168778
+88,2011-09-01 21:52:51,"Manasquan Inlet, 548 Riverside Dr, Manasquan",40.1036551963,-74.0350104868
+89,2011-09-01 21:51:50,"Hollywood Tans, 750 Avenue of the Americas, New York",40.7438019465,-73.9921652624
+90,2011-09-01 21:40:47,"Equinox Greenwich Avenue, 97 Greenwich Ave, New York",40.737569,-74.001891
+91,2011-09-01 21:40:17,"Equinox Flatiron, 897 Broadway, New York",40.739009,-73.989994
+92,2011-08-30 06:50:57,"Equinox Flatiron, 897 Broadway, New York",40.739009,-73.989994
+93,2011-08-26 07:38:28,"WeWork Labs NY, 175 Varick St, New York",40.7271911179,-74.005685568
+94,2011-08-26 07:36:42,"WeWork Soho, 154 Grand St, New York",40.7202981834,-73.9989829212
+95,2011-04-25 02:40:01,"Saturdays Surf NYC, 31 Crosby St, New York",40.7207804312,-73.9994936619

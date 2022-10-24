@@ -1,0 +1,55 @@
+,time,poi,latitude,longitude
+0,2014-07-03 06:05:32,"South 4th Bar & Cafe, 90 S 4th St, Brooklyn",40.712298871,-73.9643999934
+1,2014-06-13 07:25:03,"South 4th Bar & Cafe, 90 S 4th St, Brooklyn",40.712298871,-73.9643999934
+2,2014-06-07 06:57:04,"South 4th Bar & Cafe, 90 S 4th St, Brooklyn",40.712298871,-73.9643999934
+3,2014-04-29 05:37:30,"Chop't Creative Salad Company, 1629 K St NW, Washington",38.9025441919,-77.0378962739
+4,2014-02-16 03:52:30,"Chop't, 116 S Ridge St, Rye Brook",41.0031355381,-73.6828423151
+5,2014-02-16 03:45:16,"Chop't Creative Salad Company, 10307 Old Georgetown Rd Ste 3, Bethesda",39.0247241158,-77.1242329056
+6,2013-09-05 01:15:54,"Union Square Greenmarket, 1 Union Sq W, New York",40.7365269713,-73.9905595779
+7,2013-07-11 10:43:29,"Chop't, 24 E 17th St, New York",40.7372159375,-73.9909216762
+8,2013-06-26 23:54:39,"Sweet Chick, 164 Bedford Ave, Brooklyn",40.7183104741,-73.9572948217
+9,2013-03-23 00:32:09,"Citibank, 836 Manhattan Ave, Brooklyn",40.728691718,-73.953590434
+10,2013-03-16 05:17:52,"Gourmet Guild, 110 Broadway, Brooklyn",40.7105598174,-73.9647544543
+11,2013-02-23 22:13:37,"Sweetleaf, 135 Kent Ave, Brooklyn",40.7195302123,-73.9622730017
+12,2013-01-20 06:45:49,"Firecracker, Montrose Dr, Chicago",41.96081635,-87.6386212667
+13,2012-11-29 04:27:47,"Chicago Midway International Airport (MDW), 5700 S Cicero Ave, Chicago",41.7854250716,-87.7508282661
+14,2012-09-22 02:42:53,"Rabbithole, 352 Bedford Ave, Brooklyn",40.7123152217,-73.9630267999
+15,2012-09-20 22:32:08,"Gourmet Guild, 110 Broadway, Brooklyn",40.7105598174,-73.9647544543
+16,2012-08-12 06:15:43,"Taylor Street Festa Italiana, 1300-1600 W. Taylor St., Chicago",41.8692732079,-87.6640748978
+17,2012-01-19 02:56:44,"US Post Office, 222 Merchandise Mart Plz Ste 102, Chicago",41.8883862914,-87.6344595204
+18,2011-12-27 23:50:34,"McDonald's, 101 SE Gateway Dr, Grimes",41.6879394315,-93.7794777872
+19,2011-12-14 03:42:59,"McDonald's, 205 Merchandise Mart Plz, Chicago",41.8883740523,-87.6350378149
+20,2011-11-08 23:51:43,"Dunkin Donuts, 222 Merchandise Mart Plz Ste 470, Chicago",41.8885999858,-87.6342522964
+21,2011-10-25 08:27:41,"Pegasus Restaurant and Taverna, 130 S Halsted St, Chicago",41.8794888747,-87.6474211982
+22,2011-10-21 07:30:48,"Natural Elements Salon, 2212 N Lincoln Ave, Chicago",41.922258,-87.644297
+23,2011-10-17 21:55:43,"McDonald's, 205 Merchandise Mart Plz, Chicago",41.8883740523,-87.6350378149
+24,2011-10-09 08:42:23,"Beirut, 2109 N Sedgwick St, Chicago",41.920482,-87.638844
+25,2011-10-05 20:57:35,"Starbucks, 414 N Orleans St, Chicago",41.8898769764,-87.6371581655
+26,2011-10-05 19:52:54,"Twin Anchors Restaurant & Tavern, 1655 N Sedgwick St, Chicago",41.91284,-87.6386059
+27,2011-09-26 02:22:47,"Stanley's Kitchen & Tap, 1970 N Lincoln Ave, Chicago",41.918085794,-87.6387242703
+28,2011-09-12 04:16:06,"Frankie's On The Park, 2322 N Clark St, Chicago",41.9243499833,-87.639741005
+29,2011-09-05 08:51:39,"Lounge Michigan, Fire Lane 1, Covert",42.3017774918,-86.3106874893
+30,2011-08-08 06:55:41,"The Anti-Cruelty Society, 157 W Grand Ave, Chicago",41.8915286522,-87.6330089328
+31,2011-08-04 09:16:17,"Walgreens, 2317 N Clark St, Chicago",41.92420541,-87.63951453
+32,2011-07-30 02:59:48,"Lou Malnati's Pizzeria, 439 N Wells St, Chicago",41.8902719927,-87.6338946819
+33,2011-07-23 09:34:29,"Dunlay's on Clark, 2600 N Clark St, Chicago",41.9296089586,-87.6431717152
+34,2011-07-20 22:58:23,"The Doughnut Vault, 401 1/2 N Franklin St, Chicago",41.8893968084,-87.6354956262
+35,2011-07-18 04:38:02,"Orange on Clark, 2413 N Clark St, Chicago",41.9259498167,-87.6406131623
+36,2011-07-15 07:54:10,"Ranalli's, 1925 N Lincoln Ave, Chicago",41.917381827,-87.6371822598
+37,2011-07-14 10:17:53,"Harmony Grill, 3159 N Southport Ave, Chicago",41.9396935573,-87.6636542402
+38,2011-07-13 13:04:07,"The Diag, 2856 N Southport Ave, Chicago",41.9342110416,-87.6638083541
+39,2011-07-13 03:34:17,"Foodstuffs, 222 Merchandise Mart Plz, Chicago",41.8891168665,-87.6341703704
+40,2011-07-11 12:22:05,"Stanley's Kitchen & Tap, 1970 N Lincoln Ave, Chicago",41.918085794,-87.6387242703
+41,2011-07-10 10:47:30,"Lincoln Park, 5700 N Lake Shore Dr, Chicago",41.9256259745,-87.6334123139
+42,2011-07-10 10:46:59,"Lincoln Park, 5700 N Lake Shore Dr, Chicago",41.9256259745,-87.6334123139
+43,2011-07-10 10:45:10,"Alfred Caldwell Lily Pool, 210 W. Fullerton Ave., Chicago",41.9248791971,-87.6340643483
+44,2011-07-10 10:43:26,"Dairy Queen, 2200 N Lincoln Ave, Chicago",41.9219977147,-87.6441407204
+45,2011-07-10 10:42:44,"Fullerton Beach, 2400 N. Lake Shore Dr., Chicago",41.9230462441,-87.6296834917
+46,2011-07-10 10:41:32,"St Valentine's Day Massacre Site, 2122 N Clark St, Chicago",41.9208516972,-87.6376545061
+47,2011-07-10 10:40:24,"Lincoln Park Zoo, 2001 N Clark St, Chicago",41.9213526287,-87.6337751958
+48,2011-07-10 10:37:36,"Chicago Pizza and Oven Grinder Co., 2121 N Clark St, Chicago",41.9206898209,-87.6374617531
+49,2011-07-09 07:22:12,"South 4th Bar & Cafe, 90 S 4th St, Brooklyn",40.712298871,-73.9643999934
+50,2011-06-30 08:37:41,"Jimmy John's, 501 N La Salle Dr, Chicago",41.8908170472,-87.632435432
+51,2011-06-30 08:37:08,"Beirut, 2109 N Sedgwick St, Chicago",41.920482,-87.638844
+52,2011-06-30 08:35:56,"Bernie's Tap & Grill, 3664 N Clark St, Chicago",41.9488346412,-87.6582310238
+53,2011-06-30 05:21:56,"Firecracker, Montrose Dr, Chicago",41.96081635,-87.6386212667

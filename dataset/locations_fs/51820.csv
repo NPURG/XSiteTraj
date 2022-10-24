@@ -1,0 +1,50 @@
+,time,poi,latitude,longitude
+0,2017-01-02 06:26:54,"Bistrot Paul Bert, 18 rue Paul-Bert, Paris",48.8523879899,2.3848268051
+1,2017-01-02 06:25:27,"Le Saint Rgis, 6 rue Jean du Bellay, Paris",48.8529302958,2.35372424126
+2,2017-01-02 06:24:30,"Chez Andr, 12 rue Marbeuf, Paris",48.8679589288,2.30281342191
+3,2017-01-02 06:23:30,"Les Deux Magots, 6 place Saint-Germain-des-Prs, Paris",48.8540650993,2.33307123184
+4,2017-01-02 06:22:23,"Le Comptoir du Relais, 9 carrefour de l'Odon, Paris",48.8518956444,2.33856773996
+5,2016-12-31 18:14:06,"Oscar Bar & Restaurant, 15 Charlotte St, London",51.518572,-0.134678
+6,2016-12-31 18:13:32,"TAP Coffee, 26 Rathbone Pl, Fitzrovia",51.5177913452,-0.134279429913
+7,2015-07-26 01:07:03,"The Deli Counter, 623 Hampton Rd, Southampton",40.89805375,-72.37317
+8,2015-05-31 00:12:10,"The Station Inn, 402 12th Ave S, Nashville",36.1524922498,-86.7845977126
+9,2015-05-31 00:10:39,"Rolf & Daughters, 700 Taylor St, Nashville",36.177427354,-86.7925071716
+10,2015-05-24 01:08:03,"Wlffer Estate Vineyards, 139 Sagg Rd, Sagaponack",40.9449438408,-72.277363627
+11,2015-05-24 01:06:13,"Big Olaf, 8 Wharf St, Sag Harbor",41.0028349089,-72.295577092
+12,2015-05-24 01:04:57,"Sen Restaurant, 23 Main St, Sag Harbor",41.0014939719,-72.2954788003
+13,2015-05-03 05:58:51,"Chiesa di San Luigi dei Francesi, Piazza San Luigi dei Francesi, Roma",41.8995659701,12.4746081233
+14,2015-05-03 05:58:18,"Basilica di Sant'Agostino, Piazza di Sant'Agostino, Roma",41.900513,12.474333
+15,2015-05-03 05:57:16,"Chiesa di Sant'Ignazio di Loyola, Via di Sant'Ignazio, Roma",41.899336174,12.4797803527
+16,2015-05-03 05:55:57,"Caffe Delle Arance, Piazza santa maria, Roma",41.8896992348,12.4700825137
+17,2015-05-03 05:55:16,"Vitti, Piazza capranica, Roma",41.90001468,12.47774259
+18,2015-05-03 05:54:36,"Il Papiro, Via del Pantheon, 50, Roma",41.89952865,12.476653
+19,2015-05-03 05:53:23,"Basilica di Santa Maria del Popolo, Piazza del Popolo, 12, Roma",41.9110529046,12.4762751493
+20,2015-05-03 05:52:14,"Villa Borghese, Piazzale Flaminio, Roma",41.9121425998,12.4852007519
+21,2015-05-03 05:50:54,"Piazza del Popolo, Piazza del Popolo, Roma",41.9104604287,12.4766055073
+22,2015-05-03 05:50:14,"Piazza di Spagna, Piazza di Spagna, Roma",41.905905985,12.4823113335
+23,2015-05-03 05:49:21,"Caff Barocco, Piazza Navona, 77-81, Roma",41.899254,12.473071
+24,2015-05-03 05:47:47,"Hertz, Stazione Roma Termini, Roma",41.8991185972,12.5026900151
+25,2015-05-03 05:42:47,"Libreria Acqua Alta, Castello 5167, Venezia",45.4379086777,12.3422291206
+26,2015-05-03 05:39:01,"St Mark's Basilica, Calle Canonica, Venezia",45.4345088214,12.3399209976
+27,2015-05-03 05:37:25,"The Gritti Palace, Venice, Campo Santa Maria del Giglio, Venezia",45.4317005529,12.3333871365
+28,2015-05-03 05:23:48,"Chiesa di San Barnaba, Campo San Barnaba, Venezia",45.4331181,12.325038
+29,2015-05-03 05:18:12,"Ponte dell'Accademia, Ponte dell'Accademia, Venezia",45.431711,12.328961
+30,2015-05-03 05:14:57,"Acqua Pazza, Campo Sant'angelo, Venezia",45.434482,12.332117
+31,2015-05-03 05:11:39,"Gelateria Paolin, Campo Santo Stefano 2962, Venezia",45.4335875715,12.3307069464
+32,2015-05-02 23:31:57,"Venezia Santa Lucia Railway Station (XVQ), Fondamenta Santa Lucia, Venezia",45.441188769,12.3208932802
+33,2015-05-02 23:30:37,"Osteria Al Squero, Dorsoduro 944, Venezia",45.4302409981,12.3260265162
+34,2015-05-02 23:28:40,"Collezione Peggy Guggenheim, Dorsoduro 701, Venezia",45.4305457084,12.3316699909
+35,2015-05-02 23:25:50,"Saint Mark's Square, Piazza San Marco, Venezia",45.4340396455,12.3392565885
+36,2015-05-02 23:24:57,"Rialto Bridge, Ponte di Rialto, Venezia",45.4377943693,12.3358153068
+37,2015-05-02 23:23:29,"Bar Longhi, Hotel Gritti Palace, Venezia",45.431570491,12.3332029816
+38,2015-05-02 23:20:18,"Ristorante Corte Sconta, Castello 3886, Venezia",45.4347485158,12.347974793
+39,2015-05-02 23:18:30,"Florian, Piazza San Marco 56-59, Venezia",45.4339603325,12.3382314171
+40,2015-05-02 05:04:05,"Corner Pub, Dorsoduro 684, Venezia",45.4303377771,12.3306941986
+41,2015-05-02 05:02:35,"L'Artusi, 228 W 10th St, New York",40.733793607,-74.0050658125
+42,2015-05-02 04:59:30,"La Bitta, Calle Lunga de San Barnaba, 2753, Venezia",45.432899,12.324659
+43,2015-05-01 21:46:28,"marina e susanna sent, Campo San Vio, Venezia",45.430683,12.329434
+44,2015-05-01 21:43:39,"Antiche Carampane, Sestiere San Polo, 1911, Venezia",45.438714,12.331206
+45,2015-05-01 21:39:29,"Cantina Do Spade, San Polo 860, Venezia",45.4393097829,12.3333025641
+46,2015-05-01 21:37:28,"Osteria all'Arco, Sestiere San Polo, 436, Venezia",45.4388371605,12.334180804
+47,2015-05-01 06:24:20,"Al Bottegon, Dorsoduro 2104, Venezia",45.4309477223,12.3265536118
+48,2015-05-01 06:21:34,"Sandwichic, Via San Gallo, Firenze",43.7771720886,11.2564916611

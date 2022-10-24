@@ -1,0 +1,90 @@
+,time,poi,latitude,longitude
+0,2016-10-30 06:09:31,"Arsicault Bakery, 397 Arguello Blvd, San Francisco",37.783423,-122.459204
+1,2016-10-29 14:44:53,"Long Bridge Pizza Co., 2347 3rd St, San Francisco",37.7595340669,-122.388383394
+2,2016-10-29 14:43:17,"Wrecking Ball Coffee Roasters, 2271 Union St, San Francisco",37.7968140437,-122.436704636
+3,2016-10-29 14:41:34,"Rose's Cafe, 2298 Union St, San Francisco",37.7969888252,-122.437099895
+4,2016-10-29 14:40:27,"Haute Bride Boutique, 40 N Santa Cruz Ave, Los Gatos",37.2236735921,-121.983242938
+5,2016-10-29 14:39:00,"Third Rail, 628 20th St, San Francisco",37.7605411118,-122.388239556
+6,2016-10-29 14:37:36,"Pizzaiolo, 5008 Telegraph Ave, Oakland",37.836623,-122.262334
+7,2016-10-29 14:37:01,"Dear Mom, 2700 16th St, San Francisco",37.765522,-122.413194
+8,2016-10-29 14:35:32,"Luka's Taproom & Lounge, 2221 Broadway, Oakland",37.8115020623,-122.266975539
+9,2016-10-29 14:32:47,"Plum Bar + Restaurant, 2216 Broadway, Oakland",37.8113328116,-122.266654302
+10,2016-10-02 09:09:26,"Trader Joe's, 3250 Lakeshore Ave, Oakland",37.8099773689,-122.244375802
+11,2016-10-02 09:08:22,"Bi-Rite Market, 550 Divisadero St, San Francisco",37.774779,-122.437556
+12,2016-10-02 09:06:14,"Caesars Palace Hotel & Casino, 3570 Las Vegas Blvd S, Las Vegas",36.1162386042,-115.174699261
+13,2016-10-02 09:05:21,"Olympic Garden, 1531 Las Vegas Blvd S, Las Vegas",36.1522257221,-115.15140579
+14,2016-10-02 09:04:36,"Sephora, 3377 Las Vegas Blvd S, Las Vegas",36.1214517965,-115.17148587
+15,2016-10-02 09:03:57,"Bouchon Bistro, 3355 Las Vegas Blvd S, Las Vegas",36.1211658366,-115.169575191
+16,2016-10-02 09:01:53,"Rent The Runway, The Cosmopolitan, Las Vegas",36.1094057174,-115.173471807
+17,2016-10-02 08:26:36,"The Cosmopolitan of Las Vegas, 3708 Las Vegas Blvd S, Las Vegas",36.1097609506,-115.17383078
+18,2016-10-02 08:24:33,"TAO Beach, 3355 Las Vegas Blvd S, Las Vegas",36.1225715244,-115.170058608
+19,2016-10-02 08:24:13,"Drybar, Miracle Mile Shops, Paradise",36.110905,-115.17222
+20,2016-10-02 08:23:25,"Venetian Resort & Casino, 3355 Las Vegas Blvd S, Las Vegas",36.122200123,-115.170049967
+21,2016-10-02 08:16:04,"TAO Nightclub, 3355 Las Vegas Blvd S, Las Vegas",36.1223651068,-115.170796869
+22,2016-10-02 08:03:11,"Eggslut, 3708 Las Vegas Blvd South, Las Vegas",36.1096005418,-115.174021846
+23,2016-10-02 08:01:32,"Wynn Las Vegas, 3131 Las Vegas Blvd S, Las Vegas",36.1266738499,-115.166778629
+24,2016-10-02 07:58:43,"McCarran International Airport (LAS), 5757 Wayne Newton Blvd, Las Vegas",36.0836942238,-115.146628769
+25,2016-10-02 07:23:20,"Shake Shack, 3790 Las Vegas Blvd S, Las Vegas",36.1031774297,-115.173413909
+26,2016-10-02 07:19:53,"The Chandelier, 3708 Las Vegas Blvd S, Las Vegas",36.1095536627,-115.173711777
+27,2016-10-02 07:18:56,"Peppermill Restaurant, 2985 Las Vegas Blvd S, Las Vegas",36.1336484409,-115.163291395
+28,2016-10-02 07:14:14,"Harper Paige Salon, 11 Tillman Pl Fl 2, San Francisco",37.7893512,-122.405444
+29,2016-10-02 07:13:10,"Bear Vs Bull, 2550 Mission St, San Francisco",37.7563808101,-122.419491996
+30,2016-10-02 07:10:29,"The Peaks, 1316 Castro St, San Francisco",37.751021,-122.434202
+31,2016-10-02 07:01:35,"The Market Hall, 1101 Channel St, San Francisco",37.7742871907,-122.391458452
+32,2016-10-02 06:56:28,"Yancy's Saloon, 734 Irving St, San Francisco",37.764212,-122.46593804
+33,2016-10-02 06:52:13,"The Ramp, 855 Terry a Francois Blvd, San Francisco",37.7641957156,-122.386823296
+34,2016-09-19 09:42:35,"PSY Health Town, 14075 E 14th St, San Leandro",37.7126723115,-122.140111521
+35,2016-09-19 09:36:21,"La Fleur, 1701 20th St, San Francisco",37.75983052,-122.398385171
+36,2016-08-28 02:40:03,"The Galley Restaurant, 2442 Main St, Santa Monica",34.003375,-118.485155349
+37,2016-08-27 08:33:18,"WAX, 2502 Main St, Santa Monica",34.0031621228,-118.484813869
+38,2016-08-15 01:40:38,"sweetgreen, 1890 Shattuck Ave, Berkeley",37.8739927421,-122.268849313
+39,2016-08-15 01:39:52,"United Artists Berkeley 7, 2274 Shattuck Ave, Berkeley",37.8680125,-122.2682057
+40,2016-08-15 01:38:08,"Souvla, 531 Divisadero St, San Francisco",37.7744615796,-122.437674978
+41,2016-08-15 01:35:56,"Andytown, 3655 Lawton St, San Francisco",37.7566352645,-122.502257824
+42,2016-08-15 01:34:43,"ABV, 3174 16th St, San Francisco",37.7649449576,-122.423645382
+43,2016-08-15 01:31:52,"Blackbird Bar, 2124 Market St, San Francisco",37.7673053769,-122.429409027
+44,2016-08-15 01:30:07,"Traci's Nails, 3421 Grand Ave, Oakland",37.814084,-122.246439457
+45,2016-08-15 01:28:25,"Grand Fare Market, 3265 Grand Ave, Oakland",37.81275,-122.247466
+46,2016-08-14 02:18:38,"As Quoted, 3613 Sacramento St, San Francisco",37.7875344495,-122.45227217
+47,2016-07-18 00:57:34,"Bender's Bar & Grill, 806 S Van Ness Ave, San Francisco",37.760344,-122.417205
+48,2016-07-18 00:56:24,"The Independent, 628 Divisadero St, San Francisco",37.7755609947,-122.437719215
+49,2016-07-18 00:53:35,"Arizmendi Bakery, 1331 9th Ave, San Francisco",37.763461,-122.466368
+50,2016-07-18 00:50:03,"Ambiance, 1458 Haight St, San Francisco",37.770183,-122.446312308
+51,2016-07-18 00:26:47,"San Franpsycho, 1248 9th Ave, San Francisco",37.765027947,-122.46636427
+52,2016-07-18 00:07:18,"Neighbor's Corner, 499 Douglass St, San Francisco",37.7554042314,-122.438836192
+53,2016-07-18 00:04:53,"Nopa, 560 Divisadero St, San Francisco",37.774948211,-122.437658389
+54,2016-07-18 00:00:49,"The Yard at Mission Rock, 3rd St & Terry A Francois Blvd, San Francisco",37.7762030137,-122.389345996
+55,2016-07-17 23:58:20,"Philz Coffee, 300 Folsom St, San Francisco",37.7886798388,-122.392886524
+56,2016-07-17 23:56:52,"Woodbury, 685 3rd St, San Francisco",37.7790935491,-122.393129931
+57,2016-07-17 23:53:42,"Herbst Theater, 401 Van Ness Ave, San Francisco",37.7794664097,-122.421051264
+58,2016-07-17 23:51:31,"STEM Kitchen & Garden, 499 Illinois St, San Francisco",37.7662386967,-122.387702929
+59,2016-07-17 23:31:33,"Alchemy Bottle Shop, 3256 Grand Ave, Oakland",37.8124476653,-122.247239808
+60,2016-07-17 23:22:30,"Grand Lake Farmers Market, Splash Pad Park, Oakland",37.8104492714,-122.24786024
+61,2016-07-11 06:48:03,"Sensi Luxury Nails & Spa, 338 Judah St, San Francisco",37.7622706579,-122.46583357
+62,2016-07-03 10:24:31,"Cala, 149 Fell St, San Francisco",37.776078319,-122.420332641
+63,2016-07-03 10:23:10,"The Page, 298 Divisadero St, San Francisco",37.7720928562,-122.437053323
+64,2016-07-03 10:20:48,"Perry's, 155 Steuart St, San Francisco",37.792861,-122.392363
+65,2016-07-03 10:19:21,"La Capra Coffee, 50 Fremont St, San Francisco",37.7907080975,-122.397538819
+66,2016-07-03 10:18:19,"Garaje, 475 3rd St, San Francisco",37.7818101067,-122.396028643
+67,2016-07-03 10:17:20,"Sea Star, 2289 3rd St, San Francisco",37.760739745,-122.388577021
+68,2016-07-03 10:15:01,"Pblico Urban Taqueria, 550A Gene Friend Way, San Francisco",37.7688567616,-122.390612855
+69,2016-07-03 10:13:01,"St. Stephen's Green, 223 Castro St, Mountain View",37.3935231353,-122.079047999
+70,2016-07-03 10:06:38,"Rveille Coffee Co., 610 Long Bridge St, San Francisco",37.7733479907,-122.391453731
+71,2016-07-03 10:04:08,"Red Rock Coffee, 201 Castro St, Mountain View",37.3938030037,-122.078881551
+72,2016-07-03 09:59:34,"Elite Fine Jewelry, 2480 Sacramento St, San Francisco",37.7898768636,-122.43375993
+73,2016-07-03 09:57:39,"The Devil's Acre, 256 Columbus Ave, San Francisco",37.797679,-122.406294
+74,2016-07-03 09:54:56,"SPARK Social SF, 601 Mission Bay Blvd N, San Francisco",37.7707550223,-122.391485274
+75,2016-06-29 23:03:23,"The Cavalier, 360 Jessie St, San Francisco",37.7832652624,-122.406792641
+76,2016-06-29 22:55:46,"Fig & Thistle Wine Bar, 313 Ivy St, San Francisco",37.7773619308,-122.423202951
+77,2016-06-29 22:54:04,"Marc 49, 4915 Telegraph Ave, Oakland",37.8360520043,-122.262860306
+78,2016-06-29 22:52:28,"Prospect, 300 Spear St, San Francisco",37.7898594843,-122.391409474
+79,2016-06-29 22:50:56,"Serpentine, 2495 3rd St, San Francisco",37.75807394,-122.388385
+80,2016-06-29 22:48:09,"The Dogpatch Cafe, 2295 3rd St, San Francisco",37.7605584064,-122.388416587
+81,2016-06-29 22:45:41,"SFJazz Center, 201 Franklin St, San Francisco",37.7764192908,-122.421278359
+82,2016-06-29 22:44:15,"Noir Lounge, 581 Hayes St, San Francisco",37.776382,-122.425924
+83,2016-06-25 08:27:01,"Lavande Nail Spa, 113 Carl St, San Francisco",37.7656769696,-122.450330257
+84,2016-06-23 06:09:05,"Ritual Coffee Roasters, 1300 Haight St, San Francisco",37.7705379322,-122.443851386
+85,2016-06-23 06:00:21,"Harper Paige Salon, 5030 Telegraph Ave, Oakland",37.836938,-122.262101
+86,2016-06-23 05:56:53,"Shakewell, 3407 Lakeshore Ave, Oakland",37.811342,-122.243093
+87,2016-06-23 05:46:51,"Hipline Studio, 3270 Lakeshore Ave, Oakland, CA 94610, Oakland",37.8102973779,-122.244087735
+88,2016-06-05 21:02:48,"Ragazza, 311 Divisadero St, San Francisco",37.7724405619,-122.437477112

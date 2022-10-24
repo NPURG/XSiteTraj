@@ -1,0 +1,51 @@
+,time,poi,latitude,longitude
+0,2015-08-03 18:21:05,"Kiezeklein, Mariannenstr. 7, Berlin",52.5006819322,13.4235206886
+1,2015-08-02 20:03:55,"Kamps Backstube, Friedrichstr. 186, Berlin",52.5121120736,13.389632466
+2,2015-07-23 20:46:22,"Mi Li F, Morassistr. 2, Mnchen",48.1329746763,11.5836500831
+3,2015-05-11 00:44:06,"Cafe/Hotel Palazzio, Sudetenlandstr 99, Dacha",48.264708594,11.4640130541
+4,2015-05-06 01:58:57,"El Patio, Herzogstr. 88, Mnchen",48.1628954527,11.5716593504
+5,2014-07-26 19:52:31,"Mi Li F, Morassistr. 2, Mnchen",48.1329746763,11.5836500831
+6,2014-07-10 18:37:07,"Icke's - Restaurant & Wohnzimmer, Ickstattstrasse, Mnchen",48.1283717114,11.572865466
+7,2014-03-21 19:05:49,"dean&david, Rainer-Werner-Fassbinder-Platz 4, Mnchen",48.1436199273,11.537228198
+8,2014-03-20 04:25:25,"gast essen & trinken, Rosenheimer Str. 5, Mnchen",48.1314107651,11.591219902
+9,2014-02-18 03:51:06,"Pala, Thalkirchner Str. 16, Mnchen",48.1316335298,11.5665565808
+10,2014-02-08 20:11:36,"Caf Westend, Anglerstr. 32, Mnchen",48.1320695441,11.5393996239
+11,2014-02-01 07:02:07,"Zapata, Wilderich-Lang-Str. 4, Mnchen",48.1481574197,11.5355427994
+12,2013-12-07 23:46:36,"EscoBar, Breisacherstr. 19, Mnchen",48.130495875,11.6051103
+13,2013-06-07 06:20:36,"Burger & Bier, Klenzestr. 40, Mnchen",48.1304472417,11.5740255371
+14,2013-06-06 17:01:30,"Restaurant Casa Frieda, Bd. Nicolae B03lcescu nr. 40, Sibi",45.7933521918,24.1492795944
+15,2013-06-06 17:00:30,"Hotel Golden Tulip Ana Tower, Str. 18coala de not nr. 2, Sibi",45.786847639,24.1473726585
+16,2013-06-06 16:58:58,"Sibiu International Airport (SBZ), 18os. Alba Iulia, nr. 73, Sibi",45.7892566266,24.0949645123
+17,2013-05-04 19:39:24,"Hungriges Herz, Fraunhoferstr. 42, Mnchen",48.128323,11.575508
+18,2012-11-20 01:41:24,"Caf Mozart, Pettenkoferstr. 2, Mnchen",48.1339888011,11.5651188299
+19,2012-10-19 18:04:10,"Sushi Magie, Westenriederstr. 13, Mnchen",48.1350625857,11.5776371956
+20,2012-04-04 15:19:10,"Gtterspeise, Jahnstr. 30, Mnchen",48.128515,11.569664
+21,2011-11-05 19:22:23,"The Breakfast Club, Schleifmhlgasse 12-14, Wien",48.197371,16.365263
+22,2011-11-02 01:19:25,"Koriander Vietnam Restaurant, Nordendstr. 64, Mnchen",48.159163,11.574866
+23,2011-09-04 08:08:05,"Karlsplatz (Stachus), Karlsplatz, Mnchen",48.1391332861,11.5658779884
+24,2011-08-16 03:53:42,"Vodafone Shop, Marienplatz 25, Mnchen",48.1371586843,11.5746133079
+25,2011-08-16 03:49:01,"Ochsengarten, Mllerstrae 47, Mnchen",48.1315002736,11.5679115057
+26,2011-08-11 17:45:15,"Der Kleine Chinese, Weienburger Str. 16, Mnchen",48.128582,11.597242
+27,2011-07-30 22:02:04,"Grnanlage Postwiese, Lothringerstr., Mnchen",48.1271579576,11.5988596036
+28,2011-07-27 23:40:47,"pureburrito, Lindwurmstr. 57, Mnchen",48.1302399794,11.5602242947
+29,2011-07-27 23:25:47,"pureburrito, Lindwurmstr. 57, Mnchen",48.1302399794,11.5602242947
+30,2011-07-27 20:13:06,"Cafe Reichshof, Woerthstr. 17, Mnchen",48.131015302,11.5995469664
+31,2011-05-29 01:12:57,"KONEN, Sendlinger Str. 3, Mnchen",48.1360864809,11.5726590157
+32,2011-05-27 20:13:35,"WA'HAKA, Bahnhofplatz, Mnchen",48.1413626644,11.5612035394
+33,2011-05-24 20:31:02,"Gelateria Adamello, Preysingstr. 29, Mnchen",48.132342,11.596324
+34,2011-05-24 15:57:49,"Leopoldstrae, Leopoldstr., Mnchen",48.1556734483,11.5837327508
+35,2011-05-24 00:17:22,"Hofbrukeller, Innere Wiener Str. 19, Mnchen",48.1343543305,11.5951351496
+36,2011-03-17 21:38:39,"Black Bean, Mnchner Freiheit 12, Mnchen",48.162714,11.587005
+37,2011-01-21 21:15:36,"Sababa, Westenriederstr. 9, Mnchen",48.1348334595,11.5772509575
+38,2011-01-05 00:27:59,"body + soul Center Sendling, Staffelseestr. 6138, Mnchen",48.0917662979,11.5072980955
+39,2010-12-29 02:44:32,"M.C. Mueller, Fraunhoferstr. 2, Mnchen",48.1311637208,11.5713715553
+40,2010-12-17 23:27:46,"Hong Kong Market, Implerstr. 29, Mnchen",48.1213934764,11.5484752329
+41,2010-12-12 10:19:51,"NY.Club, Sonnenstr. 25, Mnchen",48.1352920689,11.5655499668
+42,2010-12-12 10:16:08,"NY.Club, Sonnenstr. 25, Mnchen",48.1352920689,11.5655499668
+43,2010-11-05 04:57:22,"WA'HAKA, Bahnhofplatz, Mnchen",48.1413626644,11.5612035394
+44,2010-09-14 07:13:42,"U Sendlinger Tor, Sendlinger-Tor-Platz, Mnchen",48.1335607764,11.5665102956
+45,2010-09-14 06:31:35,"M.C. Mueller, Fraunhoferstr. 2, Mnchen",48.1311637208,11.5713715553
+46,2010-09-12 18:20:05,"Pimpernel, Mllerstr. 56, Mnchen",48.1323261751,11.5670493692
+47,2010-07-22 23:07:06,"Burger King, Sonnenstr. 6, Mnchen",48.1377022906,11.5649344401
+48,2010-04-08 12:49:54,"Los Panchos, 409 Washington St, San Diego",32.749736089,-117.161260843
+49,2010-04-06 07:21:55,"East Buffet, 8998 Miramar Rd, San Diego",32.894620066,-117.131602488

@@ -1,0 +1,75 @@
+,time,poi,latitude,longitude
+0,2014-07-13 02:02:32,"Paco's Tacos, 4141 S Centinela Ave, Los Angeles",33.9961483243,-118.427728065
+1,2014-07-06 02:41:06,"Mount San Jacinto State Park, 25905 Hwy 243, Idyllwild",33.8130316028,-116.637898062
+2,2014-02-17 07:45:09,"The Sparrow Tavern, 24-01 29th St, Astoria",40.772903928,-73.9165120809
+3,2012-07-18 02:01:12,"Hollywood Health Clinic, 6464 W Sunset Blvd, Los Angeles",34.0979881287,-118.331077576
+4,2012-06-08 21:25:24,"Biscayne Suites, 820 Ocean Ave, Ocean City",39.2778844466,-74.5734143665
+5,2012-04-29 03:24:56,"Fran Lee Hair, 3015 Glendale Blvd, Glendale",34.115675,-118.26362
+6,2012-04-08 07:42:35,"Fresh - Promenade, 1407 3rd Street Promenade, Santa Monica",34.01565,-118.495878
+7,2010-04-19 10:05:39,"Crave Astoria, 2855 36th St., Astoria",40.7652664502,-73.9173460007
+8,2010-01-30 02:29:30,"Ovelia Psistaria Bar, 3401 30th Ave, Astoria",40.7658073014,-73.9189405596
+9,2010-01-22 00:46:36,"John F. Kennedy International Airport (JFK), at JFK Access Rd, Queens",40.6452830868,-73.7816757409
+10,2010-01-21 15:58:26,"Dublin Airport (DUB), Arrivals Rd, Dublin",53.427050558,-6.24477680845
+11,2010-01-19 03:22:47,"St Stephen's Green, Faiche Stiabhna, Dublin",53.338775378,-6.25971147843
+12,2010-01-19 03:21:57,"Oliver St John Gogarty's, 18-21 Anglesea St, Dublin",53.3456778161,-6.26123141721
+13,2010-01-19 03:20:17,"Grogan's, 15 S William St, Dublin",53.342263439,-6.26263618469
+14,2010-01-19 03:19:39,"Sinnotts Bar, King St S, Dublin",53.3402072319,-6.26179933548
+15,2010-01-16 06:05:02,"Insomnia @SPAR, 70-72 Spencer Row, Talbot St, Dublin",53.3511167037,-6.25264739823
+16,2010-01-16 06:02:24,"Oliver St John Gogarty's, 18-21 Anglesea St, Dublin",53.3456778161,-6.26123141721
+17,2010-01-16 06:01:12,"Grafton Street, Srid Grafton, Dublin",53.3414461979,-6.26032387842
+18,2010-01-16 05:59:44,"O'Callaghan Stephen's Green Hotel, 1-5 Harcourt St, Dublin",53.3374654681,-6.26314043999
+19,2010-01-16 05:58:58,"The Temple Bar, 47-48 Temple Bar, Dublin",53.3454820688,-6.26422137022
+20,2010-01-16 05:58:17,"St Stephen's Green, Faiche Stiabhna, Dublin",53.338775378,-6.25971147843
+21,2010-01-16 05:57:18,"St Stephen's Green Shopping Centre, St Stephen's Green W, Dublin",53.3399317823,-6.26220703125
+22,2010-01-16 05:56:54,"Dublin Airport (DUB), Arrivals Rd, Dublin",53.427050558,-6.24477680845
+23,2010-01-16 05:56:21,"The Hairy Lemon, 41-42 Stephen St Lwr, Dublin",53.3411512738,-6.26384586096
+24,2009-11-30 15:02:35,"The Quays, 10-12 Temple Bar Sq, Dublin",53.3455774436,-6.26315694754
+25,2009-11-30 15:01:29,"Avalon House, 55 Aungier St, Dublin",53.3395783422,-6.2661927402
+26,2009-11-30 14:58:59,"Howth Market, 3 Harbour Rd, Howth",53.3888217357,-6.07302894915
+27,2009-11-30 14:58:09,"Starbucks, Unit 2 The Oval, Dublin",53.331327095,-6.23183914862
+28,2009-11-30 14:57:12,"UCD Student Bar, UCD, Dublin",53.3051109962,-6.22067753514
+29,2009-11-30 14:56:27,"Trinity College Old Library & The Book of Kells Exhibition, Sean Leabharlann Choliste na Tronide & Taispentas Leabhar Cheanannais, Dublin",53.3439160196,-6.25686407089
+30,2009-11-30 14:54:39,"The National Museum of Ireland - Natural History, Ard-Mhsaem na hireann, Merrion St, Dublin",53.3397256692,-6.25269001597
+31,2009-11-30 14:53:52,"The James Joyce Centre, 35 N Great Georges St, Dublin",53.3541855641,-6.25998884439
+32,2009-11-30 14:52:43,"O'Callaghan Davenport Hotel, 8-10 Merrion St Lwr, Dublin",53.3416164811,-6.25001907349
+33,2009-11-30 14:52:00,"O'Callaghan Alexander Hotel, 41-47 Fenian St, Dublin",53.3417766201,-6.24925732613
+34,2009-11-30 14:50:18,"O'Connell Bridge, Droichead U Chonaill, Dublin",53.3472209886,-6.25904202461
+35,2009-11-30 14:49:31,"The Ha'penny (Liffey) Bridge, Droichead na Leathphingine, Dublin",53.346295495,-6.26309752464
+36,2009-11-30 14:48:57,"Grafton Street, Srid Grafton, Dublin",53.3414461979,-6.26032387842
+37,2009-11-30 14:48:21,"Christ Church Cathedral, Christchurch Pl, Dublin",53.343110421,-6.2711565719
+38,2009-11-30 14:45:08,"The Four Courts, Inns Quay, Dublin",53.3459944651,-6.27344548702
+39,2009-11-30 14:44:32,"Merrion Square Outdoor Gallery, Merrion Sq., Dublin 2",53.3404314337,-6.25117778778
+40,2009-11-30 14:43:53,"Trinity College, College Green, Dublin",53.3443695958,-6.25786327748
+41,2009-11-30 14:43:21,"Bank of Ireland, 50-55 Baggot St Lwr, Dublin",53.3362174986,-6.24805343693
+42,2009-11-30 14:42:24,"Dublin Castle, 2 Palace St, Dublin",53.343380862,-6.26648594287
+43,2009-11-30 14:41:48,"Phoenix Park, Parkgate St, Dublin",53.349705257,-6.30078524472
+44,2009-11-30 14:41:07,"Croke Park, Jones's Rd, Dublin",53.360521504,-6.25052458979
+45,2009-11-30 14:40:10,"The Stag's Head, 1 Dame Court, Dublin",53.3437953676,-6.26369770981
+46,2009-11-30 14:39:35,"The Hairy Lemon, 41-42 Stephen St Lwr, Dublin",53.3411512738,-6.26384586096
+47,2009-11-30 14:39:08,"The Auld Dubliner, 24-25 Temple Bar, Dublin",53.3456483852,-6.26192804667
+48,2009-11-30 14:38:28,"St Stephen's Green, Faiche Stiabhna, Dublin",53.338775378,-6.25971147843
+49,2009-11-30 14:37:39,"Oliver St John Gogarty, 58 Fleet St, Temple Bar, Dublin",53.3455717626,-6.26183906565
+50,2009-11-30 14:36:38,"General Post Office (GPO), O'Connell St Lwr, Dublin",53.349392137,-6.26056551933
+51,2009-11-30 14:36:03,"Kilmainham Gaol, 2 Inchicore Rd, Kilmainham, Dublin",53.3419329826,-6.30847008429
+52,2009-11-30 14:33:53,"Maremagnum, Moll d'Espanya, 5, Barcelona",41.375196752,2.18280930806
+53,2009-11-30 14:32:07,"CDLC, Pg. Martim de la Barceloneta, 32, Barcelona",41.3848528254,2.19645714486
+54,2009-11-30 14:29:10,"Muntanya de Montserrat, Muntanya de Montserrat, Monistrol de Montserrat",41.5926744742,1.83684110641
+55,2009-11-30 14:27:45,"Museu Picasso, Carrer de Montcada 15-23, Barcelona",39.548724,-0.392484
+56,2009-11-30 14:26:47,"Casa Batll, Pg. de Grcia, 43, Barcelona",41.3918024984,2.16510640517
+57,2009-11-30 14:21:46,"Palau Gell, C. Nou de la Rambla, 3-5, Barcelona",41.3788413331,2.17419862747
+58,2009-11-30 14:20:42,"Palau de la Msica Catalana, C. Palau de la Msica, 4-6, Barcelona",41.3875955955,2.17529833317
+59,2009-11-30 14:19:18,"La Pedrera (Casa Mil), Pg. Grcia, 92, Barcelona",41.3950912805,2.16183436211
+60,2009-11-30 14:17:57,"Sagrada Famlia, C. de Mallorca, 401, Barcelona",41.4033736104,2.17426651241
+61,2009-11-30 14:17:17,"Park Gell, C. Olot s/n, Barcelona",41.4138046135,2.15278231035
+62,2009-11-30 14:12:38,"Panathenaic Stadium, 9bb5c9c6. 92b1c3b9bbadc9c2 9ac9bdc3c4b1bdc4afbdbfc5, 91b8aebdb1",37.9695703235,23.7402929728
+63,2009-11-30 14:11:02,"National Archaeological Museum, 28b7c2 9fbac4c9b2c1afbfc5 55, 91b8aebdb1",37.9890264134,23.7325286865
+64,2009-11-30 14:09:49,"Temple Of Olympian Zeus, 9bb5c9c6. 92b1c3b9bbafc3c3b7c2 9fbbb3b1c2, 91b8aebdb1",37.9692966059,23.7327218056
+65,2009-11-30 14:06:12,"St Paul's Anglican Church, a6b9bbb5bbbbaebdc9bd 27, 91b8aebdb1",37.9722652957,23.7337088585
+66,2009-11-30 14:01:47,"Hadrian's Arch, 9bb5c9c6. 92b1c3b9bbafc3c3b7c2 91bcb1bbafb1c2, 91b8aebdb1",37.970227,23.732043
+67,2009-11-30 13:59:33,"Taverna Plaka, 9ac5b4b1b8b7bdb1afc9bd 16, 91b8aebdb1",37.972144,23.731384
+68,2009-11-30 13:58:51,"Acropolis of Athens, 91bac1ccc0bfbbb7 91b8b7bdcebd, 91b8aebdb1",37.9713968294,23.7252719031
+69,2009-11-30 13:57:26,"Ancient Agora, 91b4c1b9b1bdbfcd 24, 91b8aebdb1",37.9757266907,23.7239063304
+70,2009-11-30 13:55:58,"Hotel Pulitzer, Prinsengracht 315-331, Amsterdam",52.3727594852,4.88436146513
+71,2009-11-30 13:48:53,"Sexmuseum, Damrak 18, Amsterdam",52.3765767186,4.89728718996
+72,2009-11-30 13:47:17,"The Bulldog Palace, Leidseplein 15, Amsterdam",52.3640438764,4.88297224045
+73,2009-11-30 13:45:41,"Anne Frank House, Prinsengracht 263-267, Amsterdam",52.3750128599,4.88392006901

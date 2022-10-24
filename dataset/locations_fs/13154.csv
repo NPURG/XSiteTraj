@@ -1,0 +1,81 @@
+,time,poi,latitude,longitude
+0,2014-01-29 03:20:58,"K-bar, Laugavegur 74, Reykjavk",64.1438148412,-21.9201117754
+1,2013-10-05 00:02:11,"Kipps Backpackers Brighton, 76 Grand Parade, Brighton",50.823378615,-0.136172119894
+2,2013-09-30 01:00:19,"The Marwood, 52 Ship St, Brighton",50.8224780775,-0.141603989229
+3,2013-09-25 18:03:40,"The Attendant, 27a Foley St, Fitzrovia",51.5191265756,-0.140724778175
+4,2013-09-12 21:24:05,"Impact Hub Westminster, New Zealand House, 80 Haymarket, London",51.5077923674,-0.131245925795
+5,2013-09-02 22:00:04,"Tischendorf, Friedelstr. 25, Berlin",52.4920553699,13.4278977873
+6,2013-09-02 21:56:41,"Engels, Herrfurthstr. 21, Berlin",52.476911,13.4201295429
+7,2013-08-18 22:40:51,"Schleusenkrug, Mller-Breslau-Str., Berlin",52.5112292428,13.3358520269
+8,2013-08-17 23:14:58,"Strandbad Mggelsee, Frstenwalder Damm 838, Berlin",52.4453318141,13.6761653423
+9,2013-08-15 22:10:53,"Conrad Electronic, Hasenheide 14-15, Berlin",52.487433,13.421143
+10,2013-08-05 03:55:13,"Hamy Cafe, Hasenheide 10, Berlin",52.4872654879,13.4219402075
+11,2013-08-04 03:15:00,"Gastn, Weichselstr. 18, Berlin",52.4861210625,13.435376
+12,2013-08-02 22:58:44,"Marheineke Markthalle, Marheinekeplatz, Berlin",52.489252,13.394498
+13,2013-07-22 06:13:58,"Bellman Bar, Reichenberger Str. 103, Berlin",52.4935724967,13.437268428
+14,2013-07-21 00:02:44,"Burrito Baby, Pflgerstr. 11, Berlin",52.4915011805,13.4283852371
+15,2013-05-05 02:51:24,"Vesturbjarlaug, Hofsvallagt, Reykjavk",64.1446119701,-21.9620782332
+16,2013-05-02 23:41:34,"Piccolo Italia, Frakkstgur 12, Reykjavk",64.1444698925,-21.9255888462
+17,2013-02-11 13:54:42,"Dawson City Park, N Stanton & N Williams, Portland",45.5443625775,-122.667143215
+18,2013-01-22 04:29:58,"Nong's Khao Man Gai, 1003 SW Alder St., Portland",45.5210825931,-122.682080947
+19,2012-12-25 14:33:10,"The Pikey, 7617 W Sunset Blvd, Los Angeles",34.09821809,-118.355745551
+20,2012-12-25 03:10:46,"The Sycamore Kitchen, 143 S LA Brea Ave, Los Angeles",34.0723640096,-118.344297171
+21,2012-12-01 21:29:52,"Gri Ktturinn, Hverfisgata 16, Reykjavk",64.1470240501,-21.9322066802
+22,2012-11-29 01:13:07,"Glcksvelo, Pannierstr 53a, Berlin",52.4877550592,13.4317318913
+23,2012-11-25 04:54:22,"Entweder Oder, Oderberger Str. 15, Berlin",52.539130558,13.4082315563
+24,2012-11-24 17:29:17,"Bully's Bakery, Friedelstr. 7, Berlin",52.4882421894,13.428093195
+25,2012-11-22 01:08:56,"Raja Jooseppi, Brunnenstr. 44, Berlin",52.537060465,13.3970154893
+26,2012-11-16 06:04:30,"Liquidrom, Mckernstr. 10, Berlin",52.5011573844,13.3817100237
+27,2012-11-15 22:40:20,"Five Elephant, Reichenberger Str. 101, Berlin",52.4933626712,13.437933189
+28,2012-11-14 08:08:18,"John Muir, Skalitzer Str. 51, Berlin",52.4997400493,13.4339654939
+29,2012-11-14 01:40:28,"betahaus, Prinzessinnenstr. 19 - 20, Berlin",52.502540707,13.4121876955
+30,2012-11-12 00:58:41,"Blue Lagoon, Bla Lni, Grindavk",63.8801741074,-22.4491453171
+31,2012-11-11 04:27:57,"Sjvargrilli - Seafood Grill, Sklavrustg 14, Reykjavk",64.1450913767,-21.9312660376
+32,2012-11-08 05:52:12,"Sushibarinn, Laugavegur 2, Reykjavk",64.1463986019,-21.9327296393
+33,2012-11-06 22:13:32,"Reykjavk Roasters, Krastgur 1, Reykjavk",64.1436501767,-21.9264550951
+34,2012-11-06 10:05:11,"Kaffibarinn, Bergstaastri 1, Reykjavk",64.1459015936,-21.9313716888
+35,2012-11-04 23:28:37,"Caf Babal, Sklavrustgur 22a, Reykjavk",64.144030074,-21.9301271439
+36,2012-11-01 23:47:18,"Sundhll Reykjavkur, Bergrugata, Reykjavk",64.14181216,-21.9202780724
+37,2012-11-01 00:59:04,"Kex Hostel, Sklagata 28, Reykjavk",64.1454337256,-21.9194948673
+38,2012-10-31 07:07:04,"Park Inn by Radisson Island, Reykjavik, Armuli 9, Reykjavk",64.1388448712,-21.8831975373
+39,2012-10-24 05:56:25,"Fish Sauce, 407 NW 17th Ave, Portland",45.52568822,-122.688497626
+40,2012-10-01 08:09:31,"Dove Vivi, 2727 NE Glisan St, Portland",45.52663,-122.63756588
+41,2012-07-26 03:29:00,"Sterling Coffee Roasters, 417 NW 21st Ave, Portland",45.52599986,-122.694519926
+42,2012-07-22 05:47:38,"A Better Cycle, 2324 SE Division St, Portland",45.5047986667,-122.641860067
+43,2012-07-16 02:37:35,"The Big Egg, 4233 N. Mississippi, Portland",45.5543769866,-122.675695378
+44,2012-07-12 10:23:29,"Justa Pasta Co, 1336 NW 19th Ave, Portland",45.5325131424,-122.690435246
+45,2012-06-21 00:35:50,"Sterling Coffee Roasters, 417 NW 21st Ave, Portland",45.52599986,-122.694519926
+46,2012-06-06 06:07:42,"New Cascadia Traditional, 1700 SE 6th Ave, Portland",45.5108684839,-122.65976432
+47,2012-05-26 09:17:23,"Zell's Cafe, 1300 SE Morrison St, Portland",45.5171203613,-122.652627826
+48,2012-05-25 11:13:41,"The Waypost, 3120 N Williams Ave, Portland",45.545851,-122.666588
+49,2012-05-25 03:19:30,"Intel - JF3, 2111 NE 25th Ave, Hillsboro",45.5436388164,-122.960164012
+50,2012-05-19 00:16:14,"Steven Smith Teamaker, 1626 NW Thurman St, Portland",45.5355887349,-122.688220351
+51,2012-05-08 11:52:27,"Salt & Straw, 838 NW 23rd Ave, Portland",45.528987296,-122.698496182
+52,2012-05-08 07:12:34,"Ultimate Urban Picnic Spot, NW 17th, Portland",45.534726,-122.688234
+53,2012-05-03 12:22:03,"Connective DX, 2030 NW Pettygrove St, Portland",45.5324997471,-122.693327665
+54,2012-04-24 01:14:47,"CITIZEN, 2001 NW 19th Ave #103, Portland",45.537463,-122.690908
+55,2011-12-12 06:19:12,"Rocking Frog Cafe, 2511 SE Belmont St, Portland",45.516586,-122.639823
+56,2011-11-23 15:00:06,"Converse Court, 325 NW 18th Ave, Portland",45.5252581951,-122.689736263
+57,2011-10-01 12:57:37,"The Bye and Bye, 1011 NE Alberta St, Portland",45.5592402071,-122.655217415
+58,2011-09-27 03:30:05,"Black Bear Diner, 246 N Humboldt Ave, Willows",39.5231849542,-122.211899699
+59,2011-09-26 11:28:49,"San Francisco International Airport (SFO), N McDonnell Rd, San Francisco",37.6176399314,-122.386369647
+60,2011-09-23 02:53:36,"McMenamins Zeus Caf, 303 Southwest 12th Avenue, Portland",45.5227914,-122.6833606
+61,2011-09-18 09:25:27,"The Beet Box Cafe, 66-443 Kamehameha Hwy, Hale18iwa",21.581700312,-158.105043752
+62,2011-09-15 05:52:31,"Kai Ku Hale, 66145 Kameheha Hwy, Haeliwa",21.58933,-158.103145
+63,2011-09-14 06:29:27,"Kaiser Permanente, 3288 Moanalua Rd, Honolul",21.363536822,-157.899794516
+64,2011-09-12 13:04:13,"Downbeat Diner & Lounge, 42 N Hotel St, Honolul",21.3105058289,-157.862677574
+65,2011-09-11 13:36:00,"Jameson's by the Sea, 62-540 Kamehameha Hwy, Hale18iwa",21.596021,-158.102896
+66,2011-08-14 08:12:26,"PLACE, 700 SW 5th Ave, Portland",45.518654256,-122.677231956
+67,2011-08-04 13:11:21,"Eat Pizza, 2037 SW Morrison St, Portland",45.523087,-122.69320556
+68,2011-07-24 01:58:34,"Prasad Cuisine, 925 NW Davis St, Portland",45.5245100982,-122.680737376
+69,2011-05-01 04:23:54,"Research Club, 215 SE Morrison St, Portland",45.51726,-122.662836313
+70,2011-05-01 04:23:08,"Research Club, 215 SE Morrison St, Portland",45.51726,-122.662836313
+71,2011-03-26 02:41:40,"Courier Coffee, 923 SW Oak St, Portland",45.5226760017,-122.680506706
+72,2011-03-21 10:25:24,"Pastini Pastaria, 1506 NW 23rd Ave, Portland",45.5334860086,-122.698563337
+73,2011-01-26 07:30:19,"After Life, 988 Valencia St, San Francisco",37.7571660604,-122.42117328
+74,2011-01-24 07:15:49,"Atlas Cafe, 3049 20th St, San Francisco",37.7589471664,-122.411477875
+75,2011-01-21 15:59:13,"Perierra Crperie, 1200 SE Hawthorne Blvd, Portland",45.5123005012,-122.65342557
+76,2011-01-18 03:05:44,"Coffee Time, 712 NW 21st Ave, Portland",45.528014,-122.69451
+77,2010-12-24 08:14:35,"World Cup Coffee & Tea, 1740 NW Glisan St, Portland",45.5263,-122.689175606
+78,2010-11-23 12:16:25,"Launchpad, 1515 SE 22nd Ave, Portland",45.5117923021,-122.643299103
+79,2010-10-30 05:32:55,"Oakland International Airport (OAK), 1 Airport Dr, Oakland",37.7115274308,-122.21255635

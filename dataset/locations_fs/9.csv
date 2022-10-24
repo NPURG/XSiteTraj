@@ -1,0 +1,60 @@
+,time,poi,latitude,longitude
+0,2016-10-14 23:06:20,"The Cheese Iron, 200 US Route 1, Scarborough",43.5922907496,-70.3297051114
+1,2016-04-29 03:41:08,"Willa Jean, 611 Okeefe Ave, New Orleans",29.9482364253,-90.0750348384
+2,2015-12-29 05:16:49,"Gigantebar, Alameda de Hrcules 17, Sevilla",37.3972548371,-5.99420320851
+3,2015-12-28 22:25:59,"El Rinconcillo, C. Gerona, 40, Sevilla",37.3933724173,-5.98830372328
+4,2015-12-28 22:23:52,"Bar Europa, C. Alcaicera de la Loza, Sevilla",37.390318,-5.99225342274
+5,2015-12-28 22:17:28,"Bar Alfalfa, Plaza de la Alfalfa, 10, Sevilla",37.3899702393,-5.99011301994
+6,2015-12-28 22:15:53,"Las Golondrinas, C. Pags del Corro, 76, Sevilla",37.38408,-6.005366
+7,2014-08-07 23:18:54,"The Coffee Collective, Jgersborggade 10, Kbenhavn N",55.6920909,12.5449536
+8,2014-08-07 23:18:00,"Torvehallerne, Frederiksborggade, Kbenhavn",55.6838632316,12.5694966316
+9,2014-08-07 23:17:15,"Assistens Kirkegrd, Kapelvej 4, Kbenhavn",55.6904836833,12.5498126772
+10,2014-08-07 23:16:27,"Manfreds & Vin, Jgersborggade 40, Kbenhavn",55.6932629406,12.5434099325
+11,2014-08-07 23:15:18,"Amass, Refshalevej 153, Kbenhavn",55.6904910509,12.6108672218
+12,2013-08-17 02:43:49,"Stanziato's Wood Fired Pizza, 35 Lake Avenue Ext, Danbury",41.3856983546,-73.4853487025
+13,2013-07-24 00:04:40,"Charlie Bird, 5 King St, New York",40.7278116439,-74.0030264854
+14,2013-06-13 21:33:36,"The Bowery Hotel, 335 Bowery, New York",40.7261855236,-73.9916110039
+15,2013-06-04 06:46:20,"Fresh Salt, 146 Beekman St, New York",40.707036614,-74.0025982478
+16,2013-04-23 00:11:58,"Captain Foxheart's Bad News Bar & Spirits Lodge, 308 1/2 Main St, Houston",29.7619399903,-95.3610314784
+17,2013-04-23 00:11:32,"The Pass and Provisions, 807 Taft St, Houston",29.7587783765,-95.3856195848
+18,2013-04-23 00:10:10,"Freedmen's, 2402 San Gabriel St, Austin",30.2884038063,-97.7478372982
+19,2013-04-23 00:08:25,"Taqueria Mi Trailita, 5301 Manor Rd, Austin",30.2861312871,-97.7405695325
+20,2013-04-15 06:06:20,"FT33, 1617 HI Line Dr Ste 250, Dallas",32.7959352901,-96.8196739342
+21,2013-03-02 09:32:08,"Oak Steakhouse, 17 Broad St, Charleston",32.7768292467,-79.9279028544
+22,2013-03-02 08:25:13,"The Bar at Husk, 76 Queen St, Charleston",32.777925537,-79.9319907112
+23,2012-12-06 08:32:18,"Tir na ng, 315 West 39 St, New York",40.7558699316,-73.9919816184
+24,2012-07-23 06:13:29,"Lounge 5280, Concourse B, Denver",39.8586838847,-104.673714255
+25,2012-04-15 04:50:01,"The Paris Cafe, 119 South St, New York",40.7072254352,-74.0013988851
+26,2012-04-04 00:57:31,"Minar, 5 W 31st St, New York",40.7469176127,-73.9864316583
+27,2012-03-17 03:06:03,"Il Buco Alimentari & Vineria, 53 Great Jones St, New York",40.7266526523,-73.9922685621
+28,2012-03-10 08:01:32,"Nha Trang One, 87 Baxter St, New York",40.7168508246,-73.99985075
+29,2012-02-26 07:22:56,"Soho Beach House, 4385 Collins Ave, Miami Beach",25.8151844979,-80.1216734113
+30,2012-02-13 06:29:25,"Il Brigante, 214 Front St, New York",40.7073623531,-74.0025293851
+31,2012-02-01 13:28:18,"Freddy Smalls, 11520 W Pico Blvd, Los Angeles",34.0331456179,-118.442530393
+32,2012-01-25 07:03:56,"ACME, 9 Great Jones St, New York",40.7272912897,-73.9937782288
+33,2011-12-19 19:33:45,"Gare de Lausanne, Place de la Gare, Lausanne",46.5167384392,6.62951716925
+34,2011-12-15 07:22:37,"The Wren, 344 Bowery, New York",40.7262960594,-73.9916774577
+35,2011-09-20 07:02:54,"Bar Centrale, 324 W 46th St, New York",40.760257506,-73.9888653826
+36,2011-08-20 09:31:14,"Gilt City Hamptons House, The Hamptons, East Hampton",40.9542334687,-72.1788024902
+37,2011-07-03 10:44:36,"Rick's Crabby Cowboy Cafe, 435 E Lake Dr, Montauk",41.0725138123,-71.9265384788
+38,2011-06-18 07:04:18,"Food & Wine Classic, 230 E Hopkins Ave, Aspen",39.1884776438,-106.820600285
+39,2011-05-29 10:32:16,"Ruschmeyer's, 161 Second House Rd, Montauk",41.0394399,-71.9605257
+40,2011-05-17 08:21:04,"Pasanella & Sons, 115 South St, New York",40.7070897915,-74.001708769
+41,2011-05-14 07:10:15,"Jacobson Building Vacation Rentals, 19 Broad St, Charleston",32.7760895299,-79.9282836914
+42,2011-05-04 10:09:41,"The Dutch, 131 Sullivan St, New York",40.7264375462,-74.0022539339
+43,2011-03-10 10:08:33,"The Trilby, 25 Cooper Sq, New York",40.727938,-73.990973
+44,2011-03-10 00:58:30,"Vook HQ, 151 W 25th St Fl 6, New York",40.745111103,-73.9939498901
+45,2011-02-03 08:14:44,"La Mar, Pier 1, San Francisco",37.7972972772,-122.39536643
+46,2011-02-03 08:11:23,"Cotogna, 490 Pacific Ave, San Francisco",37.7972590355,-122.403667806
+47,2011-02-03 08:10:02,"Gjelina, 1429 Abbot Kinney Blvd, Venice",33.9905041397,-118.464978039
+48,2011-02-03 08:09:08,"Red O, 8155 Melrose Ave, Los Angeles",34.083925473,-118.367155194
+49,2011-02-03 08:07:37,"Hotel Vitale, 8 Mission St, San Francisco",37.7937928741,-122.392980568
+50,2011-02-03 08:06:50,"Slanted Door, 1 Ferry Building #3, San Francisco",37.796195161,-122.39380002
+51,2011-01-18 07:09:21,"Blue Ribbon Downing Street Bar, 34 Downing Street, New York",40.729299,-74.003776
+52,2011-01-09 06:22:27,"The Pitcher Inn, 275 Main St, Warren",44.1145392211,-72.8557416859
+53,2011-01-09 06:21:43,"The Pitcher Inn, 275 Main St, Warren",44.1145392211,-72.8557416859
+54,2010-10-08 07:27:58,"La.venue, 608 W 28th St, New York",40.7522546816,-74.0052609209
+55,2010-09-25 01:00:55,"Terminal 5, John F. Kennedy International Airport, New York",40.6458086031,-73.7755341878
+56,2010-06-10 06:29:09,"World Pie, 2402 Montauk Hwy, Bridgehampton",40.9362408942,-72.3044636743
+57,2009-02-09 00:39:04,"Momofuku Ssm Bar, 207 2nd Ave, New York",40.7317183252,-73.9855539679
+58,2009-02-09 00:37:48,"Schiller's Liquor Bar, 131 Rivington St, New York",40.7195755678,-73.9867821249

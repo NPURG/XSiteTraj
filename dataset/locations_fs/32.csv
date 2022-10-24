@@ -1,0 +1,77 @@
+,time,poi,latitude,longitude
+0,2016-09-16 22:20:52,"Minty Nail Salon, 244 E 13th St, New York",40.731869539,-73.9860819616
+1,2016-09-16 22:18:30,"Momofuku Ko, 8 Extra Pl, New York",40.7248500426,-73.9915063977
+2,2016-09-09 21:58:33,"The Mermaid Inn, 96 2nd Ave, New York",40.7271855923,-73.9887356758
+3,2016-09-09 21:58:02,"Empelln Cocina, 105 1st Ave, New York",40.7267871927,-73.9861178398
+4,2016-09-09 21:57:14,"Ping's Seafood, 22 Mott St, New York",40.7145311766,-73.998683989
+5,2016-09-09 21:56:40,"Hudson Eats, 225 Liberty St, New York",40.712818572,-74.0159112427
+6,2016-09-09 21:56:29,"Bar Tano, 457 3rd Ave, Brooklyn",40.6714224106,-73.9909715733
+7,2016-08-28 00:02:58,"Meg Shop, 69 8th Ave, New York",40.738391,-74.005601
+8,2016-08-13 06:50:53,"Craft Beer Cellar DC, 301 H St NE, Washington",38.899968,-77.001748
+9,2016-07-21 20:57:56,"juice press, 201 E 10th St, New York",40.7296639116,-73.9864320436
+10,2016-04-29 22:07:45,"Carpool, 208 Elden St, Herndon",38.9670668382,-77.3694896955
+11,2016-04-29 22:04:06,"Lupulo, 835 Avenue of the Americas, New York",40.7467544435,-73.9900303901
+12,2016-04-25 05:56:39,"Dessert Club, ChikaLicious, 204 E 10th St, New York",40.7296565818,-73.9863459579
+13,2016-04-08 20:33:29,"Providenciales International Airport (PLS), Airport Rd, Providenciales",21.7764380781,-72.2713211199
+14,2016-04-01 22:13:24,"Ben's Cookies, 171 Elizabeth St, New York",40.7206934069,-73.9951494526
+15,2016-03-11 23:04:46,"Demitasse, 1149 3rd St, Santa Monica",34.0187585451,-118.499747515
+16,2016-03-11 23:03:31,"Jinky's Cafe Santa Monica, 1447 2nd St, Santa Monica",34.0139587289,-118.495950411
+17,2016-03-11 23:03:12,"Blue Smoke, 116 E 27th St, New York",40.7423340017,-73.9838551958
+18,2016-03-11 23:02:16,"INDAY, 1133 Broadway, New York",40.7439494845,-73.9891580699
+19,2016-02-04 06:22:32,"17Hundred90 Inn & Restaurant, 307 E President St, Savannah",32.0768509266,-81.0888665803
+20,2016-02-04 06:21:32,"Chocolat By Adam Turoni, 323 West Broughton, Savannah",32.0800626132,-81.0961683506
+21,2016-02-04 06:21:12,"Treylor Park Restaurant & Biergarten, 115 Bay St, Savannah",32.0803718884,-81.0897018727
+22,2016-01-31 05:25:58,"Gryphon Tea Room, 337 Bull St, Savannah",32.0732951532,-81.094126079
+23,2015-11-25 02:48:09,"Osteria Santo Spirito, Piazza di Santo Spirito, 16, Firenze",43.7665203974,11.2470297975
+24,2015-11-24 03:04:51,"Mercato Centrale Firenze, Piazza del Mercato Centrale, Firenze",43.7765942135,11.2532615662
+25,2015-11-24 03:03:11,"Enoteca Fiorentina, Via Pietrapiana 11, Firenze",43.7713804706,11.2658196688
+26,2015-10-30 04:30:17,"Panera Bread, 304 Park Ave S, New York",40.7404205229,-73.9866673442
+27,2015-10-30 04:30:01,"Somtum Der, 85 Avenue A, New York",40.72528,-73.984394
+28,2015-10-19 01:00:29,"Niketown, 6 E 57th St, New York",40.7626627663,-73.9734843253
+29,2015-08-05 02:27:51,"Kura, 130 Saint Marks Pl, New York",40.7268238308,-73.9834362395
+30,2015-08-05 02:22:55,"Despaa, 408 Broome St, New York",40.7210783364,-73.9978868324
+31,2015-08-05 02:21:47,"Rockaway Beach Surf Shop, 177 Beach 116th St Ste 5, Queens",40.5793869495,-73.83687
+32,2015-08-05 02:21:01,"Golden Tree Nails & Spa, 149 3rd Ave, New York",40.7341307376,-73.98663291
+33,2015-08-05 02:20:15,"Pembley, 262 Mott St, New York",40.723852,-73.994309
+34,2015-07-25 09:21:22,"Cagen, 414 E 9th St, New York",40.727941,-73.984161
+35,2015-07-08 04:25:31,"St Peter's Catch, 58 S Erie Ave, Montauk",41.036605,-71.944309
+36,2015-07-08 04:25:18,"Cittanuova, 29 Newtown Ln, East Hampton",40.9639834552,-72.1863480289
+37,2015-07-08 04:24:14,"Wlffer Estate Vineyards, 139 Sagg Rd, Sagaponack",40.9449438408,-72.277363627
+38,2015-07-08 04:23:50,"Fish Farm, 429 Cranberry Hole Rd, Amagansett",40.997178,-72.082807
+39,2015-07-08 04:22:22,"The Dock, 500 W Lake Dr, Montauk",41.0747169063,-71.9380903244
+40,2015-07-08 04:21:46,"The Wine Stand, 3312 Montauk Hwy, Sagaponack",40.9426556601,-72.2735357572
+41,2015-05-20 19:48:22,"Hotel Cenobio Dei Dogi, Via N. Cuneo, 34, Camogli",44.3476323273,9.15549890323
+42,2015-05-20 19:47:01,"Hotel Astoria Rapallo, Via Gramsci 4, Rapallo",44.3482159763,9.2287952801
+43,2015-05-20 19:44:47,"Serravalle Designer Outlet, Via della Moda 1, Serravalle Scrivia",44.735565913,8.83758593041
+44,2015-05-20 19:43:16,"Bistingo, San Fortunato 7, Camogli",44.350615,9.151952
+45,2015-05-20 19:41:24,"La Rinascente, Via Santa Radegonda 3, Milano",45.4648092765,9.19185250998
+46,2015-05-20 19:34:09,"& Other Stories, C.so Vittorio Emanuele II, 1, Milano",45.4647567346,9.1930358797
+47,2015-05-07 06:39:28,"La Bufala, Via Tito Speri ,12, Maranello",44.5256634535,10.8719309842
+48,2015-03-26 08:58:08,"New York City Center, 131 W 55th St, New York",40.7638024087,-73.9795565464
+49,2015-02-23 07:33:16,"The Public Kitchen and Bar, 1 W Liberty St, Savannah",32.0746089122,-81.0936303217
+50,2015-02-22 01:43:26,"Huey's Southern Cafe, 115 E River St, Savannah",32.0811331043,-81.0893462009
+51,2014-03-10 08:04:27,"SOCARRAT Paella Bar - Nolita, 284 Mulberry St, New York",40.7246102904,-73.9951781465
+52,2014-01-28 05:01:06,"The 777 Theatre, 777 8th Ave, New York",40.760634512,-73.9875555038
+53,2014-01-21 10:15:46,"Sona Nails, 375 1st Ave, New York",40.736071,-73.97903
+54,2013-12-07 08:32:23,"Dos Caminos, 373 Park Ave S, New York",40.7423548556,-73.9850317119
+55,2013-09-09 07:37:06,"Proletariat, 102 Saint Marks Pl, New York",40.7269498051,-73.984143734
+56,2013-06-25 08:21:51,"The Pearl, 641 N High St, Columbus",39.9752575152,-83.0033071613
+57,2013-02-16 00:18:12,"Cop.copine, 40 Claudio Coello, Madrid",40.4221072947,-3.68651863641
+58,2012-12-23 01:21:14,"Bar de Roberto (Tango), Bulnes 331, Buenos Aires",-34.6053241031,-58.4178624369
+59,2012-12-23 00:24:27,"Moratto, Guatemala 4602, Buenos Aires",-34.5869388472,-58.4234524115
+60,2012-09-16 12:45:02,"Joe Beef, 2491, rue Notre Dame Ouest, Montral",45.483041,-73.575169
+61,2012-04-16 02:45:30,"New Balance NYC Flagship Store, 150 5th Ave, New York",40.7397219806,-73.991051918
+62,2012-02-04 02:07:54,"Rhong-Tiam Express, 31 E 21st St, New York",40.7395078364,-73.9886932134
+63,2011-09-20 22:16:26,"Museo Berria, Iparraguirre 4, Bilbao",43.26715,-2.934909
+64,2011-07-16 09:39:41,"Raj Mahal, 322 E 6th St, New York",40.7268998411,-73.987252725
+65,2011-06-07 10:41:21,"Amorino Gelato, 60 University Pl, New York",40.7328909812,-73.9938908815
+66,2011-05-14 11:24:22,"The Brindle Room, 277 E 10th St, New York",40.7281226209,-73.9828565862
+67,2011-01-27 12:14:25,"Rai Rai Ken, 218 E 10th St, New York",40.7293738184,-73.9857605743
+68,2010-05-19 01:19:07,"Twister's, 417 E Route 66, Williams",35.25219275,-112.183713
+69,2010-02-16 22:59:01,"The Shamrock, Nicols Rodrguez Pea 1220, Buenos Aires",-34.5947342261,-58.3921140432
+70,2010-02-16 22:49:57,"Bar Seddon, Defensa 695, Buenos Aires",-34.615994,-58.37164066
+71,2010-02-16 22:48:10,"Carnal Bar, Niceto Vega 5511, Buenos Aires",-34.5871430012,-58.438356634
+72,2010-02-16 22:46:08,"Congo, Honduras 5329, Buenos Aires",-34.58632826,-58.432934
+73,2009-08-09 08:08:43,"The Dock, 500 W Lake Dr, Montauk",41.0747169063,-71.9380903244
+74,2009-04-21 05:24:36,"St. Dymphna's, 118 Saint Marks Pl, New York",40.7269741969,-73.9840471745
+75,2009-03-13 08:23:40,"Black Iron Burger, 540 E 5th St, New York",40.7241799343,-73.9827532815

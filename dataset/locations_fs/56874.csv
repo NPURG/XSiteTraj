@@ -1,0 +1,67 @@
+,time,poi,latitude,longitude
+0,2014-06-20 04:13:16,"45th Parallel, Old Oregon Trail Hwy, Baker City",45.0016600739,-117.906303945
+1,2014-06-17 10:04:19,"Snake River Lodge & Spa, A RockResort, 7710 Granite Loop Rd, Teton Village",43.5881134657,-110.82665405
+2,2014-06-15 21:54:43,"Three Bear Lodge, 217 Yellowstone Ave, West Yellowstone",44.6591994319,-111.102840888
+3,2014-06-14 20:02:40,"Three Bear Lodge, 217 Yellowstone Ave, West Yellowstone",44.6591994319,-111.102840888
+4,2014-06-14 01:05:25,"Three Bear Restaurant, 205 w Yellowstone Ave, West Yellowstone",44.658929,-111.10251
+5,2014-06-03 06:56:46,"Hecho, 7410 Greenwood Ave N, Seattle",47.6823550498,-122.355147087
+6,2014-05-02 01:54:41,"Evergreen Veterinary Hospital, 14423 124th Ave NE, Kirkland",47.7319991257,-122.176036148
+7,2014-01-10 15:55:32,"Radisson Blu Royal Hotel, Copenhagen, Hammerichsgade 1, Copenhagen V",55.6747803926,12.5635153055
+8,2014-01-10 06:47:37,"Geranium, Per Henrik Lings All 4, Kbenhavn ",55.703733469,12.5719642639
+9,2014-01-09 23:54:41,"Bullen (Tv Krgare), Storgatan 35, Malm",55.599875,13.001376
+10,2014-01-06 19:38:05,"East & West, Sky City Plaza, Stockholm Arlanda",59.6489723079,17.9292987199
+11,2014-01-06 14:39:02,"Troms Lufthavn, Langnes (TOS), Flyplassvegen 31, Troms",69.6797273303,18.9094403451
+12,2014-01-06 02:24:31,"Fjellheisen Peak, Storsteinen, Troms",69.6358781956,18.9954881728
+13,2014-01-04 18:17:08,"Pastafabrikken, Sjgata 17, Troms",69.649787,18.9590160167
+14,2014-01-03 21:46:22,"Troms Kunstforening, Musgata 2, Troms",69.645483579,18.947467804
+15,2013-11-13 16:38:26,"Seattle-Tacoma International Airport (SEA), 17801 International Blvd, SeaTac",47.4435885342,-122.302508354
+16,2013-11-12 11:50:20,"Tomorrowland Transit Authority PeopleMover, Tomorrowland, Magic Kingdom, Lake Buena Vista",28.4183827457,-81.5790529735
+17,2013-10-16 11:13:59,"MJ's Yogurt Time & Deli, 1550 E H St Ste J, Chula Vista",32.6444958456,-116.996644485
+18,2013-06-09 06:05:05,"Golden Gardens Park, 8498 Seaview Pl NW, Seattle",47.690582645,-122.403295776
+19,2013-05-30 12:24:38,"Mediterranean Kitchen, 103 Bellevue Way NE, Bellevue",47.611355,-122.20162218
+20,2013-04-23 13:26:12,"Seattle-Tacoma International Airport (SEA), 17801 International Blvd, SeaTac",47.4435885342,-122.302508354
+21,2013-04-18 11:41:28,"Adobe Grill, 49499 Eisenhower Dr, La Quinta",33.688558,-116.310793
+22,2013-04-12 05:41:39,"Surfing Goat Dairy, 3651 Omaopio Rd, Kula",20.8062988681,-156.364933007
+23,2013-04-11 12:14:01,"Star Noodle, 286 Kupuohi St, Lahaina",20.8852828723,-156.674654949
+24,2013-01-22 04:52:21,"Caf Orlans, New Orleans Square, Anaheim",33.8112105607,-117.921250504
+25,2012-11-13 11:22:23,"Space Mountain, Tomorrowland, Magic Kingdom, Lake Buena Vista",28.4188392348,-81.5782390677
+26,2012-11-13 11:19:52,"The Twilight Zone Tower of Terror, Sunset Boulevard, Disney's Hollywood Studios, Lake Buena Vista",28.3595925117,-81.5599292035
+27,2012-11-13 08:57:37,"Tune In Lounge, 50's Prime Time, Hollywood Studios, Lake Buena Vista",28.357351725,-81.5590990217
+28,2012-11-13 04:48:55,"Magic Kingdom Ferry, Magic Kingdom, Walt Disney World",28.4060854638,-81.5805244446
+29,2012-11-13 04:39:52,"Magic Kingdom Ferry, Magic Kingdom, Walt Disney World",28.4060854638,-81.5805244446
+30,2012-11-07 06:39:18,"Disney's Magical Express Welcome Center, Orlando International Airport, Orlando",28.4301217034,-81.3093577275
+31,2012-11-04 05:44:57,"Thai Fusion Bistro, 323 NE Thornton Pl, Seattle",47.7025844186,-122.324757032
+32,2012-10-05 05:56:28,"Astro Orbitor, Tomorrowland, Anaheim",33.8120885525,-117.918242356
+33,2012-04-24 06:13:43,"El Torito, 3680 Inland Empire Blvd, Ontario",34.0685160754,-117.57267952
+34,2012-04-20 00:06:24,"La Quinta Resort & Club, A Waldorf Astoria Resort, 49-499 Eisenhower Dr, La Quinta",33.6884425869,-116.310762903
+35,2012-04-07 06:30:18,"Mauna Lani Bay Hotel & Bungalows, 68 Mauna Lani Dr., Kamuela",19.9460549747,-155.866622869
+36,2012-01-27 13:39:28,"AMC Pacific Place 11, 600 Pine St Ste 400, Seattle",47.6126943516,-122.335260658
+37,2011-11-29 03:54:08,"Ballard Acupuncture Center, 2224 NW 56th St, Seattle",47.669527,-122.385768
+38,2011-10-12 15:52:27,"Caff Astra, Via Cerretani 56, Firenze",43.7734446353,11.2526974787
+39,2011-10-12 15:51:25,"Caff Astra, Via Cerretani 56, Firenze",43.7734446353,11.2526974787
+40,2011-10-11 17:56:20,"Museo Nazionale del Bargello, Via del Proconsolo, 4, Firenze",43.7704162639,11.2579281951
+41,2011-10-09 00:05:25,"Hard Rock Cafe Venice, Bacino Orseolo 1192, Venezia",45.4341003889,12.3368284106
+42,2011-10-08 20:56:32,"Muro Venezia Frari, San Polo, Venezia",45.4370765539,12.327644582
+43,2011-09-28 09:04:52,"Money Tree, 105th, Seattle",47.719923308,-122.355010594
+44,2011-09-23 23:29:47,"Whole Foods Market, 2001 15th Avenue W, Seattle",47.6368576592,-122.376830922
+45,2011-09-23 23:28:37,"Whole Foods Market, 2001 15th Avenue W, Seattle",47.6368576592,-122.376830922
+46,2011-09-11 06:08:56,"CenturyLink Field, 800 Occidental Ave S, Seattle",47.5950157041,-122.331955611
+47,2011-08-12 10:35:47,"Virgin America Flight 759, SEA Airport, SeaTac",47.441062735,-122.30090616
+48,2011-08-12 10:35:28,"Virgin America Flight 759, SEA Airport, SeaTac",47.441062735,-122.30090616
+49,2011-08-05 01:27:29,"Pel'Meni Dumpling Tzar, 3516 Fremont Pl N, Seattle",47.6510841127,-122.350290593
+50,2011-07-16 09:40:18,"DeLille Carriage House Tasting Room, 14421 Woodinville Redmond Rd NE, Woodinville",47.7316859648,-122.14133693
+51,2011-05-15 16:05:45,"Cottages of Napa Valley, 1012 Darms Ln, Napa",38.365367,-122.339142
+52,2011-04-14 00:19:16,"Domaine Chandon, 1 California Dr, Yountville",38.3967528184,-122.364327908
+53,2011-04-04 16:33:53,"Stevenson's Library, 1571 Poipu Rd, K4dloa",21.8757230574,-159.438850738
+54,2011-04-04 14:57:08,"Kalapaki Joe's, 1941 Poipu Rd, Poipu Beach",21.8752197,-159.450038
+55,2011-03-20 05:38:14,"Woodland Park Zoo, 601 N 59th St, Seattle",47.6689185258,-122.35190318
+56,2011-03-06 08:47:40,"Seatown Seabar & Rotisserie, 2010 Western Ave, Seattle",47.610515,-122.343620413
+57,2011-01-12 12:20:58,"Libelle House, 18372 SW View, Mount Vernon",48.379022,-122.22082
+58,2010-11-18 00:57:18,"Pacific Dental Care, 1421 NW 85th St, Seattle",47.6904729619,-122.3751575
+59,2010-07-07 05:33:44,"Washington State DOT Rest Area, I-5 Southbound Mile Post 269, Custer",48.9265808709,-122.645916939
+60,2010-07-04 06:32:23,"Smokey Point Rest Area (N), I-5 North, Arlington",48.1688765896,-122.188947781
+61,2010-06-20 04:08:51,"Ancient Arts Vet, 110 N 36th St, Seattle",47.6536246548,-122.356169281
+62,2010-05-16 10:37:39,"McDonald's, 3316 132nd St SE, Mill Creek",47.877665,-122.187522054
+63,2010-04-16 02:09:00,"Hotel on Rivington, 107 Rivington St, New York",40.719762,-73.988093
+64,2010-04-02 10:58:54,"Fred's Mexican Cafe & Cantina, 2511 S Kihei Rd, K2bhei",20.7169117474,-156.446119428
+65,2010-04-02 10:51:39,"Four Seasons Resort, 3900 Wailea Alanui Dr, Wailea",20.6807024763,-156.442695742

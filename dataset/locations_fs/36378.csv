@@ -1,0 +1,95 @@
+,time,poi,latitude,longitude
+0,2014-09-15 04:16:43,"Ringolevio, 490 Humboldt St, Brooklyn",40.7190827206,-73.9434073664
+1,2014-03-30 00:58:52,"Shelsky's of Brooklyn, 141 Court St, Brooklyn",40.6893595283,-73.9923620224
+2,2014-03-28 00:42:13,"Momofuku Milk Bar, 251 E 13th St, New York",40.7317954706,-73.9856725931
+3,2014-03-27 23:55:35,"Egg, 109A N 3rd St, Brooklyn",40.7166556602,-73.9616775513
+4,2014-03-27 23:55:10,"Toby19s Estate Coffee, 125 N 6th St, Brooklyn",40.7177941115,-73.9590167999
+5,2014-03-27 23:54:52,"Maialino, 2 Lexington Ave, New York",40.7384960625,-73.9856056195
+6,2014-03-27 23:54:17,"Eggs Travaganza, E 52nd St NE, New York",40.7583372275,-73.9729505576
+7,2014-03-27 23:53:54,"Iris Cafe, 20 Columbia Pl, Brooklyn",40.6931312145,-73.9986386008
+8,2014-03-27 23:53:09,"BKLYN Larder, 228 Flatbush Ave, Brooklyn",40.680658,-73.974825
+9,2014-03-27 23:52:13,"Court Street Grocers, 485 Court St, Brooklyn",40.6762093683,-73.9986730328
+10,2014-03-27 23:52:04,"City Sandwich, 649 9th Ave, New York",40.7606792077,-73.9912435412
+11,2014-03-27 23:51:47,"The Farm on Adderley, 1108 Cortelyou Rd, Brooklyn",40.6397627938,-73.9675554028
+12,2014-03-27 23:51:39,"Pies 'n' Thighs, 166 S 4th St, Brooklyn",40.7112552473,-73.9614426247
+13,2014-03-26 04:43:47,"Hyatt Place Raleigh-Durham Airport, 200 Airgate Dr, Morrisville",35.86460004,-78.81461442
+14,2014-03-12 08:31:35,"Ba'sik, 323 Graham Ave, Brooklyn",40.714022,-73.94442396
+15,2014-01-07 11:34:13,"Lucky Dog, 303 Bedford Ave, Brooklyn",40.713517,-73.961712
+16,2013-12-29 04:17:02,"Calexico, 645 Manhattan Ave, Brooklyn",40.7241487005,-73.9510935082
+17,2013-12-26 23:29:02,"Shopsin's General Store, 120 Essex St, New York",40.7189814908,-73.9879815791
+18,2013-11-15 12:35:31,"Sotto Mare Oysteria and Seafood Restaurant, 552 Green St, San Francisco",37.7996263717,-122.408330686
+19,2013-10-07 20:03:33,"La Colombe Torrefaction, 270 Lafayette St, New York",40.7238560371,-73.9964067936
+20,2013-09-02 23:33:22,"Sylvain, 625 Chartres St, New Orleans",29.9571810803,-90.0642280626
+21,2013-09-02 23:31:42,"Tivoli & Lee, 2 Lee Cir, New Orleans",29.9435907359,-90.0722336345
+22,2013-09-02 23:30:50,"Maison, 508 Frenchmen St, New Orleans",29.9627683691,-90.0577016779
+23,2013-09-02 23:27:39,"Cafe Negril, 606 Frenchmen St, New Orleans",29.9637564528,-90.0578293673
+24,2013-09-02 23:24:52,"Apple Barrel Bar, 609 Frenchmen St, New Orleans",29.9638806311,-90.0577427209
+25,2013-09-02 11:49:33,"Lafitte's Blacksmith Shop, 941 Bourbon St, New Orleans",29.96103797,-90.0636077574
+26,2013-08-21 11:12:45,"La Ciccia, 291 30th St, San Francisco",37.742229,-122.42662675
+27,2013-07-23 22:31:21,"The Tasting Kitchen, 1633 Abbot Kinney Blvd, Venice",33.9896568293,-118.463178277
+28,2013-07-23 22:29:30,"Pachamama's So much Love, 884 Lincoln Way, Auburn",38.899846,-121.069191
+29,2013-07-23 22:27:27,"Big Sur Bakery, 47540 1 Highway, Big Sur",36.23593,-121.769067917
+30,2013-07-23 22:26:06,"Nepenthe, 48510 Highway 1, Big Sur",36.2217530732,-121.759736538
+31,2013-07-23 22:21:07,"El Molino Central, 11 Central Ave, Sonoma",38.3150821924,-122.481992
+32,2013-07-23 22:19:17,"Vella Cheese Company, 315 2nd St E, Sonoma",38.2950782776,-122.454010248
+33,2013-07-23 22:13:36,"Chatz Coffee, 215 2nd St, San Francisco",37.7865126698,-122.398174967
+34,2013-07-12 11:01:46,"DiPietro Todd Salon, 177 Post St Fl 2, San Francisco",37.788745,-122.40485
+35,2013-07-07 16:58:26,"Marini's Candies, 1308 Pacific Ave, Santa Cruz",36.9738268366,-122.025768757
+36,2013-07-03 00:17:02,"Yauatcha, Raheja Tower, Bandra Kurla Complex, Bandra (E), Mumbai",19.0613339225,72.8626394944
+37,2013-07-01 19:01:38,"Tharu Sweets Khar, Khar west, Mumbai",19.0677158808,72.8365035188
+38,2013-06-29 02:50:07,"Sansei Seafood Restaurant & Sushi Bar, 1881 S Kihei Rd # Kt-116, K2bhei",20.7335557805,-156.45249021
+39,2013-06-26 21:30:54,"Restaurante Calle Del Medio, Calle Del Medio 131, Cusco",-13.5169316487,-71.9791458859
+40,2013-06-26 21:29:43,"Los Toldos Chicken, Calle Almagro 171, Cuzco, Cusco",-13.5193602263,-71.9789027828
+41,2013-06-26 21:28:35,"El encuentro, Calle Tigre 130, Cusco",-13.5150982044,-71.9804829498
+42,2013-06-21 18:35:42,"Churchill, 198 Church St, San Francisco",37.7678448526,-122.429020758
+43,2013-06-21 18:35:08,"Smuggler's Cove, 650 Gough St, San Francisco",37.7793898026,-122.423446288
+44,2013-06-21 18:26:40,"The Dorchester, 53 Park Ln, Mayfair",51.5072266238,-0.15228509903
+45,2013-06-21 17:52:54,"Ikeda's California Country Market, 13500 Lincoln Way, Auburn",38.9280203184,-121.055359211
+46,2013-06-21 17:09:04,"Calzedonia, Via Calzaiuoli 68/R, Firenze",43.7713552286,11.2552823591
+47,2013-06-21 17:03:10,"Rosa Mexicano, 30 Mission St, San Francisco",37.793250693,-122.393616743
+48,2013-06-21 16:52:14,"Sushirrito, 226 Kearny St, San Francisco",37.7902978939,-122.403927782
+49,2013-06-21 16:47:22,"Del Pueblo Cafe, 5134 Hollister Ave, Santa Barbara",34.435999,-119.80286
+50,2013-06-21 16:44:39,"El Mariachi Restaurant, 1925 S El Camino Real, San Clemente",33.417488,-117.602244
+51,2013-06-21 16:31:33,"Dosa, 1700 Fillmore St, San Francisco",37.7853389558,-122.432913863
+52,2013-06-21 16:29:32,"Batter Bakery, 2127 Polk St, San Francisco",37.7964509956,-122.422056038
+53,2013-06-21 03:13:31,"Vineria Il Chianti, Via del Lavatore, 81, Roma",41.901072,12.484178
+54,2013-06-20 19:05:05,"Herzel De Bach, Via del Babuino 123, Roma",41.906812537,12.4806404114
+55,2013-06-18 04:31:59,"Gelateria De' Coltelli, Lungarno Pacinotti 23, Pisa",43.716471799,10.4006218899
+56,2013-06-09 23:50:11,"rivegauche, via guicciardini 31/r, Firenze",43.7669023315,11.2519311905
+57,2013-05-22 12:01:00,"Caffe Trieste, 601 Vallejo St, San Francisco",37.7986827106,-122.407224446
+58,2013-04-16 01:42:21,"Batter Bakery, 2127 Polk St, San Francisco",37.7964509956,-122.422056038
+59,2012-06-09 20:33:06,"Quinn Farm, 2634 Route 212, Coopersburg",40.543619,-75.298293
+60,2012-01-11 04:38:50,"Holyland Market, 122 Saint Marks Pl, New York",40.7270430195,-73.9838781523
+61,2011-10-29 11:23:54,"R Bar, 1176 Sutter St, San Francisco",37.7878789576,-122.419879136
+62,2011-09-06 10:50:11,"Avatar's, 2656 Bridgeway, Sausalito",37.8684422359,-122.501804493
+63,2011-09-06 10:47:19,"Fish., 350 Harbor Dr, Sausalito",37.868274,-122.49769
+64,2011-08-21 13:39:10,"Sansei Seafood Restaurant & Sushi Bar, 600 Office Rd, Lahaina",20.998424509,-156.654438972
+65,2011-07-23 06:25:12,"Mac's Kosher Style Deli, 630 4th St, Santa Rosa",38.4407607289,-122.712851562
+66,2011-07-22 10:11:41,"Um Japanese Bistro, 8710 Old Redwood Hwy, Windsor",38.54588,-122.80516
+67,2011-06-28 08:36:35,"Topaz Thai, 127 W 56th St, New York",40.7642171229,-73.979120363
+68,2011-05-17 10:23:16,"East West Cafe, 557 Summerfield Rd, Santa Rosa",38.4532274271,-122.671043873
+69,2011-05-15 03:22:01,"El Molino Central, 11 Central Ave, Sonoma",38.3150821924,-122.481992
+70,2011-03-19 02:46:10,"Michelle's Salon, 1620 Mendocino Ave Ste A, Santa Rosa",38.456017,-122.716899
+71,2011-02-03 12:47:19,"Mile End Delicatessen, 97A Hoyt St, Brooklyn",40.6874355261,-73.9870753884
+72,2011-01-31 02:35:24,"Flywheel Sports, 39 W 21st St, New York",40.7409297749,-73.9922628232
+73,2010-11-18 09:08:19,"Dorit Baxter New York Day Spa, 204 E 60th St Fl 2, New York",40.76368,-73.97544
+74,2010-09-26 06:22:21,"Remedy Diner, 245 E Houston St, New York",40.7219944801,-73.9855998805
+75,2010-09-01 01:04:03,"Hale & Hearty, 11 E 17th St, New York",40.7375512725,-73.9912998676
+76,2010-05-30 23:19:37,"SLS Hotel at Beverly Hills, 465 S LA Cienega Blvd, Los Angeles",34.0699615964,-118.376580064
+77,2010-05-30 04:38:20,"Altitude Rooftop Pool At SLS Hotel, 465 S LA Cienega Blvd, Los Angeles",34.07012157,-118.37699849
+78,2010-05-27 07:27:49,"Cafe Petisco, 189 E Broadway, New York",40.7140778091,-73.9889676869
+79,2010-05-10 23:19:50,"Pinkberry, 523 Avenue of the Americas, New York",40.7372260231,-73.9972100918
+80,2010-05-10 19:14:09,"Artichoke Basille19s Pizza & Brewery, 328 E 14th St, New York",40.7318442507,-73.9838647842
+81,2010-05-10 19:12:54,"Hester Street Fair, Hester St, New York",40.7153545491,-73.989572525
+82,2010-05-10 19:09:09,"MADANGSUI, 35 W 35th St, New York",40.749886,-73.985876
+83,2010-05-09 02:44:48,"Doughnut Plant, 379 Grand St, New York",40.7163466486,-73.9885425568
+84,2010-05-02 06:07:25,"Ballybannon Market, 969 W Beech St, Long Beach",40.586218,-73.695136
+85,2009-12-25 05:55:02,"American Classic Tattoo, 252 Petaluma Blvd N, Petaluma",38.2368408284,-122.641866219
+86,2009-12-20 08:15:29,"Holyland Market, 122 Saint Marks Pl, New York",40.7270430195,-73.9838781523
+87,2009-11-22 02:54:45,"Great Harvest Bread Company, 905 E 900 S, Salt Lake City",40.7499693167,-111.864947
+88,2009-11-15 09:35:08,"Frontera Grill, 445 N Clark St, Chicago",41.8905195834,-87.6309067011
+89,2009-11-14 16:14:47,"The Wiener's Circle, 2622 N Clark St, Chicago",41.9301756154,-87.64354527
+90,2009-11-09 09:07:13,"San Loco, 122 2nd Ave, New York",40.7282643799,-73.9879471451
+91,2009-09-15 08:46:04,"Trapeze School New York, Hudson River Park, New York",40.8876240511,-73.9081815373
+92,2009-09-13 14:46:23,"Izod Center, 50 State Rt 120, East Rutherford",40.8114381523,-74.0677964687
+93,2009-09-03 22:24:35,"Lightship Frying Pan @ Pier 66 Maritime, 205 12th Ave, New York",40.7523754403,-74.0093983201

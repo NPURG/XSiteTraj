@@ -1,0 +1,59 @@
+,time,poi,latitude,longitude
+0,2015-08-03 05:40:08,"Shambhala Yoga, 4 S Chestnut St, Beacon",41.5046968093,-73.9699028876
+1,2015-03-10 07:36:06,"Revolve Clothing Exchange, 2000 4th St N, Saint Petersburg",27.7905714512,-82.638646
+2,2014-09-18 11:08:28,"Sweetpea Baking Company, 1205 SE Stark St, Portland",45.519446,-122.65346912
+3,2014-09-18 11:07:33,"Departure, 525 SW Morrison St, Portland",45.5191880467,-122.678028345
+4,2014-09-18 11:06:25,"Kask, 1215 SW Alder St, Portland",45.521456,-122.684037
+5,2014-09-18 11:03:06,"Salt & Straw, 3345 SE Division St, Portland",45.5048080619,-122.630545785
+6,2014-09-18 11:01:59,"White Owl Social Club, 1305 SE 8th Ave, Portland",45.5136070474,-122.658051372
+7,2014-09-18 11:00:41,"The Sudra, 2333 NE Glisan St, Portland",45.526671,-122.641763
+8,2014-09-18 10:58:21,"Powell's City of Books, 1005 W Burnside St, Portland",45.5232145766,-122.681392736
+9,2014-09-18 10:57:35,"Sizzle Pie, 926 W Burnside St, Portland",45.5228478731,-122.680969609
+10,2014-09-18 10:54:07,"US Post Office, 815 NE Schuyler St, Portland",45.53582,-122.657310963
+11,2014-08-03 07:53:11,"Taste Of Africa, 1747 Deer Park Ave, Deer Park",40.755662,-73.326474
+12,2014-04-05 10:25:45,"Hamilton's, 2826 Fort Hamilton Pkwy, Brooklyn",40.6487346774,-73.9775248416
+13,2014-03-31 04:59:59,"Panella, Via Merulana, 54, Roma",41.8941409135,12.5009650503
+14,2014-03-31 04:57:47,"Pasticceria Regoli, Via dello Statuto, 60, Roma",41.8949338315,12.5009986533
+15,2014-03-30 05:31:09,"Foro Romano, Via dei Fori Imperiali, Roma",41.8923346515,12.4869814764
+16,2014-03-30 05:29:20,"Colosseum, Piazza del Colosseo, Roma",41.8906681867,12.4914446096
+17,2014-03-30 05:27:52,"Fior di Luna Gelateria, Via della Lungaretta, 96, Roma",41.8895641195,12.472568486
+18,2014-03-30 05:25:01,"Baylon Cafe, Via di S. Francesco a Ripa, 151, Roma",41.8878620567,12.4714654691
+19,2014-03-30 05:24:13,"Biscottificio Innocenti, Via Della Luce 21, Roma",41.8885655917,12.4751496995
+20,2014-03-30 05:21:19,"Da Tonino, Via del Governo Vecchio, 18, Roma",41.8990799561,12.4691978789
+21,2014-03-30 04:56:29,"Hilton Garden Inn Florence Novoli, Via Sandro Pertini, 2/9, Firenze",43.7927670938,11.2280917168
+22,2014-03-30 04:54:39,"Camplus Living Bononia, Via Sante Vincenzi, 49, Bologna",44.4955405491,11.3699461723
+23,2014-03-30 04:52:10,"Hilton Garden Inn Rome Claridge, Viale Liegi 62, Roma",41.9222813948,12.4935166379
+24,2014-03-29 05:20:18,"Ops!, Via Bergamo, 56, Roma",41.911267869,12.5009286404
+25,2014-03-28 23:24:13,"Il Sorpasso, Via Properzio, 31, Roma",41.905505,12.461243
+26,2014-03-28 23:23:37,"Vatican Museums, Viale Vaticano, Vatican",41.9048642296,12.4545907974
+27,2014-03-28 23:21:36,"Tavola Calda Pizzeria Caffetteria, Via Ottaviano,53, Roma",41.907678,12.457744
+28,2014-03-28 06:20:45,"Al Ceppo, Via Panama 2/4, Roma",41.9226376301,12.493191831
+29,2014-03-27 21:52:14,"Uffizi Gallery, Via della Ninna, 5, Firenze",43.7687738781,11.2557030312
+30,2014-03-27 21:51:39,"Cattedrale di Santa Maria del Fiore, Piazza del Duomo, Firenze",43.7731390944,11.2556433678
+31,2014-03-27 21:50:27,"Il Santo Bevitore, Via Santo Spirito 64/66, Firenze",43.768992949,11.2468028756
+32,2014-03-27 21:47:05,"Museo Galileo - Istituto e Museo di Storia della Scienza, Piazza dei Giudici, Firenze",43.7677663238,11.2562399443
+33,2014-03-27 05:07:53,"Gelateria Gianni, Via San Vitale 2/A, Bologna",44.4943709855,11.3468966796
+34,2014-03-27 05:02:48,"Caff Oltrarno, Piazza Nazario Sauro 10r, Firenze",43.769241,11.246654
+35,2014-03-27 04:46:49,"Pensavo Peggio, Via del Moro 51r, Firenze",43.7723490074,11.2496366692
+36,2014-03-27 01:28:25,"La Cit Libreriacaf, Borgo San Frediano 20r, Firenze",43.7692978857,11.2456793432
+37,2014-03-26 21:55:21,"Gelateria La Carraia, Lungarno Soderini, 1, Firenze",43.7697672844,11.246868
+38,2014-03-26 21:51:10,"Gelateria La Carraia, Lungarno Soderini, 1, Firenze",43.7697672844,11.246868
+39,2014-01-31 06:12:43,"Stonebridge Inn, 300 Carriage Way, Snowmass Village",39.2084064564,-106.952172518
+40,2014-01-29 04:04:39,"Spring Cafe Organic Food & Juice Bar, 119 S Spring St, Aspen",39.189227,-106.81603
+41,2014-01-27 11:12:11,"Artisan resturant, The Stonebridge Inn, 300 Carriage Way, Snowmass Village",39.2082965198,-106.952107718
+42,2013-10-23 09:03:52,"The Immigrant, 341 E 9th St, New York",40.7284825326,-73.9854104911
+43,2013-10-11 10:47:03,"Franklin Park, 618 Saint Johns Pl, Brooklyn",40.6722893445,-73.9578093042
+44,2013-09-09 19:00:19,"Flatbush Farm & Bar(n), 76 Saint Marks Ave, Brooklyn",40.6798406667,-73.9747881889
+45,2013-08-28 19:59:22,"The Fumbally, Fumbally Ln, Dublin",53.3370651987,-6.27291594148
+46,2013-08-28 02:38:56,"Kilmainham Gaol, 2 Inchicore Rd, Kilmainham, Dublin",53.3419329826,-6.30847008429
+47,2013-08-28 02:37:17,"Cliffs of Moher, Aillte an Mhothair, Doolin",52.9716416401,-9.42634596483
+48,2013-05-13 00:46:50,"Lowe's Home Improvement, 118 2nd Avenue, Brooklyn",40.671799,-73.995113
+49,2013-02-19 10:22:37,"Stone Park Caf, 324 5th Ave, Brooklyn",40.6729793279,-73.9833524823
+50,2012-12-14 09:29:51,"Donna Sperber, MD, 7035 Central Ave, Saint Petersburg",27.7710701793,-82.7362346649
+51,2012-11-11 13:08:15,"Chinatown Garden, 618 H St NW, Washington",38.8998441492,-77.0209825412
+52,2012-11-11 03:28:29,"NuVegan Caf, 2928 Georgia Ave NW, Washington",38.9278315895,-77.0233274384
+53,2012-10-29 07:19:19,"Flatbush Farm & Bar(n), 76 Saint Marks Ave, Brooklyn",40.6798406667,-73.9747881889
+54,2012-10-05 05:54:59,"Doughnut Plant, 220 W 23rd St, New York",40.744493979,-73.996561188
+55,2012-01-23 08:57:15,"Sidecar, 560 5th Ave, Brooklyn",40.6653075437,-73.9894008636
+56,2011-12-13 10:56:28,"Fresh Garden, 729 Fulton St, Brooklyn",40.6866739847,-73.9753266735
+57,2011-09-25 11:38:42,"Clover Club, 210 Smith St, Brooklyn",40.6845134865,-73.991998835

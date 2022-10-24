@@ -1,0 +1,90 @@
+,time,poi,latitude,longitude
+0,2014-10-13 10:48:56,"Hay House, 934 Georgia Ave, Macon",32.840299,-83.633569
+1,2014-10-13 10:47:39,"Olympia Cafe, 5 E River St, Savannah",32.0814900772,-81.0907958227
+2,2014-10-13 10:46:23,"The Crab Shack, 40 Estill Hammock Rd, Tybee Island",32.0116633881,-80.8653155968
+3,2014-09-21 04:35:44,"East Point Corner Tavern, 2783 Main St, East Point",33.6793500838,-84.4405255291
+4,2014-09-21 04:24:30,"Tassili's Raw Reality, 1059 Ralph Abernathy Blvd SW, Atlanta",33.7384945346,-84.4224288953
+5,2014-08-07 04:41:51,"The Porter Beer Bar, 1156 Euclid Ave NE, Atlanta",33.7652613973,-84.3497925997
+6,2014-07-06 23:09:49,"Grant Park, 537 Park Ave SE, Atlanta",33.7357448665,-84.3694556319
+7,2014-07-04 03:42:06,"Kroger, 1799 Briarcliff Rd NE, Ste R, Atlanta",33.8045964337,-84.3366082083
+8,2014-06-25 02:02:46,"Greyhound/Southeastern Stages, 611 S Irby St, Florence",34.1876284391,-79.7683282065
+9,2014-06-22 09:52:55,"Park Bar, 150 Walton St NW, Atlanta",33.7581566503,-84.3927873951
+10,2014-06-18 23:38:38,"Inman Animal Hospital, 926 Dekalb Ave NE, Atlanta",33.755118,-84.356985
+11,2014-06-16 02:15:31,"The Grant Park Farmers Market, 600 Cherokee Ave SE, Atlanta",33.7386331105,-84.3735416673
+12,2014-05-29 02:27:49,"NaanStop, 64 Broad St NW, Atlanta",33.7556906546,-84.389398098
+13,2014-05-07 02:30:41,"Which Wich? Superior Sandwiches, 1699 Clifton Road, Atlanta",33.8008514889,-84.3286002605
+14,2014-04-24 04:40:31,"Sweet Auburn Curb Market, 209 Edgewood Ave SE, Atlanta",33.754121377,-84.3800807879
+15,2014-04-10 09:29:43,"Pet Supplies Plus, 2329 Cheshire Bridge Rd NE, Atlanta",33.8185091063,-84.3496014794
+16,2014-04-04 08:43:44,"5 Seasons Brewing, 1000 Marietta St NW, Atlanta",33.778875342,-84.4101905823
+17,2014-04-04 08:35:03,"5 Seasons Brewing, 1000 Marietta St NW, Atlanta",33.778875342,-84.4101905823
+18,2014-04-04 08:34:08,"5 Seasons Brewing, 1000 Marietta St NW, Atlanta",33.778875342,-84.4101905823
+19,2014-03-29 03:22:47,"Terminal C, PHL Airport, Philadelphia",39.875839308,-75.2418870397
+20,2014-03-26 06:31:14,"Ebrik Coffee Room, 16 Park Place, Atlanta",33.7541501363,-84.3889182259
+21,2014-02-17 03:58:18,"Richards Variety Store, 931 Monroe Dr NE, Atlanta",33.7799849911,-84.3683160087
+22,2014-02-03 06:33:15,"Sur La Table, 4400 Ashford Dunwoody Rd NE, Atlanta",33.9232880767,-84.3410868442
+23,2014-01-16 11:10:14,"Quiznos, 29 Marietta St NW, Atlanta",33.75514541,-84.39073329
+24,2014-01-16 10:17:19,"Max Lager's Wood-Fired Grill & Brewery, 320 Peachtree St NE, Atlanta",33.7631786953,-84.3870605238
+25,2014-01-16 10:13:13,"Meehan's Public House, 200 Peachtree Cir NE, Atlanta",33.7590267105,-84.3877029419
+26,2014-01-16 10:04:16,"Sister Louisa19s Church of the Living Room and Ping Pong Emporium, 466 Edgewood Ave NE, Atlanta",33.7544596707,-84.3724250793
+27,2013-11-14 09:21:24,"The General Muir, 1540 Avenue Pl NE Ste B-230, Atlanta",33.8013351731,-84.3273160115
+28,2013-11-04 07:11:15,"Your Dekalb Farmers Market, 3000 E Ponce de Leon Ave, Decatur",33.7868446191,-84.2700564623
+29,2013-10-13 07:29:58,"Caff Gio, 1099 Hemphill Ave NW, Atlanta",33.7849096246,-84.4056246459
+30,2013-10-13 02:00:28,"Wahoo A Decatur Grill, 1042 W College Ave, Decatur",33.76478255,-84.310623
+31,2013-10-08 09:26:51,"Della Terra, 200 Delaware Ave, Buffalo",42.8896510152,-78.8772010803
+32,2013-10-01 00:50:17,"CVS/pharmacy, 1520 Avenue Pl, Atlanta",33.8011897467,-84.3289033392
+33,2013-09-11 02:56:54,"Thaicoon & Sushi Bar, 1799 Briarcliff Rd NE, Atlanta",33.8045568304,-84.3357196313
+34,2013-09-04 11:01:05,"South City Kitchen, 1144 Crescent Ave NE, Atlanta",33.7858976408,-84.384284125
+35,2013-08-18 08:57:48,"Community Q BBQ, 1361 Clairmont Rd, Decatur",33.7925584534,-84.3052196503
+36,2013-08-17 06:51:01,"Pig-N-Chik BBQ, 1815 Briarcliff Rd NE, Atlanta",33.8057021,-84.33602894
+37,2013-07-24 01:56:51,"Which Wich? Superior Sandwiches, 1699 Clifton Road, Atlanta",33.8008514889,-84.3286002605
+38,2013-07-24 01:56:07,"Which Wich? Superior Sandwiches, 1699 Clifton Road, Atlanta",33.8008514889,-84.3286002605
+39,2013-07-17 07:31:13,"Park Bar, 150 Walton St NW, Atlanta",33.7581566503,-84.3927873951
+40,2013-07-08 07:07:06,"San Francisco Coffee Roasting Co, 676 N Highland Ave NE, Atlanta",33.7729117028,-84.3527184123
+41,2013-06-27 02:18:36,"Tin Lizzy's Cantina, 1540 Avenue Pl, Atlanta",33.8011304355,-84.3279581395
+42,2013-06-21 21:01:15,"Sea View Inn, 240 Aquidneck Ave, Middletown",41.4973725833,-71.284744
+43,2013-06-21 07:07:23,"Anthony's Seafood, 963 Aquidneck Ave, Middletown",41.5141958668,-71.2822733094
+44,2013-06-05 23:54:03,"Plaza Theatre, 1049 Ponce de Leon Ave NE, Atlanta",33.7735289673,-84.3530778503
+45,2013-06-05 23:52:58,"Dunkin' Donuts, 98 Forsyth St NW #100, Atlanta",33.7570314376,-84.3885949284
+46,2013-05-30 03:25:03,"Tin Lizzy's Cantina, 1540 Avenue Pl, Atlanta",33.8011304355,-84.3279581395
+47,2013-05-25 03:21:55,"NaanStop, 64 Broad St NW, Atlanta",33.7556906546,-84.389398098
+48,2013-05-23 12:05:13,"Sidebar, 79 Poplar St NW, Atlanta",33.756934105,-84.3898727131
+49,2013-05-21 02:05:27,"f2o - Fresh to Order, 1520 Avenue Pl #130, Atlanta",33.800881331,-84.3279992354
+50,2013-05-20 10:21:06,"CVS/Pharmacy, 235 Peachtree St NE, Atlanta",33.7603259698,-84.3874454117
+51,2013-05-17 07:59:36,"Mac McGee, 111 Sycamore St, Decatur",33.7745100185,-84.296143055
+52,2013-05-15 21:56:52,"Midcity Dentistry, 845 Spring St NW, Atlanta",33.7776166844,-84.388815592
+53,2013-05-11 06:29:27,"Rain Thai and Sushi Bar, 2345 Cheshire Bridge Rd NE, Atlanta",33.8187176206,-84.3498685048
+54,2013-05-04 02:53:37,"Winship Cancer Institute of Emory University, 1365 Clifton Rd NE Bldg C, Atlanta",33.7929061873,-84.3193602562
+55,2013-05-03 07:17:00,"NaanStop, 64 Broad St NW, Atlanta",33.7556906546,-84.389398098
+56,2013-04-24 05:10:08,"Rosa's Pizza, 62 Broad St NW, Atlanta",33.7557434171,-84.3893236283
+57,2013-04-21 01:22:31,"NaanStop, 64 Broad St NW, Atlanta",33.7556906546,-84.389398098
+58,2013-04-19 06:22:23,"Tin Lizzy's Cantina, 1540 Avenue Pl, Atlanta",33.8011304355,-84.3279581395
+59,2013-04-17 21:22:59,"One Caffe Coffee, 85 Peachtree St SW #101, Atlanta",33.756038,-84.3886631727
+60,2013-04-17 01:17:49,"BURGERFI, 1520 Avenue Place, Suite B-140, Atlanta",33.8008623954,-84.3283485499
+61,2013-04-07 02:44:55,"MARTA - East Lake Station, 2260 College Ave NE, Atlanta",33.7650696368,-84.3129973163
+62,2013-04-05 03:10:55,"Claudia Nance Rollins Building, 1518 Clifton Rd NE, Atlanta",33.7974080903,-84.3240384816
+63,2013-03-30 02:44:52,"Tin Lizzy's Cantina, 1540 Avenue Pl, Atlanta",33.8011304355,-84.3279581395
+64,2013-03-30 02:43:17,"Tin Lizzy's Cantina, 1540 Avenue Pl, Atlanta",33.8011304355,-84.3279581395
+65,2013-03-23 08:56:21,"Slice, 85 Poplar St NW, Atlanta",33.756971,-84.390107
+66,2013-03-22 02:34:33,"Children's Healthcare of Atlanta at Egleston, 1405 Clifton Rd NE, Atlanta",33.7935815008,-84.319609932
+67,2013-03-20 04:23:24,"Dua Vietnamese Noodle Soup, 53 Broad St NW, Atlanta",33.7556828087,-84.389503236
+68,2013-03-18 04:23:42,"The Healey Building, 57 Forsyth St NW, Atlanta",33.7560401274,-84.3900882403
+69,2013-03-18 04:22:32,"The Healey Building, 57 Forsyth St NW, Atlanta",33.7560401274,-84.3900882403
+70,2010-04-16 07:31:23,"SIP The Experience, 528 Main St NE, Atlanta",33.8226176321,-84.3696404336
+71,2010-03-21 03:51:01,"Woodruff Circle - Emory, PO Box, Atlanta",33.7930399307,-84.3213558197
+72,2010-03-21 03:48:37,"Woodruff Circle - Emory, PO Box, Atlanta",33.7930399307,-84.3213558197
+73,2010-01-31 00:42:23,"Alon's Bakery & Market, 1394 N Highland Ave NE, Atlanta",33.7925183773,-84.352742
+74,2010-01-31 00:40:38,"Alon's Bakery & Market, 1394 N Highland Ave NE, Atlanta",33.7925183773,-84.352742
+75,2010-01-30 08:36:59,"Landmark Diner, 60 Luckie St NW, Atlanta",33.7566908676,-84.3891337566
+76,2010-01-07 03:00:04,"Saba - Emory Village, 1451 Oxford Rd NE, Atlanta",33.7875116952,-84.3252396584
+77,2010-01-07 02:58:54,"MARTA - Inman Park/Reynoldstown Station, 1055 DeKalb Ave. NE, Atlanta",33.7575137034,-84.3530470414
+78,2010-01-07 02:57:42,"Emory University School of Medicine, 1648 Pierce Dr., Atlanta",33.7938983759,-84.3221016741
+79,2010-01-07 02:55:51,"MARTA - Five Points Station, 30 Alabama St SW, Atlanta",33.7540047227,-84.3910427084
+80,2010-01-07 02:54:36,"CVS/pharmacy, 1554 N Decatur Rd NE, Atlanta",33.788049,-84.326958
+81,2010-01-07 02:53:45,"MARTA - Arts Center Station, 1255 W Peachtree St. NW, Atlanta",33.7893823697,-84.3872093474
+82,2009-12-22 08:00:50,"Emory University Hospital, 1364 Clifton Rd NE, Atlanta",33.7920234755,-84.3221068382
+83,2009-12-22 07:57:29,"Winship Cancer Institute of Emory University, 1365 Clifton Rd NE Bldg C, Atlanta",33.7929061873,-84.3193602562
+84,2009-10-26 03:20:39,"Greenwood Cemetery, 1173 Cascade Cir SW, Atlanta",33.7247590726,-84.4550490497
+85,2009-10-26 03:17:57,"Greenwood Cemetery, 1173 Cascade Cir SW, Atlanta",33.7247590726,-84.4550490497
+86,2009-10-15 02:06:11,"Saba - Emory Village, 1451 Oxford Rd NE, Atlanta",33.7875116952,-84.3252396584
+87,2009-10-14 11:37:36,"Landmark Diner, 60 Luckie St NW, Atlanta",33.7566908676,-84.3891337566
+88,2009-10-14 11:34:56,"Baraonda Cafe Italiano, 710 Peachtree St NE, Atlanta",33.7736769888,-84.3848794452

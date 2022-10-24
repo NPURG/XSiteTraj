@@ -1,0 +1,50 @@
+,time,poi,latitude,longitude
+0,2016-05-20 19:46:11,"Vivanda, C. Major de Sarri, 134, Barcelona",41.4006278064,2.12122712589
+1,2016-05-12 18:35:24,"Dunkin' Donuts, Hamngatan 37, Stockholm",59.3325560853,18.0668058009
+2,2016-04-08 00:22:31,"Chipotle Mexican Grill, 1941 Whiskey Rd, Aiken",33.5211678782,-81.7186722283
+3,2016-03-24 00:03:38,"Ferguson Counter, 1110 E 51st St, Austin",30.3136934411,-97.6923772502
+4,2016-02-05 05:07:00,"Bribery Bakery, 1900 Simond Ave Ste 300, Austin",30.2971896529,-97.7044116188
+5,2015-11-26 23:19:07,"La Pizza, Peneds 7, Barcelona",41.400871,2.15812
+6,2015-11-24 21:32:19,"Taco Alto, Portal Nou, 62, Barcelona",41.3896642467,2.18105435371
+7,2015-09-22 20:26:44,"La Impresin, Vilamar 90, Barcelona",41.3792345063,2.14888765869
+8,2015-09-21 21:10:05,"Frankfurt de Verdi, Carrer Verdi 14, Barcelona",41.4033350265,2.15735368053
+9,2015-06-22 17:07:20,"McDonald19s, Av. Diagonal, 466, Barcelona",41.3959502887,2.15656042099
+10,2015-06-18 03:02:38,"Smart Bar, Av Meridiana 116-120, Barcelona",41.4082389117,2.1871805191
+11,2015-06-17 23:51:36,"Smart Bar, Av Meridiana 116-120, Barcelona",41.4082389117,2.1871805191
+12,2015-06-17 23:46:43,"Can Toni, Rambla del Poblenou, 88, Barcelona",41.401861278,2.20026468262
+13,2015-05-03 17:37:45,"Museu d'Histria de Barcelona (MUHBA), Pl. del Rei, s/n, Barcelona",41.3839719807,2.17766903852
+14,2015-05-02 02:27:02,"Tucco, C. Cdols, 27, Barcelona",41.379448221,2.17860009892
+15,2015-04-30 01:16:42,"La Fabrica, Plaza de la Llana 15, Barcelona",41.3851574768,2.179329603
+16,2015-04-28 22:49:59,"Caf am Wasserturm, Knaackstr. 22, Berlin",52.5351206432,13.4176187752
+17,2015-04-25 18:14:38,"The Globe, P61trossova 6, Praha",50.0780984433,14.416603329
+18,2015-04-23 16:35:48,"Cafe Bckerei Kollwitz, Sredzkistr. 51, Berlin",52.5382465124,13.419687
+19,2015-02-27 23:49:13,"Saveurs du Monde Caf, 1960 Long Grove Dr, Mt. Pleasant",32.821607,-79.81739
+20,2015-01-28 08:38:50,"Best Buy, 1201 Barbara Jordan Blvd, Austin",30.30668851,-97.71042824
+21,2015-01-05 03:52:04,"Columbia County Library, 7022 Evans Town Center Blvd, Evans",33.5466954502,-82.1329071712
+22,2014-11-29 05:23:55,"Torchy's Tacos, 1801 E 51st St, Austin",30.3033043626,-97.6989190254
+23,2014-09-11 22:05:56,"Saveurs du Monde Caf, 1960 Long Grove Dr, Mt. Pleasant",32.821607,-79.81739
+24,2014-09-05 23:48:54,"Golden Tree Nails & Spa, 149 3rd Ave, New York",40.7341307376,-73.98663291
+25,2014-08-31 23:16:38,"Croissanteria, 68 Avenue A, New York",40.7246850687,-73.9846127582
+26,2014-08-29 01:55:12,"Saveurs du Monde Caf, 1960 Long Grove Dr, Mt. Pleasant",32.821607,-79.81739
+27,2014-07-01 00:04:43,"Five Loaves Cafe, 1055 Johnnie Dodds Blvd, Mt. Pleasant",32.8113947025,-79.8614156657
+28,2014-04-09 01:38:02,"Starbucks, Bellavista 52, Santiago de Chile",-33.4345751926,-70.634985023
+29,2014-04-08 05:26:23,"La Negrita, Seminario 116, Providencia",-33.440963256,-70.629756913
+30,2013-10-30 03:34:02,"Trader Joe's, 2805 Bee Cave Rd, Austin",30.2702814229,-97.7895432793
+31,2013-10-04 00:26:07,"The Home Depot, 1200 Barbara Jordan Blvd, Suite 100, Austin",30.3075990738,-97.70926306
+32,2013-09-04 00:43:23,"Lafayette Market, 154 N Saginaw St, Pontiac",42.6411065804,-83.293092529
+33,2013-08-12 02:58:04,"Guasaca Arepa & Salsa Grill, 4025 Lake Boone Trl #107, Raleigh",35.8150472606,-78.6965723169
+34,2013-07-21 21:52:26,"Powerhouse Christian Church, 500 W Main St, Wyckoff",41.0148300667,-74.1807321167
+35,2013-06-18 21:27:56,"Dunkin Donuts, 13240 Strickland Rd, Raleigh",35.9073663632,-78.7261524796
+36,2012-10-28 23:41:13,"Cenote, 1010 E Cesar Chavez St, Austin",30.260308986,-97.7339351177
+37,2012-04-11 08:04:36,"Contigo Austin, 2027 Anchor Ln, Austin",30.2879263233,-97.703356541
+38,2011-09-29 00:49:26,"Fry's Electronics, 12707 N MO Pac Expy, Austin",30.4229310156,-97.7005840135
+39,2011-08-10 23:45:40,"Chatz Coffee, 215 2nd St, San Francisco",37.7865126698,-122.398174967
+40,2011-01-16 12:33:15,"Long Center, 701 W Riverside Dr, Austin",30.2607423452,-97.7506491166
+41,2010-12-17 09:07:36,"W Austin, 200 Lavaca St, Austin",30.2654809503,-97.7464685668
+42,2010-05-29 03:36:15,"G'Raj Mahal Cafe, 73 Rainey St, Austin",30.2583424885,-97.7387871877
+43,2010-05-26 10:33:37,"Taverna, 258 W 2nd St, Austin",30.2650164974,-97.7464985847
+44,2010-04-27 01:53:07,"Gold & Silver Pawn Shop, 713 Las Vegas Blvd S, Las Vegas",36.161542863,-115.14547348
+45,2010-02-07 04:27:32,"Beach Grass Cafe, 159 S Highway 101, Solana Beach",32.9904470348,-117.2715801
+46,2010-01-16 08:31:52,"24 Diner, 600 N Lamar Blvd #G, Austin",30.2719849147,-97.7540319441
+47,2010-01-07 06:15:18,"Halcyon Coffee, Bar & Lounge, 218 W 4th St, Austin",30.2669534786,-97.7456940251
+48,2010-01-07 06:08:45,"Snack Bar, 1224 S Congress Ave, Austin",30.2514482235,-97.7491848349

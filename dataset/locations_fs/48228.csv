@@ -1,0 +1,63 @@
+,time,poi,latitude,longitude
+0,2016-09-16 23:07:25,"Hole in the Wall, 7056 Standpipe Rd, Perry",42.710053,-78.01778492
+1,2016-09-16 23:06:44,"Founding Fathers, 75 Edward St, Buffalo",42.8958156756,-78.8745752142
+2,2016-09-16 23:05:32,"Revolutions, Destiny USA Dr., Syracuse",43.0674738305,-76.1718726862
+3,2016-09-16 23:04:38,"The Lowery Bar & Kitchen, 43-02 43rd Ave, New York",40.7450928662,-73.9209671391
+4,2016-09-16 23:03:17,"C-Town Supermarkets, 41-25 Greenpoint Ave, Queens",40.74051028,-73.92324686
+5,2016-07-15 04:12:46,"Birch Coffee, 432 3rd Ave, New York",40.7433878624,-73.9800882339
+6,2016-07-15 04:11:44,"Vezzo Thin Crust Pizza, 178 Lexington Ave, New York",40.7444892784,-73.9813220501
+7,2016-07-15 04:10:34,"Toby's Estate Coffee, 81 E 45th St, New York",40.7542502363,-73.9767155973
+8,2016-07-15 04:08:37,"Birch Coffee, 21 E 27th St, New York",40.7434834249,-73.986351697
+9,2016-03-11 23:14:31,"Fuk, 163 1st Ave, New York",40.7289251668,-73.9846127582
+10,2016-02-11 23:23:13,"Upper Crust Cakery, 44 Elton St. Suite B, Rochester",43.1555775775,-77.5797654228
+11,2015-05-30 19:47:00,"Worthy Kitchen, 442 Woodstock Rd, Woodstock",43.632661,-72.504023
+12,2015-05-13 20:38:55,"The Meatball Shop, 84 Stanton St, New York",40.7215451248,-73.9888424267
+13,2015-05-13 20:38:17,"Men at Wok, Glen Road Plz, West Lebanon",43.635118,-72.31603817
+14,2015-05-13 20:37:02,"Baohaus, 238 E 14th St, New York",40.7326060893,-73.9855769242
+15,2015-05-13 20:35:10,"The Fort, 151 Heater Rd, Lebanon",43.650653,-72.242015
+16,2015-03-29 05:47:07,"Starbucks, 5043 New Jesup Hwy, Brunswick",31.218076,-81.520617
+17,2015-01-31 09:47:31,"Harpoon Brewery & Riverbend Taps, 336 Ruth Carney Dr, Windsor",43.5132690089,-72.4017906189
+18,2015-01-31 09:45:55,"Pinatas Mexican Grill, 601 Hicksville Rd, Bethpage",40.7411970266,-73.4965559149
+19,2015-01-19 21:08:09,"Base Camp Caf, 3 Lebanon St, Hanover",43.7007085289,-72.2887690331
+20,2014-12-08 06:54:22,"Morano Gelato, 57 S Main St #101, Hanover",43.7005953923,-72.2896827545
+21,2014-08-07 00:49:31,"Dirt Cowboy Caf, 7 S Main St, Hanover",43.70215,-72.2893577814
+22,2014-08-02 11:52:28,"Flat Iron Exhange, 51 The Sq, Bellows Falls",43.1335091549,-72.4441019274
+23,2012-12-20 20:43:42,"Noda Farm, 196 Bean Road, Meriden",43.5331804558,-72.2441840172
+24,2012-10-29 21:50:01,"Walt & Ernie's, 5 Old Nugget Aly #4, Hanover",43.7022023904,-72.289762009
+25,2012-09-12 20:29:41,"Starbucks, 44 S Main St, Hanover",43.7009470569,-72.2892887127
+26,2012-09-11 01:27:04,"Tuckerbox, 1 S Main St, White River Junction",43.6485463,-72.31872456
+27,2012-02-03 22:10:51,"Bareburger, 535 Laguardia Pl, New York",40.7284782636,-73.9983918374
+28,2011-12-20 11:43:39,"L.L.Bean, 1 Ridge Hill Blvd., Yonkers",40.9651308017,-73.856524229
+29,2011-12-09 01:39:04,"Starbucks, 468 Angell St, Providence",41.8301269656,-71.389093101
+30,2011-12-08 08:19:40,"Red Fez, 49 Peck St, Providence",41.822918955,-71.4091476238
+31,2011-10-12 23:45:28,"Nick's on Broadway, 500 Broadway, Providence",41.8184401893,-71.4348006248
+32,2011-10-12 23:44:14,"The Duck & Bunny, 312 Wickenden St, Providence",41.8195891261,-71.3970002517
+33,2011-10-12 23:42:59,"Modern Diner, 364 East Ave, Pawtucket",41.8688102156,-71.387032725
+34,2011-10-12 23:42:29,"Treats, 80 Main St, Wiscasset",44.0025700259,-69.6649932861
+35,2011-10-12 23:41:18,"Kitchen Little, 36 Quarry Rd, Mystic",41.3381681349,-71.9727383165
+36,2011-10-09 00:24:15,"Brewed Awakenings, Corner of Main and South Street, Hingham",42.242085,-70.889293
+37,2011-08-16 03:08:56,"Big Daddy's, 1 Park Ln, Massapequa",40.679333,-73.439445
+38,2011-07-25 20:01:15,"Town Bagel Massapequa, 4917 Merrick Rd, Massapequa Park",40.666629,-73.454091
+39,2011-07-25 19:58:14,"Pony Express To Go, 11 Wheeler Ave, Pleasantville",41.134904259,-73.7919795513
+40,2011-07-21 01:49:57,"Hastings Station Cafe, 134 Southside Ave, Hastings-on-Hudson",40.994113172,-73.8845658708
+41,2011-07-16 21:16:25,"Starbucks, 93 Greenwich Avenue, New York",40.7371862577,-74.0013816693
+42,2011-07-06 02:29:05,"Hastings-on-Hudson Public Library, 7 Maple Ave, Hastings-on-Hudson",40.9953467079,-73.8836988178
+43,2011-06-29 23:23:42,"Tazza Cafe, 408 Main St, Ridgefield",41.281846,-73.498453
+44,2011-06-17 07:34:19,"Taiim Falafel Shack, 598 Warburton Ave, Hastings-on-Hudson",40.9965922597,-73.8819359896
+45,2011-06-15 22:20:31,"Emma's Ale House, 68 Gedney Way, White Plains",41.01384741,-73.757456
+46,2011-06-15 22:18:29,"Trader Joe's, 727 White Plains Rd, Scarsdale",40.9722992123,-73.8048756123
+47,2011-06-08 00:12:15,"Walter's Hot Dog Stand, 937 Palmer Ave, Mamaroneck",40.942952,-73.746909
+48,2011-06-04 22:28:41,"Hastings Farmers Market, 7 Maple Ave, Hastings-on-Hudson",40.9954689849,-73.8834806185
+49,2011-06-04 06:10:57,"Hastings Friday Night Live, Warburton Ave, Hastings-on-Hudson",40.9945217739,-73.881867084
+50,2011-06-01 09:41:26,"South of the Border, 3346 Highway 301 N, Hamer",34.4990795366,-79.3089657811
+51,2011-06-01 09:39:33,"Metro Diner, 3302 Hendricks Avenue, Jacksonville",30.291168062,-81.6487963901
+52,2011-05-24 01:04:37,"Greenleaf Pharmacy, 544 Warburton Ave, Hastings-on-Hudson",40.9947,-73.8819885
+53,2011-05-10 21:31:27,"Starbucks, 42 Memorial Plz, Pleasantville",41.134316,-73.793248
+54,2011-05-07 21:07:09,"Starbucks, 4301 Merrick Rd, Massapequa",40.666983,-73.474865
+55,2011-05-06 20:42:27,"Starbucks, 716-718 Saw Mill Rd, Ardsley",41.012855,-73.846864
+56,2011-05-06 05:40:31,"J.J. Beans Cafe, 19 Cedar St, Dobbs Ferry",41.0153580623,-73.8713873995
+57,2011-04-20 05:00:52,"Hominy Grill, 207 Rutledge Ave, Charleston",32.788861961,-79.9469947815
+58,2011-01-02 11:41:29,"Taco Beach Shack, 334 Arizona St, Hollywood",26.0140842902,-80.1171963964
+59,2010-07-29 07:20:38,"J.Crew, 19501 Biscayne Blvd, Aventura",25.9575506306,-80.1408984737
+60,2010-07-01 03:12:30,"Shake Shack, 1111 Lincoln Rd, Miami Beach",25.7908967494,-80.1400387287
+61,2010-06-03 05:53:54,"Starbucks, 1805 E Hallandale Beach Blvd, Hallandale",25.986702,-80.129114

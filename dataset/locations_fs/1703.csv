@@ -1,0 +1,169 @@
+,time,poi,latitude,longitude
+0,2016-10-08 01:17:15,"Hamlet, 232 NW 12th Ave, Portland",45.5248570877,-122.683020752
+1,2016-10-08 01:17:03,"Oven & Shaker, 1134 NW Everett St, Portland",45.5249649194,-122.682872866
+2,2016-10-08 01:15:31,"Aprisa Mexican Cuisine, 428 SE Martin Luther King Jr Blvd, Portland",45.5196642825,-122.661652495
+3,2016-10-08 01:15:06,"Ox, 2225 NE M L King Blvd, Portland",45.5393417805,-122.661869441
+4,2016-10-08 01:14:30,"Thai Champa, 900 E. Burnside St., Portland",45.5227128045,-122.656130334
+5,2016-07-30 00:48:05,"Hedge House, 3412 SE Division St, Portland",45.5045824062,-122.629208165
+6,2016-07-30 00:46:22,"Bit House Saloon, 727 SE Grand Ave, Portland",45.5174827615,-122.660976761
+7,2016-07-30 00:45:51,"Hopworks Urban Brewery, 2944 SE Powell Blvd, Portland",45.4968725788,-122.634900848
+8,2016-07-07 05:56:12,"Americano, 2605 E Burnside St, Portland",45.5229710379,-122.639127218
+9,2016-03-26 02:11:21,"Smith Rock State Park, 9241 N Crooked River Dr, Terrebonne",44.3659403722,-121.138386726
+10,2016-03-26 02:10:45,"Sparrow Bakery NWX, 2748 NW Crossing Dr, Bend",44.059021792,-121.355321335
+11,2016-03-26 02:09:56,"Boneyard Beer, 37 NW Lake Pl, Bend",44.054201,-121.30817233
+12,2016-03-26 02:09:18,"Spork, 937 NW Newport Ave, Bend",44.0622105243,-121.325669289
+13,2016-03-26 02:08:51,"Crux Fermentation Project, 50 SW Division St, Bend",44.0506217632,-121.307932324
+14,2016-03-02 14:25:19,"Old Portland Hardware & Architectural, 700 NE 22nd Ave, Portland",45.5281480471,-122.643170357
+15,2016-02-20 01:35:43,"Sichuanese Cuisine, 1048 S Jackson St, Seattle",47.5994603667,-122.31752062
+16,2016-01-26 04:05:23,"The Side St. Tavern, 828 SE 34th Ave, Portland",45.5167335694,-122.629466951
+17,2016-01-26 04:04:29,"L I K E W I S E, 3564 SE Hawthorne Blvd, Portland",45.511932,-122.627494
+18,2016-01-14 12:33:10,"The Side St. Tavern, 828 SE 34th Ave, Portland",45.5167335694,-122.629466951
+19,2015-12-20 08:20:44,"Tin Shed, 1438 NE Alberta St, Portland",45.558978481,-122.650911212
+20,2015-12-03 05:19:37,"Tabor Bread, 5051 SE Hawthorne Blvd, Portland",45.5120750216,-122.610586281
+21,2015-12-03 05:19:17,"Regal Cinemas Lloyd Center 10 & IMAX, 1510 NE Multnomah St, Portland",45.53106791,-122.6503049
+22,2015-12-03 05:18:30,"Laughing Planet Caf, 3320 SE Belmont St, Portland",45.5163392339,-122.630468805
+23,2015-12-03 05:17:57,"Bare Bones Bar, 2900 SE Belmont St, Portland",45.516415,-122.636118
+24,2015-11-29 11:23:21,"The Albina Press, 5012 SE Hawthorne Blvd, Portland",45.511983,-122.611211
+25,2015-11-29 11:22:27,"Cup & Bar, 118 NE M L King Blvd, Portland",45.5239872587,-122.66165711
+26,2015-11-04 00:44:53,"Martha's at Revolution Hall, 1300 SE STARK ST, PORTLAND, OR, 97214, Portland",45.5187444473,-122.65245232
+27,2015-10-28 04:25:31,"Sweet Hereafter, 3326 SE Belmont St, Portland",45.5163163704,-122.630349066
+28,2015-10-25 13:31:13,"Growlers Hawthorne, 3343 SE Hawthorne Blvd, Portland",45.5121814147,-122.629898787
+29,2015-10-25 13:30:40,"Rovente Pizza, 3240 SE Hawthorne Blvd, Portland",45.511996,-122.631888986
+30,2015-10-25 13:29:35,"New Seasons Market, 2170 NW Raleigh St, Portland",45.5338734134,-122.696023079
+31,2015-10-22 06:10:21,"T4dv, 3207 SE Hawthorne Blvd, Portland",45.5122771368,-122.63258054
+32,2015-10-17 03:44:36,"The Waffle Window, 3610 SE Hawthorne Blvd, Portland",45.5117528692,-122.626615763
+33,2015-10-17 03:43:59,"Que Pasa Cantina, 1408 SE 12th Ave, Portland",45.512727988,-122.653532037
+34,2015-10-17 03:43:31,"Pastaworks, 3735 SE Hawthorne Blvd, Portland",45.512211488,-122.625113726
+35,2015-10-17 03:43:17,"Harlow, 3632 SE Hawthorne Blvd, Portland",45.5119869663,-122.626192651
+36,2015-10-17 03:43:00,"Radar, 3951 N Mississippi Ave, Portland",45.5516397788,-122.67575057
+37,2015-10-17 03:42:11,"Lovejoy Bakers, 3159 SW Moody Ave, Portland",45.5001907171,-122.6717589
+38,2015-10-17 03:41:52,"Cha! Cha! Cha!, 3433 SE Hawthorne Blvd, Portland",45.5121339696,-122.628810482
+39,2015-09-01 13:10:50,"Upper Left Roasters, 1204 SE Clay St, Portland",45.5114436913,-122.653282775
+40,2015-08-31 02:50:31,"Burgerville, USA, 1122 SE Hawthorne Blvd, Portland",45.5120000986,-122.653959647
+41,2015-08-31 02:50:05,"Hawthorne Hophouse, 4111 SE Hawthorne Blvd, Portland",45.5124779456,-122.620013067
+42,2015-08-28 00:17:51,"The Growler Guys, 816 SE 8th Ave Ste 109, Portland",45.5169485621,-122.657447759
+43,2015-08-23 08:49:14,"HOTLIPS Pizza - Hawthorne, 2211 SE Hawthorne Blvd, Portland",45.5123324558,-122.643158553
+44,2015-08-23 08:48:01,"Bazi Bierbrasserie, 1522 SE 32nd Ave, Portland",45.5117494,-122.6326449
+45,2015-08-23 08:46:52,"New American, 2103 N Killingsworth St, Portland",45.562877,-122.689049
+46,2015-08-14 03:58:46,"Laurelwood Public House & Brewery, 5115 NE Sandy Blvd, Portland",45.540096,-122.610671
+47,2015-08-14 03:58:14,"Fonda Rosa, 108 NE 28th Ave, Portland",45.52376445,-122.637186267
+48,2015-08-14 03:57:53,"Alma, 1423 SE 7TH Ave, Portland",45.5134274048,-122.65893869
+49,2015-07-21 09:42:46,"Veloce Bicycles, 3202 SE Hawthorne Blvd, Portland",45.51207,-122.632366
+50,2015-07-17 08:05:07,"Cibo, 3539 SE Division St, Portland",45.504875,-122.627789
+51,2015-07-17 08:04:13,"Fried Egg, I'm In Love, 3207 SE Hawthorne Blvd, Portland",45.5122107658,-122.632314979
+52,2015-07-17 08:03:28,"Bollywood Theater, 3010 SE Division St, Portland",45.5045555925,-122.634447959
+53,2015-06-26 07:29:39,"Belmont Station, 4500 SE Stark St, Portland",45.51917292,-122.61598206
+54,2015-06-26 07:26:49,"McMenamins Kennedy School, 5736 NE 33rd Ave, Portland",45.564564603,-122.630046227
+55,2015-06-26 07:25:55,"Bill's Tavern Brew House, 188 N Hemlock St, Cannon Beach",45.898053,-123.96096464
+56,2015-06-26 07:24:33,"Fire on the Mountain, 1708 E Burnside St, Portland",45.522769963,-122.648379207
+57,2015-06-26 07:23:36,"Columbia Farms, 21340 NW Gillihan Loop Rd, Portland",45.674559,-122.77952835
+58,2015-06-26 07:22:41,"Pyro Pizza, 1401 SE 12th Ave., Portland",45.5122840325,-122.656009581
+59,2015-06-26 07:22:15,"Green Dragon Bistro & Brew Pub, 928 SE 9th Ave, Portland",45.5162505548,-122.65653044
+60,2015-06-26 07:21:58,"Back Stage Bar, 3702 SE Hawthorne Blvd, Portland",45.5115500839,-122.625585531
+61,2015-06-26 07:21:35,"Ava Gene's, 3377 SE Division St, Portland",45.5049796325,-122.629819505
+62,2015-06-26 07:20:38,"Enso Winery, 1416 SE Stark St, Portland",45.5192244333,-122.651172
+63,2015-05-28 05:57:38,"Casa del Matador, 2424 E Burnside St, Portland",45.52275215,-122.640836
+64,2015-04-17 14:19:09,"Crema Bakery and Cafe, 2728 SE Ankeny St, Portland",45.522174,-122.637382
+65,2015-04-17 14:18:33,"Fire on the Mountain, 4225 N Interstate Ave, Portland",45.5540503539,-122.681866586
+66,2015-04-15 07:55:26,"Heart Coffee Roasters, 2211 E Burnside St, Portland",45.5230287736,-122.643221504
+67,2015-03-26 23:36:13,"Foursquare HQ, 568 Broadway Fl 10, New York",40.7241284245,-73.9972651005
+68,2015-03-22 01:27:38,"Doughnut Plant, 245 Flatbush Ave, Brooklyn",40.680670239,-73.9748043897
+69,2015-03-13 07:51:19,"Travelers House Hostel, R. Augusta, n 89, 1st floor, Lisboa",38.709947,-9.137365
+70,2015-03-13 07:45:29,"Kopke, Av Diogo Leite 312, Villa Nova de Gaia",41.1383515324,-8.61153924617
+71,2015-03-13 07:44:33,"Quinta do Noval, Avenida Diogo Leite, 256, Vila Nova de Gaia",41.1381608097,-8.61218342652
+72,2015-03-13 07:44:11,"Pizzaria Lisboa, R. dos Duques de Bragana, 5H, Lisboa",38.7083381043,-9.14193184001
+73,2015-03-13 07:42:22,"Manteigaria, Rua do Loreto, 2, Lisboa",38.7106725723,-9.14378028466
+74,2015-03-13 07:37:31,"Parm, 248 Mulberry St, New York",40.723019825,-73.995854
+75,2015-03-04 02:54:29,"Dishoom, 5 Stable St, London",51.5361160989,-0.125683781712
+76,2015-02-27 09:53:14,"Little Park, 85 W Broadway, New York",40.7154821664,-74.0092663379
+77,2015-02-18 04:59:20,"Metropolitan Museum of Art, 1000 5th Ave, New York",40.7791685266,-73.9627570318
+78,2015-01-16 22:57:13,"Other Half Brewing Co., 195 Centre St, Brooklyn",40.6736938373,-73.999275593
+79,2014-12-24 14:03:04,"Deschutes Brewery Portland Public House, 210 NW 11th Ave, Portland",45.524542044,-122.681949735
+80,2014-12-22 14:26:57,"Little t American Baker, 2600 SE Division St, Portland",45.504774,-122.63948
+81,2014-12-22 14:26:13,"Roman Candle Baking Company, 3377 SE Division St, Portland",45.5048900821,-122.630005815
+82,2014-12-10 12:12:47,"Murray's Cheese, 254 Bleecker St, New York",40.7310939262,-74.0028450057
+83,2014-11-07 12:17:45,"The Bar Downstairs, 485 5th Ave, New York",40.7529364071,-73.981502142
+84,2014-11-05 03:19:19,"Shinobi Ramen, 53 Morgan Ave, Brooklyn",40.705717,-73.932109
+85,2014-10-16 21:01:18,"Trst, 615 Manhattan Ave, Brooklyn",40.7235058118,-73.9507089213
+86,2014-10-02 04:51:26,"Froelick Gallery, 714 NW Davis St, Portland",45.5244801562,-122.677799786
+87,2014-10-01 01:00:16,"Foursquare HQ, 568 Broadway Fl 10, New York",40.7241284245,-73.9972651005
+88,2014-09-30 11:35:41,"Foursquare HQ, 568 Broadway Fl 10, New York",40.7241284245,-73.9972651005
+89,2014-09-30 11:29:08,"Spoonbar, 219 Healdsburg Ave, Healdsburg",38.609214,-122.87030083
+90,2014-08-25 11:20:35,"Whisky Caf, 5800 boul. Saint-Laurent, Montral",45.5271784515,-73.6023151875
+91,2014-08-25 11:19:09,"Vices & Versa Bistro Du Terroir, 6631 boul. Saint-Laurent, Montral",45.5314266753,-73.6108589997
+92,2014-08-25 11:15:34,"L&B Spumoni Gardens, 2725 86th St, Brooklyn",40.5946718728,-73.9813274145
+93,2014-07-06 08:36:36,"The Tasting Bar, 150 Main St, Newport",44.9366028711,-72.2085619653
+94,2014-06-29 22:17:52,"Habana Outpost, 757 Fulton St, Brooklyn",40.6864796059,-73.9743429422
+95,2014-06-26 09:43:43,"Ivan Ramen, 25 Clinton St, New York",40.7205528808,-73.9845094544
+96,2014-06-26 00:01:52,"ARIA Resort & Casino, 3730 Las Vegas Blvd S, Las Vegas",36.107776562,-115.176453584
+97,2014-06-25 23:48:56,"Blenheim, 283 W 12th St, New York",40.7376386625,-74.0039893985
+98,2014-06-25 23:46:16,"McCarran International Airport (LAS), 5757 Wayne Newton Blvd, Las Vegas",36.0836942238,-115.146628769
+99,2014-06-25 23:45:23,"In-N-Out Burger, 4888 Dean Martin Dr, Las Vegas",36.1013167139,-115.182377994
+100,2014-06-25 23:44:59,"Daylight Beach Club, 3950 Las Vegas Blvd S, Las Vegas",36.0893523971,-115.17473979
+101,2014-06-25 23:44:32,"Walgreens, 3339 Las Vegas Blvd S, Las Vegas",36.1232303841,-115.170484212
+102,2014-06-25 23:44:12,"The Cosmopolitan of Las Vegas, 3708 Las Vegas Blvd S, Las Vegas",36.1097609506,-115.17383078
+103,2014-06-15 08:41:38,"Subject, 188 Suffolk St, New York",40.721528601,-73.9849915383
+104,2014-06-06 03:18:10,"Don Nico's, Albee Square, Brooklyn",40.6900316239,-73.9829484126
+105,2014-04-20 10:02:16,"Marietta, 285 Grand Ave, Brooklyn",40.6880768618,-73.9626824151
+106,2014-03-26 01:44:17,"Cenote X - Canch, Ek Balam, Temozon, Temozn",20.8883393412,-88.1353272713
+107,2014-03-25 23:37:11,"Zamas, Carr. punta allen km 5sur, Tulum",20.1711836984,-87.4492835999
+108,2014-03-25 23:36:33,"El Tabano, Carrettera Boca Paila Km 5, Tulum",20.1676623818,-87.451686345
+109,2014-03-25 23:35:37,"Cenote X - Canch, Ek Balam, Temozon, Temozn",20.8883393412,-88.1353272713
+110,2014-02-04 06:32:26,"Taco Chulo, 318 Grand St, Brooklyn",40.7125792814,-73.9564604237
+111,2014-01-07 05:25:14,"Super Duper Burger, 783 Mission St, San Francisco",37.784833928,-122.403531075
+112,2013-12-27 15:35:30,"Clyde Common, 1014 SW Stark St, Portland",45.5219882001,-122.681426704
+113,2013-12-19 01:59:20,"The Noble Experiment, 23 Meadow St, Brooklyn",40.7108485987,-73.9361170171
+114,2013-12-15 10:19:40,"Hoja Santa, 250 Dekalb Ave, Brooklyn",40.6894247366,-73.9691050904
+115,2013-11-11 04:58:01,"Speedy Romeo, 376 Classon Ave, Brooklyn",40.6874381447,-73.9597206804
+116,2013-10-13 12:26:56,"Fitzcarraldo, 195 Morgan Ave, Brooklyn",40.710868,-73.933813
+117,2013-10-05 04:27:34,"Mission Pie, 2901 Mission St, San Francisco",37.750641,-122.418231762
+118,2013-09-30 17:53:51,"LIRR - Jamaica Station, Sutphin Blvd & Archer Ave, Jamaica",40.6997538934,-73.8083424792
+119,2013-09-23 12:06:21,"Cold Hollow Cider Mill, 3600 Waterbury-Stowe Rd, Waterbury Center",44.3814047265,-72.720002532
+120,2013-09-16 07:43:59,"Le Bon Vivant, 22 Dirkie Uys St., Franschhoek",-33.9104411886,19.1203636475
+121,2013-09-16 07:42:34,"Bukhara, 33 Church St, iKapa",-33.9232214309,18.4192100344
+122,2013-09-16 07:40:27,"Royale Eatery, 273 Long St., iKapa",-33.9262356855,18.414782422
+123,2013-09-13 06:03:46,"Haute Cabriere, R45, Franschoek",-33.9143554486,19.135581198
+124,2013-09-13 06:01:00,"Parker Cottage Guesthouse, 3 Carstens St, Tamboerskloof, iKapa",-33.9286388565,18.4079208953
+125,2013-08-28 05:06:30,"Delta SkyClub & SkyDeck, Gate B31, Terminal 4, Queens",40.6390000084,-73.7812103913
+126,2013-08-27 12:11:37,"Caf Habana, 17 Prince St, New York",40.7228416988,-73.994116469
+127,2013-08-02 22:34:17,"Beaches, PDX Airport, Portland",45.5897138943,-122.593171669
+128,2013-07-30 08:51:48,"Clyde Common, 1014 SW Stark St, Portland",45.5219882001,-122.681426704
+129,2013-07-30 07:44:11,"Nostrana, 1401 SE Morrison St, Portland",45.517687,-122.651424
+130,2013-07-29 08:53:34,"Ox, 2225 NE M L King Blvd, Portland",45.5393417805,-122.661869441
+131,2013-07-29 08:52:02,"Andina, 1314 NW Glisan St, Portland",45.5264643975,-122.684369087
+132,2013-07-29 08:49:42,"Fifteenth Avenue Hophouse, 1517 NE Brazee St, Portland",45.5408365078,-122.65009211
+133,2013-07-29 08:48:15,"Hoyt Arboretum, 4000 SW Fairview Blvd, Portland",45.5174928526,-122.71771431
+134,2013-07-29 08:47:39,"Burgerville, USA, 2975 NE Hogan Dr, Gresham",45.518371,-122.412902
+135,2013-07-03 01:59:42,"Melt Bakery, 132 Orchard St, New York",40.719810749,-73.9892721176
+136,2013-06-27 03:37:00,"Parm, 248 Mulberry St, New York",40.723019825,-73.995854
+137,2013-06-16 03:27:20,"Anable Basin Sailing Bar & Grill, 4-40 44th Dr, Queens",40.7494352648,-73.9557552338
+138,2013-05-17 10:23:22,"Manhattan Beach Post, 1142 Manhattan Ave, Manhattan Beach",33.8852327026,-118.41080788
+139,2013-05-15 03:33:38,"Jamber Wine Pub, 858 Folsom St, San Francisco",37.7810231897,-122.402555986
+140,2013-04-14 12:13:04,"Strong Place, 270 Court St, Brooklyn",40.6848662433,-73.9948108642
+141,2013-04-08 08:53:07,"Pubbelly, 1418 20th St, Miami Beach",25.7954026282,-80.1441694678
+142,2013-04-08 08:52:30,"The Local House, 400 Ocean Dr, Miami Beach",25.7733696423,-80.1321043326
+143,2013-03-25 07:23:29,"Bijan's, 81 Hoyt St, Brooklyn",40.6880357191,-73.9867476907
+144,2013-03-25 07:22:45,"Angel19s Share, 8 Stuyvesant St, New York",40.7301391082,-73.9892269374
+145,2013-03-08 23:03:52,"Osteria Morini, 218 Lafayette St, New York",40.7217899349,-73.9973990423
+146,2013-02-27 03:54:59,"Doughnut Plant, 379 Grand St, New York",40.7163466486,-73.9885425568
+147,2013-02-09 12:24:56,"The Exley, 1 Jackson St, Brooklyn",40.7160648837,-73.9515756757
+148,2013-02-01 02:04:20,"Cho Dang Gol, 55 W 35th St, New York",40.75024,-73.986505
+149,2013-01-27 12:17:18,"Brooklyn Winery, 213 N 8th St, Brooklyn",40.717177,-73.955141
+150,2013-01-27 12:16:02,"City Winery, 155 Varick St, New York",40.7263552518,-74.0057623386
+151,2013-01-27 12:13:49,"Brooklyn Brewery, 79 N 11th St, Brooklyn",40.7216651906,-73.9576658067
+152,2013-01-27 12:10:10,"New York Distilling Company, 79 Richardson St, Brooklyn",40.7182947065,-73.9487113535
+153,2013-01-27 12:08:19,"Kings County Distillery, Brooklyn Navy Yard, bldg 121, Brooklyn",40.69952775,-73.979165554
+154,2013-01-27 12:07:26,"Industry City Distillery, 33 35th St Unit 6A, Brooklyn",40.6575701567,-74.0077973122
+155,2013-01-27 12:06:30,"Breuckelen Distillery, 77 19th St, Brooklyn",40.66576,-73.997744
+156,2013-01-27 12:04:37,"Van Brunt Stillhouse, 6 Bay St, Brooklyn",40.6738244356,-74.0100983982
+157,2013-01-27 12:03:13,"Jack From Brooklyn, 177 Dwight St, Brooklyn",40.6735729877,-74.0115674062
+158,2013-01-08 03:26:00,"Chipotle Mexican Grill, 71 Spring St, New York",40.72254287,-73.9977693558
+159,2013-01-04 00:52:34,"Stumblefoot Brewing, 1784 La Costa Meadows Dr, San Marcos",33.104863622,-117.219253482
+160,2012-12-11 00:10:33,"Die Stammkneipe / Der Schwarze Klner, 710 Fulton St, Brooklyn",40.6859500626,-73.9735130224
+161,2012-12-08 03:08:31,"Cocoron, 37 Kenmare St, New York",40.7207529052,-73.9952642283
+162,2012-12-08 03:05:05,"Ippudo, 65 4th Ave, New York",40.7309155952,-73.9905583715
+163,2012-11-17 07:09:24,"Momofuku Milk Bar, 382 Metropolitan Ave, Brooklyn",40.7140473134,-73.9549210668
+164,2012-10-25 12:39:02,"Murray's Cheese, 254 Bleecker St, New York",40.7310939262,-74.0028450057
+165,2012-10-25 12:37:45,"The Brooklyn Kitchen, 100 Frost St, Brooklyn",40.7176823002,-73.9478132129
+166,2012-10-25 12:33:49,"Astor Center, 399 Lafayette St, New York",40.727897676,-73.9930260913
+167,2012-10-24 13:09:14,"Starbelly, 3583 16th St, San Francisco",37.7641969538,-122.432590127

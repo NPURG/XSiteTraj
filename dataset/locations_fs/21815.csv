@@ -1,0 +1,128 @@
+,time,poi,latitude,longitude
+0,2015-05-07 04:23:25,"Argo Tea, 75 University Pl, New York",40.7333072852,-73.9933474664
+1,2015-05-04 09:19:25,"Rosie's, 29 E 2nd St, New York",40.7249196238,-73.9905124601
+2,2015-04-26 22:00:56,"Spreadhouse Coffee, 116 Suffolk St, New York",40.7190005261,-73.9859729196
+3,2015-02-05 07:37:26,"Vic's, 31 Great Jones St, New York",40.7271679836,-73.9931753012
+4,2015-01-26 05:10:08,"Hometown Bar-B-Que, 454 Van Brunt St, Brooklyn",40.674926124,-74.0162014961
+5,2015-01-26 03:51:48,"Petee's Pie Company, 61 Delancey St, New York",40.7193403219,-73.9907707114
+6,2015-01-22 11:34:39,"Dream Baby, 162-164 Avenue B, New York",40.7271669489,-73.979834725
+7,2015-01-09 03:15:18,"Bluestone Lane, 1114 Avenue of the Americas, New York",40.7552301762,-73.9833819866
+8,2014-09-04 04:16:17,"Starbucks, 93 W Colorado Blvd, Pasadena",34.145926,-118.152531
+9,2014-08-10 09:18:50,"Forage, 3823 W Sunset Blvd, Los Angeles",34.091574,-118.279227
+10,2014-08-10 02:57:50,"Go Get Em Tiger, 230 N Larchmont Blvd, Los Angeles",34.0756465557,-118.323567122
+11,2014-08-09 05:22:50,"Olive & Thyme, 3821 Riverside Dr, Toluca Lake",34.1523807146,-118.341540098
+12,2014-08-07 06:41:23,"Caf Gratitude, 639 N Larchmont Blvd, Los Angeles",34.0828951033,-118.323869644
+13,2014-08-07 06:40:22,"Genghis Cohen, 740 N Fairfax Ave, Los Angeles",34.0850184207,-118.361130953
+14,2014-08-07 06:39:56,"Ubatuba Aai, 549 S Western Ave, Los Angeles",34.0637849824,-118.309536371
+15,2014-08-07 06:39:35,"f4dnuts, 8104 W 3rd St, Los Angeles",34.071946553,-118.366076946
+16,2014-08-07 06:39:11,"Moon Juice, 2839 W Sunset Blvd, Los Angeles",34.082586853,-118.272513144
+17,2014-08-07 06:38:38,"Equinox Downtown LA, 444 S Flower St, Los Angeles",34.051772,-118.255184
+18,2014-08-07 06:37:55,"Daikokuya, 327 E 1st St, Los Angeles",34.0498506802,-118.240318958
+19,2014-06-01 01:02:56,"Sqirl Kitchen, 720 N Virgil Ave, Los Angeles",34.0845205839,-118.2867639
+20,2014-05-22 03:20:28,"Zinc Caf & Market, 580 Mateo St, Los Angeles",34.0394395332,-118.232649249
+21,2014-05-19 08:50:12,"RockSugar Pan Asian Kitchen, 10250 Santa Monica Blvd, Los Angeles",34.0588815563,-118.420257568
+22,2014-04-11 11:11:01,"La Reyna Restaurant, 2000 7th St, Los Angeles",34.0345553133,-118.232129546
+23,2014-04-09 10:15:35,"The Virgil, 4519 Santa Monica Blvd, Los Angeles",34.090994,-118.287012
+24,2014-03-09 04:37:50,"Tartine Bakery, 600 Guerrero St, San Francisco",37.7614213141,-122.42400974
+25,2014-02-04 08:13:14,"Go Get Em Tiger, 230 N Larchmont Blvd, Los Angeles",34.0756465557,-118.323567122
+26,2014-01-21 05:15:02,"Bottega Louie, 700 S Grand Ave, Los Angeles",34.0472543932,-118.256525302
+27,2014-01-20 05:37:38,"Demitasse, 1149 3rd St, Santa Monica",34.0187585451,-118.499747515
+28,2014-01-15 04:42:14,"Ace Hotel Downtown Los Angeles, 929 S Broadway, Los Angeles",34.0417318028,-118.256857395
+29,2013-12-24 04:37:42,"Rose Bakery, 160 Lexington Ave, New York",40.744005633,-73.981654644
+30,2013-12-19 00:40:46,"Delissimo, 39 E 60th St, New York",40.7639675396,-73.970350571
+31,2013-12-17 05:42:10,"Toby's Estate Coffee, 160 5th Ave, New York",40.7400822479,-73.9906387164
+32,2013-11-12 01:00:54,"sweetgreen, 1164 Broadway, New York",40.7448018,-73.9886439
+33,2013-11-08 13:08:01,"The Standard, East Village, 25 Cooper Sq, New York",40.7279855561,-73.9909428788
+34,2013-11-07 01:08:56,"Ninth Street Espresso, 109 E 56th St, New York",40.760651,-73.970573
+35,2013-11-04 04:58:45,"Hi-Collar - cfa4abe9, 214 E 10th St, New York",40.7294439516,-73.9858868337
+36,2013-10-25 23:52:09,"El Rey Coffee Bar & Luncheonette, 100 Stanton St, New York",40.7213823929,-73.9881594879
+37,2013-10-25 00:43:13,"sweetgreen, 1164 Broadway, New York",40.7448018,-73.9886439
+38,2013-10-23 23:23:07,"Caf Grumpy, 383 7th Ave, Brooklyn",40.6652424386,-73.9829313755
+39,2013-10-16 03:55:38,"Tam Falafel and Smoothie Bar, 45 Spring St, New York",40.7220468683,-73.9961278439
+40,2013-10-09 03:02:54,"Dimes, 49 Canal St, New York",40.7148747579,-73.9915251732
+41,2013-10-02 10:54:53,"Nonna's L.E.S. Pizzeria, 105 Clinton St, New York",40.718052,-73.985658
+42,2013-09-30 04:37:05,"Kmart, 770 Broadway, New York",40.7308499,-73.9914
+43,2013-09-25 07:35:15,"Best Pizza, 33 Havemeyer St, Brooklyn",40.7157326746,-73.9535559938
+44,2013-09-24 21:19:09,"El Rey Coffee Bar & Luncheonette, 100 Stanton St, New York",40.7213823929,-73.9881594879
+45,2013-09-22 07:32:26,"Cafe Himalaya, 78 E 1st St, New York",40.7229209289,-73.9882570507
+46,2013-09-13 09:07:38,"Happy Wok Restaurant, 158 Delancey St, New York",40.717966,-73.986147
+47,2013-09-04 05:40:37,"Intelligentsia Coffee, 180 10th Ave, New York",40.7459076802,-74.0050166845
+48,2013-08-18 05:29:51,"Blue Ribbon Fried Chicken, 28 E 1st St, New York",40.7245288727,-73.9910879731
+49,2013-07-22 04:26:25,"DiCosmo's Italian Ices, 95-19 Rockaway Beach Blvd, Queens",40.585164,-73.817958
+50,2013-06-05 08:46:28,"Mighty Quinn's BBQ, 103 2nd Ave, New York",40.7275189452,-73.9886713028
+51,2013-06-05 08:20:10,"Mighty Quinn's BBQ, 103 2nd Ave, New York",40.7275189452,-73.9886713028
+52,2013-06-04 00:47:29,"Habana To Go, 229 Elizabeth St, New York",40.722912,-73.994089
+53,2013-05-27 08:07:24,"Sweet and Vicious, 5 Spring St, New York",40.7212985741,-73.9942542004
+54,2013-05-27 00:57:53,"Stumptown Coffee Roasters, 30 W 8th St, New York",40.7328149968,-73.9980934256
+55,2013-05-25 06:28:28,"Mission Chinese Food, 171 E Broadway, New York",40.7140696769,-73.9898085594
+56,2013-05-11 01:58:54,"The West14Coffeehouse & Bar, 379 Union Ave, Brooklyn",40.7116588581,-73.9513690326
+57,2013-04-30 22:11:49,"Habana Outpost, 757 Fulton St, Brooklyn",40.6864796059,-73.9743429422
+58,2013-04-27 03:44:47,"Lafayette, 380 Lafayette St, New York",40.7276490336,-73.9936065674
+59,2013-04-27 03:44:19,"Lafayette, 380 Lafayette St, New York",40.7276490336,-73.9936065674
+60,2013-04-22 21:56:14,"Dun-Well Doughnuts, 222 Montrose Ave, Brooklyn",40.7076491259,-73.940123873
+61,2013-04-05 00:59:30,"Kv Espresso Bar, 1087 Flushing Ave Apt 121, Brooklyn",40.7049122117,-73.9286461473
+62,2013-03-05 03:25:56,"Tam Falafel and Smoothie Bar, 45 Spring St, New York",40.7220468683,-73.9961278439
+63,2013-03-01 08:46:55,"Feast, 102 3rd Ave, New York",40.732483211,-73.9877979311
+64,2013-02-26 01:31:57,"Caf Habana, 17 Prince St, New York",40.7228416988,-73.994116469
+65,2013-02-25 09:29:27,"Cata, 245 Bowery, New York",40.7227380571,-73.9928768812
+66,2013-02-16 07:53:59,"Cocoron, 37 Kenmare St, New York",40.7207529052,-73.9952642283
+67,2013-02-11 04:11:27,"La Colombe Torrefaction, 270 Lafayette St, New York",40.7238560371,-73.9964067936
+68,2013-01-19 09:18:00,"Mile End Delicatessen, 53 Bond St, New York",40.725925671,-73.9925956773
+69,2012-12-28 21:09:44,"Mission Chinese Food, 171 E Broadway, New York",40.7140696769,-73.9898085594
+70,2012-12-04 00:43:21,"Mission Chinese Food, 171 E Broadway, New York",40.7140696769,-73.9898085594
+71,2012-12-04 00:42:48,"Mission Chinese Food, 171 E Broadway, New York",40.7140696769,-73.9898085594
+72,2012-11-18 23:43:01,"La Colombe Torrefaction, 400 Lafayette St, New York",40.7279074442,-73.9932499061
+73,2012-11-18 23:42:00,"La Colombe Torrefaction, 400 Lafayette St, New York",40.7279074442,-73.9932499061
+74,2012-06-22 01:49:00,"The Shop, 485 5th Ave, New York",40.7529145363,-73.9815078812
+75,2012-02-04 05:07:41,"La Colombe Torrefaction, 400 Lafayette St, New York",40.7279074442,-73.9932499061
+76,2012-01-26 23:06:26,"Nolita Mart & Espresso Bar, 156 Mott St, New York",40.71945093,-73.9961573482
+77,2011-09-24 01:13:36,"Cafe Grumpy, 13 Essex St, New York",40.7151116202,-73.9899615229
+78,2011-09-05 01:31:19,"La Colombe Torrefaction, 270 Lafayette St, New York",40.7238560371,-73.9964067936
+79,2011-08-31 08:24:52,"Momofuku Noodle Bar, 171 1st Ave, New York",40.7291104035,-73.9842454556
+80,2011-08-18 23:17:39,"Stumptown Coffee Roasters, 18 W 29th St, New York",40.7457410501,-73.9882528782
+81,2011-08-18 23:14:51,"Blue Bottle Cart, 447 W 15th St, New York",40.742697606,-74.0076308984
+82,2011-08-12 09:47:08,"Tai Thai, 206 Bedford Ave, Brooklyn",40.7170499495,-73.95852679
+83,2011-08-10 18:42:25,"Green Leaf Gourmet, 7 Park Ave, New York",40.7470103615,-73.9812496174
+84,2011-08-02 03:40:55,"Green Leaf Gourmet, 7 Park Ave, New York",40.7470103615,-73.9812496174
+85,2011-07-22 05:22:37,"Verlaine Bar & Lounge, 110 Rivington St, New York",40.7199175608,-73.9878266261
+86,2011-07-16 23:18:16,"Ground Support, 399 W Broadway, New York",40.7242849452,-74.0019643307
+87,2011-06-25 13:12:33,"Nights and Weekends, 1 Bedford Ave, Brooklyn",40.723733,-73.951196
+88,2011-04-18 04:38:27,"Krlewske Jad42o, 694 Manhattan Ave, Brooklyn",40.7252667481,-73.951485157
+89,2011-01-31 05:13:23,"Elevated Acre, 55 Water St, New York",40.703269265,-74.0087127686
+90,2011-01-22 10:47:54,"il Tetto, 370 4th Ave, Brooklyn",40.673284,-73.98696
+91,2010-12-28 13:59:28,"Osteria Morini, 218 Lafayette St, New York",40.7217899349,-73.9973990423
+92,2010-12-18 04:59:15,"Birch Coffee, 21 E 27th St, New York",40.7434834249,-73.986351697
+93,2010-10-25 06:42:16,"Hecho en Dumbo, 354 Bowery, New York",40.7268138535,-73.9916774577
+94,2010-10-22 05:18:56,"Hong Kong Tailor Jack, 136 Waverly Pl Frnt 2, New York",40.7331316364,-74.000383151
+95,2010-10-18 05:11:47,"Caf Sabarsky, 1048 5th Ave, New York",40.7814321239,-73.9604324192
+96,2010-10-04 07:47:54,"Hill Country Chicken, 1123 Broadway, New York",40.7432578047,-73.9892962575
+97,2010-09-05 07:48:04,"Eataly NYC, 200 5th Ave, New York",40.7421145531,-73.9895655358
+98,2010-08-18 03:00:08,"Little Bird Cafe, 182 Avenue B, New York",40.727737,-73.97927709
+99,2010-08-16 00:31:18,"William Greenberg Desserts, 1100 Madison Ave, New York",40.7784451483,-73.9604668581
+100,2010-08-16 00:30:42,"ABC Elixir Bar, 35 E 18th St, New York",40.738188569,-73.9895483189
+101,2010-08-16 00:29:35,"Rita's Ice, 121 Washington St, Hoboken",40.7381339434,-74.0307265966
+102,2010-08-16 00:29:01,"Marco & Pepe, 289 Grove St, Jersey City",40.718226,-74.04382
+103,2010-06-14 02:23:02,"Matcha Source Retail Boutique, 8036 W 3rd St, Los Angeles",34.0719998753,-118.365111351
+104,2010-05-16 00:51:06,"Hong Kong Tailor Jack, 136 Waverly Pl Frnt 2, New York",40.7331316364,-74.000383151
+105,2009-12-14 07:16:25,"Cafe Orlin, 41 Saint Marks Pl, New York",40.7284627017,-73.9873273323
+106,2009-12-13 17:17:52,"L'Express, 249 Park Ave S, New York",40.7382631262,-73.9878381041
+107,2009-12-06 06:52:24,"Ess-a-Bagel, 831 3rd Ave, New York",40.7562564853,-73.9704653614
+108,2009-11-20 13:34:58,"The Stanton Social, 99 Stanton St, New York",40.7213084757,-73.988079142
+109,2009-11-18 05:49:43,"Via Quadronno, 25 E 73rd St, New York",40.7725486757,-73.9652021496
+110,2009-11-16 07:16:45,"La Colombe Torrefaction, 270 Lafayette St, New York",40.7238560371,-73.9964067936
+111,2009-11-06 20:08:46,"Joe (the art of coffee), 44 Grand Central Terminal, New York",40.7524447984,-73.9758948708
+112,2009-10-30 02:35:07,"Stumptown Coffee Roasters, 18 W 29th St, New York",40.7457410501,-73.9882528782
+113,2009-10-29 01:40:10,"Stumptown Coffee Roasters, 18 W 29th St, New York",40.7457410501,-73.9882528782
+114,2009-08-27 06:52:18,"Zabar's, 2245 Broadway, New York",40.784591251,-73.9794819362
+115,2009-08-06 08:02:21,"Graziella's, 232 Vanderbilt Ave, Brooklyn",40.6904881926,-73.9695183383
+116,2009-08-02 04:25:14,"Doughnut Plant, 379 Grand St, New York",40.7163466486,-73.9885425568
+117,2009-08-01 00:49:47,"Gregory's Coffee, 327 Park Ave S, New York",40.7410469222,-73.9857835306
+118,2009-08-01 00:46:08,"Shake Shack, 11 Madison Ave, New York",40.7414310297,-73.9884120034
+119,2009-07-31 23:20:51,"George Washington Bridge, Interstate 95, New York",40.8512576561,-73.9507835427
+120,2009-07-30 02:34:49,"Whole Foods Market, 270 Greenwich Street, New York",40.7157784894,-74.0121412344
+121,2009-07-29 23:02:16,"Doughnut Plant, 379 Grand St, New York",40.7163466486,-73.9885425568
+122,2009-07-29 08:55:41,"The City Bakery, 3 W 18th St, New York",40.7386405913,-73.9925336838
+123,2009-07-27 13:12:15,"Katz's Delicatessen, 205 E Houston St, New York",40.7223070664,-73.987351656
+124,2009-07-27 12:39:34,"Shake Shack, 366 Columbus Ave, New York",40.7808257732,-73.976483345
+125,2009-07-26 12:27:36,"Self Edge, 157 Orchard St, New York",40.720946,-73.988868
+126,2009-07-26 12:16:21,"The Smile, 26 Bond St, New York",40.7264131828,-73.9938211441

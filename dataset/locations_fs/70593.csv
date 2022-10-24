@@ -1,0 +1,91 @@
+,time,poi,latitude,longitude
+0,2014-09-13 19:36:15,"Bubbalo""s Bodacious Bar-B-Que, 1471 Lee Rd, Winter Park",28.6062092417,-81.3679033475
+1,2014-09-13 19:33:46,"La Barbecue Cuisine Texicana, 1906 E Cesar Chavez St, Austin",30.2571589961,-97.7239095515
+2,2014-09-13 19:32:27,"Allen & Son Barbeque, 6203 Millhouse Rd, Chapel Hill",35.9919659731,-79.0716934204
+3,2014-09-13 19:31:01,"Brick Pit, 5456 Old Shell Rd, Mobile",30.689875,-88.16887
+4,2014-09-13 19:24:22,"Stachowskis Deli, 1421 37th St NW, Washington",38.9109381541,-77.0842450756
+5,2014-09-13 19:23:31,"Grace Garden, 1690 Annapolis Rd, Odenton",39.109185,-76.723846
+6,2014-09-13 19:21:50,"Paul's Wine and Spirits, 5205 Wisconsin Ave NW, Washington",38.9574148704,-77.0837447047
+7,2014-09-13 19:20:09,"Hayden's, 700 N Carolina Ave SE, Washington",38.8903615485,-76.993813291
+8,2014-09-13 19:19:15,"Schneiders of Capitol Hill, 300 Massachusetts Ave NE, Washington",38.8946149437,-77.0015243297
+9,2014-09-13 19:17:29,"Lunchbox, 5335 Wisconsin Ave NW, Washington",38.960495808,-77.0850263033
+10,2014-09-13 19:16:07,"Suitsupply, 2828 Pennsylvania Ave NW, Washington",38.9050434129,-77.0578939341
+11,2014-09-13 19:13:44,"Whitlow's on Wilson, 2854 Wilson Blvd, Arlington",38.8886236094,-77.0928937197
+12,2014-09-13 19:10:38,"The Front Page, 1333 New Hampshire Ave NW, Washington",38.9086904794,-77.0441090026
+13,2014-09-13 19:09:58,"Penn Social, 801 E St NW, Washington",38.8962114816,-77.0231193799
+14,2014-09-13 19:09:02,"Cafe Of India, 4909 Wisconsin Ave NW, Washington",38.95385835,-77.081876
+15,2014-09-13 19:08:01,"Del Campo, 777 I St NW, Washington",38.9010258206,-77.0226493478
+16,2014-09-13 19:03:25,"Range, 5335 Wisconsin Ave NW, Washington",38.960566039,-77.0849701001
+17,2014-09-13 19:01:58,"Thai X-ing, 515 Florida Ave NW, Washington",38.9150969932,-77.0191155881
+18,2014-09-13 18:57:30,"Fast Gourmet, 1400 W St NW, Washington",38.9190607734,-77.0324816626
+19,2014-08-30 23:08:04,"Buffalo Billiards, 1330 19th St NW, Washington",38.9084418967,-77.0437127352
+20,2014-08-30 23:04:58,"Madras Palace Vegetarian, 8839 Greenbelt Rd, Greenbelt",38.991011,-76.855141
+21,2014-08-30 23:04:10,"Jaipur Royal Indian Cuisine, 9401 Lee Hwy Ste 105, Fairfax",38.86833833,-77.27113
+22,2014-08-30 23:03:37,"Chicken and Rice, 819 H St NE, Washington",38.9000995793,-76.9940045262
+23,2014-08-30 23:01:34,"Wiseguy NY Pizza, 300 Massachusetts Ave NW, Washington",38.8996084751,-77.0159626007
+24,2014-08-30 23:00:02,"Room 11, 3234 11th St NW, Washington",38.930609,-77.02809
+25,2014-08-30 22:59:33,"Mi Cuba Cafe, 1424 Park Rd NW, Washington",38.9304580467,-77.0337080956
+26,2014-08-30 22:58:01,"Dreamland BBQ, 5535 15th Ave E, Tuscaloosa",33.1565207583,-87.5167790546
+27,2014-08-30 22:56:34,"Saw's BBQ, 1008 Oxmoor Rd, Homewood",33.4738181242,-86.8083258793
+28,2014-08-30 22:55:25,"Smitty's Market, 208 S Commerce St, Lockhart",29.8835498388,-97.6707735836
+29,2014-08-30 22:54:02,"Black's Barbecue, 215 N Main St, Lockhart",29.8861038475,-97.672691991
+30,2014-08-30 22:51:33,"Harold Black, 212 7th St SE, Washington",38.8868153082,-76.9960124773
+31,2014-08-30 22:48:25,"Quill, 1200 16th St NW, Washington",38.906036,-77.0366062
+32,2014-08-30 22:47:02,"Shake Shack, 50 Massachusetts Avenue NE, Washington",38.8972730522,-77.0065691426
+33,2014-08-30 22:45:33,"Ethiopic, 401 H St NE, Washington",38.900105,-77.000411
+34,2014-08-30 22:43:51,"District Taco, 1309 F St NW, Washington",38.8975460719,-77.0300978422
+35,2014-08-30 22:43:13,"Ted's Bulletin, 505 8th St SE, Washington",38.8823475702,-76.9951379299
+36,2014-08-30 22:42:33,"The Pretzel Bakery, 257 15th St SE, Washington",38.8854268868,-76.9838855225
+37,2014-08-30 22:39:23,"Acqua Al 2, 212 7th St SE, Washington",38.8868448282,-76.9959667325
+38,2014-08-30 22:37:40,"Bazaar Spices, 1309 5th St NE, Washington",38.9084399521,-76.9975423227
+39,2014-08-30 22:36:57,"Harvey's Market, 1309 5th St NE, Washington",38.9084437607,-76.9975029519
+40,2014-08-30 22:34:54,"Dulcinea Bar and Grill, 2618 Georgia Ave NW, Washington",38.9247382036,-77.022663899
+41,2014-08-30 22:33:48,"Matchbox Vintage Pizza Bistro, 521 8th St SE, Washington",38.8821275872,-76.9952025514
+42,2014-08-30 22:32:36,"barmini by Jos Andrs, 501 9th St NW, Washington",38.8960597685,-77.0234513283
+43,2014-08-30 22:31:21,"Rappahanock Oyster Bar, 1309 5th St NE, Washington",38.9084502337,-76.9974917031
+44,2014-08-30 22:30:05,"Sax, 734 11th St NW, Washington",38.8993107622,-77.0270836781
+45,2014-08-30 22:28:48,"P & C Market, 1023 E Capitol St SE, Washington",38.8896262344,-76.9915128207
+46,2014-08-30 22:27:13,"Ambar Balkan Cuisine, 523 8th St SE, Washington",38.8820823097,-76.9951800534
+47,2014-08-30 22:26:04,"Hugh & Crye, 300 Tingey St SE, Washington",38.874990075,-77.001248743
+48,2014-08-30 22:25:12,"Lost Society, 2001 14th St NW, Washington",38.9170964309,-77.031739454
+49,2014-08-30 22:24:22,"Black Jack, 1612 14th St NW, Washington",38.9116483927,-77.032358
+50,2014-08-30 22:22:16,"Sanphan Thai Cuisine, 653 Pennsylvania Ave SE, Washington",38.8848184167,-76.996523
+51,2014-08-30 22:19:28,"Sauf Haus Bier Hall & Garden, 1216 18th St NW, Washington",38.9063442673,-77.0419478416
+52,2014-08-30 22:18:14,"Capitol Lounge, 229 Pennsylvania Ave SE, Washington",38.8870771673,-77.0023679584
+53,2014-08-30 22:17:07,"Jumbo Jumbo Bubble Tea Express, 765 Rockville Pike, Rockville",39.077382,-77.141516
+54,2014-08-30 22:16:06,"Dumplings & Beyond, 2400 Wisconsin Ave NW, Washington",38.9212469883,-77.0722112789
+55,2014-08-30 22:14:41,"Boundary Road Restaurant, 414 H St NE, Washington",38.9002846999,-76.999808933
+56,2014-08-30 22:13:29,"Laliguras Indian & Nepali Bistro, 4221 Connecticut Ave NW Ste B, Washington",38.9435388317,-77.0631724936
+57,2014-08-30 22:12:38,"Barrel, 613 Pennsylvania Ave SE, Washington",38.8852964378,-76.997778547
+58,2014-08-30 22:12:05,"We, The Pizza, 305 Pennsylvania Ave SE, Washington",38.8866402238,-77.0017012954
+59,2014-08-30 22:11:04,"KaftaMania, Moving Target (Check Twitter for current location), Arlington",38.8980816082,-77.0281126875
+60,2014-08-30 22:09:11,"Yosak, 4712 Wisconsin Ave NW, Washington",38.9516045046,-77.0811425958
+61,2014-05-24 03:23:03,"Dominican Joe Coffee Shop, 515 S Congress Ave, Austin",30.2561209428,-97.746272278
+62,2014-04-22 09:02:13,"Sushi Capitol, 325 Pennsylvania Ave SE, Washington",38.886725,-77.001118
+63,2014-04-14 04:55:45,"Taqueria Juquilita, 1445 Park Rd NW, Washington",38.9306874597,-77.0341459926
+64,2014-04-03 01:16:19,"Red Apron Butchery, 709 D St NW, Washington",38.8948936462,-77.0224990845
+65,2014-02-24 02:00:16,"Stachowski Market & Deli, 1425 28th St NW, Washington",38.9092517112,-77.0569467545
+66,2013-12-30 09:07:04,"Right Proper Brewing Company, 624 T St NW, Washington",38.9154022427,-77.0213645697
+67,2013-12-18 15:20:33,"Bluejacket Brewery, 300 Tingey St SE, Washington",38.8751640959,-77.00079318
+68,2013-12-18 15:12:38,"Mockingbird Hill, 1843 7th St NW, Washington",38.9151810248,-77.0217266679
+69,2013-12-18 15:10:50,"Estadio, 1520 14th St NW, Washington",38.9103193325,-77.0320655766
+70,2013-12-18 15:08:47,"Wisdom, 1432 Pennsylvania Ave SE, Washington",38.879973,-76.984323
+71,2013-12-18 15:06:57,"Hank's Oyster Bar, 633 Pennsylvania Ave SE, Washington",38.8849625033,-76.9972611025
+72,2013-12-03 20:02:39,"El Tejano, Honduras 4416, Buenos Aires",-34.5927,-58.4246
+73,2013-11-21 10:48:55,"Rose's Luxury, 717 8th St SE, Washington",38.8807121118,-76.9951688044
+74,2011-05-26 04:29:43,"Toki Underground, 1234 H St NE, Washington",38.9003766423,-76.9890359044
+75,2010-01-10 01:03:44,"Rose Bowl Stadium, 1001 Rose Bowl Dr, Pasadena",34.16087408,-118.167554328
+76,2009-12-26 07:57:50,"Obelisk, 2029 P St NW, Washington",38.9097526227,-77.0462930202
+77,2009-12-26 07:54:23,"Cava Mezze, 527 8th St SE, Washington",38.8818402015,-76.9951942563
+78,2009-12-26 07:53:32,"Matchbox Vintage Pizza Bistro, 713 H St NW, Washington",38.8999612485,-77.0225957036
+79,2009-12-26 07:50:42,"The Salt Lick, 18300 Farm to Market Rd 1826, Driftwood",30.131654089,-98.0134026561
+80,2009-12-26 07:48:54,"The Mansion on O Street, 2020 O St NW, Washington",38.908492,-77.045782
+81,2009-12-26 07:44:16,"Russia House Restaurant & Lounge, 1800 Connecticut Ave NW, Washington",38.9144067568,-77.0461589098
+82,2009-12-26 07:43:20,"Proof, 775 G St NW, Washington",38.8984846311,-77.0227201313
+83,2009-12-26 07:41:20,"Stoney's Restaurant, 1433 P St NW, Washington",38.9097901909,-77.0333057642
+84,2009-12-26 07:40:15,"Poste Moderne Brasserie, 555 8th St NW, Washington",38.8966233984,-77.0225071907
+85,2009-12-26 07:39:29,"Mangialardo & Sons, 1317 Pennsylvania Ave SE, Washington",38.881170924,-76.987822978
+86,2009-12-26 07:38:24,"PX, 728 King St, Alexandria",38.8050898082,-77.0480793715
+87,2009-12-26 07:37:23,"Restaurant Eve, 110 S Pitt St, Alexandria",38.8041233439,-77.0449073572
+88,2009-12-20 15:38:40,"Lincoln Park, East Capitol St, Washington",38.8898711005,-76.9902135139
+89,2009-12-20 06:13:11,"La Tasca - Penn Quarter, 722 7th St NW, Washington",38.8992014265,-77.0221289992

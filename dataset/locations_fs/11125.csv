@@ -1,0 +1,106 @@
+,time,poi,latitude,longitude
+0,2015-07-12 16:16:00,"Pete's Caf, Plaza, Avalon",33.343109,-118.326559
+1,2015-06-29 02:00:43,"Mary's Market & Canyon Cafe, 561 Woodland Dr, Sierra Madre",34.171061486,-118.043849766
+2,2015-06-29 01:57:34,"Omar's Pizza, 411 E Huntington Dr, Arcadia",34.140643,-118.021202
+3,2015-05-21 00:33:04,"Sala Rattanakosin, 39 Maha Rat Rd, 1e2330190423",13.7452706031,100.490862792
+4,2015-05-14 06:08:00,"Bonsai, R. da Rosa, 248, Lisboa",38.7153329,-9.1461056
+5,2015-05-12 23:02:37,"Delmare, Praia do Rouxinol, Costa de Caparica",38.6104791914,-9.21427996759
+6,2015-05-12 01:41:04,"O Cardo, Av. Fontes Pereira de Melo, 3C, Lisboa",38.7276021213,-9.14832591052
+7,2015-05-11 21:20:11,"A Padaria Portuguesa, P. Lus de Cames, 44, Lisboa",38.7107522598,-9.14319115586
+8,2015-05-09 19:34:42,"Bjarins Beztu Pylsur, Tryggvagata 1, Reykjavk",64.1482706711,-21.9379280169
+9,2015-05-08 15:39:20,"Keflavik International Airport (KEF), Keflavkurflugvelli, Reykjanesbr",63.9911706293,-22.6229095459
+10,2015-03-22 06:44:16,"Tournament Park, S Wilson Ave, Pasadena",34.1330564282,-118.125330314
+11,2014-10-26 10:52:56,"Hamakua Macadamia Nut Company, 61-3251 Maluokalani St, Kamuela",20.0494198509,-155.835863292
+12,2014-10-25 09:24:07,"Scandinavian Shave Ice, 75-5699 Alii Dr, Kailua",19.639951,-155.994650517
+13,2014-08-18 10:08:48,"Wascowash Coin Laundry, 404 W Foothill Blvd, Monrovia",34.150898,-118.008074
+14,2014-05-07 09:36:04,"Lee's Sandwiches, 5201 E Washington Blvd, Commerce",34.0029839271,-118.167028717
+15,2014-02-20 23:34:00,"Palms Family Restaurant, 1717 S Grand Ave, Glendora",34.1082369801,-117.872679793
+16,2014-01-31 10:25:42,"Du-par's, 214 S Lake Ave, Pasadena",34.1422254357,-118.131849117
+17,2014-01-27 08:49:10,"Fatburger, 11275 Venice Blvd, Los Angeles",34.0118775794,-118.419564832
+18,2014-01-27 08:48:42,"Fatburger, 11275 Venice Blvd, Los Angeles",34.0118775794,-118.419564832
+19,2014-01-19 01:18:09,"K C Donuts, 838 E Mission Rd, San Gabriel",34.090276,-118.089344
+20,2013-11-30 01:59:14,"Harbour's Edge, 401 E Linton Blvd, Delray Beach",26.4400474165,-80.0682394153
+21,2013-10-27 07:41:31,"Indian Wells Brewing Co., 2565 State Highway 14, Inyokern",35.667541,-117.87275533
+22,2013-10-27 05:21:36,"Shell, 102 Pearson Rd, Pearsonville",35.7985748724,-117.871850005
+23,2013-10-13 22:43:18,"La Petite Ferme, La Petite Ferme Wine Estate, Franschhoek Pass Road, Franschhoek",-33.929131,18.411907
+24,2013-10-13 22:40:25,"Fairview Wine and Cheese, Suid-Agter-Paarl Rd, Paarl",-33.7724944928,18.9235907793
+25,2013-10-01 18:36:59,"Federal Air Lounge, OR Thambo International Airport (JNB), Kempton Park",-26.120471,28.245913
+26,2013-10-01 00:43:07,"O. R. Tambo International Airport (JNB), R21, Kempton Park",-26.1328047592,28.232395649
+27,2013-09-23 04:40:09,"Point Mugu State Park, 9000 Pacific Coast Hwy, Malib",34.075647365,-119.021559406
+28,2013-09-22 01:54:53,"Eastside Market Italian Deli, 1013 Alpine St, Los Angeles",34.0651120252,-118.2466178
+29,2013-02-01 06:55:05,"Fletcher Bowron Square, Temple St, Los Angeles",34.0541298604,-118.241112751
+30,2012-12-24 02:16:32,"Molly Brown's Country Cafe, 13778 Hesperia Rd, Victorville",34.5013116035,-117.294755381
+31,2012-11-25 01:11:28,"Bryant Park, E 42nd St, New York",40.7539968725,-73.9840445867
+32,2012-08-20 07:50:54,"Shanghai No. 1 Seafood Village, 250 W Valley Blvd, San Gabriel",34.0789062188,-118.103389414
+33,2012-08-04 11:26:29,"N'ice Cream, 1410 Abbot Kinney Blvd, Los Angeles",33.9907,-118.465821
+34,2012-07-08 14:13:54,"El Galleon, 411 Crescent Ave., Avalon",33.3435901525,-118.32574755
+35,2012-06-11 11:53:14,"Rey's Pizza, 1019 Ocean Front Walk, Los Angeles",33.989639,-118.475999
+36,2012-05-29 01:26:19,"Savannah Cemetery, 9263 Valley Boulevard, Rosemead",34.082767806,-118.067791133
+37,2012-05-20 06:30:27,"Taco Deli, 456 Foothill Blvd, La Caada Flintridge",34.19884615,-118.188447
+38,2012-05-05 15:37:44,"Howlin' Wolf Den, 925 S. Peters, New Orleans",29.9429389639,-90.065929392
+39,2012-03-10 05:57:02,"Noodle World, 24 W Colorado Blvd, Pasadena",34.145831,-118.151023
+40,2012-03-03 11:30:02,"Westside Pavillion Bridge, Pico, Los Angeles",34.0399462617,-118.428486752
+41,2012-01-19 13:34:00,"The Hollywood Improv, 8162 Melrose Ave, Los Angeles",34.083595,-118.367404
+42,2012-01-01 06:49:20,"Costco Wholesale, 13463 Washington Blvd, Marina del Rey",33.9930424562,-118.446500274
+43,2011-12-15 13:53:14,"Howl at the Moon, 1000 Universal Studios Blvd, Universal City",34.1361223954,-118.353631496
+44,2011-12-14 01:31:30,"Wells Fargo, 6245 Wilshire Blvd, Los Angeles",34.063672289,-118.36484313
+45,2011-12-04 22:28:54,"Bourbon Coffee, KN 4 Ave, Kigali",-1.94541383028,30.0614541994
+46,2011-11-29 02:13:28,"Backpackers Hostel, Nateete Street, Kampala",0.307451226534,32.5510315778
+47,2011-10-16 23:49:50,"Benan Cyber Cafe, Moi Avenue, Nairobi",-1.28261104379,36.824208498
+48,2011-10-12 14:01:37,"Duty Free, Terminal 3, 2f284a",25.2480952025,55.3613229648
+49,2011-10-03 20:46:42,"The Health Club, 3720 W Robinson St, Norman",35.2309102898,-97.4965355752
+50,2011-10-02 10:54:53,"Kiva RV Park, 1416 E Route 66 Blvd, Tucumcari",35.1712115102,-103.708744008
+51,2011-09-29 23:23:44,"LA Fitness, 3233 E Camelback Rd, Phoenix",33.5085321935,-112.012021204
+52,2011-09-27 06:48:19,"Freebirds World Burrito, 879 Embarcadero del Norte, Isla Vista",34.4132738417,-119.855604172
+53,2011-09-26 05:30:10,"Union Station, 800 N Alameda St, Los Angeles",34.0560451312,-118.235670344
+54,2011-09-10 12:57:36,"Universal CityWalk, 100 Universal City Plz, Universal City",34.1363370906,-118.352897796
+55,2011-09-08 12:12:19,"The Tap, 4599 Main St, Mammoth Lakes",37.6480707906,-118.974409409
+56,2011-08-20 09:35:53,"Zephyr Field, 6000 Airline Dr, Metairie",29.9752713753,-90.2002000809
+57,2011-08-19 13:05:19,"Venice Art Crawl, 23 Windward Ave, Venice",33.9873557484,-118.471857359
+58,2011-08-04 11:30:29,"Osteria Mamma, 5732 Melrose Ave, Los Angeles",34.083383,-118.324677
+59,2011-07-30 16:11:43,"The Cosmopolitan of Las Vegas, 3708 Las Vegas Blvd S, Las Vegas",36.1097609506,-115.17383078
+60,2011-07-30 11:49:56,"New York-New York Hotel & Casino, 3790 Las Vegas Blvd S, Las Vegas",36.1018028639,-115.174010266
+61,2011-07-29 04:26:31,"House Of Trophies And Awards, 1820 E 1st St, Los Angeles",34.047077832,-118.219016537
+62,2011-05-19 18:49:13,"John F. Kennedy International Airport (JFK), at JFK Access Rd, Queens",40.6443302012,-73.7831292333
+63,2011-05-18 09:40:36,"Dinah's Family Restaurant, 6521 S Sepulveda Blvd, Los Angeles",33.9803131807,-118.394867339
+64,2011-05-11 23:16:37,"Restaurant at 12th and Broadway, 999 Park Blvd, San Diego",32.7156702426,-117.15366667
+65,2011-05-04 14:27:46,"McCarran International Airport (LAS), 5757 Wayne Newton Blvd, Las Vegas",36.0836942238,-115.146628769
+66,2011-03-21 08:35:13,"Cedars-Sinai Medical Center, 8700 Beverly Blvd, West Hollywood",34.0767,-118.381
+67,2011-03-07 06:06:36,"Oakwood Secondary School, 11600 Magnolia Blvd, North Hollywood",34.1649444143,-118.384579922
+68,2011-03-05 12:12:57,"The Fonda Theatre, 6126 Hollywood Blvd, Los Angeles",34.101277683,-118.323271573
+69,2010-12-14 22:49:47,"Vince's Magical Palace of Butter, Tamarind, Los Angeles",34.097977,-118.318698
+70,2010-11-30 12:30:25,"Jack's Restaurant, 437 Main Street, Bishop",37.364255,-118.395425677
+71,2010-11-15 03:04:05,"Pink Jeep Tours Sedona, AZ, 204 North State Route 89 A, Sedona",34.8687697143,-111.761040449
+72,2010-10-24 02:40:45,"AMC Universal CityWalk 19 with IMAX, 100 Universal City Plz, Universal City",34.1364830898,-118.352509722
+73,2010-10-05 11:38:05,"Oakwood Secondary School, 11600 Magnolia Blvd, North Hollywood",34.1649444143,-118.384579922
+74,2010-09-20 00:15:18,"Tamarisk West, 1300 Tamarisk West, Rancho Mirage",33.7751239691,-116.438594516
+75,2010-08-20 04:39:08,"Venice Beach, Venice Beach, Venice",33.9877430216,-118.472855366
+76,2010-08-15 07:58:30,"Old Glory Barbershop and Tattoo, 1716 Main St Ste A, Los Angeles",33.987622,-118.470597
+77,2010-08-12 12:44:27,"The Hollywood Bowl, 2301 N Highland Ave, Los Angeles",34.1120777052,-118.338675424
+78,2010-08-04 03:21:00,"In-N-Out Burger, 922 Gayley Ave, Los Angeles",34.0630938609,-118.448097326
+79,2010-08-03 13:07:35,"Los Angeles International Airport (LAX), 1 World Way, Los Angeles",33.9433905601,-118.40419565
+80,2010-08-02 07:28:09,"Fat Cat, 75 Christopher St, New York",40.7335962446,-74.0031391382
+81,2010-08-01 00:18:37,"High Line, btwn Gansevoort & W 34th St, New York",40.7442084838,-74.006741443
+82,2010-07-31 23:52:10,"Extra Virgin, 259 W 4th St, New York",40.7354376178,-74.0032196045
+83,2010-07-31 23:51:56,"Extra Virgin, 259 W 4th St, New York",40.7354376178,-74.0032196045
+84,2010-07-23 08:58:14,"P.O.V. Rooftop Lounge and Terrace, 515 15th St NW, Washington",38.8969708845,-77.0333644351
+85,2010-06-19 14:17:40,"The Mint, 6010 W Pico Blvd, Los Angeles",34.0522505222,-118.371591568
+86,2010-06-10 12:56:00,"Jin Jiang, 11057 Santa Monica Blvd, Los Angeles",34.04820524,-118.443237
+87,2010-06-04 04:03:15,"New Japan by SushiStop, 11283 Santa Monica Blvd, Los Angeles",34.0468305344,-118.448296956
+88,2010-04-24 08:44:39,"Los Angeles International Airport (LAX), 1 World Way, Los Angeles",33.9433905601,-118.40419565
+89,2010-04-08 13:03:14,"Chipotle Mexican Grill, 5430 Topanga Canyon Blvd, Woodland Hills",34.1698786632,-118.605362177
+90,2010-03-29 09:55:11,"Marix Tex Mex, 118 Entrada Dr, Santa Monica",34.0281395377,-118.518147122
+91,2010-03-29 06:18:53,"Fruit Gallery, 1 Westminster Ave, Venice",33.988542,-118.474839
+92,2010-03-29 02:41:03,"Rae's Diner, 2901 Pico Blvd, Santa Monica",34.0249306297,-118.459646975
+93,2010-03-19 01:55:42,"Alexander MINI, 6201 S Alameda St, Los Angeles",33.9835709933,-118.237406451
+94,2010-01-14 11:40:31,"AMC Criterion 6, 1313 3rd Street Promenade, Santa Monica",34.01676,-118.4972646
+95,2009-12-14 10:18:23,"The Eli & Edythe Broad Stage, 1310 11th St, Santa Monica",34.0219331594,-118.48965168
+96,2009-12-12 08:40:20,"Deschutes Brewery Portland Public House, 210 NW 11th Ave, Portland",45.524542044,-122.681949735
+97,2009-11-23 11:50:07,"Staples Center, 1111 S Figueroa St, Los Angeles",34.0435243741,-118.267054606
+98,2009-11-11 23:37:41,"Temescal Gateway State Park, 15601 W Sunset Blvd, Pacific Palisades",34.050419341,-118.529520035
+99,2009-11-06 14:14:11,"The Mint, 6010 W Pico Blvd, Los Angeles",34.0522505222,-118.371591568
+100,2009-10-18 04:17:36,"Omni Houston Hotel, 4 Riverway, Houston",29.7613777442,-95.4593954493
+101,2009-08-09 10:33:12,"Kitchen24, 1608 N Cahuenga Blvd, Los Angeles",34.1000827779,-118.329346776
+102,2009-08-01 04:01:00,"American Red Cross Los Angeles Region, 11355 Ohio Ave, Los Angeles",34.0483747715,-118.452272415
+103,2009-07-10 09:49:02,"Animal, 435 N Fairfax Ave, Los Angeles",34.0792384655,-118.361617823
+104,2009-07-07 11:44:58,"Canal Club, 2025 Pacific Ave, Venice",33.9849990606,-118.470232487

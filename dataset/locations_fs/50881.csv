@@ -1,0 +1,102 @@
+,time,poi,latitude,longitude
+0,2016-12-06 10:51:35,"D.B.A. Barbecue, 1190 N Highland Ave NE, Atlanta",33.7871015215,-84.3556773663
+1,2016-07-01 22:02:36,"YEAH! Burger, 1168 Howell Mill Rd NW, Atlanta",33.785432,-84.412171
+2,2016-04-29 22:16:56,"Republic Social House, 437C Memorial Dr., Atlanta",33.746680871,-84.3733263016
+3,2016-04-22 22:13:53,"Blackhorse Pub and Brewery, 4429 Kingston Pike, Knoxville",35.943018554,-83.9774205938
+4,2016-04-22 22:13:37,"Aubrey's, 9208 Middlebrook Pike, Knoxville",35.9423035307,-84.095554358
+5,2016-04-04 07:45:08,"Zaxby's Chicken Fingers & Buffalo Wings, 1430 25th St NW, Cleveland",35.19071171,-84.88220893
+6,2015-04-03 10:34:53,"Pub Republic, 3120 Lakeville Hwy Ste A, Petaluma",38.23388294,-122.598590042
+7,2015-03-16 13:25:08,"In-N-Out Burger, 260 Washington St, Daly City",37.6882693515,-122.471973002
+8,2015-01-06 03:31:10,"The Lawrence, 905 Juniper St NE, Atlanta",33.7794256972,-84.3826572279
+9,2014-12-06 01:23:05,"Sweet Inspiration, 2239 Market St, San Francisco",37.7651980609,-122.431824472
+10,2014-11-06 03:13:26,"Slideways, 760 S Central Ave, Hapeville",33.6613800677,-84.4141709805
+11,2014-10-23 09:24:28,"Carolina Ale House, 9045 Kingston Pike, Knoxville",35.9128547866,-84.083387712
+12,2014-08-13 10:03:50,"Carolina Ale House, 9045 Kingston Pike, Knoxville",35.9128547866,-84.083387712
+13,2014-03-11 04:43:41,"H2O Jetski Rentals, 1617 Quivira Rd, San Diego",32.764505,-117.23788
+14,2014-02-16 04:27:37,"Lenny's Sub Shop, 9335 Kingston Pike, Knoxville",35.912836526,-84.0951919556
+15,2014-01-16 05:48:36,"Buddy's Bar-B-Q, 4401 Chapman Hwy, Knoxville",35.9338963855,-83.9058868352
+16,2013-11-08 03:56:54,"Jimmy John's, 1903 Cumberland Ave, Knoxville",35.955407441,-83.935675621
+17,2013-11-08 03:56:18,"Jimmy John's, 1903 Cumberland Ave, Knoxville",35.955407441,-83.935675621
+18,2013-11-01 21:16:35,"Starbucks, 115 Moss Grove Blvd, Knoxville",35.9103150465,-84.0916503646
+19,2013-10-29 08:53:10,"Sunspot, 2200 Cumberland Ave, Knoxville",35.9537095607,-83.9391624928
+20,2013-09-25 07:30:58,"Buddy's Bar-B-Q, 8402 Kingston Pike, Knoxville",35.9225908558,-84.0593616664
+21,2013-09-05 13:09:20,"Sprouts Farmers Market, 1011 N San Fernando Blvd, Burbank",34.1869647368,-118.31875205
+22,2013-08-19 01:08:41,"Trio Cafe, 13 Market Sq, Knoxville",35.9650790306,-83.9197803258
+23,2013-08-19 00:54:44,"Pete's Coffee Shop, 540 Union Ave, Knoxville",35.9640854875,-83.9209646957
+24,2013-08-16 07:12:11,"The Home Depot, 9361 Kingston Pike, Knoxville",35.9114667374,-84.0953326056
+25,2013-08-13 05:37:51,"Skydeck Chicago, 233 S Wacker Dr, Chicago",41.8785266088,-87.6361124595
+26,2013-08-09 23:31:47,"Pete's Coffee Shop, 540 Union Ave, Knoxville",35.9640854875,-83.9209646957
+27,2013-08-05 04:48:00,"Poblanos Mexican Cuisine, 551 River St, Chattanooga",35.0608162482,-85.3038036866
+28,2013-07-23 09:56:21,"Pure Taqueria, 300 N Highland Ave NE, Atlanta",33.7629736143,-84.3582093716
+29,2013-07-19 23:23:39,"Georgia Hand, Shoulder, and Elbow, 1819 Peachtree Rd NE, Atlanta",33.804693,-84.39296
+30,2013-07-19 23:05:20,"Georgia Hand, Shoulder, and Elbow, 1819 Peachtree Rd NE, Atlanta",33.804693,-84.39296
+31,2013-07-18 21:59:11,"SportsClips, 123 N Peters Rd, Knoxville",35.9133754154,-84.0826088393
+32,2013-06-12 10:12:01,"Cafeteria, 119 7th Ave, New York",40.7405760411,-73.9982024607
+33,2013-05-27 11:55:26,"Dewey Destin's Harborside, 202 Harbor Blvd, Destin",30.3935056611,-86.507508376
+34,2013-05-26 12:35:52,"Crab Trap, 3500 Scenic Highway 98, Destin",30.3804280673,-86.4087581635
+35,2013-05-24 02:27:50,"City-County Building, 400 W Main St, Knoxville",35.9604532655,-83.9168529203
+36,2013-05-18 04:25:48,"Sunspot, 2200 Cumberland Ave, Knoxville",35.9537095607,-83.9391624928
+37,2013-04-26 09:58:44,"Sport Clips, 2452 W Victory Blvd, Burbank",34.1841450261,-118.337699446
+38,2013-04-25 07:06:56,"Sol Food Puerto Rican Cuisine, 901 Lincoln Ave, San Rafael",37.9718486132,-122.524133605
+39,2013-04-25 07:05:07,"Sonoma County Airport Express, San Rafael Transit Center, San Rafael",37.970957,-122.523185
+40,2013-04-25 07:04:13,"Sonoma County Airport Express, San Rafael Transit Center, San Rafael",37.970957,-122.523185
+41,2013-04-24 05:42:26,"Glen Ellen Star, 13648 Arnold Dr, Glen Ellen",38.3642963801,-122.524619808
+42,2013-04-11 03:05:48,"Full Moon Cafe & Brewery, 207 Queen Elizabeth Ave, Manteo",35.9095448545,-75.6695347231
+43,2013-03-04 00:26:46,"Highland Bakery, 655 Highland Ave NE, Atlanta",33.7611763461,-84.3659609556
+44,2013-02-20 10:24:43,"Sunspot, 2200 Cumberland Ave, Knoxville",35.9537095607,-83.9391624928
+45,2013-01-20 07:53:12,"hhgregg, 11370 Parkside Dr, Knoxville",35.89895835,-84.16060567
+46,2013-01-08 02:48:53,"Dwight Kessel Metropolitan Parking Garage, 900 State St., Knoxville",35.9616386392,-83.9151719263
+47,2013-01-08 02:48:28,"Dwight Kessel Metropolitan Parking Garage, 900 State St., Knoxville",35.9616386392,-83.9151719263
+48,2012-12-25 04:21:21,"Kroger Marketplace, 9225 Kingston Pike, Knoxville",35.9133430296,-84.0888395393
+49,2012-12-19 08:37:24,"Buddy's Bar-B-Q, 8402 Kingston Pike, Knoxville",35.9225908558,-84.0593616664
+50,2012-12-13 10:15:54,"Chuy's, 9235 Kingston Pike, Knoxville",35.911893314,-84.0885816588
+51,2012-12-05 14:21:17,"Strike & Spare Family Bowl, 213 Hayfield Rd, Knoxville",35.9123185057,-84.1045062865
+52,2012-11-18 11:52:51,"Calhoun's, 6515 Kingston Pike, Knoxville",35.9322920258,-84.0118804774
+53,2012-11-17 23:44:19,"Chez Guevara, 8025 Kingston Pike, Knoxville",35.9264426974,-84.0470020911
+54,2012-11-05 22:31:32,"Best Bagels in Town & Deli, 120 S Peters Rd, Knoxville",35.912455,-84.08069405
+55,2012-11-04 10:37:54,"Smoky Mountain Brewery, 11308 Parkside Dr, Knoxville",35.8995145631,-84.1594254971
+56,2012-10-19 09:02:44,"Kroger Marketplace, 9225 Kingston Pike, Knoxville",35.9133430296,-84.0888395393
+57,2012-10-08 05:01:07,"Knoxville Wholesale Furniture, 7428 Kingston Pike, Knoxville",35.9284788939,-84.0334266934
+58,2012-09-12 20:38:21,"Starbucks, 11038 Parkside Dr, Knoxville",35.902066,-84.150789
+59,2012-09-08 10:47:04,"Soccer Taco, 6701 Kingston Pike, Knoxville",35.93232878,-84.0134650469
+60,2012-09-01 01:08:02,"Chipotle Mexican Grill, 1701 Cumberland Ave, Knoxville",35.956631,-83.932644
+61,2012-08-17 08:17:18,"Chuy's, 9235 Kingston Pike, Knoxville",35.911893314,-84.0885816588
+62,2012-07-07 00:38:58,"Ashley Furniture HomeStore, 11051 Turkey Dr, Knoxville",35.9033341,-84.15200651
+63,2012-06-30 02:09:09,"MegaBus Station, 301 E Church Ave, Knoxville",35.964867,-83.914532
+64,2012-06-14 09:47:10,"Pei Wei, 11301 Parkside Dr. Suite 1200, Knoxville",35.9003851203,-84.1584923014
+65,2012-04-22 05:21:57,"International Tile, 12555 Sherman Way, North Hollywood",34.2012686821,-118.406899906
+66,2012-04-20 12:52:43,"In-N-Out Burger, 3640 Cahuenga Blvd W, Los Angeles",34.1350301078,-118.36060524
+67,2012-04-20 12:14:25,"24 Hour Fitness, 5300 Lankershim Blvd Ste 100, North Hollywood",34.1674655017,-118.375461651
+68,2012-04-01 02:06:39,"Bank Of America, 9375 Kingston Pike, Knoxville",35.9112732769,-84.0933419542
+69,2012-03-27 21:58:32,"We're Cooking, 159 N Peters Rd, Knoxville",35.9148502675,-84.0831273794
+70,2012-03-27 02:36:13,"Build a Green Bakery, 223 1st Ave Apt 1, New York",40.7308847117,-73.9828910211
+71,2012-03-25 05:34:42,"Sport Clips, 2452 W Victory Blvd, Burbank",34.1841450261,-118.337699446
+72,2012-03-22 04:39:42,"Union Square Greenmarket, 1 Union Sq W, New York",40.7365269713,-73.9905595779
+73,2012-02-05 10:15:21,"Pizzeria Amici, 220B Marine Ave, Newport Beach",33.6069872042,-117.889824091
+74,2012-02-02 03:26:08,"Manhattan Bagel, 12046 Ventura Blvd, Studio City",34.14327377,-118.394049
+75,2012-01-10 02:07:12,"AirBART, 1 Airport Dr, Oakland",37.7133560753,-122.212190618
+76,2012-01-08 06:06:38,"Spotless Green Cleaners, 11050 Ventura Blvd, Studio City",34.140789,-118.371769
+77,2011-11-18 03:41:18,"Einstein Bros Bagels, 4626 S Maryland Pkwy, Las Vegas",36.10570884,-115.1369373
+78,2011-11-05 09:42:56,"Nama Sushi Bar, 5130 Kingston Pike, Knoxville",35.9384784363,-83.9885701493
+79,2011-10-13 10:10:12,"California Chicken Cafe, 15601 Ventura Blvd, Encino",34.1551641164,-118.473365307
+80,2011-09-18 06:10:52,"Baskin-Robbins, 10941 Ventura Blvd, Studio City",34.1403787221,-118.369121936
+81,2011-09-11 00:09:14,"Starbucks, 10965 Ventura Blvd, Studio City",34.140479,-118.369491
+82,2011-08-09 12:39:52,"Trader Joe's, 11976 Ventura Blvd, Studio City",34.1431541585,-118.393246956
+83,2011-08-07 11:51:21,"The Habit Burger Grill, 4770 Lankershim Blvd., North Hollywood",34.15750924,-118.3693166
+84,2011-08-07 11:50:07,"The Habit Burger Grill, 4770 Lankershim Blvd., North Hollywood",34.15750924,-118.3693166
+85,2011-08-05 08:17:06,"Sport Clips, 2452 W Victory Blvd, Burbank",34.1841450261,-118.337699446
+86,2011-08-01 03:46:28,"Hot Cookie, 407 Castro St, San Francisco",37.7622949415,-122.435004115
+87,2011-08-01 03:46:04,"Hot Cookie, 407 Castro St, San Francisco",37.7622949415,-122.435004115
+88,2011-07-25 09:46:16,"Little Tokyo Ice Cream & Frozen Yogurt, 351 E 2nd St #133, Los Angeles",34.0490019122,-118.240530256
+89,2011-07-23 07:14:13,"Smog Experts, 11338 Burbank Blvd, North Hollywood",34.171821,-118.377535343
+90,2011-07-22 13:43:50,"In-N-Out Burger, 3640 Cahuenga Blvd W, Los Angeles",34.1350301078,-118.36060524
+91,2011-07-22 13:40:05,"Denny's, 11377 Burbank Blvd, North Hollywood",34.17238787,-118.378718868
+92,2011-03-09 07:05:29,"24 Hour Fitness, 15301 Ventura Blvd, Sherman Oaks",34.154714683,-118.467021219
+93,2011-02-20 03:25:14,"Starbucks, 10965 Ventura Blvd, Studio City",34.140479,-118.369491
+94,2010-12-30 04:21:10,"US Post Office, 3950 Laurel Canyon Blvd, Studio City",34.1422939991,-118.394551277
+95,2010-12-14 09:17:29,"United States Post Office22, 11304 Chandler Blvd, Los Angeles",34.1679959329,-118.377715588
+96,2010-04-01 13:58:54,"Artichoke Basille19s Pizza & Brewery, 328 E 14th St, New York",40.7318442507,-73.9838647842
+97,2010-02-10 06:56:33,"Best Buy, 1501 N Victory Pl, Burbank",34.18926333,-118.3274746
+98,2009-11-07 01:43:26,"McDonald's, 541 Avenue of the Americas, New York",40.7377266865,-73.9965152781
+99,2009-10-24 12:01:51,"Hard Times Cafe, 3028 Wilson Blvd, Arlington",38.8874357801,-77.0950750245
+100,2009-10-06 10:47:49,"Spa Castle, 13110 11th Ave, College Point",40.7876633917,-73.8368550378

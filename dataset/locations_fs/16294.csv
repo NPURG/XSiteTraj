@@ -1,0 +1,57 @@
+,time,poi,latitude,longitude
+0,2015-09-12 09:34:08,"One Girl Cookies, 68 Dean St, Brooklyn",40.6874395939,-73.9903771877
+1,2015-09-12 09:24:37,"Southampton Social Club, 256 Elm St, Southampton",40.8948269225,-72.3881407736
+2,2015-09-12 09:21:49,"GG's NYC, 511 E 5th St, New York",40.7247089285,-73.9839068478
+3,2015-09-12 09:19:53,"Faro, 436 Jefferson St, Brooklyn",40.7075187763,-73.9230051794
+4,2015-09-12 09:17:57,"PJ's Family Restaurant, 2616 State Hwy Rte 6, Wellfleet",41.9353916346,-70.0204328332
+5,2015-09-12 09:13:22,"Four & Twenty Blackbirds, 439 3rd Ave, Brooklyn",40.6720862645,-73.9903235435
+6,2015-08-13 09:37:14,"Bacon And Eggs, Walla Walla, 503 E Main St, Walla Walla",46.071538,-118.333868
+7,2014-03-24 23:10:57,"Pche, 800 Magazine St, New Orleans",29.9452017366,-90.0692045494
+8,2014-03-24 12:59:14,"Bacchanal Wine, 600 Poland Ave, New Orleans",29.9598688918,-90.0333891577
+9,2014-03-24 12:56:51,"Greg19s Antiques, 1209 Decatur St, New Orleans",29.96096199,-90.059179
+10,2014-03-24 12:54:34,"Booty's Street Food, 800 Louisa St, New Orleans",29.96412904,-90.0435399136
+11,2014-03-24 12:53:52,"Spitfire Coffee, 627 Saint Peter St, New Orleans",29.9578324297,-90.0644266605
+12,2014-03-24 12:52:51,"Erin Rose, 811 Conti St, New Orleans",29.9564,-90.06795349
+13,2014-03-24 12:51:52,"Killer Po-boys, 811 Conti St, New Orleans",29.9564677449,-90.0679957193
+14,2014-03-24 12:51:03,"Siberia, 2227 Saint Claude Ave, New Orleans",29.968911,-90.055884
+15,2014-03-24 12:49:52,"La Petite Grocery, 4238 Magazine St, New Orleans",29.920891,-90.100124
+16,2014-03-24 12:47:52,"Bar Tonique, 820 N Rampart St, New Orleans",29.9616627717,-90.0673890377
+17,2014-03-24 12:45:51,"Buffa's Lounge, 1001 Esplanade Ave, New Orleans",29.9654200141,-90.0625587348
+18,2014-02-22 10:32:57,"Duo Bistro, 50 John St, Kingston",41.9338722573,-74.0199910309
+19,2014-02-22 10:27:36,"eat., 707 E Carson Ave, Las Vegas",36.1669933619,-115.139008548
+20,2014-02-22 10:25:22,"Petite Crevette, 144 Hicks St., Brooklyn",40.6837279947,-74.0016915533
+21,2014-02-22 10:23:21,"Mission Cantina, 172 Orchard St, New York",40.7215142721,-73.9884084463
+22,2013-11-03 00:03:35,"Franny's, 348 Flatbush Ave, Brooklyn",40.6761055159,-73.9716821358
+23,2013-11-02 23:56:16,"Stony Hill Farm Corn Maze, 15 North Rd, Chester",40.7907301991,-74.679829705
+24,2013-05-03 07:34:04,"Colonie, 127 Atlantic Ave, Brooklyn",40.6906896199,-73.9959159493
+25,2013-05-03 07:29:51,"Buttermilk Channel, 524 Court St, Brooklyn",40.6759126367,-73.9990403078
+26,2013-05-03 07:27:18,"Lucali, 575 Henry St, Brooklyn",40.6819,-74.000471
+27,2013-05-03 07:25:59,"Battersby, 255 Smith St, Brooklyn",40.6831840552,-73.9928826201
+28,2013-05-01 11:56:50,"Kings County Distillery, Brooklyn Navy Yard, bldg 121, Brooklyn",40.69952775,-73.979165554
+29,2013-05-01 11:42:35,"Red Hook Winery, Pier 41, Brooklyn",40.6766612815,-74.0189008007
+30,2013-05-01 11:36:07,"juice press, 1050 3rd Ave, New York",40.763318858,-73.9651390132
+31,2013-05-01 11:31:50,"Lavender Lake, 383 Carroll St, Brooklyn",40.6785551094,-73.9897549152
+32,2013-05-01 11:27:35,"Taboonette, 30 E 13th St, New York",40.7346537042,-73.9927334099
+33,2013-05-01 11:23:10,"Runner & Stone, 285 3rd Ave, Brooklyn",40.6772947653,-73.9861508302
+34,2013-02-20 08:26:48,"Blue Moon Mexican Cafe, 23 E Palisade Ave, Englewood",40.89364071,-73.974124
+35,2013-02-20 08:23:51,"Leatherheads Sports Bar & Grill, 12101 South Outlet Drive, Draper",40.5303876118,-111.889314651
+36,2013-02-20 08:21:55,"Cucina Toscana, 307 W Pierpont Ave, Salt Lake City",40.7632238647,-111.899893465
+37,2013-02-20 08:18:51,"Taboonette, 30 E 13th St, New York",40.7346537042,-73.9927334099
+38,2012-12-17 10:40:42,"James, 605 Carlton Ave, Brooklyn",40.6790534692,-73.9715963602
+39,2012-10-31 12:29:53,"Commonwealth, 497 5th Ave, Brooklyn",40.6673492298,-73.987734802
+40,2012-10-05 13:41:45,"Nopi, 21-22 Warwick St, London",51.5116439371,-0.138460012722
+41,2012-10-05 13:40:14,"The Wells, 30 Well Walk, Hampstead",51.55857,-0.173783
+42,2012-10-05 13:36:56,"Rosemary and Thyme, 382 Spring St, Newport",41.4802780893,-71.312276349
+43,2012-10-05 13:32:44,"Saratoga Farmers Market, High Rock Ave., Saratoga Springs",43.085883728,-73.7809461182
+44,2012-10-05 13:26:16,"Eisenberg's Sandwich Shop, 174 5th Ave, New York",40.7411036869,-73.9900445938
+45,2012-10-05 13:20:14,"Mile End Delicatessen, 97A Hoyt St, Brooklyn",40.6874355261,-73.9870753884
+46,2012-10-05 13:18:08,"Jenis Splendid Ice Creams, Movable  Target, Brooklyn",40.6844283986,-73.9918553631
+47,2012-10-05 13:11:35,"Radegast Hall & Biergarten, 113 N 3rd St, Brooklyn",40.7165343771,-73.9614483645
+48,2012-10-05 13:09:42,"Woodstar Cafe, 60 Masonic St, Northampton",42.3185943248,-72.6331658331
+49,2012-09-10 02:51:44,"Lot 2, 687 6th Ave, Brooklyn",40.660796,-73.990339
+50,2012-09-10 02:50:37,"SOCARRAT Paella Bar - Nolita, 284 Mulberry St, New York",40.7246102904,-73.9951781465
+51,2012-07-26 06:50:12,"Siro's, 168 Lincoln Ave, Saratoga Springs",43.0741147811,-73.7740002064
+52,2012-07-26 06:49:03,"D'Andrea Pizza, 33 Caroline St, Saratoga Springs",43.0819282262,-73.7834337185
+53,2012-07-26 06:43:04,"Ice House, 70 Putnam St, Saratoga Springs",43.0815993201,-73.7839141488
+54,2012-07-14 02:11:38,"Fourth Avenue Pub, 76 4th Ave, Brooklyn",40.6822100939,-73.9799353365
+55,2012-07-14 01:57:46,"Calexico Carne Asada, 122 Union St, Brooklyn",40.6841487302,-74.0025651455

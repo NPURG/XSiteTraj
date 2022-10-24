@@ -1,0 +1,128 @@
+,time,poi,latitude,longitude
+0,2016-11-13 05:35:25,"Grand Ole Creamery, 4737 Cedar Ave S, Minneapolis",44.916769,-93.2469042
+1,2016-10-25 03:04:05,"Caydence Records & Coffee, 900 Payne Ave, Saint Paul",44.968293,-93.073346
+2,2016-10-22 09:27:59,"La La Homemade Ice Cream, 3146 Hennepin Avenue, Minneapolis",44.944809,-93.298179
+3,2016-10-12 00:41:09,"Owen + Alchemy, 2355 N Milwaukee Ave, Chicago",41.9239755758,-87.6991059699
+4,2016-10-11 08:08:31,"Piccolo Sogno, 464 N Halsted St, Chicago",41.8909,-87.6479
+5,2016-10-11 02:10:07,"Cafecito, 26 E Congress Pkwy, Chicago",41.8757442389,-87.6264445686
+6,2016-10-10 09:52:48,"Kuma's Corner, 2900 W Belmont Ave, Chicago",41.9394777504,-87.7003544569
+7,2016-10-10 02:26:25,"Wildberry Pancakes & Cafe, 130 E Randolph St, Chicago",41.8845991069,-87.6232033968
+8,2016-10-09 11:32:19,"Wasabi, 2115 N Milwaukee Ave, Chicago",41.9196243104,-87.691756964
+9,2016-10-09 08:46:42,"Gaslight Coffee Roasters, 2385 N Milwaukee Ave, Chicago",41.9246382413,-87.7000010525
+10,2016-10-09 05:49:40,"Chiu Quon Bakery and Dim Sum, 2253 S Wentworth Ave, Chicago",41.851358,-87.631881
+11,2016-10-01 02:20:56,"Blackeye Coffee, 3740 Chicago Ave, Minneapolis",44.93466,-93.26283
+12,2016-09-17 07:08:44,"Blackeye Coffee, 3740 Chicago Ave, Minneapolis",44.93466,-93.26283
+13,2016-09-17 06:18:59,"United Noodles and UniDeli, 2015 E 24th St, Minneapolis",44.9580653295,-93.2423071019
+14,2016-09-03 10:07:55,"Burger Jones, 3200 W Lake St, Minneapolis",44.9487809637,-93.3199689363
+15,2016-08-30 20:33:57,"Victory 44, 2203 44th Ave N, Minneapolis",45.0353483644,-93.3089172942
+16,2016-08-29 09:51:50,"Shanghai Dumpling King, 3319 Balboa St, San Francisco",37.7757605871,-122.494470924
+17,2016-08-28 10:48:36,"Saiwaii Ramen, 2240 Irving St, San Francisco",37.7634399642,-122.482228739
+18,2016-08-27 11:16:53,"Sushi Taka, 600 Kearny St, San Francisco",37.7936042239,-122.404685582
+19,2016-08-26 23:42:34,"Andytown, 3655 Lawton St, San Francisco",37.7566352645,-122.502257824
+20,2016-08-26 12:31:11,"Thanh Long, 4101 Judah St, San Francisco",37.760331,-122.506032
+21,2016-08-23 05:50:00,"Shuang Cheng, 1320 4th St SE, Minneapolis",44.9805874116,-93.2362789795
+22,2016-08-04 04:21:25,"Grand Ole Creamery, 4737 Cedar Ave S, Minneapolis",44.916769,-93.2469042
+23,2016-08-04 03:36:13,"Handsome Hog, 225 6th St E, Saint Paul",44.9495580281,-93.0890657683
+24,2016-07-14 01:37:35,"The Bulldog Lowertown, 237 6th St E, Saint Paul",44.95006526,-93.0879857479
+25,2016-07-12 21:01:51,"Sea Change, 818 S 2nd St, Minneapolis",44.9782631574,-93.2562307386
+26,2016-07-05 05:08:16,"Izumiya 44657f84, 1581 Webster St, San Francisco",37.7847605498,-122.431863181
+27,2016-07-04 09:04:27,"Fast Food Francais, 39 Caledonia St, Sausalito",37.8583195202,-122.485086299
+28,2016-07-03 11:50:09,"Pok Bar, 1355 Market St, San Francisco",37.776511156,-122.417174656
+29,2016-07-03 04:59:49,"Sushirrito, 226 Kearny St, San Francisco",37.7902978939,-122.403927782
+30,2016-07-03 01:22:13,"Sightglass Coffee, SFMOMA, San Francisco",37.7859445184,-122.400680799
+31,2016-07-01 13:23:39,"Vampire Penguin, 856 N Delaware St, San Mateo",37.5800234188,-122.333162927
+32,2016-06-05 08:21:32,"Taqueria La Hacienda, 334 E Lake St #101, Minneapolis",44.9486491421,-93.2709930492
+33,2016-04-06 07:16:20,"George & the Dragon, 813 W 50th St, Minneapolis",44.912416429,-93.2904448494
+34,2016-03-20 10:58:43,"Milkjam Creamery, 2743 Lyndale Ave S, Minneapolis",44.9524218963,-93.2880123378
+35,2015-12-17 08:36:39,"Pumphouse Creamery, 4754 Chicago Ave, Minneapolis",44.9163930833,-93.26273621
+36,2015-10-20 20:10:06,"SNAPS, rsgata 1, Reykjavk",64.1441080922,-21.9318299935
+37,2015-10-20 20:08:42,"The Coocoo's Nest, Grandagarur 23, Reykjavk",64.1533530698,-21.9485912588
+38,2015-10-20 00:23:41,"Caf Loki, Lokastgur 28, Reykjavk",64.142407,-21.9281861
+39,2015-10-19 23:54:16,"Church of Hallgrmur, Eirksgata, Reykjavk",64.1418589532,-21.926779747
+40,2015-10-19 04:03:10,"ingvellir National Park, ingvallavegur, ingvellir",64.25622868,-21.1242628098
+41,2015-10-19 04:01:12,"Gullfoss, Biskupstungnabraut, Gullfoss",64.3273836698,-20.1196045026
+42,2015-10-19 03:59:04,"Geysir, 6418""49.5""N 2017""58.0""W, Blskgabygg",64.3099499123,-20.301607482
+43,2015-10-18 05:36:19,"Valds, Grandagarur 21, Reykjavk",64.153257531,-21.9485855581
+44,2015-10-18 05:35:10,"Matur og Drykkur, Grandagarur 2, Reykjavk",64.1526776551,-21.9512616786
+45,2015-10-17 21:36:43,"Mokka-Kaffi, Sklavrustgur 3a, Reykjavk",64.1460100668,-21.9324454049
+46,2015-10-17 21:34:43,"Bjarins Beztu Pylsur, Tryggvagata 1, Reykjavk",64.1482706711,-21.9379280169
+47,2015-10-17 04:54:03,"Blue Lagoon, Bla Lni, Grindavk",63.8801741074,-22.4491453171
+48,2015-10-17 04:30:59,"Manny's Steakhouse, 826 S Marquette Ave, Minneapolis",44.9744807303,-93.272206605
+49,2015-10-16 00:42:42,"Reykjavk Roasters, Krastgur 1, Reykjavk",64.1436501767,-21.9264550951
+50,2015-09-26 10:44:12,"Riddle Room, 720 Central Ave SE Ste 102, Minneapolis",44.9894720402,-93.2533259161
+51,2015-09-23 07:01:03,"HauteDish, 119 Washington Ave N, Minneapolis",44.9831047231,-93.2710075378
+52,2015-09-23 06:59:38,"LA Fitness, 3001 Hennepin Ave Ste 2210, Minneapolis",44.9476759083,-93.2977037882
+53,2015-09-07 10:20:56,"The Bachelor Farmer, 50 2nd Ave N, Minneapolis",44.9856317223,-93.2688656437
+54,2015-09-05 00:43:48,"Pinkberry, 4000 S.W. Ct., Bloomington",44.8535873368,-93.2439827126
+55,2015-09-05 00:42:57,"Pizza Luc, 2200 E Franklin Ave, Minneapolis",44.9629859924,-93.240447998
+56,2015-08-28 22:06:07,"Revival, 4257 Nicollet Ave, Minneapolis",44.9252540959,-93.2777823682
+57,2015-08-19 09:40:28,"Bulletproof Coffee, 3110 Main St, Santa Monica",33.9974790189,-118.479213953
+58,2015-08-19 03:42:50,"Fruit Gallery, 1 Westminster Ave, Venice",33.988542,-118.474839
+59,2015-08-17 03:41:28,"Frognerparken, Kirkeveien, Oslo",59.9268935442,10.7011771202
+60,2015-08-17 03:34:06,"The Wee Chippy, 1301 Ocean Front Walk, Venice",33.9886437301,-118.474851361
+61,2015-08-16 02:57:34,"26 Beach Cafe, 3100 Washington Blvd, Marina del Rey",33.9895990073,-118.449917436
+62,2015-08-16 02:09:40,"The Pok Shack, 79 Windward Ave, Venice",33.987538191,-118.472359215
+63,2015-08-16 02:07:13,"Komodo Venice, 235 Main St, Venice",33.9971551479,-118.478786253
+64,2015-07-20 11:08:54,"Maria's Cafe, 1113 E Franklin Ave, Minneapolis",44.9627126356,-93.2575448102
+65,2015-07-20 11:08:13,"Rustica Bakery & Dogwood Coffee Bar, 3224 W Lake St, Minneapolis",44.94907213,-93.3203977346
+66,2015-06-27 20:22:14,"Koopman Fijne Vleeswaren, Elandsgracht 100, Amsterdam",52.3693180716,4.87992575282
+67,2015-06-26 15:45:51,"C.T. - Coffee & Coconuts, Ceintuurbaan 282-284, Amsterdam",52.3526878357,4.89153814316
+68,2015-06-25 01:04:29,"Shirkhan, Foodhallen, Amsterdam",52.3669867417,4.86828078056
+69,2015-06-25 01:01:00,"The Butcher, Bellamyplein 51, Amsterdam",52.3669411109,4.86808314144
+70,2015-06-24 17:15:10,"Wok to Walk, Leidsestraat 96, Amsterdam",52.3646524822,4.88360037749
+71,2015-06-24 17:14:33,"Ice Bakery by Nutella, Leidsestraat 102, Amsterdam",52.3646266201,4.88333498723
+72,2015-06-23 03:14:36,"Nobel Peace Center, Brynjulf Bulls plass 1, Oslo",59.9115891538,10.7308316231
+73,2015-06-18 16:00:51,"Tim Wendelboe, Grners gate 1, Oslo",59.9233369516,10.755572319
+74,2015-06-10 04:32:08,"Prairie Dogs Hot Dogs & Handcrafted Sausages, 610 W Lake St, Minneapolis",44.9485006382,-93.287530764
+75,2015-06-10 04:29:46,"The Lowry, 2112 Hennepin Ave, Minneapolis",44.961700681,-93.2924222946
+76,2015-05-24 09:09:38,"Matt's Bar, 3500 Cedar Ave S, Minneapolis",44.9394795405,-93.2475226257
+77,2015-04-12 09:01:35,"Namaste Cafe, 2512 Hennepin Ave, Minneapolis",44.956846,-93.296045
+78,2015-04-05 03:51:13,"Breakers, 145 Rockaway Beach Ave, Pacifica",37.6097064735,-122.496548913
+79,2015-04-03 12:17:01,"La Taqueria, 2889 Mission St, San Francisco",37.7509015677,-122.418175709
+80,2015-04-03 08:26:59,"Pica Pica Arepa Kitchen, 401 Valencia St, San Francisco",37.7665470409,-122.42199179
+81,2015-03-15 02:15:08,"Strings Ramen Shop, 2141 S Archer Ave, Chicago",41.8535746182,-87.6332836323
+82,2015-03-14 09:27:01,"Big Star, 1531 N Damen Ave, Chicago",41.909227885,-87.6772672338
+83,2015-03-13 02:26:30,"Joy Yee's Noodles, 2159 S China Pl, Chicago",41.854020085,-87.6338282072
+84,2015-03-08 22:22:30,"Isles Bun & Coffee, 1424 W 28th St, Minneapolis",44.9520629873,-93.2986966311
+85,2015-02-22 04:51:49,"Birchwood Cafe, 3311 E 25th St, Minneapolis",44.9572541419,-93.2236212738
+86,2015-02-19 09:50:10,"Cajun Deli, 8038 Brooklyn Blvd, Brooklyn Park",45.096303,-93.379755
+87,2015-01-25 04:02:14,"Agra Culture Kitchen, 2939 Girard Ave S, Minneapolis",44.9488463734,-93.2970845003
+88,2014-11-29 07:02:16,"Day Block Brewing Company, 1105 Washington Ave S, Minneapolis",44.975280271,-93.2531735301
+89,2014-11-10 22:48:22,"Blackbird, 3800 Nicollet Ave, Minneapolis",44.9340317759,-93.2780968023
+90,2014-10-15 09:00:31,"Ngon Vietnamese Bistro, 799 University Ave W, Saint Paul",44.955845,-93.133822
+91,2014-09-22 00:18:19,"The Copper Hen Cakery & Kitchen, 2515 Nicollet Ave, Minneapolis",44.9566217413,-93.2776808739
+92,2014-09-21 11:37:53,"Soho Cafe, 2532 Hennepin Ave, Minneapolis",44.9559915874,-93.296649456
+93,2014-09-15 04:47:16,"Quang Restaurant, 2719 Nicollet Ave, Minneapolis",44.9530491542,-93.2777184991
+94,2014-09-09 07:16:34,"Quang Restaurant, 2719 Nicollet Ave, Minneapolis",44.9530491542,-93.2777184991
+95,2014-08-29 08:38:45,"Arezzo Ristorante, 5057 France Ave S, Minneapolis",44.910841,-93.328862
+96,2014-08-15 04:49:42,"Plow, 1299 18th St, San Francisco",37.7626490352,-122.395442269
+97,2014-08-14 01:42:04,"Samovar Tea Lounge, 411 Valencia St, San Francisco",37.766361838,-122.421976626
+98,2014-08-13 12:29:31,"Himawari, 202 2nd Ave, San Mateo",37.5658651293,-122.323763888
+99,2014-08-12 12:21:43,"Karilagan Fine Filipino Cuisine, 1129 El Camino Real, South San Francisco",37.6566682771,-122.437380552
+100,2014-08-12 06:53:13,"Coffee Cultures, 225 Bush St, San Francisco",37.7910149696,-122.401112261
+101,2014-08-11 09:35:10,"Farmer Brown, 25 Mason St, San Francisco",37.7835314475,-122.409176952
+102,2014-08-11 08:39:18,"Farmer Brown, 25 Mason St, San Francisco",37.7835314475,-122.409176952
+103,2014-08-09 10:13:52,"India Chaat & Sweets Restaurant, 824 University Ave, Berkeley",37.8678398113,-122.297765502
+104,2014-08-07 02:57:38,"Spyhouse Coffee, 2404 Hennepin Ave, Minneapolis",44.9589088382,-93.2945626974
+105,2014-06-19 11:29:06,"Dogwood Coffee Bar, 3001 Hennepin Ave, Minneapolis",44.947341,-93.298248
+106,2014-05-30 21:05:28,"Cook St. Paul, 1124 Payne Ave, Saint Paul",44.9752368796,-93.0735273911
+107,2014-04-07 07:37:49,"Bar Bocce, 1250 Bridgeway, Sausalito",37.859559273,-122.484820997
+108,2014-04-04 00:37:55,"Dynamo Donut & Coffee, 2760 24th St, San Francisco",37.7529406662,-122.40765035
+109,2014-04-02 06:52:02,"Caff Roma, 143 El Camino Real, Millbrae",37.5965158498,-122.386571467
+110,2014-03-20 06:57:06,"TAO Natural Foods, 2200 Hennepin Ave, Minneapolis",44.960812,-93.293259
+111,2014-03-14 05:34:42,"Hong Kong Noodle, 901 Washington Ave SE, Minneapolis",44.9736667971,-93.2256344186
+112,2014-03-05 05:51:25,"Dunn Bros Coffee, 2264 Como Ave, Saint Paul",44.981592,-93.195213
+113,2014-02-01 06:47:34,"Taste Of Thailand, 7890 University Ave NE, Minneapolis",45.1112043858,-93.2644093037
+114,2014-01-22 03:31:03,"Tibet Kitchen & Bar, 1833 Nicollet Ave, Minneapolis",44.9643370269,-93.2776254601
+115,2013-12-09 12:59:56,"Malabari, 414 1/2 Cedar Ave S, Minneapolis",44.9695240713,-93.2470862265
+116,2013-10-21 06:17:12,"Pho Ca Dao, 439 University Ave W, Saint Paul",44.9559356764,-93.1186002199
+117,2013-10-09 07:08:07,"One Two Three Sushi, 318 14th Ave SE, Minneapolis",44.9801246758,-93.2358730841
+118,2013-08-01 11:01:14,"Ristorante Don Giovanni, 235 Castro St, Mountain View",37.3931412062,-122.079133987
+119,2013-08-01 10:48:01,"Ristorante Don Giovanni, 235 Castro St, Mountain View",37.3931412062,-122.079133987
+120,2013-07-31 00:58:50,"Frog Hollow Farm, 1 Ferry Building, Shop # 46, San Francisco",37.7952371543,-122.392941713
+121,2013-07-16 02:20:46,"Peace Coffee Shop, 3262 Minnehaha Ave, Minneapolis",44.943089,-93.230736
+122,2013-07-15 02:53:59,"Bonfire Wood Fire Cooking - Blaine, 4365 Pheasant Ridge Dr NE, Blaine",45.1639657958,-93.159046826
+123,2013-05-23 07:04:44,"Harry's Cafe, 20790 Keokuk Ave, Lakeville",44.6478972106,-93.2973548234
+124,2010-08-06 09:27:55,"Brunswick Zone XL Brooklyn Park, 7545 Brooklyn Boulevard, Brooklyn Park",45.091076,-93.352735
+125,2010-07-11 00:00:09,"Marcello's Pizza & Pasta, 4112 Lancaster Ln N, Plymouth",45.030889274,-93.4026217667
+126,2009-12-20 11:09:43,"Alcatraz Cruises, Pier 33 On The Embarcadero, San Francisco",37.8066306944,-122.404689789

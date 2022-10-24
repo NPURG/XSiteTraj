@@ -1,0 +1,190 @@
+,time,poi,latitude,longitude
+0,2013-10-22 08:43:13,"DoubleTree by Hilton Hotel Milwaukee Downtown, 611 W Wisconsin Ave, Milwaukee",43.0383757288,-87.9193481589
+1,2013-09-26 01:53:59,"Balance Point Massage Therapy, 4716 S Packard Ave Ste Uppr, Cudahy",42.9584410508,-87.8606125321
+2,2013-09-22 02:04:21,"Blue's Egg, 317 N 76th St, Milwaukee",43.0343138635,-88.0080406794
+3,2013-07-25 04:39:58,"Charlotte Douglas International Airport (CLT), 5501 Josh Birmingham Pkwy, Charlotte",35.2206167846,-80.9446214622
+4,2013-07-14 04:16:49,"Walvoord's Berry Farm, W2160 Smies Rd, Oostburg",43.5883014728,-87.8035428551
+5,2013-07-06 08:17:01,"Oregon Zoo, 4001 SW Canyon Rd, Portland",45.5098067741,-122.715706816
+6,2013-07-05 23:44:41,"7-Eleven, 8635 SW Barbur Blvd, Portland",45.462704,-122.703566
+7,2013-07-05 03:36:58,"Birra Pub, 18749 SW Martinazzi Ave, Tualatin",45.3845452437,-122.759714607
+8,2013-07-05 03:30:46,"Birra Pub, 18749 SW Martinazzi Ave, Tualatin",45.3845452437,-122.759714607
+9,2013-07-01 23:12:42,"Zoka Coffee Roaster & Tea Company, 2901 NE Blakeley St, Seattle",47.66607907,-122.297461
+10,2013-05-27 07:13:19,"Pizza Shuttle, 1827 N Farwell Ave, Milwaukee",43.0545777926,-87.890893255
+11,2013-05-14 05:50:43,"BloodCenter of Wisconsin, 638 N 18th St, Milwaukee",43.0379758482,-87.9349906415
+12,2013-05-04 05:13:54,"#SOBcon, 205 N. Michigan Ave., Chicago",41.8855352923,-87.6244538665
+13,2013-04-29 07:35:57,"Ashley's Que, 124 W National Ave, Milwaukee",43.023434973,-87.9121930226
+14,2013-04-28 09:02:33,"Half Price Books, 17145 W Bluemound Rd, Brookfield",43.035403514,-88.12530756
+15,2013-04-28 01:06:01,"Wheel & Sprocket, 6940 N Santa Monica Blvd, Fox Point",43.1432530903,-87.9021192945
+16,2013-04-11 09:17:12,"Gate A26, at Terminal 4, Phoenix",33.4377819587,-112.001885096
+17,2013-03-30 12:00:40,"Angelo's Piano Bar, 1684 N Van Buren Ave, Milwaukee",43.05273811,-87.9032546783
+18,2013-03-30 07:30:05,"Club Lagrow, S. Clement, Bay View",42.993561,-87.894073
+19,2013-03-17 09:12:25,"The Farmstead, W62 N238 Washington Ave, Cedarburg",43.2840964648,-87.9851752097
+20,2013-03-07 22:56:57,"Milwaukee County Courthouse, 901 N 9th St, Milwaukee",43.0413155035,-87.9239404442
+21,2013-03-02 10:14:50,"Club Charlies, 320 E Menomonee St, Milwaukee",43.0314785242,-87.906155
+22,2013-02-25 17:56:36,"The Westin O'Hare, 6100 N River Rd, Rosemont",41.9885159831,-87.8610992432
+23,2013-02-25 07:42:50,"United Airlines Ticket Counter, 5300 S Howell Ave, Milwaukee",42.948056028,-87.9021240852
+24,2013-02-25 05:01:12,"Northpoint Custard, 5300 S Howell Ave, Milwaukee",42.9479206037,-87.9021192945
+25,2013-02-22 09:07:01,"Surface Parking Lot, MKE Airport, Milwaukee",42.9462662143,-87.9039636797
+26,2013-02-09 02:46:44,"Smoke Shack, 332 N Milwaukee St, Milwaukee",43.0348156701,-87.9059085853
+27,2013-02-02 22:25:05,"Blue's Egg, 317 N 76th St, Milwaukee",43.0343138635,-88.0080406794
+28,2013-01-28 09:42:08,"Baja Tan, 8667 N Port Washington Rd, Fox Point",43.1746376533,-87.9137496256
+29,2013-01-13 08:35:59,"Noodles & Company, 8781 N Port Washington Rd, Milwaukee",43.1760373841,-87.9144057774
+30,2012-12-29 20:21:48,"Weight Watchers Brookfield, 2465 N 124th St, Brookfield",43.0628057086,-88.0675560809
+31,2012-12-29 20:08:30,"Starbucks, 151 N Mayfair Rd, Wauwatosa",43.031671844,-88.0477392317
+32,2012-12-23 23:37:47,"Sweettrio, 1225 Washington St, Grafton",43.3197674233,-87.9512019035
+33,2012-12-23 22:26:41,"Flipside Cafe and Grill, 2074 Washington St, Grafton",43.3206974904,-87.9362440109
+34,2012-12-23 08:11:21,"Martha's Vineyard, 605 S 1st St, Milwaukee",43.0250197598,-87.9114818573
+35,2012-12-23 08:10:34,"Martha's Vineyard, 605 S 1st St, Milwaukee",43.0250197598,-87.9114818573
+36,2012-12-22 22:01:40,"Blue's Egg, 317 N 76th St, Milwaukee",43.0343138635,-88.0080406794
+37,2012-12-18 11:42:03,"Taco Bell, 5560 N Port Washington Rd, Glendale",43.11806,-87.916285
+38,2012-12-11 07:15:20,"Hudson Business Lounge, 310 N  Broadway, Milwaukee",43.0340154552,-87.9070079327
+39,2012-12-11 07:14:50,"Hudson Business Lounge, 310 N  Broadway, Milwaukee",43.0340154552,-87.9070079327
+40,2012-12-10 09:06:43,"Boston Market, 5470 N Port Washington Rd, Glendale",43.1167891725,-87.9162025452
+41,2012-11-10 10:21:23,"Texas Roadhouse, 15425 Rock Ridge Rd, New Berlin",42.951267,-88.10632
+42,2012-11-01 23:10:00,"Hudson Business Lounge, 310 N  Broadway, Milwaukee",43.0340154552,-87.9070079327
+43,2012-10-27 08:55:22,"Baskin-Robbins, 8820 N Port Washington Rd, Bayside",43.17739325,-87.9126138
+44,2012-10-23 22:37:29,"Cafe at the Plaza, 1007 N Cass St, Milwaukee",43.044207,-87.902386
+45,2012-10-23 09:49:55,"Robert Haack Diamond Importers, 6969 N Port Washington Rd, Milwaukee",43.1435942428,-87.9142333589
+46,2012-10-08 09:39:59,"Burger King, 5260 N. Port Washington Road, Glendale",43.1128625249,-87.916177845
+47,2012-10-08 09:15:13,"Popeye's, 207 E Capitol Dr, Milwaukee",43.0888865018,-87.9093360901
+48,2012-10-05 20:48:20,"Colectivo Coffee, 9125 W North Ave, Wauwatosa",43.0603076361,-88.0272351399
+49,2012-09-29 19:29:15,"Weight Watchers Brookfield, 2465 N 124th St, Brookfield",43.0628057086,-88.0675560809
+50,2012-09-28 10:07:05,"Kopp's Frozen Custard, 5373 N Port Washington Rd, Glendale",43.114611937,-87.9172754288
+51,2012-09-23 01:11:44,"Apple Bayshore, 5715 N Centerpark Way, Glendale",43.12154,-87.915234
+52,2012-09-22 02:19:39,"Colectivo Coffee, 2301 S Kinnickinnic Ave, Milwaukee",43.0027477908,-87.9043756618
+53,2012-09-05 06:57:31,"Buckley's Restaurant & Bar, 801 N Cass St, Milwaukee",43.0415671713,-87.9019803637
+54,2012-08-29 03:09:18,"Valvoline Instant Oil Change, 6100 N Port Washington Rd, Glendale",43.12778854,-87.91264343
+55,2012-08-29 02:27:47,"Octopus Car Wash, 4519 N Green Bay Ave, Glendale",43.0992964653,-87.9291403143
+56,2012-08-27 07:41:25,"Pick 'n Save, 6969 N Port Washington Rd, Glendale",43.1429142815,-87.9136155204
+57,2012-08-15 00:09:53,"Guanajuato Mexican Restaurant, 2301 S Howell Ave, Milwaukee",43.0023842941,-87.9048930294
+58,2012-07-27 07:29:06,"Gyro Palace, 5336 N Port Washington Rd, Glendale",43.1139803954,-87.9162927589
+59,2012-07-03 02:11:48,"GORDY&apos;S CITGO, Bluemound Rd., Wauwatosa",43.0361036,-88.0163698
+60,2012-06-24 02:59:49,"Vici Capilli - Brookfield Salon, 95 N Moorland Rd, Brookfield",43.0335422151,-88.1107013249
+61,2012-05-27 03:40:26,"Yo Mama! Frozen Yogurt & Goodies, 1349 N Wauwatosa Ave, Wauwatosa",43.04992435,-88.0070085
+62,2012-05-25 08:21:55,"TransferMKE, 101 W Mitchell St, Milwaukee",43.0122101874,-87.9112243652
+63,2012-05-24 10:25:35,"Baskin-Robbins, 8820 N Port Washington Rd, Bayside",43.17739325,-87.9126138
+64,2012-05-24 10:24:55,"Baskin-Robbins, 8820 N Port Washington Rd, Bayside",43.17739325,-87.9126138
+65,2012-05-22 05:29:58,"The UPS Store, 3900 W Brown Deer Rd, Milwaukee",43.178961,-87.95964037
+66,2012-05-18 07:12:57,"Poco Loco, 4134 W River Ln, Milwaukee",43.1778663333,-87.96329
+67,2012-05-18 07:12:41,"Poco Loco, 4134 W River Ln, Milwaukee",43.1778663333,-87.96329
+68,2012-05-12 08:19:27,"The Pasta Shoppe, 323 N Franklin St, Port Washington",43.3900487228,-87.8694677353
+69,2012-04-21 20:42:55,"Weight Watchers, 2500 N Mayfair Rd, Wauwatosa",43.0641369662,-88.043856935
+70,2012-04-01 06:27:53,"Culver's, 4327 W Schroeder Dr, Brown Deer",43.18600584,-87.9649436
+71,2012-04-01 00:57:55,"Maxfield's Pancake House, 333 W Brown Deer Rd., Fox Point",43.1764126311,-87.9117859021
+72,2012-03-23 08:59:52,"La Fuente, 625 S 5th St, Milwaukee",43.0247358697,-87.9170063428
+73,2012-03-12 22:11:34,"Milwaukee Breakfast Club, 11703 W Bluemound Rd, Milwaukee",43.035708,-88.058839
+74,2012-03-08 08:39:15,"Upper Crust Pizza, 249 E Hampton Rd, Milwaukee",43.1038733425,-87.9081551814
+75,2012-03-07 06:28:06,"Sugar Maple, 441 E Lincoln Ave, Milwaukee",43.0028537968,-87.9035085787
+76,2012-03-06 06:41:57,"Avant Garde Piercing, 7219 W Greenfield Ave, West Allis",43.0166087304,-88.0029503898
+77,2012-03-06 06:30:39,"Flapper's, 7527 W Becher St, West Allis",43.0063060567,-88.0070465654
+78,2012-02-22 00:21:06,"800 CEO READ, 219 N Milwaukee St, Milwaukee",43.0338156422,-87.9063397106
+79,2012-02-18 05:44:03,"US Post Office, 5651 N Lydell Ave, Glendale",43.119984,-87.9120022667
+80,2012-02-15 08:23:13,"Gate C25, Concourse C, Milwaukee",42.950199378,-87.9000543058
+81,2012-02-13 00:30:25,"Dick's Sporting Goods, 1020 Port Washington Road, Grafton",43.3225,-87.9245
+82,2012-02-12 02:35:28,"Victoria's Secret PINK, 2500 N Mayfair Rd, Wauwatosa",43.0635862148,-88.0445804361
+83,2012-02-05 00:22:25,"East Towne Veterinary Clinic, 11622 N Port Washington Rd, Mequon",43.2297277496,-87.9236435641
+84,2012-02-04 02:00:19,"Meet-Meme, 544 S 1st St, Milwaukee",43.0252163034,-87.9106459451
+85,2012-02-04 01:21:44,"Meet-Meme, 544 S 1st St, Milwaukee",43.0252163034,-87.9106459451
+86,2012-02-03 07:02:49,"Summit Place, 6737 W Washington St, West Allis",43.019730324,-87.9966691722
+87,2012-02-02 22:31:11,"SUBWAY, 10940 W Capitol Dr, Wauwatosa",43.089976745,-88.0496253415
+88,2012-01-28 21:49:51,"Maxfields Pancake House, 2727 N Mayfair Rd, Wauwatosa",43.0678898857,-88.0488088329
+89,2012-01-18 03:49:53,"Bayer & Fahl Dentistry, 429 N Grand Ave, Waukesha",43.00763,-88.23135
+90,2012-01-16 05:37:02,"Upper Crust Pizza, 249 E Hampton Rd, Milwaukee",43.1038733425,-87.9081551814
+91,2012-01-07 00:36:20,"U.S. Bank ATM, 5888 N Port Washington Rd, Glendale",43.1234848608,-87.9144537449
+92,2011-12-31 22:02:10,"Blue's Egg, 317 N 76th St, Milwaukee",43.0343138635,-88.0080406794
+93,2011-12-26 23:26:05,"Wildflowers Restaurant - The Country Springs Hotel, 2810 Golf Rd, Pewaukee",43.0483082714,-88.2757300082
+94,2011-12-19 02:02:11,"Batteries Plus Bulbs, 6150 N Port Washington Rd, Glendale",43.128696,-87.912722
+95,2011-12-18 22:08:17,"Denny's, 3801 S 27th St, Milwaukee",42.9757306,-87.9488531
+96,2011-12-17 09:25:36,"See's Candies, 2500 N Mayfair Rd, Wauwatosa",43.0639177177,-88.0455426481
+97,2011-12-16 05:23:28,"US Post Office, 5651 N Lydell Ave, Glendale",43.119984,-87.9120022667
+98,2011-12-10 22:53:33,"Premier Vision, 10800 N Port Washington Rd, Mequon",43.2141174485,-87.9235430075
+99,2011-12-08 06:36:17,"Ron's Pub, 2110 S 60th St, West Allis",43.0066144466,-87.9873991013
+100,2011-12-02 08:57:09,"Village Ace Hardware Inc, 6240 N Port Washington Rd, Glendale",43.13011,-87.91249
+101,2011-11-27 09:11:23,"The Cheesecake Factory, 5799 N Bayshore Dr, Milwaukee",43.1225798843,-87.9144297244
+102,2011-11-23 04:08:56,"ETE REMAN, 8155 N 76th St, Milwaukee",43.1656960521,-88.0052112195
+103,2011-11-22 08:31:08,"Walgreens, 5400 N Port Washington Rd, Glendale",43.11536715,-87.91599583
+104,2011-11-20 23:40:48,"SUBWAY, 5464 N Port Washington Rd, Milwaukee",43.1163999824,-87.9163023373
+105,2011-11-19 22:29:32,"Wooden Goose, 11402 N Port Washington Rd, Mequon",43.2220341001,-87.9280471802
+106,2011-11-17 00:02:55,"800 CEO READ, 219 N Milwaukee St, Milwaukee",43.0338156422,-87.9063397106
+107,2011-11-10 07:33:41,"Buckley's Restaurant & Bar, 801 N Cass St, Milwaukee",43.0415671713,-87.9019803637
+108,2011-11-08 09:11:02,"Speed Queen Bar-B-Q, 1130 W Walnut St, Milwaukee",43.0530005809,-87.9265213025
+109,2011-11-07 23:01:00,"800 CEO READ, 219 N Milwaukee St, Milwaukee",43.0338156422,-87.9063397106
+110,2011-11-05 20:52:51,"Colectivo Coffee, 9125 W North Ave, Wauwatosa",43.0603076361,-88.0272351399
+111,2011-11-04 08:05:55,"Cell Phone Waiting Area, MKE Airport, Milwaukee",42.9456536485,-87.9040834423
+112,2011-11-03 22:14:02,"Venuti's Banquets & Ristorante, 2251 W Lake St, Addison",41.9528448861,-88.0455951763
+113,2011-11-03 08:35:51,"Dairy Queen, 245 E Hampton Rd, Milwaukee",43.10385073,-87.908279
+114,2011-11-03 06:51:14,"Engine & Transmission Exchange Inc, 2727 S 27th St, Milwaukee",42.995071,-87.948929
+115,2011-10-27 06:42:44,"Knockouts Haircuts For Men, 2751 N Mayfair Rd, Wauwatosa",43.0685536085,-88.0484172855
+116,2011-10-26 06:13:36,"Blackbird Bar, 3007 S Kinnickinnic Ave, Milwaukee",42.99007772,-87.88495605
+117,2011-10-25 07:49:45,"Leonardo's Pizza, 11051 N Port Washington Rd, Mequon",43.219410181,-87.925080657
+118,2011-10-23 07:58:30,"Luv Unlimited, 2649 S Kinnickinnic Ave, Milwaukee",42.9967868328,-87.898372
+119,2011-10-23 06:01:28,"TransferMKE, 101 W Mitchell St, Milwaukee",43.0122101874,-87.9112243652
+120,2011-10-23 05:33:20,"Sweettrio, 1225 Washington St, Grafton",43.3197674233,-87.9512019035
+121,2011-10-21 10:24:48,"AJ Bombers, 1241 N Water St, Milwaukee",43.0467812753,-87.9113960266
+122,2011-10-18 23:21:31,"800 CEO READ, 219 N Milwaukee St, Milwaukee",43.0338156422,-87.9063397106
+123,2011-10-18 08:30:28,"Honeypie Cafe, 2643 S Kinnickinnic Ave, Milwaukee",42.9968783855,-87.8986315222
+124,2011-10-17 01:24:19,"Sweettrio, 1225 Washington St, Grafton",43.3197674233,-87.9512019035
+125,2011-10-16 20:14:50,"Blue's Egg, 317 N 76th St, Milwaukee",43.0343138635,-88.0080406794
+126,2011-10-14 06:06:59,"Brookdale Senior Living, 6737 W Washington St, Milwaukee",43.0201229769,-87.9968508333
+127,2011-10-07 21:09:43,"Subway, 9135 W Greenfield Ave, Milwaukee",43.0163495798,-88.0269819437
+128,2011-10-06 21:11:54,"Blue's Egg, 317 N 76th St, Milwaukee",43.0343138635,-88.0080406794
+129,2011-09-23 05:18:12,"Knockouts Haircuts For Men, 2751 N Mayfair Rd, Wauwatosa",43.0685536085,-88.0484172855
+130,2011-09-19 23:53:44,"Dr. Dawg, 6969 N Port Washington Rd, Glendale",43.1433750585,-87.9141519388
+131,2011-09-19 23:53:12,"Pizza Shuttle, 1827 N Farwell Ave, Milwaukee",43.0545777926,-87.890893255
+132,2011-09-04 05:23:20,"Macy's, 2500 N Mayfair Rd, Wauwatosa",43.0656100968,-88.0451367457
+133,2011-08-21 06:56:17,"La Fuente, 9155 W Bluemound Rd, Wauwatosa",43.0356941225,-88.0270106075
+134,2011-06-26 21:33:03,"Wooden Goose, 11402 N Port Washington Rd, Mequon",43.2220341001,-87.9280471802
+135,2011-06-26 02:53:31,"LeDuc's Frozen Custard, 240 W Summit Ave, Wales",43.01257862,-88.382362
+136,2011-06-09 04:02:42,"Candy Bouquet, 8722 W North Ave, Wauwatosa",43.0606664058,-88.0217122676
+137,2011-05-23 06:39:18,"Lush Cosmetics, 2500 N Mayfair Rd, Wauwatosa",43.0635660426,-88.0450125866
+138,2011-05-19 09:54:29,"Calderone Club, 8001 N Port Washington Rd, Fox Point",43.162429,-87.9119807482
+139,2011-05-19 09:54:06,"Calderone Club, 8001 N Port Washington Rd, Fox Point",43.162429,-87.9119807482
+140,2011-05-11 09:52:22,"Wendy's, 9133 N Deerwood Dr, Brown Deer",43.1829140562,-87.9642164259
+141,2011-05-08 04:35:37,"Dr. Dawg, 6969 N Port Washington Rd, Glendale",43.1433750585,-87.9141519388
+142,2011-04-09 22:29:45,"Premier Vision, 10800 N Port Washington Rd, Mequon",43.2141174485,-87.9235430075
+143,2011-03-27 01:59:46,"House of Corned Beef, 6200 W Silver Spring Dr, Milwaukee",43.119651,-87.98882
+144,2010-08-12 07:44:46,"Honeypie Cafe, 2643 S Kinnickinnic Ave, Milwaukee",42.9968783855,-87.8986315222
+145,2010-06-30 00:58:21,"AJ Bombers, 1241 N Water St, Milwaukee",43.0467812753,-87.9113960266
+146,2010-06-04 10:09:22,"Fratelli Ristorante Italiano, 124 N Nevada Ave, Colorado Springs",38.83617544,-104.821807617
+147,2010-05-22 08:34:10,"AJ Bombers, 1241 N Water St, Milwaukee",43.0467812753,-87.9113960266
+148,2010-04-26 01:49:26,"Mobil, 7156 N Green Bay Ave, Glendale",43.147721596,-87.9370825938
+149,2010-04-19 08:06:52,"William Ho's, 3524 N Oakland Ave, Milwaukee",43.0824926342,-87.8872776031
+150,2010-04-19 03:54:15,"Target, 1250 N Port Washington Rd, Grafton",43.3191376321,-87.9223698304
+151,2010-04-18 01:22:15,"Millennium Park, 201 E Randolph St, Chicago",41.8828371547,-87.6233162836
+152,2010-04-16 01:17:53,"Sake Tumi, 714 N Milwaukee St, Milwaukee",43.0390755193,-87.9065648521
+153,2010-04-15 06:43:35,"Waukesha County Technical College (WCTC), 800 Main St, Pewaukee",43.0717406564,-88.2544612885
+154,2010-04-11 23:40:47,"The Knick, 1030 E Juneau Ave, Milwaukee",43.04566495,-87.898696
+155,2010-04-04 22:40:35,"Hampton Eau Claire, 2622 Craig Rd, Eau Claire",44.7910276197,-91.5198246554
+156,2010-04-04 01:32:46,"Paradise Pen Company, Mall of America, Bloomington",44.8538144484,-93.2418126532
+157,2010-04-04 01:19:46,"Apple Mall of America, 132 South Avenue, Bloomington",44.853513,-93.242518
+158,2010-04-03 05:52:57,"Canterbury Inn, 1244 Canterbury Rd S, Shakopee",44.7836043883,-93.4708934103
+159,2010-04-02 00:37:41,"AJ Bombers, 1241 N Water St, Milwaukee",43.0467812753,-87.9113960266
+160,2010-03-31 08:38:29,"Blatz Market & Liquor, 1121 N Broadway St, Milwaukee",43.045436,-87.908749
+161,2010-03-28 01:01:24,"Buckley's Restaurant & Bar, 801 N Cass St, Milwaukee",43.0415671713,-87.9019803637
+162,2010-03-27 00:59:15,"Buckley's Restaurant & Bar, 801 N Cass St, Milwaukee",43.0415671713,-87.9019803637
+163,2010-03-15 00:37:41,"Boston Store, 5701 N Lydell Ave, Glendale",43.121434732,-87.9132754661
+164,2010-03-07 10:10:26,"Calderone Club, 842 N Old World 3rd St, Milwaukee",43.04131193,-87.914413
+165,2010-03-07 00:55:14,"Boyland Honda, 6141 S 27th St, Greenfield",42.9321328444,-87.9503309433
+166,2010-03-07 00:54:46,"Boyland Honda, 6141 S 27th St, Greenfield",42.9321328444,-87.9503309433
+167,2010-03-05 10:48:57,"Dave & Buster's, 2201 N Mayfair Rd, Wauwatosa",43.0580191455,-88.0484220604
+168,2010-03-01 01:46:01,"Hotch-A-Do, 1813 E Kenilworth Pl, Milwaukee",43.0598407496,-87.8876154682
+169,2010-02-13 08:56:46,"Marcus North Shore Cinema, 11700 N Port Washington Rd, Mequon",43.2312275629,-87.9219961166
+170,2010-02-07 23:49:52,"Benji's Deli, 4156 N Oakland Ave, Milwaukee",43.0931856414,-87.8870787318
+171,2010-02-07 00:34:55,"IHOP, 1110 Miller Park Way, West Milwaukee",43.0202253303,-87.9692776657
+172,2010-01-31 01:53:50,"Bikram Yoga Milwaukee, 2084 N Commerce St, Milwaukee",43.0578511993,-87.898478508
+173,2010-01-27 21:31:01,"Boelter + Lincoln, 222 E Erie St Ste 400, Milwaukee",43.0317525046,-87.9086868753
+174,2010-01-27 09:06:33,"Guanajuato Mexican Restaurant, 2301 S Howell Ave, Milwaukee",43.0023842941,-87.9048930294
+175,2010-01-26 08:00:39,"Buckley's Restaurant & Bar, 801 N Cass St, Milwaukee",43.0415671713,-87.9019803637
+176,2010-01-24 07:42:04,"Best Buy, 8755 N Port Washington Rd, Fox Point",43.1753993,-87.91420853
+177,2010-01-22 23:35:40,"Phoenix Sky Harbor International Airport (PHX), 3400 E Sky Harbor Blvd, Phoenix",33.4356292316,-111.999195325
+178,2010-01-20 01:51:54,"Elsa's On The Park, 833 N Jefferson St, Milwaukee",43.0420140691,-87.9056451178
+179,2010-01-17 09:48:44,"TransferMKE, 101 W Mitchell St, Milwaukee",43.0122101874,-87.9112243652
+180,2010-01-10 09:52:22,"AJ Bombers, 1241 N Water St, Milwaukee",43.0467812753,-87.9113960266
+181,2010-01-09 09:39:24,"Red Lobster, 2801 N Mayfair Rd, Wauwatosa",43.0691072314,-88.0486392975
+182,2010-01-04 01:28:29,"Half Price Books, 16750 W Bluemound Rd, Brookfield",43.0365086863,-88.1244794426
+183,2009-12-30 06:12:20,"Eye Care And Associates, 1668 N Prospect Ave, Milwaukee",43.0521573923,-87.8912143119
+184,2009-12-29 08:45:34,"Qdoba Mexican Grill, 12345 W Capitol Dr, Wauwatosa",43.0884129758,-88.0658902988
+185,2009-12-03 08:57:32,"The Farmstead, W62 N238 Washington Ave, Cedarburg",43.2840964648,-87.9851752097
+186,2009-11-28 08:05:25,"AJ Bombers, 1241 N Water St, Milwaukee",43.0467812753,-87.9113960266
+187,2009-11-25 21:31:57,"Colectivo Coffee, 2999 N Humboldt Blvd, Milwaukee",43.0727528719,-87.8980613797
+188,2009-11-24 07:36:51,"TransferMKE, 101 W Mitchell St, Milwaukee",43.0122101874,-87.9112243652

@@ -1,0 +1,53 @@
+,time,poi,latitude,longitude
+0,2013-11-11 09:50:36,"Son of a Gun, 8370 W 3rd St, Los Angeles",34.0728506241,-118.372454453
+1,2013-08-03 12:15:03,"Echigo Sushi, 12217 Santa Monica Blvd Ste 201, Los Angeles",34.0400435748,-118.464962395
+2,2013-06-11 06:13:08,"Pittsburgh International Airport (PIT), 1000 Airport Blvd, Pittsburgh",40.4958729586,-80.2552598093
+3,2013-04-21 06:13:59,"Orange 20, 4351 Melrose Ave, Los Angeles",34.0837955475,-118.295014501
+4,2013-03-01 10:59:43,"The Roger Room, 370 N LA Cienega Blvd, Los Angeles",34.0779869782,-118.376504
+5,2013-01-13 13:30:16,"Ramen Yamadaya, 1248 Westwood Blvd, Los Angeles",34.0579017341,-118.443209158
+6,2012-12-30 08:41:34,"Royal Tavern, 937 E Passyunk Ave, Philadelphia",39.9370778013,-75.1547777653
+7,2012-12-14 00:14:56,"Courtyard San Francisco Airport, 1050 Bayhill Dr, San Bruno",37.6305066566,-122.419779586
+8,2012-10-31 11:53:26,"Stella Barra, 2000 Main St, Santa Monica",34.0067317718,-118.488503324
+9,2012-08-16 04:42:39,"Dogtown Coffee, 2003 Main St, Santa Monica",34.0071172766,-118.488664627
+10,2012-07-24 01:59:53,"Deus Ex Machina, 1001 Venice Blvd, Venice",33.9944407249,-118.452962535
+11,2012-07-17 05:00:58,"Oren's Hummus Shop, 261 University Ave, Palo Alto",37.4456301861,-122.162110806
+12,2012-06-13 10:50:47,"Blue Palms Brewhouse, 6124 Hollywood Blvd, Los Angeles",34.101549,-118.3231843
+13,2012-06-12 06:18:48,"Zinque, 600 Venice Blvd, Venice",33.988976,-118.461976
+14,2012-06-12 03:25:37,"Tanner's Coffee Co, 200 Culver Blvd, Playa del Rey",33.958909873,-118.448245623
+15,2012-04-03 04:31:06,"Lulu California Bistro, 200 S Palm Canyon Dr, Palm Springs",33.8210647167,-116.546600095
+16,2012-03-31 05:57:33,"Venice Ale House, 2 Rose Ave, Venice",33.994598,-118.480366
+17,2012-03-25 13:11:59,"Perch, 448 S Hill St, Los Angeles",34.0489976102,-118.251505954
+18,2012-03-24 07:15:46,"Martin's West, 831 Main St, Redwood City",37.485994,-122.2262047
+19,2012-03-07 13:02:12,"Largo at the Coronet, 366 N LA Cienega Blvd, Los Angeles",34.077985596,-118.376340405
+20,2012-02-22 11:27:15,"City Pub, 2620 Broadway St, Redwood City",37.4864817701,-122.233886719
+21,2012-01-03 03:33:13,"Philadelphia International Airport (PHL), 8800 Essington Ave, Philadelphia",39.8761779573,-75.2427758071
+22,2011-12-31 07:07:44,"Butcher and Singer, 1500 Walnut St, Philadelphia",39.9494408642,-75.1662254333
+23,2011-11-03 14:07:54,"Martin's West, 831 Main St, Redwood City",37.485994,-122.2262047
+24,2011-11-03 14:06:09,"Heimerhaus, 601 Main St, Redwood City",37.4884910524,-122.226480949
+25,2011-09-05 04:26:40,"Zelda's Corner, 9 Westminster Ave, Venice",33.9887,-118.474694
+26,2011-08-20 05:14:27,"Ben's Pizzeria, 123 Macdougal St, New York",40.7305434365,-74.0001726151
+27,2011-08-18 00:46:16,"The Matchbox, 770 N Milwaukee Ave, Chicago",41.895763,-87.654982
+28,2011-08-18 00:43:10,"Minetta Tavern, 113 Macdougal St, New York",40.7300745249,-74.0005954801
+29,2011-08-18 00:42:15,"Weather Up, 589 Vanderbilt Ave, Brooklyn",40.6798732121,-73.9678385854
+30,2011-08-18 00:38:24,"North End Bar & Grill, 2626 Hermosa Ave, Hermosa Beach",33.872477,-118.405231833
+31,2011-08-18 00:37:01,"Bar Chloe, 1449 2nd St, Santa Monica",34.0138630037,-118.495751023
+32,2011-08-16 07:05:32,"San Francisco International Airport (SFO), N McDonnell Rd, San Francisco",37.6172997606,-122.385501068
+33,2011-07-02 09:11:10,"King's Fish House, 1521 W Katella Ave, Orange",33.8088836627,-117.868799784
+34,2011-04-03 09:52:38,"Lares, 2909 Pico Blvd, Santa Monica",34.0249387073,-118.459310532
+35,2010-07-23 00:45:28,"18th Street Coffee House, 1725 Broadway, Santa Monica",34.0255579242,-118.480816392
+36,2010-07-10 02:04:06,"18th Street Coffee House, 1725 Broadway, Santa Monica",34.0255579242,-118.480816392
+37,2010-07-03 22:34:44,"Bite Bar & Bakery, 3221 Pico Blvd, Santa Monica",34.026643,-118.456096
+38,2010-06-10 01:40:19,"Papa J's Ristorante, 200 E Main St, Carnegie",40.4079929773,-80.0849724667
+39,2010-06-07 12:22:28,"Kit Kat Lounge & Supper Club, 3700 N Halsted St, Chicago",41.9491338922,-87.6496903178
+40,2010-05-31 10:57:37,"The Tasting Kitchen, 1633 Abbot Kinney Blvd, Venice",33.9896568293,-118.463178277
+41,2010-03-27 11:18:34,"Hudson House, 514 N Pacific Coast Hwy, Redondo Beach",33.8502317418,-118.388689309
+42,2009-12-22 02:48:22,"Tbar, 117 S 12th St, Philadelphia",39.9499107889,-75.1603495561
+43,2009-11-16 03:40:33,"Reservoir Bar, 70 University Pl, New York",40.733191,-73.993512
+44,2009-08-29 09:27:28,"Fonda, 434 7th Ave, Brooklyn",40.6635710383,-73.9845158058
+45,2009-08-26 07:02:55,"Caribou Cafe, 1126 Walnut St, Philadelphia",39.948847,-75.160307
+46,2009-08-09 04:46:40,"Metropolitan Museum of Art, 1000 5th Ave, New York",40.7791685266,-73.9627570318
+47,2009-08-07 08:10:43,"Bogota Latin Bistro, 141 5th Ave, Brooklyn",40.678240566,-73.9791662771
+48,2009-08-02 01:33:05,"Murray's Bagels, 500 Avenue of the Americas, New York",40.7363745441,-73.9972892404
+49,2009-03-12 05:01:28,"New York University, 25 W 4th St, New York",40.7290919276,-73.9956429873
+50,2009-03-10 22:48:51,"Fashion Institute of Technology, 227 W 27th St, New York",40.7472957964,-73.9944952303
+51,2009-03-10 22:46:53,"National Mechanics, 22 S 3rd St, Philadelphia",39.9493936062,-75.1459273426

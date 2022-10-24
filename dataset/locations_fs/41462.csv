@@ -1,0 +1,168 @@
+,time,poi,latitude,longitude
+0,2015-02-01 04:02:24,"AutoZone, 4444 Kent Rd, Stow",41.1550056114,-81.4014950395
+1,2014-05-12 02:03:42,"Starbucks, 1600 U St NW, Washington",38.916859,-77.037051
+2,2014-01-04 10:53:46,"Matchbox Vintage Pizza Bistro, 1901 14th St NW, Washington",38.9157236335,-77.0316830277
+3,2013-11-09 03:44:49,"Red Bank Diner, 179 Broad St, Red Bank",40.3462058667,-74.0646481333
+4,2013-10-26 08:10:14,"JR'S Red Bank, 17 W Front St, Red Bank",40.3520129137,-74.066044683
+5,2013-10-19 00:40:12,"Victoria's Secret, The Grove at Shrewsbury, Shrewsbury",40.3326664884,-74.0613698959
+6,2013-10-14 02:45:13,"Bluebell Cafe, 293 3rd Ave, New York",40.7384454908,-73.9832425117
+7,2013-08-15 07:56:51,"Boc Boc Chicken, 3710 US Highway 9, Freehold",40.2532490132,-74.3007552547
+8,2013-08-15 07:09:59,"Apple Freehold Raceway Mall, 3710 Route 9 South, Freehold",40.252818,-74.300447
+9,2013-08-15 06:56:56,"The Gap, Freehold Raceway Mall, Freehold",40.253156,-74.300611
+10,2013-08-05 02:45:07,"Urban Outfitters, 2-10 Broad St, Red Bank",40.351827,-74.065646
+11,2013-06-04 05:43:32,"Union Station, 50 Massachusetts Ave NE, Washington",38.8980553075,-77.0061023515
+12,2013-06-02 01:54:35,"Newark Penn Station, 1 Raymond Plz W, Newark",40.7343322443,-74.1642189726
+13,2013-05-24 07:19:29,"Muang Thai Restaurant, 7 E Front St, Red Bank",40.3523492083,-74.0650465038
+14,2013-05-02 00:21:33,"Rite Aid, 140 Water St, Red Bank",40.350637,-74.070736
+15,2013-04-30 23:59:23,"Riverview Medical Center, 1 Riverview Plz, Red Bank",40.3538131793,-74.0633828602
+16,2013-04-27 06:49:51,"Lil' Cutie Pops, 16 Monmouth St, Red Bank",40.3496296639,-74.0660102631
+17,2013-04-25 06:27:19,"Crates Liqour Store, Brigde Ave, Red Bank",40.3515156797,-74.0756934766
+18,2013-04-23 05:04:34,"Sugarush (cupcakes, cakes & candy), 37 E Front St, Red Bank",40.3525457014,-74.0639448166
+19,2013-04-07 06:44:55,"Thai Shangri-La, 2590 Highway 516, Old Bridge",40.4041829944,-74.323797226
+20,2013-04-06 11:02:14,"The Globe Hotel, 20 E Front St, Red Bank",40.352341972,-74.0646564094
+21,2013-03-28 07:34:41,"Senor Peppers, 60 Bridge Ave, Red Bank",40.3485300191,-74.075177204
+22,2013-03-17 01:34:11,"Book Thug Nation, 100 N 3rd St, Brooklyn",40.7166624069,-73.96185
+23,2013-03-16 10:19:31,"Udom Thai Restaurant & Bar, 661 Washington Ave, Brooklyn",40.677514,-73.963624
+24,2013-03-13 03:17:46,"Chupacabra Cantina, 400 E 6th St, Austin",30.2673026711,-97.7391585058
+25,2013-03-03 08:54:04,"Lager & Vine, 30 W Streetsboro St, Hudson",41.2397365798,-81.4418818884
+26,2013-03-03 05:33:59,"Harry Londons Chocolate, 5353 Lauby Rd, North Canton",40.9172676871,-81.4278098293
+27,2013-01-29 19:49:15,"NJT - Red Bank Station (NJCL), 175 Monmouth St., Red Bank",40.3482808572,-74.0743569014
+28,2012-12-19 03:07:23,"Boardwalk Fresh Burgers & Fries, 20 Broad St, Red Bank",40.3513854993,-74.0654365974
+29,2012-12-08 01:41:21,"ShopHouse Kitchen, 1516 Connecticut Ave NW, Washington",38.9105707706,-77.0442947745
+30,2012-12-04 23:45:09,"Firehook Bakery, 1909 Q St NW, Washington",38.911103,-77.043946
+31,2012-11-30 03:07:25,"Whole Foods Market, 471 State Route 35, Red Bank",40.3753074064,-74.0877910592
+32,2012-11-19 05:11:20,"Starbucks, 551 Broad St, Shrewsbury",40.3328939498,-74.0617593593
+33,2012-11-05 02:51:34,"Burger King, 7940 Washington Boulevard, Jessup",39.1705540129,-76.7874975204
+34,2012-10-28 03:52:04,"Good Karma Cafe, 17 E Front St, Red Bank",40.3524343416,-74.064753933
+35,2012-10-26 12:12:28,"The Downtown, 10 W Front St, Red Bank",40.352083,-74.065704
+36,2012-10-26 12:09:02,"WoW Red Bank, 30 W Front St, Red Bank",40.3521236274,-74.0667961822
+37,2012-10-26 12:08:02,"Hobbymasters Inc, 62 White St, Red Bank",40.3504549913,-74.0682532791
+38,2012-10-26 12:02:22,"Siam Garden, 2 Bridge Ave, Red Bank",40.3506865045,-74.0756705312
+39,2012-10-26 12:01:06,"Cluck-U Chicken, Route 35 (Maple Ave.) & West Front St., Red Bank",40.3504145833,-74.070005
+40,2012-10-26 12:00:12,"Tommy's Coal Fired Pizza, 2 Bridge Ave, Red Bank",40.3502379167,-74.0759
+41,2012-10-26 11:55:04,"Birravino, 183 Riverside Ave, Red Bank",40.3532815533,-74.0747916698
+42,2012-10-26 11:51:57,"WoW Middletown, 1126 State Route 35, Middletown",40.3965845475,-74.1106152534
+43,2012-10-23 04:15:26,"Danish Cafe, 2 Bridge Ave, Red Bank",40.3499618198,-74.075412395
+44,2012-10-21 23:20:23,"Red Bank Farmer's Market, Galleria Parking Lot, Red Bank",40.3506160963,-74.0761435032
+45,2012-09-23 23:47:41,"New York Penn Station (NYP), 1 Penn Plz, New York",40.7504050972,-73.9932441673
+46,2012-09-22 04:53:14,"Starbucks, 180 Highway 35, Eatontown",40.2892815119,-74.0556192398
+47,2012-09-22 04:51:18,"Barnes & Noble, 180 Highway 35, Eatontown",40.2891505703,-74.0555334091
+48,2012-09-18 06:40:56,"Bridgewater's Pub, 30th Street Station, Philadelphia",39.9553131533,-75.1823186874
+49,2012-09-15 02:51:20,"francesca's, 555 Route 35, Shrewsbury",40.332958,-74.0613
+50,2012-09-09 05:35:19,"AMC Loews Monmouth Mall 15, Route 35 & 36, Eatontown",40.2873173614,-74.0530443192
+51,2012-09-09 04:46:36,"Monmouth Mall, 180 Highway 35, Eatontown",40.2877600291,-74.0545939898
+52,2012-09-05 03:58:11,"Manhattan Bagel, 20 Water St, Red Bank",40.3505435123,-74.0699627721
+53,2012-09-02 07:49:27,"Brannigan's Wharf Bar & Grill, 14 Wharf Ave, Red Bank",40.3528026378,-74.0650465038
+54,2012-08-22 07:57:47,"Welcome to the Johnsons, 123 Rivington St, New York",40.7197872776,-73.987241247
+55,2012-08-22 07:48:40,"Taste, 10 Bridge Ave, Red Bank",40.350303,-74.075466039
+56,2012-08-22 07:48:01,"Surf Taco, 35 Broad St, Red Bank",40.3509910663,-74.0654767541
+57,2012-08-22 07:47:20,"Roots Caf, 639A Fifth Ave., Brooklyn",40.662803,-73.991642
+58,2012-08-22 07:31:48,"The Willows Hotel, 555 W Surf St, Chicago",41.9339396029,-87.6435427176
+59,2012-08-22 07:26:44,"Ann Sather, 909 W Belmont Ave, Chicago",41.93996,-87.651998
+60,2012-08-22 07:23:32,"Chicago Midway International Airport (MDW), 5700 S Cicero Ave, Chicago",41.7854250716,-87.7508282661
+61,2012-08-22 07:21:38,"Tuscany Caf, Concourse A, Near Gate A7, Chicago",41.7858110144,-87.7426462048
+62,2012-08-13 05:03:38,"Jay and Silent Bob's Secret Stash, 35 Broad St, Red Bank",40.350851029,-74.0654423341
+63,2012-07-06 07:06:30,"Teak, 64 Monmouth St, Red Bank",40.349614,-74.06831
+64,2012-06-21 07:58:09,"Flatbread Company, 138 Congress St, Portsmouth",43.075957125,-70.7601167
+65,2012-06-18 22:13:09,"Caffe Kilim, 163 Islington St, Portsmouth",43.0744119301,-70.7638050621
+66,2012-06-04 01:14:08,"IHOP, 833 Boardman Poland Rd, Boardman",41.02383,-80.63821
+67,2012-05-19 02:16:49,"The Blue Door Cafe & Bakery, 1970 State Rd, Cuyahoga Falls",41.1342887833,-81.5088236
+68,2012-05-14 00:49:12,"The Meat House, 2222 Lafayette Rd, Portsmouth",43.03604,-70.778494
+69,2012-05-14 00:21:41,"Walmart Supercenter, 2460 Lafayette Rd, Portsmouth",43.03395272,-70.78881741
+70,2012-05-04 04:31:05,"The Works Bakery Cafe, 9 Congress St, Portsmouth",43.076823,-70.75819
+71,2012-04-12 00:33:37,"LaGuardia Airport (LGA), Grand Central Pkwy, East Elmhurst",40.7716531197,-73.8676929474
+72,2012-04-10 07:52:09,"Popovers on the Square, 8 Congress St, Portsmouth",43.0766114107,-70.7581597567
+73,2012-03-30 05:06:16,"Blockheads Burritos, 954 2nd Ave, New York",40.755235,-73.968381
+74,2012-03-30 05:05:57,"Duane Reade, 866 3rd Ave, New York",40.7574842815,-73.9695125987
+75,2012-03-30 05:05:17,"Morning Star Cafe, 949 2nd Ave, New York",40.7551443239,-73.968387644
+76,2012-03-30 05:04:43,"C&J Bus Lines, 185 Grafton Dr, Portsmouth",43.0595931308,-70.8041589289
+77,2012-03-30 05:03:25,"Room Service, 690 9th Ave, New York",40.7618211599,-73.9900820405
+78,2012-03-30 05:01:30,"Pod 51 Hotel, 230 E 51st St, New York",40.7558991828,-73.9690395445
+79,2012-03-30 05:00:02,"Me & Ollies, Fox Run Crossing, Newington",43.0941758319,-70.8007154297
+80,2012-03-28 02:16:03,"Ess-a-Bagel, 831 3rd Ave, New York",40.7562564853,-73.9704653614
+81,2012-03-20 05:17:49,"Phoenix Sky Harbor International Airport (PHX), 3400 E Sky Harbor Blvd, Phoenix",33.4356255234,-111.999212791
+82,2011-12-21 05:42:58,"Dunkin' Donuts, 531 Islington St, Portsmouth",43.0718817295,-70.7697415352
+83,2011-12-21 05:20:55,"Target, 1450 Greenland Rd, Greenland",43.0487884353,-70.8183431625
+84,2011-12-16 03:06:27,"National Pastime Sports Bar & Grill, 201 Waterfront St, Oxon Hill",38.78157983,-77.0171979949
+85,2011-12-14 09:12:21,"Thai Pavilion National Harbor, 151 American Way, Oxon Hill",38.784466,-77.015503
+86,2011-11-26 10:05:44,"C&J Bus Lines, Logan - Terminals A, B, C & E, Boston",42.3650059277,-71.0214339922
+87,2011-11-26 05:53:55,"Miami International Airport (MIA), 2100 NW 42nd Ave, Miami",25.7939557816,-80.2767136876
+88,2011-11-16 07:50:50,"Hannaford Supermarket, 800 Islington St, Portsmouth",43.06772777,-70.77139378
+89,2011-11-14 16:15:10,"Gus & Ruby Letterpress, 29 Congress St, Portsmouth",43.0768,-70.7583528757
+90,2011-11-12 23:00:02,"MBTA Alewife Station, 135 Alewife Brook Pkwy., Cambridge",42.3959212359,-71.1414527893
+91,2011-10-26 07:06:30,"Sheraton Needham Hotel, 100 Cabot St, Needham",42.303369039,-71.2194407764
+92,2011-10-25 23:48:05,"Panera Bread, 120 Highland Ave, Needham",42.3047864136,-71.2187272386
+93,2011-10-23 23:53:50,"EARTHTEC, Congress St, Portsmouth",43.0763485438,-70.7592752657
+94,2011-10-23 23:38:28,"Portsmouth Candle Company, 62 Congress St, Portsmouth",43.0764490251,-70.7588977807
+95,2011-10-23 23:36:13,"Somnia, 107 Congress St, Portsmouth",43.0762791261,-70.7596411355
+96,2011-10-23 04:12:31,"Warren's Lobster House, 11 Water St, Kittery",43.0838716333,-70.750484
+97,2011-10-22 09:05:51,"Kittery Trading Post, 301 US Route 1, Kittery",43.1118676083,-70.7354640698
+98,2011-10-22 07:29:29,"Tasty Thai, 182 State Rd, Kittery",43.1014,-70.743251
+99,2011-10-16 14:38:59,"Khaophums, 555 Central Ave, Dover",43.2007135197,-70.8756650928
+100,2011-10-16 14:37:14,"Pink Bamboo Hot Pot Cafe, 128 Penhallow St, Portsmouth",43.07827,-70.75707
+101,2011-10-16 14:36:01,"Charlie's Kitchen, 10 Eliot St, Cambridge",42.3725035722,-71.1215722561
+102,2011-10-16 14:34:46,"Quality Inn at Quechee Gorge, 5817 Woodstock Rd, Quechee",43.6375587845,-72.4033510824
+103,2011-10-16 14:32:48,"David's 388, 388 Cottage Rd, South Portland",43.6356305333,-70.23505
+104,2011-10-16 14:30:48,"The Golden Egg, 960 Sagamore Ave, Portsmouth",43.0537200494,-70.747991234
+105,2011-10-16 14:28:58,"Portsmouth Farmer's Market, 1 Junkins Ave, Portsmouth",43.0709459142,-70.7544724716
+106,2011-10-16 14:27:57,"South Cemetery, 160 Sagamore Ave, Portsmouth",43.0658293838,-70.7569290461
+107,2011-10-16 14:27:05,"Caffe Kilim, 163 Islington St, Portsmouth",43.0744119301,-70.7638050621
+108,2011-10-16 14:26:40,"Breaking New Grounds, 14 Market Sq, Portsmouth",43.077018922,-70.7573631406
+109,2011-10-15 01:12:16,"Orlando International Airport (MCO), 1 Jeff Fuqua Blvd, Orlando",28.4322799863,-81.305665904
+110,2011-10-15 01:09:32,"Lush Cosmetics, Main Terminal, Orlando",28.431666,-81.307551
+111,2011-10-15 01:06:16,"On The Border Mexican Grill & Cantina, 9000 Airport Blvd., Orlando",28.4312237799,-81.3051950186
+112,2011-10-14 05:19:59,"Revenge Of The Mummy, New York, Orlando",28.4767265101,-81.469392485
+113,2011-10-14 04:06:48,"Shrek 4-D, Production Central, Orlando",28.4756043466,-81.4679574966
+114,2011-10-10 11:02:31,"Old Navy, 45 Gosling Rd, Newington",43.0940738923,-70.7992869216
+115,2011-08-14 06:14:40,"CVS Pharmacy, 674 Islington St, Portsmouth",43.0701653175,-70.7712757587
+116,2011-08-07 01:41:28,"Thai Chef, 1712 Connecticut Ave NW, Washington",38.9130554879,-77.0454976865
+117,2011-08-06 12:50:31,"Washington Hilton, 1919 Connecticut Ave., NW, Washington",38.9162702644,-77.0453908652
+118,2011-08-06 01:59:21,"Ronald Reagan Washington National Airport (DCA), 2401 S Smith Blvd, Arlington",38.8528942033,-77.0426528351
+119,2011-08-04 02:15:59,"Popovers on the Square, 8 Congress St, Portsmouth",43.0766114107,-70.7581597567
+120,2011-07-29 06:08:25,"Starbucks, 1 Market Square, Portsmouth",43.077086,-70.758064
+121,2011-07-25 04:32:37,"Terminal 3, ORD Airport, Chicago",41.9765565609,-87.9010461627
+122,2011-07-23 02:05:16,"State and Lake, 201 N State St, Chicago",41.8858930724,-87.6277577877
+123,2011-07-22 05:05:26,"Chicago O'Hare International Airport (ORD), 10000 W Ohare Ave, Chicago",41.97151,-87.89537
+124,2011-07-11 23:17:20,"My Coffee House, Court St, Laconia",43.5243840105,-71.4702076874
+125,2011-06-18 05:50:15,"C&J Bus Lines, 185 Grafton Dr, Portsmouth",43.0595931308,-70.8041589289
+126,2011-06-12 05:36:06,"Kohl's, 45 Gosling Rd Unit 7, Newington",43.093426,-70.803406
+127,2011-06-12 05:33:51,"Pet Quarters, 45 Gosling Rd, Newington",43.0937121,-70.8009642167
+128,2011-06-11 01:44:38,"Starbucks, 1855 Woodbury Ave, Portsmouth",43.0923312406,-70.7923127178
+129,2011-06-11 01:36:21,"Panera Bread, 1465 Woodbury Ave, Portsmouth",43.0881575967,-70.7880445222
+130,2011-04-28 08:10:06,"Sake Japanese Cuisine, 141 Congress St, Portsmouth",43.0759435387,-70.7602683403
+131,2011-03-09 10:45:50,"Wing-Itz, 2100 Lafayette Rd, Portsmouth",43.036986,-70.7778712667
+132,2010-12-05 10:49:40,"Bea""s on the River, 1989 Front St, Cuyahoga Falls",41.1325113424,-81.4825704596
+133,2010-11-09 15:01:22,"Acme Fresh Market, 2630 Bailey Rd, Cuyahoga Falls",41.1456713621,-81.4745224342
+134,2010-11-09 15:00:06,"Totally Cooked Catering - To Go Market, 2730 Front St, Cuyahoga Falls",41.1468421667,-81.4719366
+135,2010-11-09 14:58:33,"Strickland's Frozen Custard, 2629 Bailey Rd, Cuyahoga Falls",41.1462136261,-81.4741524511
+136,2010-11-09 14:55:30,"Burger King, 2255 Lafayette Road, Portsmouth",43.0345023803,-70.7798048957
+137,2010-11-09 14:54:38,"State Street Saloon, 268 State St, Portsmouth",43.0760056833,-70.757244
+138,2010-11-09 14:52:46,"Bull Moose Music, 82 Congress St, Portsmouth",43.076341,-70.759373
+139,2010-11-09 14:51:47,"The Friendly Toast, 121 Congress St, Portsmouth",43.0762038966,-70.759935379
+140,2010-11-09 14:51:02,"Chapel Hill Mall, 2000 Brittain Rd, Akron",41.114369498,-81.4679911614
+141,2010-11-09 14:50:44,"JCPenney, 2000 Brittain Rd Ste 600, Akron",41.11441,-81.46969
+142,2010-11-09 14:50:06,"Akron-Canton Airport (CAK), 5400 Lauby Rd, North Canton",40.9149901255,-81.4362705453
+143,2010-05-08 11:06:59,"Dolcezza Artisanal Gelato, 1704 Connecticut Ave NW, Washington",38.912797,-77.045378
+144,2010-03-17 12:46:38,"Lou Lo, 1601 Connecticut Ave. NW, Washington",38.9112973822,-77.0444350917
+145,2010-03-17 12:39:43,"Pizzeria Paradiso, 2003 P St NW, Washington",38.9097347569,-77.045227822
+146,2010-03-17 12:39:12,"Smash Records, 2314 18th St NW, Washington",38.9201603473,-77.0420524478
+147,2010-03-17 12:35:52,"India Art and Craft, 2602 Connecticut Ave NW, #A, Washington",38.923840398,-77.0517268898
+148,2010-03-17 12:35:23,"Open City, 2331 Calvert St NW, Washington",38.923686982,-77.0523655415
+149,2010-03-17 12:34:26,"Crystal Gateway Marriott, 1700 Jefferson Davis Hwy, Arlington",38.8585825949,-77.0528062859
+150,2010-03-17 12:34:04,"Bossa, 2463 18th St NW, Washington",38.9220739336,-77.0422321558
+151,2010-03-17 12:33:48,"Bar Dupont, 1500 New Hampshire Ave NW, Washington",38.9103078565,-77.0432881536
+152,2010-03-17 12:33:23,"sweetgreen, 1512 Connecticut Ave NW, Washington",38.9104486752,-77.0442438126
+153,2010-03-17 12:32:23,"Soussi, 2228 18th St NW, Washington",38.9196287207,-77.0417701305
+154,2010-03-17 12:31:32,"Starbucks, 2101 P St NW, Washington",38.909769,-77.046759
+155,2010-03-17 12:31:11,"Laredo Restaurant, 3500 Connecticut Ave NW, Washington",38.93569852,-77.058928
+156,2010-03-17 12:30:05,"Madhatter, 1321 Connecticut Ave NW, Washington",38.9078533144,-77.0420953631
+157,2010-03-17 12:29:39,"Kramerbooks & Afterwords Cafe, 1517 Connecticut Ave NW, Washington",38.9108,-77.0437
+158,2010-03-17 12:29:16,"Social, 1400 Meridian Pl NW, Washington",38.933249,-77.032809
+159,2010-03-17 12:29:02,"The Heights, 3115 14th St NW, Washington",38.9297381954,-77.0324796438
+160,2010-03-17 12:28:46,"Target, 3100 14th St NW, Washington",38.9294656227,-77.03274031
+161,2010-03-17 12:28:07,"Lebanese Taverna, 1101 S Joyce St, Arlington",38.8635040307,-77.062891426
+162,2010-01-24 14:29:47,"Cafe Lalo, 201 W 83rd St, New York",40.7858994421,-73.9768590806
+163,2010-01-17 11:00:20,"Salam, 1524 U St NW, Washington",38.9169545332,-77.0355685268
+164,2009-11-21 08:08:31,"Rockne's, 4240 Hudson Dr, Stow",41.1826733884,-81.4724901857
+165,2009-10-23 11:54:27,"Open City, 2331 Calvert St NW, Washington",38.923686982,-77.0523655415
+166,2009-10-23 11:53:50,"The Zoo Bar Cafe, 3000 Connecticut Ave NW, Washington",38.93007,-77.055346

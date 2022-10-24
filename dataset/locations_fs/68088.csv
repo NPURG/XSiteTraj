@@ -1,0 +1,148 @@
+,time,poi,latitude,longitude
+0,2016-09-11 08:52:51,"trinity, 1173 Decatur St, New Orleans",29.9602943477,-90.0597493199
+1,2015-10-01 03:36:28,"Hi-Ho Lounge, 2239 Saint Claude Ave, New Orleans",29.9688785163,-90.0555173429
+2,2015-05-02 01:50:38,"NOLA Desi Kitchen, 3814 Williams Blvd #4, Kenner",30.02611761,-90.2383989672
+3,2015-02-22 08:38:03,"Ming's, 7224 Pontchartrain Blvd, New Orleans",30.0207234524,-90.1146978738
+4,2014-09-20 12:24:50,"Little Tokyo, 1340 S Carrollton Ave, New Orleans",29.948777534,-90.1282508235
+5,2014-08-23 13:55:32,"Upper West, 3321 Pico Blvd, Santa Monica",34.0272593832,-118.454970176
+6,2014-08-13 05:03:57,"Chiba, 8312 Oak St, New Orleans",29.9488585332,-90.131892249
+7,2014-08-08 13:20:30,"Cooter Brown's Tavern & Oyster Bar, 509 S Carrollton Ave, New Orleans",29.9425539274,-90.1344556166
+8,2014-06-23 02:36:38,"The Corner Foodery, 1710 Sansom St, Philadelphia",39.950758,-75.169239
+9,2014-06-20 02:15:07,"Fine Wine & Good Spirits, 1628 John F Kennedy Blvd, Philadelphia",39.9510157426,-75.1618316058
+10,2014-05-23 01:24:56,"NOLA Smokehouse, 739 Jackson Ave, New Orleans",29.9271892367,-90.0744280456
+11,2014-04-24 10:49:44,"The Bulldog, 5135 Canal Blvd, New Orleans",29.9837748008,-90.1102441549
+12,2014-02-13 10:36:54,"H&M, 418 N Peters St, New Orleans",29.9548433544,-90.0643101625
+13,2014-01-14 02:42:33,"Mizado Cocina, 5080 Pontchartrain Blvd, New Orleans",29.9808103012,-90.114004612
+14,2014-01-07 03:01:42,"Taco del Mar, 1515 Poydras St, New Orleans",29.9524983154,-90.0779138129
+15,2013-09-28 07:33:03,"NOLA Brewing, 3001 Tchoupitoulas St, New Orleans",29.9198202567,-90.0814546542
+16,2013-09-22 12:31:29,"Little Tokyo, 1340 S Carrollton Ave, New Orleans",29.948777534,-90.1282508235
+17,2013-08-11 02:11:58,"Taco Bell, 1805 Veterans Memorial Blvd, Metairie",30.002504,-90.143114
+18,2013-08-10 10:02:10,"Antojitos El Arriero, 2633 Williams Blvd, Kenner, LA 70062, Kenner",30.0046088205,-90.2410152125
+19,2013-06-19 09:52:37,"Evangeline, Decatur St, New Orleans",29.9542975631,-90.065295
+20,2013-06-11 00:52:14,"SP+ Parking @ HEAL Garage, 300 Lasalle St, New Orleans",29.9535030076,-90.0775051117
+21,2013-05-29 07:55:28,"Jaeger Burger Co, 872 Harrison Ave, New Orleans",30.004241,-90.104279
+22,2013-03-04 06:03:18,"Twelve Mile Limit, 500 S Telemachus St, New Orleans",29.9681892785,-90.0998961926
+23,2013-02-28 11:01:29,"The Munch Factory, 6325 Elysian Fields Ave, New Orleans",30.0238465783,-90.0607480981
+24,2013-01-04 02:48:12,"PJ's Coffee, 1515 Poydras St, New Orleans",29.9518261865,-90.078634731
+25,2012-11-30 06:11:39,"Avenue Pub, 1732 Saint Charles Ave, New Orleans",29.9369365213,-90.0768828392
+26,2012-11-27 23:34:36,"Lake Avenue Discount, 200 Live Oak St, Metairie",30.0178992748,-90.1235371828
+27,2012-11-25 11:48:52,"AMC Clearview Palace 12, 4486 Veterans Memorial Blvd, Metairie",30.0024829644,-90.1829814876
+28,2012-11-09 11:14:17,"Boucherie, 8115 Jeannette St, New Orleans",29.9498218046,-90.1278394461
+29,2012-11-05 03:19:20,"Buffalo Wild Wings, 3434 Veterans Memorial Blvd, Metairie",30.002908392,-90.1599203317
+30,2012-09-16 12:34:31,"Balcony Bar & Cafe, 3201 Magazine St, New Orleans",29.924112,-90.086567
+31,2012-07-22 07:17:57,"Dat Dog, 5031 Freret St, New Orleans",29.9348629852,-90.1091035901
+32,2012-07-16 02:07:22,"Bawk Nola, 141 W Harrison Ave Apt A, New Orleans",30.0057983721,-90.1168901411
+33,2012-07-16 02:06:00,"Bawk Nola, 141 W Harrison Ave Apt A, New Orleans",30.0057983721,-90.1168901411
+34,2012-07-13 10:14:38,"Elizabeth's, 601 Gallier St, New Orleans",29.9615342499,-90.0410217047
+35,2012-06-09 02:18:57,"Juan in a Million, 2300 E Cesar Chavez St, Austin",30.25529618,-97.719077
+36,2012-03-10 03:02:39,"Island Bar, Terminal D, Gate 4, Miami",25.7985841813,-80.2720978337
+37,2012-03-08 07:58:52,"The Bulldog, 5135 Canal Blvd, New Orleans",29.9837748008,-90.1102441549
+38,2012-03-02 09:35:31,"Bayou Beer Garden, 326 N Jefferson Davis Pkwy, New Orleans",29.9718114771,-90.0914812023
+39,2012-01-29 11:26:57,"d.b.a., 618 Frenchmen St, New Orleans",29.9639555794,-90.057849884
+40,2012-01-15 04:22:12,"Sears Auto Center, 4400 Veterans Memorial Blvd, Metairie",30.004115,-90.1813
+41,2012-01-12 23:17:17,"PJ's Coffee, 4436 Veterans Blvd Clearview Mal, Metairie",30.0036516951,-90.1831919461
+42,2012-01-01 01:23:51,"Castle Burger, LEGOLAND Florida, Winter Haven",27.9901542664,-81.6903305054
+43,2011-12-31 02:19:49,"Universal Cineplex 20, 6000 Universal Blvd #740, Orlando",28.473788017,-81.4650499689
+44,2011-12-30 08:10:45,"BK Whopper Bar, Universal City Walk, Orlando",28.4736148638,-81.4652804909
+45,2011-12-30 03:36:59,"Revenge Of The Mummy, New York, Orlando",28.4767265101,-81.469392485
+46,2011-12-30 01:25:16,"Hollywood Rip Ride Rockit, Production Central, Orlando",28.4753423594,-81.4685649493
+47,2011-12-28 06:07:16,"Orlando Brewing, 1301 Atlanta Ave, Orlando",28.5264366265,-81.3828454653
+48,2011-12-28 05:19:19,"Harry Potter and the Forbidden Journey / Hogwarts Castle, Wizarding World, Orlando",28.4721774192,-81.4734071172
+49,2011-12-28 05:15:32,"Emeril's Tchoup Chop, 6300 Hollywood Way, Orlando",28.4681128355,-81.4682271121
+50,2011-12-28 05:14:43,"Islands Dining Room, 6300 Hollywood Way, Orlando",28.4686459839,-81.4672511294
+51,2011-12-28 05:13:46,"Jake's American Bar, 6300 Hollywood Way, Orlando",28.4687020963,-81.467100977
+52,2011-12-28 05:13:08,"Lone Palm Airport, 6000 Universal Blvd, Orlando",28.4725251135,-81.4667577707
+53,2011-12-28 05:12:12,"Pat O'Brien's, 6000 Universal Blvd, Orlando",28.4727821229,-81.4651358128
+54,2011-11-15 14:04:28,"The Irish House, 1432 Saint Charles Ave, New Orleans",29.939071017,-90.0753268323
+55,2011-11-15 14:02:38,"The Irish House, 1432 Saint Charles Ave, New Orleans",29.939071017,-90.0753268323
+56,2011-10-29 04:59:39,"Place d'Armes Hotel, 625 Saint Ann St, New Orleans",29.9586439441,-90.0633295356
+57,2011-10-29 04:57:26,"St. Louis Cemetery No. 2, 3421 Esplanade Ave, New Orleans",29.982585922,-90.0875697617
+58,2011-10-29 04:55:59,"Pirate's Alley, Pirate's Alley, New Orleans",29.9580845486,-90.064246307
+59,2011-10-29 04:55:04,"The Bombay Club, 830 Conti St, New Orleans",29.956688376,-90.0684624875
+60,2011-10-29 04:51:08,"Le Petit Theatre du Vieux Carre, 616 Saint Peter St, New Orleans",29.957483,-90.0639814138
+61,2011-10-29 04:49:35,"Le Richelieu Hotel, 1234 Chartres St, New Orleans",29.9618202,-90.059577
+62,2011-10-29 04:47:57,"Flanagan's Pub, 625 Saint Philip St, New Orleans",29.9602536906,-90.0622759597
+63,2011-10-29 04:46:16,"1891 Castle Inn of New Orleans, 1539 4th St, New Orleans",29.9312663366,-90.084544031
+64,2011-10-29 04:45:14,"Bottom of the Cup Tearoom, 327 Chartres St, New Orleans",29.9547407865,-90.0662350007
+65,2011-10-29 00:35:38,"Lamothe House, 621 Esplanade Ave, New Orleans",29.9634905495,-90.0590287564
+66,2011-10-29 00:34:35,"Bourbon Orleans Hotel, 717 Orleans St., New Orleans",29.959022522,-90.0648040771
+67,2011-10-29 00:33:19,"Andrew Jackson Hotel, 919 Royal St, New Orleans",29.960049,-90.0630533695
+68,2011-10-29 00:32:22,"Omni Royal Orleans, 621 Saint Louis St, New Orleans",29.9561470085,-90.0657697466
+69,2011-10-29 00:31:14,"Hotel Provincial, 1024 Chartres St, New Orleans",29.960180747,-90.0611722446
+70,2011-10-29 00:28:07,"Hotel Monteleone, 214 Royal St, New Orleans",29.9541,-90.068
+71,2011-10-29 00:24:48,"Cafe Lafitte In Exile, 901 Bourbon St, New Orleans",29.960311,-90.06414506
+72,2011-10-29 00:22:48,"Arnaud's Restaurant, 813 Bienville St, New Orleans",29.9556598992,-90.0686206569
+73,2011-10-01 09:13:02,"Taqueria Guerrero, 208 N Carrollton Ave, New Orleans",29.975461,-90.09930648
+74,2011-09-24 03:57:35,"The Company Burger, 4600 Freret St., New Orleans",29.934932,-90.1056591167
+75,2011-09-24 03:55:25,"Mark Twain19s Pizza Landing, 2035 Metairie Rd, Metairie",29.9854284525,-90.145999
+76,2011-09-24 03:52:57,"El Gato Negro, 300 Harrison Ave, New Orleans",30.005023,-90.112339
+77,2011-09-22 02:21:11,"NOLA Tattoo & Piercing, 8120 Hampson St, New Orleans",29.9441297802,-90.1341311882
+78,2011-09-09 01:12:53,"Taj Mahal Indian Cuisine, 923 Metairie Rd, Metairie",29.9891429384,-90.1320932913
+79,2011-09-03 03:18:56,"Good Time Sushi, 5315 Elysian Fields Ave, New Orleans",30.012956,-90.059941
+80,2011-08-24 03:08:52,"Wit's Inn, 141 N Carrollton Ave, New Orleans",29.9753271378,-90.0998854637
+81,2011-08-23 23:14:40,"Tr6bburger, 8115 Oak St, New Orleans",29.9477952257,-90.1301622391
+82,2011-08-23 22:59:57,"The Holy Ground, Canal St., New Orleans",29.9696755214,-90.0939186372
+83,2011-08-21 15:05:30,"The Holy Ground, Canal St., New Orleans",29.9696755214,-90.0939186372
+84,2011-08-17 05:17:10,"Wit's Inn, 141 N Carrollton Ave, New Orleans",29.9753271378,-90.0998854637
+85,2011-08-17 05:16:08,"Vic's Kangaroo Cafe, 636 Tchoupitoulas St, New Orleans",29.9467952011,-90.0673388614
+86,2011-08-17 05:15:34,"Lucky's Bar, 1625 Saint Charles Ave, New Orleans",29.9380029022,-90.0765541436
+87,2011-08-17 05:14:47,"Mick's Irish Pub, 4801 Bienville St, New Orleans",29.9812935486,-90.10627985
+88,2011-08-16 04:16:02,"Maple Leaf Bar, 8316 Oak St, New Orleans",29.9489433156,-90.1320397854
+89,2011-08-16 04:15:27,"Lucky's Bar, 1625 Saint Charles Ave, New Orleans",29.9380029022,-90.0765541436
+90,2011-08-16 04:14:10,"Avenue Pub, 1732 Saint Charles Ave, New Orleans",29.9369365213,-90.0768828392
+91,2011-08-16 04:13:42,"Vic's Kangaroo Cafe, 636 Tchoupitoulas St, New Orleans",29.9467952011,-90.0673388614
+92,2011-08-16 04:13:15,"Parlay's Dream Lounge, 870 Harrison Ave, New Orleans",30.004108034,-90.1043579699
+93,2011-08-16 04:12:26,"Molly's at the Market, 1107 Decatur St, New Orleans",29.9600289674,-90.0598815767
+94,2011-08-16 03:03:35,"Bud's Broiler Clearview, 2008 Clearview Pkwy, Metairie",29.9923982962,-90.1816821098
+95,2011-08-15 22:19:20,"Louisiana Pizza Kitchen, 615 S Carrollton Ave, New Orleans",29.94331848,-90.133449
+96,2011-07-18 23:01:24,"Angeli on Decatur, 1141 Decatur St, New Orleans",29.960605,-90.059348
+97,2011-07-01 07:35:45,"The Velvet Cactus, 917 Harrison Ave, New Orleans",30.0047189307,-90.103071928
+98,2011-06-29 01:01:18,"Little Tokyo, 310 N Carrollton Ave, New Orleans",29.9762274795,-90.0982644099
+99,2011-06-29 00:59:55,"Lucky's Bar, 1625 Saint Charles Ave, New Orleans",29.9380029022,-90.0765541436
+100,2011-06-29 00:58:15,"Mona Lisa's, 1212 Royal St, New Orleans",29.9622926926,-90.060916844
+101,2011-06-29 00:57:50,"Creole Creamery, 6260 Vicksburg St, New Orleans",30.0040558,-90.1069620833
+102,2011-06-25 01:53:25,"The Store, 814 Gravier St, New Orleans",29.9521086285,-90.0714915991
+103,2011-04-28 02:14:40,"Circle K, 6229 S Claiborne Ave, New Orleans",29.9461312913,-90.1133871402
+104,2011-04-20 02:24:54,"Lakeview Harbor, 911 Harrison Ave, New Orleans",30.0046074827,-90.1035375136
+105,2011-04-11 23:48:55,"Mikimoto Japanese Restaurant & Sushi Bar, 3301 S Carrollton Ave, New Orleans",29.9623336205,-90.1133179665
+106,2011-04-11 23:46:55,"Applebee's, 1220 S Clearview Pkwy, Harahan",29.96115897,-90.18462786
+107,2011-04-11 23:46:18,"Winn-Dixie, 211 Veterans Memorial Blvd, Metairie",30.0015227742,-90.1252162457
+108,2011-04-11 23:45:02,"Walgreens, 4001 Canal St, New Orleans",29.97459233,-90.100054
+109,2011-04-11 23:43:29,"Lowe's Home Improvement, 2501 Elysian Fields Avenue, New Orleans",29.983988,-90.055905
+110,2011-04-09 02:06:15,"The Bulldog, 5135 Canal Blvd, New Orleans",29.9837748008,-90.1102441549
+111,2011-03-25 00:31:07,"Koz's Lakeview, 515 Harrison Ave, New Orleans",30.0051463159,-90.1098096371
+112,2011-03-25 00:27:42,"+1 Gaming, 4201 Veterans Blvd. Suite A-3, Metairie",30.0063953716,-90.1786536149
+113,2011-03-25 00:25:44,"Miyako Sushi Bar & Hibachi, 1403 Saint Charles Ave, New Orleans",29.9397318816,-90.07543
+114,2011-03-25 00:24:54,"Rosco's Po-Boys, 3232 Williams Blvd, Kenner",30.0140937972,-90.2395398301
+115,2011-03-25 00:18:29,"Cooter Brown's Tavern & Oyster Bar, 509 S Carrollton Ave, New Orleans",29.9425539274,-90.1344556166
+116,2011-03-19 06:49:53,"Rouses Market, 400 N Carrollton Ave, New Orleans",29.9763866201,-90.0966024399
+117,2011-02-16 01:15:10,"La Thai Uptown, 4938 Prytania St, New Orleans",29.9245905876,-90.108788
+118,2011-02-13 11:48:55,"Creole Creamery, 4924 Prytania St, New Orleans",29.9245790192,-90.1084962597
+119,2011-01-31 12:07:34,"Juan's Flying Burrito, 4724 S Carrollton Ave, New Orleans",29.97384942,-90.100979805
+120,2011-01-31 12:06:51,"The Bean Gallery, 637 N Carrollton Ave, New Orleans",29.978914462,-90.0964307785
+121,2011-01-21 06:39:20,"Rum House, 3128 Magazine St, New Orleans",29.9241565022,-90.0861793756
+122,2011-01-21 06:37:16,"BSI Comics, 3030 Severn Ave, Metairie",30.0063448428,-90.1599186659
+123,2011-01-21 06:36:16,"Bayou Daiquiris, 3940 Veterans Memorial Blvd, Metairie",30.0056884934,-90.2206672065
+124,2011-01-18 07:57:45,"Mahony's Po-Boy Shop, 3454 Magazine St, New Orleans",29.9223865923,-90.0903602953
+125,2011-01-16 05:25:37,"Rum House, 3128 Magazine St, New Orleans",29.9241565022,-90.0861793756
+126,2011-01-10 14:33:49,"The Harbor Bar & Grill, 3024 17th St, Metairie",30.0089224735,-90.1528976893
+127,2010-12-21 23:34:18,"Mick's Irish Pub, 4801 Bienville St, New Orleans",29.9812935486,-90.10627985
+128,2010-12-07 03:32:01,"1515 Poydras Food Court, 1515 Poydras St, New Orleans",29.9523909734,-90.0780050676
+129,2010-11-05 11:46:49,"Bissonet Plaza Elementary School, 6818 Kawanee Ave, Metairie",30.0122164865,-90.2187824249
+130,2010-10-28 00:50:05,"Capdeville, 520 Capdeville St, New Orleans",29.9473234359,-90.0692626834
+131,2010-10-05 22:42:30,"Danny & Clyde's, 2201 Clearview Pkwy, Metairie",29.9943720545,-90.1813817024
+132,2010-10-05 22:41:06,"SONIC Drive In, 2302 Veterans Memorial Blvd, Kenner",30.0066978945,-90.2357983589
+133,2010-09-28 00:17:35,"Popeyes Chicken and Biscuits, 3444 Williams Blvd, Kenner",30.0192861533,-90.2389848232
+134,2010-09-28 00:14:47,"Doson Noodle House, 135 N Carrollton Ave, New Orleans",29.9753169405,-90.1000539883
+135,2010-09-23 14:22:48,"Williams Seafood & PoBoy, 4041 Williams Blvd, Kenner",30.0289376178,-90.2389526367
+136,2010-08-08 06:53:45,"Steamboat Natchez, 400 Toulouse Street Wharf, New Orleans",29.9551483496,-90.0623238087
+137,2010-06-26 10:56:57,"County Line On the Hill, 6500 FM 2244 Rd, Austin",30.2976478001,-97.835842967
+138,2010-03-20 15:16:33,"Laketown Bar & Grill, 4041 Williams Blvd, Kenner",30.0296342704,-90.2387917042
+139,2010-03-18 02:39:25,"AMC Elmwood Palace 20, 1200 Elmwood Park Blvd, Harahan",29.9623095296,-90.1913046231
+140,2010-02-26 08:48:37,"Puccino's Coffee, #126 17th St, Metairie",30.0088347595,-90.1574993134
+141,2010-02-26 08:41:47,"UNO - Jefferson Center, 3330 North Causeway Blvd., New Orleans",30.010497766,-90.1555359364
+142,2009-12-21 12:27:42,"d.b.a., 618 Frenchmen St, New Orleans",29.9639555794,-90.057849884
+143,2009-11-19 13:12:41,"Lebanon's Cafe, 1500 S Carrollton Ave, New Orleans",29.9495461667,-90.1275107012
+144,2009-11-19 13:08:25,"Mick's Irish Pub, 4801 Bienville St, New Orleans",29.9812935486,-90.10627985
+145,2009-11-19 13:04:23,"Phil's Grill, 3020 Severn Ave, Metairie",30.006005,-90.15955
+146,2009-11-19 06:19:14,"Laketown Bar & Grill, 4041 Williams Blvd, Kenner",30.0296342704,-90.2387917042

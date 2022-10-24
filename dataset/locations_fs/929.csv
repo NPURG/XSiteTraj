@@ -1,0 +1,60 @@
+,time,poi,latitude,longitude
+0,2015-09-21 10:40:43,"The Crow Bar and Kitchen, 2325 E Coast Hwy, Corona del Mar",33.604669,-117.874923
+1,2015-04-11 20:15:20,"Panther Coffee, 2390 NW 2nd Ave, Miami",25.799926,-80.199245
+2,2014-12-04 18:52:38,"The Butler, 123 Victoria St., Potts Point",-33.8717900955,151.222479015
+3,2014-09-01 07:53:33,"Trader Joe's, 2805 Bee Cave Rd, Austin",30.2702814229,-97.7895432793
+4,2014-09-01 07:52:19,"Central Market, 4477 S Lamar Blvd, Austin",30.2314938437,-97.7973947585
+5,2014-09-01 07:49:44,"Turf N' Surf Poboys, 1720 Barton Springs Rd, Austin",30.2634394216,-97.7629110162
+6,2014-08-31 23:03:21,"Sunny Spot, 822 Washington Blvd, Marina del Rey",33.9881421252,-118.451907373
+7,2014-08-31 22:41:52,"Wheatsville Co-op, 4001 S Lamar Blvd, Austin",30.2358598628,-97.7911570349
+8,2014-08-31 22:40:10,"Boardwalk Burgers & Fries, 3103 S Lamar Blvd, Austin",30.2416876506,-97.7847553132
+9,2014-08-31 22:38:38,"South Lamar Wine & Spirits, 2048 S Lamar Blvd, Austin",30.2470683636,-97.7775800228
+10,2014-08-31 22:36:49,"WhichCraft Beer Store, 2110 S Lamar Blvd Ste F, Austin",30.248168496,-97.7712285519
+11,2014-08-31 22:35:32,"Gibson Bar, 1109 S Lamar Blvd, Austin",30.2549710622,-97.761926651
+12,2014-08-31 22:34:46,"The Highball, 1120 S Lamar Blvd, Austin",30.2560553515,-97.7631282806
+13,2014-08-25 12:30:58,"Turf N' Surf Poboys, 1720 Barton Springs Rd, Austin",30.2634394216,-97.7629110162
+14,2014-08-25 12:27:11,"IM Thai, 5207 Brodie Ln, Sunset Valley",30.2302146996,-97.8155855051
+15,2014-08-25 12:26:02,"Whip In Convenience Store & Pub, 1950 S Interstate 35, Austin",30.2379567159,-97.739439648
+16,2014-08-25 12:24:51,"The Peached Tortilla, 5520 Burnet Rd, Austin",30.3307842693,-97.7401186375
+17,2014-08-25 12:23:38,"Lucky Robot Japanese Kitchen, 1303 S Congress Ave, Austin",30.2508376789,-97.7490735054
+18,2014-08-25 12:22:25,"Uchi, 801 S Lamar Blvd, Austin",30.257565234,-97.759844015
+19,2014-08-25 12:19:30,"King's Hardware, 5225 Ballard Ave NW, Seattle",47.6659364864,-122.383038998
+20,2014-08-25 12:18:05,"Majestic Bay Theatres, 2044 NW Market St, Seattle",47.6687733002,-122.384157804
+21,2014-08-25 12:15:26,"Ballard Annex Oyster House, 5410 Ballard Ave NW, Seattle",47.668047844,-122.385110165
+22,2014-08-25 12:12:48,"Bull & Bear Steakhouse, 301 Park Ave, New York",40.7560347593,-73.9728355408
+23,2014-08-25 12:10:43,"Sullivan's Steakhouse, 300 Colorado St, Austin",30.2660172778,-97.7451896667
+24,2014-08-09 09:05:43,"Ellensburg Pasta Company, 600 N Main St, Ellensburg",46.9977439019,-120.548505283
+25,2014-08-08 07:46:15,"The Sexton, 5327 Ballard Ave NW, Seattle",47.6670092856,-122.383935747
+26,2014-08-08 07:44:19,"Joule, 3506 Stone Way N, Seattle",47.6497075251,-122.342501704
+27,2014-08-08 07:42:35,"Oddfellows Cafe & Bar, 1525 10th Ave, Seattle",47.6148863124,-122.3195344
+28,2014-08-08 07:41:47,"Unicorn, 1118 E Pike St, Seattle",47.6140535389,-122.317238969
+29,2014-08-07 01:19:01,"Top Pot Doughnuts, 2124 5th Ave, Seattle",47.6151753672,-122.341201901
+30,2014-08-07 00:32:08,"Serious Pie, 316 Virginia St, Seattle",47.612891693,-122.340560853
+31,2014-08-07 00:27:47,"The Flying Pig Gastown, 102 Water St, Vancouver",49.283902,-123.106588
+32,2014-08-07 00:26:38,"Pidgin, 350 Carrall St, Vancouver",49.2818346791,-123.104575256
+33,2014-08-07 00:25:23,"Hill's Native Art, 159 Water St., Vancouver",49.2842423359,-123.108505657
+34,2014-08-07 00:22:52,"Cafe Campagne, 1600 Post Aly, Seattle",47.609717,-122.341545
+35,2014-08-04 00:01:19,"Tableau Bar Bistro, 1181 Melville St, Vancouver",49.287507,-123.12376
+36,2014-05-04 08:22:40,"Lick Ice Creams, 1100 S Lamar Blvd, Austin",30.2560553515,-97.7634233236
+37,2014-02-24 07:43:21,"Franklin Barbecue, 900 E 11th St, Austin",30.2700851599,-97.7312743664
+38,2014-02-24 07:42:07,"Dolce Neve, 1713 S 1st St, Austin",30.2476011113,-97.7555143578
+39,2014-02-24 07:39:52,"Counter Cafe, 626 N Lamar Blvd, Austin",30.272621425,-97.7535989938
+40,2014-02-24 07:37:35,"Home Slice Pizza, 1415 S Congress Ave, Austin",30.2491320561,-97.749635788
+41,2014-02-24 07:35:13,"Bouldin Creek Caf, 1900 S 1st St, Austin",30.2464631467,-97.7567768097
+42,2014-02-24 07:33:41,"In-N-Out Burger, 4515 Airport Blvd, Austin",30.3044360632,-97.7156314165
+43,2014-02-24 07:32:28,"Contigo Austin, 2027 Anchor Ln, Austin",30.2879263233,-97.703356541
+44,2014-02-24 07:31:18,"Haymaker, 2310 Manor Rd, Austin",30.2845983414,-97.7174555982
+45,2014-02-24 07:25:08,"East Side King, 2310 S Lamar Blvd, Austin",30.247508493,-97.7747186228
+46,2014-02-23 08:37:07,"Pinthouse Pizza, 4729 Burnet Rd, Austin",30.3186443652,-97.7391478967
+47,2014-01-18 00:23:59,"Gus's World Famous Fried Chicken, 117 San Jacinto Blvd, Austin",30.263690859,-97.7416729115
+48,2014-01-18 00:21:21,"Odd Duck, 1201 S Lamar Blvd, Austin",30.254661161,-97.7620566997
+49,2013-03-10 10:35:38,"Parkside, 301 E 6th St, Austin",30.2673287984,-97.7402989952
+50,2013-02-27 01:48:46,"R/GA Austin, 405 N Lamar Blvd, Austin",30.2695940578,-97.7545022964
+51,2013-02-26 07:10:00,"Truluck's Seafood Steak & Crab, 400 Colorado St, Austin",30.266726,-97.7449268103
+52,2013-02-26 03:38:53,"Maggie Mae's Rooftop, 323 E 6th St, Austin",30.2670550346,-97.7396965027
+53,2013-02-26 03:37:08,"Rounders Pizzeria, 1203 W 6th St, Austin",30.272875,-97.757963
+54,2013-02-26 03:36:49,"Shady Grove, 1624 Barton Springs Rd, Austin",30.2628656075,-97.7621203751
+55,2013-02-26 03:33:11,"Juan in a Million, 2300 E Cesar Chavez St, Austin",30.25529618,-97.719077
+56,2013-02-25 04:25:13,"Midnight Cowboy, 313 E 6th St, Austin",30.2671634065,-97.7400443727
+57,2013-02-25 04:13:06,"Hotel San Jose, 1316 S Congress Ave, Austin",30.2507113216,-97.7496039559
+58,2013-02-25 03:59:53,"Josephine House, 1601 Waterston Ave, Austin",30.2806875543,-97.7590374901

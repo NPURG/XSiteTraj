@@ -1,0 +1,67 @@
+,time,poi,latitude,longitude
+0,2012-02-08 20:09:35,"West Dublin/Pleasanton BART Station, 6501 Golden Gate Dr., Dublin",37.6996736221,-121.928553131
+1,2012-02-08 20:08:20,"South San Francisco BART Station, 1333 Mission Rd, South San Francisco",37.6642040782,-122.4439466
+2,2012-02-08 20:07:53,"South Hayward BART Station, 28601 Dixon St, Hayward",37.6344747394,-122.057013639
+3,2012-02-08 20:07:00,"San Leandro BART Station, 1401 San Leandro Blvd, San Leandro",37.7224668423,-122.16119536
+4,2012-02-08 20:06:26,"San Bruno BART Station, 1151 Huntington Ave, San Bruno",37.6379509955,-122.416333985
+5,2012-02-08 20:04:37,"Richmond BART Station, 1700 Nevin Ave., Richmond",37.9364990733,-122.352700073
+6,2012-02-08 20:02:52,"Pleasant Hill/Contra Costa Centre BART Station, 1365 Treat Blvd, Walnut Creek",37.9284864289,-122.056053592
+7,2012-02-08 20:01:02,"Pittsburg/Bay Point BART Station, 1700 W Leland Rd, Pittsburg",38.0185962718,-121.945075145
+8,2012-02-08 19:59:19,"The Orinda Theater, 2 Orinda Theater Square, Orinda",37.878857884,-122.182079931
+9,2012-02-08 19:58:58,"Orinda BART Station, 11 Camino Pablo, Orinda",37.8782044277,-122.183920179
+10,2012-02-08 19:58:31,"North Concord/Martinez BART Station, 3700 Port Chicago Hwy, Concord",38.0026568651,-122.024461646
+11,2012-02-08 19:58:04,"North Berkeley BART Station, 1750 Sacramento St, Berkeley",37.8740601456,-122.283213371
+12,2012-02-08 19:57:01,"Lake Merritt BART Station, 800 Madison St, Oakland",37.7972823708,-122.265009331
+13,2012-02-08 19:56:37,"Lafayette BART Station, 3601 Deer Hill Rd, Lafayette",37.8932827569,-122.124922358
+14,2012-02-08 19:56:02,"Hayward BART Station, 699 B St, Hayward",37.6699281427,-122.087084055
+15,2012-02-08 19:55:40,"Dublin/Pleasanton BART Station, 5801 Owens Dr, Pleasanton",37.7016487794,-121.898889542
+16,2012-02-08 19:54:48,"Daly City BART Station, 500 John Daly Blvd, Daly City",37.7062489964,-122.46879661
+17,2012-02-08 19:54:00,"Colma BART Station, 365 D St, Colma",37.6846453209,-122.465949661
+18,2012-02-08 19:53:36,"Castro Valley BART Station, 3301 Norbridge Ave, Castro Valley",37.6914308778,-122.075053181
+19,2012-02-08 19:52:08,"Bay Fair BART Station, 15242 Hesperian Blvd, San Leandro",37.6969628586,-122.126684189
+20,2012-02-08 19:51:18,"Bay Fair BART Station, 15242 Hesperian Blvd, San Leandro",37.6969628586,-122.126684189
+21,2012-02-08 19:50:40,"Paramount Theatre, 2025 Broadway, Oakland",37.8099654728,-122.268714634
+22,2012-02-08 19:49:59,"Fox Theater, 1807 Telegraph Ave, Oakland",37.8080555276,-122.270481393
+23,2012-02-08 19:48:27,"Rialto Cinemas Cerrito, 10070 San Pablo Ave, El Cerrito",37.9019430014,-122.302754187
+24,2012-02-08 19:47:58,"War Memorial Opera House, 301 Van Ness Ave, San Francisco",37.7785421058,-122.420809865
+25,2012-02-08 19:47:33,"Embarcadero BART Station, 298 Market St., San Francisco",37.793250911,-122.396288638
+26,2012-02-08 19:45:41,"San Mateo-Hayward Bridge, Hwy 92, Hayward",37.6016785622,-122.206787611
+27,2012-02-08 19:45:10,"Lesher Center for the Arts, 1601 Civic Dr, Walnut Creek",37.9013460241,-122.06345628
+28,2012-02-08 19:44:45,"San Bruno BART Station, 1151 Huntington Ave, San Bruno",37.6379509955,-122.416333985
+29,2012-02-08 19:43:16,"24th St. Mission BART Station, 2800 Mission St, San Francisco",37.7522140131,-122.418490956
+30,2012-02-08 19:41:11,"Downtown Berkeley BART Station, 2160 Shattuck Ave., Berkeley",37.870095866,-122.268133163
+31,2010-07-15 04:31:22,"Downtown Berkeley BART Station, 2160 Shattuck Ave., Berkeley",37.870095866,-122.268133163
+32,2010-04-30 00:03:26,"San Francisco-Oakland Bay Bridge, Interstate 80, San Francisco",37.8167601066,-122.354587182
+33,2010-03-06 03:53:17,"Powell St. BART Station, 899 Market St, San Francisco",37.7844768242,-122.407501008
+34,2010-03-06 03:26:06,"Civic Center/UN Plaza BART Station, 1150 Market St., San Francisco",37.779005882,-122.414730056
+35,2010-03-06 03:21:02,"Coliseum BART Station, 7200 San Leandro St, Oakland",37.753496258,-122.196656931
+36,2010-03-06 03:08:58,"Downtown Berkeley BART Station, 2160 Shattuck Ave., Berkeley",37.870095866,-122.268133163
+37,2010-03-06 02:59:05,"19th St Oakland BART Station, 1900 Broadway, Oakland",37.8089819099,-122.268443249
+38,2010-03-06 02:54:05,"24th St. Mission BART Station, 2800 Mission St, San Francisco",37.7522140131,-122.418490956
+39,2010-03-06 02:48:40,"MacArthur BART Station, 555 40th St, Oakland",37.8290823244,-122.266870306
+40,2010-03-06 02:42:02,"Millbrae BART Station, 200 Rollins Rd, Millbrae",37.6003274047,-122.386740312
+41,2010-02-23 02:31:13,"16th St. Mission BART Station, 2000 Mission St, San Francisco",37.7649170471,-122.419779586
+42,2010-02-17 03:46:53,"24th St. Mission BART Station, 2800 Mission St, San Francisco",37.7522140131,-122.418490956
+43,2009-12-04 23:20:45,"Civic Center/UN Plaza BART Station, 1150 Market St., San Francisco",37.779005882,-122.414730056
+44,2009-11-13 05:50:42,"Concord BART Station, 1451 Oakland Ave., Concord",37.97373831,-122.029313149
+45,2009-11-13 04:33:18,"Rockridge BART Station, 5660 College Ave, Oakland",37.8446235667,-122.251449813
+46,2009-11-12 07:02:33,"Fremont BART Station, 2000 Bart Way, Fremont",37.5574371379,-121.976795557
+47,2009-11-10 07:45:45,"19th St Oakland BART Station, 1900 Broadway, Oakland",37.8089819099,-122.268443249
+48,2009-11-10 07:33:29,"Montgomery St. BART Station, 598 Market St, San Francisco",37.7890734727,-122.401693072
+49,2009-11-10 07:15:59,"16th St. Mission BART Station, 2000 Mission St, San Francisco",37.7649170471,-122.419779586
+50,2009-11-05 10:06:17,"Four Barrel Coffee, 375 Valencia St, San Francisco",37.7670243868,-122.421958607
+51,2009-10-30 04:37:31,"El Cerrito Plaza BART Station, 6699 Fairmount Ave., El Cerrito",37.9025039808,-122.299045008
+52,2009-10-25 10:08:44,"Ashby BART Station, 3100 Adeline St., Berkeley",37.8527921192,-122.27035401
+53,2009-10-24 01:09:04,"The Sentinel, 37 New Montgomery St, San Francisco",37.7884265633,-122.401549253
+54,2009-10-17 05:53:42,"16th St. Mission BART Station, 2000 Mission St, San Francisco",37.7649170471,-122.419779586
+55,2009-10-17 05:49:11,"Montgomery St. BART Station, 598 Market St, San Francisco",37.7890734727,-122.401693072
+56,2009-10-17 05:45:17,"Rockridge BART Station, 5660 College Ave, Oakland",37.8446235667,-122.251449813
+57,2009-10-17 05:42:47,"Downtown Berkeley BART Station, 2160 Shattuck Ave., Berkeley",37.870095866,-122.268133163
+58,2009-10-17 05:18:55,"Glen Park BART Station, 2901 Diamond St, San Francisco",37.7333076576,-122.433826288
+59,2009-10-17 05:15:02,"Fruitvale BART Station, 3401 E 12th St, Oakland",37.7752013525,-122.22455278
+60,2009-10-17 05:08:41,"El Cerrito del Norte BART Station, 6400 Cutting Blvd, El Cerrito",37.9251153149,-122.316871836
+61,2009-10-17 05:06:51,"Montgomery St. BART Station, 598 Market St, San Francisco",37.7890734727,-122.401693072
+62,2009-10-17 05:03:53,"Walnut Creek BART Station, 200 Ygnacio Valley Rd, Walnut Creek",37.9057628825,-122.067307254
+63,2009-10-17 04:57:12,"12th St. Oakland City Center BART Station, 1245 Broadway, Oakland",37.8033228183,-122.272043205
+64,2009-10-17 04:48:52,"Civic Center/UN Plaza BART Station, 1150 Market St., San Francisco",37.779005882,-122.414730056
+65,2009-10-17 01:11:00,"24th St. Mission BART Station, 2800 Mission St, San Francisco",37.7522140131,-122.418490956

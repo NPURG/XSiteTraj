@@ -1,0 +1,49 @@
+,time,poi,latitude,longitude
+0,2016-10-03 07:34:47,"Honor Kitchen & Cocktails, 1411 Powell St, Emeryville",37.8393526302,-122.289742142
+1,2016-04-26 05:42:08,"Houndstooth Coffee, 401 Congress Ave, Austin",30.2661589752,-97.7432113052
+2,2016-04-05 08:04:20,"Shiba Ramen, 5959 Shellmound St, Emeryville",37.8413318196,-122.293961541
+3,2016-04-05 08:02:32,"Brown Sugar Kitchen, 2534 Mandela Pkwy, Oakland",37.820326,-122.288866
+4,2016-04-05 08:01:11,"Secret Pizza, 3708 Las Vegas Blvd S, Las Vegas",36.109410209,-115.174178173
+5,2016-04-05 08:00:34,"Wicked Spoon, 3708 Las Vegas Blvd S, Las Vegas",36.1093283012,-115.175943375
+6,2016-04-05 07:57:43,"Granbell Hotel, 4c1e0e3a2-14-5, b0bf3a",35.6965233352,139.705509789
+7,2016-03-28 21:49:43,"Robot Restaurant, 4c1e0e3a1-7-1, 71ac",35.6942943068,139.702727287
+8,2016-03-14 13:19:51,"Vdara Hotel & Spa, 2600 W Harmon Ave, Las Vegas",36.1094149603,-115.177657867
+9,2016-03-14 13:18:11,"The Cosmopolitan of Las Vegas, 3708 Las Vegas Blvd S, Las Vegas",36.1097609506,-115.17383078
+10,2016-03-13 00:45:27,"The Chandelier, 3708 Las Vegas Blvd S, Las Vegas",36.1095536627,-115.173711777
+11,2015-12-27 02:21:59,"Tacolicious, 2031 Chestnut St, San Francisco",37.800404789,-122.44036787
+12,2015-11-15 01:46:06,"Pixar Theatre, 1200 Park Ave, Emeryville",37.8326060816,-122.283828056
+13,2015-11-15 01:45:27,"Sakura Restaurant & Sushi Bar, 350 Saint Peter St, Saint Paul",44.9444781422,-93.0951249049
+14,2015-11-15 01:45:14,"Bedlam Lowertown, 213 4th St E, Saint Paul",44.9484222695,-93.0870054436
+15,2015-11-15 01:44:40,"Science Museum of Minnesota, 120 Kellogg Blvd W, Saint Paul",44.9426013907,-93.0985218778
+16,2015-11-15 01:44:10,"Headwaters Caf, 175 Kellogg Blvd W, Saint Paul",44.9437819386,-93.0990457535
+17,2015-11-15 01:43:19,"The Liffey Irish Pub, 175 7th St W, Saint Paul",44.9396507231,-93.1087017059
+18,2015-11-15 01:42:35,"Presidio Pizza Company, 1862 Divisadero St, San Francisco",37.787007,-122.440104
+19,2015-06-16 11:42:09,"Cafe Benelux, 346 N Broadway, Milwaukee",43.03492398,-87.9071396765
+20,2015-03-08 23:34:55,"Cat Club, 1190 Folsom St, San Francisco",37.77537005,-122.409873872
+21,2015-01-26 15:59:58,"Club Ripples, 5101 E Ocean Blvd, Long Beach",33.7564369788,-118.138466191
+22,2015-01-11 09:35:22,"Bert & Rocky's Cream Company, 242 Yale Ave, Claremont",34.0965207667,-117.717722
+23,2014-12-22 03:02:19,"DAVIDsTEA, 318 University Ave, Palo Alto",37.4462313028,-122.161219741
+24,2014-12-22 03:01:57,"Smokehouse Grill, 5843 Highway 151, Jefferson",34.6931741909,-80.3895221271
+25,2014-09-06 23:13:08,"Sacramento Bagel, 4721 H St, Sacramento",38.5701544961,-121.443611383
+26,2014-07-06 04:52:24,"Amarin Thai Cuisine, 174 Castro St, Mountain View",37.39426789,-122.078848216
+27,2014-06-22 03:56:53,"Dynasty Restaurant, 3601 Portola Dr, Santa Cruz",36.963682,-121.969255
+28,2014-03-24 09:45:59,"Valero, 38440 State Highway 99, Kingsburg",36.4893615246,-119.516513944
+29,2013-10-27 00:50:31,"Ramada Inn at Arizona Mills, 1701 W Baseline Rd, Tempe",33.377413,-111.9664335
+30,2013-07-03 00:50:04,"Ange's Pizza, 4511 N High St, Columbus",40.0541203287,-83.0203628932
+31,2013-05-20 10:22:36,"Skate Zone 71, 4900 Evanswood Dr, Columbus",40.0660146708,-82.9935673776
+32,2013-03-11 23:20:52,"Hungry Soul Caf, 30 S Young St, Columbus",39.9618428098,-82.9951000214
+33,2012-12-22 05:32:48,"Ball Park Pizza, 30120 Town Center Dr, Laguna Niguel",33.525774,-117.713787
+34,2012-10-17 22:06:55,"Caffe Moderne, 300 N Mead St, Wichita",37.6904159462,-97.3284683963
+35,2012-05-27 01:12:39,"Coco Asian Bistro Bar, 1841 Cordova Rd, Fort Lauderdale",26.098138,-80.131139
+36,2012-05-17 00:53:10,"Flip Side, 3945 Easton Sta, Columbus",40.0498222563,-82.9164888487
+37,2012-01-07 05:46:49,"Bureau Of Motor Vehicles, East Margaret, Terre Haute",39.4347637,-87.38058215
+38,2011-11-30 00:58:13,"Chipotle Mexican Grill, 1298 W 5th Ave, Grandview Heights",39.9884648521,-83.0414915085
+39,2011-10-22 00:25:10,"Noodles & Company, 1390 W 5th Ave, Columbus",39.98897529,-83.043311
+40,2011-03-12 01:39:54,"Chipotle Mexican Grill, 1298 W 5th Ave, Grandview Heights",39.9884648521,-83.0414915085
+41,2011-03-12 01:38:21,"Noodles & Company, 1390 W 5th Ave, Columbus",39.98897529,-83.043311
+42,2011-02-18 00:30:12,"Tansky Sawmill Toyota, 6300 Sawmill Rd, Dublin",40.0957798563,-83.0906237637
+43,2010-11-27 15:32:42,"The Verve, 677 Wabash Avenue, Terre Haute",39.4664336333,-87.407288
+44,2010-04-04 01:45:11,"Kentucky Down Under, 3700 L and N Turnpike Rd, Horse Cave",37.2030197313,-85.9351131895
+45,2010-03-27 00:50:48,"zpizza, 945 N High St, Columbus",39.9815198965,-83.0044663369
+46,2010-03-11 10:58:19,"Disneyland, 1313 S Disneyland Dr, Anaheim",33.8103203313,-117.918861543
+47,2010-03-02 11:13:56,"Blue Danube, 2439 N High St, Columbus",40.0120339066,-83.0108464049

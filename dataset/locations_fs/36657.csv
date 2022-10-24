@@ -1,0 +1,200 @@
+,time,poi,latitude,longitude
+0,2016-10-04 06:09:59,"Amitis Cafe, 800 Masonic Ave, San Francisco",37.7739908661,-122.445985674
+1,2016-10-04 06:09:26,"Amitis Cafe, 800 Masonic Ave, San Francisco",37.7739908661,-122.445985674
+2,2016-07-16 14:36:28,"i-Tea, 2150 Irving St, San Francisco",37.7633805039,-122.481233826
+3,2016-01-23 17:13:52,"Alamo Drafthouse Cinema 13 New Mission, 2550 Mission St, San Francisco",37.7562424467,-122.419580485
+4,2016-01-12 12:16:00,"Udon Mugizo, 1581 Webster St, San Francisco",37.7848578972,-122.431780232
+5,2015-11-21 11:01:29,"zzan, 643 Post St, San Francisco",37.787750476,-122.412501106
+6,2015-08-26 05:59:31,"The Domain, 11410 Century Oaks Terrace, Austin",30.4020648756,-97.7258828796
+7,2015-03-20 01:14:00,"Parlor 1255, 1255 Battery St, San Francisco",37.802765226,-122.402726412
+8,2015-03-02 13:35:59,"Tani's Kitchen, 32 Park Plaza Dr, Daly City",37.7013177187,-122.481985688
+9,2015-02-17 08:19:44,"Highland's Bar & Grill, 2011 11th Ave S, Birmingham",33.5006571431,-86.7954796674
+10,2014-12-03 14:09:27,"Armando's Mexican Food, 2295 Palm Ave, San Diego",32.5835088319,-117.084645769
+11,2014-11-21 15:31:27,"flour + water, 2401 Harrison St, San Francisco",37.7590497592,-122.412401549
+12,2014-09-26 03:34:48,"Awful Arthur's, 108 Campbell Ave SE, Roanoke",37.2718709497,-79.938958209
+13,2014-09-26 03:26:59,"K&W Cafeteria, 1609 Hershberger Rd NW, Roanoke",37.3152372132,-79.9622993794
+14,2014-09-26 03:25:20,"Chubbies, 5524 Williamson Road #18, Roanoke",37.32557,-79.95379
+15,2014-09-26 03:20:34,"Cuban Island, 3150 Williamson Rd NW, Roanoke",37.2997966167,-79.941309
+16,2014-08-18 13:35:46,"Sharetea, 5336 Geary Blvd, San Francisco",37.7804527182,-122.476740016
+17,2014-07-30 06:12:50,"Yonaka Modern Japanese Restaurant, 4983 W Flamingo Rd, Las Vegas",36.1148560695,-115.209980723
+18,2014-07-26 04:13:46,"Taco Bar, 2401 California St, San Francisco",37.7888521448,-122.433848408
+19,2014-07-23 09:23:11,"Hanami Brasserie, 1220 9th Ave, San Francisco",37.765558,-122.466358
+20,2014-07-12 02:29:21,"The Square, 1707 Powell St, San Francisco",37.8005441856,-122.411019802
+21,2014-07-12 02:28:04,"Red Dog Restaurant & Bar, 303 2nd St, San Francisco",37.7846768222,-122.395552906
+22,2014-07-12 02:27:01,"Palm House, 2032 Union St, San Francisco",37.7976523464,-122.432935982
+23,2014-07-12 02:25:17,"Lol, 974 Valencia St, San Francisco",37.7573722757,-122.421151158
+24,2014-07-12 02:23:30,"Green Chile Kitchen, 1801 McAllister St, San Francisco",37.777391,-122.44179
+25,2014-07-12 02:22:21,"Fable, 558 Castro St, San Francisco",37.7599946801,-122.435070492
+26,2014-07-03 03:56:43,"Old Ship Saloon, 298 Pacific Ave, San Francisco",37.7977180774,-122.400846746
+27,2014-06-11 08:26:49,"Unicorn Pan-Asian Cuisine, 191 Pine St, San Francisco",37.792297,-122.399453
+28,2014-06-06 03:52:40,"RN74, 301 Mission St, San Francisco",37.7909113264,-122.396166939
+29,2014-06-06 03:39:51,"E&O Kitchen and Bar, 314 Sutter St, San Francisco",37.7895233489,-122.405802911
+30,2014-06-06 03:38:49,"Mission Rock Resort, 817 Terry a Francois Blvd, San Francisco",37.7654527056,-122.386596472
+31,2014-06-06 03:35:46,"B Restaurant & Bar, 720 Howard St, San Francisco",37.7845541144,-122.40172863
+32,2014-06-06 03:34:29,"District, 216 Townsend St, San Francisco",37.7790847236,-122.401112261
+33,2014-06-06 03:33:56,"Boxing Room, 399 Grove St, San Francisco",37.777814,-122.423098
+34,2014-06-06 03:31:51,"Hyde Street Seafood House & Raw Bar, 1509 Hyde St, San Francisco",37.794755,-122.418111
+35,2014-06-06 03:30:05,"Farallon, 450 Post St, San Francisco",37.7883103117,-122.409300506
+36,2014-06-06 03:29:22,"Hog & Rocks, 3431 19th St, San Francisco",37.7602614094,-122.419946194
+37,2014-06-06 03:22:39,"Waterbar, 399 The Embarcadero, San Francisco",37.7906042927,-122.389085983
+38,2014-06-04 06:25:45,"Johnson's Beach & Resort, 16241 First St., Guerneville",38.5001292409,-122.997930989
+39,2014-05-20 08:44:25,"Beamer's 25, 357 Salem Ave SW Apt 115, Roanoke",37.27244,-79.948248
+40,2014-05-13 01:15:24,"Ice Cream Lab, 9461 Santa Monica Blvd, Beverly Hills",34.0712070839,-118.403625126
+41,2014-04-29 07:15:45,"Hopscotch Restaurant & Bar, 1915 San Pablo Ave, Oakland",37.8093286559,-122.272846255
+42,2014-04-29 07:14:58,"Cosecha, 907 Washington St, Oakland",37.8016405,-122.274912067
+43,2014-04-29 07:13:12,"Tamarindo Antojeria Mexicana, 468 8th St, Oakland",37.8005136077,-122.274275117
+44,2014-04-25 07:01:46,"Mayes Oyster House, 1233 Polk St, San Francisco",37.7883054127,-122.420271805
+45,2014-04-13 09:51:14,"The Final Touch, 514 Presidio Ave, San Francisco",37.7868923345,-122.446715524
+46,2014-04-07 03:24:00,"Padrecito, 901 Cole St, San Francisco",37.7657471854,-122.450088249
+47,2014-04-07 03:22:01,"The Little Chihuahua, 292 Divisadero St, San Francisco",37.772053482,-122.437171781
+48,2014-03-31 03:42:22,"Takahashi Market, 271 S Claremont St, San Mateo",37.566959,-122.320845
+49,2014-03-25 22:22:06,"Paramount, 20th Street N, Birmingham",33.5154651161,-86.8063101459
+50,2014-03-25 11:44:21,"Hampton Inn & Suites Brmgham Rverchase Gallra, 4520 Galleria Blvd, Hoover",33.3720415345,-86.811361583
+51,2014-03-25 11:43:11,"Post Office Pies, 209 41st St S, Birmingham",33.524231,-86.774067
+52,2014-03-14 11:00:48,"Grindz Restaurant, 832 Clement St, San Francisco",37.7828842488,-122.46827145
+53,2014-03-14 03:36:19,"Opt Optometric, 1415 Valencia St, San Francisco",37.7504325269,-122.420470905
+54,2014-03-01 11:07:40,"Il Fornaio, 1265 Battery St, San Francisco",37.802683916,-122.402074746
+55,2014-02-23 15:28:11,"Voicebox Southeast, 734 SE 6th Ave, Portland",45.517499,-122.659449
+56,2014-02-19 05:18:27,"Nirvana Beauty and Brows, 17 Columbus Ave, San Francisco",37.7958251815,-122.403734183
+57,2014-01-25 16:36:25,"Aziza, 5800 Geary Blvd, San Francisco",37.7803824382,-122.481642847
+58,2014-01-17 00:28:42,"Teeth SF, 2323 Mission St, San Francisco",37.7599105905,-122.419071671
+59,2013-12-24 05:33:20,"Sparrow Bar and Kitchen, 1640 Haight St, San Francisco",37.7699174056,-122.449286546
+60,2013-12-24 05:31:50,"theLab, 801 22nd St, San Francisco",37.7578434294,-122.389428978
+61,2013-12-24 05:30:12,"Central Kitchen, 3000 20th St, San Francisco",37.7592909954,-122.411063049
+62,2013-12-24 05:29:24,"Namu Gaji, 499 Dolores St, San Francisco",37.7615633853,-122.425857782
+63,2013-12-24 05:26:23,"Stones Throw, 1896 Hyde St, San Francisco",37.7980687488,-122.418808937
+64,2013-12-24 05:24:03,"Sabrosa, 3200 Fillmore St, San Francisco",37.7990012861,-122.435674667
+65,2013-12-16 07:58:39,"Miyako Old Fashion Ice Cream Shop, 1460 Fillmore St, San Francisco",37.7830523262,-122.432864094
+66,2013-11-26 04:52:26,"Off the Grid: Front & Vallejo, Front & Vallejo, San Francisco",37.7990066842,-122.399828933
+67,2013-11-19 07:58:07,"Villa Escudero Plantations And Resort, Pan-Philippine Highway, San Pablo",13.9947401609,121.341159716
+68,2013-10-31 14:24:17,"Shabu House, 354 Clement St, San Francisco",37.7831202493,-122.463312709
+69,2013-10-24 00:54:48,"MarketBar, 1 Ferry Building, San Francisco",37.7946903662,-122.393174187
+70,2013-10-19 04:57:27,"Mayo & Mustard, 450 Mission St, San Francisco",37.7879183603,-122.399076631
+71,2013-09-18 04:25:33,"Sato's Okazuya, 94-235 Hanawai Cir, Waipah",21.3844120596,-158.007452488
+72,2013-09-08 05:50:39,"Brenda's French Soul Food, 652 Polk St, San Francisco",37.7828888764,-122.419104854
+73,2013-08-05 04:17:08,"B05Star Cafe, 127 Clement St, San Francisco",37.7830453376,-122.460719918
+74,2013-07-22 05:25:30,"Clement Street Farmers Market, Clement St, San Francisco",37.7830513438,-122.461322513
+75,2013-07-10 00:35:09,"Ceramiche Parlato, Via Cristoforo Colombo, Positano",40.6277657408,14.4896266417
+76,2013-07-09 03:52:08,"Genki Crepes, 330 Clement St, San Francisco",37.783033,-122.462893
+77,2013-07-06 11:58:33,"Chile Pies Baking Co., 601 Baker St, San Francisco",37.7765217407,-122.441701591
+78,2013-06-23 03:47:00,"Never Too Latte, 486 San Mateo Ave, San Bruno",37.6241297,-122.41109492
+79,2013-06-17 09:51:28,"FIVE, 744 29th St S, Birmingham",33.5105696842,-86.7864622416
+80,2013-06-09 12:01:49,"Chibog, 2055 Gellert Blvd Ste 5, Daly City",37.6501379211,-122.453720719
+81,2013-05-29 10:35:23,"the Abbey Tavern, 4100 Geary Blvd, San Francisco",37.7812493023,-122.463240841
+82,2013-05-29 10:34:34,"Soda Popinski, 1548 California St, San Francisco",37.7907716577,-122.419901258
+83,2013-05-29 10:31:46,"Kome Japanese Seafood & Grill, 1901 Junipero Serra Blvd, Daly City",37.7025914196,-122.470736913
+84,2013-04-21 04:10:15,"Tselogs, 6055 Mission St, Daly City",37.707645,-122.455843748
+85,2013-03-25 05:47:45,"fifty/fifty, 3157 Geary Blvd, San Francisco",37.781552411,-122.453055382
+86,2013-03-25 05:47:16,"fifty/fifty, 3157 Geary Blvd, San Francisco",37.781552411,-122.453055382
+87,2013-03-19 01:28:28,"Pizzeria Delfina, 3611 18th St, San Francisco",37.761594,-122.42427
+88,2013-03-19 01:20:29,"Katy's Place, Mission St., Carmel",36.556305,-121.920871633
+89,2013-03-19 01:19:09,"Sebastian's General Store, 442 SLO San Simeon Road, San Simeon",35.6436020136,-121.191584
+90,2013-03-19 01:06:09,"Sycamore Springs Resort & Spa, 1215 Avila Beach Dr, San Luis Obispo",35.18633455,-120.7137174
+91,2013-03-19 00:52:43,"Honey Berry, 925 Blossom Hill Rd, San Jose",37.251409,-121.862344
+92,2013-03-19 00:51:57,"Tomi Sushi, 4336 Moorpark Ave, San Jose",37.3152944544,-121.978240013
+93,2013-03-17 13:25:56,"San Simeon Bar And Grill, 9520 Castillo Dr, San Simeon",35.6149375172,-121.145580336
+94,2013-03-11 08:26:25,"Urban Bazaar, 1371 9th Ave, San Francisco",37.762832,-122.466251
+95,2013-02-21 06:52:46,"Ken Ken Ramen, 3378 18th St, San Francisco",37.7618819606,-122.41897199
+96,2013-02-02 13:13:26,"PurpleKow, 3620 Balboa St, San Francisco",37.775816,-122.497783
+97,2013-02-01 05:38:55,"Sushirrito, 475 Sansome St, San Francisco",37.794800997,-122.401643288
+98,2013-01-28 07:38:14,"Coffee Bar, 1890 Bryant St, San Francisco",37.7631240298,-122.410998344
+99,2013-01-22 13:24:31,"Tawan's Thai Food, 4403 Geary Blvd, San Francisco",37.780891,-122.46659
+100,2013-01-19 12:59:23,"Okina Sushi, 776 Arguello Blvd, San Francisco",37.775698,-122.458385
+101,2012-12-30 09:53:12,"Sushi Zone, 1815 Market St, San Francisco",37.7713267965,-122.424054628
+102,2012-12-24 13:11:22,"Saiwaii Ramen, 2240 Irving St, San Francisco",37.7634399642,-122.482228739
+103,2012-12-24 07:25:15,"Succulence, 402 Cortland Ave, San Francisco",37.7389409456,-122.417631447
+104,2012-12-19 03:03:15,"Breaking Bread, 4 Embarcadero Center Street Level, San Francisco",37.7952329154,-122.395916283
+105,2012-12-19 02:59:48,"Daiso Japan, 22 Peace Plz #400, San Francisco",37.78534,-122.429421
+106,2012-12-19 02:42:18,"The Queen Mary, 1126 Queens Hwy, Long Beach",33.7524236183,-118.190782482
+107,2012-12-19 02:37:41,"Mr. Ramen, 341 1/2 E 1st St, Los Angeles",34.0496307908,-118.23987923
+108,2012-12-19 02:35:10,"The Pie Hole, 714 Traction Ave, Los Angeles",34.0453839,-118.2362544
+109,2012-11-18 08:46:20,"Plant Warehouse, 1624 California St, San Francisco",37.790504,-122.420953
+110,2012-11-12 02:58:13,"Nopa, 560 Divisadero St, San Francisco",37.774948211,-122.437658389
+111,2012-11-06 03:44:00,"Off the Grid: Front & Vallejo, Front & Vallejo, San Francisco",37.7990066842,-122.399828933
+112,2012-11-04 04:24:14,"Yu-Zen, 4036 Balboa St, San Francisco",37.775555,-122.50223867
+113,2012-11-04 03:47:12,"Sun Fat Seafood Company, 2687 Mission St, San Francisco",37.7541159036,-122.418540731
+114,2012-10-31 04:49:25,"Parlor 1255, 1255 Battery St, San Francisco",37.802765226,-122.402726412
+115,2012-10-21 04:59:59,"Michaels, 4925 Junipero Serra Blvd, Colma",37.6746497391,-122.465516925
+116,2012-10-17 02:19:47,"California Market Center, 110 E 9th St, Los Angeles",34.0408544531,-118.255291892
+117,2012-10-08 04:43:54,"Blarney Stone Bar & Restaurant, 5625 Geary Blvd, San Francisco",37.7800599933,-122.479963303
+118,2012-10-08 03:54:59,"Cassava, 3519 Balboa St, San Francisco",37.7757413724,-122.496642864
+119,2012-10-04 04:11:50,"Molinari Delicatessen, 373 Columbus Ave, San Francisco",37.798467198,-122.407857478
+120,2012-09-08 03:47:42,"Japonica, 5503 California St, San Francisco",37.7840941155,-122.476613224
+121,2012-09-03 01:34:01,"Red Door Cafe, 1608 Bush St, San Francisco",37.78827,-122.423802
+122,2012-08-12 01:59:34,"Adele's Hair Design, 2366 19th Ave, San Francisco",37.7434969,-122.4755907
+123,2012-07-20 07:10:24,"Seattle Coffee Works, 107 Pike St, Seattle",47.6089623828,-122.339726686
+124,2012-07-19 05:39:28,"Mora Iced Creamery, 139 Madrone Ln N, Bainbridge Island",47.6252718768,-122.519746849
+125,2012-07-19 05:37:14,"Mighty-O Donuts, 2110 N 55th St, Seattle",47.668762,-122.333187461
+126,2012-07-19 05:01:45,"Phnom Penh Noodle House, 660 S King St, Seattle",47.59839728,-122.324552
+127,2012-07-18 05:42:49,"Dino's Chicken and Burgers, 2575 W Pico Blvd, Los Angeles",34.047400685,-118.293860287
+128,2012-07-18 05:40:34,"Mario's Peruvian & Seafood Restaurant, 5786 Melrose Ave, Los Angeles",34.0832034978,-118.326305151
+129,2012-07-18 05:40:02,"Cafe Brasil, 10831 Venice Blvd, Los Angeles",34.0172877145,-118.410014882
+130,2012-07-18 04:14:39,"Liliha Bakery, 515 N Kuakini St, Honolul",21.3240596528,-157.858046807
+131,2012-07-18 03:30:58,"Mission Beach Cafe, 198 Guerrero St, San Francisco",37.7680371663,-122.424469403
+132,2012-07-18 03:14:24,"Hong Kong Lounge II 57990f28, 3300 Geary Blvd, San Francisco",37.7817400918,-122.454251481
+133,2012-07-18 03:07:28,"Coit Tower, 1 Telegraph Hill Blvd, San Francisco",37.8023752772,-122.405827045
+134,2012-07-18 02:53:24,"Fish., 350 Harbor Dr, Sausalito",37.868274,-122.49769
+135,2012-07-18 02:03:04,"Tartine Bakery, 600 Guerrero St, San Francisco",37.7614213141,-122.42400974
+136,2012-07-17 08:59:28,"Craftsman and Wolves, 746 Valencia St, San Francisco",37.7608593881,-122.421534061
+137,2012-07-17 08:58:43,"Trouble Coffee, 4033 Judah St, San Francisco",37.7603335064,-122.505369186
+138,2012-07-09 03:42:28,"Cinderella Bakery & Caf, 436 Balboa St, San Francisco",37.7773264411,-122.463666518
+139,2012-07-06 11:02:44,"Lime Tree Southeast Asian Kitchen, 450 Irving St, San Francisco",37.764269,-122.462833
+140,2012-07-03 10:57:51,"Karilagan Fine Filipino Cuisine, 1129 El Camino Real, South San Francisco",37.6566682771,-122.437380552
+141,2012-06-10 06:19:08,"Twirl And Dip, Martin Luther King Jr Dr, San Francisco",37.7696848412,-122.46771312
+142,2012-05-14 10:56:22,"Tai Chi Restaurant, 2031 Polk St, San Francisco",37.7955082895,-122.421798224
+143,2012-05-10 02:12:45,"Hickam AFB Beach, Harbor Dr, Honolul",21.3175062174,-157.951550822
+144,2012-05-10 02:07:34,"Frostcity, 2570 S Beretania St, Honolul",21.2924757833,-157.82232
+145,2012-05-10 02:05:33,"The Spot Lounge, 2325 Taraval St, San Francisco",37.742237,-122.491217
+146,2012-05-10 02:04:15,"Umami Burger, 2184 Union St, San Francisco",37.7972346106,-122.435192147
+147,2012-05-10 02:01:54,"Pioneer Saloon, 3046 Monsarrat Ave, Honolul",21.2692576647,-157.81369983
+148,2012-04-07 13:26:42,"Saru Sushi Bar, 3856 24th St, San Francisco",37.7516376244,-122.428799554
+149,2012-03-25 04:12:19,"American Apparel, 365 Grant Ave, San Francisco",37.7903412169,-122.405620378
+150,2012-03-25 04:11:22,"Sushirrito, 59 New Montgomery St, San Francisco",37.7880274045,-122.401156513
+151,2012-03-25 04:08:32,"E&O Kitchen and Bar, 314 Sutter St, San Francisco",37.7895233489,-122.405802911
+152,2012-03-25 03:59:40,"Raven, 1151 Folsom St, San Francisco",37.7758423485,-122.408867209
+153,2011-12-16 12:53:26,"Hog & Rocks, 3431 19th St, San Francisco",37.7602614094,-122.419946194
+154,2011-11-24 10:59:49,"Tanuki Restaurant f8fdf8, 4419 California St, San Francisco",37.784912491,-122.464860613
+155,2011-11-05 05:38:06,"Battery Street Coffee Roastery, 950 Battery St, San Francisco",37.800181,-122.401359
+156,2011-11-01 07:01:54,"Pauahi Tower, 1003 Bishop St, Honolul",21.3089375558,-157.860678211
+157,2011-10-28 08:47:28,"Linda Fujioka's Alterations, 1357 S Beretania St, Honolul",21.300471,-157.839759
+158,2011-10-27 09:40:25,"Wahoo's Fish Taco, 970 Auahi St., Honolul",21.2957788367,-157.856416736
+159,2011-10-27 06:46:22,"Cream Pot, 444 Niu St, Honolul",21.287111278,-157.832338394
+160,2011-10-26 12:28:57,"Sam's Club, 1000 Kamehameha Hwy, Pearl City",21.3966569901,-157.976806413
+161,2011-10-26 07:50:05,"Bath & Body Works, 1450 Ala Moana Blvd, Honolul",21.2907343619,-157.842584463
+162,2011-10-25 13:43:03,"Himalayan Kitchen, 1137 11th Ave, Honolul",21.282532,-157.800131
+163,2011-10-24 17:12:57,"The Fix, 315 Uluniu St Ste 102, Kailua",21.396988,-157.742237
+164,2011-10-24 17:11:39,"Lanikai Beach, Mokulua Dr, Kailua",21.392998393,-157.715526223
+165,2011-10-23 05:48:35,"Cinnamon's Restaurant, 315 Uluniu St, Kailua",21.3969246131,-157.74207633
+166,2011-09-28 08:13:26,"WideOrbit, 1160 Battery St, San Francisco",37.802369911,-122.401156513
+167,2011-08-19 08:05:12,"College of San Mateo, 1700 W Hillsdale Blvd, San Mateo",37.5361892686,-122.335746288
+168,2011-06-19 15:12:06,"The Starlight Room, 450 Powell St, San Francisco",37.7889230255,-122.408358342
+169,2011-04-26 22:06:44,"Long Beach Airport (LGB), 4100 E Donald Douglas Dr, Long Beach",33.8185186096,-118.145014446
+170,2011-04-11 10:18:42,"Ashley's Cafe, 4454 California St, San Francisco",37.784943,-122.465601
+171,2011-03-27 12:38:48,"Wonderful Desserts & Cafe, 2035 Irving St, San Francisco",37.7634342,-122.4800247
+172,2011-03-05 12:03:15,"Max Karaoke Studio, 333 S Alameda St, Los Angeles",34.0452496314,-118.238480087
+173,2011-02-27 13:57:19,"Bi-Rite Creamery, 3692 18th St, San Francisco",37.7614679284,-122.425735838
+174,2011-01-13 12:31:04,"French Quarter Launderette, 2601 McAllister St, San Francisco",37.775489,-122.454771996
+175,2011-01-12 12:44:39,"Sushi Zone, 1815 Market St, San Francisco",37.7713267965,-122.424054628
+176,2010-12-15 07:37:07,"Royal Grounds Coffee, 3101 Geary Blvd, San Francisco",37.7817662654,-122.452017842
+177,2010-12-14 05:48:17,"FedEx Office Ship Center, 724 Battery St, San Francisco",37.7981010301,-122.400622936
+178,2010-12-02 04:40:31,"Hong Kong Lounge 579952b6, 5322 Geary Blvd, San Francisco",37.7806026942,-122.476562262
+179,2010-11-14 16:32:09,"Burrito Drive, 310 S Brearly St, Madison",43.08102585,-89.368801
+180,2010-10-03 05:43:10,"Little Sheep Mongolian Hot Pot (0fa58a6b4b), 215 S Ellsworth Ave, San Mateo",37.5656730129,-122.323528826
+181,2010-08-20 11:34:04,"Tart to Tart / Mexican Grill, 641 Irving St, San Francisco",37.7640643973,-122.464888254
+182,2010-07-08 00:50:22,"The Griddle Cafe, 7916 W Sunset Blvd, Los Angeles",34.0978706044,-118.362268209
+183,2010-06-18 07:30:38,"Enterprise Rent-A-Car, 233 Ellis St, San Francisco",37.78550378,-122.4091959
+184,2010-06-09 17:25:42,"Foodland, 91-1401 Fort Weaver Rd, 18Ewa Beach",21.3344249162,-158.024290789
+185,2010-06-05 19:47:03,"Miki's, 1001 Lehua Ave, Pearl City",21.3929843015,-157.970530336
+186,2010-05-30 05:05:51,"Liliha Bakery, 515 N Kuakini St, Honolul",21.3240596528,-157.858046807
+187,2010-05-19 06:17:48,"Bella Vista Brazilian Gourmet Pizza, 10826 Venice Blvd, Culver City",34.0168606853,-118.409666875
+188,2010-04-08 09:05:03,"Doughboys Cafe & Bakery, 8136 W 3rd St, Los Angeles",34.072266,-118.36712
+189,2010-03-27 17:11:57,"Rush Street, 9546 Washington Blvd, Culver City",34.0229990028,-118.394748013
+190,2010-02-20 07:50:52,"Rocky's Coffee Shop, 94-316 Waipahu Depot St, Waipah",21.3847149383,-158.006976022
+191,2010-02-20 07:39:07,"Kewalo Basin, 420 Ward Ave, Honolul",21.2931730471,-157.856647968
+192,2010-02-20 07:23:11,"Watertown Hotel, 4242 Roosevelt Way NE, Seattle",47.659551,-122.317512631
+193,2010-02-15 15:38:37,"Max Karaoke Studio, 2130 Sawtelle Blvd #101, Los Angeles",34.0389390433,-118.441834514
+194,2010-02-15 15:37:11,"J. Paul Getty Museum, 1200 Getty Center Dr, Los Angeles",34.0774040572,-118.474554815
+195,2009-12-12 12:36:20,"Daikokuya, 327 E 1st St, Los Angeles",34.0498506802,-118.240318958
+196,2009-12-12 12:32:48,"Downtown Los Angeles Artwalk, 411 S Main St, Los Angeles",34.0475575438,-118.249547283
+197,2009-12-12 12:31:41,"Crane's Hollywood Tavern, 1611 N El Centro Ave, Los Angeles",34.10024,-118.32398
+198,2009-12-12 12:29:07,"Father's Office, 3229 Helms Ave, Los Angeles",34.0303448687,-118.384605646

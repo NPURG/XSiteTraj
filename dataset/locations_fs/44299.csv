@@ -1,0 +1,51 @@
+,time,poi,latitude,longitude
+0,2015-05-15 09:55:37,"Wasabi Sushi Bar, 433 S Teller St, Lakewood",39.7085541487,-105.077222586
+1,2015-05-15 09:52:40,"Dickeys BBQ Pit, 3140 S Wadsworth Blvd, Lakewood",39.6615760787,-105.080952464
+2,2015-05-15 09:50:42,"Crave Real Burgers - Highlands Ranch, 9344 Dorchester St, Highlands Ranch",39.5475270335,-104.999376905
+3,2015-05-15 09:48:34,"Tokyo Joe's, 8501 W Bowles Ave, Littleton",39.6119978023,-105.095253659
+4,2015-02-06 10:17:52,"Little Man Ice Cream, 2620 16th St, Denver",39.7595534249,-105.011091627
+5,2015-02-06 10:16:49,"Bash Brothers Gaming Cave, 5500 S Simms St Ste F, Littleton",39.6149749756,-105.12802887
+6,2015-02-06 10:12:32,"RICE Bistro & Sushi at Aspen Grove, 7301 S Santa Fe Dr Unit 410, Littleton",39.584714568,-105.026396796
+7,2015-01-03 09:39:25,"Bash Brothers Gaming Cave, 5500 S Simms St Ste F, Littleton",39.6149749756,-105.12802887
+8,2015-01-03 09:38:26,"City Base Cinema, 2623 SE Military Dr, San Antonio, TX 78223, San Antonio",29.3542934582,-98.4510888597
+9,2014-10-22 01:32:10,"PetSmart, 8500 W Crestline Ave, Littleton",39.6170888707,-105.092587433
+10,2014-09-26 09:30:03,"Fontana Sushi, 8601 W Cross Dr, Littleton",39.6157692592,-105.093597968
+11,2014-09-26 09:29:13,"Taco Cabana, 433 W Bandera Rd, Boerne",29.7800227098,-98.7349891663
+12,2014-09-26 09:28:21,"Cafe Rio Mexican Grill, 14600 W Colfax Ave, Lakewood",39.7320758595,-105.163379838
+13,2014-09-26 09:25:30,"Wild Ginger Thai Restaurant, 399 W Littleton Blvd, Littleton",39.6134918217,-104.99295785
+14,2014-09-26 09:18:37,"SuperTarget, 9390 W Cross Dr, Littleton",39.6109442404,-105.100911682
+15,2014-09-26 09:17:33,"Skate City - Littleton, 5801 S Lowell Way, Littleton",39.6111899614,-105.035616159
+16,2014-09-13 07:57:56,"Bacco Trattoria, 10125 W San Juan Way Ste 150, Littleton",39.5638865232,-105.111722
+17,2014-03-12 13:38:18,"Argo Gold Mine & Mill, 2350 Riverside Dr, Idaho Springs",39.7424287883,-105.506285662
+18,2014-01-30 23:58:32,"Ground Up Coffee Cafe, 11641 W. Belleview Avenue, Littleton",39.6238349389,-105.129747223
+19,2014-01-30 11:20:00,"India's Clay Oven, 9126 W Bowles Ave Ste 1B, Littleton",39.6089315648,-105.101157191
+20,2013-12-23 13:03:48,"Ulta Beauty, 7301 South Santa Fe Drive,Suite 530, Littleton",39.5843967683,-105.026396796
+21,2013-11-03 11:48:41,"Asylum Haunted House, 6100 E 39th Ave, Denver",39.7707463391,-104.916211543
+22,2013-10-26 07:15:46,"Lola's Sugar Rush, 2490 W Main St, Littleton",39.6137674673,-105.017271728
+23,2013-10-11 02:29:11,"Graze, 11727 W Ken Caryl Ave, Littleton",39.5818284476,-105.130129827
+24,2013-07-27 00:49:12,"Krispy Kreme Doughnuts, 7514 Parkway Dr, Littleton",39.564824,-104.902849
+25,2013-03-21 08:58:16,"Salsa Brava, 52 Springer Dr, Highlands Ranch",39.55935115,-104.988496043
+26,2013-03-11 13:06:08,"Sledding Hill Park, S. Kipling Pkwy & W. Ken Caryl Ave.,, Littleton",39.5818229093,-105.108402726
+27,2013-03-02 15:18:06,"The Salon, 9956 W Remington Pl #14, Littleton",39.5641555786,-105.107818604
+28,2013-03-02 15:10:37,"Crave Real Burgers - Highlands Ranch, 9344 Dorchester St, Highlands Ranch",39.5475270335,-104.999376905
+29,2013-01-06 09:06:53,"Virgilio's Pizzeria & Wine Bar, 10025 W San Juan Way, Littleton",39.563439,-105.11073985
+30,2012-12-25 11:48:07,"Windcrest Neighborhood Of Lights, 4900-4922 Farm to Market 1976, San Antonio",29.5137408178,-98.3827997748
+31,2012-12-25 05:06:23,"Tazas Coffee, 3126 Pat Booker Rd, Universal City",29.5600854925,-98.3253748191
+32,2012-12-17 04:11:23,"Southwest Plaza Mall, 8501 W Bowles Ave, Littleton",39.612025089,-105.095379264
+33,2012-11-27 02:56:11,"Pete's Cafe, 3484 S Broadway, Englewood",39.653471228,-104.987605979
+34,2012-09-05 22:32:19,"Village Inn, 12622 W Ken Caryl Ave, Littleton",39.5792313381,-105.138376028
+35,2012-07-12 04:20:28,"Film on the Rocks, 18300 W Alameda Pkwy, Morrison",39.6653968833,-105.205618133
+36,2012-07-06 03:16:22,"Jack-n-Grill, 2630 W Belleview Ave, Littleton",39.6227753641,-105.018681258
+37,2012-06-30 06:25:24,"Alamo Packing & Candy Company, 2738 Blanco Rd, San Antonio",29.4722197125,-98.5077470541
+38,2012-06-29 20:19:51,"SeaWorld San Antonio, 10500 Sea World Dr, San Antonio",29.4583201494,-98.6999702454
+39,2012-06-21 21:28:15,"Chick-fil-A C470 & Kipling, 9976 W Remington Pl, Littleton",39.5632304776,-105.109354674
+40,2012-06-02 00:34:27,"Michaels, 5382 S Wadsworth Blvd, Littleton",39.6200199931,-105.087976903
+41,2012-04-28 05:30:43,"Danny Cash Hot Sauce, 3378 S Broadway, Englewood",39.6547999518,-104.987714384
+42,2012-04-25 03:15:58,"Great Harvest Bread Co, 5910 S University Blvd, Greenwood Village",39.6084012657,-104.959668458
+43,2012-04-13 09:04:08,"3 Potrillos, 11707 W Ken Caryl Ave, Littleton",39.5821072933,-105.129701539
+44,2012-04-13 00:07:11,"Columbine Library, 7706 W Bowles Ave, Littleton",39.6092454938,-105.082122774
+45,2012-03-24 01:02:34,"Wendy's, 8555 W Belleview Ave, Littleton",39.624603416,-105.092005094
+46,2012-01-20 05:01:50,"NCAR - National Center for Atmospheric Research, 1850 Table Mesa Dr, Boulder",39.9778107025,-105.274987221
+47,2012-01-20 05:00:11,"NCAR Mesa Lab, 1850 Table Mesa Dr, Boulder",39.9792227835,-105.274897583
+48,2011-11-17 02:33:22,"Jump Street Fun Center, 10081 W Bowles Ave, Littleton",39.610469026,-105.111200536
+49,2010-03-23 22:46:44,"Armand Bayou Nature Center, 8500 Bay Area Blvd, Pasadena",29.5959257017,-95.0723866188

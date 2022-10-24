@@ -1,0 +1,80 @@
+,time,poi,latitude,longitude
+0,2014-04-30 02:48:52,"Union Station, 50 Massachusetts Ave NE, Washington",38.8980553075,-77.0061023515
+1,2014-02-01 23:36:39,"Holiday Inn Washington D.c.-Greenbelt Md, 7200 Hanover Dr, Greenbelt",38.989226,-76.882111
+2,2013-08-16 06:10:40,"Warmdaddy's, 1400 S Columbus Blvd, Philadelphia",39.929640544,-75.1450038199
+3,2013-07-13 02:31:04,"Waterside Restaurant, 10207 Wincopin Cir, Columbia",39.2170606501,-76.8545540754
+4,2013-07-06 08:41:33,"Old Town Waterfront, 0 Cameron St, Alexandria",38.8050328663,-77.0394649478
+5,2013-07-06 06:56:54,"Old Hickory Steakhouse, 201 Waterfront St, Oxon Hill",38.7819001383,-77.0171023956
+6,2013-06-12 06:59:27,"P.J. Clarke's, 1600 K St NW, Washington",38.902393611,-77.0365581059
+7,2013-05-27 10:02:20,"The County Line, 111 W Crockett St, San Antonio",29.4253781486,-98.4894530475
+8,2013-05-21 02:50:13,"Sheraton Columbia Town Center Hotel, 10207 Wincopin Cir, Columbia",39.2170981525,-76.8547567898
+9,2013-05-21 02:48:30,"Sheraton Columbia Town Center Hotel, 10207 Wincopin Cir, Columbia",39.2170981525,-76.8547567898
+10,2013-05-16 21:41:44,"Sheraton Columbia Town Center Hotel, 10207 Wincopin Cir, Columbia",39.2170981525,-76.8547567898
+11,2013-05-16 21:38:29,"Sheraton Columbia Town Center Hotel, 10207 Wincopin Cir, Columbia",39.2170981525,-76.8547567898
+12,2013-05-16 21:37:24,"Sheraton Columbia Town Center Hotel, 10207 Wincopin Cir, Columbia",39.2170981525,-76.8547567898
+13,2013-04-28 03:54:56,"Embassy Suites by Hilton Washington DC Convention Center, 900 10th Street NW, Washington",38.9019069245,-77.0260490369
+14,2013-03-10 20:18:05,"Sheraton Suites Old Town Alexandria, 801 N Saint Asaph St, Alexandria",38.8134037688,-77.0435355333
+15,2013-03-10 20:14:59,"Sheraton Suites Old Town Alexandria, 801 N Saint Asaph St, Alexandria",38.8134037688,-77.0435355333
+16,2013-03-10 20:13:17,"Sheraton Suites Old Town Alexandria, 801 N Saint Asaph St, Alexandria",38.8134037688,-77.0435355333
+17,2013-03-10 20:11:15,"Sheraton Suites Old Town Alexandria, 801 N Saint Asaph St, Alexandria",38.8134037688,-77.0435355333
+18,2013-03-10 20:08:31,"Sheraton Suites Old Town Alexandria, 801 N Saint Asaph St, Alexandria",38.8134037688,-77.0435355333
+19,2013-03-10 20:06:28,"Sheraton Suites Old Town Alexandria, 801 N Saint Asaph St, Alexandria",38.8134037688,-77.0435355333
+20,2013-03-10 20:03:42,"Sheraton Suites Old Town Alexandria, 801 N Saint Asaph St, Alexandria",38.8134037688,-77.0435355333
+21,2013-03-10 20:01:25,"Sheraton Suites Old Town Alexandria, 801 N Saint Asaph St, Alexandria",38.8134037688,-77.0435355333
+22,2013-03-10 19:59:53,"Sheraton Suites Old Town Alexandria, 801 N Saint Asaph St, Alexandria",38.8134037688,-77.0435355333
+23,2013-02-14 03:52:23,"Delectable Cakery, 7150 Chesapeake Rd, Hyattsville",38.948918,-76.884743
+24,2013-01-11 16:29:47,"Luxor Hotel & Casino, 3900 Las Vegas Blvd S, Las Vegas",36.0955301622,-115.175579319
+25,2013-01-06 04:33:38,"RIO All-Suite Hotel & Casino, 3700 W Flamingo Rd, Las Vegas",36.1167902744,-115.18780724
+26,2012-12-22 05:40:08,"International Lounge, Washington Plaza Hotel, Washington",38.9060465388,-77.0311490576
+27,2012-11-15 17:48:05,"Super Spa & Nails, 326 Petrie Ln, Lanham",38.922719704,-76.8481515096
+28,2012-11-15 17:45:07,"Super Spa & Nails, 326 Petrie Ln, Lanham",38.922719704,-76.8481515096
+29,2012-10-22 02:13:02,"Union Station, 50 Massachusetts Ave NE, Washington",38.8980553075,-77.0061023515
+30,2012-10-20 01:40:46,"The Westin Washington, D.C. City Center, 1400 M St NW, Washington",38.9055240168,-77.0335162488
+31,2012-10-20 01:38:10,"The Westin Washington, D.C. City Center, 1400 M St NW, Washington",38.9055240168,-77.0335162488
+32,2012-10-05 09:59:49,"Radisson Hotel & Suites Chelmsford-Lowell, 10 Independence Dr, Chelmsford",42.6032276518,-71.3484705083
+33,2012-09-20 03:40:36,"Washington Marriott at Metro Center, 775 12th St NW, Washington",38.89911,-77.02807
+34,2012-08-31 01:53:03,"CIBO Express Gourmet Markets, 1 Aviation Circle, Arlington",38.8468934109,-77.0426865689
+35,2012-07-16 11:44:03,"Mango's Tropical Cafe, 900 Ocean Dr, Miami Beach",25.7793628434,-80.1309538854
+36,2012-07-07 04:33:42,"Pentagon City Metro Station, 1250 S Hayes St, Arlington",38.8627264018,-77.0592768378
+37,2012-05-03 02:54:00,"Gate 3: Bangor International Airport, 287 Godfrey Blvd, Bangor",44.8081972111,-68.8165512845
+38,2012-05-03 02:52:02,"Gate 3: Bangor International Airport, 287 Godfrey Blvd, Bangor",44.8081972111,-68.8165512845
+39,2012-05-03 02:51:02,"Gate 3: Bangor International Airport, 287 Godfrey Blvd, Bangor",44.8081972111,-68.8165512845
+40,2012-04-25 21:20:20,"Cape Air Flight, Boston Logan International Airport (BOS), Boston",42.365642,-71.015113
+41,2012-04-25 21:18:18,"Cape Air Flight, Boston Logan International Airport (BOS), Boston",42.365642,-71.015113
+42,2012-02-29 04:27:57,"Fire & Sage, 775 12th St NW, Washington",38.899537,-77.028074
+43,2012-02-28 08:32:40,"The Normandy Hotel, 2118 Wyoming Ave NW, Washington",38.917435,-77.04751362
+44,2012-02-04 04:56:32,"China Express, 8000 Martin Luther King Jr Hwy, Lanham",38.9322717539,-76.8687770596
+45,2012-02-04 04:56:01,"China Express, 8000 Martin Luther King Jr Hwy, Lanham",38.9322717539,-76.8687770596
+46,2012-02-03 04:13:58,"McCarran International Airport (LAS), 5757 Wayne Newton Blvd, Las Vegas",36.0844442191,-115.149176522
+47,2012-01-29 12:13:48,"Eiffel Tower, 3655 Las Vegas Blvd S, Las Vegas",36.1124565562,-115.172261719
+48,2012-01-29 06:20:14,"Shark Reef Aquarium, 3950 Las Vegas Blvd S, Las Vegas",36.0890861938,-115.176494113
+49,2012-01-29 04:57:21,"Shark Reef Aquarium, 3950 Las Vegas Blvd S, Las Vegas",36.0890861938,-115.176494113
+50,2012-01-28 09:29:02,"Sony 3D World, MGM Grand, Las Vegas",36.1027281774,-115.168897765
+51,2012-01-28 06:28:15,"Zumanity, New York-New York Hotel & Casino, Las Vegas",36.1029532888,-115.175046652
+52,2012-01-28 06:26:43,"Zumanity, New York-New York Hotel & Casino, Las Vegas",36.1029532888,-115.175046652
+53,2012-01-27 07:50:53,"Delano Las Vegas, 3950 Las Vegas Blvd S, Las Vegas",36.0929749959,-115.177495752
+54,2012-01-14 07:06:52,"The Melrose Georgetown Hotel, 2430 Pennsylvania Avenue NW, Washington",38.9031499408,-77.0526263872
+55,2012-01-07 07:40:22,"Fire & Sage, 775 12th St NW, Washington",38.899537,-77.028074
+56,2011-12-20 07:41:55,"Starbucks, 1000 H St, Washington",38.8993,-77.026517
+57,2011-12-03 13:29:00,"Cheverly Metro Station, 5501 Columbia Park, Cheverly",38.9163367253,-76.9166816964
+58,2011-11-28 08:10:55,"Landover Shell, 8555 Martin Luther King Jr Hwy, Lanham",38.9367413087,-76.8590426445
+59,2011-07-01 06:49:43,"Ozio Restaurant & Lounge, 1813 M St Nw, Washington",38.9057869762,-77.0424735546
+60,2011-06-01 05:13:48,"Union Station Post Office, 50 Massachusetts Ave NE, Washington",38.8978701043,-77.0069178287
+61,2011-06-01 05:10:15,"Union Station, 50 Massachusetts Ave NE, Washington",38.8980553075,-77.0061023515
+62,2011-06-01 05:05:14,"Union Station, 50 Massachusetts Ave NE, Washington",38.8980553075,-77.0061023515
+63,2011-04-29 20:02:15,"Red Velvet Cupcakery, 675 E St NW, Washington",38.896282121,-77.021960993
+64,2011-04-29 19:59:59,"Red Velvet Cupcakery, 675 E St NW, Washington",38.896282121,-77.021960993
+65,2011-04-23 12:00:41,"L'Enfant Plaza Metro Station, 600 Maryland Ave SW, Washington",38.8861807173,-77.0215954803
+66,2011-02-08 12:03:18,"Walmart, 6210 Annapolis Rd, Landover Hills",38.94242112,-76.90755844
+67,2011-01-30 07:00:28,"Wegmans, 9001 McHugh Dr, Glenarden",38.9217059717,-76.8499760212
+68,2011-01-30 05:01:54,"Wegmans, 9001 McHugh Dr, Glenarden",38.9217059717,-76.8499760212
+69,2011-01-24 21:29:25,"Foggy Bottom-GWU Metro Station, 2301 I St. NW, Washington",38.900856101,-77.0501021557
+70,2011-01-20 08:53:58,"Wegmans, 9001 McHugh Dr, Glenarden",38.9217059717,-76.8499760212
+71,2011-01-16 23:43:41,"Ardmore Neighborhood Park, 9301 Ardmore Road, Upper Marlboro",38.9369535505,-76.8461017176
+72,2011-01-13 07:17:16,"Woodmore Towne Centre at Glenarden, 2250 Petrie Ln, Glenarden",38.9213341487,-76.8469745727
+73,2011-01-12 08:27:33,"Woodmore Towne Centre at Glenarden, 2250 Petrie Ln, Glenarden",38.9213341487,-76.8469745727
+74,2010-10-19 05:13:33,"Salt Lake City International Airport (SLC), 776 N Terminal Dr, Salt Lake City",40.7871760539,-111.981542912
+75,2010-10-19 05:11:52,"Salt Lake City International Airport (SLC), 776 N Terminal Dr, Salt Lake City",40.7871760539,-111.981542912
+76,2010-10-18 23:01:31,"Mandalay Bay Resort and Casino, 3950 Las Vegas Blvd S, Las Vegas",36.0921662414,-115.175162449
+77,2010-10-18 22:59:02,"Mandalay Bay Resort and Casino, 3950 Las Vegas Blvd S, Las Vegas",36.0921662414,-115.175162449
+78,2010-10-18 22:56:20,"Mandalay Bay Resort and Casino, 3950 Las Vegas Blvd S, Las Vegas",36.0921662414,-115.175162449

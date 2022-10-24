@@ -1,0 +1,52 @@
+,time,poi,latitude,longitude
+0,2016-09-28 01:09:24,"Kilo Bravo, 180 N 10th St, Brooklyn",40.7190138592,-73.9554011822
+1,2016-09-28 01:08:34,"Overlook Mountain Fire Tower, Meads mountain road, Woodstock",42.084887,-74.093351
+2,2016-09-28 01:07:52,"Barner Books, 3 Church St, New Paltz",41.74807,-74.086162
+3,2016-09-28 01:07:14,"Main Street Bistro, 59 Main St, New Paltz",41.7478895108,-74.0862136565
+4,2016-08-05 21:07:31,"Jimmy's Diner, 577 Union Ave, Brooklyn",40.7177109591,-73.9520521019
+5,2016-08-05 21:06:31,"Pies 'n' Thighs, 166 S 4th St, Brooklyn",40.7112552473,-73.9614426247
+6,2016-07-08 21:23:16,"Katy's Place, Mission St., Carmel",36.556305,-121.920871633
+7,2016-04-02 00:22:59,"Mighty Quinn's BBQ, 1492 2nd Ave, New York",40.772456,-73.955677
+8,2016-04-02 00:22:34,"Copper Kettle Kitchen, 1471 2nd Ave, New York",40.7717713087,-73.9560586277
+9,2016-04-02 00:21:43,"Zengo New York, 622 3rd Ave, New York",40.7496480061,-73.9756997325
+10,2016-01-28 06:27:18,"Khe-Yo, 157 Duane St, New York",40.7168386269,-74.0086323023
+11,2015-12-17 05:35:15,"The Gaf West, 401 W 48th St, New York",40.7623764512,-73.9902369917
+12,2015-11-20 23:40:45,"CrossFit Virtuosity, 98 Bayard St, Brooklyn",40.7189706597,-73.9484760065
+13,2015-11-20 23:39:58,"Fairway Market, 766 Avenue of the Americas, New York",40.7444565861,-73.9915856354
+14,2015-11-11 03:03:32,"Think Coffee, 73 8th Ave, New York",40.7394295841,-74.0026728491
+15,2015-11-11 03:02:58,"Fellow Barber, 5 Horatio St, New York",40.7385898488,-74.0036254472
+16,2015-11-11 03:02:21,"Liquiteria, 26 E 17th St, New York",40.7373236513,-73.9910745621
+17,2015-10-13 02:38:52,"Croxley's Abbey, 63 Grand St, Brooklyn",40.7159722514,-73.9648003718
+18,2015-10-13 02:38:17,"West Side Tennis Courts, West Houston and West Side Highway, New York",40.7270961558,-74.0113306046
+19,2015-10-13 02:37:14,"The Centurion Lounge LaGuardia, LaGuardia Airport, Flushing",40.7745040292,-73.8718984766
+20,2015-10-13 02:34:43,"HG Sply Co., 2008 Greenville Ave, Dallas",32.814230001,-96.7700564861
+21,2015-10-13 02:32:54,"Dallas Love Field (DAL), 8008 Cedar Springs Rd, Dallas",32.8451812212,-96.8497966016
+22,2015-10-13 02:32:26,"Pulp, 8 W 36th St, New York",40.7501389353,-73.9846644101
+23,2014-09-14 01:43:41,"Croxley's Abbey, 63 Grand St, Brooklyn",40.7159722514,-73.9648003718
+24,2014-04-28 19:58:24,"The Club At Morgan Hill, 100 Clubhouse Dr, Easton",40.6654677908,-75.199590651
+25,2013-08-30 01:03:15,"ChurchKey, 1337 14th St NW, Washington",38.908492,-77.031603
+26,2013-08-30 01:02:35,"Nationals Park, 1500 S Capitol St SE, Washington",38.8730828941,-77.0075364629
+27,2013-08-30 01:01:22,"Chick & Ruth's Delly, 165 Main St, Annapolis",38.9777928973,-76.4899674351
+28,2013-08-30 01:00:18,"Dogfish Head Brewings & Eats, 320 Rehoboth Ave, Rehoboth Beach",38.7152784728,-75.0870733392
+29,2013-08-30 00:59:22,"QuietStorm Surf Shop, 7409 Coastal Hwy, Ocean City",38.3312546293,-75.0850725174
+30,2013-08-30 00:58:44,"Dumser's Dairyland, 601 S Atlantic Ave, Ocean City",38.3275357643,-75.0870334192
+31,2013-08-30 00:58:06,"Seacrets Jamaica USA, 117 49th St, Ocean City",38.374553,-75.071816
+32,2013-08-30 00:57:16,"The Bonfire Restaurant, 199 71st St, Ocean City",38.3919817243,-75.064477001
+33,2013-01-16 10:00:56,"Persons of Interest, 84 Havemeyer St, Brooklyn",40.7140073821,-73.9560184481
+34,2012-06-12 00:04:49,"Shake Shack, 1849 Post Rd E, Westport",41.1383626475,-73.2990646362
+35,2012-05-26 07:58:37,"Ba'sik, 323 Graham Ave, Brooklyn",40.714022,-73.94442396
+36,2011-09-14 03:33:51,"Radegast Hall & Biergarten, 113 N 3rd St, Brooklyn",40.7165343771,-73.9614483645
+37,2011-09-14 03:32:26,"Brooklyn Brewery, 79 N 11th St, Brooklyn",40.7216651906,-73.9576658067
+38,2011-09-14 03:31:27,"South 4th Bar & Cafe, 90 S 4th St, Brooklyn",40.712298871,-73.9643999934
+39,2011-09-14 03:31:06,"The Diamond, 43 Franklin St, Brooklyn",40.726805,-73.957422
+40,2011-09-14 03:30:06,"Blue Bottle Coffee, 160 Berry St, Brooklyn",40.7173793922,-73.96058321
+41,2011-09-14 03:29:43,"Smorgasburg Williamsburg, 90 Kent Ave, Brooklyn",40.7208687104,-73.9622519332
+42,2011-09-14 03:29:21,"Crif Dogs, 555 Driggs Ave, Brooklyn",40.717006,-73.956565
+43,2011-09-14 03:27:43,"The Meatball Shop, 170 Bedford Ave, Brooklyn",40.7181100714,-73.9575452688
+44,2011-09-14 03:26:09,"Peter Pan Donut & Pastry Shop, 727 Manhattan Ave, Brooklyn",40.7261176667,-73.9521284833
+45,2011-09-14 03:25:07,"Van Leeuwen Artisan Ice Cream, 620 Manhattan Ave, Brooklyn",40.7236199377,-73.9507261417
+46,2011-09-14 03:24:46,"Pies 'n' Thighs, 166 S 4th St, Brooklyn",40.7112552473,-73.9614426247
+47,2011-09-14 03:23:32,"Fette Sa, 354 Metropolitan Ave, Brooklyn",40.71411847,-73.9563989639
+48,2011-08-22 19:58:52,"Eggs Travaganza, E 52nd St NE, New York",40.7616456981,-73.969483901
+49,2010-01-22 02:47:53,"The Blind Tiger, 281 Bleecker St, New York",40.7318540672,-74.0033499976
+50,2010-01-15 04:54:08,"Chipotle Mexican Grill, 464 Park Ave S, New York",40.7453010058,-73.9826901508

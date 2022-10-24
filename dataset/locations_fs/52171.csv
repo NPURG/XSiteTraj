@@ -1,0 +1,74 @@
+,time,poi,latitude,longitude
+0,2016-12-14 10:15:47,"sweetgreen, 67 Wall St, New York",40.705586,-74.008382
+1,2016-12-01 07:54:18,"Virgin Atlantic Revivals Lounge, Terminal 3, Arrivals, Hounslow",51.4718514591,-0.457270453846
+2,2016-12-01 07:52:12,"Santore, 59-61 Exmouth Market, Clerkenwell",51.5262594486,-0.10845366069
+3,2016-12-01 07:50:40,"Ground Control, 61 Amwell St, Clerkenwell",51.529867,-0.110399
+4,2016-12-01 07:48:51,"Great Northern Hotel, King19s Cross St Pancras Station, London",51.5309057986,-0.124584878956
+5,2016-12-01 07:46:51,"Honest Burgers, 251-255 Pentonville Rd, King's Cross",51.5308749154,-0.119143724442
+6,2016-11-01 10:21:11,"Fore Street, 288 Fore St, Portland",43.6580107659,-70.2508735657
+7,2016-10-31 08:13:25,"OTTO, 576 Congress St, Portland",43.6547832287,-70.2624177933
+8,2016-10-17 00:51:09,"Altitude Restaurant, 650 15th St Lbby Level, Denver",39.7436604882,-104.99424164
+9,2016-10-16 05:43:53,"Little Man Ice Cream, 2620 16th St, Denver",39.7595534249,-105.011091627
+10,2016-10-16 05:41:26,"The Kitchen Denver, 1530 16th St, Denver",39.7511430591,-105.000010266
+11,2016-09-04 02:32:02,"sweetgreen, 413 Greenwich St, New York",40.7213353345,-74.0097010834
+12,2016-09-03 11:03:00,"Bluestone Lane, 55 Prospect St, Brooklyn",40.7007763007,-73.988365531
+13,2016-09-03 10:58:15,"Brook Vin, 381 7th Ave, Brooklyn",40.6654322585,-73.9827877164
+14,2016-09-03 10:54:10,"Burger Bar Crescent, 1465 rue Crescent, Montral",45.4979106465,-73.5770878651
+15,2016-09-03 10:52:13,"The Keg Steakhouse & Bar, 5, Place-Ville-Marie, Montral",45.5007420527,-73.5688338871
+16,2016-09-03 10:49:31,"La Diperie, 68, avenue des Pins, Montral",45.515767536,-73.5743880272
+17,2016-09-03 10:47:44,"Mandy's, 2067 Crescent, Montral",45.498272257,-73.5778342051
+18,2016-09-03 10:46:11,"Suite 88 Chocolatier, 1225 De Maisonneuve Ouest, Montral",45.4993718703,-73.5763635248
+19,2016-08-29 05:11:30,"Olive et Gourmando, 351, rue Saint-Paul Ouest, Montral",45.501277,-73.556339
+20,2016-08-29 05:09:41,"Terrasse Place d'Armes, 701 Cte de la Place d19Armes, Montral",45.505264,-73.557588
+21,2016-08-26 12:03:02,"Coffee Cultures, 225 Bush St, San Francisco",37.7910149696,-122.401112261
+22,2016-08-26 12:02:17,"il Casaro Pizzeria & Mozzarella Bar, 348 Columbus Ave, San Francisco",37.7983966002,-122.407290821
+23,2016-08-21 08:50:02,"El Vez, 259 Vesey St, New York",40.7147847612,-74.0157964795
+24,2016-08-18 09:24:23,"Scampo at The Liberty Hotel, 215 Charles St, Boston",42.3618461503,-71.0705617917
+25,2016-08-18 09:23:50,"Scampo at The Liberty Hotel, 215 Charles St, Boston",42.3618461503,-71.0705617917
+26,2016-08-18 09:21:09,"Eataly Downtown, 101 Liberty St, New York",40.70999,-74.011435
+27,2016-07-24 10:24:29,"North Cove Marina, Battery Park City Greenway, New York",40.7131467426,-74.0168408224
+28,2016-07-24 10:19:29,"Maison Kayser, 57 Court Street, Brooklyn",40.6921216044,-73.9912183462
+29,2016-07-24 10:17:18,"Gelato Ti Amo, 12 John St, New York",40.709982709,-74.009094187
+30,2016-07-24 10:16:04,"Liberty Park, Liberty St & West St, New York",40.7103839162,-74.0138684468
+31,2016-07-18 10:16:28,"The Hoxton Hotel, 199-206 High Holborn, Holborn",51.517415808,-0.122245111021
+32,2016-07-18 10:14:46,"The Hoxton Hotel, 199-206 High Holborn, Holborn",51.517415808,-0.122245111021
+33,2016-07-18 10:06:15,"The Bakehouse, 6 Bachelors Walk, Dublin",53.3466658186,-6.26242889477
+34,2016-07-18 10:05:25,"Ample Hills Creamery, 334 Furman St Ste 5, Brooklyn",40.6945086301,-74.0004921849
+35,2016-07-18 09:58:36,"Etsy HQ, 117 Adams St, Brooklyn",40.7005522629,-73.988264444
+36,2016-07-18 09:41:49,"Blue Smoke, 255 Vesey St, New York",40.7144938818,-74.0153144731
+37,2016-07-15 21:36:25,"Shake Shack, 200 Broadway, New York",40.7108137886,-74.0091171405
+38,2016-02-09 03:30:56,"Flour Bakery + Cafe, 131 Clarendon St, Boston",42.3482794846,-71.0735736887
+39,2016-02-08 03:42:54,"Flour Bakery + Cafe, 190 Massachusetts Ave, Cambridge",42.3610253321,-71.0966464877
+40,2016-02-01 07:18:29,"Fields Good Chicken, 101 Maiden Ln, New York",40.7069474968,-74.006993934
+41,2015-12-15 02:55:31,"Love & Dough, 57 Pearl St Ste C, Brooklyn",40.7030407093,-73.9875798488
+42,2015-12-15 02:51:13,"Love & Dough, 57 Pearl St Ste C, Brooklyn",40.7030407093,-73.9875798488
+43,2015-11-22 03:18:44,"Spring Natural Kitchen, 474 Columbus Ave, New York",40.7843836178,-73.9736565081
+44,2015-10-24 09:53:38,"Trattoria Nervosa, 75 Yorkville Ave., Toronto",43.6710121529,-79.3911514283
+45,2015-10-17 11:17:40,"Little Muenster Tiny Takeout, 145 Front St, Brooklyn",40.7023925781,-73.9874038696
+46,2015-09-14 08:47:49,"Da Claudio, 21 Ann St, New York",40.7108754601,-74.0076423752
+47,2015-09-14 02:50:51,"The Good Batch, 936 Fulton St, Brooklyn",40.6827362223,-73.9633367457
+48,2015-09-14 02:49:57,"The Good Batch, 936 Fulton St, Brooklyn",40.6827362223,-73.9633367457
+49,2015-09-05 10:45:25,"Tia Pol, 205 10th Ave, New York",40.7472198086,-74.0046009946
+50,2015-08-30 10:42:47,"Moo Moo's Creamery, 32 West St, Cold Spring",41.416373,-73.961345
+51,2015-08-16 02:56:50,"Woops!, 93 Worth St, New York",40.7162904867,-74.0049739967
+52,2015-04-29 08:50:04,"Horchata, 470 Avenue of the Americas, New York",40.7356307993,-73.9980934256
+53,2015-02-08 03:10:55,"The City Bakery, 3 W 18th St, New York",40.7388164964,-73.9925956773
+54,2015-02-01 10:51:30,"Shake Shack, 1 Old Fulton St, Brooklyn",40.702967522,-73.9941107302
+55,2015-01-18 12:05:53,"One Girl Cookies, 33 Main St, Brooklyn",40.7033449064,-73.9905381203
+56,2015-01-18 12:04:42,"Park Plaza Diner, 220 Cadman Plaza, Brooklyn",40.6977686931,-73.9915684188
+57,2015-01-18 12:03:10,"Melt Shop, 111 Fulton St, New York",40.7097201375,-74.0067299661
+58,2015-01-18 12:02:31,"Bareburger, 155 William Street, New York",40.7100018565,-74.0062594138
+59,2015-01-18 12:00:49,"Whole Foods Market, 270 Greenwich Street, New York",40.7157784894,-74.0121412344
+60,2015-01-04 08:27:23,"Virgin Atlantic Clubhouse, Terminal 3, Hounslow",51.4701076932,-0.460561176402
+61,2015-01-04 08:25:30,"Aloft New York Brooklyn, 216 Duffield St, Brooklyn",40.6916722094,-73.984486498
+62,2014-08-22 02:37:53,"Le Bada, Plage de la Grande Mer, Cassis",43.2131707679,5.53688843941
+63,2014-08-16 02:53:34,"Les Chevaliers, 7 Place de la Republique, Viviers",44.4827870735,4.68970291267
+64,2014-04-07 07:30:24,"Fornino, Pier 6, Brooklyn",40.6929393749,-74.0016863466
+65,2013-03-28 02:50:21,"Caff Pasta, The Wharf, St Ives",50.2150098985,-5.47845631619
+66,2012-12-13 03:10:41,"Los Papis, 77 Bridge St, New York",40.7021729715,-73.9848078874
+67,2012-08-02 02:07:57,"Cascades, 407 Warren St, Hudson",42.250935,-73.788223
+68,2012-07-01 14:45:09,"Evolution Caf & Bar, 5101 Great America Pkwy, Santa Clara",37.4048836875,-121.97664006
+69,2011-11-30 00:00:15,"Audi, Crockford Ln., Basingstoke",51.2850034378,-1.0697850061
+70,2011-09-07 03:23:04,"Caff Pasta, The Wharf, St Ives",50.2150098985,-5.47845631619
+71,2009-10-10 02:33:51,"The Old Fountain, 3 Baldwin St, Hoxton",51.5270665759,-0.0889350288031
+72,2009-10-08 20:12:39,"Prince Arthur - Shepherd Neame, 49 Brunswick Pl, Hackney",51.5274224863,-0.0852137804031

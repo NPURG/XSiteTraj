@@ -1,0 +1,116 @@
+,time,poi,latitude,longitude
+0,2016-10-01 01:23:18,"Uncle Vito's Slice of NY, 1501 16th St #100, Sacramento",38.572306,-121.487822
+1,2016-05-14 00:42:23,"Crocker Art Museum, 216 O St, Sacramento",38.5770870838,-121.505747437
+2,2015-12-30 05:13:22,"Eiffel Tower, 5 avenue Anatole France, Paris",48.8589541973,2.29367831792
+3,2015-12-30 05:12:00,"Arc de Triomphe, Place Charles de Gaulle, Paris",48.8737832759,2.29505896568
+4,2015-12-30 05:10:27,"Statue of Liberty of Paris, le aux Cygnes, Paris",48.850035,2.279684
+5,2015-12-30 05:09:20,"Les Vedettes du Pont Neuf, Square du Vert Galant, Paris",48.8574022962,2.34094619751
+6,2015-12-30 05:07:54,"Caff Ritazza, Terminal 1, Satellite V, Mauregard",49.0162376419,2.54389966188
+7,2015-12-21 00:51:21,"The Bottle Shop, 5 rue Troussea, Paris",48.8511579,2.3786311
+8,2015-09-08 18:31:24,"Mercado dos Lavradores, R. do Hospital Velho, Funchal",32.6486980527,-16.9040966034
+9,2015-09-08 18:28:21,"A Bica, Rua Hospital Velho 17, Funchal",32.6489707635,-16.9035969611
+10,2015-09-08 18:17:35,"Albergaria Catedral, R. da Queimada de Baixo, 12, Funchal",32.6484953853,-16.9086746648
+11,2015-09-08 18:13:32,"Amarelo, Lg. Manuel Alves, 2, Canial",32.7373194298,-16.7369890823
+12,2015-06-19 04:22:44,"Flying Fishbone, Savaneta # 344, Saventa 344",12.4445537126,-69.9444169163
+13,2015-05-28 08:37:27,"California Lighthouse, Arashi road, Noord",12.6133533165,-70.0518521206
+14,2015-05-28 08:35:33,"BALASHI BEERGARDEN & BREWERY TOUR, Balashi z/n, Sta. Cruz",12.4818074056,-69.9823737144
+15,2015-05-12 02:42:24,"Broderick Roadhouse, 319 6th St, West Sacramento",38.5882121798,-121.514086239
+16,2015-05-12 02:41:50,"Dad's On J, 1004 J St, Sacramento",38.5801499723,-121.493396014
+17,2015-05-12 02:41:13,"Cesar Chavez Plaza, 910 I Street, Sacramento",38.5808781312,-121.493579851
+18,2015-05-12 02:39:21,"Blackbird Kitchen + Beer Gallery, 1015 9th St, Sacramento",38.5801111234,-121.494896118
+19,2015-05-12 02:38:18,"Rick's Dessert Diner, 2401 J St, Sacramento",38.5752173415,-121.474430934
+20,2015-03-28 04:20:15,"Republic Bar & Grill, 908 15th St, Sacramento",38.5792177915,-121.48650745
+21,2015-03-11 05:53:36,"Satomi Sushi, 3655 Thornton Ave, Fremont",37.5627623709,-122.010362148
+22,2015-03-03 04:59:49,"University of Beer, 1510 16th St Ste 300, Sacramento",38.5722119169,-121.487829375
+23,2015-03-03 04:58:44,"The Rind, 1801 L St #40, Sacramento",38.575050875,-121.483026866
+24,2015-03-03 04:57:54,"Southside Park, 2115 6th St, Sacramento",38.5698218985,-121.503769368
+25,2015-03-03 04:57:11,"Tank House BBQ & Bar, 1925 J St, Sacramento",38.5769523635,-121.480176501
+26,2015-03-03 04:56:01,"Pieology Pizzeria, 1020 16th St, Sacramento",38.57735854,-121.4857939
+27,2015-02-28 09:26:00,"Extreme Pizza, 1140 Exposition Blvd #200, Sacramento",38.598419549,-121.450848793
+28,2015-02-28 07:16:13,"ARCO / ampm, 1949 Arden Way, Sacramento",38.5968913895,-121.420555115
+29,2015-02-28 07:15:59,"Berkley Bar, 515 Pavilions Ln, Sacramento",38.5748810164,-121.41118848
+30,2015-02-27 05:09:42,"Fox Theater, 1807 Telegraph Ave, Oakland",37.8080555276,-122.270481393
+31,2015-02-27 05:08:33,"Fox Theater, 1807 Telegraph Ave, Oakland",37.8080555276,-122.270481393
+32,2015-02-27 05:07:47,"Harlow's, 2708 J St, Sacramento",38.5739651499,-121.470068573
+33,2015-02-27 05:06:57,"Graciano's Chicago Deep Dish Pizza & Speakeasy, 1023 Front St Ste A, Sacramento",38.5827720355,-121.505096671
+34,2015-02-27 05:05:56,"Granzella's Restaurant & Sports Lounge, 451 Sixth St, Williams",39.1558387001,-122.148485184
+35,2015-02-27 05:05:41,"Sacramento Natural Foods Co-op, 1900 Alhambra Blvd, Sacramento",38.5628311453,-121.470315456
+36,2015-02-27 05:04:35,"Sacramento Central Farmers' Market, 8th St & W St, Sacramento",38.5665222745,-121.503778696
+37,2015-02-27 05:04:05,"Grocery Outlet, 1700 Capitol Ave, Sacramento",38.5741975384,-121.485196352
+38,2015-02-27 05:03:24,"Hoppy Brewing Company, 6300 Folsom Blvd, Sacramento",38.5550295019,-121.429650325
+39,2015-02-27 05:02:30,"Corti Brothers, 5810 Folsom Blvd, Sacramento",38.5574088139,-121.436296539
+40,2015-02-27 05:01:49,"Discovery Park, 1600 Garden Hwy, Sacramento",38.6047961368,-121.503975714
+41,2015-02-27 05:01:04,"Safeway, 1814 19th St, Sacramento",38.5679673105,-121.485765603
+42,2015-02-27 05:00:16,"Capitol View Apartments, 1051 G St, Sacramento",38.5833433965,-121.490534533
+43,2015-02-27 04:59:44,"Bel Air, 1540 W El Camino Ave, Sacramento",38.6120837061,-121.496654749
+44,2014-09-28 05:34:22,"Les Schwab Tire Center, 3554 E Hammer Ln, Stockton",38.0206941737,-121.270943644
+45,2014-08-21 01:57:31,"Old Soul at The Weatherstone, 812 21st St, Sacramento",38.5781210661,-121.477977
+46,2014-05-25 20:29:11,"Motel 6, 6145 Commerce Blvd, Rohnert Park",38.350059,-122.711253
+47,2014-05-21 04:20:52,"Jiffy Lube South Chico: Oil Change Services, 2452 Notre Dame Blvd, Chico",39.71635395,-121.79612562
+48,2014-05-18 04:04:40,"The Abbey Trappist Pub, 2353 Pacific Ave, Stockton",37.972603,-121.301397
+49,2014-05-18 02:55:19,"Market Tavern, 236 Lincoln Center, Lincoln Village",38.0115013123,-121.323051453
+50,2014-05-17 04:04:48,"Page Mill Winery, 1960 S Livermore Ave, Livermore",37.6788309606,-121.747900111
+51,2014-02-25 01:04:31,"Old Soul at The Weatherstone, 812 21st St, Sacramento",38.5781210661,-121.477977
+52,2013-11-18 01:46:21,"Cafe DeLuxe, 1690 S Wells Ave #12, Reno",39.508356,-119.802986
+53,2013-11-15 01:04:57,"Winchester Goose, 800 Broadway St, Chico",39.7254748792,-121.836426258
+54,2013-09-13 21:19:37,"The Dog House, 1354 East Ave #U, Chico",39.7619998455,-121.823331714
+55,2013-09-13 21:19:08,"The Dog House, 1354 East Ave #U, Chico",39.7619998455,-121.823331714
+56,2013-09-13 21:18:40,"The Dog House, 1354 East Ave #U, Chico",39.7619998455,-121.823331714
+57,2013-07-12 02:42:15,"Salty Dog Bar and Restaurant, 7509 3rd Ave, Brooklyn",40.6311340142,-74.0278118155
+58,2013-06-01 10:42:39,"Trailer Park Lounge & Grill, 271 W 23rd St, New York",40.7451479939,-73.9981106416
+59,2013-05-30 04:54:55,"Greenwood Park, 555 7th Ave, Brooklyn",40.6594435477,-73.9879184501
+60,2013-05-30 04:41:23,"Greenwood Park, 555 7th Ave, Brooklyn",40.6594435477,-73.9879184501
+61,2013-05-29 02:43:23,"The Blind Tiger, 281 Bleecker St, New York",40.7318540672,-74.0033499976
+62,2013-05-27 05:06:23,"Rattle N Hum, 14 E 33rd St, New York",40.7473546868,-73.9844004114
+63,2013-05-27 04:05:07,"The Pony Bar, 1444 1st Ave, New York",40.7697680598,-73.9544034004
+64,2013-05-27 03:50:41,"The Pony Bar, 1444 1st Ave, New York",40.7697680598,-73.9544034004
+65,2013-05-18 23:59:42,"Brooklyn Bridge Bagel Works, 117 W 2nd St, Chico",39.730065,-121.840669
+66,2013-05-17 02:41:29,"100th Monkey Cafe & Books, 642 W 5th St, Chico",39.7247342166,-121.843531748
+67,2013-05-17 02:31:24,"100th Monkey Cafe & Books, 642 W 5th St, Chico",39.7247342166,-121.843531748
+68,2013-05-09 02:08:33,"Rockaway Beach - 94th Street, Beach 94th Street, Far Rockaway",40.5837672865,-73.8156375816
+69,2013-05-01 19:58:21,"The Handle Bar, 2070 E 20th St Ste 160, Chico",39.727516,-121.799108
+70,2013-05-01 19:56:56,"The Handle Bar, 2070 E 20th St Ste 160, Chico",39.727516,-121.799108
+71,2013-05-01 10:01:03,"Safeway, 1366 East Ave, Chico",39.7623749151,-121.82267189
+72,2013-04-29 08:51:23,"Scotty's Landing, 12609 River Rd, Chico",39.7387053834,-121.960011708
+73,2013-04-10 22:16:34,"California Water Service Co., 2222 Dr Martin Luther King Junior Pkwy, Chico",39.7203046833,-121.808217
+74,2013-04-10 22:15:58,"East Avenue Coin Laundry, 986 East Ave, Chico",39.761131,-121.840696
+75,2013-03-24 23:30:07,"NS Fitness, 1026 Skyway, Chico",39.7136971843,-121.794146399
+76,2013-03-17 09:53:26,"The Pour House, 855 East Ave #270, Chico",39.7605016167,-121.843871817
+77,2013-03-15 02:52:01,"North Table Mountain Preserve, Cherokee Rd, Oroville",39.5958455035,-121.541976179
+78,2013-02-18 08:25:11,"The Handle Bar, 2070 E 20th St Ste 160, Chico",39.727516,-121.799108
+79,2013-02-18 08:15:55,"The Handle Bar, 2070 E 20th St Ste 160, Chico",39.727516,-121.799108
+80,2013-01-04 00:12:47,"Gateway Bar, at Central Terminal B, Sacramento",38.6921710649,-121.591505589
+81,2012-12-01 06:41:49,"Sylvia's Restaurant, 328 Malcolm X Blvd, New York",40.808731388,-73.9447448574
+82,2012-11-30 03:46:12,"Long's Wines and Liquors, 7917 5th Ave, Brooklyn",40.6258685941,-74.0240994214
+83,2012-11-05 01:34:00,"S & S Organic Produce, 1924 Mangrove Ave, Chico",39.7503221762,-121.843982122
+84,2012-11-02 03:36:08,"Raley19s, 2485 Notre Dame Blvd, Chico",39.7165872107,-121.793607473
+85,2012-10-20 23:53:32,"Starbucks, 2009 Forest Ave, Chico",39.7264,-121.80117
+86,2012-09-16 23:12:11,"Sweet Chico Confections, 121 W 3rd St, Chico",39.729362,-121.839995
+87,2012-07-22 00:23:50,"Upper Crust Bakery & Eatery, 130 Main St, Chico",39.7305093667,-121.840741
+88,2012-07-01 05:53:47,"Burgers & Brew, 201 Broadway St, Chico",39.7290155171,-121.840262315
+89,2012-04-10 04:27:36,"Office Depot, 2071 Dr Martin Luther King Junior Pkwy, Chico",39.723172,-121.807948
+90,2012-02-20 10:52:19,"Nishiki Sushi, 1501 16th St, Sacramento",38.5717021191,-121.487803459
+91,2012-02-13 01:33:43,"Cafe Coda, 265 Humboldt Ave, Chico",39.7257033128,-121.833055878
+92,2012-01-01 09:11:21,"Embassy Suites by Hilton Philadelphia Center City, 1776 Benjamin Franklin Pkwy, Philadelphia",39.9563164912,-75.169031024
+93,2012-01-01 07:39:47,"Embassy Suites by Hilton Philadelphia Center City, 1776 Benjamin Franklin Pkwy, Philadelphia",39.9563164912,-75.169031024
+94,2011-12-30 02:40:42,"Lealy Super Deli Grocery Store, Nostrand Ave, Brooklyn",40.6718156937,-73.9521324628
+95,2011-12-30 02:37:44,"A&D Liquor, 751 Nostrand Ave, Brooklyn",40.671688,-73.95015008
+96,2011-12-11 03:35:01,"Hooker Oak Recreation Area, 1928 Manzanita Ave, Chico",39.7598595823,-121.79728925
+97,2011-12-07 01:24:14,"Dr Karen Escott, 389 Connors Ct Ste C, Chico",39.759341,-121.855882
+98,2011-09-21 01:11:18,"Woodwork, 583 Vanderbilt Ave, Brooklyn",40.6802271427,-73.96791704
+99,2011-09-20 04:17:36,"Alamo by Bernard (Tony) Rosenthal, E 8th St & Lafayette St, New York",40.7299133455,-73.9910048246
+100,2011-09-19 22:19:40,"The Breukelen Coffee House, 764A Franklin Ave, Brooklyn",40.67225,-73.957449
+101,2011-08-30 03:26:24,"Double D's Sports Grille, 354 N Santa Cruz Ave, Los Gatos",37.2286247333,-121.980861
+102,2011-08-05 22:56:58,"Wild Horse Campground, 22456 W Baseline Rd, Quincy",47.0882851806,-119.97161081
+103,2011-07-20 08:54:02,"Papa Murphy's Take 'n Bake Pizza, 14 W Eaton Rd, Chico",39.772258,-121.877560616
+104,2011-07-18 00:38:27,"Brooks Field, Wildwood Ave, Chico",39.7635507006,-121.804470193
+105,2011-05-20 06:22:48,"Butte Regional Household Hazardous Waste Facility, 1101 Marauder St, Chico",39.802957,-121.853624
+106,2010-12-31 08:19:33,"Skipper's Smokehouse, 910 Skipper Rd, Tampa",28.0807683857,-82.4507522381
+107,2010-11-30 06:55:47,"El Cantinero, 86 University Pl, New York",40.733612,-73.993107
+108,2010-11-30 06:48:48,"El Cantinero, 86 University Pl, New York",40.733612,-73.993107
+109,2010-11-28 08:08:21,"MTA Subway - 59th St/Columbus Circle (A/B/C/D/1), 59th St / Columbus Circle, New York",40.7684870709,-73.981875189
+110,2010-11-26 05:32:48,"MTA Subway - Prospect Park (B/Q/S), Flatbush Ave. & Ocean Ave., Brooklyn",40.6616114608,-73.9622459022
+111,2010-11-07 01:46:07,"Donut Nook, 958 East Ave, Chico",39.7610842011,-121.842466593
+112,2010-10-12 03:58:45,"Garden Connection, 629 Entler Ave Ste 32, Chico",39.7040793732,-121.791709934
+113,2010-09-23 02:29:34,"Dr Karen Escott, 389 Connors Ct Ste C, Chico",39.759341,-121.855882
+114,2010-07-17 01:06:07,"Ukiah Brewery, 102 S State St, Ukiah",39.1457497077,-123.206868063

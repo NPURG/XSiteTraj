@@ -1,0 +1,57 @@
+,time,poi,latitude,longitude
+0,2013-07-01 11:47:30,"ENO Wine Bar, 320 Geary St, San Francisco",37.7873891069,-122.408657025
+1,2013-04-08 03:34:15,"Cartograph Wines, 340 Center St, Healdsburg",38.6118573542,-122.869656086
+2,2013-03-17 13:51:41,"ENO Wine Bar, 320 Geary St, San Francisco",37.7873891069,-122.408657025
+3,2012-12-21 04:02:59,"Starbucks, 7600 Dr Phillips Blvd, Orlando",28.4521,-81.489785
+4,2012-12-11 05:27:23,"Lee's Noodle House, 1010 Hopper Ave, Santa Rosa",38.479336,-122.738723755
+5,2012-08-13 09:39:46,"El Gran Taco, 40 Calle del Monte, Sonoma",38.3123626709,-122.480312
+6,2012-08-11 10:20:48,"Annex Winebar, 865 W Napa St, Sonoma",38.2933414016,-122.474473692
+7,2012-07-04 01:11:02,"Harvest Moon Cafe, 487 1st St W, Sonoma",38.292413349,-122.459050325
+8,2012-06-07 12:41:29,"Reata Winery, 1 Kirkland Ranch Rd, Napa County",38.2204006646,-122.229223544
+9,2012-06-03 06:07:20,"Cosentino Winery, 7415 Saint Helena Hwy, Napa",38.4193261057,-122.388701141
+10,2012-04-15 02:45:04,"Glen Ellen Village Market, 13751 Arnold Drive, Glen Ellen",38.3622192897,-122.525410652
+11,2012-03-16 03:30:26,"Guadalajara Taqueria, 125 Healdsburg Ave, Healdsburg",38.60565503,-122.86932
+12,2012-03-05 07:31:33,"d'Art Hand Crafted Wines, 13299 N Curry Ave, Lodi",38.0974835066,-121.23726368
+13,2012-03-02 11:48:50,"Boon Fly Cafe, The Carneros Inn, 4048 Sonoma Hwy, Napa",38.2554056494,-122.332648161
+14,2012-02-26 05:02:43,"The Dead Fish, 20050 San Pablo Ave, Crockett",38.0556821427,-122.231561619
+15,2012-02-26 05:00:01,"The Dead Fish, 20050 San Pablo Ave, Crockett",38.0556821427,-122.231561619
+16,2012-02-10 12:21:42,"Eiko's, 1385 Napa Town Ctr, Napa",38.2978625733,-122.288429775
+17,2012-01-24 10:46:52,"Carpe Diem Wine Bar, 1001 2nd St, Napa",38.2983955205,-122.285262308
+18,2012-01-21 05:29:19,"Hurley's Restaurant, 6518 Washington St, Yountville",38.4021474227,-122.361238831
+19,2012-01-13 09:40:18,"Mountain Top Tasting @ Kunde Family Estate, 9825 Sonoma Hwy, Kenwood",38.415035,-122.525936
+20,2012-01-12 09:02:22,"Kunde Family Estate, 9825 Sonoma Hwy, Kenwood",38.4106591336,-122.540044785
+21,2012-01-12 08:59:07,"the fig cafe & winebar, 13690 Arnold Dr., Glen Ellen",38.3633726835,-122.524506
+22,2012-01-12 08:54:21,"Tacos Garcia, 6792 Washington Street, Yountville",38.406409,-122.366627
+23,2012-01-12 07:31:48,"Cafe Citti, 9047 Sonoma Hwy, Kenwood",38.41811335,-122.550259
+24,2012-01-08 02:56:34,"Olivier Napa Valley, 1375 Main St, Saint Helena",38.5050604161,-122.470029342
+25,2011-12-29 07:31:54,"Starbucks, 1511 Farmer's Lane, Santa Rosa",38.4349342378,-122.688450552
+26,2011-12-28 07:53:30,"Charlotte Douglas International Airport (CLT), 5501 Josh Birmingham Pkwy, Charlotte",35.2201270861,-80.9436496578
+27,2011-12-23 10:09:18,"Carpe Diem Wine Bar, 1001 2nd St, Napa",38.2983955205,-122.285262308
+28,2011-12-19 08:44:39,"Healdsburg Plaza, Plaza St., Healdsburg",38.6107675013,-122.870106697
+29,2011-12-19 05:22:42,"Community Cafe, 875 W Napa St, Sonoma",38.2934,-122.47466539
+30,2011-12-18 11:08:50,"The Plaza Bistro, 420 1st St E, Sonoma",38.2931405197,-122.456380028
+31,2011-12-18 05:45:58,"Corison Winery, 987 Saint Helena Hwy S, Saint Helena",38.4851610661,-122.447269
+32,2011-12-16 00:42:20,"Starbucks, 269 Aviation Blvd, Santa Rosa",38.510269,-122.780617
+33,2011-12-12 14:03:38,"Bouchon, 6534 Washington St, Yountville",38.4025460402,-122.361986339
+34,2011-12-11 03:47:23,"Sally19s Famous Fishwich, Pier 43 1/2, San Francisco",37.809059224,-122.414479852
+35,2011-12-09 04:25:33,"Mary19s Home Plate Caf, 2448 Foothill Blvd, Calistoga",38.5817042437,-122.596338987
+36,2011-12-05 01:18:50,"Soscol Cafe, 632 Soscol Ave, Napa",38.2951336194,-122.27967471
+37,2011-11-26 20:25:09,"UF College of Education, 605 SW 12th Street, Gainesville",29.6465618688,-82.3376890395
+38,2011-11-21 07:15:28,"John Anthony, 1440 1st St, Napa",38.2975234366,-122.289011478
+39,2011-11-20 15:11:29,"Marriott, 3425 Solano Ave, Napa",38.3229556595,-122.311994539
+40,2011-11-13 11:24:27,"Morimoto Napa, 610 Main St, Napa",38.2968814719,-122.283196758
+41,2011-11-12 05:29:29,"Old World Winery, 850 River Rd, Santa Rosa",38.4960240126,-122.766378
+42,2011-11-11 04:03:08,"Lincoln Theater, 100 California Dr, Yountville",38.3946532508,-122.366213459
+43,2011-11-09 07:33:47,"Oakville Grocery, 124 Matheson St, Healdsburg",38.6104508587,-122.869107617
+44,2011-11-06 04:33:30,"Ca' Momi, 2515 Napa Valley Corporate Dr, Napa",38.3016340466,-122.281563118
+45,2011-10-22 05:12:03,"Reata Winery, 1 Kirkland Ranch Rd, Napa County",38.2204006646,-122.229223544
+46,2011-10-17 06:49:49,"Etude Wines, 1250 Cuttings Wharf Rd, Napa",38.2465061333,-122.314535
+47,2011-10-16 09:59:44,"Willi's Wine Bar, 4404 Old Redwood Hwy, Santa Rosa",38.4925237356,-122.74223094
+48,2011-10-16 09:13:13,"Willi's Wine Bar, 4404 Old Redwood Hwy, Santa Rosa",38.4925237356,-122.74223094
+49,2011-10-16 09:11:24,"Willi's Wine Bar, 4404 Old Redwood Hwy, Santa Rosa",38.4925237356,-122.74223094
+50,2011-10-16 04:46:30,"Napa Smith Brewery, 1 Executive Way, Napa",38.2247404429,-122.257077665
+51,2011-10-09 05:03:44,"Lottie Ballo, 940 Tyler St #16, Benicia",38.0481916666,-122.158862
+52,2011-10-03 06:07:55,"Napa Smith Brewery, 1 Executive Way, Napa",38.2247404429,-122.257077665
+53,2011-09-26 04:22:41,"TopFlight - Wine & Beer Tasting, 1285 Napa Town Ctr, Napa",38.2988285287,-122.288281918
+54,2011-09-24 04:22:00,"Bistro Jeanty, 6510 Washington St, Yountville",38.4009987116,-122.359881
+55,2011-09-19 04:48:15,"Spoonbar, 219 Healdsburg Ave, Healdsburg",38.609214,-122.87030083

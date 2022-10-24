@@ -1,0 +1,58 @@
+,time,poi,latitude,longitude
+0,2015-11-19 16:36:36,"Gjusta, 320 Sunset Ave, Venice",33.9951332178,-118.474520598
+1,2015-11-19 16:34:35,"Wurstkche, 625 Lincoln Blvd, Venice",33.9997408846,-118.464933879
+2,2015-11-19 16:33:28,"Burro, 1409 Abbot Kinney Blvd, Venice",33.9907332011,-118.465726376
+3,2015-11-19 16:32:41,"Zinque, 600 Venice Blvd, Venice",33.988976,-118.461976
+4,2015-11-19 16:30:12,"Intelligentsia Coffee & Tea, 1331 Abbot Kinney Blvd, Venice",33.9910867996,-118.466930017
+5,2015-11-19 16:28:40,"TOMS Flagship, 1344 Abbot Kinney Blvd, Venice",33.9906603189,-118.466656222
+6,2015-11-19 16:26:12,"High Rooftop Bar at Hotel Erwin, 1697 Pacific Ave, Venice",33.9869121009,-118.47254741
+7,2015-02-16 12:23:20,"Ameer Kabob, 1050 N Milwaukee Ave, Chicago",41.900865,-87.662728
+8,2014-10-12 10:58:35,"The Ritz-Carlton Half Moon Bay, 1 Miramontes Point Rd, Half Moon Bay",37.4337381804,-122.441484332
+9,2014-10-12 10:56:05,"La Costanera, 8150 Cabrillo Hwy, Montara",37.5461765584,-122.513887882
+10,2014-10-06 13:18:54,"1760, 1760 Polk St, San Francisco",37.7931854522,-122.421115637
+11,2014-09-02 05:38:06,"Faustina Caf, Andrs Bello 2177, Providencia",-33.4206519787,-70.6115394184
+12,2014-08-18 01:15:12,"El Huerto, Orrego Luco 054, Providencia",-33.42280505,-70.612444981
+13,2014-08-18 01:07:29,"Bar Santera, Chucre Manzur 001, Providencia",-33.4317278536,-70.6345796585
+14,2014-08-18 01:06:38,"Bar Constitucin, Constitucin 61, Providencia",-33.433648975,-70.6343866977
+15,2014-08-18 01:05:06,"Colmado, Merced 346 (Interior), Santiago de Chile",-33.4376739366,-70.6419906026
+16,2014-08-18 01:04:13,"Uncle Fletch, Dardignac 0192, Providencia",-33.4330309858,-70.6335095398
+17,2014-08-15 04:26:41,"Caf Bistro de la Barra, Jose Miguel de la Barra 455, Santiago de Chile",-33.4370372199,-70.6432807446
+18,2014-08-01 03:47:17,"Caf de La Candelaria, Av. Italia 1449, uoa",-33.4477884353,-70.6249063387
+19,2014-08-01 00:35:56,"La Resistencia Caf, Providencia 2124 Local I, Providencia",-33.422142798,-70.6115103721
+20,2014-07-16 11:09:36,"Super Delicious, La Concepcin 81, Providencia, Santiago de Chile",-33.4250382695,-70.615303803
+21,2014-07-16 11:05:32,"COFI, Av. Pedro de Valdivia 0180 Local 2, Providencia",-33.4223528507,-70.6139266491
+22,2014-06-26 10:06:49,"Baco, Nueva de Lyon  113, Providencia",-33.4206293804,-70.6102207152
+23,2014-06-19 00:12:50,"La Pausa, Aeropuerto Internacional Comodoro Arturo Merino Bentez (SCL), Pudahuel",-33.3969733507,-70.7933695982
+24,2014-05-27 00:26:27,"Montealegre Restaurante, Montealegre 133, Valparaiso",-33.0405776747,-71.6307363496
+25,2014-05-25 11:42:15,"Mercadito Alegre, almirante montt, 406, Valparaso",-33.0432619737,-71.6278332982
+26,2014-05-01 02:57:31,"Chocolat du Jour, R. Haddock Lobo, 1421, So Paulo",-23.56362577,-46.667061329
+27,2014-04-22 10:12:50,"Salvador Cocina y Caf, Bombero Adolfo Ossa 1099, Santiago de Chile",-33.4412719452,-70.6516250968
+28,2014-04-22 10:08:11,"La Burguesa, Santa Magdalena 99, Providencia",-33.4204562341,-70.609360942
+29,2014-04-21 08:30:17,"Tea Connection, Pedro de Valdivia 0129, Providencia",-33.4226803701,-70.6132938111
+30,2014-04-18 10:20:29,"La Resistencia Caf, Providencia 2124 Local I, Providencia",-33.422142798,-70.6115103721
+31,2014-04-16 00:25:28,"Al Jazeera, Huerfanos 1385, Santiago de Chile",-33.4402320015,-70.6564777744
+32,2014-04-09 01:27:21,"La Fbrica Gourmet, Padre Mariano 364, Providencia",-33.4239580226,-70.6183942947
+33,2014-04-05 05:28:04,"MosaiCaf, Presidente Riesco 5330, Local 104, Las Condes",-33.4035498468,-70.5751082258
+34,2014-04-04 09:15:20,"La Piojera, Aillavil 1030, Santiago de Chile",-33.4335364769,-70.6520676613
+35,2014-03-31 04:40:58,"Holm, Padre Mariano 125, Providencia",-33.4255676273,-70.6165121178
+36,2014-03-21 12:26:13,"Urriola Caf Resto Bar, Jos Victorino Lastarria 70, Santiago de Chile",-33.439648695,-70.6414794194
+37,2014-03-04 04:45:07,"George Bush Intercontinental Airport (IAH), 2800 N Terminal Rd, Houston",29.9872,-95.34774
+38,2014-02-23 14:23:14,"Cafe Mawal, 6006 Fairdale Ln, Houston",29.7336383545,-95.4851818085
+39,2014-02-22 12:12:33,"Buc-ee19s, 10070 I-10, Luling",29.6510611434,-97.5923759406
+40,2014-02-10 01:42:16,"Flour & Co, 1030 Hyde St, San Francisco",37.7905401985,-122.417199612
+41,2014-02-09 15:48:00,"Miller's East Coast Delicatessen, 1725 Polk St, San Francisco",37.792816,-122.421378493
+42,2014-02-02 05:27:36,"La Fonda Mexican Grill, 712 Irving St, San Francisco",37.7642066111,-122.465562691
+43,2014-01-31 12:45:05,"15 Romolo, 15 Romolo Pl, San Francisco",37.7981024146,-122.406378165
+44,2014-01-22 07:40:22,"Curry Up Now, 659 Valencia St, San Francisco",37.7623637147,-122.421588066
+45,2013-12-26 09:29:04,"Palio's Pizza, 24140 Highway 290, Cypress",29.954273,-95.671347
+46,2013-12-21 12:12:36,"Jack in the Box, 1250 Lake Woodlands Dr, Spring",30.1681593359,-95.4539343662
+47,2013-12-13 08:03:23,"DAVIDsTEA, 845 Market St, San Francisco",37.7845201976,-122.406771183
+48,2013-12-11 00:11:12,"Max's Eatz & Fresh Bakery, Terminal 1, San Francisco",37.6131024926,-122.384726533
+49,2013-11-19 05:59:37,"Food Express, 716 Grant Ave, San Francisco",37.7936105515,-122.406167976
+50,2013-11-14 11:10:52,"Tony19s Pizza Napoletana, 1570 Stockton St, San Francisco",37.800328012,-122.409040332
+51,2013-09-23 06:05:49,"Momi Toby's Revolution Cafe & Art Bar, 528 Laguna St, San Francisco",37.7759796381,-122.426186
+52,2013-09-12 03:50:38,"Truck Stop, 450 Mission St, San Francisco",37.7902223254,-122.39738393
+53,2013-09-11 10:21:15,"The Fairmont San Francisco, 950 Mason St, San Francisco",37.7922981671,-122.410543131
+54,2013-08-17 10:11:01,"Epic Steak, 369 The Embarcadero, San Francisco",37.790831591,-122.389384721
+55,2013-08-13 01:43:39,"Moka, 1605 Polk St, San Francisco",37.7916095172,-122.420907816
+56,2013-07-21 02:11:37,"Playland, 1351 Polk St, San Francisco",37.7895058107,-122.420482635

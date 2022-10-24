@@ -1,0 +1,127 @@
+,time,poi,latitude,longitude
+0,2016-06-21 22:29:44,"Speedboat Coffee, 5115 SE Foster Rd, Portland",45.496336,-122.609578371
+1,2014-02-08 10:42:43,"Masu Sushi, 406 SW 13th Ave, Portland",45.52256887,-122.684101
+2,2013-11-14 10:54:28,"Modern Pinball NYC, 362 3rd Ave, New York",40.7410223981,-73.9816761017
+3,2013-11-07 11:34:19,"Shiro's, 2401 2nd Ave, Seattle",47.6147817329,-122.347010721
+4,2013-08-16 13:04:00,"Umi Sake House, 2230 1st Ave, Seattle",47.6132696001,-122.346021831
+5,2013-08-13 13:08:18,"Ground Kontrol Classic Arcade, 511 NW Couch St, Portland",45.5239181576,-122.675869167
+6,2013-06-06 08:10:54,"Unicorn, 1118 E Pike St, Seattle",47.6140535389,-122.317238969
+7,2013-05-31 17:32:53,"Croft Vineyard, 4530 Old Barn Road, Healdsburg",38.637807726,-122.818608284
+8,2013-02-17 12:56:40,"Ground Kontrol Classic Arcade, 511 NW Couch St, Portland",45.5239181576,-122.675869167
+9,2013-01-13 09:51:24,"Masu Sushi, 406 SW 13th Ave, Portland",45.52256887,-122.684101
+10,2012-12-17 15:04:52,"Le Pigeon, 738 E Burnside St, Portland",45.5228526489,-122.657831311
+11,2012-07-13 12:12:23,"Ground Kontrol Classic Arcade, 511 NW Couch St, Portland",45.5239181576,-122.675869167
+12,2012-05-26 00:28:53,"Delicious Donuts, 12 SE Grand Ave, Portland",45.5225556556,-122.660411246
+13,2012-04-21 06:56:44,"Publicis Seattle, 424 2nd Ave W Fl 5, Seattle",47.6225709386,-122.359011731
+14,2012-04-12 01:13:46,"Half Pint Cafe, 537 SE Ash St., Portland",45.5216385836,-122.660314066
+15,2012-03-07 23:41:56,"Rackspace, 1 Fanatical Pl, Windcrest",29.5078934049,-98.3931135642
+16,2012-03-04 14:40:38,"Deschutes Brewery Portland Public House, 210 NW 11th Ave, Portland",45.524542044,-122.681949735
+17,2012-02-27 09:30:59,"Chicago Midway International Airport (MDW), 5700 S Cicero Ave, Chicago",41.7854250716,-87.7508282661
+18,2012-01-29 01:59:38,"Twin Liquors, 999 E Basse Rd, San Antonio",29.4979773758,-98.4677931203
+19,2012-01-07 10:43:23,"AT&T Center, 1 AT&T Center Pkwy, San Antonio",29.4269697116,-98.4374892579
+20,2011-11-06 02:44:30,"Cafe Latte, 850 Grand Ave, Saint Paul",44.9398675439,-93.1362766438
+21,2011-09-21 07:31:35,"The Cove, 606 W Cypress St, San Antonio",29.4402137602,-98.5005266546
+22,2011-09-18 10:44:43,"Muddy Waters Bar & Eatery, 2933 Lyndale Ave S, Minneapolis",44.9492303529,-93.2878796588
+23,2011-09-17 02:12:35,"French Meadow Cafe, 2610 Lyndale Ave S, Minneapolis",44.95501961,-93.2881454833
+24,2011-09-08 07:32:19,"The Cove, 606 W Cypress St, San Antonio",29.4402137602,-98.5005266546
+25,2011-09-04 02:56:23,"Alamo Cycle Plex, 11900 W Interstate 10, San Antonio",29.5553633917,-98.5888085384
+26,2011-08-12 08:23:07,"Filling Station, 701 S Saint Marys St, San Antonio",29.4175726175,-98.49038405
+27,2011-07-17 07:16:05,"Alamo Drafthouse Park North, 618 NW Loop 410, San Antonio",29.5183511015,-98.5029459
+28,2011-07-07 07:37:01,"Northdown Caf and Taproom, 3244 N Lincoln Ave, Chicago",41.9409064512,-87.6695583584
+29,2011-06-27 11:47:36,"City Grille, 321 E Colfax Ave, Denver",39.7401486928,-104.982870464
+30,2011-06-17 09:29:05,"Saint Croix Cigar Company, 525 2nd St, Hudson",44.9756649068,-92.7571864693
+31,2011-06-09 08:54:49,"Northdown Caf and Taproom, 3244 N Lincoln Ave, Chicago",41.9409064512,-87.6695583584
+32,2011-06-08 05:11:29,"The Nerdery, 9555 James Ave S Ste 245, Bloomington",44.8311648228,-93.300416951
+33,2011-04-28 10:43:39,"Aloft Broomfield Denver, 8300 Arista Pl, Broomfield",39.9054259472,-105.090126779
+34,2011-04-26 06:30:32,"Odopod, 391 Grove St, San Francisco",37.7777874266,-122.422943023
+35,2011-04-19 10:31:28,"Crimson & Gold Tavern, 2017 S University Blvd, Denver",39.6798111,-104.9596046
+36,2011-04-08 00:11:23,"The Nerdery, 9555 James Ave S Ste 245, Bloomington",44.8311648228,-93.300416951
+37,2011-04-06 06:39:56,"Green Mill Restaurant & Bar, 1201 W 94th St, Bloomington",44.8327136004,-93.2967453698
+38,2011-03-22 05:25:51,"The Nerdery, 9555 James Ave S Ste 245, Bloomington",44.8311648228,-93.300416951
+39,2011-02-17 20:59:13,"Chicago Midway International Airport (MDW), 5700 S Cicero Ave, Chicago",41.7854250716,-87.7508282661
+40,2011-02-12 13:25:28,"FiftyFifty Brewing Co., 11197 Brockway Rd Spc 1, Truckee",39.3219519842,-120.163257484
+41,2011-02-08 07:29:08,"Squaw Valley Ski Resort, 1960 Squaw Valley Rd, Olympic Valley",39.1963761428,-120.235061646
+42,2011-02-06 02:43:14,"Chicago Midway International Airport (MDW), 5700 S Cicero Ave, Chicago",41.7854250716,-87.7508282661
+43,2010-11-06 09:02:00,"The Pony, 1638 W Belmont Ave, Chicago",41.9397292611,-87.6701458389
+44,2010-11-06 08:36:09,"The Pony, 1638 W Belmont Ave, Chicago",41.9397292611,-87.6701458389
+45,2010-10-31 10:00:05,"Buster's On 28th, 4204 28th Ave S, Minneapolis",44.9266160987,-93.2322157083
+46,2010-10-26 07:47:21,"Great Lakes Cyclone, Chicago Harbor, Chicago",41.8879657588,-87.6056671143
+47,2010-08-27 21:52:34,"The Nerdery, 300 N Elizabeth St Ste 500C, Chicago",41.8869034655,-87.6591181755
+48,2010-08-27 02:45:42,"Fiesta Mexicana, 1235 W Grand Ave, Chicago",41.890976429,-87.658966
+49,2010-07-18 09:33:11,"Avec, 615 W Randolph St, Chicago",41.8844904286,-87.6433981716
+50,2010-06-28 04:08:29,"Moody's Pub, 5910 N Broadway St, Chicago",41.989436,-87.660413
+51,2010-06-26 23:37:35,"Glenn's Diner & Seafood House, 1820 W Montrose Ave, Chicago",41.9616114061,-87.6754328227
+52,2010-06-19 07:26:34,"Shish Cafe, 1668 Grand Ave, Saint Paul",44.9399987922,-93.1706438715
+53,2010-06-02 08:24:52,"ROOF At Surfside, 5815 N Sheridan Rd, Chicago",41.988023,-87.6549875736
+54,2010-01-31 10:17:17,"Paddy Long's, 1028 W Diversey Pkwy, Chicago",41.932676175,-87.655005
+55,2009-10-02 08:33:50,"Bangkok Thai Deli & Supermarket, 333 University Ave W, Saint Paul",44.9559640707,-93.1137279712
+56,2009-09-21 21:02:40,"The Nerdery, 9555 James Ave S Ste 245, Bloomington",44.8311648228,-93.300416951
+57,2009-08-20 08:27:29,"Groveland Tap, 1834 Saint Clair Ave, Saint Paul",44.934184,-93.177874
+58,2009-08-18 22:49:43,"Doug's, 610 Taylor St NE, Minneapolis",44.9954705686,-93.2440335802
+59,2009-08-18 20:46:00,"Doug's, 610 Taylor St NE, Minneapolis",44.9954705686,-93.2440335802
+60,2009-08-18 20:43:35,"Doug's, 610 Taylor St NE, Minneapolis",44.9954705686,-93.2440335802
+61,2009-08-12 08:32:02,"Mac's Industrial Sports Bar, 312 Central Ave SE, Minneapolis",44.9871876613,-93.2541809718
+62,2009-05-31 08:28:15,"moto-i, 2940 Lyndale Ave S, Minneapolis",44.948651303,-93.2882407308
+63,2016-06-21 22:29:44,"Speedboat Coffee, 5115 SE Foster Rd, Portland",45.496336,-122.609578371
+64,2014-02-08 10:42:43,"Masu Sushi, 406 SW 13th Ave, Portland",45.52256887,-122.684101
+65,2013-11-14 10:54:28,"Modern Pinball NYC, 362 3rd Ave, New York",40.7410223981,-73.9816761017
+66,2013-11-07 11:34:19,"Shiro's, 2401 2nd Ave, Seattle",47.6147817329,-122.347010721
+67,2013-08-16 13:04:00,"Umi Sake House, 2230 1st Ave, Seattle",47.6132696001,-122.346021831
+68,2013-08-13 13:08:18,"Ground Kontrol Classic Arcade, 511 NW Couch St, Portland",45.5239181576,-122.675869167
+69,2013-06-06 08:10:54,"Unicorn, 1118 E Pike St, Seattle",47.6140535389,-122.317238969
+70,2013-05-31 17:32:53,"Croft Vineyard, 4530 Old Barn Road, Healdsburg",38.637807726,-122.818608284
+71,2013-02-17 12:56:40,"Ground Kontrol Classic Arcade, 511 NW Couch St, Portland",45.5239181576,-122.675869167
+72,2013-01-13 09:51:24,"Masu Sushi, 406 SW 13th Ave, Portland",45.52256887,-122.684101
+73,2012-12-17 15:04:52,"Le Pigeon, 738 E Burnside St, Portland",45.5228526489,-122.657831311
+74,2012-07-13 12:12:23,"Ground Kontrol Classic Arcade, 511 NW Couch St, Portland",45.5239181576,-122.675869167
+75,2012-05-26 00:28:53,"Delicious Donuts, 12 SE Grand Ave, Portland",45.5225556556,-122.660411246
+76,2012-04-21 06:56:44,"Publicis Seattle, 424 2nd Ave W Fl 5, Seattle",47.6225709386,-122.359011731
+77,2012-04-12 01:13:46,"Half Pint Cafe, 537 SE Ash St., Portland",45.5216385836,-122.660314066
+78,2012-03-07 23:41:56,"Rackspace, 1 Fanatical Pl, Windcrest",29.5078934049,-98.3931135642
+79,2012-03-04 14:40:38,"Deschutes Brewery Portland Public House, 210 NW 11th Ave, Portland",45.524542044,-122.681949735
+80,2012-02-27 09:30:59,"Chicago Midway International Airport (MDW), 5700 S Cicero Ave, Chicago",41.7854250716,-87.7508282661
+81,2012-01-29 01:59:38,"Twin Liquors, 999 E Basse Rd, San Antonio",29.4979773758,-98.4677931203
+82,2012-01-07 10:43:23,"AT&T Center, 1 AT&T Center Pkwy, San Antonio",29.4269697116,-98.4374892579
+83,2011-11-06 02:44:30,"Cafe Latte, 850 Grand Ave, Saint Paul",44.9398675439,-93.1362766438
+84,2011-09-21 07:31:35,"The Cove, 606 W Cypress St, San Antonio",29.4402137602,-98.5005266546
+85,2011-09-18 10:44:43,"Muddy Waters Bar & Eatery, 2933 Lyndale Ave S, Minneapolis",44.9492303529,-93.2878796588
+86,2011-09-17 02:12:35,"French Meadow Cafe, 2610 Lyndale Ave S, Minneapolis",44.95501961,-93.2881454833
+87,2011-09-08 07:32:19,"The Cove, 606 W Cypress St, San Antonio",29.4402137602,-98.5005266546
+88,2011-09-04 02:56:23,"Alamo Cycle Plex, 11900 W Interstate 10, San Antonio",29.5553633917,-98.5888085384
+89,2011-08-12 08:23:07,"Filling Station, 701 S Saint Marys St, San Antonio",29.4175726175,-98.49038405
+90,2011-07-17 07:16:05,"Alamo Drafthouse Park North, 618 NW Loop 410, San Antonio",29.5183511015,-98.5029459
+91,2011-07-07 07:37:01,"Northdown Caf and Taproom, 3244 N Lincoln Ave, Chicago",41.9409064512,-87.6695583584
+92,2011-06-27 11:47:36,"City Grille, 321 E Colfax Ave, Denver",39.7401486928,-104.982870464
+93,2011-06-17 09:29:05,"Saint Croix Cigar Company, 525 2nd St, Hudson",44.9756649068,-92.7571864693
+94,2011-06-09 08:54:49,"Northdown Caf and Taproom, 3244 N Lincoln Ave, Chicago",41.9409064512,-87.6695583584
+95,2011-06-08 05:11:29,"The Nerdery, 9555 James Ave S Ste 245, Bloomington",44.8311648228,-93.300416951
+96,2011-04-28 10:43:39,"Aloft Broomfield Denver, 8300 Arista Pl, Broomfield",39.9054259472,-105.090126779
+97,2011-04-26 06:30:32,"Odopod, 391 Grove St, San Francisco",37.7777874266,-122.422943023
+98,2011-04-19 10:31:28,"Crimson & Gold Tavern, 2017 S University Blvd, Denver",39.6798111,-104.9596046
+99,2011-04-08 00:11:23,"The Nerdery, 9555 James Ave S Ste 245, Bloomington",44.8311648228,-93.300416951
+100,2011-04-06 06:39:56,"Green Mill Restaurant & Bar, 1201 W 94th St, Bloomington",44.8327136004,-93.2967453698
+101,2011-03-22 05:25:51,"The Nerdery, 9555 James Ave S Ste 245, Bloomington",44.8311648228,-93.300416951
+102,2011-02-17 20:59:13,"Chicago Midway International Airport (MDW), 5700 S Cicero Ave, Chicago",41.7854250716,-87.7508282661
+103,2011-02-12 13:25:28,"FiftyFifty Brewing Co., 11197 Brockway Rd Spc 1, Truckee",39.3219519842,-120.163257484
+104,2011-02-08 07:29:08,"Squaw Valley Ski Resort, 1960 Squaw Valley Rd, Olympic Valley",39.1963761428,-120.235061646
+105,2011-02-06 02:43:14,"Chicago Midway International Airport (MDW), 5700 S Cicero Ave, Chicago",41.7854250716,-87.7508282661
+106,2010-11-06 09:02:00,"The Pony, 1638 W Belmont Ave, Chicago",41.9397292611,-87.6701458389
+107,2010-11-06 08:36:09,"The Pony, 1638 W Belmont Ave, Chicago",41.9397292611,-87.6701458389
+108,2010-10-31 10:00:05,"Buster's On 28th, 4204 28th Ave S, Minneapolis",44.9266160987,-93.2322157083
+109,2010-10-26 07:47:21,"Great Lakes Cyclone, Chicago Harbor, Chicago",41.8879657588,-87.6056671143
+110,2010-08-27 21:52:34,"The Nerdery, 300 N Elizabeth St Ste 500C, Chicago",41.8869034655,-87.6591181755
+111,2010-08-27 02:45:42,"Fiesta Mexicana, 1235 W Grand Ave, Chicago",41.890976429,-87.658966
+112,2010-07-18 09:33:11,"Avec, 615 W Randolph St, Chicago",41.8844904286,-87.6433981716
+113,2010-06-28 04:08:29,"Moody's Pub, 5910 N Broadway St, Chicago",41.989436,-87.660413
+114,2010-06-26 23:37:35,"Glenn's Diner & Seafood House, 1820 W Montrose Ave, Chicago",41.9616114061,-87.6754328227
+115,2010-06-19 07:26:34,"Shish Cafe, 1668 Grand Ave, Saint Paul",44.9399987922,-93.1706438715
+116,2010-06-02 08:24:52,"ROOF At Surfside, 5815 N Sheridan Rd, Chicago",41.988023,-87.6549875736
+117,2010-01-31 10:17:17,"Paddy Long's, 1028 W Diversey Pkwy, Chicago",41.932676175,-87.655005
+118,2009-10-02 08:33:50,"Bangkok Thai Deli & Supermarket, 333 University Ave W, Saint Paul",44.9559640707,-93.1137279712
+119,2009-09-21 21:02:40,"The Nerdery, 9555 James Ave S Ste 245, Bloomington",44.8311648228,-93.300416951
+120,2009-08-20 08:27:29,"Groveland Tap, 1834 Saint Clair Ave, Saint Paul",44.934184,-93.177874
+121,2009-08-18 22:49:43,"Doug's, 610 Taylor St NE, Minneapolis",44.9954705686,-93.2440335802
+122,2009-08-18 20:46:00,"Doug's, 610 Taylor St NE, Minneapolis",44.9954705686,-93.2440335802
+123,2009-08-18 20:43:35,"Doug's, 610 Taylor St NE, Minneapolis",44.9954705686,-93.2440335802
+124,2009-08-12 08:32:02,"Mac's Industrial Sports Bar, 312 Central Ave SE, Minneapolis",44.9871876613,-93.2541809718
+125,2009-05-31 08:28:15,"moto-i, 2940 Lyndale Ave S, Minneapolis",44.948651303,-93.2882407308

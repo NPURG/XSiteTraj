@@ -1,0 +1,81 @@
+,time,poi,latitude,longitude
+0,2014-07-17 09:16:39,"Theory, 9 W Hubbard St, Chicago",41.8899898418,-87.6285797773
+1,2013-12-13 09:56:52,"Southside Flying Pizza, 2206 S Congress Ave, Austin",30.2410904568,-97.752834985
+2,2013-12-08 21:24:57,"theWit Chicago - A DoubleTree by Hilton Hotel, 201 N State St, Chicago",41.8857710533,-87.6279532027
+3,2013-11-03 13:44:40,"Donn's Depot, 1600 W 5th St, Austin",30.2739860912,-97.7633428574
+4,2013-10-14 18:05:16,"London Heathrow Airport (LHR), 234 Bath Rd, Hounslow",51.4709851642,-0.466146469116
+5,2013-09-22 06:05:35,"NoMI, 800 N Michigan Ave, Chicago",41.8968342815,-87.6252106327
+6,2013-09-12 05:12:52,"Ronald Reagan Washington National Airport (DCA), 2401 S Smith Blvd, Arlington",38.8535269605,-77.0424560544
+7,2013-09-08 23:22:27,"Farmhouse, 228 W Chicago Ave, Chicago",41.8966118082,-87.6353944262
+8,2013-09-08 06:37:47,"The Bar at The Peninsula, 108 E Superior St, Chicago",41.8959204164,-87.6248931885
+9,2013-08-30 03:08:57,"Vancouver International Airport (YVR), 3211 Grant McConachie Way, Richmond",49.1947212268,-123.178637267
+10,2013-08-29 08:55:11,"L19Abattoir, 217 Carrall St, Vancouver",49.2831528061,-123.104403869
+11,2013-08-28 14:19:50,"The Westin Bayshore, Vancouver, 1601 Bayshore Dr, Vancouver",49.2923923241,-123.129025698
+12,2013-08-25 10:27:20,"Perla's Seafood and Oyster Bar, 1400 S Congress Ave Ste B100, Austin",30.249957,-97.749762
+13,2013-08-20 07:59:40,"Banger's Sausage House & Beer Garden, 81 Rainey St, Austin",30.2590515886,-97.7383840445
+14,2013-08-17 22:18:50,"Mozart's Coffee, 3825 Lake Austin Blvd, Austin",30.2954778126,-97.7843257785
+15,2013-08-12 01:50:53,"Marye's Gourmet Pizza Pub, 3663 Bee Caves Rd Ste 4G, West Lake Hills",30.2785231325,-97.8073125434
+16,2013-08-09 07:04:34,"Matt's Rancho Martinez, 1904 Skillman St, Dallas",32.8129535822,-96.7615303459
+17,2013-08-03 05:58:13,"Clermont Lounge, 789 Ponce de Leon Ave NE, Atlanta",33.7735825259,-84.3613958359
+18,2013-08-01 02:36:48,"Mi Cocina, 1080 Peachtree St NE #10, Atlanta",33.7834194452,-84.3840634444
+19,2013-07-18 10:03:38,"Tom & Jerry's, 288 Elizabeth St, New York",40.7244267198,-73.9933532052
+20,2013-07-08 15:41:54,"Kahului Airport (OGG), 1 Kahului Airport Rd, Kahului",20.8933729997,-156.437917729
+21,2013-07-07 15:28:54,"Old Lahaina Lua, 1251 Front St, Lahaina",20.885996393,-156.685249732
+22,2013-07-07 09:42:30,"Lahaina Pizza Co., 730 Front St, Lahaina",20.8740512597,-156.678620704
+23,2013-07-06 14:28:22,"Hula Grill Kaanapali, 2435 Kaanapali Pkwy Bldg P, Lahaina",20.92171088,-156.695559747
+24,2013-06-28 23:44:23,"Cafe Java, 11900 Metric Blvd, Austin",30.4000670734,-97.7040245783
+25,2013-06-15 01:04:01,"Manuel's, 310 Congress Ave, Austin",30.2657207513,-97.7437090874
+26,2013-06-12 13:34:25,"Berlin Tegel Otto Lilienthal Airport (TXL), Flughafen Tegel, Berlin",52.5547394335,13.2913920038
+27,2013-06-12 00:37:35,"Goodtime, Hausvogteiplatz 11, Berlin",52.5124658316,13.3969232515
+28,2013-06-11 20:31:20,"Edelman.ergo / gosub communications, Grnberger Str. 44, Berlin",52.5115726488,13.4544700836
+29,2013-06-11 03:34:24,"nhow Berlin, Stralauer Allee 3, Berlin",52.50130203,13.45075141
+30,2013-06-07 04:29:31,"Hamburg Airport Helmut Schmidt (HAM), Flughafenstr. 1-3, Hamburg",53.6324258975,10.0058691568
+31,2013-06-06 19:40:53,"London Heathrow Airport (LHR), 234 Bath Rd, Hounslow",51.4709851642,-0.466146469116
+32,2013-05-31 03:06:52,"Vancouver International Airport (YVR), 3211 Grant McConachie Way, Richmond",49.1947212268,-123.178637267
+33,2013-05-16 08:52:24,"Hotel Rex, 562 Sutter St, San Francisco",37.7891026587,-122.409857278
+34,2013-05-09 08:05:26,"Maudie's Cafe, 2608 W 7th St, Austin",30.2827084064,-97.775674
+35,2013-04-26 00:34:13,"Edelman, 506 Congress Ave Ste 300, Austin",30.267605,-97.743439
+36,2013-04-18 23:50:56,"The Hop Poles, 13 Middle St, Brighton",50.8213638937,-0.143290895763
+37,2013-04-17 18:55:14,"Sanctum Soho Hotel, 20 Warwick St, London",51.5116871748,-0.138434171677
+38,2013-04-17 18:54:04,"Hix, 66-70 Brewer St, Soho",51.5109633341,-0.136349020362
+39,2013-04-17 18:52:44,"The John Snow, 39 Broadwick St, London",51.5133654741,-0.136456462446
+40,2013-04-15 02:42:53,"Lick Ice Creams, 1100 S Lamar Blvd, Austin",30.2560553515,-97.7634233236
+41,2013-04-11 20:15:19,"LaGuardia Airport (LGA), Grand Central Pkwy, East Elmhurst",40.7716531197,-73.8676929474
+42,2013-04-11 11:48:01,"SoHo Grand Hotel, 310 W Broadway, New York",40.7219552704,-74.004377193
+43,2013-04-11 07:56:30,"SoHo Grand Hotel Club Room, 310 W Broadway, New York",40.721874,-74.004296
+44,2013-04-07 04:15:07,"Manuel's, 10201 Jollyville Rd, Austin",30.396713,-97.749397
+45,2013-03-31 06:36:47,"H-E-B, 2400 S Congress Ave, Austin",30.238718,-97.755153
+46,2013-03-15 23:09:03,"Angela's Cafe, Lovers & Inwood, Dallas",32.8516546598,-96.821955546
+47,2012-06-24 11:10:35,"Whip In Convenience Store & Pub, 1950 S Interstate 35, Austin",30.2379567159,-97.739439648
+48,2012-06-10 08:11:33,"Phoenix Sky Harbor International Airport (PHX), 3400 E Sky Harbor Blvd, Phoenix",33.4352801956,-111.999311765
+49,2012-05-19 08:51:25,"Maudie's Cafe, 2608 W 7th St, Austin",30.2827084064,-97.775674
+50,2012-05-02 20:05:26,"Hilton New York Fashion District, 152 W 26th St, New York",40.7455256495,-73.9937621355
+51,2012-04-15 07:16:52,"Shady Grove, 1624 Barton Springs Rd, Austin",30.2628656075,-97.7621203751
+52,2012-04-05 06:37:37,"John F. Kennedy International Airport (JFK), at JFK Access Rd, Queens",40.6452830868,-73.7816757409
+53,2012-03-20 01:33:51,"Newark Liberty International Airport (EWR), 10 Toler Pl, Newark",40.6948858543,-74.1772281549
+54,2012-03-15 12:07:30,"Omni La Mansin del Rio, 112 College St, San Antonio",29.4257517718,-98.4905089395
+55,2012-01-01 01:38:35,"Kerbey Lane Cafe, 3003 S Lamar Blvd, Austin",30.2420812274,-97.7836512606
+56,2011-12-30 07:38:50,"Takoba, 1411 E 7th St, Austin",30.2641661675,-97.7273886741
+57,2011-12-29 02:28:38,"Dallas Fort Worth International Airport (DFW), 2400 Aviation Dr, DFW Airport",32.8987997009,-97.0365360925
+58,2011-11-21 02:16:14,"Takoba, 1411 E 7th St, Austin",30.2641661675,-97.7273886741
+59,2011-11-05 02:19:57,"Manuel's, 310 Congress Ave, Austin",30.2657207513,-97.7437090874
+60,2011-10-23 00:31:59,"Taco Joint, 911 N Peak St, Dallas",32.795567,-96.77572197
+61,2011-10-22 04:54:27,"American Girl Boutique and Bistro, 13464 Dallas Pkwy, Dallas",32.9316110211,-96.8210763834
+62,2011-10-10 01:44:52,"Top Notch, 7525 Burnet Rd, Austin",30.351149,-97.73353181
+63,2010-11-21 08:32:50,"Cigarz Pizza, 7238 Gaston Ave, Dallas",32.8126446708,-96.7320129973
+64,2010-11-05 06:33:37,"Alternative Automotive, 2500 Oak Lawn Ave, Dallas",32.8047184077,-96.8134156115
+65,2010-10-10 23:54:03,"Angela's Cafe, Lovers & Inwood, Dallas",32.8516546598,-96.821955546
+66,2010-06-28 01:09:11,"Our Lady of Guadalupe Catholic Church, 1206 E 9th St, Austin",30.2668563714,-97.727998599
+67,2010-05-01 09:50:07,"Sky Ranch, 24657 County Road 448, Van",32.5620855803,-95.5833412529
+68,2010-04-30 23:52:26,"Matt's Rancho Martinez, 1904 Skillman St, Dallas",32.8129535822,-96.7615303459
+69,2010-04-30 23:37:29,"Metro Paws Animal Hospital, 1910 Skillman St, Dallas",32.8131473064,-96.7615377903
+70,2010-04-19 01:31:59,"American Girl Boutique and Bistro, 13464 Dallas Pkwy, Dallas",32.9316110211,-96.8210763834
+71,2010-04-14 22:12:52,"Silverdome, 1200 Featherstone Rd, Pontiac",42.6472129353,-83.2528562748
+72,2010-04-03 02:02:48,"Round Rock Donuts, 106 W Liberty St, Round Rock",30.5094635435,-97.6799845386
+73,2010-01-14 03:14:18,"Noodle Nexus, 325 N Saint Paul St, Dallas",32.7830193194,-96.7972597842
+74,2010-01-04 03:42:23,"Floyd's Barbershop, 5706 E Mockingbird Ln, Dallas",32.836296,-96.770034
+75,2009-12-01 11:03:41,"Frank Restaurant, 407 Colorado St, Austin",30.2665964687,-97.7445958882
+76,2009-12-01 11:01:54,"Azul Tequila, 4211 S Lamar Blvd, Austin",30.233208608,-97.7927398682
+77,2009-12-01 11:01:02,"Thundercloud Subs, 7930 Burnet Rd, Austin",30.35765358,-97.730911
+78,2009-12-01 10:59:16,"Shady Grove, 1624 Barton Springs Rd, Austin",30.2628656075,-97.7621203751
+79,2009-12-01 10:56:34,"Noodle Nexus, 325 N Saint Paul St, Dallas",32.7830193194,-96.7972597842

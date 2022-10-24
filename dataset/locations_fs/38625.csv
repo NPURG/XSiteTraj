@@ -1,0 +1,75 @@
+,time,poi,latitude,longitude
+0,2015-11-04 08:32:34,"The Westin Dublin, 35-39 Westmoreland St, Dublin",53.3456324637,-6.25877927313
+1,2015-04-28 23:05:00,"Salmon & Trout, e3a24-42-7, 1630373a",35.6544131644,139.667269331
+2,2015-04-02 06:16:27,"L'ventail, 28 boulevard Voltaire, Paris",48.8644134922,2.36887625265
+3,2015-03-28 23:13:41,"glise de la Trinit, Place d'Estienne d'Orves, Paris",48.8763831619,2.33153719465
+4,2015-03-04 20:22:20,"Au Vieux Colombier, 65 rue du Vieux Colombier, Paris",48.8516136798,2.33124732971
+5,2015-02-22 22:54:22,"Paris Brunch Club, rue de la Convention, Paris",48.6261024573,2.27794525328
+6,2015-02-02 21:45:45,"Chez moi, 1 Rue Saint Ambroise, Paris",48.8611715962,2.37510681152
+7,2015-01-07 04:07:36,"Le Siffleur de Ballons, 34 rue de Cteaux, Paris",48.8497527425,2.3811770388
+8,2015-01-02 21:36:07,"Grand Cru Restaurant & Bar, Lodeck 4, Praha",50.0916746802,14.4326140992
+9,2015-01-02 18:55:11,"Los v Osl, Perunova 17, Praha",50.0769691424,14.4536840916
+10,2014-12-05 16:38:20,"La Rotonde, 105 boulevard du Montparnasse, Paris",48.8421964785,2.32923001754
+11,2014-11-27 10:11:15,"Buena Vista Cafe, 2765 Hyde St, San Francisco",37.8067310709,-122.420775083
+12,2014-11-12 20:00:39,"Chambelland, 14 rue Ternaux, Paris",48.86454252,2.37314040249
+13,2014-09-28 21:43:09,"Allswell, 124 Bedford Ave, Brooklyn",40.7196562507,-73.9559698105
+14,2014-08-05 02:10:25,"Le Square Gardette, 24 rue Saint-Ambroise, Paris",48.862701,2.378729
+15,2014-07-17 04:54:11,"Le Square Gardette, 24 rue Saint-Ambroise, Paris",48.862701,2.378729
+16,2014-07-14 23:14:39,"Lockwood, 73 rue d'Aboukir, Paris",48.8677543596,2.34706974031
+17,2014-07-14 23:12:36,"Le Ballroom, The Beef Club, Paris",48.8641289901,2.34338151539
+18,2014-07-14 23:10:31,"La Palette, 43 rue de Seine, Paris",48.8553962411,2.33687651901
+19,2014-07-14 23:04:36,"Odette, 77 rue Galande, Paris",48.8520390247,2.34650105238
+20,2014-07-11 02:51:51,"Mexico Caf, 73 rue crozatier, Paris",48.849526,2.379617
+21,2014-06-26 22:52:52,"Ladure, 75 avenue des Champs-lyses, Paris",48.8707806153,2.30309486389
+22,2014-06-26 22:50:13,"Ladure, 75 avenue des Champs-lyses, Paris",48.8707806153,2.30309486389
+23,2014-02-19 05:50:02,"Ten Belles, 10 rue de La Grange aux Belles, Paris",48.873539,2.364635
+24,2014-02-19 04:12:31,"Le Grand Colbert, 2 rue Vivienne, Paris",48.8666348118,2.33867674593
+25,2014-02-17 03:59:33,"Chez Justine, 96 rue Oberkampf, Paris",48.8658314034,2.37780247692
+26,2014-02-12 08:16:40,"Jefrey's, 14 rue Saint-Sauveur, Paris",48.8660558541,2.34865021057
+27,2013-12-10 04:21:33,"Le Bal, 6 impasse de la Dfense, Paris",48.8852859263,2.32723474503
+28,2013-04-27 16:57:56,"Village Voice Bookshop, 6 rue Princesse, Paris",48.8525114838,2.33450812602
+29,2013-04-14 16:54:20,"Caf Lomi, 3 ter rue Marcadet, Paris",48.8903017422,2.35525056487
+30,2013-04-12 18:59:57,"L'Ami Jean, 27 rue Malar, Paris",48.8602774913,2.30586983151
+31,2013-04-07 07:30:46,"L'Ami Jean, 27 rue Malar, Paris",48.8602774913,2.30586983151
+32,2013-03-28 12:56:35,"20 Spot, 3565 20th St, San Francisco",37.7585216477,-122.42052621
+33,2012-07-21 08:14:58,"Le Pick Clops, 16 rue Vieille du Temple, Paris",48.8566,2.356918
+34,2012-07-21 08:12:16,"Le Dpart Saint Michel, 1 place Saint-Michel, Paris",48.853628,2.344448
+35,2012-07-21 08:12:06,"Les Philosophes, 28 rue Vieille du Temple, Paris",48.8573162584,2.35746
+36,2012-07-21 08:05:36,"Baiser Sal, 58 rue des Lombards, Paris",48.8597632,2.3478768
+37,2012-07-21 08:04:12,"Pont Neuf, Pont Neuf, Paris",48.8575357901,2.34174614003
+38,2012-07-21 08:03:46,"Prescription Cocktail Club, 23 rue Mazarine, Paris",48.8548058236,2.33790427799
+39,2012-07-21 08:02:36,"Le Baryton, 16 rue des Bernardins, Paris",48.8503943422,2.35074357967
+40,2012-07-21 08:00:04,"Caveau de la Huchette, 5 rue de la Huchette, Paris",48.8528646,2.3463361
+41,2012-07-21 05:19:05,"Galway Irish Pub, 13 quai des Grands Augustins, Paris",48.8540715,2.343848
+42,2012-07-21 05:16:18,"Candelaria, 56 rue de Saintonge, Paris",48.863001809,2.36410246913
+43,2012-07-21 05:14:40,"Le Loir dans la Thire, 3 rue des Rosiers, Paris",48.8562234493,2.3611164093
+44,2012-07-21 05:13:34,"Bar Hemingway, Htel Ritz, Paris",48.8688302952,2.32779527898
+45,2012-07-21 05:13:12,"Barrio Latino, 46-48 rue du Faubourg Saint-Antoine, Paris",48.852205,2.372693
+46,2012-07-21 05:12:52,"Ladure, 75 avenue des Champs-lyses, Paris",48.8707806153,2.30309486389
+47,2012-07-21 05:12:26,"The Highlander, 8 rue de Nevers, Paris",48.8559410866,2.3398733139
+48,2012-07-21 05:08:27,"Canal Saint-Martin, Quai de Valmy, Paris",48.8710946505,2.36553668976
+49,2012-07-21 05:04:03,"Frenchie, 5 rue du Nil, Paris",48.8678036039,2.34791719372
+50,2012-07-21 05:00:48,"Caf de Flore, 172 boulevard Saint-Germain, Paris",48.8541056906,2.33263403177
+51,2012-07-21 04:59:02,"L'Atelier, 95 boulevard du Montparnasse, Paris",48.8424806327,2.32788284479
+52,2012-07-21 04:53:41,"WOS Bar (Wide Open Spaces Bar), 184 rue Saint-Jacques, Paris",48.846200365,2.34293907881
+53,2012-07-21 04:43:26,"Les Philosophes, 28 rue Vieille du Temple, Paris",48.8573162584,2.35746
+54,2012-06-24 12:13:02,"Le Dpart Saint Michel, 1 place Saint-Michel, Paris",48.853628,2.344448
+55,2012-06-23 07:45:23,"Galway Irish Pub, 13 quai des Grands Augustins, Paris",48.8540715,2.343848
+56,2012-06-23 07:32:07,"Village Voice Bookshop, 6 rue Princesse, Paris",48.8525114838,2.33450812602
+57,2012-06-23 07:29:29,"Caveau de la Huchette, 5 rue de la Huchette, Paris",48.8528646,2.3463361
+58,2012-05-21 00:12:38,"Bacchus, 409 Atlantic Ave, Brooklyn",40.686886824,-73.9844176288
+59,2012-03-29 10:31:29,"Parkside Tavern, 1940 Taraval St, San Francisco",37.7426634029,-122.487127483
+60,2012-03-08 14:21:06,"Elixir, 3200 16th St, San Francisco",37.7648457896,-122.424387932
+61,2012-03-07 08:23:22,"Pont Neuf, Pont Neuf, Paris",48.8575357901,2.34174614003
+62,2012-03-07 08:12:48,"Parc Floral de Paris, Route du Champ de Manoeuvre, Paris",48.8368571758,2.44453741298
+63,2012-03-07 08:00:06,"Des Petits Hauts, 21 rue Beaurepaire, Paris",48.8708811773,2.36395686865
+64,2012-03-07 07:46:26,"Ssame Restaurant, 51 quai de Valmy, Paris",48.8702336953,2.36572980881
+65,2012-02-21 02:31:01,"Caf Clochette, 16 avenue Richerand, Paris",48.8724636799,2.36663103104
+66,2012-02-20 22:49:48,"Ssame Restaurant, 51 quai de Valmy, Paris",48.8702336953,2.36572980881
+67,2012-01-09 03:07:46,"Serpentine, 2495 3rd St, San Francisco",37.75807394,-122.388385
+68,2011-12-31 05:15:24,"Chez Papa Jazz Club, 3 rue Saint-Benot, Paris",48.855334,2.333386
+69,2011-11-05 09:40:20,"Restaurant August, 301 Tchoupitoulas St, New Orleans",29.9499691143,-90.0666728921
+70,2011-05-08 05:48:26,"L'Autre Caf, 62 rue Jean-Pierre Timbaud, Paris",48.8666987527,2.37389489657
+71,2010-11-08 15:11:08,"A16, 2355 Chestnut St, San Francisco",37.7997832589,-122.442026702
+72,2010-10-25 09:11:15,"Caffe Trieste, 601 Vallejo St, San Francisco",37.7986827106,-122.407224446
+73,2010-08-28 05:54:37,"Nook, 1500 Hyde St, San Francisco",37.7946287635,-122.418054034

@@ -1,0 +1,59 @@
+,time,poi,latitude,longitude
+0,2016-05-01 23:54:08,"Shanghai Asian Manor, 21 Mott St, New York",40.714487214,-73.9988394544
+1,2016-05-01 23:49:56,"Los Tacos No.1, 75 9th Ave, New York",40.742229527,-74.0058535337
+2,2016-05-01 23:49:15,"Coppelia, 207 W 14th St, New York",40.7387216785,-74.0000044013
+3,2016-03-24 06:06:43,"Terminal 5, 610 W 56th St, New York",40.7695700075,-73.9929055755
+4,2016-03-13 10:12:05,"Bar Am, 118 W 4th St, Los Angeles",34.0485391928,-118.247879825
+5,2016-03-13 10:11:17,"Bar Am, 118 W 4th St, Los Angeles",34.0485391928,-118.247879825
+6,2016-03-12 10:11:47,"Venice Canals, Dell Ave, Venice",33.9834403249,-118.466314036
+7,2016-03-12 10:11:23,"TKB Bakery & Deli, 44911 Golf Center Pkwy, Indio",33.723305,-116.207369
+8,2016-03-12 10:09:59,"Lucia Lodge, 62400 Highway 1, Big Sur",36.020067,-121.551136
+9,2016-03-12 10:09:12,"Sierra Mar, 47900 Post Ranch Inn, Big Sur",36.22983,-121.771656
+10,2016-02-01 06:47:37,"El Luchador, 87 South St, New York",40.7058499938,-74.003918112
+11,2015-12-31 04:05:05,"La Jaquita Baya, 801 Avenida Fernandez Juncos, San Juan",18.452384052,-66.0836762613
+12,2015-12-14 00:52:32,"London Heathrow Airport (LHR), 234 Bath Rd, Hounslow",51.4709851642,-0.466146469116
+13,2015-12-09 00:44:06,"Cafe George, Leidsegracht 84, Amsterdam",52.3660003119,4.88174889439
+14,2015-12-09 00:43:14,"Rijksmuseum, Museumstraat 1, Amsterdam",52.3600929616,4.88508295951
+15,2015-12-09 00:42:45,"Caf Loetje, Johannes Vermeerstraat 52, Amsterdam",52.354318333,4.88437085818
+16,2015-10-15 21:06:13,"Landmarc, 10 Columbus Circle, New York",40.7688247068,-73.9823458012
+17,2015-09-06 06:48:35,"Catedral de Barcelona, Plaa de la Se, Barcelona",41.3844923418,2.17607572207
+18,2015-09-06 06:38:39,"El Xampanyet, C. Montcada, 22, Barcelona",41.3845251147,2.1817917665
+19,2015-09-06 06:37:37,"Caf Godot, C. Sant Domnec, 19, Barcelona",41.400223,2.156902
+20,2015-09-05 08:29:53,"Rac d'en Cesc, Diputaci, 201, Barcelona",41.3864245666,2.16112433141
+21,2015-09-04 20:21:37,"La Pepita, Crsega, 343, Barcelona",41.397977,2.161187
+22,2015-09-04 20:20:27,"La Pepita, Crsega, 343, Barcelona",41.397977,2.161187
+23,2015-09-04 05:28:22,"Divinum: vins i formatges, Albereda, 7, Girona",41.9821811611,2.8240413247
+24,2015-09-03 05:44:47,"Jardns Walter Benjamn, Jardns de Walter Benjamin, Barcelona",41.3731894325,2.17443927199
+25,2015-09-03 05:44:18,"Mercat de Sant Josep - La Boqueria, La Rambla, 91, Barcelona",41.3819149789,2.1720015036
+26,2015-09-03 05:42:37,"Jai-Ca, C. Ginebra, 9-13, Barcelona",41.3815890295,2.18807017249
+27,2015-09-03 05:41:47,"Hospital de la Santa Creu i Sant Pa, Sant Quint, 89, Barcelona",41.414442697,2.1745634079
+28,2015-09-03 05:41:24,"Cerveseria Catalana, C. Mallorca, 236, Barcelona",41.3924491751,2.16085195541
+29,2015-09-03 05:41:00,"Sagrada Famlia, C. de Mallorca, 401, Barcelona",41.4037075778,2.17449205978
+30,2015-09-03 05:39:28,"La Pepita, Crsega, 343, Barcelona",41.397977,2.161187
+31,2015-08-20 10:28:36,"Donostia, 155 Avenue B, New York",40.7267894658,-73.980021425
+32,2015-08-12 10:51:06,"Doggi's Arepa Bar, 1246 Coral Way, Miami",25.750896,-80.215371
+33,2015-08-12 10:44:17,"Robataya NY, 231 E 9th St, New York",40.7295601878,-73.9879069721
+34,2015-07-29 00:13:30,"Delaney Barbecue: BrisketTown, 359 Bedford Ave, Brooklyn",40.7115536868,-73.9631358549
+35,2015-07-23 05:40:31,"Gantry Plaza State Park, 474 48th Ave, Queens",40.7465579403,-73.9580512047
+36,2015-07-23 05:39:18,"Brooklyn Museum, 200 Eastern Pkwy, Brooklyn",40.6712859549,-73.963686869
+37,2015-07-23 05:38:37,"Cow & Clover, 291 Kent Ave, Williamsburg",40.7146303972,-73.9665165312
+38,2015-07-23 05:37:57,"La Goulette, 159 Grand St, Brooklyn",40.714709,-73.961717
+39,2015-07-11 11:33:56,"Citi Field, 12301 Roosevelt Ave, Flushing",40.7564111146,-73.845895027
+40,2015-07-02 07:35:21,"Casa Enrique, 5-48 49th Ave, Queens",40.7433837981,-73.9542934299
+41,2015-06-24 03:52:36,"Starbucks, 424 Park Ave S, New York",40.74426,-73.983749
+42,2015-06-13 01:15:27,"Spunto, 65 Carmine St, New York",40.7299090212,-74.0048420115
+43,2015-06-09 10:12:52,"Dia:Beacon, 3 Beekman St, Beacon",41.500799571,-73.9827489853
+44,2015-06-09 10:10:14,"Swallow Caf, 49 Bogart St, Brooklyn",40.7054184602,-73.9333443162
+45,2015-05-20 08:47:35,"Tauro Restaurant, 284 Hudson St, New York",40.7253179205,-74.0075735143
+46,2015-05-20 08:46:42,"Starbucks, 150 Varick St, New York",40.725772,-74.005579
+47,2015-05-20 08:44:09,"Moe19s Doughs, 126 Nassau Ave, Brooklyn",40.724637,-73.948607
+48,2015-05-20 08:43:35,"Peter Luger Steak House, 178 Broadway, Brooklyn",40.710044192,-73.9624757839
+49,2015-05-20 08:43:07,"Samurai Mama, 205 Grand St, Brooklyn",40.7141376034,-73.9601052493
+50,2015-05-20 08:42:18,"The Meat Hook, 397 Graham Ave, Brooklyn",40.7168264291,-73.9448440075
+51,2015-05-20 08:41:51,"Two-Bit's Retro Arcade, 153 Essex St, New York",40.7209003583,-73.9872121811
+52,2015-05-20 08:41:16,"Patacon Pisao, 139 Essex St, New York",40.7203616544,-73.9874777198
+53,2015-05-13 07:08:13,"Brooklyn Parlor, b0bf3-1-26, b0bf3a",35.6900319951,139.705892801
+54,2015-05-13 07:06:05,"5e385bd0f3 511, 64424-3-28, 71ac",35.6747196753,139.735372574
+55,2015-05-13 07:05:33,"CHAR Bar, 30/F, Hotel Indigo, 585 Zhongshan Rd. E-2, 0a7702",31.228222488,121.495582132
+56,2015-05-13 07:05:00,"HEPCAT, Kanding Lu No.359 2/F, 0a7702",31.2367060693,121.444900892
+57,2015-05-13 07:04:14,"57ac640586, fafd7fef641f7, 0a7702",31.2027534007,121.441830397

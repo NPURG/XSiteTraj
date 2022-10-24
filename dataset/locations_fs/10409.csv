@@ -1,0 +1,57 @@
+,time,poi,latitude,longitude
+0,2016-10-17 11:37:10,"Savage Smyth, 920 N Franklin St, Chicago",41.8995619772,-87.6360297203
+1,2016-10-17 11:36:46,"The Angry Crab, 1308 N Milwaukee Ave, Chicago IL, Chicago",41.9054732078,-87.6697894992
+2,2016-09-10 21:03:31,"BIG & little's, 1310 N Milwaukee Ave, Chicago",41.9055887119,-87.6699435924
+3,2016-09-10 21:01:48,"Izakaya Mita, 1960 N Damen Ave, Chicago",41.917735258,-87.6777005484
+4,2016-09-10 20:59:09,"Bien MaSabe, 1637 W Montrose Ave, Chicago",41.9615246801,-87.6706707127
+5,2016-05-25 08:48:48,"Polonia Triangle, Milwaukee+Ashland, Chicago",41.9033630341,-87.6676368713
+6,2016-05-17 04:22:38,"McGillin's Olde Ale House, 1310 Drury St, Philadelphia",39.9502542512,-75.1624586227
+7,2016-05-17 04:18:27,"Sonny's Famous Steaks, 228 Market St, Philadelphia",39.950064,-75.144828
+8,2016-05-17 04:13:59,"Continental Restaurant & Martini Bar, 138 Market St, Philadelphia",39.9497499597,-75.1437319631
+9,2016-05-17 04:10:46,"Tom's Dim Sum 0a7712, 59 N 11th St, Philadelphia",39.953709227,-75.1579098437
+10,2016-04-29 22:41:08,"En Hakkore 2.0, 1467 N Milwaukee Ave, Chicago",41.9085420727,-87.6745613312
+11,2016-02-16 07:13:07,"Charleston, 2076 N Hoyne Ave, Chicago",41.920009,-87.680221
+12,2016-02-16 07:12:18,"Chicago Cultural Center, 78 E Washington St, Chicago",41.8836402633,-87.6246707753
+13,2016-01-23 05:58:05,"Maple & Ash, 8 W Maple St, Chicago",41.9018846501,-87.6283532475
+14,2016-01-17 22:15:43,"Dark Matter Coffee (Star Lounge Coffee Bar), 2521 W Chicago Ave, Chicago",41.8956411157,-87.6901686141
+15,2015-12-30 16:07:48,"Small Cheval, 1732 N. Milwaukee Ave, Chicago",41.9127895434,-87.6814557693
+16,2015-11-29 14:39:34,"Queen Mary, 2125 W Division, Chicago",41.9031116379,-87.6806999357
+17,2015-11-01 05:39:34,"Cindy's, 12 S Michigan Ave, Chicago",41.8816938021,-87.6245550908
+18,2015-08-08 10:25:36,"Apple North Michigan Avenue, 679 North Michigan Avenue, Chicago",41.8947718708,-87.6238177791
+19,2015-08-08 10:25:15,"Apple Lincoln Park, 801 W. North Avenue, Chicago",41.910609,-87.64849
+20,2015-08-04 04:26:18,"Pub Royale, 2049 W Division St, Chicago",41.9031645111,-87.679091942
+21,2015-07-25 17:52:56,"Joe's Wine Cellar, 2108 W Division St, Chicago",41.9031050427,-87.6799585325
+22,2015-07-20 00:47:55,"Holstein Park Pool, 2200 N Oakley Ave, Chicago",41.9219108303,-87.6853358388
+23,2015-07-20 00:46:31,"Hoosier Mama Pie Co., 1618 W Chicago Ave, Chicago",41.8960171025,-87.668113702
+24,2015-07-14 01:02:23,"Hidden Creek Aqua Park, 1220 Fredrickson Pl, Highland Park",42.1801814856,-87.8134467091
+25,2015-07-05 09:25:24,"The Seafood Shanty, 803 Scenic Highway, Buzzards Bay",41.7718206504,-70.5639593201
+26,2015-07-05 07:13:55,"Showcase Randolph, 73 Mazzeo Dr, Randolph",42.162608,-71.061019
+27,2015-07-04 01:18:29,"Edgartown Visitors' Center, 29 Church St, Edgartown",41.3909943466,-70.5144542456
+28,2015-07-04 00:21:17,"The Canteen, 225 Commercial St, Provincetown",42.0496895392,-70.1881591355
+29,2015-07-04 00:19:02,"Nor'east Beer Garden, 206 Commercial St, Provincetown",42.04903,-70.189021
+30,2015-07-03 17:52:28,"The Seafood Shanty, 31 Dock St, Edgartown",41.3890424509,-70.5108815432
+31,2015-07-03 17:51:27,"Mad Martha's, 7 North Water St, Edgartown",41.3895153382,-70.5127537251
+32,2015-06-30 20:00:50,"Sandy Neck Beach, 425 Sandy Neck Rd., West Barnstable",41.7386332792,-70.380545996
+33,2015-06-15 07:09:47,"West Loop Athletic Club, 1380 W Randolph St, Chicago",41.8844176224,-87.6618337297
+34,2015-06-14 09:46:52,"Big Star, 1531 N Damen Ave, Chicago",41.909227885,-87.6772672338
+35,2015-06-14 09:45:56,"Berco's Popcorn, 810 W Armitage Ave, Chicago",41.9183414669,-87.6490974426
+36,2015-06-08 11:22:08,"Pump It Up, 821 W Eastman St, Chicago",41.907296,-87.64905085
+37,2015-05-27 11:09:43,"Nando's Peri-Peri, 953 W Randolph St, Chicago",41.8840843804,-87.651766632
+38,2015-05-15 09:51:31,"Quesadilla La Reyna del Sur, 2235 N Western Ave, Chicago",41.9226604667,-87.6874958167
+39,2015-05-04 00:05:05,"Hash Chicago, 1357 N Western Ave, Chicago",41.9066184594,-87.6870206295
+40,2015-04-20 00:49:57,"Hotel Palomar Pool/Gym, 505 N State St, Chicago",41.8910093385,-87.6275917134
+41,2015-04-19 05:15:27,"Maggie Daley Park, 337 E Randolph Dr, Chicago",41.8822402356,-87.6188186976
+42,2015-03-26 23:31:22,"Steppenwolf Garage Theatre, 1624 N Halsted St, Chicago",41.9117740186,-87.6484281038
+43,2015-03-25 05:13:11,"Family Tattoo, 2125 W Belmont Ave, Chicago",41.9394777504,-87.6823139191
+44,2015-03-25 02:58:41,"Runa Japanese Restaurant, 2257 W North Ave, Chicago",41.910252,-87.684793
+45,2015-03-23 10:16:10,"Bottlefork, 441 N Clark St, Chicago",41.8903892771,-87.6311197264
+46,2015-03-23 10:14:59,"Oiistar, 1385 N Milwaukee Ave, Chicago",41.907041897,-87.6722212218
+47,2015-03-23 10:13:25,"Momotaro, 820 W Lake St, Chicago",41.88575756,-87.6485629986
+48,2015-03-23 10:06:58,"Soho House, 113-125 N Green St, Chicago",41.8837514381,-87.6484088331
+49,2014-12-04 10:28:36,"Runa Japanese Restaurant, 2257 W North Ave, Chicago",41.910252,-87.684793
+50,2014-09-29 08:13:00,"Latham Hotel, 135 S 17th St, Philadelphia",39.9501362439,-75.16895665
+51,2014-09-15 03:04:37,"Stan's Donuts & Coffee, 1560 N Damen Ave, Chicago",41.9100420846,-87.6774550039
+52,2014-08-30 22:13:07,"Summer House Santa Monica, 1954 N Halsted St, Chicago",41.9175662237,-87.6486507741
+53,2014-08-20 00:24:39,"Letizia's Natural Bakery, 2144 W Division St, Chicago",41.9031793748,-87.6814287901
+54,2014-08-18 04:54:06,"Letizia's Natural Bakery, 2144 W Division St, Chicago",41.9031793748,-87.6814287901
+55,2014-08-18 04:53:00,"Janik's Cafe, 2011 W Division St, Chicago",41.903215,-87.67775406

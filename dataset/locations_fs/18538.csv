@@ -1,0 +1,61 @@
+,time,poi,latitude,longitude
+0,2014-08-15 13:49:59,"Prima Royale Hotel, 3 Mendele St.,, e9dcdd",31.7721098538,35.2206557926
+1,2014-08-15 13:47:52,"Prima Royale Hotel, 3 Mendele St.,, e9dcdd",31.7721098538,35.2206557926
+2,2014-08-08 12:32:02,"Greenpoint Fish & Lobster Co., 114 Nassau Ave, Brooklyn",40.7242927882,-73.9491246451
+3,2014-04-27 01:09:13,"Mad Dog & Beans Mexican Cantina, 83 Pearl St, New York",40.7042872392,-74.0101213515
+4,2014-04-11 20:46:46,"Abhaya Yoga, 48 John Street, Brooklyn",40.70424,-73.98553
+5,2014-03-21 02:30:15,"Joshua M. Wilges DDS PC, 2 West 45th Street Suite 1708, New York",40.755585045,-73.9799295973
+6,2014-03-20 05:42:37,"Num Pang Sandwich Shop, 75 9th Ave, New York",40.7422575011,-74.0059610142
+7,2014-03-20 05:42:10,"Num Pang Sandwich Shop, 75 9th Ave, New York",40.7422575011,-74.0059610142
+8,2014-03-20 05:41:38,"Num Pang Sandwich Shop, 75 9th Ave, New York",40.7422575011,-74.0059610142
+9,2014-03-15 20:32:10,"Kaatskill Mountain Club, 62 Liftside Dr, Hunter",42.204620412,-74.2160954522
+10,2014-03-15 12:13:56,"Kaatskill Mountain Club, 62 Liftside Dr, Hunter",42.204620412,-74.2160954522
+11,2014-03-15 11:35:09,"MacGregor's Pub, 7740 Rte 23A, Hunter",42.208105,-74.207865
+12,2013-11-06 04:53:06,"Princess / d4e0e1d9dbd4, 2 Yehezkel Kauffman St. ,Taba Beach Rd., d0d9dcea",29.4965591615,34.9074046854
+13,2013-11-06 04:52:51,"Princess / d4e0e1d9dbd4, 2 Yehezkel Kauffman St. ,Taba Beach Rd., d0d9dcea",29.4965591615,34.9074046854
+14,2013-11-06 00:38:02,"Jordan - Israel Border Crossing, Israeli Jordanian Border, d0d9dcea",29.5751472414,34.9766571168
+15,2013-02-23 21:11:00,"Vermont Welcome Center, Interstate 91 North, Guilford",42.8122064327,-72.5664207523
+16,2013-02-21 16:15:34,"Berlin Tegel Otto Lilienthal Airport (TXL), Flughafen Tegel, Berlin",52.5541717078,13.2914217148
+17,2013-02-19 14:31:15,"The Weinmeister, Weinmeisterstr. 2, Berlin",52.5255827465,13.4044862433
+18,2013-02-19 14:30:22,"The Weinmeister, Weinmeisterstr. 2, Berlin",52.5255827465,13.4044862433
+19,2013-02-11 05:31:56,"Intermezzo, 202 8th Ave, New York",40.7435301127,-73.999504745
+20,2013-02-06 08:46:27,"Denver International Airport (DEN), 8500 Pea Blvd, Denver",39.8513557067,-104.674044515
+21,2013-02-06 02:34:49,"Peak 9 Restaurant, Top Of Beaver Run Superchair, Breckenridge",39.4627660067,-106.076844335
+22,2013-02-05 05:52:32,"Mary's Mountain Cookies, 128 Main Street, Breckenridge",39.4810545444,-106.046099033
+23,2013-02-05 03:04:12,"The Lost Cajun - Breckenridge, 411 S Main Street, Breckenridge",39.4776990716,-106.045433765
+24,2013-02-04 06:13:21,"Ten Mile Station, 1599 Summit County Road #3, Breckenridge",39.4632260496,-106.059405413
+25,2013-02-03 23:22:15,"Park & Main, 500 S Main St, Breckenridge",39.4770568844,-106.044538328
+26,2012-10-22 00:31:16,"Toast, 516 Cookman Ave, Asbury Park",40.2166362738,-74.0090769719
+27,2012-10-22 00:11:48,"Toast, 516 Cookman Ave, Asbury Park",40.2166362738,-74.0090769719
+28,2012-10-21 22:23:26,"The Berkeley Oceanfront Hotel, 1401 Ocean Ave, Asbury Park",40.225046102,-73.9996084349
+29,2012-10-21 22:22:33,"The Berkeley Oceanfront Hotel, 1401 Ocean Ave, Asbury Park",40.225046102,-73.9996084349
+30,2012-08-23 11:56:59,"The Empire Hotel Rooftop, 44 W 63rd St, New York",40.7713423323,-73.982719481
+31,2012-06-18 02:00:38,"Sarabeth's, 339 Greenwich St, New York",40.7181942933,-74.0105574644
+32,2012-06-14 05:26:01,"DO & CO Onyx Bar, Stephansplatz 12, Wien",48.2083036491,16.3718470931
+33,2012-06-14 05:15:18,"DO & CO Onyx Bar, Stephansplatz 12, Wien",48.2083036491,16.3718470931
+34,2012-06-14 05:13:51,"SKY, Krntner Str. 19, Wien",48.2065082058,16.3720266839
+35,2012-06-14 02:47:26,"Martinjak, Opernring 11, Wien",48.2029963175,16.3670110703
+36,2012-06-04 05:45:30,"Greenhouse, Oudezijds Voorburgwal 191, Amsterdam",52.3716865007,4.8955683675
+37,2012-04-25 09:22:47,"Bikram Yoga Downtown, 121 Fulton St Fl 3, New York",40.7100847891,-74.0071678162
+38,2011-10-23 07:39:44,"Georgio's Country Grill, 801 9th Ave, New York",40.765323,-73.98759
+39,2011-10-01 22:48:31,"Clint's Bakery, 131 Main St, Breckenridge",39.4809954365,-106.046375126
+40,2011-10-01 08:20:32,"Briar Rose Restaurant, 109 Lincoln Ave, Breckenridge",39.482088,-106.045426
+41,2011-08-14 21:40:41,"South Street Seaport, South St, New York",40.7070560584,-74.0035623234
+42,2011-08-05 21:28:27,"GE Carousolar, South Street Seaport Pier 17, New York",40.705777,-74.002873
+43,2011-08-05 19:10:02,"Andaz Wall Street Gym, 75 Wall St, New York",40.7050219226,-74.0078489578
+44,2011-08-04 01:24:30,"GE Carousolar, South Street Seaport Pier 17, New York",40.705777,-74.002873
+45,2011-07-28 06:47:44,"Norwood, 241 W 14th St, New York",40.7394897066,-74.0014275781
+46,2011-07-12 12:03:41,"XS, 1307 N Charles St, Baltimore",39.304962,-76.61600834
+47,2011-05-04 07:00:51,"Hummus Place, 71 7th Ave S, New York",40.732351,-74.003505
+48,2011-01-02 14:53:59,"Harry's Italian Pizza Bar, 2 Gold St, New York",40.707555,-74.007066
+49,2010-12-18 12:17:49,"Gelateria 4D, 300 S Pointe Dr, Miami Beach",25.7682284276,-80.1354574438
+50,2010-12-08 02:08:03,"Pizza Rustica, 667 Lincoln Rd, Miami Beach",25.7906057381,-80.1356372237
+51,2010-10-01 00:13:54,"U-Haul Moving & Storage of Chelsea, 562 W 23rd St, New York",40.7487206012,-74.0066897971
+52,2010-05-13 11:28:09,"The Donut Pub, 203 W 14th St, New York",40.7386349829,-73.9998609353
+53,2010-04-04 04:41:31,"Black Pearl Inn, 11-18 Pearl St, Provincetown",42.0547199249,-70.1836604109
+54,2010-04-03 05:31:44,"B-Exclusive, Commercial st, Provincetown",42.0527415928,-70.1848103958
+55,2010-04-03 04:47:02,"Shop Therapy, 347 Commercial St, Provincetown",42.0515043388,-70.186589416
+56,2010-04-02 12:11:16,"Atlantic House, 6 Masonic Pl, Provincetown",42.0500255892,-70.1887536049
+57,2010-03-25 10:14:55,"5 Napkin Burger, 630 9th Ave, New York",40.7602359899,-73.9912183462
+58,2009-07-14 08:05:07,"Warrior Fitness Boot Camp, 29 W 35th St Fl 3, New York",40.7498978988,-73.9857261399
+59,2009-07-14 02:51:10,"Staten Island Ferry - Whitehall Terminal, 4 South St, New York",40.7013439486,-74.0130995236

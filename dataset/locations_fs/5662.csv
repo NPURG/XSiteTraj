@@ -1,0 +1,45 @@
+,time,poi,latitude,longitude
+0,2015-06-10 04:16:07,"Executive Plaza, 150 W 51st St, New York",40.7615169068,-73.9828336296
+1,2015-05-04 19:43:06,"Funky Pho Restaurant, Mozsr u. 7., Budapest",47.5047217373,19.0606570244
+2,2015-03-31 20:16:28,"CEU Business School, Frankel Leo u. 30-34, Budapest",47.5164008155,19.0368468202
+3,2015-03-08 04:24:17,"TaBar, Ribji trg 6, Ljubljana",46.0503137106,14.506153152
+4,2015-01-05 20:42:43,"Marari Beach Resort, Mararikulam, Mararikulam",9.59609531057,76.3023916498
+5,2014-12-07 22:11:41,"S Bisztr, Dek Ferenc u. 12-14., Budapest",47.4969967202,19.052464759
+6,2014-11-23 03:22:30,"Karmnik, Piwna 4, Warszawa",52.248245,21.012922
+7,2014-08-30 03:37:17,"CETLI bar, Kirly u. 53., Budapest",47.5022315979,19.0630931854
+8,2014-08-16 20:16:46,"To Je To Caffe, Nigerova 2, Split",43.5097598057,16.4375209808
+9,2014-08-12 03:43:38,"Mazel Tov, Akcfa u. 47., Budapest",47.5004266752,19.065883537
+10,2014-07-05 03:35:39,"Krizia, Mozsr utca 12, Budapest",47.5049,19.06052
+11,2014-02-16 22:56:26,"Iguana Bar & Grill, Zoltn u. 16., Budapest",47.5043804485,19.0487588748
+12,2014-02-11 23:28:14,"Kt Szerecsen, Nagymez51 u. 14., Budapest",47.5028680477,19.0610990792
+13,2014-02-08 20:45:14,"Bord Bisztr, Nagymez51 u. 3, Budapest",47.5027285972,19.0615099669
+14,2014-02-04 16:01:21," table!, Retek u. 6., Budapest",47.5082113622,19.0257024765
+15,2014-01-14 20:52:11,"Fldes Jzsi Konyhja, Frankel Le u. 30-34., Budapest",47.5163564518,19.0367263481
+16,2014-01-02 23:18:16,"Starbucks, Erzsbet krt. 53., Budapest",47.5034434445,19.0658073768
+17,2013-12-26 13:35:17,"Hotel Telegraaf, Vene 9, Tallinn",59.4377561673,24.7473435875
+18,2013-12-19 03:38:43,"Boutiq'Bar, Paulay Ede u. 5., Budapest",47.4996143611,19.0562428816
+19,2013-12-05 15:50:25,"Ecocafe, Andrssy t 68., Budapest",47.5075900013,19.0666560879
+20,2013-11-23 04:34:52,"Curry House, Brdy Sndor utca 21, Budapest",47.4929934846,19.0674359702
+21,2013-11-11 02:32:25,"Da Mario, Vcsey utca 3, Budapest",47.5052016742,19.0491825789
+22,2013-11-09 03:27:05,"Camino, Str. Iuliu Maniu nr. 19, Cluj-Napoca",46.7718091994,23.5870242119
+23,2013-09-27 03:58:22,"Prime Steakhouse, Sas u. 18., Budapest",47.5015609638,19.0518542325
+24,2013-09-22 20:48:20,"Ciao Ciao, Andrssy t 2., Budapest",47.500065215,19.055579478
+25,2012-02-18 22:18:25,"Cafe Obelix, Vesterbrogade 53, Kbenhavn V",55.6720863044,12.5550795903
+26,2011-12-30 23:25:03,"Camelot, Kov0dska 226/19, Ko61ice",48.7225639464,21.259207559
+27,2011-08-15 21:04:59,"Planet Sushi, Oktogon tr 3., Budapest",47.5055552098,19.0636503696
+28,2011-08-06 23:46:41,"Caf Central, Herrengasse 14, Wien",48.2102823618,16.3654339314
+29,2011-03-27 08:33:36,"Amma, 246 E 51st St, New York",40.7557015493,-73.9685869217
+30,2011-03-20 04:15:10,"Bar Boulud, 1900 Broadway, New York",40.7719404115,-73.9823687578
+31,2010-11-28 01:27:49,"Maison Dupuy, 1001 Toulouse St, New Orleans",29.9593810822,-90.0682283591
+32,2010-10-03 03:30:07,"Museum of Sex, 233 5th Ave, New York",40.7440578993,-73.9876142829
+33,2010-10-01 00:36:04,"NYU Tandon School of Engineering, 6 Metrotech Ctr, Brooklyn",40.6943252328,-73.9871838568
+34,2010-09-26 08:50:45,"Roberta's Pizza, 261 Moore St, Brooklyn",40.7050789854,-73.9336440392
+35,2010-08-28 22:29:57,"Dolcezza Artisanal Gelato, 1704 Connecticut Ave NW, Washington",38.912797,-77.045378
+36,2010-08-23 03:03:14,"The Smith, 55 3rd Ave, New York",40.7311558721,-73.9887276473
+37,2010-08-14 06:06:19,"Barrio Chino, 253 Broome St, New York",40.7181519065,-73.9900016785
+38,2010-06-05 09:41:38,"Do Hwa, 55 Carmine St, New York",40.7299174935,-74.0041763452
+39,2010-03-29 02:59:48,"La Tomate, 1701 Connecticut Ave NW, Washington",38.9128794059,-77.0452109555
+40,2010-02-08 01:33:00,"Daddy-O, 44 Bedford St, New York",40.7304133537,-74.0041851997
+41,2010-02-02 09:13:52,"Sangam, 190 Bleecker St, New York",40.729281,-74.00137971
+42,2010-01-31 12:01:02,"Mermaid Oyster Bar, 79 Macdougal St, New York",40.7287157739,-74.001639906
+43,2010-01-03 10:40:02,"Fish, 280 Bleecker St, New York",40.7318320557,-74.0032464266

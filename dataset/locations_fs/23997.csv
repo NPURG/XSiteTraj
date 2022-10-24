@@ -1,0 +1,113 @@
+,time,poi,latitude,longitude
+0,2016-08-28 07:47:30,"My Slice of the Pie Pizzeria, 3724 E Indian School Rd, Phoenix",33.495624,-112.001057
+1,2016-06-17 23:10:19,"Jim's Burgers and Eggs, 17019 W Greenway Rd, Surprise",33.6237639274,-112.425173772
+2,2016-06-04 00:27:48,"Hermies, 294 N Main St, Cedar City",37.6824645742,-113.061491697
+3,2016-04-02 01:02:20,"The Blue Fin, 1401 N Central Ave, Phoenix",33.46412694,-112.0735713
+4,2016-03-26 00:52:59,"La Santisima, 1919 N 16th St, Phoenix",33.469201,-112.047393
+5,2015-12-18 01:00:03,"Kneaders Bakery & Cafe, 10112 W McDowell Rd, Avondale",33.4658937296,-112.277384299
+6,2015-12-18 00:59:09,"Pita Jungle, 1850 W Southern Ave, Mesa",33.3934861422,-111.8717286
+7,2015-10-18 09:24:50,"Rubio's, 598 W Main St #2, American Fork",40.3771484619,-111.814248282
+8,2015-10-18 09:23:11,"Winco Foods, 16925 W Bell Rd, Surprise",33.6375484058,-112.422583551
+9,2015-10-18 03:54:50,"tibble fork reservoir, American Fork Canyon rd, Alpine",40.4821441077,-111.645212173
+10,2015-09-15 10:44:05,"Yasda Bento, 18 W Adams St, Phoenix",33.449235,-112.07434856
+11,2015-07-11 12:52:46,"Pieology Pizzeria, 9915 W McDowell Rd, Avondale",33.464221,-112.2730315
+12,2015-06-28 12:00:03,"HuHot Mongolian Grill, 10835 S State St, Sandy",40.5546142173,-111.890129646
+13,2015-06-28 11:56:36,"Firehouse Subs, 9897 W McDowell Rd, Tolleson",33.463948553,-112.271977443
+14,2015-06-22 13:58:05,"The Sugarhouse Barbeque Company, 880 E 2100 S, Salt Lake City",40.7253045436,-111.8657462
+15,2015-04-19 12:32:57,"Abuelo's Mexican Restaurant - Peoria, 16092 N Arrowhead Fountains Ctr Dr, Peoria",33.6329177077,-112.238410434
+16,2015-03-18 08:56:47,"Daily Donut, 10725 W Indian School Rd, Avondale",33.493244527,-112.292344908
+17,2015-03-18 08:51:13,"Saenz gorditas, 1700 N Solano Dr, Las Cruces",32.3249002529,-106.775671578
+18,2014-09-18 12:43:14,"Cornish Pasty Co., 960 W University Dr #103, Tempe",33.422943855,-111.951783299
+19,2014-08-21 04:23:28,"Harumi Sushi, 114 W Adams St, Phoenix",33.4497203539,-112.075235675
+20,2014-08-17 11:25:59,"Babies""R""Us, 7540 W Bell Rd, Glendale",33.6395861918,-112.221697111
+21,2014-08-13 08:29:34,"Chipotle Mexican Grill, 11 W Washington St, Phoenix",33.4480585122,-112.074181919
+22,2014-08-10 10:53:38,"WinCo Foods, 5850 W Bell Rd, Glendale",33.6410260317,-112.183077187
+23,2014-08-10 10:23:41,"Ah-So Sushi & Steak Japanese Restaraunt, 15475 W McDowell Rd, Goodyear",33.462771759,-112.391849786
+24,2014-08-07 15:39:24,"Enjoy Sushi, 2 N Central Ave #160, Phoenix",33.4489595873,-112.074170276
+25,2014-08-07 04:41:32,"The Arrogant Butcher, 2 E Jefferson St #150, Phoenix",33.4473685124,-112.072895765
+26,2014-02-01 05:27:00,"Garcia's Las Avenidas, 2212 N 35th Ave, Phoenix",33.4717095792,-112.13483908
+27,2013-12-25 12:29:28,"Costa Vida, 4009 E Main St, Farmington",36.7564630615,-108.155597464
+28,2013-12-25 03:43:04,"K-Bob's Steakhouse, 2800 E Main St, Farmington",36.7424727738,-108.168991613
+29,2013-10-29 13:41:23,"Costa Vida, 1744 S Val Vista Dr, Mesa",33.3837105122,-111.756485078
+30,2013-10-26 22:37:48,"Angelo's, 146 Mulberry St, New York",40.7190068112,-73.9974621681
+31,2013-10-19 04:40:06,"Barrio Caf, 2814 N 16th St, Phoenix",33.478794,-112.047819783
+32,2013-10-15 12:35:14,"White Tanks Waterfall, Waterfall Canyon Trail, Waddell",33.5886286625,-112.507476178
+33,2013-09-12 13:30:25,"Filiberto's, 9036 W Union Hills Dr, Peoria",33.6531547392,-112.253831264
+34,2013-09-12 13:30:06,"Le Napoleon, 15820 N 35th Ave, Phoenix",33.629544103,-112.13439663
+35,2013-09-01 01:34:44,"Blake's LotaBurger, 2130 Bloomfield Blvd, Farmington",36.720013,-108.181416
+36,2013-08-27 11:54:55,"Bruno's Pizza & Wings, 14130 W Indian School Rd, Goodyear",33.486723548,-112.363141069
+37,2013-07-17 09:11:56,"Arriba Mexican Grill, 15370 W McDowell Rd, Goodyear",33.4649532809,-112.389911441
+38,2013-07-03 10:21:41,"Pacino's, 2831 N Power Rd Ste 104, Mesa",33.467096,-111.68263
+39,2013-03-07 08:08:42,"Federico's Mexican Food, 13132 w. camelback rd, Phoenix",33.5084864903,-112.341923509
+40,2013-01-04 23:01:53,"Five Guys, 1507 N Litchfield Rd Ste 102, Goodyear",33.4629645711,-112.357576218
+41,2012-12-27 02:34:12,"Filiberto's Mexican Food, 9616 W Van Buren St, Tolleson",33.450675,-112.267326973
+42,2012-12-18 03:14:52,"Avondale Toyota, 10005 W Papago Fwy, Avondale",33.4599442469,-112.276447074
+43,2012-11-29 12:15:21,"Arizona Frybread, 1473 N Dysart Rd, Avondale",33.4537383556,-112.340316901
+44,2012-11-18 11:02:09,"Bobby Q, 8501 N 27th Ave, Phoenix",33.5610343032,-112.115871881
+45,2012-08-24 00:14:53,"Camelback Dentistry, 4210 N 32nd St, Phoenix",33.497596,-112.013388276
+46,2012-07-19 13:02:53,"Five Guys, 50 W Jefferson St, Phoenix",33.4481025782,-112.074725032
+47,2012-06-07 12:24:19,"Joy Teriyaki, 9470 NW Silverdale Way, Silverdale",47.6490300894,-122.69454478
+48,2012-05-06 12:19:39,"Culver's, 1025 N Avondale Blvd, Avondale",33.457311,-112.305855
+49,2012-03-28 08:21:07,"Discount Tire Store, 9950 W McDowell Rd, Avondale",33.46587076,-112.2746521
+50,2012-03-12 04:09:51,"Ben Avery Shooting Facility, 4044 W Black Canyon Blvd, Phoenix",33.8044481291,-112.145760573
+51,2012-01-25 14:38:21,"Karsten's Ace Hardware, 610 N Estrella Pkwy, Goodyear",33.4535507639,-112.394154841
+52,2011-12-15 03:52:42,"Asiana Sushi, 114 W Adams St, Phoenix",33.4498480653,-112.075136704
+53,2011-12-06 03:46:31,"zpizza, 111 W Monroe St #130, Phoenix",33.4499569853,-112.075194922
+54,2011-11-20 08:04:42,"Texas Roadhouse, 1616 N 75th Ave, Phoenix",33.467342,-112.22103
+55,2011-11-17 10:30:24,"#1 Brothers Pizza, 11435 W Buckeye Rd, Avondale",33.4338117962,-112.305649817
+56,2011-11-17 03:18:34,"Sticklers, 30 N 3rd Ave, Phoenix",33.4484696088,-112.077884674
+57,2011-10-15 10:08:16,"Lowe's Home Improvement, 13191 W McDowell Rd, Goodyear",33.461426,-112.343416
+58,2011-09-29 04:21:17,"Five Guys, 50 W Jefferson St, Phoenix",33.4481025782,-112.074725032
+59,2011-09-19 01:04:04,"Arby's, 510 E Idaho Ave, Las Cruces",32.2973663744,-106.770263091
+60,2011-09-07 09:05:27,"Miyabi Japanese Steakhouse and Sushi Bar, 442 Columbiana Dr, Columbia",34.088109544,-81.1645078424
+61,2011-09-06 09:09:03,"Magnolia Plantation & Gardens, 3550 Ashley River Rd, Charleston",32.8770642757,-80.0885295868
+62,2011-09-05 11:41:09,"Mellow Mushroom, 309 King St, Charleston",32.7835869714,-79.93498096
+63,2011-09-05 08:26:28,"Shem Creek Bar and Grill, 508 Mill St, Mt. Pleasant",32.7931273526,-79.8783743744
+64,2011-09-02 10:09:38,"Panda Express, 11555 W Van Buren St, Avondale",33.4490245204,-112.307928248
+65,2011-08-31 04:02:31,"Subway, 2817 N Central Ave, Phoenix",33.4793483245,-112.073442936
+66,2011-08-25 12:19:37,"Jamba Juice, 3110 North Central Ave., #100, Phoenix",33.4842764726,-112.074804858
+67,2011-08-25 12:07:17,"Jimmy John's, 10110 W McDowell Rd, Avondale",33.465494,-112.277398
+68,2011-08-23 06:58:27,"Freddy's Frozen Custard and Steakburgers, 1340 N Litchfield Rd, Goodyear",33.46145643,-112.358736533
+69,2011-08-23 03:33:43,"Ichi Ban Japanese Restaurant, 2815 N Central Ave, Phoenix",33.4793953579,-112.073302819
+70,2011-08-23 02:27:37,"Chipotle Mexican Grill, 1560 N Litchfield Rd, Goodyear",33.4638834906,-112.358577847
+71,2011-08-21 10:46:14,"Brothers Pizza, 10720 W Indian School Rd, Phoenix",33.4952276945,-112.290835
+72,2011-08-21 10:44:57,"Grimaldi's Coal Brick-Oven Pizzeria, 9788 W Northern Ave, Peoria",33.5539686542,-112.270026193
+73,2011-08-16 03:00:14,"Luke's of Chicago, 1602 E Indian School Rd, Phoenix",33.4949219227,-112.047168016
+74,2011-08-16 02:58:20,"MacAlpine's Soda Fountain, 2303 N 7th St, Phoenix",33.4732466555,-112.064890217
+75,2011-08-14 11:05:06,"Bar D Chuckwagon, 8080 County Road 250, Durango",37.3990027582,-107.814808794
+76,2011-07-28 02:05:43,"Easley's Fun Shop, 509 W McDowell Rd, Phoenix",33.465499,-112.081142
+77,2011-07-19 22:11:36,"QuikTrip, 297 N 99th Ave, Tolleson",33.449525405,-112.272337247
+78,2011-07-05 06:32:04,"Dollar Rent A Car, 3150 S 160th Street, SeaTac",47.4609326032,-122.293785824
+79,2011-07-02 11:07:12,"Kingston Ferry Terminal, 11264 NE State Hwy. 104, Kingston",47.7963146934,-122.496051456
+80,2011-03-30 02:36:49,"La Canasta Capitolio, 1733 W Van Buren St, Phoenix",33.45095779,-112.09717875
+81,2011-03-27 02:36:23,"Oregano's Pizza Bistro, 328 N Gilbert Rd, Gilbert",33.3559597746,-111.789963459
+82,2011-03-27 02:35:01,"Costa Vida, 1744 S Val Vista Dr, Mesa",33.3837105122,-111.756485078
+83,2011-03-24 04:24:36,"MacAlpine's Soda Fountain, 2303 N 7th St, Phoenix",33.4732466555,-112.064890217
+84,2011-03-23 01:02:22,"Arizona Center, 400 E Van Buren St, Phoenix",33.4517596162,-112.069396348
+85,2011-03-20 13:35:21,"Lenny's Burger Shop, 2825 N Central Ave, Phoenix",33.4795362482,-112.07349658
+86,2011-03-20 12:12:31,"Filiberto's Mexican Food, 1440 N Dysart Rd, Avondale",33.4479324903,-112.341685295
+87,2011-03-20 08:37:04,"Enchanted Island, 1202 W Encanto Blvd, Phoenix",33.4744744317,-112.087985505
+88,2011-03-16 09:42:27,"In-N-Out Burger, 1525 Dysart Rd., Avondale",33.4593415245,-112.340444964
+89,2011-03-10 12:35:26,"CVS/pharmacy, 2840 N Dysart Rd, Goodyear",33.4781670804,-112.341556549
+90,2011-03-10 03:48:58,"U-Haul International Corporate Headquarters, 2727 N Central Ave, Phoenix",33.4783379825,-112.073413434
+91,2011-03-10 03:44:42,"Burger Factory, 702 W Osborn Rd, Phoenix",33.4877489854,-112.083572558
+92,2011-02-21 01:55:27,"Cell Phone Lot West, E. Sky Harbor Blvd., Phoenix",33.4370893718,-112.019908726
+93,2011-01-28 02:37:07,"Hilton Garden Inn, 2550 S Don Roser Dr, Las Cruces",32.2888102685,-106.737904805
+94,2011-01-10 01:33:46,"Honey Bear's BBQ, 2824 N Central Ave, Phoenix",33.4796638476,-112.073844252
+95,2010-05-26 05:39:32,"White Chocolate Grill, 7096 E Mayo Blvd, Phoenix",33.6556379441,-111.926329136
+96,2010-04-06 03:01:59,"The Old Spaghetti Factory, 1418 N Central Ave, Phoenix",33.4643407188,-112.074208212
+97,2010-03-27 02:16:45,"Pei Wei, 701 W McDowell Rd. Suite 101, Phoenix",33.4655229014,-112.082979315
+98,2010-03-20 14:55:17,"London Gatwick Airport (LGW), A23 Airport Way, Crawley",51.1563739086,-0.167448230332
+99,2010-03-14 07:10:42,"Beersbridge Annex, Firhill Rd, Glasgow",55.8822404575,-4.27056372
+100,2010-02-23 02:15:11,"Lenny's Burger Shop, 2825 N Central Ave, Phoenix",33.4795362482,-112.07349658
+101,2010-02-05 05:04:15,"Tomo Japanese Cuisine, 1550 N Dysart Rd Ste A7-9, Goodyear",33.463303,-112.34157051
+102,2010-01-17 03:05:35,"Original Pancake House, 6840 E Camelback Rd, Scottsdale",33.502522,-111.932959557
+103,2010-01-02 03:17:43,"Red Robin Gourmet Burgers, 10240 W McDowell Rd, Avondale",33.4651007303,-112.280960083
+104,2009-12-16 09:28:54,"Pei Wei, 1619 North Dysart Rd. Suite 101, Avondale",33.4655084606,-112.340421731
+105,2009-12-08 10:56:04,"Cold Stone Creamery, 10210 W. McDowell Rd., Suite 160, Avondale",33.4666633646,-112.279829233
+106,2009-10-06 23:53:56,"Ichi Ban Japanese, 9897 W McDowell Rd, Tolleson",33.4642236034,-112.271835208
+107,2009-09-25 01:29:58,"Costco Wholesale, 10000 W. Mcdowell Road, Avondale",33.4675353002,-112.274438732
+108,2009-09-11 09:28:22,"Chipotle Mexican Grill, 9925 W McDowell Rd, Avondale",33.46432,-112.27317005
+109,2009-09-10 05:37:35,"Pei Wei, 1619 North Dysart Rd. Suite 101, Avondale",33.4655084606,-112.340421731
+110,2009-09-08 11:34:49,"Cracker Barrel Old Country Store, 2560 E. Lucky Lane I-40 & Butler Ave., Flagstaff",35.19616833,-111.6177678
+111,2009-08-25 23:41:38,"Cherryblossom Noodle Cafe, 914 E Camelback Rd Ste 1, Phoenix",33.509699,-112.061063

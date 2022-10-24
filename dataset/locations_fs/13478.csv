@@ -1,0 +1,84 @@
+,time,poi,latitude,longitude
+0,2015-10-22 16:07:47,"Paris Charles de Gaulle Airport (CDG), Route de la Commune, Roissy-en-France",49.006826919,2.54908561707
+1,2014-09-07 22:22:57,"Intersection Of Tonto And Kaibab Trails, Arizona 86023, Grand Canyon",36.0901792524,-112.091280655
+2,2014-07-23 22:36:24,"FREEMAN CAFE, 0b371-16-14, 0b373a",35.6616649437,139.702253577
+3,2014-07-23 22:36:00,"WIRED CAFE a2c8ec0ace97, 0ace7-1-1, 71ac",35.7125146266,139.776366097
+4,2014-07-23 22:19:16,"ba753f 2175b6, 57608b1-17-1, 4af63a",35.7267587022,139.711728506
+5,2014-07-23 22:18:53,"c9fcdffca4f3PREMIUM 0b375eae4d, 5eae4d6-24-4, 71ac",35.6656286612,139.702243604
+6,2014-07-23 22:18:14,"Narita International Airport (NRT), e4bc1-1, 103002",35.7738921558,140.386845633
+7,2014-06-14 01:44:23,"Mercado de San Miguel, Pl. de San Miguel, Madrid",40.4153625904,-3.70904177427
+8,2014-04-02 18:21:44,"Chop't, 54 Spring St, New York",40.722037,-73.996711
+9,2014-04-02 18:19:48,"Big Gay Ice Cream Shop, 125 E 7th St, New York",40.7263486456,-73.984157145
+10,2014-03-10 01:54:35,"Patika Coffee, Congress Ave, Austin",30.2558164915,-97.7737155629
+11,2013-10-24 06:45:33,"The Boil, 139 Chrystie St, New York",40.7196778154,-73.9930260913
+12,2013-09-26 01:20:26,"Mosmata,  utca 24, Budapest",47.503965,19.0578193
+13,2013-09-26 01:14:13,"Borkonyha, Sas u. 3., Budapest",47.4994959254,19.0524655581
+14,2013-05-19 00:20:44,"Four Barrel Coffee, 375 Valencia St, San Francisco",37.7670243868,-122.421958607
+15,2013-05-03 10:20:59,"Edi & The Wolf, 102 Avenue C, New York",40.7237137447,-73.978972435
+16,2013-04-15 01:11:45,"Amsterdam Airport Schiphol (AMS), Aankomstpassage, Schiphol",52.3101357904,4.76209415067
+17,2013-04-13 17:58:40,"Blogwire Hungary, 16 Andrassy, Budapest",47.501902,19.058245
+18,2013-04-11 05:02:16,"K51leves vendgl51, Kazinczy u. 41., Budapest",47.4990827669,19.0613436699
+19,2013-04-05 03:41:18,"thebigfish, Andrssy t 44., Budapest",47.50440284,19.0619015694
+20,2013-02-17 08:50:23,"Vail Mountain, 555 E Lionshead Cir, Vail",39.6394183267,-106.373661298
+21,2013-02-17 08:50:03,"Kyo Ya, 94 E 7th St, New York",40.726803454,-73.9853775501
+22,2013-02-17 08:49:02,"Amor y Amargo, 443 E 6th St, New York",40.7255747765,-73.9842856293
+23,2013-02-17 08:48:00,"Saxon + Parole, 316 Bowery, New York",40.7251629321,-73.9921595235
+24,2013-02-17 08:47:15,"456 Shanghai Cuisine, 69 Mott St, New York",40.7162642478,-73.9981450738
+25,2013-02-17 08:46:33,"Gaia Italian Cafe, 251 E Houston St, New York",40.721993883,-73.9853014487
+26,2013-02-17 08:45:46,"Eataly NYC, 200 5th Ave, New York",40.7421145531,-73.9895655358
+27,2013-01-07 07:42:40,"Nurse Bettie, 106 Norfolk St, New York",40.718909,-73.98713235
+28,2012-12-22 07:46:02,"San Francisco DMV Office, 1377 Fell St, San Francisco",37.7732266146,-122.440456342
+29,2012-10-15 04:11:15,"Saigon Pagolac, 9600 Bellaire Blvd #119, Houston",29.7067558667,-95.5509688
+30,2012-10-14 03:17:46,"El Tiempo Cantina - Montrose, 1308 Montrose Blvd, Houston",29.7551777128,-95.3924954961
+31,2012-10-12 20:44:17,"Veselka, 144 2nd Ave, New York",40.7291362344,-73.9869715129
+32,2012-10-12 20:39:57,"Mile End Delicatessen, 53 Bond St, New York",40.725925671,-73.9925956773
+33,2012-10-12 20:39:36,"Sunny & Annie Gourmet Deli, 94 Avenue B, New York",40.7244898221,-73.9816169257
+34,2012-10-12 20:38:33,"Umi No Ie, 86 E 3rd St, New York",40.7248021754,-73.9881594879
+35,2012-10-12 20:36:43,"Udon West, 11 Saint Marks Pl, New York",40.72931975,-73.98924
+36,2012-10-12 20:35:53,"Yakitori Taisho, 5 Saint Marks Pl, New York",40.7294319091,-73.9895138852
+37,2012-10-12 20:33:59,"ChikaLicious Dessert Bar, 203 E 10th St, New York",40.7296430143,-73.9864450693
+38,2012-10-12 20:33:39,"Xi'an Famous Foods, 81 Saint Marks Pl, New York",40.7277309626,-73.9856515321
+39,2012-10-12 20:33:25,"Zabb Elee, 75 2nd Ave, New York",40.7264190405,-73.9892958049
+40,2012-10-12 20:33:17,"Curry-Ya, 214 E 10th St, New York",40.729463,-73.985979
+41,2012-10-12 20:31:06,"Heart of India, 79 2nd Ave, New York",40.72656,-73.989137
+42,2012-10-12 20:30:18,"Bohemian, 57 Great Jones St, New York",40.7263022661,-73.99212
+43,2012-10-12 20:29:50,"Degustation, 239 E 5th St, New York",40.726929,-73.989203
+44,2012-10-12 20:28:27,"San Loco, 122 2nd Ave, New York",40.7282643799,-73.9879471451
+45,2012-10-12 20:26:38,"Ramen Setagaya, 34 1/2 Saint Marks Pl, New York",40.7288025414,-73.9881590009
+46,2012-10-06 05:40:08,"Sant'Eustachio Il Caff, Piazza di Sant'Eustachio, 82, Roma",41.8982622993,12.4754852057
+47,2012-10-06 05:39:47,"Trevi Fountain, Piazza di Trevi, Roma",41.9009474727,12.4833065271
+48,2012-10-06 05:38:22,"Enoteca Ferrara, Piazza Trilussa, 41, Roma",41.8913512304,12.4703064729
+49,2012-09-21 22:22:54,"Kispiac Bisztr, Hold u. 13., Budapest",47.5048194755,19.0523742826
+50,2012-09-21 22:20:56,"Printa Caf, Rumbach Sebestyn u. 10., Budapest",47.4975886781,19.0586837693
+51,2012-09-19 04:46:14,"Fragola, Nagymez51 u. 7., Budapest",47.502849925,19.06119675
+52,2012-09-11 18:41:29,"Inmedio, Vci utca 10, Budapest",47.4969658131,19.0500623714
+53,2012-09-02 10:54:28,"The Ides at Wythe Hotel, 80 Wythe Ave, Brooklyn",40.7219440566,-73.9580790792
+54,2012-05-03 20:33:34,"Abrao, 81 E 7th St, New York",40.7272425063,-73.9860990644
+55,2012-04-10 03:08:13,"Bottega Falai, 267 Lafayette St, New York",40.7236401852,-73.9967849987
+56,2012-04-05 09:51:43,"Ramen Setagaya, 34 1/2 Saint Marks Pl, New York",40.7288025414,-73.9881590009
+57,2012-03-29 09:54:53,"Iron Works BBQ, 100 Red River St, Austin",30.262294449,-97.7389781511
+58,2012-03-29 09:53:23,"Barton Springs Pool, 2101 Barton Springs Rd, Austin",30.2639222653,-97.7701970049
+59,2012-03-29 09:51:47,"Pappadeaux Seafood Kitchen, Terminal E (near gate E4), Houston",29.9844870885,-95.3352127269
+60,2012-03-29 09:51:23,"Despaa, 408 Broome St, New York",40.7210783364,-73.9978868324
+61,2012-03-29 09:51:04,"Hair Kuwayama, 406 E 13th St, New York",40.730458,-73.98286
+62,2012-03-29 09:49:37,"Beretta, 1199 Valencia St, San Francisco",37.7537892209,-122.420708717
+63,2012-03-29 09:48:51,"Otto Enoteca Pizzeria, 1 5th Ave, New York",40.732056086,-73.9960848719
+64,2012-03-29 09:47:52,"Sweet and Vicious, 5 Spring St, New York",40.7212985741,-73.9942542004
+65,2012-03-29 09:47:31,"Peasant, 194 Elizabeth St, New York",40.7217333806,-73.9944894915
+66,2012-03-29 09:46:47,"EN Japanese Brasserie, 435 Hudson St, New York",40.730371,-74.006888
+67,2012-03-29 09:46:15,"Tacombi at Fonda Nolita, 267 Elizabeth St, New York",40.7240508482,-73.9938352669
+68,2012-03-29 09:45:06,"Gemma at Bowery Hotel, 335 Bowery, New York",40.7262339526,-73.9917692798
+69,2012-02-19 05:44:06,"Castle John Street, 39 John St, New York",40.709625,-74.008168
+70,2011-12-11 04:58:01,"Toms River Bus Terminal, 400 Highland Pkwy, Toms River",39.9517444543,-74.2051125438
+71,2011-11-23 06:17:36,"Datagram, 33 Whitehall St, New York",40.7031380996,-74.0129675439
+72,2011-11-23 04:45:05,"Datagram, 33 Whitehall St, New York",40.7031380996,-74.0129675439
+73,2011-10-03 01:42:54,"Truck Yeah!, 60 S 2nd St, Brooklyn",40.7139070331,-73.9654755592
+74,2011-09-24 01:59:32,"Surdyk's Flights, 4300 Glumack Dr, Saint Paul",44.8835157395,-93.2112264633
+75,2011-09-01 01:15:41,"Tate Modern, 53 Bankside, London",51.5076943876,-0.0994579572438
+76,2011-08-31 23:11:38,"Tate Modern, 53 Bankside, London",51.5076943876,-0.0994579572438
+77,2011-08-31 04:38:20,"The Golden Hind, Marylebone Ln, Marylebone",51.51803,-0.150894
+78,2011-08-29 02:04:53,"CosmoCaixa, C. d'Isaac Newton, 26, Barcelona",41.41272887,2.13144421577
+79,2011-08-27 00:25:57,"Hisop, Passatge Marimon 9, Barcelona",41.3944012076,2.1481586481
+80,2011-08-25 22:27:28,"Tapas 24, Diputaci, 269, Barcelona",41.3906738992,2.16740945206
+81,2011-08-25 22:26:15,"Hotel Colon Barcelona, Avenida de la Cathedral 7, Barcelona",41.3848876514,2.17585016676
+82,2011-08-25 19:04:41,"Sagrada Famlia, C. de Mallorca, 401, Barcelona",41.4037075778,2.17449205978

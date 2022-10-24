@@ -1,0 +1,53 @@
+,time,poi,latitude,longitude
+0,2014-05-29 21:39:12,"Ida Davidsen, Store Kongensgade 70, Kbenhavn",55.6843793,12.5877679
+1,2014-05-29 03:54:59,"Mikkeller & Friends, Stefansgade 35, Kbenhavn",55.694689421,12.5430658796
+2,2014-05-29 03:54:12,"Ruby, Nybrogade 10, st., Kbenhavn K",55.6766304854,12.5768608183
+3,2014-05-29 03:53:44,"Meyers Bageri, Jgersborggade 9, Kbenhavn N",55.692003631,12.5449490547
+4,2014-02-28 00:10:55,"El Chavo, 4441 W Sunset Blvd, Los Angeles",34.0977204535,-118.286067376
+5,2014-02-28 00:10:35,"Good Luck Bar, 1514 Hillhurst Ave, Los Angeles",34.0986301124,-118.287334819
+6,2014-02-28 00:10:09,"Bar Covell, 4628 Hollywood Blvd, Los Angeles",34.10004,-118.290173
+7,2014-02-28 00:09:48,"Little Dom's, 2128 Hillhurst Ave, Los Angeles",34.1109340284,-118.287391663
+8,2014-02-27 23:59:57,"Mohawk Bend, 2141 W Sunset Blvd, Los Angeles",34.0777106,-118.264743417
+9,2014-02-27 23:59:05,"Red Lion Tavern, 2366 Glendale Blvd, Los Angeles",34.0991896072,-118.259020646
+10,2014-02-27 23:58:56,"Hyperion Tavern, 1941 Hyperion Ave, Los Angeles",34.0981238079,-118.274946213
+11,2014-02-27 23:58:43,"4100 Bar, 1087 Manzanita St, Los Angeles",34.0929433177,-118.2814771
+12,2014-02-27 23:58:34,"Barbrix, 2442 Hyperion Ave, Los Angeles",34.104094,-118.272982
+13,2014-02-27 23:58:10,"Saito Sushi, 4339 W Sunset Blvd, Los Angeles",34.0955704451,-118.283539
+14,2014-02-27 23:57:19,"Intelligentsia Coffee & Tea, 3922 W Sunset Blvd, Los Angeles",34.0921350189,-118.280245967
+15,2014-02-27 23:57:03,"Forage, 3823 W Sunset Blvd, Los Angeles",34.091574,-118.279227
+16,2014-02-27 23:56:41,"Hollyhock House, 4800 Hollywood Blvd, Los Angeles",34.1003714083,-118.294282749
+17,2014-02-27 23:56:24,"The Dresden Restaurant, 1760 N Vermont Ave, Los Angeles",34.1030480823,-118.291536724
+18,2014-02-27 23:55:25,"Bru Coffeebar, 1866 N Vermont Ave, Los Angeles",34.1049891228,-118.291565269
+19,2014-02-27 23:55:05,"Starfish Sushi, 1755 N Vermont Ave, Los Angeles",34.1030353251,-118.291919229
+20,2014-02-27 23:54:38,"MessHall Kitchen, 4500 Los Feliz Blvd, Los Angeles",34.1116638527,-118.287854354
+21,2014-02-27 23:54:27,"Mustard Seed Cafe, 1948 Hillhurst Ave, Los Angeles",34.106819,-118.287448
+22,2014-02-27 23:53:48,"Cafe Figaro, 1802 N Vermont Ave, Los Angeles",34.103795,-118.291829
+23,2014-02-27 23:53:26,"Umami Burger, 4655 Hollywood Blvd, Los Angeles",34.1006113811,-118.29054594
+24,2013-12-16 00:43:39,"The General Greene, 229 Dekalb Ave, Brooklyn",40.6895823216,-73.9702128224
+25,2013-09-23 02:28:48,"American Girl Place, 609 5th Ave, New York",40.757921,-73.977542
+26,2013-07-06 13:18:04,"Snake River Brewery & Restaurant, 265 S Millward St, Jackson",43.4767979433,-110.765198539
+27,2013-06-09 01:18:47,"lululemon athletica, 35 Main St, East Hampton",40.9633738,-72.1860429
+28,2013-06-04 11:02:36,"Carbone, 181 Thompson St, New York",40.7279611035,-74.0000445718
+29,2013-05-25 04:52:33,"Jack's Coffee, 146 Montauk Hwy, Amagansett",40.9744467972,-72.1420454979
+30,2013-04-23 04:42:28,"Kalo, 31 Derech Betlechem, e9dcdd",31.7593824863,35.222016
+31,2013-04-23 04:31:54,"Mt. Zion Hotel, Jerusalem, 17 Derech Hebron, e9dcdd",31.7685616726,35.2266225449
+32,2013-04-23 04:29:19,"Marzipan, Agrippas St, e9dcdd",31.7838668676,35.2135616668
+33,2013-04-23 04:27:19,"Mamilla Hotel dedcd5df deded9dcd0, 11 Hamelech Shlomo St., e9dcdd",31.7778327226,35.2238953114
+34,2013-04-23 04:24:34,"Tmol Shilshom, 5 Yoel Moshe Salomon St., e9dcdd",31.7812255035,35.2198719978
+35,2013-04-18 09:23:17,"Yerba Buena, 23 Avenue A, New York",40.72293,-73.985748
+36,2013-04-12 01:55:14,"Despaa, 408 Broome St, New York",40.7210783364,-73.9978868324
+37,2011-10-04 05:00:59,"Hell's Kitchen, 679 9th Ave, New York",40.7635921888,-73.9884521763
+38,2011-10-03 23:16:33,"Motorino, 349 E 12th St, New York",40.7301911923,-73.9839986737
+39,2011-10-03 22:53:25,"La Esquina, 114 Kenmare St, New York",40.7214492219,-73.9976137877
+40,2011-10-03 22:50:31,"NoHo Star, 330 Lafayette St, New York",40.725906,-73.994757
+41,2011-10-03 22:43:20,"Beauty & Essex, 146 Essex St, New York",40.7203636873,-73.9870834351
+42,2011-10-03 22:42:42,"The Fat Radish, 17 Orchard St, New York",40.7152932425,-73.9919414463
+43,2011-09-17 12:05:30,"Beecher's Handmade Cheese, 900 Broadway, New York",40.738982016,-73.9896771312
+44,2010-06-26 05:39:33,"Tapeo 29, 29 Clinton St, New York",40.7202490142,-73.9845266717
+45,2010-06-22 02:37:34,"Locanda Verde, 377 Greenwich St, New York",40.7200408704,-74.0101156132
+46,2010-06-22 02:33:48,"PUBLIC, 210 Elizabeth St, New York",40.72222,-73.994267
+47,2010-06-22 02:26:51,"Topshop, 478 Broadway, New York",40.7218030136,-73.999813995
+48,2010-05-28 06:18:19,"Breadbox Cafe, 47-11 11th St, Queens",40.744773,-73.950663
+49,2010-05-26 00:43:21,"Breadbox Cafe, 47-11 11th St, Queens",40.744773,-73.950663
+50,2009-10-07 08:36:38,"Russ & Daughters, 179 E Houston St, New York",40.7228670771,-73.9882914847
+51,2009-04-15 01:35:15,"Rolf's German Restaurant, 281 3rd Ave, New York",40.7382102715,-73.9836485873

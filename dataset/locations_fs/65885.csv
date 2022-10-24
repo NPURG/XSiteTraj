@@ -1,0 +1,58 @@
+,time,poi,latitude,longitude
+0,2013-07-20 11:26:47,"La Seorita, 115 Eldridge St, New York",40.718264,-73.991948
+1,2013-01-06 04:50:24,"Awash, 338 E 6th St, New York",40.7266688389,-73.986793603
+2,2012-12-11 11:21:24,"NewYork-Presbyterian Hospital - Emergency Department, 525 E 68th St, New York",40.7640704161,-73.9542620154
+3,2012-10-26 17:17:35,"Madame X, 94 W Houston St, New York",40.7271457156,-74.0002109922
+4,2012-10-12 16:49:56,"TurKiss, 104 Macdougal St, New York",40.7294155179,-74.0010201374
+5,2012-10-11 05:08:38,"Miss Lily's & Melvin's Juice Box, 132 W Houston St, New York",40.7278888836,-74.0013366938
+6,2012-09-27 07:55:27,"3 Sheets Saloon, 134 W 3rd St, New York",40.730887,-74.001079
+7,2012-09-20 13:27:05,"Shade, 241 Sullivan St, New York",40.7300554467,-73.9993559342
+8,2012-09-19 15:30:21,"Cielo, 18 Little West 12th St, New York",40.7398262087,-74.0068906422
+9,2012-09-14 05:44:58,"Go! Go! Curry!, 231 Thompson St, New York",40.7294438221,-73.9988985658
+10,2012-09-12 18:16:17,"Charleston, 174 Bedford Ave, Brooklyn",40.7180419756,-73.9575790355
+11,2012-08-13 12:16:29,"The Lantern, 167 Bleecker St, New York",40.728727357,-74.0002569012
+12,2012-08-13 12:15:21,"The Lantern, 167 Bleecker St, New York",40.728727357,-74.0002569012
+13,2012-07-05 02:03:45,"Artichoke Basille's Pizza & Brewery, 111 Macdougal St, New York",40.7299092803,-74.0006017685
+14,2012-07-05 01:58:56,"99 Fresh Pizza, 388 Avenue of the Americas, New York",40.7332865914,-73.9998724126
+15,2012-07-05 01:57:24,"Caesar's Palace Pizzeria, 493 Amsterdam Ave, New York",40.7862207355,-73.9761301843
+16,2012-07-05 01:52:32,"Bleecker Street Pizza, 69 7th Ave S, New York",40.7322182301,-74.0033912659
+17,2012-07-05 01:50:31,"Fiore's Pizza, 165 Bleecker St, New York",40.7286998041,-74.0002454239
+18,2012-07-05 01:49:46,"Joe's Pizza, 7 Carmine St, New York",40.7304911986,-74.0018809265
+19,2012-07-05 01:43:13,"Arturo's Restaurant, 106 W Houston St, New York",40.727296543,-74.0005495711
+20,2012-07-05 01:41:10,"Ben's Pizzeria, 123 Macdougal St, New York",40.7305434365,-74.0001726151
+21,2012-07-05 01:30:27,"Red Egg, 202 Centre St, New York",40.718836791,-73.9993444569
+22,2012-07-05 01:27:53,"Minetta Tavern, 113 Macdougal St, New York",40.7300745249,-74.0005954801
+23,2012-07-05 01:22:11,"Magnolia Bakery, 401 Bleecker St, New York",40.735844095,-74.0049523115
+24,2012-07-05 01:12:47,"Yakitori Taisho, 5 Saint Marks Pl, New York",40.7294319091,-73.9895138852
+25,2012-07-05 01:06:26,"Momofuku Noodle Bar, 171 1st Ave, New York",40.7291104035,-73.9842454556
+26,2012-07-05 00:59:03,"Pepe Rosso To Go, 149 Sullivan St, New York",40.7273160803,-74.0016858147
+27,2012-07-05 00:39:36,"East Village Meat Market, 139 2nd Ave, New York",40.7290025081,-73.987252725
+28,2012-07-05 00:37:47,"Ukrainian Club, 122 2nd Ave, New York",40.7280766433,-73.9877692361
+29,2012-07-05 00:35:56,"Surma Book & Music Co, 11 E 7th St, New York",40.7286866151,-73.9900820405
+30,2012-07-05 00:34:15,"Sly Fox, 140 2nd Ave, New York",40.7290149473,-73.9873838425
+31,2012-07-05 00:30:34,"Veselka, 144 2nd Ave, New York",40.7291362344,-73.9869715129
+32,2012-07-05 00:25:48,"Pio Pio, 8402 Northern Blvd, Jackson Heights",40.7555956649,-73.8831360926
+33,2012-07-05 00:22:10,"Tacos El Idolo (Un golazo de sabor), 6th Ave, New York",40.7319286419,-74.0007332069
+34,2012-07-05 00:21:05,"Agozar Cuban Restaurant, 324 Bowery, New York",40.72538,-73.99214
+35,2012-07-05 00:19:56,"Havana Alma de Cuba, 94 Christopher St, New York",40.7334399355,-74.0044919631
+36,2012-07-05 00:18:01,"Taco King Truck, LaGuardia Place, New York",40.7292231671,-73.9936229304
+37,2012-07-05 00:04:44,"Pio Pio, 604 10th Ave, New York",40.7604069699,-73.9948940277
+38,2012-05-14 03:09:32,"Cinders Wood Fire Grill, 319 US Highway 46 West, Mine Hill",40.8801771837,-74.6071243286
+39,2012-03-17 00:32:54,"Pete's Coffee Cart, W 86th Street, New York",40.7869899273,-73.973831
+40,2012-02-20 07:05:42,"Sarento's on the Beach, 2980 S. Kihei Rd., K2bhei",20.7042377111,-156.446136866
+41,2012-01-18 03:04:08,"Mamma's Famous Ristorante, 2345 Broadway, New York",40.7879899678,-73.9766754219
+42,2011-10-09 04:40:51,"Don Jose, 200 State Route 10, East Hanover",40.8091938341,-74.3751359425
+43,2011-09-06 01:49:46,"Edgewell Personal Care, 6 Research Dr, Shelton",41.2748493029,-73.1345081632
+44,2011-08-06 18:43:55,"Cleveland Greyhound Bus Station, 1465 Chester Ave, Cleveland",41.5034190336,-81.6822767258
+45,2011-07-10 01:52:34,"Duck Walk Vineyard, 44535 Main Road, Southold",41.046923653,-72.4482972446
+46,2011-04-18 03:21:10,"Third Rail Coffee, 240 Sullivan St, New York",40.7298279778,-73.9998292923
+47,2011-04-09 00:13:09,"Community Hope, 199 Pomeroy Rd, Parsippany",40.8555834433,-74.4214672156
+48,2011-02-23 11:21:40,"J.W. Market, 240 Sullivan St, New York",40.7300383479,-73.9995007217
+49,2010-12-29 06:57:49,"Sullivan St., Sullivan Street, New York",40.7297954568,-73.9994430542
+50,2010-12-23 03:11:14,"Fiore's Pizza, 165 Bleecker St, New York",40.7286998041,-74.0002454239
+51,2010-11-28 07:27:59,"The Morristown Green, South St, Morristown",40.7963976966,-74.4811248779
+52,2010-10-09 23:18:45,"White Castle, 1113 Route 46 West, Roxbury Township",40.8794390005,-74.6465796232
+53,2010-10-09 21:43:49,"The New School Media Studies, 70 5th Ave Fl 12, New York",40.7354968641,-73.9941910735
+54,2010-03-06 12:52:09,"Havana Alma de Cuba, 94 Christopher St, New York",40.7334399355,-74.0044919631
+55,2009-12-03 09:09:37,"Ben's Pizzeria, 123 Macdougal St, New York",40.7305434365,-74.0001726151
+56,2009-10-28 09:15:33,"Noodle Bar, 26 Carmine St, New York",40.730321,-74.0027990973

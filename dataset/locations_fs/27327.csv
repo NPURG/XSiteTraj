@@ -1,0 +1,97 @@
+,time,poi,latitude,longitude
+0,2016-09-16 09:38:46,"Louisville Zoo, 1100 Trevilian Way, Louisville",38.2057468431,-85.7070837907
+1,2016-09-16 09:36:39,"Coop's Place, 1109 Decatur St, New Orleans",29.9600628646,-90.0598314103
+2,2016-09-16 09:35:20,"Pche, 800 Magazine St, New Orleans",29.9452017366,-90.0692045494
+3,2016-09-16 09:34:42,"Lafitte's Blacksmith Shop, 941 Bourbon St, New Orleans",29.96103797,-90.0636077574
+4,2016-09-16 09:34:02,"Bacchanal Wine, 600 Poland Ave, New Orleans",29.9598688918,-90.0333891577
+5,2016-09-16 09:32:48,"Harrah's, 8 Canal St, New Orleans",29.9496481891,-90.0652999369
+6,2016-09-16 09:32:02,"The Beach on Bourbon, 227 Bourbon St, New Orleans",29.9553491948,-90.0688852321
+7,2016-09-16 09:31:22,"Hotel St. Marie, 827 Toulouse St, New Orleans",29.9583371736,-90.0669146468
+8,2016-09-16 09:30:23,"LaGuardia Airport (LGA), Grand Central Pkwy, East Elmhurst",40.7716531197,-73.8676929474
+9,2016-07-10 04:37:05,"Heron Hill Winery, 9301 County Route 76, Hammondsport",42.4500392458,-77.2014227792
+10,2016-05-29 12:09:15,"Steak 954, 401 N Fort Lauderdale Beach Blvd, Fort Lauderdale",26.1286917859,-80.1037967205
+11,2016-05-29 12:07:03,"Fat Tuesday, 17 S Fort Lauderdale Beach Blvd, Fort Lauderdale",26.122201113,-80.1043148169
+12,2016-05-29 12:04:15,"Dicey Riley's Irish Pub Bar, 220 SW 2nd St, Fort Lauderdale",26.1206446239,-80.1463282556
+13,2016-05-29 12:01:36,"The Parking Spot - LaGuardia, 90-01 23rd Ave, East Elmhurst",40.7682420386,-73.8798860359
+14,2016-05-29 11:58:19,"Sol, 105 Elm St, New Canaan",41.146837,-73.49421
+15,2016-05-29 11:57:45,"Craigville Beach, Craigville Beach Rd, Centerville",41.6368586971,-70.3403731272
+16,2016-05-29 11:54:35,"Four Seas Ice Cream, 360 S Main St, Centerville",41.6445288443,-70.3460574849
+17,2016-05-29 11:49:41,"Raw Bar On Ocean Street, 230 Ocean St, Hyannis",41.647728148,-70.2797945645
+18,2016-05-29 11:45:56,"19th Hole, 11 Barnstable Rd, Hyannis",41.6537555286,-70.2827474963
+19,2016-05-29 11:43:16,"Embargo, 453 Main St, Hyannis",41.651675675,-70.286133
+20,2016-05-09 02:31:54,"Paintball Charleston, 7100 Cross County Rd, North Charleston",32.9026432807,-80.0743885204
+21,2016-05-09 02:29:34,"Holy City Brewing, 4155 Dorchester Rd, North Charleston",32.8525068551,-80.002366937
+22,2016-02-05 09:34:56,"Valencia Luncheria, 164 Main St, Norwalk",41.1257171629,-73.4191116728
+23,2016-02-05 09:33:00,"Match Restaurant, 98 Washington St, Norwalk",41.0989899404,-73.4178052543
+24,2016-01-24 09:11:34,"Basso Cafe, 124 New Canaan Ave, Norwalk",41.12807,-73.43575
+25,2016-01-24 09:10:43,"The Woodmarket, 615 Main St, Monroe",41.3338728529,-73.2642318756
+26,2015-11-22 12:31:39,"Artisan Restaurant, Tavern & Garden, 275 Old Post Rd, Southport",41.1378293565,-73.2879281044
+27,2015-11-22 12:31:01,"The Tile Shop, 360 Connecticut Ave, Norwalk",41.1022467623,-73.4398003661
+28,2015-11-22 12:29:48,"Rosie Taste The Love, 27 Elm St, New Canaan",41.146923,-73.492868
+29,2015-11-09 02:51:56,"World Famous Oasis Restaurant, 4000 A1a S, St. Augustine",29.8215873746,-81.2702035904
+30,2015-11-02 10:27:41,"Joe's Pizza, 23 Locust Ave, New Canaan",41.1487526411,-73.4926208012
+31,2015-11-02 10:25:06,"Tequila Mockingbird, 6 Forest St, New Canaan",41.1480890626,-73.4921375366
+32,2015-10-30 11:11:58,"The Bar Downstairs, 485 5th Ave, New York",40.7529364071,-73.981502142
+33,2015-10-07 20:38:54,"NoMad Elephant Bar, 10 W 28th St, New York",40.7450953273,-73.9884693932
+34,2015-10-07 20:38:18,"Lowe's Home Improvement, 100 Connecticut Ave, Norwalk",41.107528704,-73.4258450691
+35,2015-10-04 10:40:21,"Austin Panic Room, 1204 Salina St, Austin",30.2760797682,-97.7470839621
+36,2015-10-04 10:39:43,"Perry's Steakhouse, 114 W 7th St, Austin",30.2693133878,-97.7437417935
+37,2015-10-04 10:38:54,"Clark's Oyster Bar, 1200 W 6th St, Austin",30.2728479246,-97.7571326422
+38,2015-09-07 03:55:57,"Ching's Table, 64 Main St, New Canaan",41.1482304178,-73.4930752991
+39,2015-09-07 03:55:16,"Rye House, 11 W 17th St, New York",40.73830504,-73.9930088747
+40,2015-09-07 03:54:38,"Chef Luis, 129 Elm St, New Canaan",41.1468069806,-73.4947149352
+41,2015-09-07 03:52:06,"The Home Depot, 600 Connecticut Ave, Norwalk",41.0970819509,-73.4477875653
+42,2015-09-07 03:51:20,"Club Sandwich, 107 Cherry St, New Canaan",41.1467246582,-73.4903367908
+43,2015-09-07 03:46:43,"Stan's Sports Bar, 836 River Ave, Bronx",40.826772,-73.9263815
+44,2015-09-07 03:44:18,"Courtyard Providence Warwick, 55 Jefferson Park Road, Warwick",41.7542138351,-71.4343741536
+45,2015-09-07 03:43:35,"TwoTen Oyster Bar & Grill, 210 Salt Pond Rd, Wakefield",41.4278728922,-71.4963170886
+46,2015-09-07 03:41:54,"Locali, 32 Forest St, New Canaan",41.1489346612,-73.4922410934
+47,2015-09-06 00:58:46,"Doherty's Ale House, 30 Jefferson Blvd, Warwick",41.7535019508,-71.4351514839
+48,2015-07-04 11:07:09,"Prime 16, 172 Temple St, New Haven",41.3061737576,-72.9273855686
+49,2015-06-01 22:39:14,"Vernon's BBQ, 6707 Vernon Ave, University City",38.6621308228,-90.3080941202
+50,2015-06-01 22:38:16,"Ferguson Brewing Company, 418 S Florissant Rd, Ferguson",38.738206271,-90.3023663349
+51,2015-06-01 22:37:56,"Hilton Garden Inn St. Louis Airport, 4450 Evans Pl, St Louis",38.7222004638,-90.3191757276
+52,2015-04-21 08:44:31,"Mike's Deli, 194 East Ave, Norwalk",41.1069104561,-73.4055406475
+53,2015-04-21 08:42:25,"Lavo, 39 E 58th St, New York",40.7627763744,-73.9716591779
+54,2015-03-10 11:10:20,"Heavenly Mountain Resort, 4080 Lake Tahoe Blvd, South Lake Tahoe",38.9388095749,-119.935850999
+55,2015-03-10 11:08:58,"Basecamp Hotel, 4143 Cedar Ave, South Lake Tahoe",38.9603053314,-119.944423548
+56,2015-03-10 06:31:25,"Hard Rock Hotel & Casino, 50 Highway 50, Stateline",38.962370294,-119.940623005
+57,2015-03-01 23:18:05,"Latin Lounge, 371 2nd St, Jersey City",40.7230106667,-74.0499460833
+58,2015-03-01 23:15:47,"Bowlmor Norwalk, 701 Connecticut Avenue, Norwalk",41.0936514,-73.449619
+59,2015-03-01 23:15:12,"Fleishers Craft Butchery, 580 Riverside Ave, Westport",41.1215687625,-73.3704235232
+60,2015-03-01 23:14:02,"Strada 18, 122 Washington St, Norwalk",41.0990101892,-73.4170685919
+61,2015-03-01 23:13:16,"Maritime Aquarium, 10 N Water St, Norwalk",41.1010162403,-73.4166945046
+62,2015-03-01 23:12:23,"Lantern's Keep, 49 W 44th St, New York",40.756019364,-73.9821391911
+63,2015-03-01 23:10:14,"Pera Mediterranean Brasserie, 303 Madison Ave., New York",40.7525168079,-73.9795565464
+64,2015-02-08 01:26:25,"Grand Central Terminal, 87 E 42nd St, New York",40.7526592553,-73.977059957
+65,2015-02-08 01:24:00,"The Spread, 70 N Main St, Norwalk",41.1011421661,-73.4197447361
+66,2015-02-08 01:22:37,"American Cut, 363 Greenwich St, New York",40.7191181974,-74.0102705481
+67,2015-02-08 01:20:13,"Hilton Manhattan East, 304 E 42nd St, New York",40.7494088493,-73.9719698578
+68,2015-01-31 15:11:40,"Prudential Center, 165 Mulberry St, Newark",40.7334820884,-74.1706749434
+69,2015-01-30 21:20:09,"Lucky 7 Tavern, 322 2nd St, Jersey City",40.7228395384,-74.047497196
+70,2015-01-30 21:19:24,"Zeppelin Hall Biergarten, 88 Grand St, Jersey City",40.7151347779,-74.0466079267
+71,2015-01-30 21:17:54,"CVS/pharmacy, 327 Main Ave, Norwalk",41.135965,-73.425082
+72,2015-01-30 21:17:13,"El Limon, 103 Fayette St, Conshohocken",40.0740596242,-75.306024705
+73,2015-01-30 21:16:19,"Burger Bar & Bistro, 58 N Main St, Norwalk",41.10065888,-73.41944349
+74,2015-01-30 21:15:31,"Yards Brewing Company, 901 N Delaware Ave, Philadelphia",39.9623880385,-75.1358823174
+75,2015-01-05 11:25:37,"Sweet Ashley's Ice Cream, 248 East Ave, Norwalk",41.1019803789,-73.4039291033
+76,2015-01-05 11:23:49,"Connie B's, 43 N Main St, Norwalk",41.1005017429,-73.418737589
+77,2015-01-05 11:19:49,"Lockwood-Mathews Mansion Museum, 299 West Ave, Norwalk",41.1093116322,-73.4171549196
+78,2015-01-05 11:16:07,"ShopRite, 360 Connecticut Ave, Norwalk",41.102087155,-73.44034705
+79,2015-01-05 11:13:19,"Strada 18, 122 Washington St, Norwalk",41.0990101892,-73.4170685919
+80,2015-01-05 06:06:00,"Stew Leonard's, 100 Westport Ave, Norwalk",41.1225046038,-73.4023233026
+81,2015-01-05 06:05:14,"Firestone Complete Auto Care, 76 State Highway 139, Jersey City",40.7360413663,-74.0572903576
+82,2015-01-05 06:04:17,"Metro North - South Norwalk Train Station, 29 Monroe St, Norwalk",41.0954916163,-73.4220170975
+83,2015-01-05 06:03:02,"Bread & Tulips, 365 Park Ave S, New York",40.7420756795,-73.9850891027
+84,2015-01-05 06:01:44,"Locanda Verde, 377 Greenwich St, New York",40.7200408704,-74.0101156132
+85,2015-01-05 06:01:26,"Jax & Co, 46 N Main St, Norwalk",41.100107093,-73.4189505291
+86,2015-01-05 06:00:24,"Total Wine & More, 380 Main Avenue, Norwalk",41.140143,-73.423613
+87,2015-01-05 05:59:26,"Silver Star Diner, 210 Connecticut Ave, Norwalk",41.1039759094,-73.4328141993
+88,2015-01-05 05:59:02,"World of Beer, 18 Harbor Point Rd, Stamford",41.04053103,-73.54318487
+89,2014-12-15 00:07:40,"Willie Mae's Scotch House, 2401 Saint Ann St, New Orleans",29.9691505,-90.07886
+90,2014-12-15 00:07:21,"Three Muses, 536 Frenchmen St, New Orleans",29.96334093,-90.057785
+91,2014-12-15 00:05:25,"Strada 18, 122 Washington St, Norwalk",41.0990101892,-73.4170685919
+92,2014-12-15 00:03:15,"Local Kitchen and Beer Bar, 68 Washington St, Norwalk",41.098941803,-73.4187240601
+93,2014-12-15 00:01:22,"Costco Wholesale, 779 Connecticut Avenue, Norwalk",41.0914769768,-73.4513034494
+94,2014-12-14 23:59:40,"Pauli's Deli & Bagels, 205 Main St, Norwalk",41.127774,-73.42249
+95,2010-03-23 10:50:48,"Second Street Bakery, 402 2nd St, Jersey City",40.7232069969,-74.051411

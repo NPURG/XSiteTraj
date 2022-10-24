@@ -1,0 +1,58 @@
+,time,poi,latitude,longitude
+0,2016-11-06 21:18:31,"Cirque du Soleil - Kurios: Cabinet of Curiosities, 20 Randall's Island Park, New York",40.793211,-73.92555
+1,2016-07-10 02:40:40,"Rockaway Brewing Co., 415 Beach 72nd St, Far Rockaway",40.5930607866,-73.8010873202
+2,2016-07-05 00:08:43,"Bike & Roll Miami, 210 10th St, Miami Beach",25.7806893049,-80.1320170955
+3,2016-07-05 00:07:50,"Jaguar Ceviche, 3067 Grand Ave, Miami",25.7281918947,-80.2428074284
+4,2016-07-05 00:06:20,"Ironside Pizza, 7580 NE 4th Ct, Miami",25.8449764862,-80.1882393786
+5,2016-07-05 00:04:43,"Ana's Deli, 2555 Collins Ave, Miami Beach",25.801592342,-80.1253377371
+6,2016-07-01 07:29:51,"Bro South Beach, 1815 Purdy Ave, Miami Beach",25.7939335966,-80.1441803709
+7,2016-04-30 21:17:54,"S'MAC, 345 E 12th St, New York",40.730340182,-73.9839935303
+8,2016-04-25 03:25:49,"Spring Chicken, 1514 South Dixie Highway, Coral Gables",25.709141,-80.283297
+9,2016-01-29 04:31:19,"Korilla BBQ, 601 W 26th, New York",40.7267876013,-73.9834649352
+10,2015-12-21 00:02:42,"Le Tub Saloon, 1100 N Ocean Dr, Hollywood",26.0183193097,-80.1174472463
+11,2015-12-13 21:47:25,"The Continental Miami, 2360 Collins Ave, Miami Beach",25.7995138116,-80.1278786808
+12,2015-12-13 21:46:19,"Golden Fig, 1250 S.Miami Ave CU #4, Miami Financial District",25.7621652977,-80.1930391788
+13,2015-11-15 05:29:34,"Astoria Craft, 1801 26th Rd, Astoria",40.7733102443,-73.9271271222
+14,2015-11-15 01:00:31,"Astoria Coffee, 30-04 30th St, Astoria",40.7670959096,-73.9222244115
+15,2015-11-09 00:31:11,"Whitestone Bagel Factory, 2417 149th St, Whitestone",40.7766092723,-73.8173532486
+16,2015-08-10 04:12:52,"Milkflower, 34-12 31st Ave, Astoria",40.762965096,-73.9207317584
+17,2015-07-13 08:53:45,"Shelter Island Craft Brewery, 55 N Ferry Rd, Shelter Island",41.0713603132,-72.3393058777
+18,2015-06-19 00:46:41,"Sanaa, Animal Kingdom Villas - Kidani Village, Lake Buena Vista",28.3541295328,-81.6052966903
+19,2015-06-04 13:27:52,"Papito Hayes, 425 Hayes St Ste A, San Francisco",37.7766899451,-122.423496062
+20,2015-06-04 13:27:29,"Smitten Ice Cream, 432 Octavia St #1A, San Francisco",37.7762864165,-122.424194813
+21,2015-05-24 22:26:02,"Lange's Deli, 94 Pondfield Rd, Bronxville",40.939782,-73.83323975
+22,2015-05-24 22:25:34,"Bonfiglio & Bread, 748 Warren St, Hudson",42.2462289121,-73.7821353444
+23,2015-05-24 22:23:22,"Olana State Historic Site, 5720 Route 9G, Hudson",42.2175798392,-73.8291241979
+24,2015-05-24 22:21:25,"Moto Coffee/Machine, 357 Warren St, Hudson",42.2515339946,-73.7892651558
+25,2015-05-22 08:46:53,"The Hummus & Pita Co, 585 Avenue of the Americas, New York",40.739065,-73.995587
+26,2015-05-18 20:51:46,"Caf Prague, 2 W 19th St, New York",40.7392570532,-73.9916430243
+27,2015-05-18 20:50:52,"Brixx & Barley, 152 W Park Ave, Long Beach",40.5881985311,-73.6687710474
+28,2015-01-04 04:16:51,"Southernmost Beach Cafe, 1405 Duval St, Key West",24.5469995006,-81.7957167594
+29,2015-01-01 22:52:24,"La Locanda Ristorante Italiano, 419 Washington Ave, Miami Beach",25.7740748758,-80.1342634241
+30,2015-01-01 22:51:34,"The Betsy - South Beach, 1440 Ocean Dr, Miami Beach",25.7864998828,-80.1296507537
+31,2014-12-31 01:43:07,"Abbey Brewing Co., 1115 16th St, Miami Beach",25.7890547648,-80.1403423923
+32,2014-12-28 21:53:22,"Makoto, 9700 Collins Ave, Bal Harbour",25.8876650464,-80.1245470848
+33,2014-12-28 21:52:01,"Cafe Del Mar, 710 Washington Ave # 1, Miami",25.777313,-80.133791
+34,2014-12-28 09:20:57,"The Dutch Miami, 2201 Collins Ave, Miami Beach",25.7975107384,-80.1271698414
+35,2014-12-25 04:12:15,"BZ Grill, 27-02 Astoria Blvd, Astoria",40.7709868546,-73.9212942123
+36,2014-12-25 04:10:31,"Panther Coffee, 1875 Purdy Ave, Miami Beach",25.7943837135,-80.1443657235
+37,2014-12-25 04:08:38,"Pinocchio, 760 Ocean Dr, Miami Beach",25.7779991548,-80.1314118852
+38,2014-12-25 04:05:58,"Yardbird Southern Table & Bar, 1600 Lenox Ave, Miami Beach",25.7890937528,-80.1401188684
+39,2014-12-18 12:09:34,"New York Burger Co. - Flatiron, 678 Sixth Avenue, New York",40.7416847123,-73.9936975351
+40,2014-12-14 10:02:40,"Good Stuff Diner, 109 W 14th St, New York",40.737604,-73.997361
+41,2014-08-31 21:01:21,"Create & Go, 36-03 30th Ave, Astoria",40.7650238291,-73.9172354607
+42,2014-08-31 21:00:45,"Petey's Burger, 30-17 30th Ave, Astoria",40.7669947316,-73.9217019843
+43,2014-08-30 21:51:41,"New York Dog House, 37-06 30th Ave, Astoria",40.7645027766,-73.9164776342
+44,2014-08-30 21:50:35,"New York Burger Co. - Flatiron, 678 Sixth Avenue, New York",40.7416847123,-73.9936975351
+45,2014-08-07 22:11:58,"Watawa, 33-10 Ditmars Blvd, Astoria",40.7749487636,-73.9093699964
+46,2014-05-26 19:53:23,"Buoy Bar, 72 Bayside Dr, Point Lookout",40.5942089203,-73.5795730814
+47,2014-05-26 06:54:44,"Coneys Cones, 1409 Mermaid Ave, Brooklyn",40.5733994621,-73.9789137495
+48,2014-01-27 10:15:17,"Sugar Freak, 36-18 30th Ave, Astoria",40.764770448,-73.9167991367
+49,2014-01-23 07:11:12,"Las Vegas Cuban Cuisine, 6970 Collins Ave, Miami Beach",25.8555519837,-80.12058
+50,2013-11-22 10:31:08,"empanada truck nyc, 200 Park Ave, New York",40.750291195,-73.9892613712
+51,2013-10-28 02:26:51,"Flagler Monument Island, Flagler Monument Island, Miami Beach",25.785215422,-80.1534693125
+52,2013-10-10 09:23:27,"Rocco's Pizza Joint, 162 7th Ave, New York",40.7419351844,-73.9971694935
+53,2013-10-06 00:28:03,"BagelBerry, 31-13 30th Ave, Astoria",40.7667115584,-73.9209728801
+54,2013-07-06 03:06:53,"The Gelato Fiasco Old Port, 425 Fore St, Portland",43.6561051582,-70.2543604374
+55,2013-03-12 08:30:06,"Trade Fair, 30-12 30th Ave, Astoria",40.767058941,-73.9219832914
+56,2013-03-09 23:51:59,"Domenick's Wines & Liquors, 2822 Astoria Blvd, Astoria",40.7702889879,-73.9186764712

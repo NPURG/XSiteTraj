@@ -1,0 +1,48 @@
+,time,poi,latitude,longitude
+0,2013-11-07 04:01:41,"New Orleans Downtown Marriott at the Convention Center, 859 Convention Center Blvd, New Orleans",29.9432783893,-90.0646294418
+1,2013-06-17 19:21:45,"Washington Dulles International Airport (IAD), 1 Saarinen Cir, Dulles",38.9496063549,-77.4477789643
+2,2013-04-03 10:57:57,"NTC Park, Farragut Rd, San Diego",32.7365913635,-117.212747434
+3,2012-12-27 22:57:09,"LaSalle Park, 6600 Airline Dr, Metairie",29.9761633593,-90.2078234923
+4,2012-12-27 22:56:49,"Teddy Ebersol's Field, Charlesbank Park, Boston",42.3634747799,-71.0723782178
+5,2012-12-27 22:56:43,"Esteban Park, 5611 S 32nd St, Phoenix",33.3976560131,-112.010653035
+6,2012-12-27 22:56:27,"Red Wing Park, General Booth Blvd, Virginia Beach",36.7910070668,-75.9907104836
+7,2012-12-27 22:56:02,"Long Bridge Park, 475 Long Bridge Drive, Arlington",38.8659160597,-77.0476397141
+8,2012-12-27 22:55:52,"Carmel Valley Recreation Center, 3777 Townsgate Dr, San Diego",32.9478943275,-117.233476639
+9,2012-12-27 22:55:41,"Barry Road Park Playground, N Congress, Kansas City",39.2445534309,-94.6676533249
+10,2012-12-27 22:55:28,"Stony Ridge Park, Silver Spring, PA, Silver Spring",40.2384607408,-77.0929563205
+11,2012-12-27 22:55:11,"Davis Park, 210 Davis Park Road, Ponte Vedra Beach",30.1156202404,-81.3985575687
+12,2012-12-27 22:55:04,"Balloon Fiesta Park, 4401 Alameda Blvd NE, Albuquerque",35.1960867066,-106.59511548
+13,2012-12-27 22:54:56,"North East Metropolitan Park, 2703 Pecan Street East, Pflugerville",30.4244008826,-97.5911235809
+14,2012-12-27 22:54:48,"Atlanta Silverbacks Park, 3200 Atlanta Silverbacks Way, Atlanta",33.8924010375,-84.2551118918
+15,2012-12-27 22:54:33,"Tradewinds Park South, 3600 W Sample Rd, Coconut Creek",26.2698642768,-80.1718534304
+16,2012-06-11 07:42:53,"Esteban Park, 5611 S 32nd St, Phoenix",33.3976560131,-112.010653035
+17,2012-05-04 21:27:15,"LaSalle Park, 6600 Airline Dr, Metairie",29.9761633593,-90.2078234923
+18,2012-05-04 21:25:25,"Red Wing Park, General Booth Blvd, Virginia Beach",36.7910070668,-75.9907104836
+19,2012-05-04 21:24:33,"Teddy Ebersol's Field, Charlesbank Park, Boston",42.3634747799,-71.0723782178
+20,2012-04-15 08:55:20,"PDunc's Pad, 2008 15th St NW, Washington",38.915921,-77.036673
+21,2012-04-03 14:16:03,"Long Bridge Park, 475 Long Bridge Drive, Arlington",38.8659160597,-77.0476397141
+22,2012-04-03 14:15:40,"Randalls Island Field, Triborough Bridge Trail, New York",40.7836613424,-73.92864843
+23,2012-04-03 14:14:28,"Carmel Valley Recreation Center, 3777 Townsgate Dr, San Diego",32.9478943275,-117.233476639
+24,2012-04-03 14:10:27,"Davis Park, 210 Davis Park Road, Ponte Vedra Beach",30.1156202404,-81.3985575687
+25,2012-04-03 14:07:11,"Long Bridge Park, 475 Long Bridge Drive, Arlington",38.8659160597,-77.0476397141
+26,2012-03-06 10:19:06,"Stony Ridge Park, Silver Spring, PA, Silver Spring",40.2384607408,-77.0929563205
+27,2012-02-29 02:50:26,"Atlanta Silverbacks Park, 3200 Atlanta Silverbacks Way, Atlanta",33.8924010375,-84.2551118918
+28,2012-02-29 02:47:32,"Balloon Fiesta Park, 4401 Alameda Blvd NE, Albuquerque",35.1960867066,-106.59511548
+29,2012-02-29 02:47:03,"North East Metropolitan Park, 2703 Pecan Street East, Pflugerville",30.4244008826,-97.5911235809
+30,2012-02-20 03:46:04,"The Pelican Grand Beach Resort & Spa, 2000 N Ocean Blvd, Fort Lauderdale",26.1542232921,-80.1005514174
+31,2012-01-06 11:31:30,"Atlanta Silverbacks Park, 3200 Atlanta Silverbacks Way, Atlanta",33.8924010375,-84.2551118918
+32,2012-01-06 11:31:28,"Long Bridge Park, 475 Long Bridge Drive, Arlington",38.8659160597,-77.0476397141
+33,2012-01-06 11:27:16,"Red Wing Park, General Booth Blvd, Virginia Beach",36.7910070668,-75.9907104836
+34,2012-01-05 06:51:24,"Balloon Fiesta Park, 4401 Alameda Blvd NE, Albuquerque",35.1960867066,-106.59511548
+35,2011-12-07 09:25:13,"Pork Barrel BBQ Restaurant, 2312 Mount Vernon Ave, Alexandria",38.8267534044,-77.058984518
+36,2011-11-23 12:38:57,"Tradewinds Park South, 3600 W Sample Rd, Coconut Creek",26.2698642768,-80.1718534304
+37,2011-11-23 12:35:18,"ESPN, 1 Espn Dr, Bristol",41.650252299,-72.902559199
+38,2011-11-17 13:44:33,"Tradewinds Park South, 3600 W Sample Rd, Coconut Creek",26.2698642768,-80.1718534304
+39,2011-06-08 08:25:14,"Del Ray Pizzeria, 2218 Mount Vernon Ave, Alexandria",38.8260632345,-77.0587203053
+40,2011-05-11 21:47:18,"Ronald Reagan Washington National Airport (DCA), 2401 S Smith Blvd, Arlington",38.8534706146,-77.042377342
+41,2011-05-02 01:43:41,"Denver International Airport (DEN), 8500 Pea Blvd, Denver",39.8513557067,-104.674044515
+42,2010-09-19 00:24:13,"Buffalo Billiards, 1330 19th St NW, Washington",38.9084418967,-77.0437127352
+43,2010-06-21 01:19:53,"Hartsfield-Jackson Atlanta International Airport (ATL), 6000 N Terminal Pkwy, Atlanta",33.6405164905,-84.4403204413
+44,2010-01-01 08:22:12,"Tampa Bay Brewing Company, 1600 E 8th Ave, Tampa",27.9611992118,-82.441684317
+45,2009-06-18 05:13:25,"Washington Dulles International Airport (IAD), 1 Saarinen Cir, Dulles",38.9496063549,-77.4477789643
+46,2009-06-14 22:36:29,"Matchbox Vintage Pizza Bistro, 521 8th St SE, Washington",38.8821275872,-76.9952025514

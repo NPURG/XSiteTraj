@@ -1,0 +1,46 @@
+,time,poi,latitude,longitude
+0,2016-07-08 07:28:53,"Uncle Paul's Pizza, 70 Vanderbilt Ave, New York",40.7546137437,-73.9769164738
+1,2015-10-26 19:15:16,"House of Terror Museum, Andrssy t 60., Budapest",47.5067557911,19.0652354033
+2,2015-10-26 18:55:18,"Design Terminl, Erzsbet tr 13., Budapest",47.4980534807,19.0534472466
+3,2015-10-26 18:51:09,"Zenit Budapest Palace Hotel, Apczai Csere Jnos u. 7., Budapest",47.4949560307,19.0500714414
+4,2015-10-26 18:48:19,"Horvth Vendgl51, Krisztina tr 3., Budapest",47.497177605,19.0313453634
+5,2015-09-02 08:21:12,"Aloha Isle, Adventureland, Magic Kingdom, Lake Buena Vista",28.4183396506,-81.5825895655
+6,2015-08-17 09:47:50,"Hopkins Farm Creamery, 18186 Dairy Farm Rd, Lewes",38.7359557788,-75.2226804446
+7,2014-12-01 02:12:42,"Mike's American Grill, 6210 Backlick Rd, Springfield",38.7829286533,-77.1861438028
+8,2014-09-28 05:16:57,"2 Doors Down, 118 E 17th St, Cheyenne",41.134618,-104.814059
+9,2014-08-16 05:05:08,"Museum of Making Music, 5790 Armada Dr, Carlsbad",33.1273000557,-117.316996927
+10,2014-06-01 02:40:44,"Delaplane Cellars, 2187 Winchester Rd, Delaplane",38.9510665346,-77.9362694684
+11,2014-05-13 07:23:16,"The Angus Barn, 9401 Glenwood Ave, Raleigh",35.8992031777,-78.7637622526
+12,2014-04-20 01:51:07,"Chick-fil-A Magnolia Mall Drive-Thru Only, 2705 David H McLeod Blvd, Florence",34.1905518813,-79.8354818409
+13,2013-12-27 07:05:56,"Starbucks, 100 S Union St, Alexandria",38.804092,-77.04012
+14,2013-10-10 10:45:33,"The Regency Room at The Hotel Roanoke & Conference Center, 110 Shenandoah Ave NE, Roanoke",37.2744409829,-79.9396194094
+15,2013-10-06 11:07:12,"Zinga Frozen Yogurt, 6676 Richmond Hwy, Alexandria",38.7736347045,-77.082671364
+16,2013-08-05 09:34:03,"Nico Ristorante, 417 Hanover St, Boston",42.3656906019,-71.0527735949
+17,2013-05-02 21:33:15,"APA Hotel Woodbridge, 120 Wood Ave S, Iselin",40.5618706,-74.3257294
+18,2013-04-27 04:32:15,"Rockfish, 5331 E Mockingbird Ln #160, Dallas",32.8375390017,-96.7765476996
+19,2013-02-26 01:15:31,"Booeymonger, 5252 Wisconsin Ave NW, Washington",38.9589939563,-77.0848857951
+20,2013-02-17 02:19:14,"The Magic Carpets of Aladdin, Adventureland, Lake Buena Vista",28.418537096,-81.5834882265
+21,2012-12-29 08:48:34,"Hunan Manor, 1305 Shenandoah Rd, Alexandria",38.7417244807,-77.0567214489
+22,2012-10-14 23:43:07,"Tropisueo, 75 Yerba Buena Ln, San Francisco",37.7855526675,-122.403966502
+23,2012-10-13 03:04:41,"McCarran International Airport (LAS) Terminal 3, McCarran International Airport (LAS), Las Vegas",36.0860295876,-115.137242438
+24,2012-09-16 09:25:06,"Half Full, 113 W Market St, Lewes",38.7755169909,-75.1398331329
+25,2012-07-03 07:47:40,"Shell, 2600 Sherwood Hall Ln, Alexandria",38.74366,-77.07652
+26,2011-12-24 04:14:16,"Gulf Express Gas, 8689 Richmond Hwy, Alexandria",38.72078436,-77.12388265
+27,2011-11-14 00:38:53,"Starbucks, 575 5th Ave, New York",40.7565291649,-73.9782939075
+28,2011-09-02 00:23:31,"Lost Dog Cafe, 5876 Washington Blvd, Arlington",38.885443,-77.141834
+29,2011-08-29 05:32:09,"Kansas City Northern Railroad Co Train Run, 2300-2624 NW 60th St, Kansas City",39.2037398489,-94.610838993
+30,2011-08-28 10:19:45,"Hyatt Place Kansas City Airport, 7600 NW 97th Ter, Kansas City",39.27060777,-94.66964543
+31,2011-08-25 23:11:59,"Baltimore / Washington International Thurgood Marshall Airport (BWI), 7050 Friendship Road, Bwi Airport",39.1794192907,-76.6702913006
+32,2011-07-31 09:09:11,"Sunoco, 1830 Fort Myer Dr, Arlington",38.896418396,-77.0726778147
+33,2011-05-04 03:18:24,"Founding Farmers, 1924 Pennsylvania Ave NW, Washington",38.9002388738,-77.0445924997
+34,2011-04-22 05:31:44,"Vincent's Drug Store And Soda Fountain, 110 Planted Row Ln., Johns Island",32.6074538485,-80.147282248
+35,2011-04-15 10:26:06,"Doe's Eat Place, 2806 S Walton Blvd, Bentonville",36.3439873193,-94.2113499687
+36,2011-01-29 02:36:05,"BlackFinn American Saloon, 1620 I St NW, Washington",38.9011448012,-77.0376187563
+37,2010-10-19 11:43:32,"Ray's The Steaks, 2300 Wilson Blvd, Arlington",38.8904983798,-77.0865797997
+38,2010-09-01 11:00:53,"'Ohana, Polynesian Village Resort, Lake Buena Vista",28.4055999721,-81.5851039873
+39,2010-09-01 04:49:26,"The Magic Carpets of Aladdin, Adventureland, Lake Buena Vista",28.418537096,-81.5834882265
+40,2010-08-29 04:16:51,"The Seas with Nemo & Friends, The Seas with Nemo & Friends Pavilion, Lake Buena Vista",28.3749077048,-81.5509520412
+41,2010-08-27 00:04:36,"Boma Flavors of Africa, Jambo House, Lake Buena Vista",28.3524779579,-81.6032251529
+42,2010-06-07 06:21:13,"Iberostar 70 Park Avenue, 70 Park Avenue, New York",40.7498119183,-73.9794188044
+43,2010-05-13 01:38:30,"Johnny's Half Shell, 400 N Capitol St NW, Washington",38.8954842042,-77.0092405026
+44,2010-04-18 03:45:23,"Vintage Ridge Vineyard, 8517 Maidstone Rd, Delaplane",38.9131953483,-77.8664875999

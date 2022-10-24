@@ -1,0 +1,113 @@
+,time,poi,latitude,longitude
+0,2013-03-30 01:39:03,"Southern Pacific Brewing, 620 Treat Ave, San Francisco",37.7601605144,-122.414027638
+1,2013-03-30 01:38:47,"Trick Dog, 3010 20th St, San Francisco",37.7591916688,-122.411234511
+2,2013-03-30 01:38:28,"Muse Mcanique, Pier 45, Shed A, San Francisco",37.8093770885,-122.415997982
+3,2013-03-30 01:37:53,"Alcatraz Island, Golden Gate National Recreation Area, San Francisco",37.8266824016,-122.421140097
+4,2013-03-30 01:33:24,"Kabuki Springs & Spa, 1750 Geary Blvd, San Francisco",37.784579014,-122.432443822
+5,2013-03-30 01:32:46,"Stinson Beach, Highway 1, Stinson Beach",37.8975830661,-122.641115665
+6,2013-03-30 01:32:26,"Muir Woods National Monument, 1 Muir Woods Rd, Mill Valley",37.8923987514,-122.572231293
+7,2013-03-30 01:32:03,"Half Moon Bay State Beach (Francis Beach), 95 Kelly Ave, Half Moon Bay",37.4664907735,-122.445465929
+8,2013-03-30 01:30:43,"Haight Street, Haight St, San Francisco",37.7706798222,-122.446748699
+9,2013-03-30 01:29:46,"Fisherman's Wharf, 2801 Leavenworth St, San Francisco",37.808369702,-122.415266545
+10,2013-03-30 01:29:29,"Embarcadero Public Promenade, The Embarcadero, San Francisco",37.796621918,-122.395442269
+11,2013-03-30 01:29:00,"Painted Ladies, Steiner St., San Francisco",37.7760104456,-122.433179296
+12,2013-03-30 01:24:19,"Lombard Street, Lombard St, San Francisco",37.802010758,-122.418851852
+13,2013-03-30 01:20:38,"Union Square, 333 Post St, San Francisco",37.787829545,-122.407661413
+14,2013-03-30 01:20:18,"Golden Gate Overlook, Lincoln Blvd & Merchant Rd, San Francisco",37.8041045998,-122.476787567
+15,2013-03-30 01:19:47,"Golden Gate Park, 501 Stanyan St, San Francisco",37.768789571,-122.481905222
+16,2013-03-30 01:17:50,"Fremont Street Experience, 425 Fremont St, Las Vegas",36.1704783049,-115.14306188
+17,2013-03-30 01:17:35,"BabyStacks Cafe, 4135 S Buffalo Dr Ste 101, Las Vegas",36.1136273934,-115.261366367
+18,2013-03-30 01:17:23,"Red Rock Canyon National Conservation Area, 1000 Scenic Dr., Las Vegas",36.1490821036,-115.374605541
+19,2013-03-30 01:17:11,"The Neon Museum, 770 Las Vegas Blvd N, Las Vegas",36.1770722834,-115.135388374
+20,2013-03-30 01:16:56,"The Gun Store, 2900 E Tropicana Ave, Las Vegas",36.1003869962,-115.111157298
+21,2013-03-30 01:16:42,"Stratosphere Casino, Hotel & Tower, 2000 Las Vegas Blvd S, Las Vegas",36.1475811904,-115.15588744
+22,2013-03-30 01:16:18,"Egg Works, 2490 E Sunset Rd #200, Las Vegas",36.071972709,-115.117183377
+23,2013-03-30 01:16:03,"Tofu Hut, 3920 Spring Mountain Rd, Las Vegas",36.1266837861,-115.192882405
+24,2013-03-30 01:14:37,"eat., 707 E Carson Ave, Las Vegas",36.1669933619,-115.139008548
+25,2013-03-30 01:14:21,"Pinball Hall of Fame, 1610 E Tropicana Ave, Las Vegas",36.101379769,-115.130455852
+26,2013-03-30 01:11:12,"Hash House A Go Go at The LINQ, 3535 Las Vegas Blvd S, Las Vegas",36.1181304307,-115.171451131
+27,2013-03-30 00:50:44,"Umami Burger, 4655 Hollywood Blvd, Los Angeles",34.1006113811,-118.29054594
+28,2013-03-30 00:50:28,"Father's Office, 3229 Helms Ave, Los Angeles",34.0303448687,-118.384605646
+29,2013-03-30 00:47:15,"The Otheroom, 1201 Abbot Kinney Blvd, Venice",33.9916162218,-118.469382277
+30,2013-03-30 00:46:22,"Venice Beach, Venice Beach, Venice",33.9881611234,-118.472393432
+31,2013-03-30 00:46:03,"The Tasting Kitchen, 1633 Abbot Kinney Blvd, Venice",33.9896568293,-118.463178277
+32,2013-03-30 00:45:26,"Randy's Donuts, 805 W Manchester Blvd, Inglewood",33.9617631499,-118.370320201
+33,2013-03-30 00:45:12,"Pink's Hot Dogs, 709 N LA Brea Ave, Los Angeles",34.0838588294,-118.34420085
+34,2013-03-30 00:44:57,"TCL Chinese Theatre, 6801 Hollywood Blvd, Los Angeles",34.1016134829,-118.340929852
+35,2013-03-30 00:44:28,"A-Frame, 12565 W Washington Blvd, Culver City",33.9969632676,-118.432154641
+36,2013-03-30 00:44:04,"Pitfire Pizza, 12924 Washington Blvd, Culver City",33.9946782986,-118.438756764
+37,2013-03-30 00:43:50,"Finn McCools, 2702 Main St, Santa Monica",34.0006600867,-118.482699394
+38,2013-03-30 00:43:18,"The Victorian, 2640 Main St, Santa Monica",34.001608,-118.48353
+39,2013-03-30 00:43:00,"Bread & Porridge, 2315 Wilshire Blvd, Santa Monica",34.0338124553,-118.480403423
+40,2013-03-30 00:42:24,"Barney's Beanery, 1351 3rd Street Promenade, Santa Monica",34.0158683867,-118.496282101
+41,2013-03-30 00:42:11,"The Griddle Cafe, 7916 W Sunset Blvd, Los Angeles",34.0978706044,-118.362268209
+42,2013-03-30 00:41:50,"Hollywood Sign, Mount Lee Dr., Los Angeles",34.13402,-118.321755
+43,2013-03-30 00:41:30,"Hollywood Forever Cemetery, 6000 Santa Monica Blvd, Los Angeles",34.0904542292,-118.320182267
+44,2013-03-30 00:41:05,"The Counter, 5779 Wilshire Blvd, Los Angeles",34.0625946199,-118.354495168
+45,2013-03-30 00:40:45,"Los Tacos, 7954 Santa Monica Blvd, West Hollywood",34.0905117989,-118.36308
+46,2013-03-30 00:40:37,"El Tarasco, 8620 S Sepulveda Blvd, Westchester",33.9591361813,-118.395928568
+47,2013-03-30 00:40:00,"Honey's Kettle Fried Chicken, 9537 Culver Blvd, Culver City",34.0231609244,-118.395392249
+48,2013-03-30 00:39:31,"The Bar At Culver Hotel, 9400 Culver Blvd, Culver City",34.023796,-118.39417167
+49,2013-03-30 00:38:08,"Blue Star, 2200 E 15th St, Los Angeles",34.0218096972,-118.2327
+50,2013-03-30 00:30:46,"Voodoo Doughnut, 22 SW 3rd Ave, Portland",45.522632255,-122.673300281
+51,2013-03-30 00:30:28,"Veritable Quandary, 1220 SW 1st Ave, Portland",45.5141047096,-122.675334338
+52,2013-03-30 00:30:15,"Le Bistro Montage, 301 SE Morrison St, Portland",45.5173370187,-122.662707772
+53,2013-03-30 00:29:51,"Doug Fir Lounge, 830 E Burnside St, Portland",45.5226340321,-122.656919998
+54,2013-03-30 00:29:40,"Jupiter Hotel, 800 E Burnside St, Portland",45.5226159047,-122.657117454
+55,2013-03-30 00:29:23,"Mother's Bistro & Bar, 212 SW Stark St, Portland",45.5201562439,-122.673713062
+56,2013-03-30 00:29:10,"Screen Door, 2337 E Burnside St, Portland",45.5230527857,-122.641628087
+57,2013-03-30 00:28:49,"Casa Diablo, 2839 NW Saint Helens Rd, Portland",45.543013087,-122.721265554
+58,2013-03-30 00:27:12,"Union Jacks, 938 E Burnside St, Portland",45.5228784902,-122.656020298
+59,2013-03-30 00:26:51,"Hawthorne Youth Hostel, 3031 SE Hawthorne Blvd, Portland",45.512163,-122.634025
+60,2013-03-30 00:26:39,"Clyde Common, 1014 SW Stark St, Portland",45.5219882001,-122.681426704
+61,2013-03-30 00:20:58,"G'Raj Mahal Cafe, 73 Rainey St, Austin",30.2583424885,-97.7387871877
+62,2013-03-30 00:20:39,"Seaholm Power Plant, 214 West Ave, Austin",30.2667863892,-97.7521848679
+63,2013-03-30 00:20:23,"Speakeasy, 412 Congress Ave, Austin",30.2667543428,-97.7438744162
+64,2013-03-30 00:20:06,"Cedar Door, 201 Brazos St, Austin",30.2642583577,-97.7426277726
+65,2013-03-30 00:19:48,"Cedar Street Courtyard, 208 W 4th St, Austin",30.2668883191,-97.7453184128
+66,2013-03-30 00:19:30,"Hey Cupcake!, 1511 S Congress Ave, Austin",30.2487599418,-97.7497259789
+67,2013-03-30 00:19:15,"24 Diner, 600 N Lamar Blvd #G, Austin",30.2719849147,-97.7540319441
+68,2013-03-30 00:19:01,"Mmmpanadas, 2nd and Congress, Austin",30.264206889,-97.7704464294
+69,2013-03-30 00:18:37,"Buffalo Billiards, 201 E 6th St, Austin",30.2674906304,-97.7412843704
+70,2013-03-30 00:18:21,"The Driskill, 604 Brazos St, Austin",30.2678890805,-97.7416491508
+71,2013-03-30 00:17:58,"Moonshine Patio Bar & Grill, 303 Red River St, Austin",30.2639365057,-97.7380498618
+72,2013-03-30 00:17:34,"Iron Cactus Mexican Restaurant, Grill and Margarita Bar, 606 Trinity St, Austin",30.2674662,-97.7393932
+73,2013-03-30 00:17:18,"The Ginger Man, 301 Lavaca St, Austin",30.2662312232,-97.7457364655
+74,2013-03-30 00:17:04,"Barton Springs Pool, 2101 Barton Springs Rd, Austin",30.2639222653,-97.7701970049
+75,2013-03-30 00:16:46,"Shady Grove, 1624 Barton Springs Rd, Austin",30.2628656075,-97.7621203751
+76,2013-03-30 00:16:34,"Magnolia Cafe South, 1920 S Congress Ave, Austin",30.244498251,-97.7518844604
+77,2013-03-30 00:15:59,"Stubb's Bar-B-Q, 801 Red River St, Austin",30.2686176874,-97.7361508854
+78,2013-03-30 00:11:57,"Boondock Saint, 731 Saint Peter St, New Orleans",29.9584058647,-90.0654413354
+79,2013-03-30 00:11:32,"One Eyed Jacks, 615 Toulouse St, New Orleans",29.9568537423,-90.0649167954
+80,2013-03-30 00:11:02,"Blaine Kern's Mardi Gras World, 1380 Port of New Orleans Pl, New Orleans",29.9350212501,-90.0618624687
+81,2013-03-30 00:10:54,"Maison, 508 Frenchmen St, New Orleans",29.9627683691,-90.0577016779
+82,2013-03-30 00:10:45,"Coop's Place, 1109 Decatur St, New Orleans",29.9600628646,-90.0598314103
+83,2013-03-30 00:10:31,"Turtle Bay, 1119 Decatur St, New Orleans",29.9602605762,-90.0598815767
+84,2013-03-30 00:10:20,"French Market, 1008 N Peters St, New Orleans",29.9601648586,-90.0591382082
+85,2013-03-30 00:10:13,"Pat O'Brien's, 718 Saint Peter St, New Orleans",29.9580764334,-90.0654995441
+86,2013-03-30 00:10:02,"Port of Call, 838 Esplanade Ave, New Orleans",29.9645508214,-90.0617605847
+87,2013-03-30 00:09:52,"d.b.a., 618 Frenchmen St, New Orleans",29.9639555794,-90.057849884
+88,2013-03-30 00:09:43,"The Country Club, 634 Louisa Street, New Orleans",29.9629470866,-90.0440311432
+89,2013-03-30 00:09:23,"The Trolley Stop Cafe, 1923 Saint Charles Ave, New Orleans",29.9356694432,-90.0786940476
+90,2013-03-30 00:09:10,"Lafitte's Blacksmith Shop, 941 Bourbon St, New Orleans",29.96103797,-90.0636077574
+91,2013-03-30 00:08:52,"Bennachin Restaurant, 1212 Royal St, New Orleans",29.9622248418,-90.0609077226
+92,2013-03-30 00:08:44,"Mona Lisa's, 1212 Royal St, New Orleans",29.9622926926,-90.060916844
+93,2013-03-30 00:08:34,"Caf du Monde, 800 Decatur St, New Orleans",29.9575059286,-90.0619456172
+94,2013-03-30 00:08:26,"iGlidenola, 506 Conti St, New Orleans",29.954543734,-90.0650217028
+95,2013-03-30 00:08:16,"Snug Harbor Jazz Bistro, 626 Frenchmen St, New Orleans",29.9641404673,-90.0579160139
+96,2013-03-30 00:07:42,"Elizabeth's, 601 Gallier St, New Orleans",29.9615342499,-90.0410217047
+97,2013-03-30 00:07:36,"Ruby Slipper, 2001 Burgundy St, New Orleans",29.96644363,-90.0590105144
+98,2013-03-30 00:07:21,"Audubon Zoo, 6500 Magazine St, New Orleans",29.9236603093,-90.1316089639
+99,2013-03-30 00:07:14,"The Praline Connection, 542 Frenchmen St, New Orleans",29.9634572093,-90.057852169
+100,2013-03-30 00:07:04,"The Camellia Grill, 626 S Carrollton Ave, New Orleans",29.9436815152,-90.1337832212
+101,2013-03-30 00:06:53,"Clover Grill, 900 Bourbon St, New Orleans",29.9603036329,-90.064104913
+102,2013-03-30 00:06:34,"Molly's at the Market, 1107 Decatur St, New Orleans",29.9600289674,-90.0598815767
+103,2013-03-30 00:06:26,"Mimi's in the Marigny, 2601 Royal St, New Orleans",29.9649730971,-90.0513451071
+104,2013-03-30 00:06:17,"The Carousel Bar & Lounge, 214 Royal St, New Orleans",29.9542036502,-90.068091512
+105,2012-09-03 04:49:27,"Espit Chupitos, Passeig de Coln, 8, Barcelona",41.3802300189,2.18101680279
+106,2012-05-18 05:32:30,"Sweet and Vicious, 5 Spring St, New York",40.7212985741,-73.9942542004
+107,2012-05-10 11:49:35,"Screen Door, 2337 E Burnside St, Portland",45.5230527857,-122.641628087
+108,2012-05-06 02:16:53,"Ram's Head Bar, 27500 E Timberline Rd, Timberline Lodge",45.3312087497,-121.711206381
+109,2012-01-30 09:18:26,"Bobby's Burger Palace, 610 Bergen Town Ctr, Paramus",40.9150583819,-74.0592982662
+110,2011-09-25 09:32:10,"Max's on Main, 246 Main St, Beacon",41.506475,-73.97231
+111,2011-09-25 04:29:25,"Max's on Main, 246 Main St, Beacon",41.506475,-73.97231

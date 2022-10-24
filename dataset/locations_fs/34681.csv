@@ -1,0 +1,108 @@
+,time,poi,latitude,longitude
+0,2016-10-29 20:44:57,"Rein's New York Style Deli, 435 Hartford Tpke, Vernon",41.8296013363,-72.4827718735
+1,2016-05-27 04:04:54,"The Lobster Shack, 225 Two Lights Rd, Cape Elizabeth",43.5641078642,-70.1990282371
+2,2015-05-05 04:24:02,"Abercrombie & Fitch, 364 Maine Mall Rd Spc N-161, South Portland",43.6336357437,-70.3344354036
+3,2015-04-29 02:23:25,"Teriyaki Exchange, 171A Ocean St, South Portland",43.6365005528,-70.2526087495
+4,2015-03-24 04:39:36,"Craft Beer Cellar Portland, 111 Commercial St, Portland",43.6568652058,-70.251218326
+5,2014-12-25 00:28:12,"Simply Scandanavian, 469 Stevens Ave, Portland",43.674485,-70.295271
+6,2014-10-31 01:31:37,"Starbucks, 200 D St, Santa Rosa",38.440994,-122.712029
+7,2014-10-26 20:52:34,"Sabieng, 21 Forest Ave, Portland",43.6551289612,-70.263268954
+8,2014-10-26 20:48:55,"Sabieng, 21 Forest Ave, Portland",43.6551289612,-70.263268954
+9,2014-07-26 06:35:12,"Brian Bor, 57 Center St, Portland",43.655248065,-70.2575358024
+10,2014-07-07 01:01:00,"Hyatt Place Portland-Old Port, 433 Fore Street, Portland",43.655929,-70.254854
+11,2014-07-04 01:02:05,"McDonald's, Mass Pike E Travel Plaza, Lee",42.2970262557,-73.2748631394
+12,2014-06-28 01:51:07,"Charlton Service Plaza (Westbound), I-90 Massachusetts Turnpike, Charlton",42.156480331,-71.9642579556
+13,2014-06-28 01:45:30,"Blandford Service Plaza (Westbound), I-90 Massachusetts Turnpike, Blandford",42.1953313516,-72.9324946235
+14,2014-06-12 08:23:54,"Local Buzz, 327 Ocean House Rd, Cape Elizabeth",43.5937629667,-70.2274518667
+15,2014-06-12 08:13:35,"Local Buzz, 327 Ocean House Rd, Cape Elizabeth",43.5937629667,-70.2274518667
+16,2014-06-09 21:43:24,"Kettle Cove Take Out and Dairy Bar, 2 Bowery Beach Rd, Cape Elizabeth",43.569765,-70.22279307
+17,2014-05-11 08:03:48,"Cumberland Farms, 298 Ocean House Rd, Cape Elizabeth",43.5966217,-70.22943
+18,2014-05-10 07:46:52,"Bier Cellar, 299 Forest Ave, Portland",43.6632460242,-70.2716875076
+19,2014-05-01 07:11:58,"IGA, Ocean House Road, Cape Elizabeth",43.5929998183,-70.2273225987
+20,2014-04-06 09:06:22,"Flavor Bistro, 96 Old Courthouse Sq, Santa Rosa",38.440446969,-122.713336945
+21,2014-03-27 02:58:07,"Santa Rosa Transit Mall, 2 Exchange Ave, Santa Rosa",38.4386597084,-122.713673285
+22,2014-03-26 02:00:02,"Acre Coffee, 2365 Midway Dr, Santa Rosa",38.446640018,-122.686997652
+23,2014-02-27 04:04:43,"BoldEverything Interactive, 1208 Massachusetts Ave Ste 4, Cambridge",42.3718783668,-71.1154999914
+24,2014-01-07 04:21:42,"Tartine Bakery, 600 Guerrero St, San Francisco",37.7614213141,-122.42400974
+25,2014-01-07 03:59:14,"Omnivore Books on Food, 3885 Cesar Chavez St, San Francisco",37.7476221464,-122.426775098
+26,2013-09-24 09:24:07,"Siam Fine Thai Cuisine, 2910 Stevens Creek Blvd, San Jose",37.3232017652,-121.946019044
+27,2013-08-23 23:40:05,"Sur La Table, 2323 Magowan Dr, Santa Rosa",38.445515,-122.687155
+28,2013-08-16 12:50:33,"Flavor Bistro, 96 Old Courthouse Sq, Santa Rosa",38.440446969,-122.713336945
+29,2013-05-09 08:09:26,"Abercrombie & Fitch, 2024A Santa Rosa Plz, Santa Rosa",38.4387206533,-122.71623768
+30,2013-04-21 04:55:04,"Friedman's Home Improvement, 4055 Santa Rosa Ave, Santa Rosa",38.3809425989,-122.714125505
+31,2012-10-20 23:26:40,"Santa Rosa Transit Mall, 2 Exchange Ave, Santa Rosa",38.4386597084,-122.713673285
+32,2012-08-11 03:53:45,"Santa Rosa's Farmers Market, 1351 Maple Ave, Santa Rosa",38.4341872385,-122.70034291
+33,2012-05-12 06:36:54,"Irish Landscaping, Inc, 94 Walnut St, Natick",42.2945948041,-71.3483893204
+34,2012-04-19 03:48:18,"Santa Rosa's Farmers Market, 1351 Maple Ave, Santa Rosa",38.4341872385,-122.70034291
+35,2012-04-14 13:49:44,"Yamo, 3406 18th St, San Francisco",37.7618667711,-122.419619199
+36,2012-02-16 05:22:05,"JCPenney, 800 Coddingtown Ctr, Santa Rosa",38.45702596,-122.7314727
+37,2012-01-19 06:12:51,"Coddingtown Mall, 733 Coddingtown Ctr, Santa Rosa",38.4578194084,-122.730211085
+38,2011-12-29 04:30:01,"RSVP, 887 Forest Ave, Portland",43.6782469167,-70.2877487395
+39,2011-12-27 10:25:16,"Hopleaf Bar, 5148 N Clark St, Chicago",41.9758870818,-87.6684522629
+40,2011-12-27 10:13:10,"Flying Saucer Draught Emporium, 328 W Morgan St, Raleigh",35.7799789922,-78.6448798799
+41,2011-12-27 10:10:05,"Epic Brewing Company, 825 S State St, Salt Lake City",40.7511130531,-111.887794943
+42,2011-12-27 09:59:13,"McMenamins Kennedy School, 5736 NE 33rd Ave, Portland",45.564564603,-122.630046227
+43,2011-12-27 09:57:57,"Deschutes Brewery Portland Public House, 210 NW 11th Ave, Portland",45.524542044,-122.681949735
+44,2011-12-27 09:51:11,"Prost! Portland, 4237 N Mississippi Ave, Portland",45.554498,-122.67568545
+45,2011-12-27 08:35:57,"Bay Cities Italian Deli & Bakery, 1517 Lincoln Blvd, Santa Monica",34.017748,-118.48933
+46,2011-11-27 16:02:14,"Golden Gate Bridge, Golden Gate Brg S, San Francisco",37.8153981771,-122.478022402
+47,2011-11-27 15:55:43,"The Publick House, 1648 Beacon St, Brookline",42.3393373884,-71.1366543174
+48,2011-11-26 12:38:59,"7-Eleven, 1633 Beacon St, Brookline",42.3392748435,-71.1354954133
+49,2011-11-20 03:56:16,"Santa Rosa Transit Mall, 2 Exchange Ave, Santa Rosa",38.4386597084,-122.713673285
+50,2011-11-12 06:20:51,"Downeast Beverage, 79 Commercial St, Portland",43.657464,-70.2503672333
+51,2011-11-12 04:34:31,"Pepper Club/Good Egg Caf, 78 Middle St, Portland",43.6596973616,-70.2511121775
+52,2011-10-26 03:51:20,"Taco Bell, 2000 Santa Rosa Ave, Santa Rosa",38.418229,-122.7130278
+53,2011-10-23 05:43:55,"Montclair Women's Cultural Arts Club, 1650 Mountain Blvd, Oakland",37.83271,-122.214115
+54,2011-10-23 05:25:24,"Safeway, 2096 Mountain Blvd, Oakland",37.8253447333,-122.20919175
+55,2011-10-16 06:16:24,"Salvation Army Thrift Store, 1020 3rd St, Santa Rosa",38.442849,-122.706101517
+56,2011-10-15 03:49:49,"BoldEverything Interactive, 1208 Massachusetts Ave Ste 4, Cambridge",42.3718783668,-71.1154999914
+57,2011-10-10 04:44:01,"Haymarket Pizza, 106 Blackstone St., Boston",42.3616191,-71.056422
+58,2011-10-10 04:37:50,"Regina Pizzeria, 11 Thacher St, Boston",42.3653449859,-71.056749725
+59,2011-10-07 12:07:09,"Starbucks, 1655 Beacon St, Brookline",42.3387655091,-71.1366326736
+60,2011-10-03 11:01:33,"Whole Foods Market, 450 Rhode Island St, San Francisco",37.7642987323,-122.402796149
+61,2011-10-03 01:17:37,"Starbucks, 350 Rhode Island St, San Francisco",37.7659208089,-122.403531075
+62,2011-09-22 01:17:28,"Bard Coffee, 185 Middle St, Portland",43.657753,-70.254918
+63,2011-09-18 09:01:23,"R. F. O'Sullivan & Son Pub, 282 Beacon St, Somerville",42.383174,-71.112317
+64,2011-09-18 08:52:47,"Tasty Burger, 1301 Boylston St, Boston",42.3445479707,-71.0982450426
+65,2011-09-18 08:35:29,"Audubon Boston, 838 Beacon St, Boston",42.3474056673,-71.1031343606
+66,2011-09-18 08:29:40,"Mr. Bartley's Burger Cottage, 1246 Massachusetts Ave, Cambridge",42.3725491211,-71.1161614926
+67,2011-09-18 08:28:27,"Flat Patties, 33 Brattle St, Cambridge",42.3734200001,-71.120986
+68,2011-09-18 08:24:01,"Doyle's Cafe, 3484 Washington St, Jamaica Plain",42.3064155494,-71.1073704008
+69,2011-09-18 08:08:48,"Starbucks, 494 8th Ave, New York",40.752633,-73.992905
+70,2011-09-18 06:17:35,"BeerHive Pub & Grill, 128 S Main St, Salt Lake City",40.7664844657,-111.891160175
+71,2011-08-19 21:48:40,"Healdsburg Plaza, Plaza St., Healdsburg",38.6107675013,-122.870106697
+72,2011-08-19 20:35:00,"Starbucks, 1115 Vine St, Healdsburg",38.608390013,-122.872862949
+73,2011-08-19 20:33:26,"Bear Republic Brewery, 345 Healdsburg Ave, Healdsburg",38.6110736326,-122.871354225
+74,2011-08-19 20:20:40,"In-N-Out Burger, 2131 County Center Dr, Santa Rosa",38.4605631615,-122.725320083
+75,2011-08-19 20:19:58,"In-N-Out Burger, 2131 County Center Dr, Santa Rosa",38.4605631615,-122.725320083
+76,2011-08-19 20:15:28,"Gott19s Roadside, 1 Ferry Building Ste 6, San Francisco",37.7960256032,-122.394164801
+77,2011-08-19 20:14:57,"Lagunitas Brewing Company, 1280 N McDowell Blvd, Petaluma",38.2721157761,-122.662396431
+78,2011-08-09 05:53:58,"Green Spark Farmstand, Fowler Rd, Cape Elizabeth",43.5773919933,-70.2457653653
+79,2011-08-09 05:03:52,"Green Spark Farmstand, Fowler Rd, Cape Elizabeth",43.5773919933,-70.2457653653
+80,2011-08-08 04:25:29,"Salty Bay Seafood, 68 Jones Creek Dr, Pine Point",43.543668,-70.338803
+81,2011-08-04 23:47:20,"LeRoux Kitchen, 161 Commercial St, Portland",43.6561790059,-70.2523863553
+82,2011-08-01 08:53:56,"Essex Seafood, 143 Eastern Ave, Essex",42.6296118588,-70.7542227482
+83,2011-07-26 09:16:40,"Bottle Barn, 3331 Industrial Dr Ste A, Santa Rosa",38.4761661025,-122.740560381
+84,2011-07-26 09:11:13,"Russian River Brewing Company, 725 4th St, Santa Rosa",38.4416570502,-122.711663246
+85,2011-07-26 08:52:32,"Los Angeles International Airport (LAX), 1 World Way, Los Angeles",33.9435869099,-118.408083022
+86,2011-07-19 02:51:09,"Petaluma DMV, 715 Southpoint Blvd, Petaluma",38.2571992536,-122.646314244
+87,2011-07-19 02:50:29,"Petaluma DMV, 715 Southpoint Blvd, Petaluma",38.2571992536,-122.646314244
+88,2011-05-12 02:28:10,"Starbucks, 1115 Vine St, Healdsburg",38.608390013,-122.872862949
+89,2011-05-05 03:24:08,"Aroma Roasters, 95 5th St, Santa Rosa",38.43808142,-122.721381767
+90,2011-04-18 05:28:17,"Cost Plus World Market, 2685 Santa Rosa Ave, Santa Rosa",38.4123887985,-122.71488104
+91,2011-03-30 11:16:40,"Whole Foods Market, 1181 Yulupa Ave, Santa Rosa",38.4423822612,-122.674394166
+92,2011-03-23 04:57:53,"Starbucks, 1655 Beacon St, Brookline",42.3387655091,-71.1366326736
+93,2011-03-21 09:12:05,"Social Kitchen & Brewery, 1326 9th Ave, San Francisco",37.7635934583,-122.46615973
+94,2011-01-08 04:07:22,"Ace Hardware, 274 Saint John St, Portland",43.6526221168,-70.279717649
+95,2010-12-08 03:30:15,"Starbucks, 15 Harvard St, Brookline",42.333719,-71.118719
+96,2010-12-05 01:52:28,"Gate 23, Terminal 1, San Francisco",37.6133135481,-122.38494873
+97,2010-11-03 21:37:14,"Kupel's Bakery, 421 Harvard St, Brookline",42.3455948811,-71.1272617841
+98,2010-10-18 09:19:38,"Chinatown Gate, Surface Rd, Boston",42.3511350424,-71.0595005687
+99,2010-10-10 21:36:20,"Chicago Style Hot Dogs, Alley next to Russian River Brewing, Santa Rosa",38.4416906633,-122.71181345
+100,2010-10-08 03:09:45,"The Publick House, 1648 Beacon St, Brookline",42.3393373884,-71.1366543174
+101,2010-10-07 10:58:11,"Firewood Grill, Gate A1, International Terminal A, San Francisco",37.6137463247,-122.388803842
+102,2010-10-06 03:20:29,"Bottle Barn, 3331 Industrial Dr Ste A, Santa Rosa",38.4761661025,-122.740560381
+103,2010-08-27 01:25:37,"Coolidge Corner Farmers' Market, 26 Centre Street, Brookline",42.34227,-71.12386741
+104,2010-01-14 08:33:33,"Richie's, 1628 Beacon St, Brookline",42.339697,-71.135732
+105,2009-10-20 03:49:58,"Michael's Deli, 256 Harvard St, Brookline",42.3417025921,-71.1213254929
+106,2009-10-12 04:34:27,"Scratch Baking Co., 416 Preble St, South Portland",43.6394054788,-70.23079598

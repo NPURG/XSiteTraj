@@ -1,0 +1,89 @@
+,time,poi,latitude,longitude
+0,2014-12-23 04:03:53,"Darwin Cafe, 212 Ritch St, San Francisco",37.780679,-122.396086
+1,2014-12-21 06:02:17,"Skool Restaurant, 1725 Alameda St, San Francisco",37.7686602368,-122.402262817
+2,2014-09-24 23:17:53,"Fitness SF, 1001 Brannan St, San Francisco",37.769598417,-122.406820666
+3,2014-09-12 03:43:23,"Fitness SF, 1001 Brannan St, San Francisco",37.769598417,-122.406820666
+4,2014-09-12 03:41:15,"Fitness SF, 1001 Brannan St, San Francisco",37.769598417,-122.406820666
+5,2014-09-12 03:40:14,"Chute, 480 2nd St, San Francisco",37.7834348495,-122.394239902
+6,2014-09-07 04:50:40,"Ladies & Gents, 629 Union St, San Francisco",37.8003932384,-122.409818561
+7,2014-09-07 04:46:02,"Ladies & Gents, 629 Union St, San Francisco",37.8003932384,-122.409818561
+8,2014-08-28 13:37:34,"Rocco's Cafe, 1131 Folsom St, San Francisco",37.776087,-122.408685
+9,2014-08-28 13:06:57,"Rocco's Cafe, 1131 Folsom St, San Francisco",37.776087,-122.408685
+10,2014-06-20 00:25:55,"Dogtown Coffee, 2003 Main St, Santa Monica",34.0071172766,-118.488664627
+11,2014-06-18 22:41:57,"Dogtown Coffee, 2003 Main St, Santa Monica",34.0071172766,-118.488664627
+12,2014-05-19 23:06:17,"DG717, 717 Market St Ste 100, San Francisco",37.7868960791,-122.403833748
+13,2014-04-11 01:59:15,"Tongal Santa Monica, 1918 Main Street, Los Angeles",34.0074132088,-118.48935297
+14,2014-04-10 10:32:25,"Tongal Santa Monica, 1918 Main Street, Los Angeles",34.0074132088,-118.48935297
+15,2014-03-26 23:14:00,"Tongal Santa Monica, 1918 Main Street, Los Angeles",34.0074132088,-118.48935297
+16,2014-03-26 04:09:40,"Dogtown Coffee, 2003 Main St, Santa Monica",34.0071172766,-118.488664627
+17,2014-03-21 21:32:31,"Oakland International Airport (OAK), 1 Airport Dr, Oakland",37.7115274308,-122.21255635
+18,2014-03-07 02:15:16,"Dallas Fort Worth International Airport (DFW), 2400 Aviation Dr, DFW Airport",32.8973062801,-97.0386257339
+19,2014-02-02 07:05:59,"Betabrand Intergalactic Headquarters, 780 Valencia St, San Francisco",37.7605476429,-122.421654432
+20,2014-01-19 03:29:43,"Lucky Penny, 127 Anacapa St, Santa Barbara",34.4146352604,-119.690330344
+21,2014-01-11 00:57:39,"ClearSlide HQ, 525 Market Street, San Francisco",37.7906419408,-122.399282455
+22,2013-12-29 02:34:19,"Exploratorium, Pier 15, San Francisco",37.8012117413,-122.398418361
+23,2013-12-22 04:11:04,"Grasshopper Salon, 28 South Park Ave, San Francisco",37.782188,-122.393642
+24,2013-12-07 02:26:56,"Jack's Shoe Repair, 53 Sutter St, San Francisco",37.7900650286,-122.401543721
+25,2013-12-06 04:00:06,"Tony19s Pizza Napoletana, 1570 Stockton St, San Francisco",37.800328012,-122.409040332
+26,2013-12-06 03:56:36,"SAP Palo Alto - Executive Briefing Center, Southern Cross, 3410 Hillview Ave, Palo Alto",37.3987516266,-122.146310792
+27,2013-11-27 05:15:22,"Casa del Sol Machupicchu - Boutiquel Hotel, Av. Imperio de los Incas N 608, Aguas Calientes",-13.1552954175,-72.5253251195
+28,2013-11-23 16:01:32,"Casa Andina Private Collection Miraflores, Av. La Paz 463, Miraflores",-12.1221173548,-77.0266056061
+29,2013-11-13 00:02:49,"ClearSlide HQ, 525 Market Street, San Francisco",37.7906419408,-122.399282455
+30,2013-11-05 00:21:23,"ClearSlide HQ, 525 Market Street, San Francisco",37.7906419408,-122.399282455
+31,2013-11-04 23:51:31,"ClearSlide HQ, 525 Market Street, San Francisco",37.7906419408,-122.399282455
+32,2013-10-27 04:38:49,"Grasshopper Salon, 28 South Park Ave, San Francisco",37.782188,-122.393642
+33,2013-10-21 02:08:16,"Sightglass Coffee, 270 7th St, San Francisco",37.7770249037,-122.408529808
+34,2013-10-20 06:42:18,"McNear's Saloon & Dining House, 23 Petaluma Blvd N, Petaluma",38.2334572457,-122.640078125
+35,2013-09-26 10:20:56,"Hogan's Goat Tavern, 2289 3rd St, San Francisco",37.760826,-122.388602
+36,2013-09-17 00:41:47,"Mission Bay Conference Center, 1675 Owens St, San Francisco",37.7679414637,-122.392834425
+37,2013-09-01 03:17:37,"Grasshopper Salon, 28 South Park Ave, San Francisco",37.782188,-122.393642
+38,2013-09-01 03:15:30,"Grasshopper Salon, 28 South Park Ave, San Francisco",37.782188,-122.393642
+39,2013-08-19 20:46:16,"San Francisco International Airport (SFO), N McDonnell Rd, San Francisco",37.6160022626,-122.385954722
+40,2013-07-14 02:11:29,"Ace Hotel & Swim Club, 701 E Palm Canyon Dr, Palm Springs",33.80073098,-116.539866341
+41,2013-07-14 02:10:51,"Ace Hotel & Swim Club, 701 E Palm Canyon Dr, Palm Springs",33.80073098,-116.539866341
+42,2013-07-13 03:27:02,"San Francisco International Airport (SFO), N McDonnell Rd, San Francisco",37.6160022626,-122.385954722
+43,2013-07-13 03:16:42,"San Francisco International Airport (SFO), N McDonnell Rd, San Francisco",37.6160022626,-122.385954722
+44,2013-07-13 02:51:54,"San Francisco International Airport (SFO), N McDonnell Rd, San Francisco",37.6160022626,-122.385954722
+45,2013-06-30 19:43:38,"Chicago O'Hare International Airport (ORD), 10000 W Ohare Ave, Chicago",41.97151,-87.89537
+46,2013-06-28 18:56:08,"W Chicago - City Center, 172 W Adams St, Chicago",41.8796349716,-87.6333511021
+47,2013-06-26 10:23:08,"Jones, 620 Jones St, San Francisco",37.7869377399,-122.41275553
+48,2013-06-24 22:48:02,"ClearSlide HQ, 525 Market Street, San Francisco",37.7906419408,-122.399282455
+49,2013-05-28 23:48:16,"ClearSlide HQ, 525 Market Street, San Francisco",37.7906419408,-122.399282455
+50,2013-03-28 10:09:36,"Skool Restaurant, 1725 Alameda St, San Francisco",37.7686602368,-122.402262817
+51,2013-03-27 23:53:02,"ClearSlide HQ, 525 Market Street, San Francisco",37.7906419408,-122.399282455
+52,2013-03-26 10:49:03,"Holy Grill, 659 Townsend St, San Francisco",37.770811,-122.403034
+53,2013-03-26 10:48:09,"Holy Grill, 659 Townsend St, San Francisco",37.770811,-122.403034
+54,2013-03-26 10:42:03,"Holy Grill, 659 Townsend St, San Francisco",37.770811,-122.403034
+55,2013-03-09 00:03:28,"Terminal 1, SFO Airport, San Francisco",37.6150087954,-122.385130399
+56,2013-03-07 04:57:11,"ClearSlide HQ, 525 Market Street, San Francisco",37.7906419408,-122.399282455
+57,2013-03-03 03:15:30,"Grasshopper Salon, 28 South Park Ave, San Francisco",37.782188,-122.393642
+58,2013-03-02 10:00:28,"ClearSlide HQ, 525 Market Street, San Francisco",37.7906419408,-122.399282455
+59,2013-02-18 05:19:42,"University of California, Santa Barbara (UCSB), UC University Rd, Santa Barbara",34.4132721019,-119.848869733
+60,2013-02-18 05:17:34,"Santa Barbara Municipal Airport (SBA), Santa Barbara Municipal Airport, Santa Barbara",34.424968235,-119.836244775
+61,2013-02-15 22:20:17,"Compass Books, Terminal 3, San Francisco",37.6183098348,-122.387027991
+62,2013-01-31 10:59:56,"The Hotel Utah Saloon, 500 4th St, San Francisco",37.7794700718,-122.398169435
+63,2013-01-29 23:24:59,"ClearSlide HQ, 525 Market Street, San Francisco",37.7906419408,-122.399282455
+64,2013-01-19 11:43:16,"Holy Grill, 659 Townsend St, San Francisco",37.770811,-122.403034
+65,2013-01-11 08:11:12,"ClearSlide HQ, 525 Market Street, San Francisco",37.7906419408,-122.399282455
+66,2013-01-09 09:23:12,"ClearSlide HQ, 525 Market Street, San Francisco",37.7906419408,-122.399282455
+67,2012-12-05 02:09:37,"ClearSlide HQ, 525 Market Street, San Francisco",37.7906419408,-122.399282455
+68,2012-10-14 07:25:57,"Bluxome Street Winery, 53 Bluxome St, San Francisco",37.776677,-122.396715
+69,2012-10-12 10:57:54,"Holy Grill, 659 Townsend St, San Francisco",37.770811,-122.403034
+70,2012-10-09 04:27:07,"ClearSlide HQ, 525 Market Street, San Francisco",37.7906419408,-122.399282455
+71,2012-10-05 10:30:31,"Skool Restaurant, 1725 Alameda St, San Francisco",37.7686602368,-122.402262817
+72,2012-09-25 10:10:14,"Fat Angel Food & Libation, 1740 Ofarrell St, San Francisco",37.78317231,-122.433099
+73,2012-09-24 03:37:14,"The Creamery, 685 4th St, San Francisco",37.7773726801,-122.395154613
+74,2012-09-22 00:42:49,"Caffe Centro, 102 South Park, San Francisco",37.7816338068,-122.394201525
+75,2012-09-17 04:20:20,"The Creamery, 685 4th St, San Francisco",37.7773726801,-122.395154613
+76,2012-07-08 05:52:13,"Grasshopper Salon, 28 South Park Ave, San Francisco",37.782188,-122.393642
+77,2012-06-30 06:19:46,"Legends of Aviation Bar & Grill, 4100 E Donald Douglas Dr, Long Beach",33.81836,-118.144805
+78,2012-05-28 10:51:34,"Suppenkche, 525 Laguna St, San Francisco",37.7763457776,-122.426190376
+79,2012-05-24 09:59:55,"Mars Bar & Restaurant, 798 Brannan St, San Francisco",37.7732186533,-122.403217256
+80,2012-05-18 00:42:00,"Buddy Media San Francisco, 501 2nd St Ste 350, San Francisco",37.7830842712,-122.39326823
+81,2012-05-09 03:35:18,"Buddy Media San Francisco, 501 2nd St Ste 350, San Francisco",37.7830842712,-122.39326823
+82,2012-05-03 23:04:16,"Starbucks, 689 Townsend St, San Francisco",37.7703582929,-122.403590366
+83,2012-04-29 03:29:36,"Eugene Airport (EUG), 28801 Douglas Dr, Eugene",44.119315755,-123.213059073
+84,2012-04-06 10:33:31,"The Standard, Hollywood, 8300 W Sunset Blvd, Los Angeles",34.0963002815,-118.370684981
+85,2012-04-05 23:03:06,"Buddy Media San Francisco, 501 2nd St Ste 350, San Francisco",37.7830842712,-122.39326823
+86,2012-04-03 23:51:58,"Caffe Centro, 102 South Park, San Francisco",37.7816338068,-122.394201525
+87,2012-03-24 07:59:23,"Parigot, 155 Grand St, New York",40.7200973358,-73.9990862172

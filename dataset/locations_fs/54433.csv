@@ -1,0 +1,82 @@
+,time,poi,latitude,longitude
+0,2016-01-04 00:04:50,"Monkey Bar, 60 E 54th St, New York",40.760182804,-73.9730710859
+1,2016-01-04 00:04:21,"Sarge's Delicatessen, 548 3rd Ave, New York",40.7472726493,-73.9770369997
+2,2016-01-04 00:03:19,"Wild Wing Cafe, 72 Pope Ave, Hilton Head Island",32.1453842446,-80.7547981373
+3,2016-01-04 00:02:33,"Charbar Co, 33 Office Park Rd Ste 213, Hilton Head Island",32.1520046985,-80.7669356498
+4,2016-01-04 00:01:38,"Mellow Mushroom Pizza, 33 Office Park Rd, Hilton Head Island",32.153790247,-80.7674713249
+5,2016-01-04 00:00:51,"Pinckney Island National Wildlife Refuge, Pinckney Wildlife Refuge, Hilton Head Island",32.2337201725,-80.7791849486
+6,2014-12-30 00:58:06,"Vine, Coligny Plaza, Hilton Head Island",32.143604651,-80.7496460427
+7,2014-12-30 00:57:49,"Station 300, 25 Innovation Dr, Bluffton",32.2705755245,-80.9188970323
+8,2014-12-30 00:57:18,"Kurama Japanese Seafood & Steakhouse, 9 Palmetto Bay Rd, Hilton Head Island",32.1568245546,-80.7643762637
+9,2014-12-30 00:54:07,"Adventure Cove, 18 Folly Field Rd, Hilton Head Island",32.2020172277,-80.6984590635
+10,2014-12-30 00:53:27,"Adventure Cove, 18 Folly Field Rd, Hilton Head Island",32.2020172277,-80.6984590635
+11,2014-12-30 00:52:58,"Adventure Cove, 18 Folly Field Rd, Hilton Head Island",32.2020172277,-80.6984590635
+12,2014-12-30 00:52:18,"Five Guys, 11 Palmetto Bay Rd #106A, Hilton Head Island",32.1573257239,-80.7650526421
+13,2014-12-30 00:51:49,"Harbour Town Playground, Harbour Town, Hilton Head Island",32.1393217154,-80.8103817701
+14,2014-12-30 00:51:07,"Lucky Rooster Kitchen + Bar, 841 William Hilton Pkwy, Hilton Head Island",32.1734418904,-80.7329427736
+15,2014-12-30 00:47:24,"The Sandbox, 18 Pope Ave, Hilton Head Island",32.151051,-80.760813
+16,2014-12-30 00:41:59,"Wild Wing Cafe, 72 Pope Ave, Hilton Head Island",32.1453842446,-80.7547981373
+17,2014-10-18 20:18:26,"The Olive Tap, 701 S Rosemary Ave, West Palm Beach",26.708339,-80.057095
+18,2014-10-18 20:15:36,"Rocco's Tacos and Tequila Bar, 5090 Pga Blvd, Palm Beach Gardens",26.8381606381,-80.11464423
+19,2014-10-18 20:11:41,"buccan, 350 S County Rd, Palm Beach",26.7033321028,-80.036712244
+20,2014-10-18 20:07:28,"Palm Beach Outlets, 1751 Palm Beach Lakes Blvd, West Palm Beach",26.7248135941,-80.0877328082
+21,2014-10-16 23:04:34,"Mellow Mushroom Pizza, 700 S Rosemary Ave, West Palm Beach",26.7065802963,-80.0568687916
+22,2014-10-16 23:02:48,"Brio Tuscan Grille, 3101 Pga Blvd, Palm Beach Gardens",26.8477118227,-80.086734513
+23,2014-10-16 22:54:28,"Four Seasons Resort Palm Beach, 2800 S Ocean Blvd, Palm Beach",26.6186681409,-80.0376105309
+24,2014-10-16 22:47:11,"Marriott Ocean Pointe - Sailfish Pool, 71 S Ocean Ave, Palm Beach Shores",26.7774413932,-80.032552878
+25,2014-10-16 08:27:42,"Tropicana Diner, 537 Morris Ave, Elizabeth",40.6735460508,-74.2236386571
+26,2014-10-16 08:26:03,"Entrenous Bistro, 123 US 1 in the Village Shoppes, North Palm Beach",26.8048080274,-80.0564364905
+27,2014-08-11 02:38:41,"Salvation Taco, 145 E 39th St, New York",40.7494165815,-73.9766524646
+28,2014-08-11 02:37:22,"Sticky's Finger Joint, 31 W 8th St, New York",40.7328198447,-73.9981126785
+29,2014-08-11 02:36:21,"Townhouse Cafe, 696 2nd Ave, New York",40.747091232,-73.9742247103
+30,2014-08-11 02:33:50,"Chipotle Mexican Grill, 1497 3rd Ave, New York",40.7778713493,-73.9547613949
+31,2014-08-11 02:32:51,"Fairway Market, 550 2nd Ave, New York",40.7424800133,-73.977513363
+32,2014-08-11 02:29:36,"Tudor City Park North, Tudor City Pl, New York",40.7492944204,-73.9704997985
+33,2014-08-11 02:28:15,"Seymour Torem Polishers, 75 W 47th St, New York",40.75799,-73.981946
+34,2014-08-11 02:26:00,"Union Square - Evelyn's Playground, Union Square North, New York",40.7363283634,-73.9901733703
+35,2014-08-11 02:24:45,"Union Square Greenmarket, 1 Union Sq W, New York",40.7365269713,-73.9905595779
+36,2014-08-11 02:21:24,"Republic, 37 Union Sq W, New York",40.7369226407,-73.9904378541
+37,2014-08-11 02:18:52,"Infinity Barber Shop, 716 2nd Ave, New York",40.7483940125,-73.9733200073
+38,2014-04-08 01:46:38,"The Health Nuts, 835 2nd Ave, New York",40.7515891127,-73.9711645246
+39,2013-10-20 18:30:20,"The Library at The Public, 425 Lafayette St, New York",40.7292950552,-73.9919357074
+40,2013-09-01 05:11:03,"Kajits, 125 E 39th St, New York",40.7496303332,-73.977663517
+41,2013-09-01 05:09:01,"Delectica, 564 3rd Ave, New York",40.7480813335,-73.9764286304
+42,2013-09-01 05:06:43,"Charbar Co, 33 Office Park Rd Ste 213, Hilton Head Island",32.1520046985,-80.7669356498
+43,2013-09-01 05:05:04,"Hilton Head Diner, 6 Marina Side Dr, Hilton Head Island",32.175971151,-80.7308262027
+44,2013-09-01 05:00:51,"J.Crew Factory, 1414 Fording Island Rd Ste 360, Bluffton",32.2465445506,-80.8329753962
+45,2013-09-01 04:57:32,"Lowcountry Produce, 71 Lighthouse Rd, Hilton Head Island",32.1314891941,-80.8017092766
+46,2013-07-28 19:51:03,"Hendriks, 557 3rd Ave, New York",40.7476016113,-73.9767902086
+47,2013-04-17 21:55:59,"Gymboree Play & Music Center, 235 E 38th St, New York",40.7477714104,-73.9754644185
+48,2013-01-01 23:39:05,"AMC Empire 25, 234 W 42nd St, New York",40.7569002008,-73.9891982426
+49,2012-12-30 01:37:52,"Just Salad, 600 3rd Ave, New York",40.7493444116,-73.9756308601
+50,2012-12-30 01:36:48,"Just Salad, 600 3rd Ave, New York",40.7493444116,-73.9756308601
+51,2012-12-29 22:33:19,"Sushi of Gari 46, 347 W 46th St, New York",40.7606544362,-73.9895827526
+52,2012-12-16 06:29:48,"El Parador, 325 E 34th St, New York",40.7444509,-73.974867
+53,2012-11-30 08:09:43,"Piggy's Bar BQ, 327 S Main St, O Fallon",38.807142353,-90.700378418
+54,2012-11-30 08:07:29,"Piggy's Bar BQ, 327 S Main St, O Fallon",38.807142353,-90.700378418
+55,2012-11-24 22:58:48,"Bethesda Bagels, 4819 Bethesda Ave, Bethesda",38.9810588393,-77.096632719
+56,2012-11-24 22:53:52,"Quartermaine Coffee, 4817 Bethesda Ave, Bethesda",38.9810713495,-77.0965200663
+57,2012-10-29 09:46:47,"Westfield Diner, 309 North Ave E, Westfield",40.6509611457,-74.3429930484
+58,2012-09-16 03:03:36,"16 Handles, 1569 2nd Ave, New York",40.7750534052,-73.9541164041
+59,2012-09-16 03:00:56,"16 Handles, 1569 2nd Ave, New York",40.7750534052,-73.9541164041
+60,2012-09-10 08:58:23,"Aki Sushi & Grill, 720 2nd Ave, New York",40.7477669033,-73.9739320003
+61,2012-09-09 02:54:01,"Magnifique Hair Salon, 553 3rd Ave, New York",40.747403,-73.976923
+62,2012-09-08 23:24:50,"Mrs. Wilkes Dining Room, 107 W Jones St, Savannah",32.0727652282,-81.0958881476
+63,2012-09-08 23:22:55,"Sorrel Weed House - Haunted Ghost Tours in Savannah, 6 W Harris St, Savannah",32.0741701736,-81.0938027594
+64,2012-09-08 23:22:02,"Gallery Espresso, 234 Bull St, Savannah",32.0754298425,-81.0932477242
+65,2012-09-08 23:20:54,"Truffles Cafe, 71 Lighthouse Rd Unit 411, Hilton Head Island",32.1312995573,-80.8015090227
+66,2012-09-08 23:20:14,"HomeGoods, 435 William Hilton Pkwy Ste A, Hilton Head Island",32.2167814222,-80.7039555651
+67,2012-09-08 23:19:27,"Gillan's, 841 William Hilton Pkwy, Hilton Head Island",32.173582,-80.733076
+68,2012-09-08 23:17:32,"Catch 22, 37 New Orleans Rd, Hilton Head Island",32.15569925,-80.7570058107
+69,2012-07-15 19:34:23,"La Delice Pastry Shop, 372 3rd Ave, New York",40.7413078244,-73.9813012702
+70,2012-06-09 01:47:34,"Magnifique Hair Salon, 553 3rd Ave, New York",40.747403,-73.976923
+71,2012-06-09 01:42:41,"St. Vartan Park, 2nd Ave & E 36th St, New York",40.7449240498,-73.973507283
+72,2012-06-07 00:18:38,"The Ritz-Carlton, San Juan, 6961 Ave Gobernadores, Carolina",18.4430513113,-66.0134269067
+73,2012-06-07 00:16:18,"The Ritz-Carlton, San Juan, 6961 Ave Gobernadores, Carolina",18.4430513113,-66.0134269067
+74,2012-06-07 00:10:01,"Marmalade Restaurant And Wine Bar, 317 Fortaleza St., San Juan",18.465580049,-66.113330939
+75,2012-05-12 01:04:04,"Buffalo Wild Wings Grill & Bar, 44 Westchester Ave, Port Chester",41.000028,-73.662932
+76,2012-01-30 05:45:20,"Tennessee Tavern, 1 Terminal Dr, Nashville",36.1322945109,-86.670820713
+77,2012-01-30 05:44:26,"Tennessee Tavern, 1 Terminal Dr, Nashville",36.1322945109,-86.670820713
+78,2012-01-29 23:38:09,"National Corvette Museum, 350 Corvette Dr, Bowling Green",37.0040075455,-86.3743929621
+79,2011-11-07 04:37:44,"Forty Carrots Restaurant, 1000 3rd Ave, New York",40.7619997484,-73.9673101902
+80,2011-11-05 22:09:05,"E-Mo Kimbap, 2 W 32nd St, New York",40.7474553806,-73.9859958758

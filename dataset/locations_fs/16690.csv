@@ -1,0 +1,78 @@
+,time,poi,latitude,longitude
+0,2016-05-27 22:51:35,"Mt. Kachi Kachi Ropeway, 45dd1163-1, ccebb3e3563a",35.5040095512,138.772051114
+1,2016-05-27 22:51:07,"Bar Rocking chair edc3adf3b0c1a7a2, a1783a1acf49fa0b8b583a434-2, Shimogy4d",35.0009495009,135.766387618
+2,2016-05-27 22:50:30,"La Locanda/The Bar, 28dd8c61274b54, acfd02",35.013765449,135.771007326
+3,2016-05-27 22:49:53,"c9ddf897, 5e305edd3a2-2, 71ac",35.6960554642,139.758002891
+4,2016-05-27 22:49:43,"Jimbocho Den, 5e305edd3a2-2-32, 71ac",35.6964145114,139.757079545
+5,2016-05-27 22:48:53,"Kin no Torikara, 8730dd3a25-3, 71ac",35.6602843069,139.699204709
+6,2016-05-27 22:48:31,"bills Shichirigahama, 03ccac5c1-1-1, 8c0902",35.3054683239,139.510193467
+7,2016-05-27 22:48:08,"Gontran Cherrier, 0b371-14-11, 0b373a",35.6596499046,139.702599049
+8,2016-01-13 10:58:27,"High Horse Salon, 103 Havemeyer St, Brooklyn",40.7132864424,-73.9564719036
+9,2016-01-07 06:05:37,"Fairmount Bagel, 74 Fairmount O, Montral",45.5228617667,-73.5951760655
+10,2016-01-07 06:05:25,"Bouillon Bilk, 1595, boul. Saint-Laurent, Montral",45.5109174892,-73.566120272
+11,2016-01-07 06:05:09,"Mchant Boeuf Bar & Brasserie, 124 rue Saint-Paul Ouest, Montral",45.5038418674,-73.5546669832
+12,2016-01-07 06:04:52,"Le LAB Comptoir  Cocktails, 1351 rue Rachel Est, Montral",45.5280428205,-73.5720920563
+13,2016-01-07 06:04:26,"Eggspectation, 12 Notre-Dame Est, Montral",45.5064811707,-73.5555114746
+14,2016-01-07 06:04:16,"Comptoir 21, 21 rue Saint-Viateur Ouest, Montral",45.5254872564,-73.5992145538
+15,2016-01-07 06:04:00,"Tapas 24, 420, rue Notre-Dame Ouest, Montral",45.5015300488,-73.5593838216
+16,2016-01-07 06:03:29,"Montral Int'l Airport Pierre-Elliott-Trudeau (YUL), 975 rue Romo-Vachon Nord, Dorval",45.458481772,-73.7506079519
+17,2015-09-08 06:56:19,"Tjruhsi, Suurtangi, safjrur",66.0681992608,-23.1266895418
+18,2015-01-28 22:32:53,"El Colmado, 600 11th Ave, New York",40.7623410531,-73.9971041679
+19,2015-01-28 22:32:29,"Terminal 5, 610 W 56th St, New York",40.7695700075,-73.9929055755
+20,2015-01-28 22:31:47,"Pearl's Social & Billy Club, 40 Saint Nicholas Ave, Brooklyn",40.7070817339,-73.9213290811
+21,2015-01-28 22:31:12,"Frankies Spuntino 457, 457 Court St, Brooklyn",40.6773854748,-73.9981046319
+22,2015-01-28 22:30:41,"Fette Sa, 354 Metropolitan Ave, Brooklyn",40.71411847,-73.9563989639
+23,2015-01-28 22:28:15,"Washington Commons, 748 Washington Ave, Brooklyn",40.6755177399,-73.9633252662
+24,2015-01-28 22:26:27,"Toby's Public House, 686 6th Ave, Brooklyn",40.6601430573,-73.9912642574
+25,2015-01-28 22:24:23,"Donna, 27 Broadway, Brooklyn",40.710883715,-73.9676988929
+26,2015-01-28 22:23:59,"The Smith, 55 3rd Ave, New York",40.7311558721,-73.9887276473
+27,2015-01-28 22:21:27,"Reynard, 80 Wythe Ave, Brooklyn",40.7219005064,-73.9579975605
+28,2014-10-11 21:27:34,"Kura, 130 Saint Marks Pl, New York",40.7268238308,-73.9834362395
+29,2014-10-11 21:26:34,"Urban Cowboy Bed & Breakfast, 111 Powers St, Brooklyn",40.712422,-73.946549
+30,2014-10-11 21:26:14,"10 devoe, 10 Devoe St, Brooklyn, NY 11211, Brooklyn",40.713065997,-73.9511796096
+31,2014-10-11 21:25:22,"Hanjan, 36 W 26th St, New York",40.7444780945,-73.9905755883
+32,2014-10-11 21:24:08,"Suzume, 545 Lorimer St, Brooklyn",40.713378632,-73.9492681489
+33,2014-10-11 21:23:13,"Ivan Ramen, 25 Clinton St, New York",40.7205528808,-73.9845094544
+34,2014-10-11 21:22:29,"M Noodle Shop, 549 Metropolitan Ave, Brooklyn",40.7140076056,-73.9506859609
+35,2014-10-11 21:21:55,"Casa Mono, 52 Irving Pl, New York",40.7359213254,-73.9872041345
+36,2014-10-11 21:20:35,"Caf Grumpy, 383 7th Ave, Brooklyn",40.6652424386,-73.9829313755
+37,2014-10-11 21:19:12,"Josephine Shaw Lowell Memorial Fountain - Bryant Park, Bryant Park, New York",40.754587305,-73.9841077169
+38,2014-10-11 21:18:30,"The Grand, 647 Grand St, Brooklyn",40.7114193256,-73.946415273
+39,2014-10-11 21:17:35,"Ten Degrees, 121 Saint Marks Pl, New York",40.726876,-73.983532
+40,2014-10-11 21:16:50,"Die Stammkneipe / Der Schwarze Klner, 710 Fulton St, Brooklyn",40.6859500626,-73.9735130224
+41,2014-10-11 21:15:34,"Culture Espresso, 72 W 38th St, New York",40.7520503522,-73.9856752753
+42,2014-08-12 04:53:25,"MiniRestaurant, Gumpendorferstr. 95, Wien",48.1923863244,16.3490716738
+43,2014-08-12 03:57:53,"Thai Isaan, Gumpendorferstrasse 91, Wien",48.192989,16.349061
+44,2014-08-12 03:54:32,"MiniRestaurant, Gumpendorferstr. 95, Wien",48.1923863244,16.3490716738
+45,2014-06-17 21:21:56,"Tequila Bookworm, 512 Queen St W, Toronto",43.647746,-79.401582
+46,2014-04-08 04:58:01,"Mesa Coyoacn, 372 Graham Ave, Brooklyn",40.715476488,-73.9446243114
+47,2014-04-08 04:57:44,"Matt Torrey's, 46 Bushwick Ave, Brooklyn",40.7134219934,-73.9413982424
+48,2014-04-05 23:07:27,"Melville Hall Airport, Melville Hall, Marigot",15.5454254422,-61.3004279137
+49,2014-02-14 10:11:37,"Il Passatore, 14 Bushwick Ave, Brooklyn",40.7144466495,-73.9419091359
+50,2014-01-10 09:38:04,"The Grand, 647 Grand St, Brooklyn",40.7114193256,-73.946415273
+51,2013-10-30 01:31:58,"Matt Torrey's, 46 Bushwick Ave, Brooklyn",40.7134219934,-73.9413982424
+52,2013-10-30 01:27:10,"Pisa, Lkjargata 6b, Reykjavk",64.1465472386,-21.9378304482
+53,2013-04-03 02:27:53,"Taqueria Cancn, 2288 Mission St, San Francisco",37.760452,-122.419412633
+54,2013-03-14 23:20:33,"Salt Lick Bar-B-Que, 3600 Presidential Blvd, Austin",30.2021136791,-97.6674699783
+55,2013-02-24 13:29:31,"Matt Torrey's, 46 Bushwick Ave, Brooklyn",40.7134219934,-73.9413982424
+56,2012-04-07 06:36:52,"Beauty and Youth Spa, 17 W 8th St, New York",40.7331432681,-73.9986672942
+57,2011-11-30 08:12:19,"Momofuku Milk Bar, 251 E 13th St, New York",40.7317954706,-73.9856725931
+58,2011-11-30 08:11:46,"Ontario, 559 Grand St, Brooklyn",40.7111878205,-73.949233708
+59,2011-11-21 04:34:26,"Crif Dogs, 555 Driggs Ave, Brooklyn",40.717006,-73.956565
+60,2010-12-02 05:20:45,"Lomography Gallery Store New York, 41 W 8th St, New York",40.733123,-73.9984249694
+61,2010-09-25 11:21:23,"Caf Drechsler, Girardigasse 1, Wien",48.1983553034,16.3624888659
+62,2010-09-25 04:58:32,"Andi's Love Den, Hannovergasse 1-3, Wien",48.22924908,16.36971774
+63,2010-09-24 05:37:43,"Andi's Love Den, Hannovergasse 1-3, Wien",48.22924908,16.36971774
+64,2010-09-24 04:29:27,"Andi's Love Den, Hannovergasse 1-3, Wien",48.22924908,16.36971774
+65,2010-09-24 03:56:39,"Andi's Love Den, Hannovergasse 1-3, Wien",48.22924908,16.36971774
+66,2010-09-22 08:00:32,"Hotel am Brillantengrund, Bandgasse 4, Wien",48.2008452,16.3461093
+67,2010-09-16 11:35:33,"Ellingson Mineral, owner of the Gibson, New York",40.7933789492,-73.9516836405
+68,2010-05-11 12:20:30,"Momofuku Ssm Bar, 207 2nd Ave, New York",40.7317183252,-73.9855539679
+69,2010-04-05 12:00:21,"Bushwick Country Club, 618 Grand St, Brooklyn",40.7112508415,-73.9474485126
+70,2010-04-05 11:59:18,"Redd's Tavern, 511 Grand St, Brooklyn",40.7110736869,-73.9507031812
+71,2010-04-05 11:56:23,"El Diablo Tacos, 484 Union Ave, Brooklyn",40.7186039059,-73.9485621091
+72,2010-03-22 11:33:45,"Cholula Deli, 1481 Myrtle Ave, Brooklyn",40.6993873588,-73.9164374463
+73,2010-03-11 07:07:52,"Momofuku Noodle Bar, 171 1st Ave, New York",40.7291104035,-73.9842454556
+74,2010-02-19 01:55:38,"Momofuku Noodle Bar, 171 1st Ave, New York",40.7291104035,-73.9842454556
+75,2010-01-06 23:28:58,"Momofuku Milk Bar, 251 E 13th St, New York",40.7317954706,-73.9856725931
+76,2009-11-06 09:38:57,"Rachel's Taqueria, 408 5th Ave, Brooklyn",40.6702347084,-73.9855252726

@@ -1,0 +1,103 @@
+,time,poi,latitude,longitude
+0,2016-11-05 03:33:48,"FeedBack, Paul-Lincke-Ufer 45, Berlin",52.4962577264,13.4201403591
+1,2016-07-24 05:55:44,"Donath, Schwedter Str. 13, Berlin",52.533728,13.4093222429
+2,2016-05-05 20:22:53,"Berlin Village Market, Revaler Str. 99, Berlin",52.5067539597,13.4567871344
+3,2016-04-05 03:25:54,"FeedBack, Paul-Lincke-Ufer 45, Berlin",52.4962577264,13.4201403591
+4,2016-02-12 22:59:22,"CAF n SEOUL, 13/23, 400132302a213822",9.52595209619,100.058752201
+5,2015-09-07 01:50:11,"Habasta, 4 HaShomer St, eadc d0d1d9d1-d9e4d5",32.0686022435,34.7693994524
+6,2015-08-17 01:51:54,"Al Teatro, Dircksenstr. 2, Berlin",52.521466044,13.4121313344
+7,2015-07-31 02:58:41,"Blue Pepper, Nassaukade 366HS, Amsterdam",52.365778,4.87843156667
+8,2015-05-16 17:19:43,"Cozys, Gabriel-Max-Str. 15a, Berlin",52.5111250403,13.4587272287
+9,2015-03-08 20:53:34,"Der Neue Weltempfnger, Anklamer Str. 27, Berlin",52.5364770234,13.4009910654
+10,2015-02-07 19:04:29,"OZO Chaweng Samui, 11/34 Moo 2 Bophud, 400132302a213822",9.5247676395,100.059489891
+11,2015-02-04 13:36:14,"Timmy Tailor, 38/44, Tambon Bophut, Koh Samui,",9.51769995425,100.056276888
+12,2014-11-02 03:19:01,"Sisal, Mulackstr. 20, Berlin",52.52765,13.403297
+13,2014-10-18 00:33:35,"Restaurant Butterhandlung, Scharnweberstr. 54, Berlin",52.5121941462,13.4710165984
+14,2014-09-16 13:58:52,"Aroma, 2 Koiffman St., eadc d0d1d9d1-d9e4d5",32.0632168498,34.7617601344
+15,2014-09-15 17:08:04,"Sonya Getzel Shapira, 1 Simta Almonit St., eadc d0d1d9d1-d9e4d5",32.0713774918,34.7730570208
+16,2014-09-15 17:07:04,"Sonya Getzel Shapira, 1 Simta Almonit St., eadc d0d1d9d1-d9e4d5",32.0713774918,34.7730570208
+17,2014-08-30 19:37:36,"Vapiano, Rathausstr. 6, Berlin",52.520747738,13.4105502539
+18,2014-08-14 11:32:22,"Two Boots Hell's Kitchen, 625 9th Ave, New York",40.7598734328,-73.9915913743
+19,2014-08-14 11:14:57,"Kinky Boots at the Al Hirschfeld Theatre, 302 W 45th St, New York",40.7593322292,-73.9891782403
+20,2014-08-08 11:30:17,"Marble Slab Creamery, 330 Yonge Street, Toronto",43.6572930719,-79.3811942408
+21,2014-08-07 22:43:22,"The Westin Harbour Castle, 1 Harbour Square, Toronto",43.6404882171,-79.3760365355
+22,2014-08-04 09:08:26,"Boston Burger Company, 1100 Boylston St, Boston",42.3470723199,-71.0884239305
+23,2014-04-20 03:15:19,"The Bird, Kottbusser Damm 95, Berlin",52.494083022,13.4216485998
+24,2014-03-25 19:28:58,"Hotel Monopol, Mannheimer Strae 11-13, Frankfurt am Main",50.1052077163,8.66383254575
+25,2014-02-03 11:40:15,"Sir Seewoosagur Ramgoolam International Airport (MRU), Plaisance Airport, Plain Magnien",-20.4334068151,57.6785001987
+26,2013-09-17 17:17:17,"Plank, Mnchener Str. 30, Frankfurt am Main",50.107678,8.668781
+27,2013-09-16 14:59:58,"Ali Baba, Krossener Str. 17, Berlin",52.510704,13.45751003
+28,2013-09-07 14:23:15,"Oosten, Eyssenstr. 4, Frankfurt am Main",50.10767033,8.7028111119
+29,2013-07-17 00:35:31,"Burgermeister, Dreieichstr. 20, Frankfurt am Main",50.1056578254,8.69216888014
+30,2013-06-24 14:11:19,"Silicon Boulevard, Sderot Rothchild, eadc d0d1d9d1-d9e4d5",32.0653902276,34.7764878725
+31,2013-04-05 20:45:25,"Bar Tausend, Schiffbauerdamm 11, Berlin",52.5209536097,13.3852870457
+32,2013-03-05 19:49:56,"Kaisermarkt, Kaiserstr., Frankfurt am Main",50.1079602553,8.66677522659
+33,2013-03-05 19:43:27,"Kaisermarkt, Kaiserstr., Frankfurt am Main",50.1079602553,8.66677522659
+34,2013-03-03 18:54:20,"Transit, Sonntagstr. 28, Berlin",52.505988,13.466024
+35,2013-02-25 05:03:27,"Frankfurt Airport Regional Railway Station, Hugo-Eckener-Ring 1, Frankfurt am Main",50.0512598926,8.57140050862
+36,2013-02-05 05:37:17,"Walden, Kleiner Hirschgraben 7, Frankfurt am Main",50.111682178,8.67820383723
+37,2013-01-31 12:01:59,"Hartwood, Tulum Beach Road, Tulum",20.1497542212,-87.459180324
+38,2013-01-29 11:40:52,"Simple, Carretera a Boca Paila km. 9, Tulum",20.1440922679,-87.460844413
+39,2013-01-26 06:46:34,"Ah Cacao Chocolate Caf, 5ta Av., Playa del Carmen",20.6301485523,-87.0699917525
+40,2013-01-23 10:58:28,"The Papaya Playa Project By Design Hotels, Carretera Tulum - Boca Paila, Tulum",20.181630649,-87.4440024273
+41,2013-01-23 10:47:32,"Puro Corazon, Carretera Tulum - Boca Paila km. 5.5, Tulum",20.1764212414,-87.4470606631
+42,2012-03-09 13:11:11,"Holiday Inn Austin-Town Lake, 20 N Interstate 35, Austin",30.253826,-97.737387
+43,2012-03-03 22:40:55,"Flohmarkt Boxhagener Platz, Boxhagener Platz, Berlin",52.5107884904,13.4597110748
+44,2012-01-25 20:35:34,"United Global First Lounge, Concourse C, near C2, Chantilly",38.9455187947,-77.4422766876
+45,2012-01-23 01:00:06,"Tea Connection, Arenales 2102, Buenos Aires",-34.5944367908,-58.3971211805
+46,2012-01-19 02:38:00,"Posada Rocamar, Calle 5 #3302, Punta del Diablo",-34.0381104901,-53.5439748256
+47,2012-01-18 07:52:07,"Paseo del Rivero, N9, Punta del Diablo",-34.0410367365,-53.5437529446
+48,2012-01-18 07:28:48,"Paseo del Rivero, N9, Punta del Diablo",-34.0410367365,-53.5437529446
+49,2012-01-16 23:54:54,"Tres Cruces, Bvar. Artigas 1825, Montevideo",-34.8937288678,-56.1666150812
+50,2012-01-15 10:09:02,"Milion, Paran 1048, Buenos Aires",-34.5965650812,-58.388729
+51,2011-09-20 00:54:42,"Landesvertretung Rheinland-Pfalz, In den Ministergrten 6, Berlin",52.512593,13.378676
+52,2011-09-16 19:32:17,"Brauhaus Stsser, Neusser Str. 47, Kln",50.9529235404,6.95710247179
+53,2011-08-17 00:57:36,"Solar, Stresemannstr. 76, Berlin",52.504341007,13.3835988343
+54,2011-07-17 18:45:12,"Flohmarkt Boxhagener Platz, Boxhagener Platz, Berlin",52.5107884904,13.4597110748
+55,2011-07-10 23:18:52,"Simon-Dach-Strae, Simon-Dach-Str., Berlin",52.5104489447,13.456492424
+56,2011-07-07 02:10:11,"Engler's Unikat, Samariterstr. 17, Berlin",52.518871514,13.4666740894
+57,2011-06-15 23:32:06,"T-Venture GmbH (Deutsche Telekom AG), Gotenstrasse 156, Bonn",50.6966751044,7.14508295059
+58,2011-06-06 00:58:32,"Sptzle & Kndel, Whlischstr. 20, Berlin",52.5088166571,13.460838
+59,2011-05-31 05:43:58,"caf UB, 3901 18th St, San Francisco",37.761146,-122.430713
+60,2011-05-30 11:30:23,"Thailand Restaurant, 438 Castro St, San Francisco",37.7618524,-122.435128
+61,2011-04-24 04:19:14,"Osteria Ribaltone, Motzstr. 54, Berlin",52.4961856586,13.3425521851
+62,2011-04-18 13:54:22,"25hours Hotel Frankfurt by Levi's, Niddastr. 58, Frankfurt am Main",50.1095187472,8.6628852374
+63,2011-04-16 20:59:24,"Restaurant Strandlust, Seddinpromenade 3 A, Berlin",52.3762410492,13.6572879553
+64,2011-04-16 02:08:48,"Haar Bar, Niederbarnimstrasse 8, Berlin",52.5138551743,13.4587142043
+65,2011-04-14 19:30:12,"Gallo Nero, Kaiserhofstr. 7, Frankfurt am Main",50.114893,8.674598
+66,2011-04-14 14:18:37,"Roomers, Gutleutstr. 85, Frankfurt am Main",50.104632,8.666783
+67,2011-04-10 22:28:16,"Entweder Oder, Oderberger Str. 15, Berlin",52.539130558,13.4082315563
+68,2011-04-05 14:53:34,"Mr. CLOU, Hauptbahnhof Frankfurt, Frankfurt am Main",50.1065277985,8.66318367611
+69,2011-04-04 22:17:43,"Henri Willig Cheese & More, Leidsestraat 52, Amsterdam",52.3656293063,4.88586902618
+70,2011-04-04 16:12:34,"SWISS First Lounge Check-in, Check-in 1 - Level 1, Zrich-Flughafen",47.4522951109,8.56212615967
+71,2011-04-02 14:24:46,"Sixt rent a car, Pfingstweidstr. 3, Zrich",47.3873940973,8.51805646243
+72,2011-04-02 06:21:59,"Accademia del Gusto, Rotwandstrasse 62, Zrich",47.3753643141,8.52863416619
+73,2011-04-01 05:26:06,"Rosso, Geroldstrasse 31, Zrich",47.3853830179,8.51820499996
+74,2011-03-28 02:58:36,"Relay, Terminal 1, Airport City Mall, Frankfurt am Main",50.0511340355,8.57219790292
+75,2011-03-20 12:20:48,"Revel, 10 Little West 12th St, New York",40.7396988414,-74.006913596
+76,2011-03-20 11:07:23,"Revel, 10 Little West 12th St, New York",40.7396988414,-74.006913596
+77,2011-02-08 21:10:52,"Creation Center, Winterfeldtstr. 21, Berlin",52.4963749775,13.3581862929
+78,2011-02-07 01:41:52,"La Tienda del Barrio, Niederbarnimstr. 10, Berlin",52.5135308783,13.4584021568
+79,2011-01-30 11:05:54,"Q Bar, Opera House, Thnh phd1 Hd3 Ch Minh",10.7760179649,106.703295708
+80,2011-01-30 11:02:37,"vila, 131 dong khoi, Thnh phd1 Hd3 Ch Minh",10.7753434272,106.703681946
+81,2011-01-29 23:47:30,"Mn Hubf Restaurant, 134 Le Thanh Ton St., Ben Thanh Ward, Dist. 1, Thnh phd1 Hd3 Ch Minh",10.7735430692,106.698342126
+82,2011-01-27 09:24:18,"Mojo Cafe, 88 Dong Khoi, district 1, Thnh phd1 Hd3 Ch Minh",10.7756027261,106.703484297
+83,2011-01-22 20:38:28,"Mai House Resort, Ph Qud1c, Db0a1ng 10ng",10.1964394111,103.963628103
+84,2011-01-22 20:34:30,"Mai House Resort, Ph Qud1c, Db0a1ng 10ng",10.1964394111,103.963628103
+85,2011-01-18 10:59:53,"Gate 1, Siem Reap International Airport, Si15mrab",13.4070853002,103.814151639
+86,2011-01-18 10:56:01,"Gate 1, Siem Reap International Airport, Si15mrab",13.4070853002,103.814151639
+87,2011-01-17 20:12:04,"Cambodian BBQ, Pub Street (central), Si15mrab",13.354688959,103.854677081
+88,2011-01-17 12:29:35,"Bayon Temple, Angkor Thom, Si15mrab",13.4412990662,103.858952522
+89,2011-01-16 15:20:38,"Golden Banana Boutique Hotel and Resort Siem Reap, Wat Damnak, Si15mrab",13.3511241112,103.85491848
+90,2011-01-16 14:03:15,"Golden Banana Boutique Hotel and Resort Siem Reap, Wat Damnak, Si15mrab",13.3511241112,103.85491848
+91,2011-01-16 11:46:09,"La Boulangerie, Street 7, Si15mrab",13.355539438,103.854265522
+92,2011-01-16 10:47:11,"Angkor Thom, The Bayon Complex, Si15mrab",13.4411112369,103.859274387
+93,2011-01-16 09:59:44,"Banteay Srei Temple 94d29ab69fb6919493d291b6999fd29ab8, Near the Hill of Phnom Dei, Angkor",13.5988253919,103.963526487
+94,2011-01-16 07:40:23,"Angkor Wat, Angkor Archaeological Park, Si15mrab",13.4124133636,103.865754604
+95,2011-01-15 22:10:27,"Old Market | Psar Chaa, Siem Reap, Si15mrab",13.3538695184,103.855133057
+96,2011-01-15 21:37:21,"The Blue Pumpkin, Hospital St., Si15mrab",13.3547658057,103.85517142
+97,2011-01-14 20:57:04,"Khmer Kitchen Restautant, Mondul I, Sangkat Svay Dangkum, Si15mrab",13.3544393711,103.854893988
+98,2011-01-14 19:45:57,"Golden Banana Boutique Hotel and Resort Siem Reap, Wat Damnak, Si15mrab",13.3511241112,103.85491848
+99,2011-01-14 11:47:40,"Tan Son Nhat International Airport (SGN), Trb0ddng Sa1n, Thnh phd1 Hd3 Ch Minh",10.8160765042,106.663956594
+100,2011-01-13 10:25:41,"Bi Bic3n Nha Trang (Nha Trang Beach), Tra7n Ph, Nha Trang",12.2359891226,109.19711709
+101,2011-01-12 22:28:53,"Paramount Coffee, 58 Tra7n Ph, Nha Trang",12.2370850847,109.196770175

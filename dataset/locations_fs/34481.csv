@@ -1,0 +1,80 @@
+,time,poi,latitude,longitude
+0,2015-10-04 09:19:26,"Yet Tuh, 3042 Oakcliff Rd, Atlanta",33.9120017515,-84.2619418104
+1,2015-10-04 09:18:17,"Dong Nae Mang Nae Korean Bbq Place, 3070 Oakcliff Rd, Doraville",33.9121668299,-84.2620600928
+2,2015-02-12 11:03:23,"Union Hill Kitchen, 5336 Peachtree Rd, Atlanta",33.8905856826,-84.3024086952
+3,2015-02-12 11:00:24,"Union Hill Kitchen, 5336 Peachtree Rd, Atlanta",33.8905856826,-84.3024086952
+4,2015-01-13 09:38:50,"Blue Smoke On The Road, Concourse B - Terminal 4, Queens",40.6384233785,-73.781187411
+5,2014-11-24 01:58:17,"Studio Movie Grill, 2880 Holcomb Bridge Rd, Alpharetta",33.991285245,-84.27466867
+6,2014-11-23 18:54:47,"Super H Mart, 6035 Peachtree Rd Ste B, Doraville",33.9081043514,-84.2879068535
+7,2014-11-23 18:47:08,"Winship Cancer Institute of Emory University, 1365 Clifton Rd NE Bldg C, Atlanta",33.7929061873,-84.3193602562
+8,2014-11-23 18:46:20,"Canton House Chinese Restaurant, 4825 Buford Hwy, Chamblee",33.882569862,-84.2894643545
+9,2014-11-23 18:44:41,"Nan Thai Fine Dining, 1350 Spring St NW #1, Atlanta",33.7915359051,-84.3894006031
+10,2014-11-23 18:44:03,"Noodle, 903 Peachtree St NE, Atlanta",33.7791161194,-84.3838298321
+11,2014-11-23 18:42:59,"Sheraton Atlanta Perimeter North Hotel, 800 Hammond Dr, Atlanta",33.9197281906,-84.3606101408
+12,2014-11-23 18:41:55,"Georgia Department Of Driver Services, 8610 Roswell Rd, Atlanta",33.9916308612,-84.3531240636
+13,2014-10-04 23:18:03,"Goldberg's Bagel Co. & Deli, 4520 Chamblee Dunwoody Rd, Dunwoody",33.9229174149,-84.3148541451
+14,2014-09-01 01:57:55,"Royal China, 3295 Chamblee Dunwoody Rd, Chamblee",33.8921109,-84.2946640932
+15,2014-08-16 11:46:49,"Taiyo Ramen, 130 Clairemont Ave, Decatur",33.7768011792,-84.2966450075
+16,2014-07-28 03:40:55,"Buford Highway Farmers Market, 5600 Buford Hwy NE, Atlanta",33.9057099774,-84.2735940627
+17,2014-05-24 08:35:21,"Cinbistro at Town Brookhaven, 1004 Town Blvd NE, Brookhaven",33.8710563004,-84.3375532698
+18,2014-03-09 07:44:59,"Eddie V's Prime Seafood, 301 E 5th St, Austin",30.26620261,-97.74059772
+19,2013-12-06 08:46:32,"Landmark Vineyards, 101 Adobe Canyon Rd, Kenwood",38.4265249344,-122.556179461
+20,2013-08-27 23:01:07,"Phillips & Phillips Dental Associates, 229 Peachtree St NE Ste 206, Atlanta",33.7489646285,-84.3934106827
+21,2013-07-29 02:09:30,"Buckhead Nail, 3889 Peachtree Rd NE, Brookhaven",33.8570142483,-84.3437163438
+22,2013-07-21 05:24:27,"Prt A Manger, 108 S Michigan Ave, Chicago",41.8806059658,-87.6245502706
+23,2013-07-07 01:04:32,"Myung Ga Won, 1960 Day Dr Ste 100, Duluth",33.9534907152,-84.1321632569
+24,2013-06-18 06:30:27,"Helmet Hairworx, 970 Piedmont Ave NE, Atlanta",33.7810752882,-84.3808968438
+25,2013-06-12 08:24:56,"Whiskey Kitchen, 118 12th Ave S, Nashville",36.1555062488,-86.7865162138
+26,2013-06-09 08:50:44,"The Optimist, 914 Howell Mill Rd NW, Atlanta",33.7798806246,-84.4106212831
+27,2013-05-20 07:40:07,"Another Broken Egg Cafe, 4745 Ashford Dunwoody Rd, Atlanta",33.9330587814,-84.3363000328
+28,2013-03-25 08:02:30,"Royal China, 3295 Chamblee Dunwoody Rd, Chamblee",33.8921109,-84.2946640932
+29,2013-03-25 07:14:43,"Royal China, 3295 Chamblee Dunwoody Rd, Chamblee",33.8921109,-84.2946640932
+30,2013-01-21 01:05:43,"Kroger, 4498 Chamblee Dunwoody Rd, Dunwoody",33.9224767315,-84.3154656887
+31,2012-12-24 06:18:07,"Hong Kong Harbour, 2184 Cheshire Bridge Rd NE, Atlanta",33.814453,-84.353632
+32,2012-12-22 02:42:06,"RA Sushi Bar Restaurant, 1080 Peachtree St NE, Atlanta",33.7833623913,-84.3844688802
+33,2012-12-09 07:03:07,"Heineken Lounge, Terminal C2, Newark",40.6966432653,-74.1762248348
+34,2012-12-06 12:16:44,"Canton Paradise, I12 Katong, Singapore",1.30565955921,103.905135338
+35,2012-11-24 17:50:58,"cfdeed167c6d97 Suzhou Grand Garden hotel, No. 477 LiuYuan Road, cfde",31.3160838275,120.58616702
+36,2012-11-23 07:03:29,"The Bund Hotel, 525 Guangdong Rd, 0a7702",31.2337548054,121.477208923
+37,2012-11-23 06:59:19,"17ac65532dc3 Olympic Sports Center, 1 Anding Rd., 17ac02",39.9820857152,116.393151283
+38,2012-11-23 06:56:50,"Ming Tombs, Ming Shisan Ling Area, Changling Town, 17ac02",40.2559486942,116.218185425
+39,2012-11-23 06:28:32,"T2 Shanghai Hongqiao Int'l Airport, SHA Airport, 0a7702",31.1954641511,121.322996621
+40,2012-11-18 17:23:11,"Jade Garden Hotel, No. 1 Nanheyan Street, Dongcheng District, 17ac02",39.9134911834,116.399962902
+41,2012-10-02 12:32:35,"TusCA Restaurant, 5101 Great America Pkwy, Santa Clara",37.4047158015,-121.976512671
+42,2012-09-17 01:12:20,"Olde Blind Dog Irish Pub, 705 Town Blvd NE, Brookhaven",33.8700275473,-84.3362897603
+43,2012-08-14 00:22:59,"Yogurtland, 4880 Peachtree Corners Cir, Norcross",33.978926,-84.218702
+44,2012-07-15 03:12:48,"Nails Love, 1881 Chamblee Tucker Rd Ste 3-4, Chamblee",33.88913485,-84.3101352171
+45,2012-06-24 08:33:15,"Super H Mart, 6035 Peachtree Rd Ste B, Doraville",33.9081043514,-84.2879068535
+46,2012-03-19 04:52:46,"Nail Talk and Tan, 90 Perimeter Center Pl NE Ste 100, Atlanta",33.9299813069,-84.3402907812
+47,2012-02-20 06:25:07,"Dinho Supermarket of Atlanta, 5379 New Peachtree Rd, Chamblee",33.8901181138,-84.2999088764
+48,2012-02-18 06:23:39,"The Lowry House Inn, 206 S Fairplay St, Seneca",34.6816078226,-82.9547216273
+49,2012-01-25 11:02:52,"BUA Thai and Sushi at Brookhaven, 705 Town Blvd NE, Brookhaven",33.8700492746,-84.336341123
+50,2012-01-22 02:59:21,"Cinbistro at Town Brookhaven, 1004 Town Blvd NE, Brookhaven",33.8710563004,-84.3375532698
+51,2012-01-20 07:51:06,"China Kitchen, 5379 New Peachtree Rd, Chamblee-Doraville",33.8907482976,-84.2997595913
+52,2012-01-16 07:31:58,"Ted's Montana Grill, 1615 Cumberland Mall SE Ste 106, Atlanta",33.880588057,-84.4685769081
+53,2012-01-16 04:36:11,"Collage Boutique, Peachtree Rd NE, Atlanta, GA, Atlanta",33.87071519,-84.33762559
+54,2011-12-02 09:40:40,"Johnson Ferry Baptist Church, 955 Johnson Ferry Rd, Marietta",33.9722901594,-84.4150635217
+55,2011-11-26 06:00:54,"The Landmark London, 222 Marylebone Rd, Marylebone",51.521655061,-0.162799358368
+56,2011-11-24 21:54:56,"Stonehenge, Off A344 Rd, Amesbury",51.1788620861,-1.82619541883
+57,2011-11-21 07:54:15,"China Town Food Court, 5385 New Peachtree Rd, Chamblee",33.8907428983,-84.2998418223
+58,2011-11-01 05:20:59,"Alon's Bakery & Market, 4505 Ashford Dunwoody Rd NE, Atlanta",33.9245799726,-84.3361830711
+59,2011-10-30 01:59:12,"City Dog Market, 4244 Peachtree Rd NE, Brookhaven",33.867087,-84.33611577
+60,2011-10-29 10:49:59,"Shoya Izakaya, 6035 Peachtree Rd #A101, Doraville",33.9078527631,-84.2866373062
+61,2011-10-22 08:16:30,"Le Clos, 100 Rue Charlemagne Dr, Braselton",34.1009859641,-83.8180979057
+62,2011-06-09 10:00:36,"Tuk Tuk Thai Food Loft, 1745 Peachtree St NE, Atlanta",33.8016749879,-84.3925051699
+63,2011-01-25 02:51:06,"Balance Salon, 4505 Ashford Dunwoody Rd NE Ste 17, Dunwoody",33.925059,-84.335627
+64,2011-01-24 21:27:40,"Peachtree Malone Lofts, 5200 Peachtree Rd, Atlanta",33.8887071169,-84.3079101864
+65,2011-01-19 08:27:07,"Salon 11 Studios, 4520 Olde Perimeter Way, Atlanta",33.92882303,-84.343732
+66,2010-11-07 06:55:51,"Sushi Yoshino, 2150 Johnson Ferry Rd NE, Brookhaven",33.8923662833,-84.3255347013
+67,2010-11-02 20:21:21,"Peachtree Industrial Self Storage, 5360 Peachtree Industrial Blvd, Chamblee",33.8920147487,-84.3069029856
+68,2010-10-27 09:21:57,"China Delight, 2390 Chamblee Tucker Rd, Atlanta",33.886228,-84.292061
+69,2010-10-16 21:15:24,"Phillips Seafood, Gates D8/9, Concourse D, Atlanta",33.6408971211,-84.429301043
+70,2010-09-10 02:02:44,"THE LIMITED, 3393 Peachtree Rd, Atlanta",33.8461450703,-84.3621657702
+71,2010-06-05 20:27:27,"Peachtree Cleaners, 3618 Chamblee Dunwoody Rd, Chamblee",33.8964275103,-84.3050940923
+72,2010-06-05 20:24:11,"Maison Robert Fine Chocolates, 5256 Peachtree Rd, Atlanta",33.8892276687,-84.3052122887
+73,2010-05-11 19:31:55,"WellPet Humane, 6225 Peachtree Industrial Blvd, Doraville",33.8909490794,-84.3021391053
+74,2010-02-21 02:52:58,"Maison Robert Fine Chocolates, 5256 Peachtree Rd, Atlanta",33.8892276687,-84.3052122887
+75,2010-02-11 04:25:11,"Chin Chin V, 1100 Hammond Dr, Atlanta",33.9199127103,-84.3524158001
+76,2010-01-27 22:43:58,"Pung Mie Chinese Restaurant, 5145 Buford Hwy NE, Doraville",33.8937582289,-84.2834601812
+77,2010-01-15 03:53:39,"Steel Restaurant & Lounge, 950 W Peachtree St NW, Atlanta",33.7806615972,-84.3876198934
+78,2009-08-28 12:19:40,"Tongue & Groove, 2420 Piedmont Rd NE, Atlanta",33.8226719464,-84.3684648797

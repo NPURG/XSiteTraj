@@ -1,0 +1,58 @@
+,time,poi,latitude,longitude
+0,2014-07-17 03:09:35,"Water Country, 2300 Lafayette Rd, Portsmouth",43.0366363961,-70.7825045189
+1,2014-03-28 16:25:55,"Wise Sons Jewish Delicatessen, 736 Mission St, San Francisco",37.7858259859,-122.403187752
+2,2013-07-22 07:46:04,"Dobbs Ferry, 409 Gough St, San Francisco",37.7770793076,-122.423073649
+3,2012-11-04 06:19:41,"Williams & Bailey, 507 Grand St, Brooklyn",40.711060702,-73.9506268501
+4,2012-05-13 16:00:34,"Google New York, 76 9th Ave, New York",40.7414233941,-74.0026900648
+5,2012-05-13 15:58:58,"Greenwich Treehouse, 46 Greenwich Ave, New York",40.735582,-74.0005197525
+6,2012-05-13 15:58:15,"Bravo Pizza, 257 Park Ave S, New York",40.738787,-73.987359
+7,2012-05-13 15:56:04,"The Delancey, 168 Delancey St, New York",40.7179765539,-73.9853588395
+8,2012-05-13 15:51:30,"Bushwick Country Club, 618 Grand St, Brooklyn",40.7112508415,-73.9474485126
+9,2012-05-13 15:48:03,"Revival, 129 E 15th St, New York",40.7344514867,-73.9878495821
+10,2012-05-13 15:44:41,"Sweet Afton, 30-09 34th St, Astoria",40.7654838301,-73.9190668626
+11,2012-04-21 08:12:24,"Lillie's Union Square, 13 E 17th St, New York",40.737598016,-73.9911603928
+12,2011-11-25 00:27:11,"Il Bambino, 3408 31st Ave, Astoria",40.762996,-73.9209796667
+13,2011-11-25 00:26:21,"Paris Baguette, 6 W 32nd St, New York",40.747631,-73.98613
+14,2011-11-25 00:24:31,"Weather Up, 589 Vanderbilt Ave, Brooklyn",40.6798732121,-73.9678385854
+15,2011-11-25 00:23:35,"Madison Square Garden, 4 Penn Plz, New York",40.7505081436,-73.993037569
+16,2011-03-28 02:32:29,"the bagel store, 754 Metropolitan ave, Brooklyn",40.714555,-73.944038
+17,2011-02-06 14:42:31,"Applebee's, 139 Flatbush Ave. Level 2, Brooklyn",40.68443071,-73.97750925
+18,2011-01-27 05:46:29,"Minetta Tavern, 113 Macdougal St, New York",40.7300745249,-74.0005954801
+19,2011-01-24 03:27:19,"Polar Bear Room (PBR), 230 Park Ave S Ste 1201, New York",40.737615,-73.988243
+20,2011-01-23 08:25:02,"Brooklyn Bowl, 61 Wythe Ave, Brooklyn",40.7219178735,-73.9575452688
+21,2011-01-23 08:17:53,"Lillie's Union Square, 13 E 17th St, New York",40.737598016,-73.9911603928
+22,2011-01-23 08:14:47,"Joe's Shanghai 7f2325, 24 W 56th St, New York",40.7629816629,-73.9758833921
+23,2011-01-18 08:14:00,"Amtrak NE Regional Train 169, South Station, Boston",42.3508882545,-71.0554555453
+24,2011-01-17 11:40:13,"Gillette Stadium, 1 Patriot Pl, Foxborough",42.0929633539,-71.2646868117
+25,2011-01-03 14:21:00,"Times Square, Broadway & 7th Ave, New York",40.7575333847,-73.9860073539
+26,2011-01-01 19:59:47,"Irving Plaza, 17 Irving Pl, New York",40.734869984,-73.9884521763
+27,2010-12-20 02:56:31,"Port Authority Bus Terminal, 625 8th Ave, New York",40.757101285,-73.9914593798
+28,2010-12-20 02:40:19,"Grand Ballroom at the Manhattan Center, 311 W 34th St, New York",40.7526340644,-73.9941107302
+29,2010-12-16 16:05:21,"Osha Thai Noodle Cafe, 696 Geary St, San Francisco",37.786554,-122.414665
+30,2010-12-16 16:03:31,"Tonga Room & Hurricane Bar, 950 Mason St, San Francisco",37.7922613199,-122.409635782
+31,2010-12-06 08:06:28,"Kellogg's Diner, 518 Metropolitan Ave, Brooklyn",40.7138235083,-73.951598636
+32,2010-12-03 15:36:57,"The Shops at Columbus Circle, 10 Columbus Cir, New York",40.7684634824,-73.9826098026
+33,2010-12-03 15:34:24,"Brooklyn Bridge, Brooklyn Bridge, New York",40.7074973441,-73.9986443394
+34,2010-11-25 11:30:29,"Columbia University, 116th St & Broadway, New York",40.8076877125,-73.962934964
+35,2010-11-14 15:17:22,"Bar Matchless, 557 Manhattan Ave, Brooklyn",40.7221830658,-73.9499348402
+36,2010-11-14 15:15:38,"Terminal 5, 610 W 56th St, New York",40.7695700075,-73.9929055755
+37,2010-11-08 14:26:56,"AMC Braintree 10, 121 Grandview Rd, Braintree",42.2185481473,-71.033262342
+38,2010-11-08 14:16:27,"Macri Park, 462 Union Ave, Brooklyn",40.7142879402,-73.951667517
+39,2010-11-07 15:18:08,"Union Pool, 484 Union Ave, Brooklyn",40.7150130032,-73.9514636993
+40,2010-11-07 15:16:45,"Matt Torrey's, 46 Bushwick Ave, Brooklyn",40.7134219934,-73.9413982424
+41,2010-11-07 15:13:08,"Buffalo Wild Wings, 139 Flatbush Ave, Brooklyn",40.6846572179,-73.9775454998
+42,2010-11-07 15:11:30,"Target, 139 Flatbush Ave, Brooklyn",40.6844613697,-73.9766180286
+43,2010-11-07 15:10:16,"Apple Restaurant & Bombar, 17 Waverly Pl, New York",40.7301900099,-73.9945181855
+44,2010-11-07 15:07:26,"Williamsburg Bridge, Williamsburg Bridge, New York",40.7147359072,-73.9758604346
+45,2010-11-07 15:03:35,"Bowery Ballroom, 6 Delancey St, New York",40.7204028097,-73.9935311091
+46,2010-11-07 15:02:05,"Jacob K. Javits Convention Center, 655 W 34th St, New York",40.7570365956,-74.0018292793
+47,2010-11-07 14:54:50,"Shake Shack, 11 Madison Ave, New York",40.7414310297,-73.9884120034
+48,2010-11-07 14:53:54,"Minetta Tavern, 113 Macdougal St, New York",40.7300745249,-74.0005954801
+49,2010-10-21 12:40:06,"Santos Party House, 96 Lafayette St, New York",40.717493237,-74.0010657907
+50,2010-09-11 16:24:34,"Murray's Bagels, 500 Avenue of the Americas, New York",40.7363745441,-73.9972892404
+51,2010-09-11 16:22:22,"Williamsburg Bridge, Williamsburg Bridge, New York",40.7147359072,-73.9758604346
+52,2010-09-11 16:21:10,"Continental Army Plaza, Roebling St & S 4th Dr, Brooklyn",40.7106451622,-73.9603578016
+53,2010-05-31 16:19:52,"Brother Jimmy's BBQ, 116 E 16th St, New York",40.7355920794,-73.9886927605
+54,2010-05-31 16:16:54,"Starbucks, 240 Park Ave S, New York",40.73798,-73.988303
+55,2010-05-31 16:12:41,"Harefield Road, 769 Metropolitan Ave, Brooklyn",40.7146906763,-73.9434647696
+56,2010-05-31 12:53:26,"Interactive Advertising Burea, 116 E 27th St Fl 7, New York",40.7424274357,-73.9839757173

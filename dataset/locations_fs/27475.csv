@@ -1,0 +1,54 @@
+,time,poi,latitude,longitude
+0,2016-11-09 13:43:31,"The Black Sheep, 901 W Marshall St, Richmond",37.5510399362,-77.4488491322
+1,2016-11-09 13:42:32,"Children's Museum Of Alamance County, 217 S Main St, Graham",36.0663408486,-79.4017617183
+2,2016-11-09 13:32:22,"The Wise Thrifter, 31286 Richmond Tpke, Doswell",37.832469,-77.370253
+3,2016-08-15 07:32:56,"7-Eleven, 11480 W Broad St, Glen Allen",37.651992,-77.610921
+4,2016-08-07 03:13:34,"I-26 West Rest Stop, Kinards, SC 29355, Kinards",34.4132567371,-81.7057639559
+5,2016-08-07 00:47:52,"Exxon, 4601 Lamar Hwy, Lamar",34.208132,-80.02297641
+6,2016-07-21 10:09:54,"Comfort Inn & Suites, 650 S High St, Columbus",39.94883725,-82.99755976
+7,2016-05-19 01:04:14,"Fuddrucker's, 100 N Carter Rd, Ashland",37.75971,-77.462967
+8,2016-03-10 02:11:42,"Steak 'n Shake, 10 Mill Creek Cir, Pooler",32.1395717186,-81.2431681993
+9,2016-02-09 11:09:22,"Wawa, 13355 Minnieville Rd, Woodbridge",38.658842,-77.300231
+10,2016-02-09 10:11:17,"Mobil, 2756 Annapolis Rd, Hanover",39.1381991998,-76.7518293858
+11,2016-02-09 10:10:39,"Jessup Shell, 2753 Annapolis Rd, Jessup",39.137734926,-76.7521523294
+12,2015-12-29 05:45:49,"Tim Hortons, 461 N Main St, Warsaw",42.76041866,-78.1306401
+13,2015-12-29 05:45:30,"Dufferin Grove Park Ice Rink, 875 Dufferin, Toronto",43.6570857537,-79.4334533859
+14,2015-12-29 05:45:12,"Aroma Espresso Bar, 321 Lakeshore Road East, Oakville",43.4483320773,-79.6657268205
+15,2015-12-29 05:44:36,"Tim Hortons, 1481 Union Rd, West Seneca",42.84063649,-78.75382
+16,2015-12-23 12:43:19,"Ledo Pizza, 6477 Maddox Blvd, Chincoteague",37.9318504365,-75.3608313426
+17,2015-12-23 12:42:53,"Mister Whippy, 6201 Maddox Blvd, Chincoteague Island",37.9359096139,-75.3685900569
+18,2015-12-23 12:41:36,"Princess Cleaners, 407 Thompson St, Ashland",37.7609998292,-77.4921013292
+19,2015-12-23 12:41:07,"Caravati's Inc., 104 E 2nd St, Richmond",37.5247065262,-77.434773668
+20,2015-12-23 12:40:30,"Pufferbelly Park, 155-199 Randolph St, Ashland",37.7571793235,-77.4736843089
+21,2015-12-23 12:40:12,"Dillard's, 11824 W Broad St, Richmond",37.6555463473,-77.6162040565
+22,2015-12-23 12:39:21,"Historic Monument Avenue, Monument Avenue, Richmond",37.561056843,-77.4719981745
+23,2015-12-23 12:38:40,"Hampton Inn Faxon, 66 Liberty Ln, Williamsport",41.2488330071,-76.9721286474
+24,2015-12-23 12:28:45,"Martin's, 3522 W Cary St, Richmond",37.5561564077,-77.4873573255
+25,2015-12-23 12:28:07,"Proper Pie Co., 2505 E Broad St Ste 100, Richmond",37.5314622035,-77.4185724264
+26,2015-12-23 12:26:51,"Atlee Auto, 9550 Chamberlayne Rd, Mechanicsville",37.6608361593,-77.3842290343
+27,2015-12-23 12:25:47,"Pie Society City Market, 19 Jefferson St, Savannah",32.0810670334,-81.0949422008
+28,2015-12-23 12:24:22,"Julia Belle's Restaurant, 2513 W Lucas St, Florence",34.240215,-79.810138
+29,2015-12-23 12:23:17,"Conservators Center, 676 E Hughes Mill Rd, Burlington",36.2547442001,-79.3059361471
+30,2015-12-23 12:21:23,"Penzeys Spices, 3400 W Cary St, Richmond",37.5548376973,-77.4851056752
+31,2015-12-23 12:21:03,"For The Love of Chocolate, 3136 W Cary St, Richmond",37.5537958586,-77.4812628329
+32,2015-12-23 12:20:34,"Steak 'n Shake, 4511 S. Laburnum Avenue, Henrico County",37.5294083228,-77.3564363325
+33,2015-12-23 12:19:43,"Zzaam! Fresh Korean Grill, 3300 W Cary St, Richmond",37.5546172274,-77.4839014162
+34,2015-12-23 12:18:11,"Hanover Branch Library, 7527 Library Drive, Hanover",37.7622874019,-77.3667423313
+35,2015-12-23 12:17:33,"Ross Dress for Less, 9860 Brook Rd., Glen Allen",37.6685408364,-77.4626539635
+36,2015-12-23 12:17:12,"Costco Wholesale, 9650 W Broad St, Glen Allen",37.642373007,-77.5611386849
+37,2015-12-23 12:16:20,"Chick-fil-A Center of the Universe, 815 England St, Ashland",37.7579644218,-77.4642023325
+38,2015-12-23 12:15:46,"Walgreens, 9268 Chamberlayne Rd, Mechanicsville",37.65065357,-77.3986582
+39,2015-12-23 12:14:28,"Walmart Neighborhood Market, 9714 Sliding Hill Rd, Ashland",37.6934078146,-77.4391276082
+40,2015-12-23 12:13:29,"AutoZone, 9274 Chamberlayne Rd, Mechanicsville",37.6508943464,-77.3977267742
+41,2015-12-23 12:13:06,"7-Eleven, 10126 Kings Dominion Blvd, Doswell",37.848659,-77.444647
+42,2015-12-23 12:12:46,"Chick-fil-A Frederick (MD), 5501 Urbana Pike, Frederick",39.3828184693,-77.4001786363
+43,2015-12-23 12:10:31,"The Crazy Tomato, 1717 E 3rd St, Williamsport",41.250586,-76.9712021
+44,2015-12-19 06:04:00,"Walmart Supercenter, 145 Hill Carter Pkwy, Ashland",37.75525262,-77.45973945
+45,2015-11-25 07:25:48,"Legendary Golf, 900 William Hilton Pkwy, Hilton Head Island",32.166389,-80.742086
+46,2015-10-28 08:10:23,"Dawn Dump, 31179 Old Dawn Road, Hanover",37.8331214771,-77.3678468917
+47,2015-08-16 02:04:54,"OshKosh B'gosh, 11813 W Broad St, Ste 5B, Henrico County",37.6523709201,-77.6226042221
+48,2015-06-24 11:40:58,"Pizza Hut, 846 Hebron Rd, Heath",40.02884998,-82.44096181
+49,2015-06-11 02:52:51,"Commonwealth Endodontics, 3107 Hungary Spring Rd, Richmond",37.6278999369,-77.5198220854
+50,2015-06-05 21:33:54,"Epperson Eye, P.C., 11369 Nuckols Rd, Glen Allen",37.681726,-77.590682
+51,2015-05-14 03:38:27,"Champaign Surplus, 303 S Neil St, Champaign",40.1140751765,-88.2437390921
+52,2015-05-06 03:55:37,"Shell / Krispy Kreme / Pizza Hut, 2861-2919 State Route 903, Bracey",36.60230846,-78.15430282

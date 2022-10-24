@@ -1,0 +1,61 @@
+,time,poi,latitude,longitude
+0,2016-04-16 12:22:55,"Udupi Palace, 1007 Valencia St, San Francisco",37.7567871975,-122.421112444
+1,2016-04-16 12:21:54,"More Mojo, 1347 Church St, San Francisco",37.749363,-122.427151
+2,2016-04-16 12:20:05,"Glen Park Mail Depot, 2912 Diamond St, San Francisco",37.733324,-122.434160083
+3,2016-04-16 12:16:50,"La Corneta, 2834 Diamond St, San Francisco",37.73397,-122.433996
+4,2016-03-24 06:29:19,"Blue Bottle Coffee, 115 Sansome St, San Francisco",37.7911147327,-122.400758241
+5,2016-03-24 06:27:51,"Coffee Cultures, 225 Bush St, San Francisco",37.7910149696,-122.401112261
+6,2015-12-30 06:42:33,"Los Angeles County Museum of Art (LACMA), 5905 Wilshire Blvd, Los Angeles",34.063370294,-118.358479122
+7,2015-12-21 06:19:18,"Target, 133 Serramonte Ctr, Daly City",37.6706372506,-122.470183969
+8,2015-10-20 09:07:15,"Charlie's Corner, 4102 24th St, San Francisco",37.7513472117,-122.434113839
+9,2015-08-08 08:18:16,"Glen Park Branch Library, 2825 Diamond St, San Francisco",37.7339317283,-122.433898176
+10,2015-08-02 06:55:25,"Montecristo, 116 Central Ave, Lynn",42.464393,-70.950296
+11,2015-07-13 09:30:51,"LYFE Kitchen, 167 Hamilton Ave, Palo Alto",37.4436582542,-122.16193378
+12,2015-07-06 04:48:30,"Project Juice, 790 Valencia St, San Francisco",37.7603414423,-122.421499578
+13,2015-07-05 10:06:19,"Panchita's Pupuseria Restaurant #2, 3091 16th St, San Francisco",37.7649240501,-122.421643371
+14,2015-06-26 02:47:46,"Native Kitchen & Kombucha Bar, 110 Petaluma Blvd N, Petaluma",38.23445793,-122.640188502
+15,2015-06-21 04:51:31,"Louis Sutter Playground, 614 University, San Francisco",37.7223875012,-122.413928082
+16,2015-06-21 04:49:33,"Louis Sutter Playground, 614 University, San Francisco",37.7223875012,-122.413928082
+17,2015-06-20 14:49:41,"Glen Park Branch Library, 2825 Diamond St, San Francisco",37.7339317283,-122.433898176
+18,2015-02-16 14:12:05,"Cafe Gratitude, 103 Lincoln St, Santa Cruz",36.972671,-122.026043
+19,2015-02-16 14:07:45,"Santa Cruz Dream Inn, 175 W Cliff Dr, Santa Cruz",36.9617577956,-122.025044504
+20,2014-08-09 09:55:41,"Glen Canyon Park, Glen Canyon Park, San Francisco",37.737361841,-122.440804698
+21,2014-08-08 11:39:13,"Exploratorium, Pier 15, San Francisco",37.8012117413,-122.398418361
+22,2014-08-08 11:38:55,"Lone Palm, 3394 22nd St, San Francisco",37.7551837664,-122.423053631
+23,2014-08-08 11:38:09,"Cafe St. Jorge, 3438 Mission St, San Francisco",37.7416872017,-122.422578016
+24,2014-08-08 11:37:41,"The Little Chihuahua, 4123 24th St, San Francisco",37.751296,-122.43459
+25,2014-08-08 08:36:00,"Gracias Madre, 2211 Mission St, San Francisco",37.7614700848,-122.419452667
+26,2014-02-17 10:24:36,"Eats, 50 Clement St, San Francisco",37.7832883822,-122.460128376
+27,2013-12-13 05:46:13,"Martha & Bros. Coffee, 1551 Church St, San Francisco",37.746123,-122.426864
+28,2013-12-13 04:58:47,"Kasa Indian Eatery, 4001 18th St, San Francisco",37.7611380928,-122.432935982
+29,2013-12-13 04:31:13,"Higher Grounds Coffeehouse, 691 Chenery St, San Francisco",37.73443691,-122.43372246
+30,2013-11-22 09:35:32,"Little Folkies Studio, 1515 Church St, San Francisco",37.7464980766,-122.426908246
+31,2013-10-27 05:11:16,"Candle 79, 154 E 79th St, New York",40.7748502493,-73.958766
+32,2013-10-08 23:16:22,"The Coffee Bean & Tea Leaf, Gate A64, Concourse A, McNamara Terminal, Detroit",42.2115658359,-83.3556282826
+33,2013-09-16 06:46:08,"Split Bread, 145 4th St, San Francisco",37.7841895073,-122.403541803
+34,2013-08-18 14:23:14,"Twin Pine Casino, Hwy 29, Middletown",38.7325378869,-122.624326102
+35,2013-08-11 05:38:25,"Papalote Mexican Grill, 3409 24th St, San Francisco",37.7519528216,-122.420965433
+36,2013-08-10 08:38:13,"Westin Detroit Metropolitan Airport, 2501 Worldgateway Pl, Detroit",42.2073114995,-83.3573922057
+37,2013-07-05 06:32:45,"Spin City Launderette, 1299 Sanchez St, San Francisco",37.7484734814,-122.429214311
+38,2012-11-05 06:22:22,"seesaw, 600 Octavia St Ste A, San Francisco",37.7777894475,-122.424806752
+39,2012-05-28 03:51:28,"3 Fish Studios, 4541 Irving St, San Francisco",37.7622040921,-122.506766932
+40,2012-04-29 06:04:46,"ecoHAUS, 1890 Bryant St, San Francisco",37.7715074143,-122.408540871
+41,2012-03-19 10:06:03,"Guero's Taco Bar, 1412 S Congress Ave, Austin",30.2491138399,-97.7501678467
+42,2011-12-25 04:06:23,"UPS Customer Center, 320 San Bruno Ave, San Francisco",37.7657730441,-122.405747598
+43,2011-11-10 07:50:55,"Sunset Barber Services, 1374 9th Ave, San Francisco",37.7627036,-122.466173
+44,2011-11-03 08:59:41,"Cup, 6 Monterey Blvd, San Francisco",37.732374,-122.4347687
+45,2011-08-12 10:24:55,"California Academy of Sciences, 55 Music Concourse Dr, San Francisco",37.7698254854,-122.466242651
+46,2011-07-26 10:26:04,"Cup, 6 Monterey Blvd, San Francisco",37.732374,-122.4347687
+47,2011-04-30 11:31:19,"Beretta, 1199 Valencia St, San Francisco",37.7537892209,-122.420708717
+48,2011-01-24 08:10:30,"Glen Park Cleaners, 701 Chenery St, San Francisco",37.7343445139,-122.433898176
+49,2011-01-21 07:34:04,"Budget Car Rental, Building 287 Lucas Drive, Detroit",42.23661092,-83.33563153
+50,2011-01-02 04:48:29,"Cityside Restaurant & Bar, 1960 Beacon St, Brighton",42.3361195376,-71.1505937576
+51,2010-01-23 07:25:31,"Googleplex - Bridge, 1600 Amphitheatre Pkwy, Mountain View",37.4220743424,-122.086526155
+52,2010-01-19 06:28:53,"Enterprise Rent-A-Car, 330 Lucas Dr, Detroit",42.2354856456,-83.3363733166
+53,2009-11-12 07:34:26,"Cafe Du Nord, 2174 Market St, San Francisco",37.7665077491,-122.430397739
+54,2009-11-02 09:06:03,"Tropisueo, 75 Yerba Buena Ln, San Francisco",37.7855526675,-122.403966502
+55,2009-10-29 08:03:00,"Warming Hut Park Store & Cafe, Presidio Building 983, San Francisco",37.8083090585,-122.470704317
+56,2009-09-25 11:06:53,"Casa Mexicana, 180 Church St, San Francisco",37.7681089657,-122.429068387
+57,2009-09-04 10:27:48,"Metro Caffe, 247 Fillmore St, San Francisco",37.7719473098,-122.430425389
+58,2009-08-10 06:01:19,"Spreckels Temple of Music, 50 Tea Garden Dr, San Francisco",37.7700492272,-122.468343314
+59,2009-08-04 08:39:54,"Duboce Park Cafe, 2 Sanchez St, San Francisco",37.7692075112,-122.431415256

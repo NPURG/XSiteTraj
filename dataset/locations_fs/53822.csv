@@ -1,0 +1,110 @@
+,time,poi,latitude,longitude
+0,2016-12-28 15:01:09,"Saboten, B/F, Henry House, 42 Yun Ping Rd, dc237e",22.2792127,114.1846448
+1,2016-09-10 12:26:19,"FOC by Nandu Jubany, 40 Hongkong St., Singapore",1.28750896272,103.847409205
+2,2016-09-10 12:19:05,"Baba House, 157 Neil Rd., Singapore",1.27753522946,103.837281058
+3,2016-09-10 12:09:15,"Tree Lizard, Blk 25 #B1-01 Dempsey Hill, Singapore",1.30612687938,103.812215876
+4,2016-09-10 12:08:06,"Hard Rock Cafe Singapore, 50 Cuscaden Rd., Singapore",1.30618358281,103.828082028
+5,2016-09-10 12:04:46,"PARK, 281 Holland Ave., #01-01, Singapore",1.3117338064,103.795672456
+6,2016-09-10 12:03:32,"Peperoni Pizzeria, 6 Greenwood Ave., Singapore",1.33115137544,103.807223772
+7,2016-09-10 11:58:54,"The Pit Restaurant & Bar, 21 Lorong Liput, Singapore",1.31021999857,103.794794083
+8,2016-09-10 11:54:03,"Chili's Grill & Bar, #02-23, Tanglin Mall, Singapore",1.30481407314,103.823727071
+9,2016-09-10 11:50:53,"McCormick and Schmick's Harborside, 1200 Westlake Ave N, Seattle",47.6297827362,-122.339630127
+10,2016-09-10 11:42:04,"Kinara Contemporary Indian Cuisine, 24 Lorong Mambong, Singapore",1.31144702187,103.794806572
+11,2016-09-10 11:39:08,"chopsuey, Block 10 Dempsey Rd. #01-23, Singapore",1.30308212176,103.81047258
+12,2016-09-10 11:35:50,"28 HongKong Street, 28 Hong Kong Street, Singapore",1.28787304722,103.846848712
+13,2016-09-10 11:26:44,"Seattle-Tacoma International Airport (SEA), 17801 International Blvd, SeaTac",47.4435885342,-122.302508354
+14,2016-09-10 11:24:55,"Residence Inn Seattle Downtown/Lake Union, 800 Fairview Ave N, Seattle",47.626411,-122.333176
+15,2016-09-10 11:23:38,"Ippudo, 2d7117ef00b5855f, f01702",25.0506639682,121.522088146
+16,2016-09-10 11:22:02,"KiKi10f3, a90857ef00b5285f, f01702",25.0465358181,121.543673873
+17,2016-07-13 07:08:57,"Dubai International Airport (DXB), Airport Rd, 2f284a",25.2488273226,55.3550936026
+18,2016-07-13 07:07:32,"Greenwood Fish Market & Bistro, 34 Greenwood Ave, Singapore",1.33177458235,103.806323854
+19,2016-07-13 07:04:04,"Sea Lions at Pier 39, Pier 39's West Marina, San Francisco",37.8106178335,-122.41106858
+20,2016-07-13 07:01:53,"Athleta, 2226 Fillmore Street, San Francisco",37.790317,-122.433905
+21,2016-07-13 07:00:20,"Jake Melnick's Corner Tap, 41 E Superior St, Chicago",41.8956286015,-87.626421677
+22,2016-07-13 06:59:39,"Sheffield's Beer & Wine Garden, 3258 N Sheffield Ave, Chicago",41.9415885995,-87.6543706656
+23,2016-06-27 20:35:51,"Bar High Five, 80a75-4-15, 71ac",35.6716481159,139.762975574
+24,2016-06-26 18:28:30,"73@Hillcrest, 73 Hillcrest Road, Bukit Timah",1.331522,103.807613
+25,2016-06-12 09:03:05,"Novotel Beijing Peace, 3 Jinyu Hutong, Wangfujing, 17ac02",39.9143002802,116.409282788
+26,2016-06-12 09:01:57,"Singapore Changi Airport (SIN), Airport Boulevard, Singapore",1.35588888812,103.988284644
+27,2016-06-12 08:58:50,"Cold Storage, #01-01, Jelita Shopping Centre, Singapore",1.31768530498,103.785910606
+28,2016-06-12 08:55:09,"Molly Malone's Gastropub & Grill, 90 Jinbao St, 17ac02",39.9140027652,116.413507452
+29,2016-06-12 08:51:50,"The Park Lane Hong Kong a Pullman Hotel, 310 Gloucester Rd, dc237e",22.2812891855,114.186575108
+30,2016-06-12 08:50:31,"Ao Nang Walking Street, 2d483227193207 0123301a3548, 0123301a3548",8.03253804764,98.8227497697
+31,2016-06-12 08:48:45,"Maccaroni Trattoria Italiana, 10 Manchester Lane, Melbourne",-37.8159073043,144.965811191
+32,2016-06-12 08:47:33,"Novotel on Collins, 270 Collins St., Melbourne",-37.8156954473,144.965047522
+33,2016-06-12 08:46:17,"The Grandstand, 200 Turf Club Rd., Singapore",1.33748541989,103.793206215
+34,2016-06-12 08:45:06,"Tin Hill Social Kitchen And Bar, 100 Turf Club Road, Singapore",1.33376590422,103.795757347
+35,2016-06-12 08:41:23,"Hamad International Airport, Qatar, 27442f482d29",25.2625314724,51.6127474901
+36,2016-06-12 08:40:06,"Mercadito, 108 W Kinzie St, Chicago",41.8892133959,-87.6315101045
+37,2016-06-12 08:39:08,"The Cheesecake Factory, 875 N Michigan Ave, Chicago",41.8985797346,-87.623809576
+38,2016-06-11 19:43:32,"Go Ya Yakitori, G/F, 21A Brown St, Tai Hang",22.2784246989,114.191823148
+39,2016-06-11 19:18:42,"Hyatt Regency McCormick Place, 2233 S Dr. Martin Luther King Jr. Dr, Chicago",41.8521211707,-87.6185005237
+40,2016-06-11 19:16:51,"The Talbott Hotel, 20 E Delaware Pl, Chicago",41.89918,-87.62749
+41,2016-06-11 19:12:39,"Bar Bar Black Sheep, 879 Bukit Timah Road, Singapore",1.33285876531,103.791184632
+42,2016-06-11 19:08:10,"Huber's Butchery & Bistro, 18A Dempsey Hill, Singapore",1.3067100551,103.81018392
+43,2016-05-31 18:02:02,"Operation Dagger, #B1-01, 7 Ann Siang Hill, Singapore",1.28142323668,103.845693764
+44,2016-05-12 18:34:07,"Little Lab, 50 Staunton St, 992f",22.2828068632,114.151967828
+45,2016-03-20 17:29:56,"Holiday Inn Washington-Georgetown, 2101 Wisconsin Ave Nw, Washington",38.917461,-77.068472
+46,2016-03-20 17:28:20,"Macau Maritime Ferry Terminal b380162fa24bbc2d, Av. Da Amizade, b3e8",22.1972,113.559054
+47,2016-03-20 17:27:32,"Ken Yakitori Bar, 55 Anzac Ave., Central Business District",-36.8470840422,174.771963692
+48,2016-03-20 17:09:43,"1855 The Bottleshop @ 6th Ave, 8 Sixth Ave. #01-03, Singapore",1.33116930324,103.795259321
+49,2016-01-10 10:23:23,"Bar Bar Black Sheep, 17D Lorong Liput, Singapore",1.31043958664,103.795082092
+50,2016-01-09 18:21:18,"Takashimaya S.C., Ngee Ann City, Singapore",1.30277523643,103.834801504
+51,2016-01-09 18:19:50,"Hyatt Regency Green Bay, 333 Main St, Green Bay",44.5175774767,-88.0105832159
+52,2016-01-09 18:18:54,"Loews Chicago Hotel, 455 N Park Dr, Chicago",41.8900889437,-87.619488784
+53,2016-01-09 18:18:08,"Sofitel Hyland Hotel, 57ac1cef505f7, 0a7702",31.23777248,121.476288512
+54,2016-01-09 18:17:11,"Max Pub, 180 Fujian Zhong L, 0a7702",31.235859755,121.477019264
+55,2016-01-09 18:12:54,"Samy's Curry, 25 Dempsey Rd, Singapore",1.30612265139,103.811788559
+56,2015-12-13 17:28:44,"Lazy Lizard, 2 Sixth Ave, Singapore",1.33085679671,103.795266151
+57,2015-12-13 17:27:01,"Dancing Crab | Louisiana Seafood, #01-20/21, The Grandstand, Singapore",1.33673476896,103.793516245
+58,2015-12-13 17:17:09,"Shelter in the Woods, 22 GreenWood Ave., Singapore",1.33130653078,103.806708724
+59,2015-12-13 17:14:36,"The Westin, 154 Velachery Main Road, Chennai",12.9899430918,80.2205586433
+60,2015-12-13 17:13:53,"Crowne Plaza, 43 Electronics City Hosur Road, Bangalore",12.8501510887,77.6601970196
+61,2015-12-13 17:11:03,"Changi Village Hawker Centre, 2 Changi Village Rd, Singapore",1.38915318665,103.988182631
+62,2015-11-29 18:44:43,"Levant Middle Eastern Restaurant, 8 Greenwood Avenue, Singapore",1.33095950077,103.807212452
+63,2015-11-28 17:46:25,"Blue Bali on Cluny, 1D Cluny Road, Singapore",1.31787837295,103.816273212
+64,2015-11-22 17:52:11,"Blu Kouzina, Blk 10 Dempsey Hill #01-21, Singapore",1.30325343179,103.810356259
+65,2015-11-20 15:02:51,"Beer Belly, 1f50001-1-30, 272a027f3a",34.6909900152,135.49335748
+66,2015-11-20 14:59:15,"BEER BAL DARK HORSE, 8ff6801ee8-3, 272a02",34.6960112992,135.483849049
+67,2015-10-04 11:33:20,"Jigger & Pony, 101 Amoy St, Singapore",1.28163496414,103.847343922
+68,2015-10-04 11:19:02,"328 Katong Laksa, 216 East Coast Rd, Singapore",1.307608,103.907128
+69,2015-10-04 11:01:58,"Loof, #03-07 Odeon Towers, Bras Basah",1.29582562381,103.853502274
+70,2015-10-04 11:00:05,"Singapore F1 Padang Grandstand, Marina Bay Street Circuit, Singapore",1.29150951091,103.853676692
+71,2015-10-04 10:59:09,"Millennium Mitsui Garden Hotel Tokyo, 80a75-11-1, 71ac",35.6700094794,139.766398513
+72,2015-09-04 15:34:11,"Morning Glory, 106 Nguyc5n Thi Hcdc, Hd9i An",15.8766432841,108.327650215
+73,2015-09-04 15:28:50,"Anantara Resort Hoi An, 1 Pham Hong Thai Street, Quang Nam Province, Hd9i An",15.8771756084,108.336306217
+74,2015-09-04 15:25:14,"Lau Pa Sat Festival Market, 18 Raffles Quay, Singapore",1.28060712609,103.850319276
+75,2015-09-04 15:23:45,"Bnh Mf3 Phb0e3ng, 2B Phan Chu Trinh, Hd9i An",15.8783982691,108.332008123
+76,2015-08-26 18:21:30,"Long Bar, Raffles Hotel, Singapore",1.29501044066,103.8539958
+77,2015-08-08 12:00:30,"Radisson Plaza Hotel & Suites, 100 W Michigan Ave, Kalamazoo",42.2921734,-85.5839413
+78,2015-08-08 11:58:43,"6d8f45 Leofoo Residences, f0170257ac71ef00b5385f, f01702",25.052237883,121.52415684
+79,2015-08-07 20:15:20,"Druggists, 119 Tyrwhitt Road, Singapore",1.31094936857,103.859853745
+80,2015-07-24 08:40:16,"39a8 Sasa Sushi, 2d7117ef8cb542f765f, f01702",25.0547502522,121.522082569
+81,2015-07-24 08:39:55,"39a8 Sasa Sushi, 2d7117ef8cb542f765f, f01702",25.0547502522,121.522082569
+82,2015-06-18 18:49:29,"Hilton Osaka, 173a85301-8-8, 272a02",34.6999454046,135.49590826
+83,2015-05-30 17:54:52,"Taco Casa, Jl. Raya Pangosekan, Gianyar",-8.52117458776,115.262953377
+84,2015-05-30 17:53:50,"Potato Head Folk, 36 Keong Saik Road, Singapore",1.280535,103.841634
+85,2015-05-09 20:13:05,"The Tuckshop, 403 guillemard road, Singapore",1.31210777931,103.888542652
+86,2015-05-02 13:37:02,"Sundara, Four Seasons Resort Bali, Badung",-8.78281957374,115.161336064
+87,2015-05-02 13:35:40,"Bridges Bali Restaurant, Jalan Raya Campuhan, Ubud",-8.50504081258,115.254363514
+88,2015-05-02 13:33:41,"Maya Ubud Resort & Spa, Jl. Gunung Sari Peliatan PO Box 1001, Gianyar",-8.51321499643,115.27807767
+89,2015-04-19 11:53:34,"United Club, 4300 Glumack Dr, Saint Paul",44.885422252,-93.2126840242
+90,2015-04-19 11:42:31,"Singapore Airlines SilverKris Lounge, Opposite Gate 15, Terminal 1, 992f",22.3163553486,113.934870799
+91,2015-04-19 11:39:38,"SATS Premier Lounge, Terminal 3, Singapore",1.35562816632,103.985473656
+92,2015-04-19 11:37:04,"SIA SilverKris Lounge (Terminal 2), Level 3, Departure Transit Lounge, Terminal 2, Singapore",1.35610376311,103.990024538
+93,2015-04-19 11:34:27,"SIA SilverKris Lounge (Terminal 3), Level 3, Departure Transit Lounge, Terminal 3, Singapore",1.35492172978,103.985309305
+94,2015-04-19 11:27:08,"United Club, Near Gate B6, Terminal 1, Chicago",41.9780924351,-87.9068470001
+95,2015-04-19 11:22:51,"United Club, Concourse F, Terminal 2, Chicago",41.974424,-87.906768
+96,2015-04-19 11:16:57,"United Club, Unit 7W504, 7/F, Departure Concourse West Hall, Chek Lap Kok",22.3136662405,113.926088189
+97,2015-04-19 11:13:25,"United Club, 09cc5aa19967341-1, 103002",35.7626613011,140.383703758
+98,2015-04-18 19:49:38,"Boomarang Bistro & Bar, #01-15 The Quayside, 60 Robertson Quay, Singapore",1.28947077821,103.838922797
+99,2015-04-18 19:45:58,"The Trenchard Arms, 47 East Coast Rd, Singapore",1.30479684814,103.903186952
+100,2015-04-14 18:08:56,"Smokey's BBQ, 73 Joo Chiat Pl., Singapore",1.31361815838,103.901674706
+101,2015-04-12 18:32:37,"Mongkok Dim Sum fad2dec3, 214 Geylang Rd, Singapore",1.31205951221,103.876805305
+102,2015-04-12 18:32:01,"The US Grant Hotel, 326 Broadway, San Diego",32.7159009534,-117.1615237
+103,2015-04-12 18:31:00,"T2 Shanghai Pudong Int'l Airport, 0a77661cfd453a3a2f72ad97c, 0a7702",31.1532573357,121.804803921
+104,2015-04-12 18:07:48,"Bitters & Love, 118 Telok Ayer Street, Singapore",1.28199804615,103.84829241
+105,2015-04-12 18:04:06,"Pince & Pints, 32/33 Duxton Rd, Singapore",1.27911102074,103.843287654
+106,2015-02-06 16:37:23,"Kyotatsu Sushi, e4bc1, 103002",35.7617068902,140.384833402
+107,2015-01-27 18:08:41,"Colbar Cafe, 9A Whitchurch Road, Singapore",1.29377693936,103.796306849
+108,2015-01-03 17:44:15,"Bar Bar Black Sheep, 362 Tanjong Katong Rd, Singapore",1.303321262,103.896769935

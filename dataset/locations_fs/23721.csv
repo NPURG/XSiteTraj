@@ -1,0 +1,49 @@
+,time,poi,latitude,longitude
+0,2014-05-14 04:54:04,"Toronto Islands, Toronto Islands, Toronto",43.6221123138,-79.3784952164
+1,2013-12-24 11:59:28,"Tijuana Flats, 7560 W Sand Lake Rd, Orlando",28.4491662868,-81.4855353055
+2,2013-10-28 01:51:07,"The Breezeway Restaurant & Bar, 112 E 1st St, Sanford",28.8116946597,-81.2672969813
+3,2013-10-25 02:25:46,"Ms Bee's Gourmet Popcorn And Candy Shoppe, Plant St, Winter Garden",28.5656791105,-81.5855299782
+4,2013-10-25 00:19:02,"Axum Coffee, 146 W Plant St, Winter Garden",28.5652835474,-81.5872504396
+5,2013-04-21 07:17:22,"New Orleans Famous Beignets And Coffee, 620 Decatur St, New Orleans",29.9566114595,-90.0626408312
+6,2013-04-21 07:16:33,"The Ruby Slipper, 200 Magazine St, New Orleans",29.951109255,-90.0675897433
+7,2013-04-21 07:09:41,"Cafe Beignet, 334 Royal St Ste B, New Orleans",29.955215743,-90.0671625137
+8,2013-04-21 07:07:51,"Caf Amelie, 912 Royal St, New Orleans",29.95982606,-90.062881
+9,2013-04-21 07:06:09,"Orleans Grapevine Wine Bar and Bistro, 720 Orleans Ave, New Orleans",29.9587222302,-90.064930479
+10,2013-04-21 07:05:25,"Orleans Grapevine Wine Bar and Bistro, 720 Orleans Ave, New Orleans",29.9587222302,-90.064930479
+11,2013-04-21 07:00:28,"Merchant, 800 Common St, New Orleans",29.952894,-90.071286
+12,2013-04-21 06:58:18,"Audubon Aquarium of the Americas, 1 Canal St, New Orleans",29.9504911244,-90.0630426407
+13,2013-04-21 06:56:07,"New Orleans Famous Beignets And Coffee, 620 Decatur St, New Orleans",29.9566114595,-90.0626408312
+14,2013-04-21 06:54:08,"The American Sector, 945 Magazine St, New Orleans",29.9421661395,-90.0703650713
+15,2013-03-31 23:34:25,"The Ruby Slipper, 200 Magazine St, New Orleans",29.951109255,-90.0675897433
+16,2013-03-31 12:48:55,"Caf du Monde, 800 Decatur St, New Orleans",29.9575059286,-90.0619456172
+17,2012-04-16 08:12:47,"Blue Cactus Bar and Grill, 2 Byward Market Sq, Ottawa",45.428716,-75.6937201
+18,2012-04-16 05:55:53,"ByWard Market, 55 ByWard Market Square, Ottawa",45.427721023,-75.692394916
+19,2012-04-16 05:52:39,"BeaverTails, 69 George  St, Ottawa",45.4272354164,-75.69170465
+20,2012-04-16 05:51:26,"Maple Valley Tea World, 55 Byward Market Sq, Ottawa",45.4276551203,-75.6922796966
+21,2012-04-14 11:03:44,"Stella Osteria, 81 Clarence St, Ottawa",45.429127,-75.692948
+22,2012-04-14 01:56:43,"Argo Tea, at Gate H1, Terminal 3, Chicago",41.975771,-87.90248
+23,2010-08-24 07:59:51,"Cafe Bluefish, 122 Cottage St, Bar Harbor",44.3886587,-68.21290385
+24,2010-04-03 11:22:46,"SideBar, 1514 N 7th Ave, Phoenix",33.4653558115,-112.082852125
+25,2010-03-23 12:06:24,"Barcade, 388 Union Ave, Brooklyn",40.7120718032,-73.951082028
+26,2010-03-23 03:20:01,"Westsider Records, 233 W 72nd St, New York",40.7791218528,-73.9826786725
+27,2010-03-23 01:24:10,"The Green Table, 75 9th Ave, New York",40.7423799085,-74.0062022209
+28,2010-03-22 21:34:14,"Penelope, 159 Lexington Ave, New York",40.7438812934,-73.9816284041
+29,2010-02-22 02:03:57,"The Irish Bank, 10 Mark Ln, San Francisco",37.7903451921,-122.404593229
+30,2010-02-21 06:54:50,"Amoeba San Francisco, 1855 Haight St, San Francisco",37.769148,-122.452545
+31,2010-02-21 02:31:35,"Taylor Street Coffee Shop, 375 Taylor St, San Francisco",37.785764,-122.411255
+32,2009-12-28 02:26:43,"The Frosty Mug, 100 E 4th Ave, Mt. Dora",28.7995648384,-81.644601
+33,2009-12-21 01:59:39,"Alcove Cafe & Bakery, 1929 Hillhurst Ave, Los Angeles",34.1062259204,-118.287686706
+34,2009-12-20 10:35:01,"Chain Reaction, 1652 W Lincoln Ave, Anaheim",33.8319921513,-117.939468145
+35,2009-12-20 10:26:32,"Masa of Echo Park Bakery & Cafe, 1800 W Sunset Blvd, Los Angeles",34.0775979926,-118.259591658
+36,2009-11-15 03:58:12,"Mermaids Bakery, 1542 Champa St, Denver",39.7460949821,-104.994395696
+37,2009-11-15 01:52:21,"Rialto Caf, 934 16th St, Denver",39.7470309852,-104.994743748
+38,2009-11-14 12:46:07,"The Corner Office Restaurant & Martini Bar, 1401 Curtis St, Denver",39.7455731238,-104.997239113
+39,2009-11-14 08:04:38,"Sam's No. 3, 1500 Curtis St, Denver",39.7461255056,-104.995913436
+40,2009-11-14 08:02:04,"Ink! Coffee, 618 16th St, Denver",39.7448628088,-104.991491488
+41,2009-11-14 03:22:33,"Downtown Aquarium, 700 Water St, Denver",39.7521722541,-105.01376152
+42,2009-11-13 09:47:53,"The Curtis Denver - a DoubleTree by Hilton Hotel, 1405 Curtis St, Denver",39.745728,-104.997065
+43,2009-11-13 09:45:06,"The Curtis Denver - a DoubleTree by Hilton Hotel, 1405 Curtis St, Denver",39.745728,-104.997065
+44,2009-11-13 07:12:26,"Good Times Burgers & Frozen Custard, 951 16th St, Denver",39.7469627134,-104.994418519
+45,2009-10-23 05:09:16,"Jimmy & Joe's Pizzeria, 3950 W Ray Rd, Chandler",33.3211205399,-111.910280233
+46,2009-09-10 09:32:37,"Jimmy & Joe's Pizzeria, 3950 W Ray Rd, Chandler",33.3211205399,-111.910280233
+47,2009-08-01 14:02:20,"Pappadeaux Seafood Kitchen, 11051 N Black Canyon Hwy, Phoenix",33.5877694149,-112.11593592

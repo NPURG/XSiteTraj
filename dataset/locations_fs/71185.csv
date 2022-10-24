@@ -1,0 +1,77 @@
+,time,poi,latitude,longitude
+0,2016-06-24 22:29:19,"Peet's Coffee & Tea, SFO Terminal 3, Boarding Area F, San Francisco",37.6208601211,-122.389755249
+1,2015-12-10 23:12:32,"McDonald's, 2298 Gellert Blvd, South San Francisco",37.6437956331,-122.453715191
+2,2015-10-26 12:38:23,"Pinnacle Hotel Harbourfront, 1133 W Hastings St, VancouveV6E 3T3, Vancouver",49.2885766948,-123.120656472
+3,2014-08-08 01:54:55,"Virgin America Flight 753, SEA Airport, SeaTac",47.4448365653,-122.301864624
+4,2014-08-08 00:51:01,"Sub Pop Store, 17801 International Blvd, SeaTac",47.4441117569,-122.303023635
+5,2014-08-06 13:25:43,"Poppy, 622 Broadway E, Seattle",47.624999,-122.320726848
+6,2014-07-26 02:54:24,"Virgin America Flight 205, at ORD Airport, Chicago",41.9774975526,-87.8980997088
+7,2014-07-26 01:35:06,"Concourse L, Terminal 3, Chicago",41.977012,-87.898033
+8,2014-07-19 22:50:06,"Mitchell's Ice Cream, 688 San Jose Ave, San Francisco",37.7441353657,-122.422813475
+9,2014-06-29 10:34:55,"Caesar Palace Pool, 3570 Las Vegas Blvd S, Las Vegas",36.1158681497,-115.177003618
+10,2014-04-19 03:55:31,"Wells Fargo Bank, 3027 16th St, San Francisco",37.7648915307,-122.420299458
+11,2013-12-16 03:12:11,"Britannia Arms, 173 W Santa Clara St, San Jose",37.3349266588,-121.893823266
+12,2013-12-01 08:55:20,"SeaTac Rental Car Shuttle, Seattle-Tacoma Int'l Airport, SeaTac",47.4606851918,-122.294585931
+13,2013-08-07 01:54:27,"Starbucks, 3595 California St, San Francisco",37.78611,-122.45323
+14,2013-03-28 22:57:07,"Holiday Inn Express & Suites Solana Beach-Del Mar, 621 S Highway 101, Solana Beach",32.9839871148,-117.270542287
+15,2013-01-14 07:54:58,"Una Mas, 548 Lawrence Expy, Sunnyvale",37.3849386978,-121.995259264
+16,2013-01-07 05:41:59,"The North Face, 180 Post Street, San Francisco",37.7888711,-122.4050811
+17,2013-01-06 01:15:42,"Arguello Pet Hospital, 530 Arguello Blvd, San Francisco",37.780689,-122.458767
+18,2013-01-03 08:31:34,"Whole Foods Market, 1150 Ocean Ave, San Francisco",37.7237908737,-122.45473801
+19,2012-12-27 06:10:35,"Roxie Food Center, 1901 San Jose Ave, San Francisco",37.726833139,-122.441379761
+20,2012-07-26 03:15:53,"Shoeless Joe's, 70 Main St, Cooperstown",42.7005886387,-74.9239253998
+21,2012-06-24 06:03:09,"Cold Stone Creamery, 1901 Junipero Serra, Suite F, Daly City",37.70219747,-122.470637411
+22,2012-06-18 00:03:48,"California Street Cable Car, California Street, San Francisco",37.7934609941,-122.397970855
+23,2012-06-15 04:10:23,"Inspiration Point, Presidio of San Francisco, San Francisco",37.7921018473,-122.45828739
+24,2012-06-07 00:34:23,"Hall of Justice, 850 Bryant St, San Francisco",37.775340159,-122.404326043
+25,2012-05-05 04:10:29,"Papalote Mexican Grill, 1777 Fulton St, San Francisco",37.775919,-122.445955
+26,2012-04-30 03:39:46,"Marchbank Baseball Field, 2001 Junipero Serra Blvd, Daly City",37.7018715996,-122.46939363
+27,2012-04-22 02:31:04,"Twin Creeks Sports Complex, 969 E Caribbean Dr, Sunnyvale",37.4154587691,-122.000650633
+28,2012-04-11 00:26:25,"US Post Office, 317 West Portal Ave, San Francisco",37.73778,-122.469191
+29,2012-04-08 06:24:13,"Kwik & Convenient, 600 Monterey Blvd, San Francisco",37.7317953731,-122.449102
+30,2012-03-31 06:48:25,"Hampton Inn Lathrop, 103 E Louise Ave, Lathrop",37.8125821033,-121.293394567
+31,2012-03-31 06:46:05,"Hampton Inn Lathrop, 103 E Louise Ave, Lathrop",37.8125821033,-121.293394567
+32,2012-03-29 05:27:56,"USF - Los Lobos de Loyola, 2130 Fulton St, San Francisco",37.7759562796,-122.451652936
+33,2012-03-12 04:22:04,"Starbucks, 2410 Charleston Avenue, Mountain View",37.421835,-122.096395
+34,2012-03-12 04:15:40,"Best Buy, 2460 Charleston Rd, Mountain View",37.42313302,-122.0970941
+35,2012-02-05 11:23:51,"The Old Clam House, 299 Bay Shore Blvd, San Francisco",37.7430553686,-122.40508937
+36,2012-02-02 02:45:47,"1635 Divisadero Parking Garage, 1635 Divisadero St, San Francisco",37.7845400442,-122.440378929
+37,2012-01-25 04:22:41,"Wells Fargo, 145 West Portal Ave, San Francisco",37.7393630456,-122.467217445
+38,2012-01-22 04:44:49,"Roxie Food Center, 1901 San Jose Ave, San Francisco",37.726833139,-122.441379761
+39,2012-01-17 11:13:55,"The ClubHouse Training Schools, 267 E Harris Ave, South San Francisco",37.648442,-122.390648
+40,2012-01-02 05:19:51,"The Food Emporium, 865 Market St, San Francisco",37.7846308449,-122.406687916
+41,2011-12-19 08:17:23,"Portola - West Portal - Junipero Serra, 100 West Portal Ave, San Francisco",37.7347586686,-122.471295227
+42,2011-12-19 06:10:29,"Safeway, 625 Monterey Blvd, San Francisco",37.7313523345,-122.449629344
+43,2011-09-30 23:57:25,"Aptos Middle School, 105 Aptos Ave, San Francisco",37.7307981851,-122.466955776
+44,2011-09-08 01:23:23,"Dr. Lary Schiller, D,D.S., 345 West Portal Ave, San Francisco",37.737197,-122.469779
+45,2011-08-10 04:34:11,"Rooky Ricardo's, 448 Haight St, San Francisco",37.772268321,-122.429678836
+46,2011-08-05 14:59:41,"Island Buffet, 2707 S Virginia St, Reno",39.4980231643,-119.800041946
+47,2011-08-03 23:06:05,"Stewart's Barber Shop, 1918 Hayes St, San Francisco",37.7737212181,-122.448186
+48,2011-07-23 05:28:42,"Concourse A, PDX Airport, Portland",45.5866986516,-122.59244442
+49,2011-07-22 06:15:08,"Haystack Rock, Off Cannon Beach, Cannon Beach",45.8861258195,-123.963337354
+50,2011-07-17 03:19:30,"Go Bistro, SFO Terminal 1, Boarding Area B, San Francisco",37.6130415852,-122.384970188
+51,2011-07-07 05:17:12,"San Francisco Toyota - Parts & Service Center, 4099 Geary Blvd, San Francisco",37.7809278097,-122.462505578
+52,2011-07-03 14:39:17,"McDonald's, 1236 W Yosemite Ave, Manteca",37.7971386362,-121.235716456
+53,2011-06-22 02:30:32,"USF - Gleeson Library, 2130 Fulton St, San Francisco",37.7766400758,-122.451901736
+54,2011-06-16 03:25:13,"Fifth & Mission / Yerba Buena Garage, 833 Mission St, San Francisco",37.7838518596,-122.405000869
+55,2011-05-24 05:31:02,"San Francisco Unified School District, 555 Franklin St, San Francisco",37.7793702235,-122.421908833
+56,2011-05-24 05:15:00,"San Francisco Unified School District, 555 Franklin St, San Francisco",37.7793702235,-122.421908833
+57,2011-05-16 09:24:08,"SONIC Drive In, 1580 E Main St, Woodland",38.6767840484,-121.747738727
+58,2011-04-23 10:33:25,"Krispy Kreme Doughnuts, 1575 Sullivan Ave, Daly City",37.6886826212,-122.471626898
+59,2011-04-11 02:15:45,"Starbucks, 3605 El Camino Real, Santa Clara",37.35291427,-121.9973143
+60,2011-04-06 06:13:49,"Comcast, 260 Potrero Ave, San Francisco",37.766091,-122.407767
+61,2011-01-23 04:11:49,"Roxie Food Center, 1901 San Jose Ave, San Francisco",37.726833139,-122.441379761
+62,2011-01-16 09:46:18,"Round Table Pizza, 737 Portola Dr, San Francisco",37.7441216225,-122.453648845
+63,2011-01-04 00:59:06,"Dr. Lary Schiller, D,D.S., 345 West Portal Ave, San Francisco",37.737197,-122.469779
+64,2010-12-29 09:04:26,"West Coast Sports, 1855 Alvarado St, San Leandro",37.7167647833,-122.15988465
+65,2010-12-17 00:47:28,"Creighton's, 673 Portola Dr, San Francisco",37.7447481736,-122.452736592
+66,2010-10-27 19:01:58,"BWI Gate D11, Concourse Dr., Linthicum Heights",39.1792464526,-76.6647477953
+67,2010-10-25 08:54:01,"Renaissance Baltimore Harborplace Hotel, 202 East Pratt Street, Baltimore",39.287296,-76.611375
+68,2010-09-24 11:41:24,"USF - Facilities Management, 2130 Fulton St, San Francisco",37.777475,-122.448363
+69,2010-09-05 14:03:32,"San Francisco State University (SFSU), 1600 Holloway Ave, San Francisco",37.7219267593,-122.478132952
+70,2010-09-05 13:58:48,"Starbucks, 675 Portola Dr, San Francisco",37.74474068,-122.4526744
+71,2010-09-05 13:49:48,"SFSU Bookstore, 1650 Holloway Ave, San Francisco",37.7225917335,-122.478396893
+72,2010-08-22 07:55:30,"Bulo Shoes, 418 Hayes St, San Francisco",37.776831,-122.423324
+73,2010-08-09 07:37:45,"Fifth & Mission / Yerba Buena Garage, 833 Mission St, San Francisco",37.7838518596,-122.405000869
+74,2010-08-09 07:34:36,"Union Square, 333 Post St, San Francisco",37.787829545,-122.407661413
+75,2010-08-09 07:31:58,"Nike, 278 Post St, San Francisco",37.7885985898,-122.40668267

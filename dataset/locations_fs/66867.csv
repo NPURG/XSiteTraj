@@ -1,0 +1,177 @@
+,time,poi,latitude,longitude
+0,2016-04-02 22:37:31,"Beef N' Bread, 750 6th St NW, Washington",38.8996564858,-77.0201334357
+1,2014-12-15 10:41:42,"The MAve Hotel, 62 Madison Ave, New York",40.743534177,-73.9862680435
+2,2014-08-09 11:31:47,"Audrey Claire, 276 S 20th St, Philadelphia",39.94824306,-75.174274
+3,2014-08-08 20:59:15,"Pleasant Pops Farmhouse Market & Cafe, 1781 Florida Ave NW, Washington",38.9175496899,-77.0408535004
+4,2014-07-26 09:46:44,"Entre, 1608 South St, Philadelphia",39.9440813198,-75.1691789462
+5,2014-07-07 01:34:41,"The Lobster Pot, 321 Commercial Street, Provincetown",42.0517306091,-70.185263872
+6,2014-07-04 09:04:07,"Pepe's Wharf, 371 Commercial St, Provincetown",42.0533256276,-70.1830836947
+7,2014-05-20 02:30:48,"Starbucks, 2200 Clarendon Blvd, Arlington",38.89026036,-77.08574241
+8,2014-05-17 10:59:13,"Morimoto, 723 Chestnut St, Philadelphia",39.9495761061,-75.1533267303
+9,2014-05-04 08:13:22,"Pizzeria Vetri, 1939 Callowhill St, Philadelphia",39.960856,-75.17141819
+10,2014-03-08 10:05:27,"Amis Trattoria, 412 S 13th St, Philadelphia",39.9449334992,-75.1630711555
+11,2014-02-22 03:56:38,"Founding Farmers, 1924 Pennsylvania Ave NW, Washington",38.9002388738,-77.0445924997
+12,2014-02-15 09:36:47,"The Fat Ham, 3131 Walnut St, Philadelphia",39.9523026632,-75.1875657391
+13,2014-02-02 05:23:43,"Cha Chan Tang, 45 Mott St, New York",40.7152569448,-73.9987132036
+14,2013-12-23 02:40:33,"China Garden, 1100 Wilson Blvd., Arlington",38.894572,-77.070665
+15,2013-12-22 09:40:18,"Jack Rose Dining Saloon, 2007 18th St NW, Washington",38.9173641134,-77.0414103
+16,2013-12-16 03:18:30,"The Industry Bar, 1401 E Moyamensing Ave, Philadelphia",39.930492,-75.149676
+17,2013-11-30 12:14:28,"Gyu-Kaku Japanese BBQ, 159 Main Street, White Plains",41.0324718187,-73.7688638683
+18,2013-11-18 04:45:40,"Llama Tooth, 1033 Spring Garden St, Philadelphia",39.961905,-75.155691
+19,2013-11-16 09:58:26,"First Unitarian Church, 2125 Chestnut St, Philadelphia",39.9526324667,-75.176209
+20,2013-11-07 10:04:42,"Menchie's U Street, 1939 12th Street, Washington",38.9165771903,-77.028003037
+21,2013-11-02 02:51:30,"Isaac's Downtown Bar & Grill, 25 N. Queen St., Lancaster",40.0386212,-76.30566336
+22,2013-11-01 09:17:12,"Little Nonna's, 1234 Locust St, Philadelphia",39.9480091847,-75.1620368116
+23,2013-10-12 23:07:31,"Ela, 627 S 3rd St, Philadelphia",39.940559,-75.147815
+24,2013-09-29 11:51:00,"Anthony's Black Hole, 1111 W St Apt 3, Washington",38.91926,-77.027301
+25,2013-09-26 08:50:13,"Whole Foods Market, 1440 P Street Nw, Washington",38.9096917389,-77.0333588124
+26,2013-09-20 11:24:57,"Stoney's Restaurant, 1433 P St NW, Washington",38.9097901909,-77.0333057642
+27,2013-09-15 06:34:56,"Kapnos, 2201 14th St NW, Washington",38.9193026599,-77.0317205787
+28,2013-09-05 00:19:07,"Delhi Dhaba, 2424 Wilson Blvd, Arlington",38.8903081309,-77.0880050388
+29,2013-08-31 06:51:54,"Gjelina, 1429 Abbot Kinney Blvd, Venice",33.9905041397,-118.464978039
+30,2013-08-30 19:27:05,"Washington Dulles International Airport (IAD), 1 Saarinen Cir, Dulles",38.9521097689,-77.4479190392
+31,2013-08-24 10:08:37,"Serpico, 604 South St, Philadelphia",39.9419722949,-75.1523637772
+32,2013-08-22 08:39:32,"Vida Fitness, 1612 U St NW, Washington",38.9169027793,-77.0374970741
+33,2013-08-14 09:54:37,"Piola Washington DC, 2208 14th St NW, Washington",38.9194504329,-77.0322286375
+34,2013-08-10 10:31:23,"AECOM, 2101 Wilson Blvd, Arlington",38.8922954147,-77.0849251374
+35,2013-08-10 10:26:36,"DMK Burger Bar, 2954 N Sheffield Ave, Chicago",41.9360539563,-87.6541507244
+36,2013-07-11 20:19:39,"Triple B Fresh, 1506 19th St NW, Washington",38.9106544454,-77.043704201
+37,2013-07-07 09:04:15,"Bath House Spa The Hotel @ Mandalay Bay, W Hacienda Ave / 3950 las vegas Blvd south., Las Vegas",36.0929830643,-115.177912619
+38,2013-07-07 03:26:26,"China Poblano, 3708 Las Vegas Blvd S, Las Vegas",36.1092605697,-115.174236071
+39,2013-07-04 05:56:10,"Sweet Leaf, 2200 Wilson Blvd, Arlington",38.8905959552,-77.0859086911
+40,2013-06-30 09:58:47,"Fitler Dining Room, 2201 Spruce St, Philadelphia",39.948688,-75.177958
+41,2013-06-12 20:20:57,"Court House Metro Station, 2100 Wilson Blvd., Arlington",38.8911832611,-77.0850825066
+42,2013-06-11 00:28:26,"Cosi, 2050 Wilson Blvd, Arlington",38.8914412425,-77.0847509071
+43,2013-06-09 01:54:15,"Zengo, 781 7th St NW, Washington",38.8994769673,-77.0217132568
+44,2013-06-03 04:56:14,"Whole Foods Market, 2201 Eye Street NW, Washington",38.9007997828,-77.0490227354
+45,2013-05-19 22:59:13,"Pittsburgh International Airport (PIT), 1000 Airport Blvd, Pittsburgh",40.4957225125,-80.2544213592
+46,2013-05-19 22:54:42,"Point Brugge Caf, 401 Hastings St, Pittsburgh",40.4501312247,-79.9138855934
+47,2013-05-19 22:52:01,"Gesling Stadium, Carnegie Mellon University, Pittsburgh",40.4431748534,-79.940289259
+48,2013-05-19 05:57:49,"The Bagel Factory, 420 S Craig St, Pittsburgh",40.4446031269,-79.9486844543
+49,2013-05-10 08:27:34,"Noord, 1046 Tasker St, Philadelphia",39.9297826843,-75.1631711388
+50,2013-05-04 04:48:52,"Waffle House, 808 Pulaski Hwy, Havre de Grace",39.552953,-76.101248
+51,2013-04-29 09:05:34,"Olive Garden, 8245 Perry Hall Blvd, Baltimore",39.3778045038,-76.4712958038
+52,2013-04-27 19:42:10,"Littlejohn's New York Deli, 1427 University Ave, Charlottesville",38.034634,-78.5002499647
+53,2013-04-23 20:55:30,"Barton Springs Pool, 2101 Barton Springs Rd, Austin",30.2639222653,-97.7701970049
+54,2013-04-23 19:34:16,"Austin Bergstrom International Airport (AUS), 3600 Presidential Blvd, Austin",30.2023536212,-97.6670853015
+55,2013-04-23 11:18:44,"Second Bar + Kitchen, 200 Congress Ave, Austin",30.2643251537,-97.7443465551
+56,2013-04-23 06:02:48,"Chuy's, 1728 Barton Springs Rd, Austin",30.263893629,-97.7632612359
+57,2013-04-08 03:07:58,"Blue Bottle Coffee, 160 Berry St, Brooklyn",40.7173793922,-73.96058321
+58,2013-04-06 04:25:26,"Woodrow Wilson Service Area, NJ Turnpike Northbound, Hamilton",40.1761517909,-74.6292686462
+59,2013-04-03 02:27:19,"Cucina Zapata, 31st St, Philadelphia",39.9535583477,-75.183718712
+60,2013-04-02 01:29:09,"Paesano's Philly Style, 1017 S 9th St, Philadelphia",39.9372010415,-75.1582689626
+61,2013-03-28 22:14:28,"Andal Mexican Restaurant, Gate 59, Terminal 2, San Francisco",37.6175118488,-122.38173008
+62,2013-03-28 00:46:07,"Cowgirl Creamery Sidekick Cafe & Milk Bar, 1 Ferry Building #19, San Francisco",37.7955254055,-122.393574715
+63,2013-03-15 01:17:29,"Chipotle Mexican Grill, 818 Haddonfield Rd, Cherry Hill",39.9275085844,-75.0319741863
+64,2013-03-08 02:55:22,"Miles Table, 1620 South St, Philadelphia",39.94417824,-75.1695095399
+65,2013-02-26 21:40:41,"Honey's Sit 'n Eat, 2101 South St, Philadelphia",39.9452043513,-75.1770902051
+66,2013-02-25 09:23:09,"Couche-Tard, Place d'Armes, Montral",45.5058680162,-73.5603877097
+67,2013-02-25 09:22:10,"Stock Bar, 1171 St Catherine E, Montral",45.518352,-73.5563
+68,2013-02-25 09:20:03,"Le Westin Montreal, 270 Saint-Antoine Ouest, Montral",45.5033241446,-73.5599899292
+69,2013-02-25 08:09:56,"Le Cartet Resto Boutique, 106 rue McGill, Montral",45.4993287168,-73.5552626523
+70,2013-02-25 08:06:51,"Montral Int'l Airport Pierre-Elliott-Trudeau (YUL), 975 rue Romo-Vachon Nord, Dorval",45.4578508283,-73.7520652483
+71,2013-02-24 11:47:46,"Au Pied de Cochon, 536 Ave. Duluth Est., Montral",45.522153,-73.5743719339
+72,2013-02-23 04:51:40,"La Belle Province, Atwater, Montral",45.481275,-73.578059
+73,2013-02-23 03:33:32,"STM Station Lionel-Groulx, Station Lionel-Groulx, Montral",45.482724476,-73.5797846317
+74,2013-02-23 00:48:31,"Chez Cora, 1240 rue Drummond, Montral",45.498273614,-73.5732886781
+75,2013-02-21 05:52:22,"Terminal A, EWR Airport, Newark",40.6871622136,-74.18225614
+76,2013-02-09 02:51:30,"OCF Coffee House, 1745 South St, Philadelphia",39.944491,-75.17203405
+77,2013-02-07 04:31:15,"Starbucks, 1801 Spruce Street, Philadelphia",39.947884,-75.17129
+78,2013-02-02 07:32:02,"Taqueria el Buen Sabor, 699 Valencia St, San Francisco",37.7617772456,-122.421549353
+79,2013-01-27 07:50:53,"California Pizza Kitchen, 325 Christiana Mall, Newark",39.67907149,-75.65308232
+80,2013-01-19 21:45:24,"Vernick Food & Drink, 2031 Walnut St, Philadelphia",39.9506894699,-75.1749471369
+81,2013-01-14 02:36:12,"Pizza Brain, 2313 Frankford Ave, Philadelphia",39.9807252507,-75.1281970422
+82,2013-01-13 06:07:01,"My Thai, 2200 South St, Philadelphia",39.945216,-75.178632
+83,2013-01-13 06:06:34,"Cafe Lutecia, 2301 Lombard St, Philadelphia",39.946391,-75.179478
+84,2013-01-13 06:05:40,"Ants Pants Cafe, 2212 South St, Philadelphia",39.9452481197,-75.1790812612
+85,2013-01-13 06:05:09,"7-Eleven, 2144-48 Lombard St, Philadelphia",39.9461658017,-75.1782015628
+86,2013-01-13 06:03:17,"PA Wine & Spirits, 2492 South St, Philadelphia",39.9457873644,-75.1817068216
+87,2013-01-13 06:02:46,"Barber on 24th, 2401 Lombard St, Philadelphia",39.946544,-75.180444
+88,2013-01-13 06:01:08,"Omega Pizza, 2145 South St, Philadelphia",39.9452166836,-75.1784467065
+89,2013-01-13 06:01:05,"Ultimo Coffee Bar, 2149 Catharine St, Philadelphia",39.942536,-75.179056
+90,2013-01-13 05:53:33,"South Square Market, 2221 South St, Philadelphia",39.945483,-75.17936573
+91,2013-01-13 05:52:58,"Ten Stone, 2063 South St, Philadelphia",39.9450965734,-75.1769249163
+92,2013-01-13 05:52:35,"The Sidecar Bar & Grille, 2201 Christian St, Philadelphia",39.9417450075,-75.1794099294
+93,2013-01-13 05:50:51,"Grace Tavern, 2229 Grays Ferry Ave, Philadelphia",39.945194,-75.179728
+94,2013-01-07 07:57:01,"Honest Tom's Taco Shop, 261 S 44th St, Philadelphia",39.9532661438,-75.2103347778
+95,2013-01-07 03:40:51,"The Pop Shop, Cafe and Creamery, 729 Haddon Ave, Collingswood",39.9161221216,-75.067949295
+96,2013-01-06 11:17:58,"Nan Zhou Hand Drawn Noodle House, 1022 Race St, Philadelphia",39.9555141891,-75.1568267817
+97,2013-01-06 02:28:11,"Green Line on Locust, 4426 Locust St, Philadelphia",39.954087,-75.2116179333
+98,2012-12-26 03:46:05,"Spruce Street Plaza, Spruce St, Philadelphia",39.9503903913,-75.1924556015
+99,2012-12-15 09:40:39,"Phdf & Cafe Saign, 4248 Spruce St, Philadelphia",39.952508,-75.209261
+100,2012-12-02 11:00:23,"Alla Spina, 1410 Mount Vernon St, Philadelphia",39.9644511359,-75.1615123963
+101,2012-11-26 04:11:06,"The Mills at Jersey Gardens, 651 Kapkowski Rd, Elizabeth",40.6601138509,-74.1715815727
+102,2012-11-25 07:04:52,"The Kunjip, 32 W 32nd St, New York",40.7479599605,-73.9871494227
+103,2012-11-24 03:34:19,"The Westchester, 125 Westchester Ave, White Plains",41.0311241072,-73.7590532196
+104,2012-11-12 05:39:20,"Armani Exchange, 2000 Route 38 #1053, Cherry Hill",39.940948503,-75.0246775446
+105,2012-11-11 10:41:04,"One Tippling Place, 2006 Chestnut St, Philadelphia",39.952137936,-75.1737159994
+106,2012-11-04 11:33:29,"Hop Sing Laundromat, 1029 Race St, Philadelphia",39.9555927735,-75.157020092
+107,2012-10-31 10:13:26,"Cantina Los Caballitos, 1651 E Passyunk Ave, Philadelphia",39.9288778651,-75.1645562609
+108,2012-10-28 03:47:48,"Fette Sa, 1208 Frankford Ave, Philadelphia",39.9690789803,-75.134704113
+109,2012-10-23 08:30:27,"Barbuzzo Mediterranean Kitchen & Bar, 110 S 13th St, Philadelphia",39.9499474651,-75.1619741099
+110,2012-10-10 10:47:38,"Alma De Cuba, 1623 Walnut St, Philadelphia",39.9499389173,-75.1686830543
+111,2012-10-03 00:54:07,"The Market & Shops at Comcast Center, 1 Comcast Ctr, Philadelphia",39.9545169849,-75.1683524588
+112,2012-10-01 07:49:23,"Rosa Mexicano, 61 Columbus Ave, New York",40.7711658116,-73.9830861521
+113,2012-09-29 11:43:58,"Room Service, 690 9th Ave, New York",40.7618211599,-73.9900820405
+114,2012-09-29 08:09:56,"Pamcakes: A Philly Cupcakery, 404 S 20th St, Philadelphia",39.9466207115,-75.1746878028
+115,2012-09-25 00:50:44,"Di Bruno Bros., 1730 Chestnut St, Philadelphia",39.9516787615,-75.1700738276
+116,2012-09-25 00:48:01,"Momofuku Milk Bar, 251 E 13th St, New York",40.7317954706,-73.9856725931
+117,2012-09-25 00:47:35,"Phoenix, 447 E 13th St, New York",40.7299236971,-73.9812438782
+118,2012-09-25 00:47:04,"Isabella's, 359 Columbus Ave, New York",40.7804922098,-73.9765147205
+119,2012-09-25 00:45:54,"Mamoun's Falafel, 30 Saint Marks Pl, New York",40.7289690611,-73.9884464373
+120,2012-09-25 00:45:27,"Century 21 Department Store, 22 Cortlandt St, New York",40.7103866523,-74.0108386419
+121,2012-09-25 00:44:37,"Dean & DeLuca, 1150 Madison Avenue, New York",40.78074,-73.95908
+122,2012-09-25 00:43:21,"Lil Dan's, 2413 E Norris St, Philadelphia",39.9539302106,-75.1661693712
+123,2012-09-24 09:09:12,"Ramen Bar, 4040 Locust St, Philadelphia",39.953026,-75.204931
+124,2012-09-23 11:04:49,"Fresco Gelateria, 138 2nd Ave, New York",40.7288686007,-73.9873838425
+125,2012-09-23 01:25:48,"Isabella's, 359 Columbus Ave, New York",40.7804922098,-73.9765147205
+126,2012-09-17 21:03:17,"Rittenhouse Square, on Walnut St, Philadelphia",39.949556012,-75.1719009876
+127,2012-09-08 04:11:14,"Fond, 1537 S 11th St, Philadelphia",39.9298197509,-75.1632395402
+128,2012-09-07 08:08:15,"Naval Square Fitness Center, 800 Admirals Way, Philadelphia",39.9443412686,-75.1846683025
+129,2012-09-03 01:38:46,"Memphis Taproom, 2331 E Cumberland St, Philadelphia",39.9803494278,-75.1230543125
+130,2012-09-02 09:18:16,"Pho Xe Lua, 907 Race St, Philadelphia",39.95527,-75.154657
+131,2012-08-28 22:38:11,"Time, 1315 Sansom St, Philadelphia",39.9499559012,-75.1625612252
+132,2012-08-28 22:37:27,"North Bowl, 909 N 2nd St, Philadelphia",39.9643184333,-75.140299
+133,2012-08-28 22:36:32,"Woody's, 202 S 13th St, Philadelphia",39.9487396999,-75.1622078162
+134,2012-08-28 22:35:47,"South Square Market, 2221 South St, Philadelphia",39.945483,-75.17936573
+135,2012-08-28 22:35:23,"La Colombe Torrefaction, 1414 S Penn Sq, Philadelphia",39.9519642119,-75.1652516674
+136,2012-08-28 22:34:33,"Food & Friends, 1933 Spruce St, Philadelphia",39.9482355084,-75.1743087705
+137,2012-08-28 22:33:33,"Ritz Bar & Lounge, 369 W 46th St, New York",40.760871,-73.990166
+138,2012-08-27 01:05:00,"Creperie Beau Monde & L'Etage, 624 S 6th St, Philadelphia",39.9412111543,-75.152540063
+139,2012-08-20 05:31:19,"Walmart, 500 Route 38, Cherry Hill",39.93814036,-75.04493503
+140,2012-08-20 01:10:41,"Federal Donuts, 1219 S 2nd St, Philadelphia",39.932281461,-75.1476318549
+141,2012-08-19 10:06:55,"1225RAW Sushi & Sake Lounge, 1225 Sansom St, Philadelphia",39.949987,-75.161814
+142,2012-08-17 01:20:07,"Top of the Tower, 1717 Arch St, Philadelphia",39.955423312,-75.1692074457
+143,2012-08-06 02:34:55,"SEPTA MFL/TRL 13th Street Station, 1300 Market St, Philadelphia",39.9521097752,-75.1614323258
+144,2012-07-20 08:54:20,"Lil' Pop Shop, 265 S 44th St, Philadelphia",39.9532899845,-75.2103316784
+145,2012-07-20 05:18:23,"SEPTA MFL/TRL 15th Street Station, 1500 Market St, Philadelphia",39.9525826838,-75.1651391387
+146,2012-07-17 05:22:41,"J.Crew, 1625 Chestnut St, Philadelphia",39.9515686677,-75.1680205017
+147,2012-07-15 23:53:35,"Groom Barber Shop, 1324 Locust St, Philadelphia",39.9481228516,-75.1637354493
+148,2012-07-15 23:51:26,"Devil's Alley, 1907 Chestnut St, Philadelphia",39.9520727648,-75.172201395
+149,2012-07-15 23:50:16,"Tavern On Camac, 243 S Camac St, Philadelphia",39.947272,-75.161634
+150,2012-07-15 03:01:18,"Sam19s Morning Glory Diner, 735 S 10th St, Philadelphia",39.94091606,-75.158869
+151,2012-06-21 21:46:14,"Prague Main Railway Station, Wilsonova 300/8, Praha",50.0835155442,14.4346579979
+152,2012-06-21 21:44:59,"Burger King, Wilsonova 300/8, Praha",50.0836839899,14.4339387383
+153,2012-06-21 04:44:39,"Mercado de San Antn, C. Augusto Figueroa, 24, Madrid",40.4219257041,-3.69762897491
+154,2012-06-21 04:43:49,"Gate C42 13 T1 (MAD), Terminal 1, Madrid",40.4653946934,-3.56910797576
+155,2012-06-21 04:42:07,"Wombat's City Hostel Budapest, Kirly u. 20, Budapest",47.4993115133,19.057943615
+156,2012-06-21 04:37:30,"Kolkovna Savarin, Na P59kop1b 852/10, Praha",50.084256,14.4259775667
+157,2012-06-10 21:43:56,"La Mar del Alabardero, Pl. de Oriente, 6, Madrid",40.418531,-3.711491
+158,2012-05-27 22:02:24,"Garces Trading Company, 1111 Locust St, Philadelphia",39.947674,-75.159976
+159,2012-05-11 06:51:17,"Yura On Madison, 1292 Madison Ave, New York",40.784618,-73.956064
+160,2012-05-10 02:18:34,"Reading Terminal Market, 51 N 12th St, Philadelphia",39.9532317288,-75.1594090172
+161,2012-03-19 22:52:24,"Trophy Bikes, 3131 walnu st, Philadelphia",39.952282,-75.187259
+162,2012-03-12 09:34:53,"Pietro19s Coal Oven Pizzeria, 1714 Walnut St, Philadelphia",39.9501255497,-75.1699997293
+163,2012-01-11 02:54:48,"sweetgreen, 3925 Walnut St, Philadelphia",39.9542726915,-75.2015741077
+164,2012-01-08 05:34:16,"Two Little Red Hens, 1652 2nd Ave, New York",40.7775232764,-73.9517614245
+165,2012-01-06 00:42:55,"West Egg Cafe, 620 N Fairbanks Ct, Chicago",41.893100266,-87.6202408118
+166,2012-01-02 00:47:04,"Clinton St. Baking Co. & Restaurant, 4 Clinton St, New York",40.721229677,-73.9838138223
+167,2012-01-01 05:24:45,"UNIQLO 5th Ave, 666 5th Avenue, New York",40.7603744638,-73.9762204885
+168,2011-12-31 02:57:17,"Veselka, 144 2nd Ave, New York",40.7291362344,-73.9869715129
+169,2011-12-27 12:33:14,"BJ's Restaurant and Brewhouse, 17615 Castleton Street, Industry",33.99442318,-117.9191877
+170,2011-11-27 02:07:52,"Cafe Orlin, 41 Saint Marks Pl, New York",40.7284627017,-73.9873273323
+171,2011-11-07 05:12:31,"Ladure, 864 Madison Ave, New York",40.7706540243,-73.9661606733
+172,2011-11-05 12:44:26,"Revel, 10 Little West 12th St, New York",40.7396988414,-74.006913596
+173,2011-11-05 11:47:56,"The Dutch, 131 Sullivan St, New York",40.7264375462,-74.0022539339
+174,2011-10-26 03:35:33,"Pure Fare, 119 S 21st St, Philadelphia",39.9510378,-75.175566
+175,2011-09-25 07:40:17,"The Liacouras Center, 1776 N Broad St, Philadelphia",39.980009953,-75.1587591871

@@ -1,0 +1,91 @@
+,time,poi,latitude,longitude
+0,2016-10-31 13:17:26,"Rice-Eccles Stadium, 451 S 1400 E, Salt Lake City",40.75994782,-111.848824024
+1,2016-10-31 13:16:24,"BeerHive Pub & Grill, 128 S Main St, Salt Lake City",40.7664844657,-111.891160175
+2,2016-10-13 09:39:00,"Ballast Point Tasting Room, 110 N Marina Dr, Long Beach",33.7464474565,-118.114733847
+3,2016-10-13 09:36:17,"Pizza Port, 135 N Highway 101, Solana Beach",32.9929651826,-117.27218988
+4,2016-10-13 09:34:12,"The Fika Company - Coffee Roastery, 350 N Pacific Coast Hwy, Redondo Beach",33.847057,-118.387656
+5,2016-10-13 09:32:21,"India's Tandoori, 916 N Sepulveda Blvd, Manhattan Beach",33.8852986796,-118.395797341
+6,2016-10-13 09:31:44,"Barney's Beanery, 100 Fishermans Wharf, Redondo Beach",33.8389487055,-118.39067371
+7,2016-10-13 09:30:49,"suburbia, 247 Avenida del Norte, Redondo Beach",33.818449,-118.386867
+8,2016-10-13 09:29:52,"Tustin Brewing Company, 13011 Newport Ave Ste 100, Tustin",33.7497986167,-117.81087
+9,2016-06-26 13:27:57,"Mediterraneo, 73 Pier Ave, Hermosa Beach",33.86225325,-118.400441
+10,2016-06-26 13:25:43,"Rutabegorz, 158 W Main St, Tustin",33.7419748617,-117.824757601
+11,2016-06-26 13:22:53,"The Breakfast Bar, 70 Atlantic Ave, Long Beach",33.7672860121,-118.184909821
+12,2016-05-02 13:25:38,"Uncle Julio's, 5301 Camp Bowie Blvd, Fort Worth",32.7344130442,-97.4008262157
+13,2016-05-02 13:24:26,"Eureka!, 200 E 6th St, Austin",30.2677686231,-97.7413281037
+14,2016-05-02 13:23:41,"Frank Restaurant, 407 Colorado St, Austin",30.2665964687,-97.7445958882
+15,2016-05-02 13:23:02,"HandleBar, 121 E 5th St, Austin",30.266625751,-97.7420177209
+16,2016-03-30 14:21:34,"Segerstrom Center for the Arts, 600 Town Center Dr, Costa Mesa",33.6926915783,-117.882379453
+17,2016-03-30 14:19:27,"Queenstown Public House, 1557 Columbia St, San Diego",32.721724249,-117.167193522
+18,2016-03-30 14:18:04,"Honda Center, 2695 E Katella Ave, Anaheim",33.8078562296,-117.876565174
+19,2016-03-30 14:17:06,"Mr. Pickle's Sandwich Shop, 23591 Rockfield Blvd Ste H, Lake Forest",33.6313167414,-117.71766901
+20,2016-03-30 14:13:49,"Brat & Bra, 1342 Hermosa Ave, Hermosa Beach",33.863656,-118.400273
+21,2016-01-29 14:51:27,"State of Beer, 401 Hillsborough St Ste A, Raleigh",35.78050346,-78.645217862
+22,2016-01-29 14:50:40,"PNC Arena, 1400 Edwards Mill Rd, Raleigh",35.803309854,-78.7218216256
+23,2016-01-29 14:48:10,"Kimpton Hotel Palomar Phoenix Cityscape, 2 East Jefferson St, Phoenix",33.4473359,-112.0734243
+24,2016-01-29 14:46:49,"Copper Blues Live!, 50 W Jefferson St, Phoenix",33.4477764589,-112.073914114
+25,2016-01-29 14:46:09,"City Tavern Downtown LA, 735 S Figueroa St #133, Los Angeles",34.0488548053,-118.261256218
+26,2016-01-29 14:44:39,"TAPS Fish House & Brewery, 13390 Jamboree Rd, Irvine",33.7278546919,-117.788170771
+27,2015-12-23 15:22:34,"Ballast Point Tasting Room & Kitchen, 2215 India St, San Diego",32.7276287548,-117.169852836
+28,2015-12-23 15:21:24,"Werewolf, 627 4th Ave, San Diego",32.711881,-117.160855
+29,2015-12-23 15:20:33,"Stone Brewing World Bistro & Gardens Liberty Station, 2816 Historic Decatur Rd #116, San Diego",32.7403487798,-117.211725282
+30,2015-12-23 15:19:23,"Pizza Port Brewing Company, 1956 Bacon St, San Diego",32.7479975765,-117.250276357
+31,2015-12-23 15:17:58,"Neighborhood, 777 G St, San Diego",32.712542702,-117.157406029
+32,2015-12-23 15:17:05,"Petco Park, 100 Park Blvd, San Diego",32.7074421568,-117.157124574
+33,2015-12-23 15:15:49,"Hot's Kitchen, 844 Hermosa Ave, Hermosa Beach",33.8599366913,-118.399304152
+34,2015-12-23 15:14:57,"Mickey McColgan's, 934 Hermosa Ave, Hermosa Beach",33.8602819357,-118.399386072
+35,2015-12-23 15:13:57,"King Harbor Brewing Company Waterfront Tasting Room, 132 International Boardwalk, Redondo Beach",33.8417921256,-118.391341274
+36,2015-12-23 15:12:38,"Lucky Baldwin's Pub, 17 S Raymond Ave, Pasadena",34.1453852468,-118.149065555
+37,2015-12-23 15:11:42,"Phantom Carriage Brewery, 18525 Main Street, Carson",33.861876658,-118.276126385
+38,2015-12-21 15:04:02,"Beachwood BBQ & Brewing, 210 E 3rd St, Long Beach",33.7699860801,-118.191028115
+39,2015-12-21 15:03:01,"Monkish Brewing Co., 20311 S Western Ave, Torrance",33.8462888607,-118.310201168
+40,2015-12-21 15:01:56,"Hyatt Place Raleigh West, 710 Corporate Center Dr, Raleigh",35.7919239316,-78.7384516554
+41,2015-12-21 15:00:49,"Bottle Revolution RDU, 10970 Chapel Hill Rd, Morrisville",35.8562180521,-78.8405288187
+42,2015-12-21 14:59:52,"The Raleigh Times Bar, 14 E Hargett St, Raleigh",35.7782459778,-78.6385420283
+43,2015-12-21 14:59:10,"Flying Saucer Draught Emporium, 328 W Morgan St, Raleigh",35.7799789922,-78.6448798799
+44,2015-12-21 14:58:20,"Trophy Brewing & Pizza, 827 W Morgan St, Raleigh",35.7796465834,-78.6533331871
+45,2015-12-21 14:57:08,"Church Street Irish Pub, 105 W Church St, Swansboro",34.6871235603,-77.1200077285
+46,2015-12-21 14:56:30,"PADRE, 525 E Broadway, Long Beach",33.7694725066,-118.185338485
+47,2015-12-21 14:55:29,"Blind Donkey, 149 Linden Ave Ste B100, Long Beach",33.769143,-118.186452
+48,2015-12-21 14:54:33,"Good Stuff Restaurant, 1617 S Pacific Coast Hwy Ste 102, Redondo Beach",33.819217,-118.385464
+49,2015-12-21 14:53:39,"Select Beer Store Bottle Shop & Tap Room, 1613 S Pacific Coast Hwy, Redondo Beach",33.8195984012,-118.385686863
+50,2015-12-21 14:52:35,"The BrewHouse, 31896 Plaza Dr #D3, San Juan Capistrano",33.4953764621,-117.660761664
+51,2015-12-21 14:50:50,"Baja California Fish Tacos, 4749 Artesia Blvd, Lawndale",33.8730929945,-118.361138462
+52,2015-12-21 14:49:51,"Bombay Tandoori, 4411 Pacific Coast Hwy, Torrance",33.8073480202,-118.356299117
+53,2015-12-21 14:48:54,"Sushi Gone Wild, 24004 Vista Montana, Torrance",33.80658,-118.357846
+54,2015-09-19 11:01:20,"Hopdoddy Burger Bar, 830 S Sepulveda Blvd Ste 116, El Segundo",33.9031280113,-118.39508415
+55,2015-09-09 07:49:53,"Freebirds World Burrito, 1509 Hawthorne Blvd, Ste 101, Redondo Beach",33.8680414948,-118.353792429
+56,2015-09-09 07:48:54,"The Rockefeller, 1209 Highland Ave, Manhattan Beach",33.8859828149,-118.410322954
+57,2015-09-09 07:47:48,"Sunset Beer Company, 1498 W Sunset Blvd Ste 3, Los Angeles",34.075462,-118.255321
+58,2015-09-09 07:46:49,"Guisados, 1261 W Sunset Blvd, Los Angeles",34.070245221,-118.250381005
+59,2015-09-09 07:45:57,"La Playita, 37 14th St, Hermosa Beach",33.86364936,-118.401615
+60,2015-09-09 07:45:06,"Abigaile, 1301 Manhattan Ave, Hermosa Beach",33.863179057,-118.399591466
+61,2015-09-09 07:42:39,"King Harbor Brewing Company, 2907 182nd Street, Redondo Beach",33.8659057,-118.3561142
+62,2015-09-09 07:39:44,"Grimaldi's Coal Brick-Oven Pizzeria, 2121 Rosecrans Ave, El Segundo",33.9021296137,-118.387107616
+63,2015-09-09 07:37:58,"Flights Craft Beer + Sports Grill, 5119 W El Segundo Blvd, Hawthorne",33.916714,-118.367656
+64,2015-09-09 07:37:15,"Hudson House, 514 N Pacific Coast Hwy, Redondo Beach",33.8502317418,-118.388689309
+65,2015-09-09 07:36:27,"Naja's Place, 154 Internatl Boardwalk, Redondo Beach",33.8424528482,-118.391700731
+66,2015-09-09 07:34:02,"The Pan, 16601 S Western Ave, Gardena",33.879977,-118.309426
+67,2015-07-11 13:44:30,"Merchants Restaurant, 401 Broadway, Nashville",36.160907002,-86.7771830507
+68,2015-07-11 13:41:55,"Arnold's Country Kitchen, 605 8th Ave S, Nashville",36.1513736747,-86.7795336844
+69,2015-07-11 13:39:21,"Bank of Venice, 80 Windward, Los Angeles",33.9875868256,-118.472262266
+70,2015-07-11 13:37:53,"Smog City Brewing Company, 1901 Del Amo Blvd, Torrance",33.8471619446,-118.313612144
+71,2015-07-11 13:36:52,"Rookies, 930 Tahoe Blvd, Incline Village",39.249466,-119.94826
+72,2015-07-11 13:36:06,"Russian River Brewing Company, 725 4th St, Santa Rosa",38.4416570502,-122.711663246
+73,2015-07-11 13:34:59,"The Library Alehouse, 2911 Main St, Santa Monica",33.9994459735,-118.480821848
+74,2015-07-11 13:33:50,"Father's Office, 1018 Montana Ave, Santa Monica",34.0293699777,-118.498447904
+75,2015-07-11 13:33:01,"The Craftsman Bar and Kitchen, 119 Broadway, Santa Monica",34.0131348137,-118.495830667
+76,2015-07-11 13:32:14,"Fools Gold NYC, 145 E Houston St, New York",40.7232612733,-73.9897377042
+77,2015-07-11 13:31:21,"McFadden's Saloon, 800 2nd Ave, New York",40.7499619774,-73.9722159071
+78,2015-07-11 13:30:13,"Cooper's Craft and Kitchen, 87 2nd Ave, New York",40.7269065798,-73.9889285113
+79,2015-07-11 13:28:55,"Industria Superstudio, 775 Washington St, New York",40.7377463757,-74.0080583096
+80,2015-07-11 13:27:47,"The Blind Tiger, 281 Bleecker St, New York",40.7318540672,-74.0033499976
+81,2015-07-11 13:26:57,"Planet Pizza, 733 Post Rd, Fairfield",41.1476435133,-73.2475813475
+82,2015-07-11 13:26:19,"Two Roads Brewing Company, 1700 Stratford Ave, Stratford",41.1857681121,-73.1421491698
+83,2015-07-11 13:25:36,"Kama Sushi, 2410 Main St, Stratford",41.1933671942,-73.1307624782
+84,2015-07-11 13:24:18,"Santa Anita Park, 285 W Huntington Dr, Arcadia",34.1407578003,-118.044855595
+85,2015-07-11 13:16:43,"Pizza Port, 301 N El Camino Real, San Clemente",33.4287466183,-117.61364998
+86,2015-07-11 13:15:29,"Cassia, 1314 7th St, Santa Monica",34.0198092372,-118.49353271
+87,2015-07-11 13:14:28,"James' Beach, 60 N Venice Blvd, Venice",33.9847829765,-118.470323269
+88,2015-07-11 13:11:59,"Stout Burgers & Beers, 111 Santa Monica Blvd, Santa Monica",34.0144292228,-118.497546986
+89,2015-06-23 10:56:33,"Citi Field, 12301 Roosevelt Ave, Flushing",40.7564111146,-73.845895027

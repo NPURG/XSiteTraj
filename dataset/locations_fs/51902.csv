@@ -1,0 +1,55 @@
+,time,poi,latitude,longitude
+0,2012-10-31 13:17:51,"Raley19s, 3550 N.G Street, Merced",37.3311722597,-120.467566252
+1,2011-11-11 07:49:22,"In-N-Out Burger, 1579 M L King Jr Way, Merced",37.2984251771,-120.481976774
+2,2011-04-01 11:53:29,"UC Merced - Terrace Center, 5200 N Lake Rd, Merced",37.3640775167,-120.427622795
+3,2011-03-03 07:55:05,"Grand China Buffet, 1121 W Olive Ave, Merced",37.319449,-120.489726
+4,2011-01-21 21:59:02,"Starbucks, 580 W Olive Ave, Merced",37.3190109494,-120.477522353
+5,2011-01-13 03:44:04,"Los Angeles International Airport (LAX), 1 World Way, Los Angeles",33.9435869099,-118.408083022
+6,2011-01-11 05:40:29,"I-405 / SR-55 Interchange, Costa Mesa Fwy, Costa Mesa",33.6873175444,-117.872228622
+7,2010-12-25 06:12:47,"Costco Wholesale, 11000 Garden Grove Blvd, Garden Grove",33.7727645398,-117.941121376
+8,2010-12-17 11:35:20,"Interstate 5 (Golden State Freeway), Interstate 5, Southern California",34.2477041401,-118.425172463
+9,2010-12-02 05:20:52,"Jack in the Box, 595 W Olive Ave, Merced",37.319742,-120.47809
+10,2010-12-02 05:15:04,"Jack in the Box, 595 W Olive Ave, Merced",37.319742,-120.47809
+11,2010-11-06 06:34:15,"Costco Wholesale, 1445 R Street, Merced",37.3032134585,-120.49692495
+12,2010-11-03 07:01:58,"SR-22 at Euclid St, Garden Grove Fwy, Garden Grove",33.7660195186,-117.937731519
+13,2010-10-30 02:23:48,"UC Merced - Yablokoff-Wallace Dining Center, 5200 N Lake Rd, Merced",37.3644868226,-120.42711854
+14,2010-10-20 03:38:10,"Round Table Pizza, 1728 W Olive Ave, Merced",37.3187492167,-120.49602
+15,2010-10-11 08:47:30,"Del Taco, 1798 W Olive Ave, Merced",37.3187010851,-120.499476492
+16,2010-10-04 13:20:48,"AMPM, 3100 G St, Merced",37.318739,-120.46886749
+17,2010-10-04 03:10:35,"24 Hour Fitness, 589 Anton Blvd, Costa Mesa",33.6888398028,-117.879993213
+18,2010-10-03 14:23:50,"Ralphs, 2741 W MacArthur Blvd, Santa Ana",33.7013990752,-117.905836701
+19,2010-09-29 05:03:44,"UC Merced - Yablokoff-Wallace Dining Center, 5200 N Lake Rd, Merced",37.3644868226,-120.42711854
+20,2010-09-22 00:50:24,"San Jose McEnery Convention Center, 150 W San Carlos St, San Jose",37.3296793258,-121.888782978
+21,2010-09-21 23:49:15,"US-101 (Bayshore / James Lick Freeway), US Highway 101, Santa Clara",37.3775128553,-121.943414167
+22,2010-09-21 23:48:56,"US-101 / CA SR-85 Interchange, US Highway 101 & CA State Route 85, San Jose",37.2406163718,-121.771170305
+23,2010-09-20 03:42:39,"Subway, 3250 G St, Merced",37.321321,-120.468501
+24,2010-09-20 03:26:41,"Walgreens, 3098 G St, Merced",37.3179775425,-120.467954948
+25,2010-09-12 16:07:18,"UC Merced - Early Childhood Education Center, 5200 N Lake Rd, Merced",37.3637747995,-120.43112576
+26,2010-09-12 05:33:18,"rePLANET Recycling Center, 3094 G St, Merced",37.3170577304,-120.468891263
+27,2010-09-12 05:26:25,"rePLANET Recycling Center, 3094 G St, Merced",37.3170577304,-120.468891263
+28,2010-09-06 15:07:50,"Eugene A. Obregon Memorial Interchange (I-5/I-10/CA-60/US-101), East Los Angeles Interchange, Los Angeles",34.0307538735,-118.221130371
+29,2010-08-24 06:09:53,"Costco Wholesale, 1445 R Street, Merced",37.3032134585,-120.49692495
+30,2010-08-21 18:45:35,"Norm's Restaurant, 1123 N Euclid St, Anaheim",33.8479529124,-117.942039818
+31,2010-08-15 05:31:18,"Carl's Jr., 1720 E Dyer Rd, Santa Ana",33.708098,-117.849442167
+32,2010-08-14 09:39:12,"Bellagio Hotel & Casino, 3600 Las Vegas Blvd S, Las Vegas",36.1129654159,-115.175110341
+33,2010-08-13 09:24:38,"Lone Star Steakhouse, 1290 E Flamingo Rd, Las Vegas",36.11494,-115.136543867
+34,2010-08-13 06:07:41,"Wynn Esplanade, 3131 Las Vegas Blvd S, Las Vegas",36.1257630135,-115.168121908
+35,2010-08-13 03:55:49,"Las Vegas Blvd at Spring Mountain Rd, Las Vegas Blvd, Las Vegas",36.125486597,-115.169312954
+36,2010-08-12 07:20:55,"Buffalo Bill's Hotel & Casino, 31900 Las Vegas Blvd S, Primm",35.6141292257,-115.385627747
+37,2010-08-11 08:23:53,"El Pollo Loco, 3131 Harbor Blvd, Costa Mesa",33.684201154,-117.919753678
+38,2010-08-09 21:52:42,"SR 55 @ MacArthur, California State Route 55, Santa Ana",33.6994412186,-117.863431729
+39,2010-08-07 12:41:49,"Century Stadium 25 & Xd, 1701 W Katella Ave, Orange",33.8089068672,-117.870602454
+40,2010-07-26 19:31:13,"I-405 / SR-55 Interchange, Costa Mesa Fwy, Costa Mesa",33.6873175444,-117.872228622
+41,2010-07-10 14:46:10,"Vagabond Inn Costa Mesa, 3205 Harbor Blvd, Costa Mesa",33.687704525,-117.921218664
+42,2010-07-02 15:10:34,"Jack in the Box, 2235 Harbor Blvd, Costa Mesa",33.655698199,-117.919267748
+43,2010-05-31 07:41:05,"Marine Corps Air Station Tustin, Armstrong Ave, Tustin",33.7098111865,-117.824850082
+44,2010-05-20 16:39:27,"Mile Square Regional Park, 16801 Euclid St, Fountain Valley",33.7230546869,-117.946128845
+45,2010-04-11 19:49:03,"Merced Regional Airport (MCE), 20 Macready Dr, Merced",37.2883260696,-120.51551342
+46,2010-04-10 18:03:51,"Merced College, 3600 M St, Merced",37.3337568142,-120.476836178
+47,2010-04-07 22:14:20,"UC Merced - Little Lake Park Amphitheater, 5200 N Lake Rd, Merced",37.3644150144,-120.426932462
+48,2010-04-07 00:59:58,"UC Merced - Yablokoff-Wallace Dining Center, 5200 N Lake Rd, Merced",37.3644868226,-120.42711854
+49,2010-04-06 15:22:35,"UC Merced - Science & Engineering Building, 5200 N Lake Rd, Merced",37.3662860363,-120.422217178
+50,2010-04-06 15:05:36,"UC Merced - ""Beginnings"" Sculpture, 5200 N Lake Rd, Merced",37.3659279024,-120.423395634
+51,2010-04-06 14:19:08,"UC Merced - Terrace Center, 5200 N Lake Rd, Merced",37.3640775167,-120.427622795
+52,2010-04-01 10:18:27,"UC Merced - Calaveras Hall, 5200 N Lake Rd, Merced",37.364657366,-120.428242385
+53,2010-03-24 12:08:27,"Pinkberry, 13865 City Center Dr #3085, Chino Hills",34.0010590584,-117.729084698

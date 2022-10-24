@@ -1,0 +1,119 @@
+,time,poi,latitude,longitude
+0,2016-09-25 04:09:58,"The Hideaway, 22 Peck Slip, New York",40.708214572,-74.001915358
+1,2016-09-18 01:12:28,"Amada, 200 Vesey St, New York",40.7141817256,-74.015182495
+2,2016-09-18 01:11:08,"Joe & The Juice, World Trade Center, 185 Greenwich St, New York",40.712986,-74.013726
+3,2016-09-17 09:54:44,"Barleycorn, 23 Park Pl, New York",40.7132481428,-74.0089679429
+4,2016-09-17 09:52:59,"Washington Dulles International Airport (IAD), 1 Saarinen Cir, Dulles",38.9487917869,-77.4479190392
+5,2016-09-17 09:49:52,"Virginia Kitchen, 450 Elden St, Herndon",38.9681525603,-77.3750515072
+6,2016-09-12 03:16:17,"Maison Kayser, 355 Greenwich St, New York",40.7188093819,-74.010408268
+7,2016-09-12 03:13:48,"Galerie de Cafe, 51 Warren St, New York",40.714638,-74.00917
+8,2016-09-10 03:13:55,"Dos Toros Taqueria, 465 Lexington Ave, New York",40.753677743,-73.9744657653
+9,2016-09-10 03:12:09,"Baked, 279 Church St, New York",40.7188629052,-74.0049510428
+10,2016-08-29 04:10:11,"Nish Nush, 41 John St, New York",40.7095116345,-74.0082506455
+11,2016-08-29 04:08:48,"Brookfield Place, 230 Vesey St, New York",40.7132036298,-74.0156185963
+12,2016-08-29 04:07:14,"El Luchador, 87 South St, New York",40.7058499938,-74.003918112
+13,2016-08-29 04:06:12,"Manhattan Proper, 6 Murray St, New York",40.713410967,-74.0078115463
+14,2016-08-29 03:24:46,"Bareburger, 155 William Street, New York",40.7100018565,-74.0062594138
+15,2016-08-29 03:19:25,"Seaport Smorgasburg, 11 Fulton St, New York",40.7069157231,-74.0035738005
+16,2016-08-29 03:18:11,"Da Claudio, 21 Ann St, New York",40.7108754601,-74.0076423752
+17,2016-08-29 03:16:32,"Eataly Downtown, 101 Liberty St, New York",40.70999,-74.011435
+18,2016-08-29 03:14:58,"Pisillo Italian Panini, 97 Nassau St, New York",40.7105724526,-74.0074931765
+19,2016-08-29 03:12:58,"GRK Fresh Greek - Financial District, 111 Fulton St, New York",40.7100197277,-74.007012248
+20,2016-08-21 02:58:40,"Vietspot, 99 Nassau St, New York",40.7105742304,-74.0074759613
+21,2016-08-21 02:57:21,"Birch Coffee, 8 Spruce Street, New York",40.7108381571,-74.0058290296
+22,2016-08-21 02:55:28,"Smashburger, 136 William St, New York",40.7093121812,-74.0066045523
+23,2016-08-02 07:39:22,"Birch Coffee, 8 Spruce Street, New York",40.7108381571,-74.0058290296
+24,2016-07-04 07:58:44,"The Wheeltapper Pub, 141 E 44th St, New York",40.7528846079,-73.9746436867
+25,2016-03-26 23:43:15,"Colle Bereto, Piazza Strozzi 4-6/R, Firenze",43.7712139022,11.2523120642
+26,2016-03-26 23:41:54,"Mercato Centrale Firenze, Piazza del Mercato Centrale, Firenze",43.7765942135,11.2532615662
+27,2016-03-26 23:39:10,"SE - STO, Piazza Ognissanti 3, Firenze",43.771791079,11.2458157539
+28,2016-03-25 14:17:03,"The Westin Excelsior, Piazza Ognissanti 3, Firenze",43.7719633379,11.2457900355
+29,2016-02-27 06:16:40,"Sons of Thunder, 204 E 38th St, New York",40.7479051777,-73.9758396149
+30,2016-02-07 04:24:06,"Delaney Chicken, 230 Park Ave, New York",40.7546187189,-73.9767098579
+31,2016-02-04 01:32:19,"The Leopard at des Artistes, 1 W 67th St, New York",40.773278,-73.978987
+32,2016-01-17 03:24:36,"Las Vegas Convention Center, 3150 Paradise Rd, Las Vegas",36.1312200154,-115.153412819
+33,2016-01-17 03:23:16,"Harrah's Hotel & Casino, 3475 Las Vegas Blvd S, Las Vegas",36.1192678923,-115.171265853
+34,2016-01-17 03:19:22,"Blue Olive Market, 210 E 41st St, New York",40.7497947724,-73.9743280196
+35,2016-01-17 03:16:46,"Bellagio Hotel & Casino, 3600 Las Vegas Blvd S, Las Vegas",36.1126973539,-115.175556159
+36,2016-01-17 03:15:16,"ARIA Resort & Casino, 3730 Las Vegas Blvd S, Las Vegas",36.107776562,-115.176453584
+37,2016-01-17 03:12:33,"Julian Serrano Tapas, 3730 Las Vegas Blvd S, Las Vegas",36.1076824224,-115.176025137
+38,2016-01-17 03:10:24,"March Bacchus, 2620 Regatta Dr, Las Vegas",36.2077842737,-115.26825428
+39,2015-12-28 00:45:37,"Le Pain Quotidien, 81 W Broadway, New York",40.714963,-74.009775
+40,2015-12-28 00:41:24,"Zucker's Bagels & Smoked Fish, 146 Chambers St, New York",40.7157740181,-74.0096794993
+41,2015-12-13 12:29:55,"The Hop, 554 Main St, Beacon",41.5035022028,-73.9626422368
+42,2015-12-13 12:27:29,"The Roundhouse at Beacon Falls, 2 E Main St, Beacon",41.5026637393,-73.962546587
+43,2015-12-13 12:19:16,"Made Fresh Daily, 226 Front St, New York",40.707561,-74.002142
+44,2015-12-06 07:38:12,"Hamilton's, 2826 Fort Hamilton Pkwy, Brooklyn",40.6487346774,-73.9775248416
+45,2015-11-27 00:38:38,"Exceed Physical Culture, 97 Reade St, New York",40.7156797089,-74.007980941
+46,2015-11-23 07:21:55,"Kalustyan's, 123 Lexington Ave, New York",40.7428152622,-73.9823802361
+47,2015-11-02 10:08:01,"Mezcaloteca, Reforma 506, Oaxaca de Jurez",17.0659745869,-96.7213582993
+48,2015-11-02 10:05:27,"Mezquite, Manuel Garca Vigil 601-A, Oaxaca de Jurez",17.067021,-96.724696
+49,2015-11-02 10:02:57,"El Cortijo La Mezcaleria, 5 de Mayo 305-A, Oaxaca de Jurez",17.0639335485,-96.7232036591
+50,2015-10-30 04:33:57,"Quinta Real Oaxaca, Calle 5 de Mayo 300, Oaxaca de Jurez",17.0641319214,-96.7228944602
+51,2015-10-29 07:49:20,"La Octava Cafe, Maestro Antonio Caso 19 PB, Ciudad de Mxico",19.4340371817,-99.155023098
+52,2015-10-29 07:45:42,"Los Danzantes, Macedonio Alcal 403, Int. 4, Oaxaca de Jurez",17.0651577943,-96.7242791407
+53,2015-10-28 13:40:04,"Merotoro, msterdam 204, Ciudad de Mxico",19.4096621454,-99.1697001457
+54,2015-10-28 10:12:48,"Gaslight Lounge, 400 W 14th St, New York",40.7407931499,-74.0053240442
+55,2015-10-28 10:05:31,"Sabores y Saberes Bar&Coffee, Berln 39, Col. Jurez, Del. Cuauhtmoc, Distrito Federal",19.4261250552,-99.1563749313
+56,2015-10-28 09:26:50,"La Cervecera de Barrio, Tamaulipas 95, Cuauhtemoc",19.4110261384,-99.1744209539
+57,2015-10-28 09:25:21,"Le Meridien, Paseo De La Reforma 69, Ciudad de Mxico",19.4334622189,-99.1543583166
+58,2015-10-28 09:22:49,"HOP, Roma 13, Jurez",19.428986699,-99.1563367853
+59,2015-10-28 09:21:27,"Secretara de Educacin Pblica, Repblica de Argentina, Ciudad de Mxico",19.4369978883,-99.1322309082
+60,2015-10-28 09:19:52,"Caf del Centro, Bolvar 26, Cuauhtemoc",19.4331641315,-99.1383647868
+61,2015-10-18 06:42:31,"The Hideaway, 185 Duane St, New York",40.7174294803,-74.0103508847
+62,2015-10-16 03:11:06,"Amali Mo, 230 Park Ave, New York",40.7546361678,-73.9768189052
+63,2015-10-16 03:08:45,"UrbanSpace Vanderbilt, 230 Park Avenue, New York",40.7543992353,-73.9768705592
+64,2015-10-05 08:09:32,"Figs La Guardia, 94th St, Flushing",40.7746204757,-73.8721281737
+65,2015-08-31 01:49:41,"Birreria at Eataly, 200 5th Ave, New York",40.7420339289,-73.9899366349
+66,2015-08-31 01:44:38,"V Bar, 212 Front Street, New York",40.70728302,-74.0027008057
+67,2015-08-31 01:43:03,"Souths, 273 Church St, New York",40.718678,-74.005269
+68,2015-08-31 01:32:04,"The Meatball Shop, 200 9th Ave, New York",40.746011304,-74.0016915533
+69,2015-08-16 11:41:59,"Tuttles Bar & Grill, 735 2nd Ave, New York",40.7482754677,-73.9735933744
+70,2015-08-16 10:50:57,"Distilled, 211 W Broadway, New York",40.7188863039,-74.0066266742
+71,2015-08-09 04:15:37,"Little Town NYC, 118 E 15th St, New York",40.734853,-73.988588
+72,2015-08-09 03:44:03,"Los Autenticos Cuban Cafe, 7339 E Colonial Dr, Orlando",28.5683921393,-81.2895423234
+73,2015-08-09 03:41:46,"Barbal, 225-227 Front St, New York",40.7074747,-74.0020404
+74,2015-08-09 03:27:41,"Merchants River House, Hudson River Esplanade, New York",40.7113599696,-74.0178163023
+75,2015-08-09 03:18:25,"World of Beer, 3402 Technological Ave, Orlando",28.59844522,-81.22099042
+76,2015-07-20 10:19:18,"Ruchi Indian Cuisine, 120 Cedar St, New York",40.7098786899,-74.0129101615
+77,2015-07-04 01:47:49,"Smorgasbar @ Seaport Smorgasburg, 89 Fulton St, New York",40.7068140152,-74.0034877225
+78,2015-06-19 11:17:53,"Osteria Laguna, 209 E 42nd St, New York",40.750582,-73.974123
+79,2015-06-19 11:16:56,"Hudson Clearwater, 447 Hudson St, New York",40.7310779929,-74.0069022775
+80,2015-06-19 11:15:05,"Bounce Sporting Club, 55 W 21st St, New York",40.7415038935,-73.9932728615
+81,2015-06-19 11:12:28,"Navy Pier, 600 E Grand Ave, Chicago",41.891447962,-87.6086071019
+82,2015-06-08 06:06:59,"Watermark Bar, 78 South St, New York",40.7044385403,-74.003120456
+83,2015-05-31 03:40:41,"Le Colonial, 20 Cosmo Pl, San Francisco",37.788349,-122.412412611
+84,2015-05-24 07:16:31,"Pier A Harbor House, 22 Battery Pl, New York",40.7043870628,-74.0178048261
+85,2015-05-13 05:41:57,"Cipriani Dolci, 89 E 42nd St, New York",40.7528631954,-73.9776855422
+86,2015-05-13 05:34:27,"Patsy's Pizzeria, 801 2nd Ave, New York",40.7502436994,-73.9719691098
+87,2015-05-04 02:05:06,"White Horse Tavern, 567 Hudson St, New York",40.7356854197,-74.0059437988
+88,2015-05-03 10:42:57,"Porchlight, 271 11th Ave, New York",40.7519065665,-74.0050026892
+89,2015-04-27 10:59:28,"New York Penn Station (NYP), 1 Penn Plz, New York",40.7502622144,-73.992090657
+90,2015-04-27 10:58:09,"Ghibellina, 1610 14th St NW, Washington",38.9115809198,-77.0321953297
+91,2015-04-27 10:57:10,"Port City Brewing Company, 3950 Wheeler Ave, Alexandria",38.808313846,-77.1012510862
+92,2015-04-27 10:55:51,"Ray19s Hell Burger, 1650 Wilson Blvd, Arlington",38.894039014,-77.0777928829
+93,2015-04-27 10:54:38,"Ruben's Empanadas, 64 Fulton St, New York",40.7089914063,-74.0049223503
+94,2015-04-07 10:03:21,"Phebe's, 359 Bowery, New York",40.7269462673,-73.9914880743
+95,2015-04-07 10:01:37,"Cooper's Craft and Kitchen, 87 2nd Ave, New York",40.7269065798,-73.9889285113
+96,2015-04-07 09:57:37,"McSorley's Old Ale House, 15 E 7th St, New York",40.7286023487,-73.9899615229
+97,2015-04-07 09:54:18,"New York Botanical Garden, 2900 Southern Blvd, Bronx",40.8638903728,-73.8809598239
+98,2015-04-07 09:49:27,"Stout, 90 John St, New York",40.7080110411,-74.0068332579
+99,2015-04-05 05:02:32,"Balaboosta, 214 Mulberry St, New York",40.7221417774,-73.996245557
+100,2015-03-24 07:50:50,"El Vez, 259 Vesey St, New York",40.7147847612,-74.0157964795
+101,2015-03-23 14:41:27,"The Market Restaurant, An Hoi Islet, Hd9i An",15.8757290419,108.326195982
+102,2015-03-23 14:38:59,"Saint Honore, 5 Xun Dic7, Ty Hd3",21.060933381,105.831856728
+103,2015-03-23 14:38:24,"Djvu Bar, Sheraton Hanoi, H Nd9i",21.060091166,105.831371908
+104,2015-03-23 14:36:30,"Treasure Junk, Ha1 Long, Thnh Phd1 Ha1 Long",20.9543073611,107.069045315
+105,2015-03-23 14:35:39,"Pullman Danang Beach Resort, Trb0ddng Sa, Ng69 Hnh Sa1n",16.0407913021,108.250410954
+106,2015-03-23 14:34:35,"White Marble, 98 L Le3i, Hd9i An",15.8764943175,108.328601718
+107,2015-03-23 14:33:54,"Bnh Mf3 Phb0e3ng, 2B Phan Chu Trinh, Hd9i An",15.8783982691,108.332008123
+108,2015-03-23 14:33:15,"3 Dragons, 51 Phan Bi Ch, Hd9i An",15.8767232618,108.333681582
+109,2015-03-23 14:32:26,"Hoi An Hotel, 10 Tra7n Hb0ng 10a1o, Hd9i An",15.8805256845,108.33052973
+110,2015-03-23 14:31:27,"Le Mridien Angkor, Vithei Charles de Gaulle, Si15mrab",13.3771363731,103.861141205
+111,2015-03-23 14:29:34,"Pub Street, Sivatha Rd., Si15mrab",13.3547214384,103.854542953
+112,2015-03-23 14:27:57,"Sheraton Saigon Hotel & Towers, 88 Dong Khoi St., Dist. 1, Thnh phd1 Hd3 Ch Minh",10.7755950309,106.704019827
+113,2015-03-01 12:40:27,"O'Hara's Restaurant & Pub, 120 Cedar St, New York",40.709858321,-74.012875732
+114,2015-03-01 12:33:19,"Shake Shack, 215 Murray St, New York",40.7152569647,-74.0148282051
+115,2015-03-01 11:33:49,"Cooper's Craft & Kitchen, 169 8th Ave, New York",40.7426400271,-74.0006527305
+116,2015-02-28 04:21:37,"Naya Express, 686 3rd Ave, New York",40.75180398,-73.9738975638
+117,2015-02-20 10:47:14,"TRACE, 181 3rd St, San Francisco",37.7852537335,-122.400691862

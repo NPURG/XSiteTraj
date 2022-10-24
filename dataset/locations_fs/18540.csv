@@ -1,0 +1,161 @@
+,time,poi,latitude,longitude
+0,2016-11-02 08:12:15,"Grand Hyatt San Francisco, 345 Stockton St, San Francisco",37.78913699,-122.4072003
+1,2016-10-08 08:26:53,"Martine Cafe, 22 E 100 S, Salt Lake City",40.7672472404,-111.890327601
+2,2016-09-05 02:38:27,"Filler-up Coffee Station, 201 E Main St, Midway",40.5122888088,-111.467687488
+3,2016-09-05 02:35:48,"Filler-up Coffee Station, 201 E Main St, Midway",40.5122888088,-111.467687488
+4,2016-08-10 20:44:18,"Boston Children's Museum, 308 Congress St, Boston",42.3518949259,-71.0500060175
+5,2016-08-10 20:39:12,"Harbor Walk - Fort Point Channel, 95 Necco St., Boston",42.3522804864,-71.0496139526
+6,2016-08-01 03:38:48,"Lakewood Golf Center, 4341 W Fairmount Ave, Lakewood",42.097609841,-79.3445287143
+7,2016-07-05 05:40:28,"Gerald R. Ford Amphitheater, 530 S Frontage Rd, Vail",39.6394879924,-106.364715099
+8,2016-07-04 04:06:50,"Frisco Historic Park And Museum, 110-112 Main St, Frisco",39.5752513782,-106.1006374
+9,2016-07-04 04:02:04,"Frisco Historic Park And Museum, 110-112 Main St, Frisco",39.5752513782,-106.1006374
+10,2016-07-04 02:59:08,"Georgetown Loop Railroad, 646 Loop Dr, Georgetown",39.7010105911,-105.706486827
+11,2016-07-03 01:51:29,"Alpenrose, 100 E Meadow Dr, Vail",39.642065,-106.377071
+12,2016-07-02 03:07:13,"Aspen Street Coffee, 136 E Aspen Ave, Fruita",39.158794,-108.732529
+13,2016-07-01 11:32:35,"Zax, 96 S Main St, Moab",38.57183503,-109.551233129
+14,2016-07-01 11:30:42,"Aarchway Inn, 1551 N Highway 191, Moab",38.5969838737,-109.572560307
+15,2016-07-01 11:28:46,"Aarchway Inn, 1551 N Highway 191, Moab",38.5969838737,-109.572560307
+16,2016-07-01 08:22:43,"Zax, 96 S Main St, Moab",38.57183503,-109.551233129
+17,2016-06-30 08:30:06,"Taqueria 27, 1615 S Foothill Dr Ste G, Salt Lake City",40.7345099209,-111.820379152
+18,2016-06-27 00:16:30,"The Bagel Project, 779 S 500 E, Salt Lake City",40.752237,-111.876486
+19,2016-06-27 00:15:26,"The Bagel Project, 779 S 500 E, Salt Lake City",40.752237,-111.876486
+20,2016-06-23 09:57:24,"Garduno's Fiesta, 2400 N Rancho Dr, Las Vegas",36.2010609441,-115.194760502
+21,2016-06-20 00:14:58,"Hub & Spoke Diner, 1291 S 1100 E, Salt Lake City",40.741750795,-111.859248584
+22,2016-06-17 10:27:32,"Hatch Family Chocolates, 376 E 8th Ave, Salt Lake City",40.7783324056,-111.878165006
+23,2016-06-03 18:39:15,"Kimpton Ink48 Hotel, 653 11th Ave, New York",40.764505,-73.995987
+24,2016-05-30 03:46:24,"Eccles Dinosaur Park, 1544 Park Blvd, Ogden",41.2377069086,-111.937888871
+25,2016-03-20 05:26:36,"Tracy Aviary, 589 E 1300 S, Salt Lake City",40.7438089245,-111.875329586
+26,2016-01-26 04:11:44,"Crown Burger, 118 N 300 W, Salt Lake City",40.7718950558,-111.899194803
+27,2016-01-11 01:55:03,"tupelo, 508 Main St, Park City",40.64438,-111.49593
+28,2016-01-01 00:18:55,"KSL Broadcast House, 5 Triad Ctr, Salt Lake City",40.7703340208,-111.900068131
+29,2015-12-17 00:20:11,"Triad Center, 350 West South Temple, Salt Lake City",40.7705050089,-111.900312663
+30,2015-12-11 10:02:05,"Feldman's Deli, 2005 E 2700 S, Salt Lake City",40.712813,-111.833671
+31,2015-12-08 11:32:39,"Lucky 13, 135 W 1300 S, Salt Lake City",40.7414364927,-111.895119269
+32,2015-11-30 07:23:06,"Pine Junction, 9757 Bailey Hill Road, Findley Lake",42.117132,-79.694439
+33,2015-11-28 22:40:27,"Bayfront Convention Center, 1 Sassafras St., Erie",42.1363613968,-80.0936677886
+34,2015-11-28 03:29:41,"Giant Eagle Supermarket, 4265 Buffalo Rd, Erie",42.1437085424,-80.0042780962
+35,2015-11-26 04:58:44,"Delta Sky Club, Concourse B/C, Detroit",42.2097331868,-83.3612486615
+36,2015-11-26 04:54:14,"Delta Sky Club, Concourse B/C, Detroit",42.2097331868,-83.3612486615
+37,2015-11-01 06:39:19,"Red Moose Coffee Company, 1693 S 900 E, Salt Lake City",40.733805,-111.864836
+38,2015-10-13 02:27:22,"Mark Miller Subaru Midtown, 3535 S State St, Salt Lake City",40.6938390306,-111.887748365
+39,2015-10-12 21:36:03,"Ruby's Inn Campground, 26 Utah 63, BRYCE",37.6684172906,-112.158905878
+40,2015-10-12 21:28:20,"Wheeler Historic Farm, 6351 S 900 E, Salt Lake City",40.6347218196,-111.864011174
+41,2015-10-12 21:18:47,"Cabela's, 2502 W Grand Terrace Pkwy., Lehi",40.4376059717,-111.888971329
+42,2015-10-12 05:13:01,"Banbury Cross, 705 S 700 E, Salt Lake City",40.7538082681,-111.870724207
+43,2015-10-12 05:10:52,"Gibson Lounge, 555 S Main St, Salt Lake City",40.7575272643,-111.89038
+44,2015-10-12 05:09:23,"Wheeler Historic Farm, 6351 S 900 E, Salt Lake City",40.6347218196,-111.864011174
+45,2015-10-06 05:39:19,"Cabela's, 2502 W Grand Terrace Pkwy., Lehi",40.4376059717,-111.888971329
+46,2015-10-04 22:53:03,"Bryce Wildlife Adventure, 1945 Utah Hwy 12, Bryce",37.700766,-112.197024
+47,2015-10-04 22:51:43,"Bryce Wildlife Adventure, 1945 Utah Hwy 12, Bryce",37.700766,-112.197024
+48,2015-10-04 22:01:27,"Heber Valley Railroad, 450 S 600 W, Heber",40.5021522671,-111.424604839
+49,2015-10-04 21:58:12,"Heber Valley Railroad, 450 S 600 W, Heber",40.5021522671,-111.424604839
+50,2015-09-27 11:29:05,"Bryce Canyon National Park, Bryce Canyon, Bryce Canyon",37.6454437565,-112.163435109
+51,2015-09-27 11:26:00,"Canyon Diner, 26 S Main St, Bryce Canyon City",37.6744204599,-112.156763077
+52,2015-09-14 06:13:35,"DoubleTree Starbucks, 5151 W Wiley Post Way, Salt Lake City",40.7731078845,-112.013581498
+53,2015-09-14 06:10:01,"Miller Motorsports Park, 2901 Sheep Ln., Tooele",40.5841559465,-112.373642051
+54,2015-09-14 06:07:18,"Sandy Amphitheatre, 1245 E 9400 S, Sandy",40.5812935766,-111.855518818
+55,2015-09-14 06:01:18,"Tracy Aviary, 589 E 1300 S, Salt Lake City",40.7438089245,-111.875329586
+56,2015-09-14 05:58:44,"MOJO Fly-Thr, 435 S 400 W, Salt Lake City",40.7601982868,-111.902152473
+57,2015-08-31 07:20:00,"Wasatch Brew Pub, 250 Main St, Park City",40.6418206068,-111.494612333
+58,2015-08-11 07:28:54,"Mac Cool's Public House, 1400 S Foothill Dr, Salt Lake City",40.73895591,-111.82602
+59,2015-07-30 12:59:43,"O19Malley19s Sports Pub, 2135 Old Middlefield Way, Mountain View",37.4143215432,-122.093577907
+60,2015-07-30 12:57:48,"Crowne Plaza Silicon Valley N - Union City, 32083 Alvarado Niles Rd, Union City",37.5965303206,-122.057696211
+61,2015-07-30 12:55:47,"Crowne Royale Cocktail Lounge, 32083 Alvarado Niles Rd, Union City",37.5965334372,-122.058012523
+62,2015-07-21 02:20:23,"Rio Tinto Stadium, 9256 S State St, Sandy",40.5828987876,-111.893348694
+63,2015-07-20 02:34:59,"Black Bear Diner, 2569 S 5600 W #400, West Valley City",40.7140238556,-112.024381269
+64,2015-06-13 21:00:51,"Chick's Beach, Fentress St, Virginia Beach",36.9130829775,-76.1129379272
+65,2015-06-13 20:56:07,"Buoy 44, 4536 Ocean View Ave, Virginia Beach",36.917503,-76.126633
+66,2015-06-13 20:55:08,"Hell's Kitchen on the Bay, 4600 Lookout Rd, Virginia Beach",36.9156563984,-76.1276042461
+67,2015-06-12 04:20:29,"Water Country USA, 176 Water Country Pkwy, Williamsburg",37.2627060484,-76.6375117387
+68,2015-06-12 04:16:35,"Water Country USA, 176 Water Country Pkwy, Williamsburg",37.2627060484,-76.6375117387
+69,2015-06-10 09:14:29,"Dockside Restaurant, 3311 Shore Dr, Virginia Beach",36.9060605445,-76.0864817559
+70,2015-05-04 21:00:15,"Rosalina, 50 Aborn St, Providence",41.822102,-71.415822
+71,2015-05-03 01:27:08,"Omni Providence Hotel, 1 W Exchange St, Providence",41.8252266275,-71.4156473151
+72,2015-05-02 21:56:41,"Julians, 318 Broadway, Providence",41.8200340198,-71.428252092
+73,2015-05-02 21:54:13,"Julians, 318 Broadway, Providence",41.8200340198,-71.428252092
+74,2015-05-02 21:52:35,"Julians, 318 Broadway, Providence",41.8200340198,-71.428252092
+75,2015-05-02 20:53:51,"Kitchen, 94 Carpenter St, Providence",41.8204499439,-71.4219903445
+76,2015-05-02 05:31:00,"Angelo's Civita Farnese Restaurant, 141 Atwells Ave, Providence",41.8233825387,-71.4229412094
+77,2015-04-29 20:35:34,"Utah Business, 90 S 400 W, Salt Lake City",40.767163,-111.903018
+78,2015-04-24 14:05:04,"Eggs In the City, 1675 E 1300 S, Salt Lake City",40.7418322563,-111.842546973
+79,2015-04-11 21:34:35,"Nice Cte d'Azur Airport (NCE), Rue Coste et Bellonte, Nice",43.6648125279,7.21155790868
+80,2015-04-11 06:11:49,"Salt Lake City International Airport (SLC), 776 N Terminal Dr, Salt Lake City",40.7872252645,-111.982090185
+81,2015-04-08 03:51:43,"Utah Business, 90 S 400 W, Salt Lake City",40.767163,-111.903018
+82,2015-04-03 05:01:35,"BeerHive Pub & Grill, 128 S Main St, Salt Lake City",40.7664844657,-111.891160175
+83,2015-03-22 02:35:10,"Cactus and Tropicals, 2735 S 2000 E, Salt Lake City",40.712054,-111.833649
+84,2015-03-22 01:00:21,"Gracie's, 326 S West Temple, Salt Lake City",40.7620994335,-111.894461361
+85,2015-03-17 08:41:30,"Mark Miller Toyota, 730 S West Temple, Salt Lake City",40.7535232423,-111.895381268
+86,2015-03-17 05:42:31,"Current Fish & Oyster, 279 E Broadway, Salt Lake City",40.7631956967,-111.882741267
+87,2015-03-15 08:03:21,"Current Fish & Oyster, 279 E Broadway, Salt Lake City",40.7631956967,-111.882741267
+88,2015-03-15 08:01:46,"Current Fish & Oyster, 279 E Broadway, Salt Lake City",40.7631956967,-111.882741267
+89,2015-03-09 22:32:24,"Citycreek Dental, 175 S West Temple, Salt Lake City",40.7654517046,-111.893867497
+90,2015-03-08 11:33:46,"The Oasis Cafe, 151 S 500 E, Salt Lake City",40.7658667054,-111.876365941
+91,2015-03-01 02:21:41,"Publik Coffee Roasters, 975 S West Temple, Salt Lake City",40.748002,-111.893302
+92,2015-03-01 01:43:00,"Leprechaun Inn, 4700 S 900 E, Salt Lake City",40.667681,-111.866022
+93,2015-03-01 01:41:16,"Leprechaun Inn, 4700 S 900 E, Salt Lake City",40.667681,-111.866022
+94,2015-02-13 10:36:56,"Cucina Deli, 1026 E 2nd Ave, Salt Lake City",40.7715255304,-111.858846849
+95,2015-02-09 00:17:00,"The Oasis Cafe, 151 S 500 E, Salt Lake City",40.7658667054,-111.876365941
+96,2015-01-25 04:25:30,"China Bridge Parking Garage, Swede Alley, Park City",40.6432745058,-111.49472878
+97,2015-01-19 22:44:41,"Banbury Cross, 705 S 700 E, Salt Lake City",40.7538082681,-111.870724207
+98,2015-01-19 22:41:06,"Red Rock Brewing Co., 254 S 200 W, Salt Lake City",40.7636615608,-111.897039413
+99,2015-01-19 22:38:30,"Coconut Jack's Waterfront Grill, 5370 Bonita Beach Rd, Bonita Springs",26.33077466,-81.84152963
+100,2015-01-16 23:14:55,"The Westin Beach Resort & Spa, 321 N Fort Lauderdale Beach Blvd, Fort Lauderdale",26.1268198527,-80.1039930254
+101,2015-01-16 23:13:05,"Cafe del Mar, 213 S Fort Lauderdale Beach Blvd, Fort Lauderdale",26.120555,-80.104485
+102,2015-01-05 07:58:19,"The Oasis Cafe, 151 S 500 E, Salt Lake City",40.7658667054,-111.876365941
+103,2014-12-19 23:42:04,"Margaritas Mexican Restaurant & Watering Hole, 75 Station Lndg, Medford",42.4030042496,-71.0818594694
+104,2014-12-19 23:39:27,"No Name Saloon, 456 Main street, Park City",40.7050070074,-111.951182995
+105,2014-12-19 23:34:25,"No Name Saloon, 456 Main street, Park City",40.7050070074,-111.951182995
+106,2014-11-27 23:53:39,"Petersen Family Farms, 11887 S 4000 W, Riverton",40.5354713614,-111.985140939
+107,2014-11-27 23:51:23,"Maverik Center, 3200 Decker Lake Dr, Salt Lake City",40.7023386287,-111.950231763
+108,2014-11-27 23:49:26,"Hyatt Place Boston/Medford, 116 Riverside Ave, Medford",42.41733025,-71.10509276
+109,2014-11-27 23:42:07,"Modern Pastry Shop, 20 Salem St, Medford",42.4184193203,-71.1088585854
+110,2014-10-29 05:40:53,"sixt borghese, Rome Centre Villa Borghese, Roma",41.909481,12.486524
+111,2014-10-29 05:28:25,"Regiohotel Manfredi Manfredonia, S.P.58 Manfredonia-S.Giovanni Km. 2, Manfredonia",41.6426214752,15.8682477494
+112,2014-10-24 15:31:41,"Leonardo da Vinci13Fiumicino Airport (FCO), Via dell'Aeroporto di Fiumicino 320, Fiumicino",41.7956247477,12.2517044361
+113,2014-10-24 02:36:39,"Palazzo Navona Hotel, Via del Melone 18/20, Roma",41.8977737427,12.4746847153
+114,2014-10-24 02:23:44,"inCoop, Corso Vittorio Emanuele II 42, Roma",41.8958606896,12.4775013983
+115,2014-10-24 02:19:06,"Palazzo Navona Hotel, Via del Melone 18/20, Roma",41.8977737427,12.4746847153
+116,2014-10-23 22:50:49,"sixt borghese, Rome Centre Villa Borghese, Roma",41.909481,12.486524
+117,2014-10-19 15:37:08,"Barak, Via Vincenzo Gioberti, 78, Orbetello",42.4376313641,11.2119179964
+118,2014-10-18 16:16:02,"Podere Del Priorato - Agriturismo Di Charme In Maremma, Strada Del Priorato, Albinia",42.4991711088,11.2510093171
+119,2014-10-18 02:28:06,"Posta Di Torrenova, Strada Provinciale della Parrina 56, Orbetello",42.477318,11.237533
+120,2014-10-17 21:50:14,"Gran Caff Defilla, Corso Garibaldi 4, Chiavari",44.3159841466,9.32700839687
+121,2014-10-01 07:21:42,"Beans & Brews, 906 S 500 E, Salt Lake City",40.7495384692,-111.87715194
+122,2014-09-21 07:00:02,"Costco Wholesale, 1818 S 300 W, Salt Lake City",40.7311638413,-111.901430522
+123,2014-09-18 02:18:06,"Chunga's, 180 S 900 W, Salt Lake City",40.765229671,-111.916993192
+124,2014-09-15 04:14:37,"Camp Kostopulos, 4180 E Emigration Canyon Rd, Salt Lake City",40.7644050967,-111.78101778
+125,2014-09-15 04:11:08,"Camp Kostopulos, 4180 E Emigration Canyon Rd, Salt Lake City",40.7644050967,-111.78101778
+126,2014-09-15 04:05:32,"Mayur, 130 Duke St, Liverpool",53.4007170008,-2.9786828383
+127,2014-09-04 03:08:30,"The Sky Deck, Delta Sky Club, Atlanta",33.6400498471,-84.4200490984
+128,2014-09-03 15:50:58,"Terminal 2, Manchester Airport (MAN), Manchester",53.3672718136,-2.27922578086
+129,2014-09-03 15:47:08,"Escape Lounge, at Terminal 2, Manchester",53.3667765489,-2.27967917919
+130,2014-09-02 16:38:57,"Berry & Rye, 48 Berry Street, Liverpool",53.4005390182,-2.97637224197
+131,2014-09-02 16:36:14,"Costa Coffee, 1A Tithebarn St, Liverpool",53.4081979384,-2.99219386472
+132,2014-09-02 06:34:38,"Berry & Rye, 48 Berry Street, Liverpool",53.4005390182,-2.97637224197
+133,2014-08-31 23:14:24,"Burger King, Tamworth Motorway Services, Tamworth",52.6074154526,-1.64073079721
+134,2014-08-31 16:50:50,"Telford Ice Rink - Home of the Telford Tigers, Saint Quentin Gate, Telford",52.6737669654,-2.44628190994
+135,2014-08-31 16:46:41,"Holiday Inn Telford - Ironbridge, Telford International Centre, St. Quentin Gate, Shropshire",52.670023351,-2.44268183803
+136,2014-08-31 16:42:01,"Holiday Inn Telford - Ironbridge, Telford International Centre, St. Quentin Gate, Shropshire",52.670023351,-2.44268183803
+137,2014-08-29 19:06:33,"Costa Coffee, Southwater One, Shropshire",52.673414,-2.44768
+138,2014-08-11 03:20:42,"Buffalo Wild Wings, 11266 S State St, Sandy",40.5468956706,-111.89170164
+139,2014-08-11 00:24:34,"Raw Bean Coffee House, 611 S West Temple, Salt Lake City",40.7560346738,-111.893657898
+140,2014-07-29 04:42:11,"Volare, 147 W 4th St, New York",40.7315457296,-74.0005954801
+141,2014-07-29 04:41:12,"Eleven Madison Park, 11 Madison Ave, New York",40.7416483195,-73.9871478081
+142,2014-07-29 04:39:47,"The River Caf, 1 Water St, Brooklyn",40.7037369396,-73.9947760105
+143,2014-07-29 04:38:38,"Minetta Tavern, 113 Macdougal St, New York",40.7300745249,-74.0005954801
+144,2014-07-29 04:37:26,"ABC Kitchen, 35 E 18th St, New York",40.7376829838,-73.9897032705
+145,2014-07-29 04:36:37,"Keens Steakhouse, 72 W 36th St, New York",40.7508659965,-73.9866439845
+146,2014-07-29 04:36:17,"Keens Steakhouse, 72 W 36th St, New York",40.7508659965,-73.9866439845
+147,2014-07-29 04:35:13,"RedFarm, 529 Hudson St, New York",40.7341689523,-74.0062536754
+148,2014-07-29 04:34:28,"Otto Enoteca Pizzeria, 1 5th Ave, New York",40.732056086,-73.9960848719
+149,2014-07-17 02:12:32,"Fit Marketing, 98 W Main St, Lehi",40.3878993541,-111.850512475
+150,2014-07-12 04:56:47,"Carl's Jr / Green Burrito, 925 W Antelope Dr, Layton",41.0888475615,-111.982276491
+151,2014-07-10 01:51:05,"Wasatch Brew Pub, 250 Main St, Park City",40.6418206068,-111.494612333
+152,2014-07-10 01:49:29,"Cheers to yo, 315 S Main St, Salt Lake City",40.7623271216,-111.890857421
+153,2014-07-06 03:26:29,"Tony Caputo's Market & Deli, 308 W Broadway, Salt Lake City",40.7630848785,-111.900440751
+154,2014-07-06 03:23:02,"Tony Caputo's Market & Deli, 308 W Broadway, Salt Lake City",40.7630848785,-111.900440751
+155,2014-06-22 03:54:41,"Carlucci's Bakery, 314 W Broadway, Salt Lake City",40.7630241974,-111.900580483
+156,2014-06-22 03:52:33,"Tony Caputo's Market & Deli, 308 W Broadway, Salt Lake City",40.7630848785,-111.900440751
+157,2014-06-08 03:14:14,"Tony Caputo's Market & Deli, 308 W Broadway, Salt Lake City",40.7630848785,-111.900440751
+158,2014-06-08 02:53:00,"Tony Caputo's Market & Deli, 308 W Broadway, Salt Lake City",40.7630848785,-111.900440751
+159,2014-05-31 13:35:48,"Nmafjall, jvegur 1, Reykjahl",65.6414528658,-16.8075871172

@@ -1,0 +1,46 @@
+,time,poi,latitude,longitude
+0,2015-08-14 01:01:51,"Fireside Bar & Grill, 133 S Main St, Marlboro",40.2945015528,-74.2561752071
+1,2014-04-21 07:34:11,"Ben & Jerry's, 2 Casino Drive, Nassa",25.08281307,-77.31937654
+2,2014-04-03 18:49:34,"Toronto Marriott Bloor Yorkville Hotel, 90 Bloor Street East, Toronto",43.6710488598,-79.3849650678
+3,2014-03-25 18:08:32,"WoW Marlboro, 79 S Main St, Marlboro",40.3041573679,-74.2516879483
+4,2014-03-05 21:49:04,"Monmouth County Courthouse, 71 Monument St, Freehold",40.2645520903,-74.2789994923
+5,2013-11-04 04:43:14,"Konb, 345 US Highway 9, Englishtown",40.3095526331,-74.3050006762
+6,2013-03-11 05:13:04,"Newark Liberty International Airport (EWR), 10 Toler Pl, Newark",40.695005427,-74.1772854873
+7,2013-01-06 00:11:54,"Wegmans, 55 US Highway 9, Manalapan",40.2900516026,-74.2981082614
+8,2012-11-15 07:50:55,"Port Authority Bus Terminal, 625 8th Ave, New York",40.757101285,-73.9914593798
+9,2012-04-22 21:08:53,"Marlboro Little League, 66 Tennet Rd, Morganville",40.3799579117,-74.2515733838
+10,2012-02-12 21:43:02,"Wegmans, 55 US Highway 9, Manalapan",40.2900516026,-74.2981082614
+11,2011-12-11 02:18:06,"Celebrity Cruise - Eclipse, 1214-1272 Port Blvd, Miami",25.7804856197,-80.1782675929
+12,2011-12-05 07:52:33,"Mahzu Japanese Restaurant, 1077 State Route 34, Town of Aberdeen",40.399308,-74.2263797
+13,2011-12-05 07:47:02,"Mahzu Japanese Restaurant, 1077 State Route 34, Town of Aberdeen",40.399308,-74.2263797
+14,2011-12-04 05:32:18,"Nordstrom, 3710 US Highway 9, Freehold",40.2542486005,-74.3013568387
+15,2011-08-10 06:58:48,"Hunan Gourmet, 357 US Highway 9, Manalapan",40.3133377229,-74.3051290512
+16,2010-06-10 20:26:29,"NJT - Frank R. Lautenberg Secaucus Junction Station, 1000 New County Rd, Secaucus",40.7617068812,-74.0754066587
+17,2010-05-29 00:48:55,"Terminal C, EWR Airport, Newark",40.6955637191,-74.1767981612
+18,2010-05-12 06:25:34,"Newark Penn Station, 1 Raymond Plz W, Newark",40.7343322443,-74.1642189726
+19,2010-04-15 20:39:46,"Port Authority Bus Terminal, 625 8th Ave, New York",40.757101285,-73.9914593798
+20,2010-03-14 06:26:43,"AllStar, 209 Commercial Ct, Morganville",40.3343939781,-74.244773984
+21,2010-03-06 00:35:43,"Port Authority Bus Terminal, 625 8th Ave, New York",40.757101285,-73.9914593798
+22,2010-03-03 21:38:16,"Port Authority Bus Terminal, 625 8th Ave, New York",40.757101285,-73.9914593798
+23,2010-03-02 07:34:53,"Port Authority Bus Terminal, 625 8th Ave, New York",40.757101285,-73.9914593798
+24,2010-02-25 07:28:20,"Port Authority Bus Terminal, 625 8th Ave, New York",40.757101285,-73.9914593798
+25,2010-02-07 01:39:43,"Port Authority Bus Terminal, 625 8th Ave, New York",40.757101285,-73.9914593798
+26,2010-02-05 07:25:33,"New York Penn Station (NYP), 1 Penn Plz, New York",40.7504838107,-73.9922341289
+27,2010-01-23 06:45:49,"Port Authority Bus Terminal, 625 8th Ave, New York",40.757101285,-73.9914593798
+28,2010-01-22 22:09:19,"Classified Vortex, 22nd floor 36th St, New York",40.7527151541,-73.9910002678
+29,2010-01-17 22:58:00,"AMC Freehold Metroplex 14, 101 Trotters Way, Freehold",40.2500590888,-74.2944814742
+30,2010-01-17 01:22:50,"Nordstrom, 3710 US Highway 9, Freehold",40.2542486005,-74.3013568387
+31,2010-01-10 01:21:26,"US Post Office, 8 S Main St, Marlboro",40.3145892514,-74.2498826981
+32,2010-01-06 20:54:42,"Port Authority Bus Terminal, 625 8th Ave, New York",40.757101285,-73.9914593798
+33,2010-01-04 01:50:38,"Staples, 4345 Highway Rt 9, Freehold",40.283485,-74.293478
+34,2010-01-02 06:48:00,"La Rosa Chicken & Grill Marlboro Township, 455 County Road Route 79 & 520, Marlboro Township",40.3328254307,-74.2463753041
+35,2010-01-01 05:03:04,"Freehold Raceway Mall, 3710 US Highway 9, Freehold",40.2532787737,-74.3005318087
+36,2010-01-01 03:26:21,"Best Buy, 15 Us Highway 9, Manalapan",40.28809301,-74.29711397
+37,2009-12-24 23:29:04,"Wegmans, 55 US Highway 9, Manalapan",40.2900516026,-74.2981082614
+38,2009-12-21 07:59:05,"Starbucks, 310 Route 9 N, Manalapan",40.308548,-74.30362
+39,2009-12-19 02:02:50,"Dick's Sporting Goods, 650 Trotter's Way, Freehold",40.2524357414,-74.2965326519
+40,2009-12-18 22:17:25,"Bagel World, 356 US Highway 9, Manalapan",40.3129941231,-74.3038630486
+41,2009-10-31 22:31:09,"Wegmans, 55 US Highway 9, Manalapan",40.2900516026,-74.2981082614
+42,2009-10-29 06:45:52,"Port Authority Bus Terminal, 625 8th Ave, New York",40.757101285,-73.9914593798
+43,2009-10-26 01:45:15,"Bagel World, 356 US Highway 9, Manalapan",40.3129941231,-74.3038630486
+44,2009-10-25 04:00:05,"Starbucks, 310 Route 9 N, Manalapan",40.308548,-74.30362

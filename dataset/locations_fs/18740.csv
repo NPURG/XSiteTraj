@@ -1,0 +1,90 @@
+,time,poi,latitude,longitude
+0,2016-05-21 00:19:44,"MontyQ's Brick Oven Pizza, 158 Montague St, Brooklyn",40.6943771192,-73.9929055755
+1,2016-05-05 03:09:13,"b.good, 141 Montague St, Brooklyn",40.6947278087,-73.9937032739
+2,2015-11-03 02:01:00,"Caf Clementine, 227 W Broadway, New York",40.7194974994,-74.0060470911
+3,2015-09-01 01:16:41,"Parm, 248 Mulberry St, New York",40.723019825,-73.995854
+4,2015-08-08 00:49:40,"Baz Bagel and Restaurant, 181 Grand St, New York",40.7193269242,-73.9976996183
+5,2015-07-29 03:56:57,"Sunbird Cape Cod, 85 Rt 6A, Orleans",41.7898273627,-69.989361012
+6,2015-07-24 01:16:11,"the Knack, 5 Rt 6A, Orleans",41.7961177886,-69.9827137964
+7,2015-07-24 01:15:17,"Arnold's Lobster & Clam Bar, 3580 State Hwy, Eastham",41.8436611614,-69.982719612
+8,2015-07-24 01:13:52,"Cranberry's, 48 Henry St, Brooklyn",40.69952206,-73.9919586629
+9,2015-07-24 01:07:06,"Seamore's, 390 Broome St, New York",40.7206103949,-73.9969112508
+10,2015-07-21 00:37:52,"sweetgreen, 100 Kenmare St, New York",40.7210262952,-73.9972568956
+11,2015-05-17 22:36:50,"Fort Defiance, 365 Van Brunt St, Brooklyn",40.6767674729,-74.0135241532
+12,2015-05-14 00:54:24,"456 Shanghai Cuisine, 69 Mott St, New York",40.7162642478,-73.9981450738
+13,2015-05-08 03:16:30,"Genuine Superette, 191 Grand St, New York",40.7191652464,-73.9973072228
+14,2015-03-22 01:23:06,"Avanti Express, Vail Mountain, Chair 2, Vail",39.6106883798,-106.374218996
+15,2015-03-22 01:20:44,"Mountain Top Express, Main Vail, Vail",39.6117124226,-106.363421772
+16,2015-02-06 23:19:22,"Two Hands, 164 Mott St, New York",40.7198496074,-73.9962398183
+17,2015-02-06 23:18:35,"Hometown Bar-B-Que, 454 Van Brunt St, Brooklyn",40.674926124,-74.0162014961
+18,2015-02-06 23:17:24,"sweetgreen, 100 Kenmare St, New York",40.7210262952,-73.9972568956
+19,2015-02-06 23:14:51,"Piora, 430 Hudson St, New York",40.7306978705,-74.006781612
+20,2015-01-31 07:19:54,"The Long Island Bar, 110 Atlantic Ave, Brooklyn",40.690643396,-73.9960848719
+21,2014-11-09 17:51:33,"Hatch & Sons, 15 St Stephens Green, Dublin",53.339468,-6.258501
+22,2014-11-09 17:50:56,"The Pig's Ear, 4 Nassau St, Dublin",53.3420902157,-6.25503545251
+23,2014-11-09 17:50:16,"Herbstreet, Hanover Quay, Dublin",53.3441988734,-6.23777034633
+24,2014-11-09 17:48:50,"Dublin Airport (DUB), Arrivals Rd, Dublin",53.4267472236,-6.24478077818
+25,2014-11-07 00:16:40,"Merrion Hotel, Upper Merrion St, Dublin",53.33852878,-6.25284897053
+26,2014-11-07 00:15:06,"Jack Nealon's, 165 Capel St, Dublin",53.3464315614,-6.26798832696
+27,2014-10-21 08:01:21,"Luzzo's BK, 145 Atlantic Ave, Brooklyn",40.6905333335,-73.9953273548
+28,2014-09-20 05:23:33,"Avlee Greek Kitchen, 349 Smith St, Brooklyn",40.67995,-73.99504
+29,2014-09-09 02:06:50,"Mei Li Wah, 62-64 Bayard St, New York",40.715573,-73.997995
+30,2014-08-19 09:18:48,"Smile To Go, 22 Howard St, New York",40.7195607055,-74.0003228188
+31,2014-08-08 03:09:50,"Geno's Chowder and Sandwich Shop, 177 Mechanic St, Portsmouth",43.0742814534,-70.7495999368
+32,2014-08-07 21:10:04,"Two Hands, 164 Mott St, New York",40.7198496074,-73.9962398183
+33,2014-08-07 10:35:22,"Saturdays Surf NYC, 31 Crosby St, New York",40.7207804312,-73.9994936619
+34,2014-08-07 10:31:57,"61 Local, 61 Bergen St, Brooklyn",40.6870915684,-73.9909084453
+35,2014-08-07 09:36:34,"Phdf Bb1ng, 157 Mott St, New York",40.7194895185,-73.996383287
+36,2014-08-07 09:26:21,"Pepe Rosso Social, 173 Mott St, New York",40.7201117424,-73.996153737
+37,2014-08-07 09:25:32,"Gimme! Coffee, 228 Mott St, New York",40.7222795768,-73.9951767567
+38,2014-08-07 09:23:53,"Commodore Barry Park, 19 N Elliott Pl, Brooklyn",40.6972990086,-73.979101181
+39,2014-08-07 09:22:54,"Puppetworks, 338 6th Avenue, New York",40.6710907143,-73.98155038
+40,2014-05-12 21:12:45,"Ceci-Cela, 55 Spring St, New York",40.7222948696,-73.9968252182
+41,2014-04-10 09:53:23,"Nha Trang One, 87 Baxter St, New York",40.7168508246,-73.99985075
+42,2014-03-21 02:08:46,"Saigon Vietnamese Sandwich Deli, 369 Broome St, New York",40.7201965603,-73.995820889
+43,2014-03-19 06:28:08,"Shake HQ, 132 Mulberry St Fl 5, New York",40.718558,-73.997651
+44,2014-03-19 01:35:56,"Parisi Bakery Delicatessen, 198 Mott St, New York",40.721212,-73.995683
+45,2014-03-18 05:12:15,"Nolita Mart & Espresso Bar, 156 Mott St, New York",40.71945093,-73.9961573482
+46,2014-03-18 05:10:11,"Awash Ethiopian Restaurant, 242 Court St, Brooklyn",40.6857114648,-73.9942312452
+47,2014-03-18 05:06:09,"Tam Falafel and Smoothie Bar, 45 Spring St, New York",40.7220468683,-73.9961278439
+48,2014-03-18 05:04:55,"Nyonya, 199 Grand St, New York",40.7191924589,-73.9968768185
+49,2014-03-18 00:52:14,"Shanghai Caf Deluxe, 100 Mott St, New York",40.7173341202,-73.997485123
+50,2014-03-12 02:00:49,"Shanghai Caf Deluxe, 100 Mott St, New York",40.7173341202,-73.997485123
+51,2014-02-04 23:05:47,"Telegraphe Caf, 107 W 18th St, New York",40.7400953247,-73.9954134365
+52,2014-02-01 00:26:52,"The Long Island Bar, 110 Atlantic Ave, Brooklyn",40.690643396,-73.9960848719
+53,2014-01-09 02:36:43,"Parm, 248 Mulberry St, New York",40.723019825,-73.995854
+54,2013-12-10 10:03:23,"Pok Pok NY, 117 Columbia St, Brooklyn",40.6875900992,-74.0012830496
+55,2013-12-08 01:15:09,"New York Botanical Garden, 2900 Southern Blvd, Bronx",40.8638903728,-73.8809598239
+56,2013-12-02 00:52:11,"Friend of a Farmer, 77 Irving Pl, New York",40.7367940361,-73.9867997455
+57,2013-11-30 08:31:39,"p6brbird, 82 6th Ave, Brooklyn",40.6798162576,-73.975110054
+58,2013-09-05 00:01:12,"Sundae School Ice Cream Parlor, 210 Main St, East Orleans",41.7848843336,-69.9673640728
+59,2013-09-02 20:20:44,"PB Boulangerie Bistro, Lecount Hollow Beach Rd, South Wellfleet",41.916777,-69.989391
+60,2013-08-31 00:17:38,"Mile End Delicatessen, 53 Bond St, New York",40.725925671,-73.9925956773
+61,2013-08-28 07:11:49,"Table 87, 87 Atlantic Ave, Brooklyn",40.691067955,-73.9974162584
+62,2013-08-14 11:30:44,"Les Zygomates Wine Bar Bistro, 129 South St, Boston",42.3513855355,-71.0572952525
+63,2013-08-11 06:02:56,"Saratoga Race Course, 267 Union Ave, Saratoga Springs",43.0736109004,-73.7704093799
+64,2013-07-30 21:33:30,"La Colombe Torrefaction, 270 Lafayette St, New York",40.7238560371,-73.9964067936
+65,2013-07-24 01:15:44,"Woody Creek Tavern, 2858 Upper River Road, Woody Creek",39.274885,-106.88723325
+66,2013-07-24 01:13:03,"Aspen Velo, 465 Puppy Smith St., Aspen",39.1935834536,-106.818468575
+67,2013-07-14 02:56:07,"Silver Spoon Cafe, 124 Main St, Cold Spring",41.41863581,-73.957155
+68,2013-06-24 01:23:32,"P&G's Pamela's Diner, 1711 Murray Ave, Pittsburgh",40.437617,-79.923017
+69,2013-06-11 02:12:07,"IRT Subway - City Hall (Abandoned), City Hall Park, New York",40.7127808442,-74.0047272416
+70,2013-06-04 06:41:05,"Fish Tales, 191A Court St, Brooklyn",40.6876303995,-73.9933818994
+71,2013-06-04 02:11:26,"Dean & DeLuca, 560 Broadway, New York",40.7241542205,-73.9977089326
+72,2013-05-11 20:21:13,"El Mercado, Hiplito Unanue 203, Miraflores",-12.1113757809,-77.0485889912
+73,2013-05-02 01:53:36,"Dean & DeLuca, 560 Broadway, New York",40.7241542205,-73.9977089326
+74,2013-04-10 21:54:39,"Uncle Boons, 7 Spring St, New York",40.7212093487,-73.9942717552
+75,2013-04-05 20:38:16,"Body Reserve, 207 5th Ave, Brooklyn",40.6763138101,-73.9804289103
+76,2013-03-17 01:53:21,"Brooklyn Farmacy & Soda Fountain, 513 Henry St, Brooklyn",40.6841074634,-73.9993444569
+77,2013-03-14 21:34:44,"Habana To Go, 229 Elizabeth St, New York",40.722912,-73.994089
+78,2013-03-10 22:02:20,"Fairway Market, 500 Van Brunt St, Brooklyn",40.674141,-74.017075
+79,2013-03-07 10:38:24,"Peter Luger Steak House, 178 Broadway, Brooklyn",40.710044192,-73.9624757839
+80,2013-02-26 02:39:13,"Guido's Fresh Marketplace, 760 Main St, Great Barrington",42.1797469357,-73.3644482671
+81,2013-02-12 04:36:42,"Trattoria Sostanza (Il Troia), Via della Porcellana 25, Firenze",43.7726471498,11.2469744682
+82,2013-02-02 21:44:14,"Chef's Table At Brooklyn Fare, 212 Schermerhorn St, Brooklyn",40.6888602991,-73.9853301441
+83,2013-01-25 10:24:05,"Ki Sushi, 122 Smith St, Brooklyn",40.687583,-73.989895
+84,2013-01-22 03:57:12,"Damascus Bakery, 56 Gold St, Brooklyn",40.7028991898,-73.982770443
+85,2013-01-20 03:27:17,"Colonie, 127 Atlantic Ave, Brooklyn",40.6906896199,-73.9959159493
+86,2013-01-17 03:02:00,"First Wok, Rt 100, West Dover",42.945601,-72.8654704
+87,2013-01-13 09:18:15,"Ganso, 25 Bond St, Brooklyn",40.6888983296,-73.9835108482
+88,2013-01-12 06:02:57,"Gobblers Knob, 1548 Woodland Ave, Punxsutawney",40.9305839607,-78.9574797026

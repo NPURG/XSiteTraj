@@ -1,0 +1,75 @@
+,time,poi,latitude,longitude
+0,2016-11-23 02:56:58,"Lamplighter Brewing Co., 284 Broadway, Cambridge",42.367809,-71.097977
+1,2016-10-16 11:07:05,"Waypoint, 1030 Massachusetts Ave, Cambridge",42.3694558601,-71.1120584607
+2,2016-10-14 04:00:50,"WUburger, 1128 Cambridge St, Cambridge",42.373111,-71.09622
+3,2016-09-12 00:54:48,"Craigie on Main, 853 Main St, Cambridge",42.363315,-71.098794
+4,2016-09-09 22:05:49,"KO Pies at the Shipyard, 256 Marginal St, East Boston",42.3640691755,-71.0316430736
+5,2016-09-09 22:05:17,"Jimmy's Shoe Repair, 42 Prospect St, Cambridge",42.3661903058,-71.1034593187
+6,2016-09-09 22:04:53,"Club Passim, 47 Palmer St, Cambridge",42.3743138643,-71.120101464
+7,2016-09-09 22:04:15,"Night Shift Brewing, Inc., 87 Santilli Hwy, Everett",42.4057453356,-71.0678100586
+8,2016-08-11 03:04:27,"Custom Eyes, 50 Prospect St, Cambridge",42.36629446,-71.103135
+9,2016-08-11 02:45:37,"Pod, 35 Sacramento St, Cambridge",42.382574,-71.116011
+10,2016-08-05 21:11:22,"Print, 653 11th Ave, New York",40.7643888446,-73.9957737923
+11,2016-08-05 21:11:10,"44 & X, 622 10th Ave, New York",40.7610807609,-73.9944435811
+12,2016-08-05 21:10:45,"Beer Table, Grand Central Terminal, New York",40.752503638,-73.9762736681
+13,2016-07-30 21:02:02,"Huertas, 107 1st Ave, New York",40.7268027263,-73.9860934397
+14,2016-07-04 11:47:39,"The Order, 305 E Walnut St, Springfield",37.2071568805,-93.2913245146
+15,2016-07-04 11:46:55,"Springfield Brewing Company, 305 S Market Ave, Springfield",37.2077559785,-93.2957267761
+16,2016-07-04 11:45:33,"University Plaza Hotel And Convention Center Springfield, 333 S John Q Hammons Pkwy, Springfield",37.2076108823,-93.2830002703
+17,2016-05-27 22:01:10,"Barrington Coffee Roasting Company, 346 Congress St, Boston",42.3506629927,-71.0487771034
+18,2016-05-21 01:11:58,"Bobo, 181 W 10th St, New York",40.7341822433,-74.002569555
+19,2016-05-20 04:54:48,"Bostonian Tailoring, 34 Province St, Boston",42.357021523,-71.0598487755
+20,2016-05-14 04:25:08,"Somerville Theater, 55 Davis Sq, Somerville",42.3967094792,-71.1228054573
+21,2016-04-08 23:02:00,"Franklin Cafe, 278 Shawmut Ave, Boston",42.3430444923,-71.0691225729
+22,2016-03-13 04:48:11,"Starbucks, 655 Massachusetts Ave, Cambridge",42.365631,-71.103759
+23,2016-02-05 04:16:12,"sweetgreen, 372 Congress St, Boston",42.3501618123,-71.0477234423
+24,2016-01-28 05:26:03,"Churchill War Rooms (Churchill Museum & Cabinet War Rooms), King Charles St., London",51.5022405414,-0.129507069628
+25,2016-01-28 05:25:40,"The Whisky Exchange, 2 Bedford street, London",51.5099969353,-0.123481890725
+26,2016-01-28 05:25:21,"The Water Poet, 9-11 Folgate St, Spitalfields",51.5211877607,-0.0781917572021
+27,2016-01-28 05:24:27,"Happiness Forgets, 8-9 Hoxton Sq, Hackney",51.5277497455,-0.0814402707596
+28,2016-01-28 05:24:02,"Dishoom, 7 Boundary St, Shoreditch",51.5245236192,-0.0767478675563
+29,2016-01-25 05:02:06,"Callooh Callay, 65 Rivington St, Shoreditch",51.5262412951,-0.0799435150916
+30,2015-12-30 05:25:57,"Baku Restaurant, 4515 Sharon Rd, Charlotte",35.1513745321,-80.8280283516
+31,2015-11-30 01:21:38,"Whiskey & Wine Off 69, 1321 2nd Ave, New York",40.7672653975,-73.9596176147
+32,2015-11-30 01:09:39,"Mulberry Project, 149 Mulberry St, New York",40.7192037667,-73.9977089326
+33,2015-10-26 06:39:14,"Bee's Knees Supply, 1316 Commonwealth Ave, Boston",42.348374,-71.134501
+34,2015-08-08 23:54:42,"[beyt] by 2b design, 185 My. Auburn St, Cambridge",42.3742856759,-71.1274358584
+35,2015-06-30 03:46:41,"Castle Terrace Restaurant, 33-35 Castle Terr., Midlothian",55.9468039775,-3.20213691222
+36,2015-06-25 04:12:18,"James Hook & Company, 440 Atlantic Ave, Boston",42.3549286461,-71.0509282351
+37,2015-06-01 03:05:05,"Frank + Oak, 220 Newbury St, Boston",42.3500824379,-71.0811990858
+38,2015-05-28 04:16:34,"Laphroaig Distillery, Laphroaig, Port Ellen, Isle of Islay",55.6305640857,-6.15109920502
+39,2015-05-28 03:03:04,"The Bon Vivant's Companion, 51 Thistle St, Edinburgh",55.9539342143,-3.1996751136
+40,2015-03-30 00:48:40,"Shine, 106 Prospect St, Cambridge",42.3676741702,-71.1022407245
+41,2015-01-01 22:29:00,"Belmont, 511 King St, Charleston",32.7903852257,-79.9394445469
+42,2014-12-14 08:01:04,"Blank  Label, 36 Bromfield Street, Boston",33.71619,-117.97146
+43,2014-10-16 09:40:59,"GrandTen Distilling, 383 Dorchester Ave, Boston",42.3352175226,-71.0574867672
+44,2014-10-16 09:38:31,"Wink & Nod, 3 Appleton St, Boston",42.3466346274,-71.0694011317
+45,2014-10-16 09:33:57,"L'Espalier, 774 Boylston St, Boston",42.3490006132,-71.0809321413
+46,2014-10-16 09:27:59,"Viale, 502 Massachusetts Ave, Cambridge",42.3641069623,-71.101672046
+47,2014-10-16 09:27:07,"Viale, 502 Massachusetts Ave, Cambridge",42.3641069623,-71.101672046
+48,2014-10-16 09:26:33,"Viale, 502 Massachusetts Ave, Cambridge",42.3641069623,-71.101672046
+49,2014-10-05 06:09:01,"Artepicure Cooking School, 1 Fitchburg St, Somerville",42.3757553459,-71.0846577424
+50,2014-08-09 21:09:34,"Trident Booksellers & Cafe, 338 Newbury St, Boston",42.348496,-71.086753
+51,2014-08-09 13:11:07,"Il Vagabondo, 351 E 62nd St, New York",40.7617652668,-73.9612302524
+52,2014-06-09 01:18:01,"The Breathing Room, 763 Massachusetts Ave #7, Cambridge",42.3666616637,-71.1053395271
+53,2014-06-05 09:37:56,"Brighton Music Hall, 158 Brighton Ave, Allston",42.35280543,-71.1326175928
+54,2014-06-02 02:39:43,"Liquor World, 13 White St, Cambridge",42.389340613,-71.1191846553
+55,2014-05-08 23:56:47,"Bee's Knees Supply Company, 12 Farnsworth St, Boston",42.3512973089,-71.0486698151
+56,2014-05-05 05:01:44,"The Door Store, 940 Massachusetts Ave, Cambridge",42.3687183667,-71.109362
+57,2014-05-02 21:57:19,"Boston Brewin, 45 Bromfield St, Boston",42.3570621867,-71.0606148293
+58,2014-03-09 00:57:15,"Whittmore-Robbins House, 670R Massachusetts Ave, Arlington",42.4148049086,-71.1555072379
+59,2014-02-26 21:15:44,"The Kirkland Tap & Trotter, 425 Washington St, Somerville",42.3782339803,-71.1068630219
+60,2014-02-19 09:42:07,"Silvertone, 69 Bromfield St, Boston",42.3571128974,-71.0610347986
+61,2014-02-03 04:22:53,"Inman Oasis, 243 Hampshire St, Cambridge",42.37415,-71.101013
+62,2013-09-26 01:59:33,"Old Morse Park, 249 Brookline Ave, Cambridge",42.3580840919,-71.1077964306
+63,2013-09-15 03:10:15,"House of Oldies, 35 Carmine St, New York",40.730148,-74.0031069517
+64,2013-08-11 11:44:00,"Backbar, 7 Sanborn Ct, Somerville",42.3799155741,-71.094279152
+65,2013-07-17 21:28:31,"Area Four, 500 Technology Sq, Cambridge",42.363073,-71.0924589
+66,2013-06-26 20:37:05,"Barrington Coffee Roasting Company, 346 Congress St, Boston",42.3506629927,-71.0487771034
+67,2013-05-14 22:03:08,"Sorelle Bakery, 280 Congress St, Boston",42.3533883789,-71.0532734215
+68,2013-03-02 03:13:14,"Al's State Street Cafe, 112 State St, Boston",42.359197974,-71.0548818111
+69,2013-02-20 12:06:47,"Avery Bar, 10 Avery St, Boston",42.3532695342,-71.0632147588
+70,2012-12-19 21:25:02,"Park, 59 JFK St, Cambridge",42.3718496974,-71.1208209833
+71,2012-12-02 03:28:03,"Potbelly Sandwich Shop, 263 Washington Street, Boston",42.357854,-71.058304
+72,2012-09-25 04:12:41,"US Post Office, 31 Milk St, Boston",42.3567661643,-71.0580148833
+73,2012-09-23 11:56:11,"Citizen Public House & Oyster Bar, 1310 Boylston St, Boston",42.3444291618,-71.0979814188

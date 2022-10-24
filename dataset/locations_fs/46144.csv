@@ -1,0 +1,71 @@
+,time,poi,latitude,longitude
+0,2016-03-01 22:23:08,"Caffe Gasperi, 46 Ravenna St, Hudson",41.2373714805,-81.4389260606
+1,2014-06-29 19:33:20,"Brooklyn National Deli, Terminal C3, Newark",40.6981722286,-74.1791831801
+2,2014-05-24 00:42:12,"Luchita's Mexican Restaraunt, 36 Parklane Dr, Hudson",41.240665,-81.442381
+3,2014-04-26 11:09:35,"United Airlines Priority Security Checkpoint, at Terminal 3, San Francisco",37.617625469,-122.387304606
+4,2014-03-02 02:49:32,"Chipotle Mexican Grill, 5 Atterbury Blvd, Hudson",41.240248,-81.445516
+5,2014-02-17 21:04:55,"Starbucks, 5300 Riverside Dr, Terminal C, Cleveland",41.407557,-81.841897
+6,2014-01-27 21:02:20,"United Airlines Ticket Counter, in Main Terminal Upper Level, Cleveland",41.4103873713,-81.8385100365
+7,2013-11-11 01:55:47,"Gran Fiesta, 18737 Royalton Rd, Strongsville",41.31419045,-81.833123
+8,2013-11-06 01:58:45,"Park Opticians, 20670 N Park Blvd., Cleveland",41.4872385423,-81.5349644423
+9,2013-11-01 00:34:40,"The Standard, East Village, 25 Cooper Sq, New York",40.7279855561,-73.9909428788
+10,2013-11-01 00:24:19,"Au Bon Pain, Laguardia Airport, East Elmhurst",40.7763167883,-73.8728427887
+11,2013-11-01 00:18:46,"TSA Security Screening, Terminal B, East Elmhurst",40.7748665384,-73.8726335064
+12,2013-10-11 03:31:47,"Pour la France!, Concourse B Center Core, Denver",39.8586716318,-104.673737032
+13,2013-10-11 03:31:20,"Pour la France!, Concourse B Center Core, Denver",39.8586716318,-104.673737032
+14,2013-09-30 21:57:08,"Currito, 5300 Riverside Dr, Cleveland",41.4109103938,-81.838799715
+15,2013-08-11 00:24:09,"Gate 76A, at Terminal 3, San Francisco",37.6203120006,-122.387094498
+16,2013-08-06 06:26:04,"San Jose Airport Hotel, 1471 N 4th St, San Jose",37.3646103927,-121.908322231
+17,2013-08-01 07:47:32,"The Garlic, 1724 Killington Rd, Killington",43.6485689118,-72.788816903
+18,2013-07-26 01:36:29,"New Balance Factory Store, 135 Depot St, Manchester Center",43.1757631708,-73.0554266423
+19,2013-07-21 01:42:56,"Original Pizza of Boston, NYS Thruway I-90 EB (MM 310), Port Byron",43.0238573273,-76.6710074835
+20,2013-06-30 06:54:10,"Portobello, 1650 E Buena Vista Dr, Lake Buena Vista",28.3717156856,-81.5171977378
+21,2013-06-22 05:10:06,"Hilton Austin Airport, 9515 Hotel Dr, Austin",30.2114475165,-97.6638127863
+22,2013-06-09 03:11:27,"Bella Sera Ristorante, 3801 Mannheim Rd, Schiller Park",41.9475244564,-87.8850563277
+23,2013-06-07 11:20:18,"Morton's The Steakhouse, 177 Park Ave, San Jose",37.3318318771,-121.891038846
+24,2013-06-04 20:11:13,"Cleveland Hopkins International Airport (CLE), 5300 Riverside Dr, Cleveland",41.4112310089,-81.8403104294
+25,2013-05-31 10:03:38,"CLE Orange Lot Parking, CLE Airport, Brook Park",41.4092608471,-81.8346047401
+26,2013-05-30 08:38:34,"Embassy Suites by Hilton St. Paul Downtown, 175 10th St E, Saint Paul",44.9525977479,-93.0930027366
+27,2013-05-30 08:34:43,"Embassy Suites by Hilton St. Paul Downtown, 175 10th St E, Saint Paul",44.9525977479,-93.0930027366
+28,2013-05-09 21:40:16,"Concourse D, Terminal 1, Las Vegas",36.081812008,-115.137662888
+29,2013-05-09 21:18:27,"United Airlines Ticket Counter, Terminal 3, Las Vegas",36.0851415236,-115.148777962
+30,2013-03-26 10:04:29,"Hilton Seattle, 1301 6th Ave, Seattle",47.6091974626,-122.333090901
+31,2013-03-23 00:19:24,"Gate A1, Concourse A - Central Terminal, East Elmhurst",40.7745413567,-73.8702216794
+32,2013-03-23 00:12:29,"Au Bon Pain, LaGuardia Airport, East Elmhurst",40.7743042402,-73.869722083
+33,2013-03-12 06:59:22,"Liquor Locker, 4110 S Maryland Pkwy, Las Vegas",36.0847864203,-115.148470102
+34,2013-02-01 01:23:55,"Asian wok, Wooster, Wooster",40.84457002,-81.945524
+35,2013-01-28 01:37:50,"Red Robin Gourmet Burgers, 4009 Orange Pl, Beachwood",41.4517132775,-81.4888706803
+36,2013-01-19 23:19:29,"PNC Bank, 112 W Liberty St, Wooster",40.7979140991,-81.9407185306
+37,2013-01-19 23:13:39,"Miss Jody's Professional Hair Cuts, 133 N Market St, Wooster",40.7988791138,-81.9398073715
+38,2012-11-07 06:18:20,"Lawrence Plaza - Food Court, 3561 El Camino Real, Santa Clara",37.3535797647,-121.994622946
+39,2012-10-22 20:24:36,"Concourse C, CLE airport, Cleveland",41.4079864028,-81.8413455553
+40,2012-08-27 10:30:37,"Cavallo Point Lodge, 601 Murray Circle, Sausalito",37.8374862864,-122.479022874
+41,2012-06-28 01:36:19,"Newark-Liberty Airport Express Shuttle, Newark Liberty International Airport, Newark",40.6949195952,-74.1783977326
+42,2012-06-14 10:37:16,"Dragon's Den, 315 10th Ave, San Diego",32.708433,-117.155624
+43,2012-06-04 19:55:44,"TSA Checkpoint B, at Main Terminal, Cleveland",41.411143741,-81.8386816978
+44,2012-05-16 02:42:34,"NYC Airporter  - LGA To Manhattan, Central Terminal Dr, Astoria",40.7740053071,-73.8732880354
+45,2012-05-15 22:25:40,"Akron-Canton Airport (CAK), 5400 Lauby Rd, North Canton",40.9149901255,-81.4362705453
+46,2012-05-05 23:55:05,"Victory Sports Park / Ohio Sports Park, 7760 Victory Ln, North Ridgeville",41.3784601344,-81.9770170274
+47,2012-04-16 19:44:31,"TSA Checkpoint A, at Main Terminal, Cleveland",41.4115462201,-81.8377225507
+48,2012-03-26 19:59:42,"TSA Checkpoint C, at Main Terminal, Cleveland",41.4103999967,-81.8385229353
+49,2012-03-05 22:28:43,"CLE Orange Lot Parking, CLE Airport, Brook Park",41.4092608471,-81.8346047401
+50,2012-02-26 08:23:26,"Wild Ginger China Bistro, 3694 Burbank Rd, Wooster",40.8443233833,-81.94354318
+51,2011-12-28 02:26:38,"Frank Pizzeria, 1483 State Route 9, Lake George",43.3683730427,-73.6989414567
+52,2011-12-27 03:22:04,"Applebee's, 7790 Peach St, Erie",42.05092932,-80.08364405
+53,2011-12-13 11:00:38,"Spices Thai Cafe, 3810 Valley Centre Dr Ste 903, San Diego",32.9383683554,-117.230494022
+54,2011-11-26 00:13:09,"Hitchin' Post, 538 State Rt 20, New Lebanon",42.4663711167,-73.3936393261
+55,2011-11-14 03:41:27,"Asian wok, Wooster, Wooster",40.84457002,-81.945524
+56,2011-11-09 21:16:39,"Gate 81, at Terminal 3, San Francisco",37.6201292928,-122.388167381
+57,2011-11-08 09:53:04,"SFO AirTrain Station - Garage G & BART, International Terminal, San Francisco",37.6159509096,-122.392255876
+58,2011-10-30 06:26:50,"Johnny Rockets, 1000 West O19Hare Ave, Chicago",41.9765495527,-87.9056403275
+59,2011-10-25 17:07:05,"TSA Security Checkpoint, CAK Airport, North Canton",40.9151584332,-81.4364147186
+60,2011-10-21 04:26:51,"Terminal 1 Baggage Claim, Terminal 1, St Louis",38.7423655211,-90.3661949506
+61,2011-10-20 02:56:16,"Gate D38, at Terminal D, DFW Airport",32.8994119433,-97.0426118374
+62,2011-10-17 02:05:03,"Magical Theatre Company, 565 W Tuscarawas Ave, Barberton",41.0130354287,-81.6104364395
+63,2011-10-05 20:09:30,"NYC Airporter  - LGA To Manhattan, Central Terminal Dr, Astoria",40.7740053071,-73.8732880354
+64,2011-10-05 17:53:21,"TSA Security Checkpoint, CAK Airport, North Canton",40.9151584332,-81.4364147186
+65,2011-09-26 19:49:30,"Concourse C, CLE airport, Cleveland",41.4079864028,-81.8413455553
+66,2010-10-19 18:40:19,"Akron-Canton Airport (CAK), 5400 Lauby Rd, North Canton",40.9149901255,-81.4362705453
+67,2010-10-11 17:53:10,"Akron-Canton Airport (CAK), 5400 Lauby Rd, North Canton",40.9149901255,-81.4362705453
+68,2010-10-03 00:48:54,"Muddy Waters Cafe, 116 E Liberty St, Wooster",40.7983977494,-81.9396954739
+69,2010-03-09 06:13:02,"United Club, Concourse C, Near C7, Chantilly",38.9455398439,-77.4434813837

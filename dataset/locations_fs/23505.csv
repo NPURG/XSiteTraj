@@ -1,0 +1,59 @@
+,time,poi,latitude,longitude
+0,2016-10-31 06:56:16,"Five Guys, 43 Middlesex Tpke, Burlington",42.4715568418,-71.2097005813
+1,2016-09-20 09:10:04,"Nebo, 520 Atlantic Ave, Boston",42.3542188198,-71.0531109224
+2,2016-08-06 13:48:49,"Velveteen Rabbit, 1218 S Main St, Las Vegas",36.156726035,-115.153947716
+3,2016-07-31 21:09:15,"UFood Grill, Terminal B (Food Court), Boston",42.3630999062,-71.0175511091
+4,2016-06-29 05:15:35,"Leon's World Finest Bar-B-Que, 55th & Broadway, Galveston",29.2902664211,-94.8285137748
+5,2016-05-23 04:14:09,"Highball Lounge, 90 Tremont St, Boston",42.3574405406,-71.0610268728
+6,2016-05-23 04:10:54,"Shojo, 9 Tyler St, Boston",42.3509699371,-71.0607947356
+7,2016-04-29 23:47:31,"The Merchant Kitchen & Drinks, 60 Franklin St, Boston",42.3556720011,-71.0584965709
+8,2016-02-22 11:24:44,"Erbaluce, 69 Church St, Boston",42.350243,-71.068538
+9,2015-12-31 09:34:56,"kasavista Restaurant, Parque Pasivo, Fajardo",18.363408509,-65.6260040106
+10,2015-10-29 04:34:23,"W New York - Downtown, 8 Albany St, New York",40.7097419265,-74.013346268
+11,2015-10-24 13:38:56,"Williams & Graham, 3160 Tejon St, Denver",39.7619543017,-105.011036396
+12,2015-10-22 06:17:15,"Crooked Stave @ The Source, 3350 Brighton Blvd, Denver",39.7686212946,-104.979452992
+13,2015-10-22 03:23:30,"Hapa Sushi, 5380 Greenwood Plaza Blvd #101, Greenwood Village",39.6190117387,-104.90020752
+14,2015-10-21 10:41:24,"Comida @ The Source, 3350 Brighton Blvd, Denver",39.768795,-104.979708
+15,2015-10-19 06:59:02,"Sorellina, 1 Huntington Ave, Boston",42.3487382752,-71.0778796763
+16,2015-09-02 06:19:22,"UNI Sashimi Bar, 370 Commonwealth Ave, Boston",42.3487009244,-71.0884645518
+17,2015-08-30 02:44:00,"The Salty Pig, 130 Dartmouth St, Boston",42.3471404721,-71.0762605839
+18,2015-08-11 11:38:02,"Bamboo Pool, 3708 Las Vegas Blvd S, Las Vegas",36.1094929885,-115.17649591
+19,2015-08-05 23:39:45,"Parasol Up/Down, 3131 Las Vegas Blvd S, Las Vegas",36.1263273607,-115.16699865
+20,2015-08-03 23:13:55,"Costa di Mare, 3131 Las Vegas Blvd S, Las Vegas",36.1258566396,-115.16691759
+21,2015-07-18 14:50:21,"Holiday Cocktail Lounge, 75 Saint Marks Pl, New York",40.7278414587,-73.985731879
+22,2015-07-18 13:56:20,"Angel19s Share, 8 Stuyvesant St, New York",40.7301391082,-73.9892269374
+23,2015-05-11 10:51:32,"The Ramp Bar & Grill, 77 Pier Rd., Kennebunkport",43.3661552918,-70.4316759109
+24,2015-04-21 11:00:07,"PABU, 101 California St, San Francisco",37.7932871169,-122.398307728
+25,2015-03-28 21:56:36,"Pho-Viet, Silberburgstrae 116, Stuttgart",48.7767108237,9.16460096307
+26,2015-03-28 21:53:45,"Adriano's Bar & Caf, Theaterplatz 2, Bern",46.9478071521,7.44751531134
+27,2015-03-28 21:49:10,"Silk & Grain, 33 Cornhill, London",51.513358,-0.086325
+28,2015-03-26 19:30:56,"Bird, Zeedijk 72-74, Amsterdam",52.3745679841,4.90049147012
+29,2015-03-18 08:09:09,"Las Olas Cafe, 644 6th St, Miami Beach",25.77582,-80.1348694833
+30,2015-03-17 10:13:42,"Segafredo L'Originale, 1040 Lincoln Rd, Miami Beach",25.7904686495,-80.1397644999
+31,2015-02-20 01:58:43,"Sedona Grill, JW Marriott, Cancn",21.0877867753,-86.7703218896
+32,2015-01-18 02:26:23,"Baldwin Bar at Sichuan Garden, 2 Alfred St, Woburn",42.5021811873,-71.1574683307
+33,2015-01-11 04:08:58,"New England Air Museum, 36 Perimeter Rd, Windsor Locks",41.9470270058,-72.6914262772
+34,2015-01-11 04:07:39,"Frank Pepe Pizzeria Napoletana, 221 Buckland Hills Dr, Manchester",41.8098942595,-72.5457532589
+35,2015-01-11 04:06:06,"El Oriental De Cuba, 416 Centre St, Jamaica Plain",42.3206788202,-71.1106025275
+36,2015-01-11 03:58:02,"The Bancroft, 15 3rd Ave, Burlington",42.4877276144,-71.2224863499
+37,2015-01-11 03:55:15,"Trade, 540 Atlantic Ave, Boston",42.3535332226,-71.0536265373
+38,2014-12-29 08:03:42,"North End Bakery, Quincy Market, Boston",42.3601169257,-71.0548055522
+39,2014-12-14 05:36:27,"Tavern In The Square, 1 New England Executive Park, Burlington",42.4854911659,-71.2128216473
+40,2014-12-14 05:34:12,"O Ya, 9 East St, Boston",42.3515230146,-71.056772939
+41,2014-11-25 18:36:15,"Lagkagehuset, Terminal 2 (Landside), Kastrup",55.628421507,12.6466066942
+42,2014-11-24 17:36:17,"Manfreds & Vin, Jgersborggade 40, Kbenhavn",55.6932629406,12.5434099325
+43,2014-11-24 17:34:20,"Restaurant BROR, SANKT PEDERS STRDE 24A, Kbenhavn",55.6790222489,12.5681121531
+44,2014-11-18 06:09:35,"Terminal D, 3200 E Airfield Dr, Grapevine",32.8986518274,-97.0440444075
+45,2014-11-07 14:43:22,"Marvel Bar, 50 2nd Ave N, Minneapolis",44.9856526502,-93.2688625308
+46,2014-11-06 13:30:03,"Prohibition Bar, 821 Marquette Ave, Minneapolis",44.974766294,-93.271552803
+47,2014-10-31 03:59:42,"Kogi BBQ, 17428 Beach Blvd, Huntington Beach",33.854493803,-117.998528804
+48,2014-10-31 03:58:08,"ink., 8360 Melrose Ave, Los Angeles",34.0836462516,-118.37244304
+49,2014-10-31 03:56:04,"Silvercar, 9010 Bellanca Ave, Los Angeles",33.9546113464,-118.380403154
+50,2014-10-28 11:15:58,"Sycamore, 755 Beacon St, Newton",42.330533,-71.191716
+51,2014-10-24 11:50:57,"Bar Isabel, 797 College Street, Toronto",43.654737,-79.420751
+52,2014-10-23 01:14:38,"Porchetta & Co., 825 Dundas St W, Toronto",43.6515867,-79.4090023
+53,2014-10-10 15:41:55,"Salumi, 309 3rd Ave S, Seattle",47.5997065078,-122.330209947
+54,2014-10-08 08:26:36,"Mayahuel, 304 E 6th St, New York",40.7271855923,-73.9881885052
+55,2014-10-01 12:02:00,"Alden & Harlow, 40 Brattle St, Cambridge",42.3735894573,-71.1213684082
+56,2014-09-30 23:21:19,"The Chicken & Rice Guys, 101 Hartwell Ave, Lexington",42.4618970872,-71.2676508202
+57,2014-08-25 02:05:45,"Luxe Burger Bar Springfield, 1200 W. Columbus Ave, Springfield",42.0966461611,-72.5880110264

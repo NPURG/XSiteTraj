@@ -1,0 +1,135 @@
+,time,poi,latitude,longitude
+0,2014-10-06 00:43:59,"Myre Big Island State Park, 19499 780th Ave, Albert Lea",43.6371777561,-93.3085370064
+1,2014-10-06 00:41:56,"Terminal Maritima Isla Mujeres, Isla Blanca, Isla Mujeres",21.255111727,-86.747982502
+2,2014-10-06 00:39:05,"Canal Park, 590 Canal Park Dr, Duluth",46.7810426761,-92.0938424446
+3,2014-10-06 00:34:29,"Zona Arqueolgica de Chichn Itz, Carretera Mrida - Puerto Jurez Km. 120, Tinum",20.6827079256,-88.5718168525
+4,2014-10-06 00:31:57,"Marjorie McNeely Conservatory, 1225 Estabrook Dr, Saint Paul",44.9814389768,-93.1513701151
+5,2014-10-06 00:31:07,"Bloomington Dog Park, W 111th St, Bloomington",44.8027657346,-93.3637814097
+6,2014-10-06 00:29:50,"Target Field, 1 Twins Way, Minneapolis",44.9816615078,-93.2779494887
+7,2014-10-06 00:29:14,"Bredesen Park, Olinger road, Edina",44.8960637125,-93.3763183742
+8,2014-10-06 00:27:53,"Lake Harriet Band Shell, 4135 W Lake Harriet Pkwy, Minneapolis",44.9283379853,-93.307962495
+9,2014-10-06 00:27:02,"Minnehaha Falls, 4801 S Minnehaha Park Dr, Minneapolis",44.9156811539,-93.2106380668
+10,2014-10-06 00:26:37,"Gold Medal Park, 1201 Yale Pl, Minneapolis",44.9775950843,-93.2533478737
+11,2014-10-06 00:25:48,"Wildlife Rehab Center, 2458 Dale St. N, Roseville",45.016460489,-93.1260480456
+12,2014-10-06 00:21:45,"Wild River State Park, 39797 Park Trl, Center City",45.5362107111,-92.7425219505
+13,2014-10-06 00:20:28,"Minnehaha Parkway East, W Minnehaha Parkway, Minneapolis",44.9178336587,-93.2270179463
+14,2014-10-06 00:19:38,"Wood Lake Nature Center, 6710 Lake Shore Dr S, Richfield",44.8811439163,-93.289847374
+15,2014-10-06 00:18:43,"Eloise Butler Wildflower Garden and Bird Sanctuary, 1339 Theodore Wirth Parkway, Minneapolis",44.9747637402,-93.3225502161
+16,2014-10-06 00:10:48,"Quaking Bog, Theodore Wirth Pkwy, Minneapolis",44.9746222268,-93.326975051
+17,2014-10-06 00:06:33,"Minnesota Valley National Wildlife Refuge, 3815 American Blvd E, Saint Paul",44.8603559624,-93.2165553872
+18,2014-10-06 00:02:07,"Candy Shoppe, 217 Rittenhouse Ave, Bayfield",46.501352002,-90.9281823599
+19,2014-10-06 00:01:43,"Big Bay State Park, 141 S. 3rd St., Madeline Island",46.7955938751,-90.6852722168
+20,2014-10-06 00:00:34,"Tom's Burned Down Cafe, 234 Middle Rd, La Pointe",46.7794660078,-90.7864193258
+21,2014-10-05 23:59:49,"Seagull, 325 S 7th St, Bayfield",46.8065056895,-90.8233383698
+22,2014-10-05 23:58:04,"The Egg Toss Cafe, 41 Manypenny Avenue, Bayfield",46.809827,-90.8161595167
+23,2014-10-05 23:57:34,"Enger Tower, 1 Enger Tower Dr, Duluth",46.7758354951,-92.1245007941
+24,2014-10-05 23:56:48,"New Scenic Cafe, 5461 N Shore Dr, Duluth",46.9086193831,-91.8752415965
+25,2014-10-05 23:54:42,"Voyageur Lakewalk Inn, 333 E Superior St, Duluth",46.790712,-92.0936514
+26,2014-10-05 23:52:31,"Argosy University, 1515 Central Pkwy, Eagan",44.8373690681,-93.1738010156
+27,2014-10-05 23:50:31,"PizzaRev, 525 Blake Rd N, Hopkins",44.9347776363,-93.3852541973
+28,2014-10-05 23:47:26,"Punch Neapolitan Pizza, 8353 Crystal View Rd, Eden Prairie",44.8533133051,-93.4336137772
+29,2014-10-05 23:45:38,"Minnesota's Largest Candy Store, 20430 Johnson Memorial Dr, Jordan",44.6542301951,-93.6847849268
+30,2014-10-05 23:42:57,"Sponsel's Minnesota Harvest, 8251 Old Highway 169 Blvd, Jordan",44.6401163773,-93.6875886126
+31,2014-08-27 22:51:15,"Fitger's Brewhouse Brewery & Grille, 600 E Superior St, Duluth",46.792169021,-92.0909638909
+32,2014-07-28 00:24:45,"Pracna On Main, 117 Main St SE, Minneapolis",44.9845356351,-93.2555502173
+33,2014-07-28 00:21:25,"Penn Cycle - Richfield, 6824 Penn Ave S, Richfield",44.87890195,-93.308966
+34,2014-06-16 09:32:40,"Sandcastle, 4955 W Lake Nokomis Pkwy, Minneapolis",44.9115166092,-93.2431333012
+35,2013-06-26 21:52:03,"Peoples Organic, 3545 Galleria, Edina",44.877269,-93.326674
+36,2013-06-13 03:46:09,"Witches  Gulch, Upper Dells, Wisconsin Dells",43.6760075653,-89.7957793105
+37,2013-05-17 11:38:36,"Bredesen Park, Olinger road, Edina",44.8960637125,-93.3763183742
+38,2013-01-15 23:15:45,"1st Wok, 3236 W Lake St, Minneapolis",44.9490912368,-93.3209130561
+39,2013-01-15 23:13:13,"Cafe Latte, 850 Grand Ave, Saint Paul",44.9398675439,-93.1362766438
+40,2012-12-23 07:07:24,"LUSH, 112 E Broadway, Bloomington",44.8550049478,-93.2405313152
+41,2012-12-17 07:14:48,"Trader Joe's, 4270 W 78th St, Bloomington",44.8592916403,-93.3323619519
+42,2012-09-30 04:58:26,"Savers, 2124 E Lake St, Minneapolis",44.9491130385,-93.2408651471
+43,2012-09-30 01:57:44,"Jerry's Hardware, 5033 Vernon Ave S, Edina",44.910607378,-93.3548396334
+44,2012-07-29 18:33:30,"Uncommon Grounds, 2809 Hennepin Ave, Minneapolis",44.9514969529,-93.2979744673
+45,2012-07-12 08:54:31,"UPS Customer Center, 3312 Broadway St NE, Minneapolis",44.9986570779,-93.2146785032
+46,2012-06-30 07:59:52,"Calhoun Pet Supply, 901 W 36th St, Minneapolis",44.93767,-93.29112055
+47,2012-06-12 06:55:26,"FedEx Ship Center, 4700 Park Glen Rd, Saint Louis Park",44.9424888128,-93.3401682039
+48,2012-04-29 04:43:58,"Fatty Daddy's Auto Import & More, 224 Benson Ave SE, Willmar, MN 56201, Willmar",45.1307657882,-94.9394377872
+49,2012-04-12 05:03:33,"Bobby & Steve's Auto World Nicollet, 5801 Nicollet Ave, Minneapolis",44.897554241,-93.2778118463
+50,2012-04-01 08:58:33,"Taverna Grill, 2839 Mall Dr, Eau Claire",44.7895828588,-91.4603042287
+51,2012-03-24 04:48:34,"Rustica Bakery & Dogwood Coffee Bar, 3224 W Lake St, Minneapolis",44.94907213,-93.3203977346
+52,2012-02-29 02:07:53,"Jimmy John's, 7815 Portland Ave S, Bloomington",44.8612013477,-93.2679524076
+53,2012-02-28 03:15:05,"Columbus Airport (CSG), 3250 W Britt David Rd, Columbus",32.5187063457,-84.9402353509
+54,2011-11-04 00:36:01,"Jimmy John's, 7942 Penn Ave S, Bloomington",44.8595038766,-93.3091325269
+55,2011-10-31 03:11:17,"AutoZone, 6533 Nicollet Ave, Richfield",44.8840038521,-93.2775043977
+56,2011-10-29 09:00:51,"Cub Foods, 1104 Lagoon Ave, Minneapolis",44.949644109,-93.2938814163
+57,2011-04-17 00:26:02,"Muddy Paws Cheesecake, 7600 W 27th St Ste B2, Saint Louis Park",44.9552837245,-93.3773687988
+58,2011-03-19 03:49:19,"Clearwater Travel Plaza, 950 State Highway 24, Clearwater",45.4126683,-94.0546378
+59,2011-02-21 04:35:12,"Bryant Hardware, 818 W 36th St, Minneapolis",44.937883,-93.290282
+60,2010-09-26 02:53:23,"New Hope Cinema Grill, 2749 Winnetka Ave N, New Hope",45.0086489979,-93.3813784733
+61,2010-08-30 02:32:43,"Apple Jacks Orchard, 4875 37th St SE, Delano",45.0967987336,-93.789173384
+62,2010-04-16 11:42:36,"Petco, 8020 Glen Ln, Eden Prairie",44.8585550434,-93.4283860276
+63,2010-04-16 11:41:56,"Varsity Theater & Cafe des Artistes, 1308 4th St SE, Minneapolis",44.9807115301,-93.2368705363
+64,2010-04-16 11:41:02,"Sebastian Joe's Ice Cream Cafe, 1007 W Franklin Ave, Minneapolis",44.9626344282,-93.2919609547
+65,2010-02-19 05:19:29,"Holiday Station Store, 1325 Wayzata Blvd E, Wayzata",44.9716149368,-93.49604161
+66,2010-02-12 00:52:17,"Riverview Theater, 3800 42nd Ave S, Minneapolis",44.9340954035,-93.2131059829
+67,2014-10-06 00:43:59,"Myre Big Island State Park, 19499 780th Ave, Albert Lea",43.6371777561,-93.3085370064
+68,2014-10-06 00:41:56,"Terminal Maritima Isla Mujeres, Isla Blanca, Isla Mujeres",21.255111727,-86.747982502
+69,2014-10-06 00:39:05,"Canal Park, 590 Canal Park Dr, Duluth",46.7810426761,-92.0938424446
+70,2014-10-06 00:34:29,"Zona Arqueolgica de Chichn Itz, Carretera Mrida - Puerto Jurez Km. 120, Tinum",20.6827079256,-88.5718168525
+71,2014-10-06 00:31:57,"Marjorie McNeely Conservatory, 1225 Estabrook Dr, Saint Paul",44.9814389768,-93.1513701151
+72,2014-10-06 00:31:07,"Bloomington Dog Park, W 111th St, Bloomington",44.8027657346,-93.3637814097
+73,2014-10-06 00:29:50,"Target Field, 1 Twins Way, Minneapolis",44.9816615078,-93.2779494887
+74,2014-10-06 00:29:14,"Bredesen Park, Olinger road, Edina",44.8960637125,-93.3763183742
+75,2014-10-06 00:27:53,"Lake Harriet Band Shell, 4135 W Lake Harriet Pkwy, Minneapolis",44.9283379853,-93.307962495
+76,2014-10-06 00:27:02,"Minnehaha Falls, 4801 S Minnehaha Park Dr, Minneapolis",44.9156811539,-93.2106380668
+77,2014-10-06 00:26:37,"Gold Medal Park, 1201 Yale Pl, Minneapolis",44.9775950843,-93.2533478737
+78,2014-10-06 00:25:48,"Wildlife Rehab Center, 2458 Dale St. N, Roseville",45.016460489,-93.1260480456
+79,2014-10-06 00:21:45,"Wild River State Park, 39797 Park Trl, Center City",45.5362107111,-92.7425219505
+80,2014-10-06 00:20:28,"Minnehaha Parkway East, W Minnehaha Parkway, Minneapolis",44.9178336587,-93.2270179463
+81,2014-10-06 00:19:38,"Wood Lake Nature Center, 6710 Lake Shore Dr S, Richfield",44.8811439163,-93.289847374
+82,2014-10-06 00:18:43,"Eloise Butler Wildflower Garden and Bird Sanctuary, 1339 Theodore Wirth Parkway, Minneapolis",44.9747637402,-93.3225502161
+83,2014-10-06 00:10:48,"Quaking Bog, Theodore Wirth Pkwy, Minneapolis",44.9746222268,-93.326975051
+84,2014-10-06 00:06:33,"Minnesota Valley National Wildlife Refuge, 3815 American Blvd E, Saint Paul",44.8603559624,-93.2165553872
+85,2014-10-06 00:02:07,"Candy Shoppe, 217 Rittenhouse Ave, Bayfield",46.501352002,-90.9281823599
+86,2014-10-06 00:01:43,"Big Bay State Park, 141 S. 3rd St., Madeline Island",46.7955938751,-90.6852722168
+87,2014-10-06 00:00:34,"Tom's Burned Down Cafe, 234 Middle Rd, La Pointe",46.7794660078,-90.7864193258
+88,2014-10-05 23:59:49,"Seagull, 325 S 7th St, Bayfield",46.8065056895,-90.8233383698
+89,2014-10-05 23:58:04,"The Egg Toss Cafe, 41 Manypenny Avenue, Bayfield",46.809827,-90.8161595167
+90,2014-10-05 23:57:34,"Enger Tower, 1 Enger Tower Dr, Duluth",46.7758354951,-92.1245007941
+91,2014-10-05 23:56:48,"New Scenic Cafe, 5461 N Shore Dr, Duluth",46.9086193831,-91.8752415965
+92,2014-10-05 23:54:42,"Voyageur Lakewalk Inn, 333 E Superior St, Duluth",46.790712,-92.0936514
+93,2014-10-05 23:52:31,"Argosy University, 1515 Central Pkwy, Eagan",44.8373690681,-93.1738010156
+94,2014-10-05 23:50:31,"PizzaRev, 525 Blake Rd N, Hopkins",44.9347776363,-93.3852541973
+95,2014-10-05 23:47:26,"Punch Neapolitan Pizza, 8353 Crystal View Rd, Eden Prairie",44.8533133051,-93.4336137772
+96,2014-10-05 23:45:38,"Minnesota's Largest Candy Store, 20430 Johnson Memorial Dr, Jordan",44.6542301951,-93.6847849268
+97,2014-10-05 23:42:57,"Sponsel's Minnesota Harvest, 8251 Old Highway 169 Blvd, Jordan",44.6401163773,-93.6875886126
+98,2014-08-27 22:51:15,"Fitger's Brewhouse Brewery & Grille, 600 E Superior St, Duluth",46.792169021,-92.0909638909
+99,2014-07-28 00:24:45,"Pracna On Main, 117 Main St SE, Minneapolis",44.9845356351,-93.2555502173
+100,2014-07-28 00:21:25,"Penn Cycle - Richfield, 6824 Penn Ave S, Richfield",44.87890195,-93.308966
+101,2014-06-16 09:32:40,"Sandcastle, 4955 W Lake Nokomis Pkwy, Minneapolis",44.9115166092,-93.2431333012
+102,2013-06-26 21:52:03,"Peoples Organic, 3545 Galleria, Edina",44.877269,-93.326674
+103,2013-06-13 03:46:09,"Witches  Gulch, Upper Dells, Wisconsin Dells",43.6760075653,-89.7957793105
+104,2013-05-17 11:38:36,"Bredesen Park, Olinger road, Edina",44.8960637125,-93.3763183742
+105,2013-01-15 23:15:45,"1st Wok, 3236 W Lake St, Minneapolis",44.9490912368,-93.3209130561
+106,2013-01-15 23:13:13,"Cafe Latte, 850 Grand Ave, Saint Paul",44.9398675439,-93.1362766438
+107,2012-12-23 07:07:24,"LUSH, 112 E Broadway, Bloomington",44.8550049478,-93.2405313152
+108,2012-12-17 07:14:48,"Trader Joe's, 4270 W 78th St, Bloomington",44.8592916403,-93.3323619519
+109,2012-09-30 04:58:26,"Savers, 2124 E Lake St, Minneapolis",44.9491130385,-93.2408651471
+110,2012-09-30 01:57:44,"Jerry's Hardware, 5033 Vernon Ave S, Edina",44.910607378,-93.3548396334
+111,2012-07-29 18:33:30,"Uncommon Grounds, 2809 Hennepin Ave, Minneapolis",44.9514969529,-93.2979744673
+112,2012-07-12 08:54:31,"UPS Customer Center, 3312 Broadway St NE, Minneapolis",44.9986570779,-93.2146785032
+113,2012-06-30 07:59:52,"Calhoun Pet Supply, 901 W 36th St, Minneapolis",44.93767,-93.29112055
+114,2012-06-12 06:55:26,"FedEx Ship Center, 4700 Park Glen Rd, Saint Louis Park",44.9424888128,-93.3401682039
+115,2012-04-29 04:43:58,"Fatty Daddy's Auto Import & More, 224 Benson Ave SE, Willmar, MN 56201, Willmar",45.1307657882,-94.9394377872
+116,2012-04-12 05:03:33,"Bobby & Steve's Auto World Nicollet, 5801 Nicollet Ave, Minneapolis",44.897554241,-93.2778118463
+117,2012-04-01 08:58:33,"Taverna Grill, 2839 Mall Dr, Eau Claire",44.7895828588,-91.4603042287
+118,2012-03-24 04:48:34,"Rustica Bakery & Dogwood Coffee Bar, 3224 W Lake St, Minneapolis",44.94907213,-93.3203977346
+119,2012-02-29 02:07:53,"Jimmy John's, 7815 Portland Ave S, Bloomington",44.8612013477,-93.2679524076
+120,2012-02-28 03:15:05,"Columbus Airport (CSG), 3250 W Britt David Rd, Columbus",32.5187063457,-84.9402353509
+121,2011-11-04 00:36:01,"Jimmy John's, 7942 Penn Ave S, Bloomington",44.8595038766,-93.3091325269
+122,2011-10-31 03:11:17,"AutoZone, 6533 Nicollet Ave, Richfield",44.8840038521,-93.2775043977
+123,2011-10-29 09:00:51,"Cub Foods, 1104 Lagoon Ave, Minneapolis",44.949644109,-93.2938814163
+124,2011-04-17 00:26:02,"Muddy Paws Cheesecake, 7600 W 27th St Ste B2, Saint Louis Park",44.9552837245,-93.3773687988
+125,2011-03-19 03:49:19,"Clearwater Travel Plaza, 950 State Highway 24, Clearwater",45.4126683,-94.0546378
+126,2011-02-21 04:35:12,"Bryant Hardware, 818 W 36th St, Minneapolis",44.937883,-93.290282
+127,2010-09-26 02:53:23,"New Hope Cinema Grill, 2749 Winnetka Ave N, New Hope",45.0086489979,-93.3813784733
+128,2010-08-30 02:32:43,"Apple Jacks Orchard, 4875 37th St SE, Delano",45.0967987336,-93.789173384
+129,2010-04-16 11:42:36,"Petco, 8020 Glen Ln, Eden Prairie",44.8585550434,-93.4283860276
+130,2010-04-16 11:41:56,"Varsity Theater & Cafe des Artistes, 1308 4th St SE, Minneapolis",44.9807115301,-93.2368705363
+131,2010-04-16 11:41:02,"Sebastian Joe's Ice Cream Cafe, 1007 W Franklin Ave, Minneapolis",44.9626344282,-93.2919609547
+132,2010-02-19 05:19:29,"Holiday Station Store, 1325 Wayzata Blvd E, Wayzata",44.9716149368,-93.49604161
+133,2010-02-12 00:52:17,"Riverview Theater, 3800 42nd Ave S, Minneapolis",44.9340954035,-93.2131059829

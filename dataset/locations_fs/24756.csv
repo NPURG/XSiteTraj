@@ -1,0 +1,61 @@
+,time,poi,latitude,longitude
+0,2016-10-15 09:24:23,"ANXO Cidery & Pinxtos Bar, 300 Florida Ave NW, Washington",38.9133403044,-77.0152859949
+1,2016-09-22 04:10:25,"MOD Pizza, 103 S Washington St, Naperville",41.7735139932,-88.1480781506
+2,2016-06-13 10:28:56,"HARDWARE a Sustainable Gastro Pub & Brewery, 2000 W. Orchard RD N. Aurora, North Aurora",41.8095449199,-88.3716943621
+3,2016-06-11 01:12:19,"Flatbread Company, 161 E Cushing St, Providence",41.829560713,-71.4002995066
+4,2016-05-22 02:27:28,"Dark Horse Pasteries, 28 West Chicago Avenue, Naperville",41.7714645305,-88.1488023048
+5,2016-05-05 00:52:15,"Dairy Queen, 1002 N Washington St, Naperville",41.78709464,-88.14679102
+6,2016-05-05 00:51:29,"Chuck's Bar & Grill, 48w739 Rt. 64, Virgil",41.9564040052,-88.5418722365
+7,2016-05-05 00:47:53,"Gemato's Wood Pit BBQ, 1566 W Ogden Ave, Naperville",41.7691016654,-88.1858896982
+8,2016-05-05 00:45:00,"Anodyne Coffee Company, 400 N Water St, Milwaukee",43.0352137685,-87.9081743417
+9,2016-05-05 00:44:05,"Ian's Pizza, 146 E Juneau Ave, Milwaukee",43.0458527751,-87.9113596191
+10,2016-05-05 00:42:18,"The Pub, 975 Anderson Hill Rd, Rye Brook",41.0447854389,-73.6896936587
+11,2016-05-05 00:40:28,"Starbucks, 118 S Ridge St, Rye Brook",41.0030751209,-73.6829075217
+12,2016-04-05 09:48:43,"Brutopia Brewery & Kitchen, 505 Atwood Ave, Cranston",41.7897873096,-71.4718667639
+13,2016-04-05 09:46:38,"Faust, 121 Fountain Street, Providence",41.8232459698,-71.4159198242
+14,2016-04-05 09:44:21,"North Bakery, 70 Battey St, Providence",41.8188311291,-71.4247733568
+15,2015-09-22 09:56:47,"The Shop, 460 Wickenden St, Providence",41.8203391608,-71.3940632343
+16,2015-08-02 08:13:19,"Revelator Coffee Company, 637 Tchoupitoulas St., New Orleans",29.9467894731,-90.0673844762
+17,2014-06-03 10:17:16,"SCM Culinary Suite, 598 Broadway, New York",40.725255,-73.996978
+18,2014-04-06 02:29:24,"Marshall Auto Body, 22300 W Bluemound Road, Waukesha",43.0363911367,-88.1922106642
+19,2014-04-04 07:40:12,"Pizzeria Neo, 47 E Chicago Ave, Naperville",41.7715557276,-88.1475254986
+20,2014-02-04 03:29:29,"Pret A Manger, 222 Merchandise Mart Plz, Chicago",41.8881314789,-87.6348980611
+21,2014-01-01 07:47:18,"Myths and Legends Brewing Company, 1115 Zygmunt Cir, Westmont",41.7755233794,-87.9822725621
+22,2013-12-23 03:41:28,"Neat Kitchen & Bar, 246 N Cass Ave, Westmont",41.8014964069,-87.9755101414
+23,2013-11-17 09:56:32,"Amber Cafe, 13 N Cass Ave, Westmont",41.7964179524,-87.9749409799
+24,2013-11-06 10:09:07,"Farmhouse, 228 W Chicago Ave, Chicago",41.8966118082,-87.6353944262
+25,2013-10-26 23:34:22,"Auto Image Inc, 417 W Main St, Barrington",42.1535096821,-88.1389727993
+26,2013-07-30 03:08:58,"Bake Bottle & Brew, 147 N Front St, Swansboro",34.686778,-77.119422
+27,2013-07-18 01:09:32,"Dig Inn, 17 E 17th St, New York",40.7373944928,-73.9911839128
+28,2013-05-28 00:49:42,"Meatheads Burgers & Fries, 2555 W 75th St, Naperville",41.7478913837,-88.1991969355
+29,2013-04-04 09:32:53,"Elm Street Oyster House, 11 W Elm St, Greenwich",41.026915,-73.626435
+30,2013-03-28 12:21:21,"Sundance Owl Bar, 8841 N Alpine Loop Rd, Sundance",40.3918496822,-111.579246211
+31,2013-03-28 12:20:44,"Sundance Owl Bar, 8841 N Alpine Loop Rd, Sundance",40.3918496822,-111.579246211
+32,2013-03-10 09:26:18,"Totopos, 2048 Aurora Ave, Naperville",41.7641937733,-88.188233
+33,2013-01-13 03:33:28,"Country House, 2095 South Kirk Road, Geneva",41.868956,-88.279263
+34,2013-01-12 08:14:35,"Au Cheval, 800 W Randolph St, Chicago",41.8845186012,-87.6474260159
+35,2012-10-11 11:38:25,"Port Brewing Co / The Lost Abbey, 155 Mata Way Ste 104, San Marcos",33.1413922284,-117.149134544
+36,2012-08-06 04:03:46,"Solemn Oath Brewery, 1661 Quincy Ave, Naperville",41.7765198244,-88.1883934429
+37,2012-08-06 04:01:00,"Solemn Oath Brewery, 1661 Quincy Ave, Naperville",41.7765198244,-88.1883934429
+38,2012-07-04 21:55:05,"Peterson Spirits & Fine Wines, 88 W Gartner Rd, Naperville",41.7544284738,-88.1408740724
+39,2012-04-11 21:42:43,"Starbucks, 2 N Riverside Plz, Chicago",41.8819451207,-87.6390953089
+40,2012-03-29 07:15:58,"Cara Mia, 654 9th Ave, New York",40.7608157908,-73.9909084453
+41,2011-12-31 09:35:54,"The Bavarian Lodge, 1800 Ogden Ave, Lisle",41.8003286449,-88.0873545084
+42,2011-11-07 07:13:27,"The Bavarian Lodge, 1800 Ogden Ave, Lisle",41.8003286449,-88.0873545084
+43,2011-09-05 12:24:40,"Hilton Garden Inn, 225 S Broadway, Rochester",44.0207957559,-92.4634497498
+44,2011-08-09 09:15:30,"Little Italian Pizza, 373 E Bailey Rd, Naperville",41.7408905043,-88.1236261827
+45,2011-08-07 02:13:47,"Wintzell's Oyster House, 105 Commerce St, Montgomery",32.3790580969,-86.3109153643
+46,2011-08-05 10:28:06,"Bruster's Ice Cream, 4655 Gulfstarr Dr, Miramar Beach",30.3874819452,-86.4105565231
+47,2011-08-05 10:17:31,"Bruster's Ice Cream, 4655 Gulfstarr Dr, Miramar Beach",30.3874819452,-86.4105565231
+48,2011-08-05 10:15:26,"Bruster's Ice Cream, 4655 Gulfstarr Dr, Miramar Beach",30.3874819452,-86.4105565231
+49,2011-08-04 07:39:15,"Bud & Alley's Pizza Bar, 2236 E County Highway 30A, Seaside",30.3198636711,-86.1386194825
+50,2011-08-02 10:53:45,"Creole Creamery, 4924 Prytania St, New Orleans",29.9245790192,-90.1084962597
+51,2011-08-02 10:52:38,"Royal Street Inn & Bar, 1431 Royal St, New Orleans",29.963959,-90.0594331
+52,2011-07-31 03:10:24,"Steamboat Natchez, 400 Toulouse Street Wharf, New Orleans",29.9551483496,-90.0623238087
+53,2011-07-26 09:23:06,"The Schlafly Tap Room, 2100 Locust St, St Louis",38.6329813676,-90.2098241765
+54,2011-07-19 04:55:51,"Next, 953 W Fulton Market, Chicago",41.8866478735,-87.6520586014
+55,2011-07-19 04:51:12,"IKEA Bolingbrook, 750 E Boughton Rd, Bolingbrook",41.727310895,-88.0376865825
+56,2011-02-12 13:34:37,"The Winchester, 2657 N Kedzie Ave, Chicago",41.929959,-87.707256
+57,2010-01-18 00:36:04,"Heaven on Seven, 224 S Main St, Naperville",41.7723077773,-88.1493549407
+58,2010-01-17 02:10:36,"Distinctive Cork, 192 W Gartner Rd, Naperville",41.7550805833,-88.14250865
+59,2009-12-30 05:42:45,"Chicago French Market, 131 N Clinton St, Chicago",41.8841486093,-87.6407721726

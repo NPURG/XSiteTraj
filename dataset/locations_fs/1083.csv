@@ -1,0 +1,57 @@
+,time,poi,latitude,longitude
+0,2016-10-15 07:34:42,"Sam's Tavern, 400 9th Ave N, Seattle",47.6222274889,-122.339486106
+1,2016-10-15 07:34:14,"Lost Lake Cafe & Lounge, 1505 10th Ave, Seattle",47.6142062192,-122.319288254
+2,2016-10-15 07:33:53,"Some Random Bar, 2604 1st Ave, Seattle",47.6155283662,-122.349896317
+3,2016-07-23 05:35:49,"The Carlile Room, 820 Pine St, Seattle",47.6135221066,-122.332436626
+4,2016-07-23 05:35:03,"CJ's Eatery, 2619 1st Ave, Seattle",47.61584186,-122.350599
+5,2016-07-23 05:34:05,"Olympic Sculpture Park, 2901 Western Ave, Seattle",47.6163654239,-122.354781341
+6,2016-07-23 05:33:47,"Caf Presse, 1117 12th Ave, Seattle",47.6121955413,-122.317142487
+7,2016-04-19 12:47:44,"Black Bottle, 2600 1st Ave, Seattle",47.6153055499,-122.349715233
+8,2016-04-19 01:42:14,"Rama Deli & Market, 2801 1st Ave, Seattle",47.6164520097,-122.352005511
+9,2016-04-19 01:41:55,"Ask for Luigi, 305 Alexander St, Vancouver",49.284171,-123.097681
+10,2016-01-15 02:03:07,"Paramount Theatre, 911 Pine St, Seattle",47.6134540322,-122.331390381
+11,2016-01-01 18:04:32,"The Ellington, 2801 1st Ave, Seattle",47.6165294044,-122.352185536
+12,2015-12-31 05:06:43,"John F. Kennedy International Airport (JFK), at JFK Access Rd, Queens",40.644333533,-73.7834107385
+13,2015-12-31 05:05:11,"David's Bagels, NY 303, Valley Cottage",41.1207190673,-73.9428275928
+14,2015-12-31 05:04:36,"David's Bagels, NY 303, Valley Cottage",41.1207190673,-73.9428275928
+15,2015-12-12 12:29:48,"Trophy Cupcakes, 1815 N 45th St Ste 209, Seattle",47.6609579777,-122.335569263
+16,2014-10-30 06:28:40,"Sugar Beach Bake Shop, 61 S Kihei Rd, K2bhei",20.7818532997,-156.462563861
+17,2014-03-16 05:14:56,"La Parisienne, 2507 4th Ave, Seattle",47.6169004614,-122.346604596
+18,2014-02-16 06:17:47,"Winnsonian, 740 Rhode Island St, San Francisco",37.7606457373,-122.402445356
+19,2013-11-20 03:15:30,"La Mre Catherine, 6 place du Tertre, Paris",48.8866769098,2.34077500672
+20,2013-11-19 20:02:07,"La Licorne, 5 rue du Barbtre, Reims",49.2510557321,4.03822660446
+21,2013-11-19 18:54:13,"BEST WESTERN PLUS Htel de la Paix, 9 rue Buirette, Reims",49.2546932229,4.02645076935
+22,2013-11-18 23:51:42,"dito, 78-80 Place Drouet d'Erlon, Reims",49.2565278547,4.02642679351
+23,2013-11-18 20:08:32,"Champagne Mot & Chandon, 20 avenue de Champagne, pernay",49.0431696939,3.95938755679
+24,2013-11-18 05:36:42,"Caf Latral, 4 avenue Mac-Mahon, Paris",48.8753154101,2.29464322329
+25,2013-11-12 13:06:36,"Black Bottle Postern, 919 Bellevue Way NE, Bellevue",47.6185961688,-122.201766286
+26,2013-10-13 04:57:44,"Amavi, 3796 Peppers Bridge Rd, Walla Walla",46.0162646355,-118.386053081
+27,2013-10-12 05:54:40,"Ella's Howell, 1519 E Howell St Apt C, Seattle",47.617482,-122.312041
+28,2013-10-12 05:54:22,"Ella's Howell, 1519 E Howell St Apt C, Seattle",47.617482,-122.312041
+29,2013-09-10 08:06:52,"Emerald Point, 40 Sterling Rd, Orange County",41.21788135,-74.29205505
+30,2013-08-26 14:51:09,"Central Pizza, 2901 S Jackson St, Seattle",47.5991732757,-122.294872557
+31,2013-05-07 13:19:47,"Winnsonian SF, 279 Castro St, San Francisco",37.764537,-122.43495
+32,2013-04-06 01:11:32,"Hot Bagel, 47-04 Bell Blvd, Bayside",40.75674565,-73.7674907085
+33,2013-03-18 12:09:39,"The Laundromat Caf, Austurstrti 9, Mibr",64.1477449172,-21.9396221638
+34,2013-03-18 12:09:08,"B5, Bankastrti 5, Reykjavk",64.1468322697,-21.9345661127
+35,2013-03-18 12:08:28,"Bernhftsbakar, Bergstaastrti 13, Reykjavk",64.14473975,-21.933284
+36,2013-03-18 12:07:56,"Bergsson Maths, Templarasund 3, Reykjavk",64.1462585898,-21.9401241663
+37,2013-02-02 15:56:58,"Rumba, 1112 Pike St, Seattle",47.6136655859,-122.328504324
+38,2012-09-13 12:30:59,"Serafina, 2043 Eastlake Ave E, Seattle",47.63809729,-122.32607394
+39,2011-11-16 12:17:52,"Belltown Pizza, 2422 1st Ave, Seattle",47.614577,-122.348437
+40,2011-07-09 05:08:03,"Magnuson Grand City Center, 507 W Main St, Bozeman",45.6795776237,-111.044437798
+41,2011-06-11 05:06:11,"Volunteer Park Cafe, 1501 17th Ave E, Seattle",47.63242,-122.309964667
+42,2011-05-15 09:28:28,"Tru Cellars Wines, Main St, Walla Walla",46.067143,-118.338358
+43,2011-04-05 10:03:25,"The Ellington, 2801 1st Ave, Seattle",47.6165294044,-122.352185536
+44,2011-02-21 14:26:37,"Woodsky's, 303 N 36th St, Seattle",47.6524532262,-122.355363379
+45,2011-01-29 17:24:40,"Waterwheel Lounge, 7034 15th Ave NW, Seattle",47.680584624,-122.376324386
+46,2010-11-06 06:51:30,"Cliff Lede Vineyards, 1473 Yountville Cross Rd, Yountville",38.424260297,-122.344514836
+47,2010-11-06 04:51:13,"Del Dotto Winery & Caves, 1055 Atlas Peak Rd, Napa County",38.3397245,-122.263095975
+48,2010-11-06 04:50:34,"Del Dotto Winery & Caves, 1055 Atlas Peak Rd, Napa County",38.3397245,-122.263095975
+49,2010-10-25 14:49:06,"Belltown Pizza, 2422 1st Ave, Seattle",47.614577,-122.348437
+50,2010-10-10 09:00:13,"Columbia Winery, 14030 NE 145th St, Woodinville",47.7339310567,-122.152203116
+51,2010-08-30 06:40:30,"T Maccarones, 4 N Colville St, Walla Walla",46.0682704054,-118.337565615
+52,2010-08-29 05:39:16,"Walla Walla Limo Limo, Main Street, Walla Walla",46.0837093823,-118.281555176
+53,2010-08-29 05:37:07,"Russell Creek Winery, 301 E Aeronca Ave, Walla Walla",46.086739,-118.278034
+54,2010-08-29 05:13:40,"Walla Walla Limo Limo, Main Street, Walla Walla",46.0837093823,-118.281555176
+55,2009-07-19 11:30:27,"Tutta Bella Neapolitan Pizzeria, 2200 Westlake Ave, Seattle",47.6183023261,-122.338171773

@@ -1,0 +1,57 @@
+,time,poi,latitude,longitude
+0,2016-08-12 20:30:31,"Lee, 603 King Street West, Toronto",43.6443076817,-79.4004918462
+1,2016-08-12 20:22:06,"Maro's, 135 Kerr St, Oakville",43.440424,-79.675598
+2,2016-08-12 20:12:42,"Ambiance of India, 2157 Royal Windsor Drive, Mississauga",43.508589,-79.633169
+3,2016-08-12 20:11:27,"Cloud 9 Coffee Roastery, 81 Forence Drive, Oakville, Oakville",43.4439634157,-79.6814104915
+4,2016-08-12 20:09:46,"Golden Coast Tea Club and Bubble Tea, 278, Oakville",43.4427544,-79.6801478
+5,2015-11-08 08:52:16,"Seven Bays Bouldering, 2019 Gottingen Street, Halifax",44.6510015821,-63.581507206
+6,2015-09-08 00:46:21,"Niche Lounge, 1505 Barrington St., Halifax",44.6442901398,-63.5725063345
+7,2015-08-26 00:30:17,"Steve-O-Reno's Cappuccino, 1209 Marginal Rd, Halifax",44.6405546466,-63.566237324
+8,2015-08-23 23:49:50,"Murphy's Restaurant, 1751 Lower Water Street, Halifax",44.649433,-63.5703384876
+9,2015-08-19 21:59:40,"Lot Six, 1685 Argyle Street, Halifax",44.64691,-63.574549
+10,2015-08-13 21:50:55,"Oddfellows Barbershop, 6451 Quinpool Road, Halifax",44.644491,-63.601766
+11,2015-08-13 21:44:10,"enVie A Vegan Kitchen, 5775 Charles Street, Halifax",44.654412,-63.592368
+12,2015-08-12 05:29:36,"Venus Envy, 1598 Barrington St, Halifax",44.646036427,-63.5736000538
+13,2015-08-12 05:26:50,"3 Guys And A Stove, 143 Hwy. 60, Huntsville",45.337638,-79.19697
+14,2015-07-19 20:42:00,"Bitter End Martini Bar & Restaurant, 1572 Argyle Street, Halifax",44.645369,-63.574021
+15,2015-04-19 20:27:29,"Lion & Bright, 2534 Agricola St., Halifax",44.654586,-63.592625
+16,2015-04-19 20:25:26,"Coburg Coffee House, 6085 Coburg Road, Halifax",44.6396656681,-63.589037078
+17,2015-04-19 20:13:53,"Humani-T Cafe, 5755 Young St, Halifax",44.660694,-63.601412
+18,2015-01-25 21:55:17,"Smiling Goat Organic Espresso Bar - South Park, 1551 South Park St., Unit D, Halifax",44.64299,-63.580023
+19,2014-12-23 06:59:52,"Red Chillie, 1131 Nottinghill Gate, Oakville",43.439945298,-79.7199319325
+20,2014-12-03 19:47:40,"Thai Ivory Cuisine, 6303 Quinpool Road, Halifax",44.6449757252,-63.5987071942
+21,2014-11-30 00:23:02,"Snappy Tomato Pizza, 1283 Barrington St., Halifax",44.6415441412,-63.5713148117
+22,2014-11-30 00:14:32,"Tha Express, 7001 Mumford Rd, Halifax",44.649666212,-63.6180977402
+23,2014-11-30 00:10:03,"Indochine Banh Mi, 1551 South Park St, Halifax",44.643352,-63.580218
+24,2014-11-30 00:06:21,"Henry Hicks Academic & Administration Building (Dalhousie University), 6299 South Street, Halifax",44.6361621003,-63.5931372643
+25,2014-11-30 00:05:31,"Kenneth Rowe Management Building, 6100 University Ave, Halifax",44.63725,-63.588577
+26,2014-11-30 00:00:02,"Smoke's Poutinerie, 5236 Blowers St., Halifax",44.6451463758,-63.5740349251
+27,2014-11-29 23:59:45,"Winners, 6970 Mumford Rd., Halifax",44.6461547408,-63.6195087433
+28,2014-11-29 23:59:21,"Atlantic Superstore, 6139 Quinpool Rd., Halifax",44.6465547201,-63.5946607586
+29,2014-11-29 23:57:15,"Anchored Coffee, 6451 Quinpool Rd, Halifax",44.644194,-63.601764
+30,2014-11-29 23:54:13,"Chapters, 188 Chain Lake Dr, Halifax",44.6489941993,-63.6744832993
+31,2014-11-29 23:53:49,"Halifax Seaport Farmers' Market, 1209 Marginal Rd., Halifax",44.6404732877,-63.566348609
+32,2014-11-29 23:50:02,"Pete's Frootique and European Delicatessen, 1515 Dresden Row, Halifax",44.6432829223,-63.5780988282
+33,2014-11-20 19:06:27,"Piatto Pizzeria + Enoteca, 5144 Morris St, Halifax",44.6421242824,-63.5700253304
+34,2014-11-18 03:38:40,"The Company House, 2202 Gottingen St, Halifax",44.65317,-63.584999
+35,2014-11-12 23:40:22,"Heartwood, 6250 Quinpool Rd, Halifax",44.645384,-63.59732472
+36,2014-11-10 04:03:56,"Art Gallery of Nova Scotia, 1723 Hollis St, Halifax",44.6483377777,-63.5730528831
+37,2014-11-04 09:01:05,"The Fireside, 1500 Brunswick St, Halifax",44.643805557,-63.5751644484
+38,2014-11-02 05:23:01,"Ristorante a Mano, 1477 Lower Water St., Halifax",44.6437629488,-63.5692051373
+39,2014-10-28 01:02:29,"The Foggy Goggle, 1667 Argyle St., Halifax",44.646624,-63.5745680286
+40,2014-10-11 18:58:23,"Veggies Natural Juice Bar & Cafe, 524 Nostrand Ave, Brooklyn",40.680965125,-73.9496642189
+41,2014-10-11 18:56:44,"Red Bamboo, 140 W 4th St, New York",40.7314161195,-74.0002454239
+42,2014-10-11 18:54:16,"Saturdays Surf NYC, 31 Crosby St, New York",40.7207804312,-73.9994936619
+43,2014-10-11 18:52:19,"Organic Earth Market, 6487 Quinpool Rd, Halifax",44.6440708562,-63.6026644707
+44,2014-10-06 20:15:41,"The Other Bean, Quinpool Road, Halifax",44.645653,-63.596387
+45,2014-08-11 21:01:06,"Essence of Life Organics, 50 Kensington Avenue, Toronto",43.654071,-79.400351
+46,2014-08-07 23:13:55,"Fika, 28 Kensington Ave, Toronto",43.6535238853,-79.4003104345
+47,2014-08-07 22:52:40,"Smiling Goat Coffeehouse ~ Caf - Bishops Landing, 1475 Lower Water Street, Halifax",44.6436844863,-63.5690283445
+48,2014-08-07 22:50:53,"Humani-T, 1451 South Park St, Halifax",44.6414831776,-63.5792929516
+49,2014-08-07 22:49:16,"Starbucks, 1646 Barrington St, Halifax",44.6463379359,-63.5737395287
+50,2014-08-07 22:45:11,"DAVIDsTEA, 5486 Spring Garden Road, Halifax",44.643212,-63.57645
+51,2014-08-07 22:43:03,"Sweet Hereafter, 6148 Quinpool Rd, Halifax",44.6461576558,-63.5943903645
+52,2014-08-07 22:40:09,"Second Cup, 6100 Quinpool Rd, Halifax",44.646414267,-63.5932123661
+53,2014-08-07 22:38:42,"Just Us! Coffeehouse, 5896 Spring Garden Rd., Halifax",44.640782,-63.584754
+54,2014-08-07 22:33:51,"Robinson's Your Independent Grocer, 131 Howland Dr, Huntsville",45.3441529005,-79.2272351096
+55,2014-08-07 22:31:44,"The Great Vine, Main St East, Huntsville",45.3266026478,-79.2178887984

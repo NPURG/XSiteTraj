@@ -1,0 +1,90 @@
+,time,poi,latitude,longitude
+0,2016-06-18 23:45:10,"Southside Coffee, 652 6th Ave, Brooklyn",40.6611244118,-73.9900660515
+1,2015-09-07 04:13:32,"Duckfat, 43 Middle St, Portland",43.6601383189,-70.2503363085
+2,2015-09-05 10:28:26,"Central Provisions, 414 Fore St, Portland",43.6561808403,-70.2538695931
+3,2015-06-14 05:46:07,"Crabcake Factory USA, 12000 Coastal Hwy, Ocean City",38.4253387513,-75.0556874039
+4,2015-06-12 22:05:47,"Bastians, Auf dem Berlich 3-5, Kln",50.9393800665,6.94738651744
+5,2015-05-01 02:47:07,"Torchy's Tacos, 999 E Basse Rd, San Antonio",29.4975443151,-98.4703649849
+6,2015-05-01 02:45:58,"Hot Joy, 1014 S Alamo St, San Antonio",29.4137585733,-98.4909162685
+7,2015-05-01 02:42:52,"Engaufrez-vous, 8 rue Rachel Est, Montral",45.5183467397,-73.5814403654
+8,2015-05-01 02:38:57,"Caf Code Noir, 4095 Saint-Laurent, Montral",45.5174832039,-73.5804344018
+9,2015-05-01 02:37:29,"La Binerie Mont-Royal, 367, Av. Mont-Royal E, Montral",45.5237180518,-73.583088771
+10,2015-05-01 02:35:01,"Olive et Gourmando, 351, rue Saint-Paul Ouest, Montral",45.501277,-73.556339
+11,2015-04-16 02:21:29,"Torchy's Tacos, 999 E Basse Rd, San Antonio",29.4975443151,-98.4703649849
+12,2015-04-15 11:13:08,"The Esquire Tavern, 155 E Commerce St, San Antonio",29.4246063701,-98.4917523716
+13,2015-02-01 00:42:41,"Mile End Delicatessen, 53 Bond St, New York",40.725925671,-73.9925956773
+14,2015-01-10 10:46:11,"Hunger Pang, 1021 Church Ave, Brooklyn",40.646884697,-73.9696216501
+15,2015-01-01 01:53:07,"Watty & Meg, 248 Court St, Brooklyn",40.685485,-73.9944433
+16,2014-12-07 09:05:49,"Mohawk Bend, 2141 W Sunset Blvd, Los Angeles",34.0777106,-118.264743417
+17,2014-09-19 21:10:08,"The Picnic Basket, 65 W 37th St, New York",40.7516797373,-73.986127874
+18,2014-09-16 10:05:05,"El Vez, 121 S 13th St, Philadelphia",39.9498122792,-75.1619627096
+19,2014-08-16 00:31:11,"Brooklyn Commune, 601 Greenwood Ave, Brooklyn",40.6515349903,-73.9757628655
+20,2014-08-04 22:39:07,"Imperial, 410 SW Broadway, Portland",45.5210830596,-122.67875678
+21,2014-04-09 07:23:14,"Lea, 1022 Cortelyou Rd, Brooklyn",40.6395169704,-73.9677964661
+22,2014-03-24 10:00:03,"Puerto 511, 102 Clay St, Baltimore",39.2919891121,-76.6171020255
+23,2013-09-01 21:32:31,"The Louvre, Rue de Rivoli, Paris",48.8610855589,2.33563555924
+24,2013-09-01 21:30:59,"Paris Charles de Gaulle Airport (CDG), Route de la Commune, Roissy-en-France",49.006826919,2.54908561707
+25,2013-08-29 05:35:46,"Grand Hotel Saint Michel, 19 rue Cujas, Paris",48.8478827497,2.34242221708
+26,2013-08-26 03:48:52,"Cafe Dada, 57 7th Ave, Brooklyn",40.6757145595,-73.9745748139
+27,2013-08-07 09:18:37,"Glady's, 788 Franklin Ave, Brooklyn",40.6716309967,-73.957763385
+28,2013-07-06 23:38:40,"Phoenicia Diner, 5681 Route 28, Phoenicia",42.0710863367,-74.3075323105
+29,2013-07-05 08:16:25,"The Bear Caf, 295 Tinker Street, Woodstock",42.0402244628,-74.1541561553
+30,2013-07-03 23:45:10,"Lincoln Station, 409 Lincoln Pl, Brooklyn",40.672619,-73.962419
+31,2013-06-17 02:35:40,"The Brewery @ Dutch Ale House, 253 Main St, Saugerties",42.07764542,-73.9534297133
+32,2013-05-23 10:08:22,"Antonio's Pizzeria, 318 Flatbush Ave, Brooklyn",40.677279,-73.972412
+33,2013-05-04 10:25:49,"El Obrero, Agustn R. Caffarena 64, Ciudad de Buenos Aires",-34.6295939703,-58.3570871095
+34,2013-01-28 02:26:06,"Olea, 171 Lafayette Ave, Brooklyn",40.6877934842,-73.9706173539
+35,2012-07-30 03:17:45,"Miami International Airport (MIA), 2100 NW 42nd Ave, Miami",25.7965865197,-80.2766919153
+36,2012-05-28 02:03:45,"Xicohtencatl, 50 Stockbridge Rd, Great Barrington",42.2024559753,-73.3467920941
+37,2012-05-27 08:06:42,"Allium, 42 Railroad St, Great Barrington",42.1949706145,-73.3633142163
+38,2012-04-15 23:56:39,"Cafe Shane on Washington, 794 Washington Ave, Brooklyn",40.6741502601,-73.9630325396
+39,2012-04-15 02:48:44,"Hungry Ghost, 253 Flatbush Ave, Brooklyn",40.680271537,-73.9746953412
+40,2012-03-31 09:07:21,"Dean Street, 755 Dean St, Brooklyn",40.679735,-73.965023
+41,2012-03-04 01:10:32,"Olde Brooklyn Bagel Shoppe, 645 Vanderbilt Ave, Brooklyn",40.6777002,-73.9688229
+42,2012-01-11 04:02:03,"Zum Schneider, 107 Avenue C, New York",40.72417,-73.978871
+43,2012-01-11 03:59:25,"Village Pourhouse, 64 3rd Ave, New York",40.7314049104,-73.9886186067
+44,2012-01-11 03:57:39,"Tonic, 727 7th Ave, New York",40.7600186996,-73.9840158911
+45,2012-01-11 03:55:33,"11th Street Bar, 510 E 11th St, New York",40.7281936877,-73.9812323998
+46,2012-01-11 03:54:18,"George Keeley NYC, 485 Amsterdam Ave, New York",40.785953,-73.976422
+47,2012-01-11 03:52:25,"Mr. Dennehy's, 63 Carmine St, New York",40.7298351653,-74.0045550866
+48,2012-01-11 03:50:53,"Stout, 133 W 33rd St, New York",40.7498385843,-73.9900935184
+49,2012-01-11 03:26:37,"Stanton Street Soccer Field, 216 Christy Street, New York",40.721749,-73.99167
+50,2012-01-11 03:24:47,"Columbus Park Soccer Field, 67 Mulberry St., New York",40.7156310373,-73.9999580383
+51,2012-01-11 03:23:12,"Pier 40 Soccer Fields, 353 West St, New York",40.7292163507,-74.0118084142
+52,2012-01-11 03:22:42,"Legends New York, 6 W 33rd St, New York",40.748202477,-73.9857261399
+53,2012-01-11 03:22:40,"James J. Walker Park, Hudson St, New York",40.7297318068,-74.0063225367
+54,2012-01-11 03:18:13,"Slinte, 304 Bowery, New York",40.7247392068,-73.9926128939
+55,2012-01-11 03:17:18,"Chelsea Soccer Field, 181 11th Ave, New York",40.7494748343,-74.0076079448
+56,2012-01-11 03:16:44,"Sara Roosevelt Soccer Field, Grand Street @ Chrystie, New York",40.7181844332,-73.9933919907
+57,2012-01-11 03:15:23,"Dean Street Playground, Dean Street, Brooklyn",40.6809553671,-73.9730940436
+58,2012-01-11 03:14:39,"Woodwork, 583 Vanderbilt Ave, Brooklyn",40.6802271427,-73.96791704
+59,2012-01-11 03:14:08,"Floyd NY, 131 Atlantic Ave, Brooklyn",40.6906429236,-73.9958610604
+60,2012-01-10 02:18:25,"Dickson's Farmstand Meats, 75 9th Ave, New York",40.742228602,-74.0058749373
+61,2012-01-10 02:17:51,"Dickson's Farmstand Meats, 75 9th Ave, New York",40.742228602,-74.0058749373
+62,2011-12-11 02:43:17,"Geido, 331 Flatbush Ave, Brooklyn",40.677828,-73.97293
+63,2011-12-11 02:41:04,"Olde Brooklyn Bagel Shoppe, 645 Vanderbilt Ave, Brooklyn",40.6777002,-73.9688229
+64,2011-12-11 02:39:33,"Hot Bird, 546 Clinton Ave, Brooklyn",40.6819235423,-73.9668622613
+65,2011-12-05 09:39:56,"Dean Street, 755 Dean St, Brooklyn",40.679735,-73.965023
+66,2011-11-13 09:24:25,"Tiny's and the Bar Upstairs, 135 W Broadway, New York",40.7168235406,-74.0082391687
+67,2011-10-11 07:01:18,"Wilfie & Nell, 228 W 4th St, New York",40.7340037494,-74.00299564
+68,2011-09-19 06:35:19,"Keg No. 229, 229 Front St, New York",40.7074863512,-74.001929462
+69,2011-07-10 03:09:31,"Ample Hills Creamery, 623 Vanderbilt Ave, Brooklyn",40.6786181674,-73.9682999253
+70,2011-06-25 06:50:22,"The Brooklyn Star, 593 Lorimer St, Brooklyn",40.714718,-73.949522
+71,2011-06-11 08:54:56,"Black Market, 110 Avenue A, New York",40.7258661506,-73.9837174568
+72,2011-06-10 01:51:28,"Boondock Saint, 731 Saint Peter St, New Orleans",29.9584058647,-90.0654413354
+73,2011-06-10 01:45:46,"Finn McCool's Irish Pub, 3701 Banks St, New Orleans",29.96953,-90.099166
+74,2011-06-05 23:52:03,"Clover Grill, 900 Bourbon St, New Orleans",29.9603036329,-90.064104913
+75,2011-05-22 08:08:57,"Thistle Hill Tavern, 441 7th Ave., Brooklyn",40.663289,-73.984549
+76,2011-04-27 02:57:13,"Francesco Pizzeria, 186 Columbus Ave, New York",40.7751231349,-73.9805896085
+77,2011-04-24 06:10:37,"Woodberry Kitchen, 2010 Clipper Park Rd, Baltimore",39.3318649379,-76.6452276707
+78,2011-04-18 00:15:11,"Cheryl's Global Soul, 236 Underhill Ave, Brooklyn",40.6735642058,-73.967256943
+79,2011-04-07 09:03:02,"M Pche, 15 W 56th St, New York",40.7627981021,-73.9756939932
+80,2011-03-28 09:28:51,"Red Bull Arena, 600 Cape May St, Harrison",40.7367331848,-74.1506068039
+81,2011-02-28 05:42:41,"The Breslin, 16 W 29th St, New York",40.7458373458,-73.9879926535
+82,2011-01-15 09:49:03,"Soda Bar, 629 Vanderbilt Ave, Brooklyn",40.6782347023,-73.9685713105
+83,2010-11-22 20:11:04,"Gladstone Hotel, 1214 Queen St W, Ste 2, B, Toronto",43.6427448015,-79.4269520044
+84,2010-11-20 13:19:32,"James, 605 Carlton Ave, Brooklyn",40.6790534692,-73.9715963602
+85,2010-07-05 23:36:06,"Bluebell Cafe, 293 3rd Ave, New York",40.7384454908,-73.9832425117
+86,2010-04-27 03:57:57,"Bareburger, 3321 31st Ave, Astoria",40.7632999475,-73.9211654663
+87,2009-05-15 23:29:02,"Chelsea Market, 75 9th Ave, New York",40.7420770544,-74.0054560292
+88,2009-02-15 23:48:58,"Barrio Chino, 253 Broome St, New York",40.7181519065,-73.9900016785

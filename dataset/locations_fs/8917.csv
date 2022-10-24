@@ -1,0 +1,64 @@
+,time,poi,latitude,longitude
+0,2016-04-22 22:14:46,"Perry's Steakhouse, 114 W 7th St, Austin",30.2693133878,-97.7437417935
+1,2016-03-18 23:24:53,"Empire Control Room, 606 E 7th St, Austin",30.2673100095,-97.7361827114
+2,2016-03-18 23:24:15,"Half Step, 75 1/2 Rainey St, Austin",30.2586119583,-97.7385643978
+3,2016-03-18 23:23:34,"Hoek's Death Metal Pizza, 511 E 6th St, Austin",30.2665863472,-97.7378323787
+4,2016-03-18 23:23:19,"Pueblo Viejo, 1001 East 6th St, Austin",30.265199993,-97.7330903523
+5,2016-03-11 22:45:15,"Handsome, 1000 E 6th St, Austin",30.2651853914,-97.7322629173
+6,2016-03-11 08:57:07,"Handsome, 1000 E 6th St, Austin",30.2651853914,-97.7322629173
+7,2015-10-26 00:06:17,"Disney's Animal Kingdom Lodge, 2901 Osceola Pkwy, Lake Buena Vista",28.3525261042,-81.603651762
+8,2015-10-26 00:05:29,"Epcot, 200 Epcot Center Dr, Lake Buena Vista",28.3757293641,-81.549489669
+9,2015-10-26 00:03:23,"Restaurant Marrakesh, Morocco Pavilion, Lake Buena Vista",28.3679434879,-81.5519162271
+10,2015-10-26 00:03:10,"The Crystal Palace, Main Street, U.S.A., Lake Buena Vista",28.4180296851,-81.5819998918
+11,2015-10-26 00:02:24,"Disney's Hollywood Studios, 351 S Studio Dr, Lake Buena Vista",28.3579824299,-81.5592704148
+12,2015-10-25 23:59:39,"Trattoria Lisina, 13308 FM 150 W, Driftwood",30.1024028238,-98.0129384995
+13,2015-06-24 01:47:30,"Sam's Diner, 1220 Market St, San Francisco",37.7783481501,-122.415266545
+14,2015-06-22 22:28:49,"Sam's Diner, 1220 Market St, San Francisco",37.7783481501,-122.415266545
+15,2013-06-08 07:11:19,"Rudy's Country Store & Bar-B-Q, 2451 S Capital of Texas Hwy, Austin",30.263589441,-97.8155601025
+16,2013-03-09 07:07:29,"Austin Bergstrom International Airport (AUS), 3600 Presidential Blvd, Austin",30.202491212,-97.6669793192
+17,2012-11-30 22:18:29,"MTA Subway - 7th Ave (B/D/E), 7 Avenue A, New York",40.7629749001,-73.9818692207
+18,2012-11-25 06:04:14,"Macy's, 151 W 34th St, New York",40.7505446296,-73.9885554779
+19,2012-05-13 05:16:13,"Boscov's, 2910 N 5th Street Hwy, Reading",40.3781026489,-75.9277917445
+20,2012-05-07 22:38:11,"Brenda's French Soul Food, 652 Polk St, San Francisco",37.7828888764,-122.419104854
+21,2012-04-16 04:16:53,"Jacob K. Javits Convention Center, 655 W 34th St, New York",40.7570365956,-74.0018292793
+22,2011-12-20 03:42:57,"Macy's, 151 W 34th St, New York",40.7505446296,-73.9885554779
+23,2011-11-21 04:16:42,"Jacob K. Javits Convention Center, 655 W 34th St, New York",40.7570365956,-74.0018292793
+24,2011-11-17 08:41:00,"Mad Hatter, 360 3rd Ave, New York",40.7409905599,-73.9816513609
+25,2011-11-14 06:44:51,"Bed Bath & Beyond, 1932 Broadway, New York",40.7726471942,-73.9821104952
+26,2011-11-06 05:34:09,"Caff Napoli, 191 Hester St, New York",40.7182751632,-73.9979097872
+27,2011-10-26 04:11:51,"Time Warner Center, 10 Columbus Circle, New York",40.7682076862,-73.9825007586
+28,2011-10-08 06:20:25,"Soho House, 2935 9th Ave, New York",40.7405631144,-74.0059018135
+29,2011-08-29 21:07:09,"Dunkin' Donuts, 875 3rd Ave, New York",40.7575845046,-73.9696331292
+30,2011-08-16 03:57:35,"915 Cafe, 915 N Plum St, Lancaster",40.052363847,-76.2994735074
+31,2011-08-16 03:56:18,"Boka, 9 Saint Marks Pl, New York",40.7293216567,-73.9893359776
+32,2011-08-16 03:54:03,"McSorley's Old Ale House, 15 E 7th St, New York",40.7286023487,-73.9899615229
+33,2011-08-16 03:53:20,"Fad Irish Pub & Restaurant, 214 W 4th St, Austin",30.266904,-97.745466
+34,2011-07-27 21:22:55,"Interactive One / Radio One, 850 3rd Ave 3FL, New York",40.7568149518,-73.9704322815
+35,2011-07-17 00:02:00,"Megabus Stop, John F Kennedy Blvd, Philadelphia",39.9561684586,-75.1851081848
+36,2011-07-03 07:14:43,"Community Food & Juice, 2893 Broadway, New York",40.8058349252,-73.9657330513
+37,2011-05-06 20:39:45,"MTA Subway - 51st St (6), 570 Lexington Ave, New York",40.7576926574,-73.9715051651
+38,2011-04-27 17:25:35,"Amtrak: Lancaster Rail Station (LNC), 53 E McGovern Ave, Lancaster",40.0543422424,-76.3075375557
+39,2011-04-24 00:47:30,"Visage a Visage, 802 N Duke St, Lancaster",40.0501538811,-76.3062286377
+40,2011-04-15 22:41:00,"MapQuest Inc., 300 Granite Run Dr, Lancaster",40.0762160867,-76.3305401802
+41,2011-01-05 21:10:49,"Denver International Airport (DEN), 8500 Pea Blvd, Denver",39.8513557067,-104.674044515
+42,2010-11-02 20:35:03,"Faith Bible Fellowship Church, 151 Donerville Rd, Lancaster",40.0339496183,-76.4031355976
+43,2010-10-08 07:28:00,"Talen Energy Stadium, 1 Stadium Dr, Chester",39.8327955148,-75.3785276413
+44,2010-10-08 06:24:47,"Parking Lot C, PPL Park, Chester",39.8291968882,-75.3849524486
+45,2010-10-04 01:33:34,"Five Guys, 720 Loucks Rd, York",39.981271898,-76.7461671898
+46,2010-09-22 05:53:45,"Chancey's Pub, 6049 Main St, East Petersburg",40.1006823778,-76.35406385
+47,2010-08-28 23:27:54,"Maryland Renaissance Festival, 1821 Crownsville Rd, Annapolis",39.0017100922,-76.5842342377
+48,2010-08-02 02:28:10,"Texas Roadhouse, 1510 Mount Zion Rd, York",39.991104,-76.6715
+49,2010-07-28 00:52:39,"MapQuest Inc., 300 Granite Run Dr, Lancaster",40.0762160867,-76.3305401802
+50,2010-07-05 23:50:17,"Rita's Italian Ice, 1585 Manheim Pike, Lancaster",40.080668,-76.339112
+51,2010-06-29 23:15:13,"MapQuest Inc., 300 Granite Run Dr, Lancaster",40.0762160867,-76.3305401802
+52,2010-06-28 11:38:20,"Talen Energy Stadium, 1 Stadium Dr, Chester",39.8327955148,-75.3785276413
+53,2010-06-28 11:36:31,"Talen Energy Stadium, 1 Stadium Dr, Chester",39.8327955148,-75.3785276413
+54,2010-06-24 19:58:48,"SHEETZ, 1180 Manheim Pike, Lancaster",40.0591132143,-76.3195203072
+55,2010-05-19 09:26:12,"Joe Vicari's Andiamo Italian Steakhouse, 21400 Michigan Ave, Dearborn",42.3080051926,-83.2379677375
+56,2010-04-26 01:48:39,"The Cheesecake Factory, 640 W Dekalb Pike, King of Prussia",40.0896128102,-75.3841710091
+57,2010-04-23 00:00:44,"Venice Pizza & Pasta, 3079 Columbia Ave, Lancaster",40.0418749513,-76.3891839981
+58,2010-03-30 21:11:56,"Chicago O'Hare International Airport (ORD), 10000 W Ohare Ave, Chicago",41.97151,-87.89537
+59,2010-03-23 00:58:20,"Giant Food Store, 550 Centerville Rd, Lancaster",40.0545666533,-76.3997562893
+60,2010-03-01 04:40:23,"That Fish Place - That Pet Place, 237 Centerville Rd, Lancaster",40.047497,-76.392237
+61,2010-01-22 11:10:59,"915 Cafe, 915 N Plum St, Lancaster",40.052363847,-76.2994735074
+62,2009-10-08 13:19:20,"Casey's Irish Pub, 613 S Grand Ave, Los Angeles",34.0484329962,-118.255668768

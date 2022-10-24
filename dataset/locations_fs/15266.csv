@@ -1,0 +1,85 @@
+,time,poi,latitude,longitude
+0,2016-04-30 02:03:45,"Oxheart Restaurant, 1302 Nance St, Houston",29.7680794567,-95.3540418026
+1,2016-04-30 02:03:13,"Underbelly, 1100 Westheimer Rd, Houston",29.7449403771,-95.3930374242
+2,2016-04-30 02:02:24,"The Pass and Provisions, 807 Taft St, Houston",29.7587783765,-95.3856195848
+3,2016-04-30 02:01:45,"El Real Tex-Mex Cafe, 1201 Westheimer Rd, Houston",29.744426,-95.393233
+4,2016-04-30 02:01:07,"Goode Company Seafood, 2621 Westpark Dr, Houston",29.7283816338,-95.420387
+5,2016-04-30 02:00:26,"The Original Ninfa's on Navigation, 2704 Navigation Blvd, Houston",29.7569858156,-95.3426343055
+6,2016-04-30 01:59:55,"Foreign Correspondents, 4721 N Main St Ste A, Houston",29.7980789889,-95.3829614591
+7,2016-04-30 01:59:09,"Killen's Barbecue, 3613 Broadway St, Pearland",29.5639772965,-95.2821964855
+8,2016-04-30 01:58:38,"Killen's Steakhouse, 6425 Broadway St, Pearland",29.5596519087,-95.3188661551
+9,2016-04-30 01:58:09,"Harold's In The Heights, 350 W 19th St, Houston",29.8026576369,-95.4031816195
+10,2016-04-30 01:57:36,"Uyghur Bistro, 9888 Bellaire Blvd Ste 168, Houston",29.7056695002,-95.5527633674
+11,2016-04-30 01:56:59,"Barbecue Inn, 116 W Crosstimbers St, Houston",29.8285031319,-95.400203
+12,2016-04-30 01:56:10,"Hugo's, 1600 Westheimer Rd, Houston",29.7429868085,-95.3996086121
+13,2016-04-30 01:54:54,"Pho Binh By Night, 12148 Bellaire Blvd #101, Houston",29.7040268153,-95.593549392
+14,2016-04-30 01:54:14,"Helen Greek Food and Wine, 2429 Rice Blvd, Houston",29.7174408884,-95.4160842907
+15,2016-04-30 01:53:36,"Gerardo's, 609 Patton St, Houston",29.7983759834,-95.3627483704
+16,2016-04-30 01:53:00,"Cajun Kitchen, 6938 Wilcrest Dr Ste E, Houston",29.7015350388,-95.5715912651
+17,2016-04-30 01:52:23,"Irma's, 22 N Chenevert St, Houston",29.7600097997,-95.3519471086
+18,2015-11-06 13:33:02,"Mighty Fine Burgers, 5601 Brodie Ln, Sunset Valley",30.2271693217,-97.8209835291
+19,2015-11-06 13:32:18,"Clark's Oyster Bar, 1200 W 6th St, Austin",30.2728479246,-97.7571326422
+20,2015-11-06 13:31:42,"Luke's Inside Out, 1109 S Lamar Blvd, Austin",30.2551610277,-97.7619452679
+21,2015-11-06 13:31:03,"Hopfields, 3110 Guadalupe St, Austin",30.2985495329,-97.7409810333
+22,2015-11-06 13:30:36,"Hopdoddy Burger Bar, 1400 S Congress Ave, Austin",30.2495401685,-97.7499103546
+23,2015-11-06 13:29:58,"Second Bar + Kitchen, 200 Congress Ave, Austin",30.2643251537,-97.7443465551
+24,2015-11-06 13:29:25,"Swift's Attic, 315 Congress Ave, Austin",30.2656982212,-97.7433969756
+25,2015-11-06 13:28:36,"Casino El Camino, 517 E 6th St, Austin",30.2665141893,-97.7377277613
+26,2015-11-06 13:28:08,"Cow Bells, 1620 E Riverside Dr, Austin",30.2458758267,-97.7310376949
+27,2015-11-06 13:27:27,"Jacoby's Restaurant & Mercantile, 3235 E Cesar Chavez St, Austin",30.2514882034,-97.7073224433
+28,2015-05-17 16:24:44,"Blacksmith, 1018 Westheimer Rd, Houston",29.7447156095,-95.3925772962
+29,2015-05-17 16:23:38,"Pondicheri, 2800 Kirby Dr, Houston",29.7415528807,-95.4193577202
+30,2015-05-17 16:23:02,"Kraftsmen Bakery & Cafe, 611 W 22nd St, Houston",29.805938,-95.408417
+31,2015-05-17 16:22:30,"Sweet Paris Creperie, 2420 Rice Blvd, Houston",29.7175931386,-95.4158950513
+32,2015-05-17 16:21:45,"Baby Barnaby's, 602 Fairview St, Houston",29.7482452067,-95.3882676085
+33,2015-05-17 16:21:12,"Brasil Cafe, 2604 Dunlavy St, Houston",29.7425790881,-95.4022407524
+34,2015-05-17 16:19:51,"Common Bond Cafe & Bakery, 1706 Westheimer Rd, Houston",29.7429542045,-95.4023551941
+35,2015-05-17 16:19:11,"Revival Market, 550 Heights Blvd, Houston",29.781246,-95.397292
+36,2015-05-17 16:18:32,"The Honeymoon Cafe & Bar, 300 Main St, Houston",29.7624337697,-95.3609854909
+37,2015-05-17 16:17:49,"Harry's Restaurant, 318 Tuam St, Houston",29.7463822586,-95.3810395059
+38,2015-05-17 16:17:03,"Dish Society, 5740 San Felipe St #100, Houston",29.7503628868,-95.4789612878
+39,2015-05-17 16:16:30,"Toasters, 1004 N San Jacinto St, Houston",29.7444521803,-95.3659676807
+40,2014-07-24 06:18:11,"Lowbrow, 1601 W Main St, Houston",29.7360232945,-95.39935112
+41,2014-07-24 06:15:23,"Kenny & Ziggy's Deli, 2327 Post Oak Blvd, Houston",29.7432800779,-95.4604856801
+42,2014-07-24 06:14:26,"Fielding's Wood Grill, 1699 Research Forest Dr, Shenandoah",30.1766444521,-95.4616219987
+43,2014-07-24 06:13:34,"Lankford's Grocery & Market, 88 Dennis St, Houston",29.7501540087,-95.3838611188
+44,2014-07-24 06:12:59,"Christian's Tailgate Bar & Grill, 2000 Bagby St, Houston",29.7523496515,-95.3761786809
+45,2014-07-24 06:12:01,"Stanton's City Bites, 1420 Edwards St, Houston",29.77084086,-95.37219258
+46,2014-07-24 06:11:14,"The Hay Merchant, 1100 Westheimer Rd, Houston",29.7449144488,-95.3928533726
+47,2014-07-24 06:08:51,"Hubcap Grill, 800 Bradford Ave, Kemah",29.5416917626,-95.0182332972
+48,2014-07-24 06:07:56,"Bernie's Burger Bus, Moving Target! (Greater Houston Area), Houston",29.7052993686,-95.4748346114
+49,2014-05-27 00:59:55,"Phoenicia Specialty Foods, 1001 Austin St, Houston",29.7543742558,-95.3616929054
+50,2014-05-27 00:58:36,"Fusion Taco, 801 Congress St, Houston",29.762998315,-95.3623140328
+51,2014-05-27 00:57:58,"Bodegas Taco Shop, 1200 Binz St #160, Houston",29.7237998776,-95.3876674175
+52,2014-05-27 00:56:56,"Mytiburger, 2211 W 43rd St, Houston",29.832213,-95.4509956
+53,2014-05-20 07:14:26,"Punk's Simple Southern Food, 5212 Morningside Dr, Houston",29.7185335937,-95.4151790155
+54,2014-05-20 07:13:33,"The Queen Vic Pub & Kitchen, 2712 Richmond Ave, Houston",29.7342784631,-95.420539269
+55,2014-05-20 07:12:53,"Kenny & Ziggy's Deli, 2327 Post Oak Blvd, Houston",29.7432800779,-95.4604856801
+56,2014-05-20 07:10:22,"Coltivare Pizza & Garden, 3320 White Oak Dr, Houston",29.7816348004,-95.3938247628
+57,2014-05-20 07:09:37,"Backstreet Cafe, 1103 S Shepherd Dr, Houston",29.7553958769,-95.4085612187
+58,2014-05-20 07:08:50,"Huynh Restaurant, 912 St Emanuel St, Houston",29.7516461214,-95.3553395292
+59,2014-05-20 07:07:55,"Del Frisco's Grille, 2800 Kirby Dr Ste A132, Houston",29.7413599316,-95.4192298484
+60,2014-05-20 07:07:10,"Good Dog Houston, 903 Studewood St, Houston",29.787386,-95.388036
+61,2014-05-20 07:06:28,"Dacapo's Pastry Cafe, 1141 E 11th St, Houston",29.7908978828,-95.3877768459
+62,2014-05-20 07:04:29,"Bistro Provence, 13616 Memorial Dr, Houston",29.7730677163,-95.5809356733
+63,2014-05-20 07:02:58,"Sparrow Bar + Cookshop, 3701 Travis St, Houston",29.7386555296,-95.38035457
+64,2014-05-20 07:01:13,"Andes Cafe, 2311 Canal St Ste 104, Houston",29.7581730066,-95.3462458393
+65,2014-05-20 07:00:03,"No Borders Food Truck, 1520 Sul Ross St, Houston",29.7383111715,-95.3984123468
+66,2014-05-20 06:58:41,"Kata Robata, 3600 Kirby Dr, Houston",29.7336104056,-95.4192960262
+67,2014-05-20 06:57:20,"MAM'S House of Ice, 1040 W. Calvacade, Houston",29.8041872089,-95.3860080903
+68,2014-05-20 06:55:58,"Saint Arnold Brewing Company, 2000 Lyons Ave, Houston",29.771166633,-95.3484535217
+69,2014-05-20 06:54:28,"Tony's, 3755 Richmond Ave, Houston",29.73211,-95.435996
+70,2014-05-20 06:53:35,"Local Foods, 2555 Kirby Dr, Houston",29.7426872054,-95.4184268199
+71,2014-05-20 06:51:34,"Fat Cat Creamery, 1910 N. Shepherd Drive, Houston",29.8030446009,-95.4107244493
+72,2014-05-20 06:50:49,"Revival Market, 550 Heights Blvd, Houston",29.781246,-95.397292
+73,2014-05-20 06:49:52,"Mockingbird Bistro, 1985 Welch St, Houston",29.7481089538,-95.4078094766
+74,2014-05-20 06:48:01,"Julep, 1919 Washington Ave Ste A, Houston",29.7676947155,-95.3778704674
+75,2014-05-20 06:46:52,"Hugo's, 1600 Westheimer Rd, Houston",29.7429868085,-95.3996086121
+76,2014-05-20 06:45:39,"Brennan's of Houston, 3300 Smith St, Houston",29.7430993742,-95.3811519589
+77,2014-04-03 23:08:22,"Cafe TH, 2108 Pease St, Houston",29.7457345064,-95.3594321576
+78,2014-04-03 23:07:32,"BB's Cafe, 2710 Montrose Blvd, Houston",29.7451933976,-95.3914985661
+79,2014-04-03 23:06:18,"Cafe Pita [Restaurant Coffee Dessert], 5506 Richmond Ave, Houston",29.73184,-95.474185
+80,2014-04-03 23:05:32,"Local Foods, 2424 Dunstan Rd, Houston",29.7194784615,-95.4165343763
+81,2014-04-03 23:03:28,"13 Celsius, 3000 Caroline St, Houston",29.7412456088,-95.373725423
+82,2014-04-03 23:01:52,"Fat Bao, 3419 Kirby Dr, Houston",29.7348962616,-95.4181045886
+83,2014-04-03 23:00:08,"Revival Market, 550 Heights Blvd, Houston",29.781246,-95.397292

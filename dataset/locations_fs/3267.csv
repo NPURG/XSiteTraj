@@ -1,0 +1,112 @@
+,time,poi,latitude,longitude
+0,2016-05-26 07:22:16,"sweetgreen, 659 Boylston St, Boston",42.35002867,-71.0786649585
+1,2016-05-26 07:21:39,"City Table, 65 Exeter St, Boston",42.3491589933,-71.0793246674
+2,2016-05-26 07:21:01,"Post 390, 406 Stuart St, Boston",42.349109,-71.074126
+3,2016-05-26 07:20:26,"King's Fish House, 2530 Tuscany St, Corona",33.82457027,-117.51683916
+4,2016-05-26 07:19:08,"Soda & Swine, 2750 Dewey Rd #104, San Diego",32.737638,-117.211762
+5,2016-05-26 07:18:10,"Urge Gastropub and Whiskey Bank, 2002 S Coast Hwy, Oceanside",33.172064,-117.359055
+6,2016-05-26 07:17:03,"flot - San Diego's float spa, 1202 Kettner Blvd Sutie C, San Diego",32.7177782623,-117.168302052
+7,2016-05-10 22:30:43,"Bali Hai Restaurant, 2230 Shelter Island Dr, San Diego",32.7193437572,-117.220528252
+8,2016-03-27 06:41:15,"El Comal, 32410 Mission Trail, Wildomar",33.65065,-117.29538
+9,2016-03-27 06:40:15,"Local Tap House & Kitchen, Coast Hwy., Oceanside",33.1927790096,-117.37658052
+10,2016-03-27 06:37:45,"Aldi, 18294 Collier Ave, Lake Elsinore",33.6918345974,-117.339885235
+11,2016-03-01 12:57:48,"One Market Restaurant, 1 Market St, San Francisco",37.7943300038,-122.394760251
+12,2016-03-01 12:56:47,"Hotel Zephyr San Francisco, Beach Street, San Francisco",37.8079251874,-122.413148226
+13,2016-02-09 11:33:20,"Klein's Deli & Coffee Bar, Terminal 3, San Francisco",37.6203465444,-122.388787245
+14,2016-02-09 11:32:14,"Lucky Strike Live, 6801 Hollywood Blvd Ste 143, Los Angeles",34.1022236952,-118.338932259
+15,2016-02-09 11:31:35,"Power House, 1714 N Highland Ave, Los Angeles",34.1020501703,-118.338698253
+16,2016-02-09 11:30:32,"Bluewater Grill, 26700 Ynez Ct, Temecula",33.5121109962,-117.151702186
+17,2016-01-06 15:01:40,"Double Down Saloon, 4640 Paradise Rd, Las Vegas",36.1054883889,-115.15049994
+18,2016-01-06 15:01:08,"Melody Bar and Grill, 9132 S Sepulveda Blvd, Los Angeles",33.9537422667,-118.39580555
+19,2016-01-06 14:59:28,"BO-beau kitchen + bar, 4996 W Point Loma Blvd, San Diego",32.7530811663,-117.245241134
+20,2016-01-06 14:58:36,"Tiki Ti, 4427 W Sunset Blvd, Los Angeles",34.0974696973,-118.28573674
+21,2016-01-06 14:56:43,"Three Dots and a Dash, 435 N Clark St, Chicago",41.8901975407,-87.6310570728
+22,2016-01-06 14:55:54,"Fathom Bistro, Bait & Tackle, 1776 Shelter Island Dr, San Diego",32.711570357,-117.228188191
+23,2016-01-06 14:54:12,"Trader Sam's Grog Grotto, Polynesian Village Resort, Bay Lake",28.4059405709,-81.5852801313
+24,2016-01-06 14:53:09,"The Backroom, 8782 W Sunset Blvd, West Hollywood",34.090655,-118.382825
+25,2016-01-06 14:51:34,"The Goat & Vine, 41911 5th St Ste 100, Temecula",33.4957207671,-117.149633467
+26,2016-01-06 14:50:53,"Green Room Burgers & Beer, 4010 Pennsylvania Ave Ste D, Kansas City",39.0546183802,-94.5931959023
+27,2016-01-06 14:49:26,"Mango's Tropical Cafe, 900 Ocean Dr, Miami Beach",25.7793628434,-80.1309538854
+28,2016-01-06 14:47:31,"Boulevard, 1 Mission St, San Francisco",37.7934184273,-122.393069079
+29,2016-01-06 14:46:52,"Taste & Thirst, 715 4th Ave, San Diego",32.7129359139,-117.161007467
+30,2016-01-06 14:46:06,"The Crow Bar and Kitchen, 2325 E Coast Hwy, Corona del Mar",33.604669,-117.874923
+31,2016-01-06 14:45:25,"Liquorama, 800-838 Foothill Blvd, Upland",34.1081626918,-117.662789803
+32,2016-01-06 14:43:07,"Tiki No, 4657 Lankershim Blvd, North Hollywood",34.1554082701,-118.369193673
+33,2016-01-06 14:41:49,"Belly Up Tavern, 143 S Cedros Ave, Solana Beach",32.9905595214,-117.270512581
+34,2016-01-06 14:41:08,"The Roxy, 9009 W Sunset Blvd, West Hollywood",34.0907485545,-118.387940662
+35,2016-01-06 14:40:27,"Dough Pizzeria & Bar, 8947 W Sunset Blvd, West Hollywood",34.0906784199,-118.386611938
+36,2016-01-06 14:39:57,"Pillbox Tavern, 117 W Plaza St, Solana Beach",32.991356,-117.272101
+37,2016-01-06 14:39:19,"SoulScape Gift and Book Store, 765 S Coast Highway 101, Encinitas",33.042135,-117.292903
+38,2016-01-06 14:36:47,"BevMo!, 24390 Village Walk Pl, Murrieta",33.5680793916,-117.213172372
+39,2016-01-06 14:35:51,"The Privateer Coal Fired Pizza, 1706 Pacific Coast Hwy, Oceanside",33.1766862933,-117.363010375
+40,2016-01-06 14:34:46,"Wine on a Dime, 28061 Jefferson Ave, Temecula",33.5053136584,-117.154568488
+41,2016-01-06 14:34:05,"Yard House, 800 W Olympic Blvd, Los Angeles",34.045081,-118.265784
+42,2016-01-06 14:33:35,"Rainbow Bar & Grill, 9015 W Sunset Blvd, West Hollywood",34.0907648487,-118.388060483
+43,2016-01-06 14:32:49,"Wolfgang Puck Bar & Grill, 800 W Olympic Blvd, Los Angeles",34.0445121786,-118.265864253
+44,2016-01-06 14:30:26,"Hale Pele, 2733 NE Broadway St, Portland",45.5352914866,-122.63737503
+45,2016-01-06 14:28:12,"Black Market Liquor Bar, 11915 Ventura Blvd, Studio City",34.1430598681,-118.391219974
+46,2014-10-29 05:19:43,"Umami Burger, 1520 N Cahuenga Blvd, Los Angeles",34.0988162441,-118.329155125
+47,2014-10-29 05:19:15,"Vero's Mexican Food & Seafood, 31724 Mission Trl, Lake Elsinore",33.6592989934,-117.299135009
+48,2014-10-29 05:18:49,"Starbucks, 31564 Grape St, Lake Elsinore",33.6625783835,-117.296684036
+49,2014-10-29 05:18:10,"Mad Madeline's Grill, 28495 Old Town Front St, Temecula",33.4948994333,-117.15076426
+50,2014-10-29 05:17:42,"Pho Dalat, 39400 Murrieta Hot Springs Rd Ste 107, Murrieta",33.5552673799,-117.155361165
+51,2014-10-29 05:17:03,"1909 Fluid and Fare, Old Town, Temecula",33.493278,-117.148596
+52,2014-10-29 05:16:00,"Don The Beachcomber, 16278 Pacific Coast Hwy, Huntington Beach",33.7254506141,-118.079177141
+53,2014-10-29 05:15:29,"Good Times at Davey Wayne's, 1611 N El Centro Ave, Los Angeles",34.1002752938,-118.323943847
+54,2014-10-29 05:14:44,"Pearl's Liquor Bar, 8909 W Sunset Blvd, West Hollywood",34.0907926481,-118.385789568
+55,2014-10-29 05:13:43,"Barons Marketplace, 32310 Clinton Keith Rd, Wildomar",33.5908587032,-117.250184495
+56,2014-10-29 05:12:25,"Garibaldi Mexican Restaurant, 2279 E Semoran Blvd, Apopka",28.6750008786,-81.4688158035
+57,2014-10-24 02:17:45,"Santorini Greek Cuisine, 210 N Woodland Blvd, DeLand",29.0303055667,-81.30359306
+58,2014-10-02 03:02:42,"Mitsuwa Marketplace, 4240 Kearny Mesa Rd #119, San Diego",32.8191574847,-117.150306358
+59,2014-09-25 03:01:20,"Bulldog Brewery, 41379 Date St, Murrieta",33.5307044983,-117.174217224
+60,2014-09-23 07:31:35,"The Shamrock Pub and Eatery, 39252 Winchester Rd #145, Murrieta",33.5499009139,-117.139587456
+61,2014-08-16 05:00:57,"A & M Automotive, 31760 Mission Trail Rd., Lake Elsinore",33.6590588601,-117.298463434
+62,2014-08-08 05:36:34,"Kuma's Corner, 2900 W Belmont Ave, Chicago",41.9394777504,-87.7003544569
+63,2014-08-07 23:30:26,"Pei Wei, Terminal 4, Phoenix",33.4372421426,-112.001850164
+64,2014-08-07 10:45:15,"Steelhead Diner, 95 Pine St, Seattle",47.6096544055,-122.341312552
+65,2014-08-07 09:41:22,"Wakamono, 3317 N Broadway St, Chicago",41.9424057867,-87.6445159822
+66,2014-08-07 09:39:28,"Toro Sushi, 2546 N Clark St, Chicago",41.92907,-87.642522
+67,2014-08-07 09:38:08,"Sunda, 110 W Illinois St, Chicago",41.8908091036,-87.6317167282
+68,2014-08-07 09:34:05,"Glenn's Diner & Seafood House, 1820 W Montrose Ave, Chicago",41.9616114061,-87.6754328227
+69,2014-08-07 09:26:38,"Ballast Point Tasting Room & Kitchen, 2215 India St, San Diego",32.7276287548,-117.169852836
+70,2014-08-07 09:26:01,"Bear Flag Fish Co., 7972 E Pacific Coast Hwy, Newport Coast",33.5697663023,-117.83241123
+71,2014-08-07 09:25:29,"Blackbird Tavern, 41858 5th St, Temecula",33.4949372693,-117.149904265
+72,2014-08-07 09:24:42,"Wicks Brewing Co., 11620 Sterling Ave, Riverside",33.89569,-117.484445
+73,2014-08-07 09:24:13,"Lobster ME, 3663 Las Vegas Blvd S Ste 435, Las Vegas",36.109175302,-115.17071002
+74,2014-08-07 09:23:29,"R R, 3930 Las Vegas Blvd S, Las Vegas",36.09361366,-115.176360947
+75,2014-08-07 09:22:52,"Vincenzo's Olive Tree, 31201-31699 Casino Dr, Lake Elsinore",33.6600977833,-117.298202633
+76,2014-08-07 09:21:47,"BJ's Restaurant and Brewhouse, 1159 Southcenter Mall, Tukwila",47.45763443,-122.257061
+77,2014-08-07 09:20:41,"Ricadonna Salon, Village walk, Murrieta",33.5665422678,-117.212957
+78,2014-08-07 09:20:27,"Chipotle Mexican Grill, 40940 California Oaks Rd Ste A, Murrieta",33.5682468278,-117.204684927
+79,2014-08-07 09:19:02,"Sushi Zen, 31500 Grape St #1, Lake Elsinore",33.6599671843,-117.293653284
+80,2014-08-07 09:16:06,"Trader Sam's Enchanted Tiki Bar, 1150 W Magic Way, Anaheim",33.8081783353,-117.926516533
+81,2014-08-07 01:43:00,"Velvet Margarita Cantina, 1612 N Cahuenga Blvd, Los Angeles",34.1002050386,-118.329314943
+82,2014-08-07 01:41:39,"Yard House, 40770 Winchester Rd, Temecula",33.52415658,-117.1534342
+83,2014-08-07 01:39:45,"Rainbow Bar & Grill, 9015 W Sunset Blvd, West Hollywood",34.0907648487,-118.388060483
+84,2014-08-07 01:38:34,"Cassidy's Bar & Grill, 2605 Newport Blvd, Newport Beach",33.6119839839,-117.929245
+85,2014-08-07 01:37:29,"The Wreck, West Graham Avenue, Lake Elsinore",33.668336021,-117.328309029
+86,2014-08-07 01:31:04,"Stone Brewing World Bistro & Gardens, 1999 Citracado Pkwy, Escondido",33.116222871,-117.119946176
+87,2014-08-07 01:28:53,"Uptown Tavern, 27911 Jefferson Ave, Temecula",33.5106024059,-117.157767899
+88,2014-08-07 01:26:21,"Frankie's Tiki Room, 1712 W Charleston Blvd, Las Vegas",36.159098639,-115.16467685
+89,2014-08-07 01:24:53,"Bali Hai Restaurant, 2230 Shelter Island Dr, San Diego",32.7193437572,-117.220528252
+90,2014-08-07 01:20:14,"Purple Orchid, 221 Richmond St, El Segundo",33.9186417744,-118.417174543
+91,2014-08-07 01:17:23,"The Bank Mexican Restaurant and Bar, 28645 Old Town Front St, Temecula",33.49339813,-117.14900704
+92,2014-08-07 01:16:28,"Don Jose, 31712 Casino Dr, Lake Elsinore",33.6599370825,-117.298004236
+93,2014-08-07 01:15:48,"El Comal, 32410 Mission Trail, Wildomar",33.65065,-117.29538
+94,2014-08-07 01:14:43,"Vero's Mexican Food & Seafood, 31724 Mission Trl, Lake Elsinore",33.6592989934,-117.299135009
+95,2014-07-30 09:49:46,"PUBlic House, 41971 Main St, Temecula",33.49345643,-117.148375133
+96,2014-06-26 05:08:05,"Karl Strauss Brewing Company, 40868 Winchester Rd, Temecula",33.52478666,-117.159186652
+97,2014-05-21 09:59:09,"Rock & Brews PCH, 6300 S Pacific Coast Hwy, Redondo Beach",33.8184302366,-118.383923743
+98,2014-05-14 11:51:20,"BO-beau kitchen + roof tap, 144 Pine Ave, Long Beach",33.7690156691,-118.192233424
+99,2013-11-07 06:27:35,"Hodad's, 5010 Newport Ave, San Diego",32.7471072424,-117.251252383
+100,2013-04-22 07:11:14,"Grill 'Em All, 19 E Main St, Alhambra",34.0953429699,-118.126426935
+101,2013-02-07 09:15:03,"Native Foods, 2937 Bristol Street, Costa Mesa",33.67823004,-117.8865529
+102,2012-03-23 10:00:10,"The Alligator Pit, 31731 Riverside Dr, Lake Elsinore",33.6785741322,-117.372288668
+103,2011-12-13 09:26:31,"Inland Valley Medical Center, 36485 Inland Valley Dr, Wildomar",33.591670512,-117.237725384
+104,2011-11-09 10:59:52,"Taco Surf, 16281 Pacific Coast Hwy, Surfside",33.7246430558,-118.078790903
+105,2011-10-31 02:25:08,"T J's Lounge, 417 Cherry Ave, Rochelle",41.9222292168,-89.0658402443
+106,2011-10-31 02:24:30,"Millionaires Row at CSC, 1207 W Gurler Rd, Rochelle",41.89217201,-89.072013
+107,2011-10-17 01:30:05,"Skydive Elsinore, 20701 Cereal St, Lake Elsinore",33.6306349884,-117.295398268
+108,2011-10-17 01:29:05,"Chicagoland Skydiving Center, 1207 W Gurler Rd, Rochelle",41.8924361582,-89.07206854
+109,2011-06-28 01:25:32,"Metra - Elburn, 43 W 166 Keslinger Rd, Elburn",41.8905535272,-88.4638881683
+110,2011-06-23 00:19:13,"Buffalo Wild Wings, 2466 Sycamore Rd, DeKalb",41.9542322794,-88.7212300301

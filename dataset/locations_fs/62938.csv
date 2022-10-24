@@ -1,0 +1,54 @@
+,time,poi,latitude,longitude
+0,2016-05-17 20:35:03,"Chicago O'Hare International Airport (ORD), 10000 W Ohare Ave, Chicago",41.97151,-87.89537
+1,2014-02-23 00:19:37,"Epic Brewing Denver, 3001 Walnut St, Denver",39.76317,-104.981319
+2,2014-02-23 00:19:12,"Larkburger, 1617 California St, Denver",39.7454906307,-104.992003441
+3,2013-09-29 04:27:29,"Tamales by La Casita, 3545 Tejon St, Denver",39.76657,-105.01140935
+4,2013-09-29 02:52:54,"Apple Cherry Creek, 3000 E 1st Avenue, Denver",39.716365,-104.952071
+5,2013-08-26 06:15:23,"Elvis Cinemas, 5157 W 64th Ave, Arvada",39.8138929798,-105.051205158
+6,2013-06-23 08:38:25,"Colorado Plus Brew Pub, 6995 W 38th Ave, Wheat Ridge",39.7694919637,-105.074250698
+7,2013-03-29 23:00:24,"Thai Vegan, 2400 Main St, Santa Monica",34.0041256558,-118.485874525
+8,2013-03-29 23:00:09,"Pacific Coast Tire and Service, 2445 Santa Monica Blvd, Santa Monica",34.032428,-118.47587
+9,2013-03-02 23:27:20,"Super 8 Green River, 1248 E Main St, Green River",38.989744524,-110.132140517
+10,2013-03-02 22:39:40,"Super 8 Green River, 1248 E Main St, Green River",38.989744524,-110.132140517
+11,2013-02-15 22:08:33,"Crowne Plaza Denver Downtown, 1450 Glenarm Place, Denver",39.7424766962,-104.991925119
+12,2013-01-13 04:44:32,"The Park Restaurant, 1400 W Sunset Blvd, Los Angeles",34.0742465657,-118.252339667
+13,2012-05-25 05:48:33,"Hertz, 289 Lucas Drive, Romulus",42.237101,-83.33335
+14,2012-05-25 05:46:13,"Hertz, 289 Lucas Drive, Romulus",42.237101,-83.33335
+15,2012-05-24 22:10:46,"Los Angeles International Airport (LAX), 1 World Way, Los Angeles",33.9435869099,-118.408083022
+16,2011-07-10 11:08:12,"Estrella Negra, 2346 W Fullerton Ave, Chicago",41.9249861278,-87.6871842916
+17,2011-07-10 06:31:05,"Continuum Studio, 5671 N Clark St, Chicago",41.9853403311,-87.6690093944
+18,2011-05-30 03:23:37,"Red Hills Market, 155 SW 7th St, Dundee",45.2779969305,-123.01166296
+19,2011-05-18 11:12:48,"El Mariachi Tequila Bar & Grill, 3906 N Broadway St, Chicago",41.9529955516,-87.6495909691
+20,2011-05-18 11:12:39,"Uncommon Ground, 1401 W Devon Ave, Chicago",41.9980979846,-87.6656962077
+21,2011-05-18 11:12:18,"The Coffee Studio, 5628 N Clark St, Chicago",41.984403718,-87.6689564238
+22,2011-05-18 11:12:11,"M. Henry, 5707 N Clark St, Chicago",41.9856296997,-87.6692935082
+23,2011-05-18 11:12:02,"Flo, 1434 W Chicago Ave, Chicago",41.8961612218,-87.6637842738
+24,2011-05-15 21:57:48,"Roost, 5634 N Clark St, Chicago",41.98442762,-87.6690208912
+25,2011-04-08 03:05:31,"Euro Big Stall On The End, 36 E Grand Ave, Chicago",41.8925159,-87.6257964
+26,2011-03-30 00:43:51,"South Loop Dental Specialists, 850 S Wabash Ave Ste 240, Chicago",41.8706885452,-87.6262951484
+27,2010-12-29 23:49:30,"Illinois Secretary of State - Express Drivers Services Facility, 4642 W Diversey Ave, Chicago",41.9319754908,-87.7432537079
+28,2010-11-18 12:05:46,"Campagnola, 815 Chicago Ave, Evanston",42.0327002884,-87.6790245399
+29,2010-11-08 06:55:19,"15 Letters, 855 W Blackhawk, Chicago",41.908571,-87.649899
+30,2010-10-09 11:53:06,"Cary's Lounge, 2251 W Devon Ave, Chicago",41.997803,-87.687057
+31,2010-10-09 09:59:14,"Rub's Backcountry Smokehouse, 6954 N Western Ave, Chicago",42.0083395112,-87.6901589876
+32,2010-07-03 06:52:03,"Lucia's Gourmet Italian Cuisine, 1825 W North Ave, Chicago",41.910482,-87.67372129
+33,2010-07-03 01:11:01,"Breakfast Chat, 36 E Grand Ave, Chicago",41.8930077164,-87.6261264477
+34,2010-06-19 08:02:26,"Velvet Touch Video and Gifts, 2495 N. Parma Rd., Parma",42.2691372111,-84.6002340642
+35,2010-06-13 14:56:59,"Hopleaf Bar, 5148 N Clark St, Chicago",41.9758870818,-87.6684522629
+36,2010-05-24 07:08:15,"CTA - Western, 4901 S Western Blvd, Chicago",41.80467796,-87.6842987537
+37,2010-05-24 07:05:38,"CTA - Kedzie, 4900 S Kedzie Ave, Chicago",41.804358059,-87.7043509483
+38,2010-05-10 02:58:33,"Roost, 5634 N Clark St, Chicago",41.98442762,-87.6690208912
+39,2010-05-09 00:56:46,"George's Ice Cream & Sweets, 5306 N Clark St, Chicago",41.97821782,-87.668466
+40,2010-05-09 00:55:50,"A Taste of Heaven, 5401 N Clark St, Chicago",41.9798943511,-87.6683063255
+41,2010-05-09 00:55:14,"Pine Cleaners, 5337 N Clark St, Chicago",41.979144,-87.668307
+42,2010-05-09 00:54:44,"Cas Hardware, 5305 N Clark St, Chicago",41.978338,-87.6683235168
+43,2010-05-08 09:34:55,"Calo Ristorante, 5343 N Clark St, Chicago",41.9793207001,-87.6682806015
+44,2010-05-05 20:50:54,"Kitchen Sink Caf, 1107 W Berwyn Ave, Chicago",41.9781036833,-87.6582307
+45,2010-05-02 13:44:55,"Rock Band Headquarters, 1343 N Leavitt St, Chicago",41.906275,-87.681836
+46,2010-04-17 09:55:24,"Lucia's Gourmet Italian Cuisine, 1825 W North Ave, Chicago",41.910482,-87.67372129
+47,2010-03-30 01:35:36,"Corner Bakery Cafe, 444 N Michigan Ave, Chicago",41.8907750255,-87.6250033668
+48,2010-03-25 08:29:41,"Piatto Pronto, 5624 N Clark St, Chicago",41.9841617475,-87.669095993
+49,2010-02-13 10:36:25,"Muddy Moose Restaurant & Pub, 2334 White Mountain Hwy., Conway",44.0438994415,-71.1251702929
+50,2010-02-10 00:06:46,"Havas Worldwide, 36 E Grand Ave, Chicago",41.8923353888,-87.6267819671
+51,2009-11-04 01:31:01,"Havas Worldwide, 36 E Grand Ave, Chicago",41.8923353888,-87.6267819671
+52,2009-10-29 03:42:25,"Trader Joe's, 44 E Ontario St, Chicago",41.8935145564,-87.6260881126

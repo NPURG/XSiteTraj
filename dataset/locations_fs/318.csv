@@ -1,0 +1,57 @@
+,time,poi,latitude,longitude
+0,2015-02-14 05:19:02,"Capital One Bank, 858 Fulton St, Brooklyn",40.6833319,-73.9670137
+1,2015-01-13 02:14:02,"Hunter's, 213 Smith St, Brooklyn",40.6845921316,-73.9918148518
+2,2015-01-01 20:49:59,"The Finch, 212 Greene Ave, Brooklyn",40.6870219747,-73.9628603473
+3,2014-10-11 21:24:43,"The Ruby Slipper, 200 Magazine St, New Orleans",29.951109255,-90.0675897433
+4,2014-09-02 03:28:17,"Khim's Millennium Market, 460 Driggs Ave, Brooklyn",40.7191382695,-73.9542218354
+5,2014-09-01 11:04:49,"CrossFit Paradigm Performance, 1344 University Ave #5000, Rochester",43.1504140044,-77.5660251418
+6,2014-09-01 02:01:21,"The Meatball Shop, 170 Bedford Ave, Brooklyn",40.7181100714,-73.9575452688
+7,2014-09-01 01:32:18,"The Owl House, 75 Marshall St, Rochester",43.150221,-77.601013
+8,2014-08-30 08:19:58,"Natural Oasis Market, 288 Monroe Ave, Rochester",43.1493863057,-77.5982100346
+9,2014-08-30 01:09:56,"The Hummus & Pita Co, 585 Avenue of the Americas, New York",40.739065,-73.995587
+10,2014-08-30 01:07:56,"Republic, 37 Union Sq W, New York",40.7369232801,-73.9906802773
+11,2014-08-07 03:35:29,"Pret A Manger, 655 Avenue of the Americas, New York",40.7412973401,-73.9938467445
+12,2014-02-03 04:39:26,"Dough, 305 Franklin Ave, Brooklyn",40.6891968241,-73.9573431015
+13,2013-09-28 23:37:06,"Aloft Miami - Brickell, 1001 SW 2nd Ave, Miami",25.764217,-80.197184
+14,2013-04-30 08:02:24,"Spa Moab, 79 N Main St, Moab",38.5744855151,-109.550785674
+15,2013-04-26 23:19:09,"Red Cliffs Lodge, Mile Post 14 Hig. 128, Moab",38.6804707283,-109.447335081
+16,2013-01-25 22:55:24,"BEST WESTERN Belize Biltmore Plaza, Mile 3, Northern Highway, Belize City",17.5140890111,-88.224505686
+17,2012-10-05 02:04:00,"CrossFit Virtuosity, 98 Bayard St, Brooklyn",40.7189706597,-73.9484760065
+18,2012-03-31 23:44:45,"Five Leaves, 18 Bedford Ave, Brooklyn",40.7237462687,-73.9516568184
+19,2011-11-04 06:16:11,"The Little Chihuahua, 292 Divisadero St, San Francisco",37.772053482,-122.437171781
+20,2011-10-10 20:53:20,"Sagrada Famlia, C. de Mallorca, 401, Barcelona",41.403911824,2.17457364102
+21,2011-10-10 04:54:43,"Ssamo, C. Sant Antoni Abat, 52, Barcelona",41.3789541975,2.1638205886
+22,2011-08-08 02:23:14,"ABC Carpet & Home, 888 Broadway, New York",40.7382173685,-73.9899557839
+23,2011-07-04 16:39:54,"Generator Hostel Copenhagen, Adelgade 5-7, Kbenhavn",55.6829215071,12.5824311166
+24,2009-09-29 00:32:25,"Urban Rustic, 236 N 12th St, Brooklyn",40.7193920218,-73.9526720282
+25,2009-09-13 02:30:24,"US Post Office, 263 S 4th St, Brooklyn",40.709823,-73.957385
+26,2009-05-24 10:38:15,"ChikaLicious Dessert Bar, 203 E 10th St, New York",40.7296430143,-73.9864450693
+27,2009-03-23 23:39:35,"Oslo Coffee, 133 Roebling St, Brooklyn",40.7147365124,-73.9568549395
+28,2015-02-14 05:19:02,"Capital One Bank, 858 Fulton St, Brooklyn",40.6833319,-73.9670137
+29,2015-01-13 02:14:02,"Hunter's, 213 Smith St, Brooklyn",40.6845921316,-73.9918148518
+30,2015-01-01 20:49:59,"The Finch, 212 Greene Ave, Brooklyn",40.6870219747,-73.9628603473
+31,2014-10-11 21:24:43,"The Ruby Slipper, 200 Magazine St, New Orleans",29.951109255,-90.0675897433
+32,2014-09-02 03:28:17,"Khim's Millennium Market, 460 Driggs Ave, Brooklyn",40.7191382695,-73.9542218354
+33,2014-09-01 11:04:49,"CrossFit Paradigm Performance, 1344 University Ave #5000, Rochester",43.1504140044,-77.5660251418
+34,2014-09-01 02:01:21,"The Meatball Shop, 170 Bedford Ave, Brooklyn",40.7181100714,-73.9575452688
+35,2014-09-01 01:32:18,"The Owl House, 75 Marshall St, Rochester",43.150221,-77.601013
+36,2014-08-30 08:19:58,"Natural Oasis Market, 288 Monroe Ave, Rochester",43.1493863057,-77.5982100346
+37,2014-08-30 01:09:56,"The Hummus & Pita Co, 585 Avenue of the Americas, New York",40.739065,-73.995587
+38,2014-08-30 01:07:56,"Republic, 37 Union Sq W, New York",40.7369232801,-73.9906802773
+39,2014-08-07 03:35:29,"Pret A Manger, 655 Avenue of the Americas, New York",40.7412973401,-73.9938467445
+40,2014-02-03 04:39:26,"Dough, 305 Franklin Ave, Brooklyn",40.6891968241,-73.9573431015
+41,2013-09-28 23:37:06,"Aloft Miami - Brickell, 1001 SW 2nd Ave, Miami",25.764217,-80.197184
+42,2013-04-30 08:02:24,"Spa Moab, 79 N Main St, Moab",38.5744855151,-109.550785674
+43,2013-04-26 23:19:09,"Red Cliffs Lodge, Mile Post 14 Hig. 128, Moab",38.6804707283,-109.447335081
+44,2013-01-25 22:55:24,"BEST WESTERN Belize Biltmore Plaza, Mile 3, Northern Highway, Belize City",17.5140890111,-88.224505686
+45,2012-10-05 02:04:00,"CrossFit Virtuosity, 98 Bayard St, Brooklyn",40.7189706597,-73.9484760065
+46,2012-03-31 23:44:45,"Five Leaves, 18 Bedford Ave, Brooklyn",40.7237462687,-73.9516568184
+47,2011-11-04 06:16:11,"The Little Chihuahua, 292 Divisadero St, San Francisco",37.772053482,-122.437171781
+48,2011-10-10 20:53:20,"Sagrada Famlia, C. de Mallorca, 401, Barcelona",41.403911824,2.17457364102
+49,2011-10-10 04:54:43,"Ssamo, C. Sant Antoni Abat, 52, Barcelona",41.3789541975,2.1638205886
+50,2011-08-08 02:23:14,"ABC Carpet & Home, 888 Broadway, New York",40.7382173685,-73.9899557839
+51,2011-07-04 16:39:54,"Generator Hostel Copenhagen, Adelgade 5-7, Kbenhavn",55.6829215071,12.5824311166
+52,2009-09-29 00:32:25,"Urban Rustic, 236 N 12th St, Brooklyn",40.7193920218,-73.9526720282
+53,2009-09-13 02:30:24,"US Post Office, 263 S 4th St, Brooklyn",40.709823,-73.957385
+54,2009-05-24 10:38:15,"ChikaLicious Dessert Bar, 203 E 10th St, New York",40.7296430143,-73.9864450693
+55,2009-03-23 23:39:35,"Oslo Coffee, 133 Roebling St, Brooklyn",40.7147365124,-73.9568549395

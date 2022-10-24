@@ -1,0 +1,134 @@
+,time,poi,latitude,longitude
+0,2014-08-02 15:09:03,"Longitude, 347 14th St, Oakland",37.803209,-122.268746
+1,2014-05-30 09:20:43,"Ordinaire, 3354 Grand Ave, Oakland",37.8135667903,-122.246442104
+2,2014-05-30 09:03:44,"Plum Bar + Restaurant, 2216 Broadway, Oakland",37.8113328116,-122.266654302
+3,2014-05-30 08:27:14,"Plum Bar + Restaurant, 2216 Broadway, Oakland",37.8113328116,-122.266654302
+4,2013-07-30 09:08:10,"Brotzeit Lokal, 1000 Embarcadero, Oakland",37.7877423916,-122.253942501
+5,2012-07-06 02:39:05,"Adesso, 4395 Piedmont Ave, Oakland",37.8301954333,-122.247597
+6,2012-07-06 02:23:39,"Plum Bar + Restaurant, 2216 Broadway, Oakland",37.8113328116,-122.266654302
+7,2012-07-06 02:22:46,"Picn, 2295 Broadway, Oakland",37.8120273688,-122.266454913
+8,2012-07-06 02:21:20,"Flora Restaurant & Bar, 1900 Telegraph Ave, Oakland",37.808211,-122.269778
+9,2012-07-06 02:20:24,"Heinold's First & Last Chance, 48 Webster St, Oakland",37.7938170773,-122.274699211
+10,2012-07-06 02:19:52,"Cafe Van Kleef, 1621 Telegraph Ave, Oakland",37.806543259,-122.270304164
+11,2012-07-06 02:16:01,"Beer Revolution, 464 3rd St, Oakland",37.7971361997,-122.276297808
+12,2012-07-06 02:15:01,"Boot & Shoe Service, 3308 Grand Ave, Oakland",37.8128586628,-122.246835417
+13,2012-07-06 02:14:10,"Adesso, 4395 Piedmont Ave, Oakland",37.8301954333,-122.247597
+14,2012-05-27 01:09:31,"Hidden House Coffee, 31791 Los Rios St, San Juan Capistrano",33.5010552912,-117.664432526
+15,2012-05-25 11:44:26,"Linden Street Brewery, 95 Linden St Ste 7, Oakland",37.7997172306,-122.287864954
+16,2012-05-24 07:54:47,"Castle Lake, Castle Lake Rd., Mount Shasta",41.257153514,-122.381629709
+17,2012-05-24 07:33:32,"Granzella's Restaurant & Sports Lounge, 451 Sixth St, Williams",39.1558387001,-122.148485184
+18,2012-05-24 07:27:09,"Lake Siskiyou Camp Registration, 4239 W A Barr Rd, Mount Shasta",41.283248,-122.361856
+19,2012-04-25 11:12:05,"District Oakland, 827 Washington St, Oakland",37.8012901913,-122.27470994
+20,2012-04-25 11:10:04,"Dashe Cellars, 55 4th St, Oakland",37.7940738201,-122.26623
+21,2012-04-17 02:42:37,"Caffe 817, 817 Washington St, Oakland",37.801139,-122.274618745
+22,2012-04-08 12:22:28,"Bacheesos, 246 Grand Ave, Oakland",37.8099471331,-122.259412
+23,2012-04-08 12:10:42,"Zachary's Chicago Pizza, 5801 College Ave, Oakland",37.8463017941,-122.252052
+24,2012-04-08 12:07:47,"The Lake Chalet Seafood Bar & Grill, 1520 Lakeside Dr, Oakland",37.8021835932,-122.261348209
+25,2012-04-08 12:07:18,"Spice Monkey Cafe, 1628 Webster St, Oakland",37.8054917748,-122.267479547
+26,2012-04-08 12:06:15,"Lin Jia, 3437 Lakeshore Ave, Oakland",37.811495,-122.242552
+27,2012-04-08 12:05:45,"La Borinquea Mex-icatessen, 582 7th St, Oakland",37.800895,-122.277212
+28,2012-04-08 12:04:56,"Italian Colors, 2220 Mountain Blvd, Oakland",37.82348,-122.207018
+29,2012-04-08 12:04:28,"Ike's Lair, 2204 Broadway, Oakland",37.8110085929,-122.266737381
+30,2012-04-08 12:03:43,"Cosecha, 907 Washington St, Oakland",37.8016405,-122.274912067
+31,2012-04-08 12:03:05,"Homeroom, 400 40th St, Oakland",37.8285026643,-122.259952408
+32,2012-04-08 12:02:26,"Chop Bar, 247 4th St, Oakland",37.7955037979,-122.270392778
+33,2012-04-08 12:01:47,"Caf Colucci, 6427 Telegraph Ave, Oakland",37.850776,-122.260579
+34,2012-04-08 12:00:46,"Bocanova, 55 Webster St, Oakland",37.794072594,-122.275211066
+35,2012-04-08 11:57:39,"Asmara Restaurant, 5020 Telegraph Ave, Oakland",37.8367990107,-122.262289811
+36,2012-03-28 10:26:31,"Caffe Trieste, 4045 Piedmont Ave, Oakland",37.826286,-122.25296325
+37,2012-03-21 03:20:23,"Black Star Co-op Pub & Brewery, 7020 Easy Wind Dr, Austin",30.3382503599,-97.7189683914
+38,2012-03-21 03:17:14,"Johnny G's Butcher Block, 11544-11584 Manchaca Rd, Austin",30.1519588502,-97.8331222765
+39,2012-03-16 00:53:16,"Caff Medici, 200 Congress Ave, Austin",30.2646499778,-97.744091918
+40,2012-03-14 03:12:49,"Snack Bar, 1224 S Congress Ave, Austin",30.2514482235,-97.7491848349
+41,2012-03-09 04:08:50,"The Drink, 325 E 6th St, Austin",30.2668671458,-97.7438054524
+42,2012-03-08 04:58:00,"Anderson's Coffee Co, 1601 W 38th St, Austin",30.308368,-97.750275135
+43,2012-03-08 04:46:04,"Dolce Vita Gelato & Espresso, 4222 Duval St, Austin",30.304443,-97.7265053988
+44,2012-03-08 04:41:55,"Bennu Coffee, 2001 E Martin Luther King Jr Blvd, Austin",30.279824458,-97.7196751535
+45,2012-02-20 08:44:06,"Caffe Trieste, 4045 Piedmont Ave, Oakland",37.826286,-122.25296325
+46,2012-02-06 09:45:09,"Oishi Sushi & Grill, 1542 Newell Ave, Walnut Creek",37.8934286588,-122.059666211
+47,2012-02-01 03:06:23,"Caffe 817, 817 Washington St, Oakland",37.801139,-122.274618745
+48,2012-01-06 05:22:05,"Boot & Shoe Service, 3308 Grand Ave, Oakland",37.8128586628,-122.246835417
+49,2011-12-28 10:45:38,"Homeroom, 400 40th St, Oakland",37.8285026643,-122.259952408
+50,2011-12-02 04:06:04,"Caffe 817, 817 Washington St, Oakland",37.801139,-122.274618745
+51,2011-10-27 09:19:52,"Adesso, 4395 Piedmont Ave, Oakland",37.8301954333,-122.247597
+52,2011-10-24 15:05:07,"Tacos Mi Rancho, 1434 1st Ave, Oakland",37.7989085612,-122.256667773
+53,2011-10-22 03:23:15,"Friends of the Palo Alto City Library Book Sale, 4000 Middlefield Rd, Palo Alto",37.4175713215,-122.109891911
+54,2011-10-19 08:49:18,"Locanda, 557 Valencia St, San Francisco",37.7640483497,-122.421809285
+55,2011-10-19 06:20:13,"Limon Rotisserie, 524 Valencia St, San Francisco",37.764466,-122.421841
+56,2011-10-19 06:20:13,"Limon Rotisserie, 524 Valencia St, San Francisco",37.764466,-122.421841
+57,2011-10-15 05:51:56,"Commonwealth Cafe and Pub, 2882 Telegraph Ave, Oakland",37.818099,-122.267165
+58,2011-10-15 05:51:09,"Luka's Taproom & Lounge, 2221 Broadway, Oakland",37.8115020623,-122.266975539
+59,2011-10-15 05:50:36,"The Trappist, 460 8th St, Oakland",37.80049756,-122.27420032
+60,2011-10-15 05:49:56,"Beer Revolution, 464 3rd St, Oakland",37.7971361997,-122.276297808
+61,2011-10-15 02:51:55,"Boot & Shoe Service, 3308 Grand Ave, Oakland",37.8128586628,-122.246835417
+62,2011-09-26 03:28:44,"Doa Toms, 5004 Telegraph Ave, Oakland",37.8365155028,-122.262112569
+63,2011-08-28 04:12:17,"Boot & Shoe Service, 3308 Grand Ave, Oakland",37.8128586628,-122.246835417
+64,2011-08-18 13:09:41,"The Royal Cuckoo, 3202 Mission St, San Francisco",37.7453256,-122.4201309
+65,2011-08-17 11:26:31,"Mifune Restaurant, 1737 Post St, San Francisco",37.7851222197,-122.430744767
+66,2011-08-14 08:47:28,"Homeroom, 400 40th St, Oakland",37.8285026643,-122.259952408
+67,2011-08-06 04:30:07,"fiftyseven-thirtythree, 560 2nd St, Oakland",37.826647,-122.252111
+68,2010-12-27 02:16:30,"Victrola Cafe and Roastery, 310 E Pike St, Seattle",47.6141953704,-122.327340245
+69,2010-12-22 10:32:35,"Flora Restaurant & Bar, 1900 Telegraph Ave, Oakland",37.808211,-122.269778
+70,2010-12-19 06:06:59,"Laszlo's Gourmet Smoked Fish, 1100 Front St #140, Sacramento",38.582148,-121.506160433
+71,2010-12-18 13:29:28,"Flora Restaurant & Bar, 1900 Telegraph Ave, Oakland",37.808211,-122.269778
+72,2010-11-30 06:58:12,"Picn, 2295 Broadway, Oakland",37.8120273688,-122.266454913
+73,2010-09-28 01:07:44,"Bica Coffeehouse, 5701 College Ave, Oakland",37.8453208468,-122.251978219
+74,2010-08-27 03:33:21,"Z Gallerie, 1731 4th St, Berkeley",37.871016,-122.30088
+75,2010-08-25 07:00:17,"Eat Real Festival, Broadway & 1st St, Oakland",37.7939484886,-122.274806499
+76,2010-08-11 02:24:06,"Bookstore - Skyline College, 3300 College Dr Bldg 6, San Bruno",37.6296948116,-122.468127722
+77,2010-08-09 14:34:25,"Everett & Jones Barbeque, 126 Broadway, Oakland",37.7958897744,-122.276219002
+78,2010-07-23 07:52:20,"Jack London Square Farmers' Market, Water St., Oakland",37.796315486,-122.279934991
+79,2010-07-04 15:42:14,"Garden Hortica, 662 7th St #C, Oakland",37.80176815,-122.279537
+80,2010-07-03 23:07:14,"Old Oakland Farmers' Market, 9th St. @ Washington St., Oakland",37.8015379698,-122.274430186
+81,2010-07-01 11:15:54,"Ben & Nick's, 5612 College Ave, Oakland",37.84356331,-122.251569
+82,2010-06-04 02:11:41,"Caf Leila, 1724 San Pablo Ave, Berkeley",37.872587294,-122.293429973
+83,2010-05-09 03:39:39,"Lakeshore Cafe, 3257 Lakeshore Ave, Oakland",37.8106014339,-122.244946393
+84,2010-05-08 09:33:35,"Farley's East, 33 Grand Ave, Oakland",37.8114598989,-122.266077
+85,2010-05-04 04:07:15,"Oakland Museum of California, 1000 Oak St, Oakland",37.7982835458,-122.263835127
+86,2010-05-02 15:03:49,"Grand Lake Farmers Market, Splash Pad Park, Oakland",37.8104492714,-122.24786024
+87,2010-04-26 08:28:08,"Era Art Bar & Lounge, 19 Grand Ave, Oakland",37.8113751974,-122.266244446
+88,2010-04-23 06:09:33,"Heart & Dagger Saloon, 504 Lakeshore Ave, Oakland",37.8104111981,-122.246718407
+89,2010-04-23 06:06:22,"Convert, 1809 4th St Ste B, Berkeley",37.869694,-122.30042696
+90,2010-04-14 11:35:43,"Mijori Japanese Restaurant, 3260 Grand Ave, Oakland",37.8124650347,-122.247167793
+91,2010-04-12 06:10:24,"Peninsula Creamery, 900 High St, Palo Alto",37.4408998013,-122.158336803
+92,2010-04-12 06:09:14,"Green Apple Books, 506 Clement St, San Francisco",37.7829600046,-122.464857101
+93,2010-04-12 06:07:27,"Wishbone, 601 Irving St, San Francisco",37.764051,-122.464242
+94,2010-04-10 08:25:37,"Farley's East, 33 Grand Ave, Oakland",37.8114598989,-122.266077
+95,2010-04-07 01:19:34,"Ramen House Ryowa, 859 Villa St, Mountain View",37.3940162,-122.07969603
+96,2010-04-07 00:59:10,"Tokyo Fish Market, 1220 San Pablo Ave, Albany",37.881469,-122.29643478
+97,2010-04-04 03:13:17,"Grand Lake Farmers Market, Splash Pad Park, Oakland",37.8104492714,-122.24786024
+98,2010-04-01 03:53:59,"Phdf G He7cfng Qu Cafe, 1228 7th Ave, Oakland",37.7937574208,-122.252696164
+99,2010-03-27 05:22:13,"Peet's Coffee & Tea, 1776 4th St, Berkeley",37.87020848,-122.300934
+100,2010-03-26 01:38:28,"Bette's Oceanview Diner, 1807 4th St, Berkeley",37.8698456384,-122.300511799
+101,2010-03-26 00:11:41,"Bette's Oceanview Diner, 1807 4th St, Berkeley",37.8698456384,-122.300511799
+102,2010-03-25 10:22:51,"Mekong Restaurant, 807 E 12th St, Oakland",37.7925248893,-122.252247479
+103,2010-03-24 11:39:46,"Baggy's by the Lake, 288 E 18th St, Oakland",37.7998716506,-122.251976052
+104,2010-03-24 10:06:10,"Casa Vallarta Restaurant, 1910 Park Blvd, Oakland",37.799971925,-122.24983739
+105,2010-03-23 00:45:27,"Heart & Dagger Saloon, 504 Lakeshore Ave, Oakland",37.8104111981,-122.246718407
+106,2010-03-21 03:03:46,"Lynn & L""s Escapade Cafe, 3353 Grand Ave, Oakland",37.813621,-122.246875825
+107,2010-03-20 12:49:53,"Sidebar, 542 Grand Ave, Oakland",37.808915125,-122.250650525
+108,2010-03-19 09:17:23,"Caffe Trieste, 2500 San Pablo Ave, Berkeley",37.8609709765,-122.289714455
+109,2010-03-18 06:06:52,"Brennan's Restaurant & Bar, 700 University Ave, Berkeley",37.8670901361,-122.300616999
+110,2010-03-18 02:19:12,"Broom Bush Cafe, 2725 San Pablo Ave, Berkeley",37.8568084474,-122.288053228
+111,2010-03-17 09:20:40,"Geta Sushi, 165 41st St, Oakland",37.826609,-122.252897
+112,2010-03-17 05:38:41,"Brown Sugar Kitchen, 2534 Mandela Pkwy, Oakland",37.820326,-122.288866
+113,2010-03-17 05:36:04,"Woody's Caf, 1841 Park Blvd, Oakland",37.799788458,-122.250297618
+114,2010-03-17 05:24:07,"The Gardener, 1836 4th St, Berkeley",37.869301,-122.300562
+115,2010-03-17 05:22:23,"Crate & Barrel Outlet, 1785 4th St, Berkeley",37.870494,-122.300682
+116,2010-03-17 05:20:45,"Bare Escentuals Boutique, 1795 4th St, Berkeley",37.87033088,-122.30049
+117,2010-03-17 05:18:24,"Convert, 1809 4th St Ste B, Berkeley",37.869694,-122.30042696
+118,2010-03-17 05:16:27,"Sola Lucy, 803 Delaware St, Berkeley",37.870418,-122.299383
+119,2010-03-17 05:15:02,"Cupkates @ Off the Grid: Haight, Stanyan St & Waller St, San Francisco",37.8589919808,-122.245090426
+120,2010-03-17 05:13:48,"Cafe M, 1799 4th St, Berkeley",37.8704322433,-122.299830768
+121,2010-03-17 03:53:54,"Trader Joe's, 3250 Lakeshore Ave, Oakland",37.8099773689,-122.244375802
+122,2010-03-17 03:44:55,"Jasmine Tea House, 3253 Mission St, San Francisco",37.74478118,-122.42036692
+123,2010-03-17 03:44:18,"The Knockout, 3223 Mission St, San Francisco",37.7451814101,-122.42011695
+124,2010-03-13 12:04:14,"The Alley, 3325 Grand Ave, Oakland",37.8129869421,-122.247062541
+125,2010-03-13 11:00:03,"T-Rex Barbecue, 1300 10th St, Berkeley",37.8800782067,-122.297078917
+126,2010-03-13 05:53:30,"Bette's Oceanview Diner, 1807 4th St, Berkeley",37.8698456384,-122.300511799
+127,2010-02-21 06:54:07,"Caffe 817, 817 Washington St, Oakland",37.801139,-122.274618745
+128,2010-02-21 05:44:58,"Brown Sugar Kitchen, 2534 Mandela Pkwy, Oakland",37.820326,-122.288866
+129,2010-02-16 06:22:52,"The Pasta Shop, 1786 4th St, Berkeley",37.870127,-122.30116
+130,2010-02-15 08:27:31,"Woody's Laundromat, 1841 Park Blvd, Oakland",37.799782,-122.250391483
+131,2010-02-15 08:17:19,"Woody's Caf, 1841 Park Blvd, Oakland",37.799788458,-122.250297618
+132,2009-12-21 03:11:52,"Chava's Mexican Restaurant, 2839 Mission St, San Francisco",37.7516466379,-122.418347

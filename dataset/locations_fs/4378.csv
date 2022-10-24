@@ -1,0 +1,53 @@
+,time,poi,latitude,longitude
+0,2016-10-15 13:10:55,"No Anchor, 2505 2nd Ave Ste 105, Seattle",47.615533,-122.348588
+1,2016-04-08 04:40:34,"Storyville Coffee Company, 1001 1st Ave, Seattle",47.6048639043,-122.3362564
+2,2016-03-03 08:11:27,"Heartwood Provisions, 1103 1st Ave, Seattle",47.6054942474,-122.336826605
+3,2016-02-09 09:54:20,"Oasis Tea Zone, 519 6th Ave S, Seattle",47.597684,-122.326539
+4,2016-02-04 06:12:20,"Shaved Ice Truck, 5-7878 Kuhio Hwy, K2blauea",22.0807664257,-159.313510524
+5,2016-01-02 11:30:12,"Lourdes Mexican Food, 615 W El Norte Pkwy, Escondido",33.145327,-117.101515
+6,2015-12-15 12:38:50,"China First Restaurant, 4237 University Way NE, Seattle",47.6594144404,-122.313424542
+7,2015-11-16 14:21:53,"Spinasse, 1531 14th Avenue, Seattle",47.6150499,-122.31442
+8,2015-11-09 17:41:30,"Old Man's, Jalan Batu Bolong, Badung",-8.65911732535,115.130715966
+9,2015-09-26 01:59:26,"Voxx Coffee, 2245 Eastlake Ave E, Seattle",47.6396042579,-122.3260957
+10,2015-09-22 15:42:45,"Rob Roy, 2332 2nd Ave, Seattle",47.614807,-122.346697683
+11,2015-08-09 03:27:31,"Morsel and Bean, 5905 15th Ave NW, Seattle",47.6717827801,-122.376374551
+12,2015-08-08 05:19:13,"Anchored Ship Coffee Bar, 5306 Ballard Ave NW, Seattle",47.6666849419,-122.383420038
+13,2015-08-05 06:41:15,"Matchstick Coffee Roasters, 639 E 15th Ave, Vancouver",49.2571211921,-123.09033793
+14,2015-08-03 12:37:32,"Garfinkels, 4308 Main St., Whistler",50.1166018412,-122.955229282
+15,2015-08-03 08:45:55,"Tapley's Pub, 4119 Golfers Approach, Whistler",50.1146203407,-122.956878636
+16,2015-08-03 04:55:23,"The Green Moustache, 122 - 4340 Lorimer Rd, Whistler",50.1188997694,-122.956474675
+17,2015-08-03 04:37:44,"Sushi Village, 4272 Mountain Sq, Whistler",50.1137570873,-122.954666
+18,2015-07-30 04:48:38,"Sheraton Vancouver Wall Centre, 1088 Burrard St, Vancouver",49.2803695812,-123.126378212
+19,2015-07-29 06:35:27,"Bauhaus Books & Coffee, 2001 NW Market St, Seattle",47.6685464825,-122.38206042
+20,2015-07-29 05:50:05,"Bauhaus Books & Coffee, 2001 NW Market St, Seattle",47.6685464825,-122.38206042
+21,2015-07-27 07:20:44,"Slate Coffee Bar, 5413 6th Ave NW, Seattle",47.6683442016,-122.363127815
+22,2015-07-21 03:31:27,"Barista, 539 NW 13th Ave, Portland",45.5269567199,-122.684546113
+23,2015-07-18 09:14:08,"Boxer Ramen, 1025 SW Stark St, Portland",45.522286132,-122.681692289
+24,2015-07-01 14:57:48,"Rob Roy, 2332 2nd Ave, Seattle",47.614807,-122.346697683
+25,2015-06-16 12:29:45,"Soft Peaks Ice Cream, 25 Alexander St, Vancouver",49.2834153161,-123.103653383
+26,2015-06-14 15:37:37,"The New Oxford, 1144 Homer St., Vancouver",49.2755953583,-123.122156141
+27,2015-06-14 07:42:55,"Legendary Noodle, 1074 Denman St, Vancouver",49.2885143658,-123.139693434
+28,2015-06-07 07:54:32,"The Walker Inn, 3612 W 6th St, Los Angeles",34.0635270922,-118.300813659
+29,2015-05-23 13:54:21,"Athens International Airport Eleftherios Venizelos (ATH), 91c4c4b9baae 9fb4ccc2, a3c0acc4b1",37.9366257148,23.9466445929
+30,2015-05-14 00:30:50,"Made in NY Media Center, 30 John St, Brooklyn",40.7043266116,-73.9870834351
+31,2015-05-10 22:16:27,"The Wholy Grain, 275 Shawmut Ave, Boston",42.3429369,-71.0692904
+32,2015-05-01 07:45:24,"Boston Logan International Airport (BOS), 1 Harborside Dr, Boston",42.3654998972,-71.0178064867
+33,2015-05-01 01:56:08,"All Star Pizza Bar, 1238 Cambridge St, Cambridge",42.3732466526,-71.0980787873
+34,2015-04-27 02:47:48,"Los Angeles International Airport (LAX), 1 World Way, Los Angeles",33.9435076063,-118.403556663
+35,2015-04-27 01:20:44,"barismo, 364 Broadway, Cambridge",42.3705576508,-71.1043846607
+36,2015-04-26 09:18:27,"Old Havana, 349 Centre St, Jamaica Plain",42.3225649629,-71.1067495046
+37,2015-04-25 08:56:25,"Drink, 348 Congress St, Boston",42.3503934063,-71.0486268997
+38,2015-04-20 03:39:02,"Santa Monica UCLA Medical Center and Orthopaedic Hospital, 1250 16th St, Santa Monica",34.0272346426,-118.486484683
+39,2015-04-07 11:56:43,"The Varnish, 118 E 6th St, Los Angeles",34.0450460262,-118.249604387
+40,2015-03-20 15:59:51,"Sycamore Den, 3391 Adams Ave, San Diego",32.7631664019,-117.12082386
+41,2015-03-02 11:12:03,"Neon Retro Arcade, 28 S Raymond Ave, Pasadena",34.1452674375,-118.148791294
+42,2015-02-27 08:39:25,"Awesome Coffee Shop, 3959 Wilshire Blvd #A21, Los Angeles",34.0619502428,-118.313515103
+43,2015-02-14 14:12:45,"Ohshima Japanese Cuisine, 1956 N Tustin St, Orange",33.8205744032,-117.83675507
+44,2015-02-14 14:11:47,"The Normandie Club, 605 S Normandie Ave, Los Angeles, CA 90005, Los Angeles",34.063637,-118.300828
+45,2015-01-24 09:41:49,"Multnomah Whisk{e}y Library, 1124 SW Alder St, Portland",45.5209358265,-122.683457171
+46,2015-01-24 08:57:53,"Multnomah Whisk{e}y Library, 1124 SW Alder St, Portland",45.5209358265,-122.683457171
+47,2014-12-13 18:24:08,"Linea Caffe, 3417 18th St, San Francisco",37.761726,-122.420042
+48,2014-12-10 07:59:11,"Coffee Bar, 101 Montgomery St, San Francisco",37.7904808488,-122.40237236
+49,2014-12-07 19:02:38,"Panchita's Pupuseria Restaurant #2, 3091 16th St, San Francisco",37.7649240501,-122.421643371
+50,2014-11-13 13:28:18,"Sycamore Den, 3391 Adams Ave, San Diego",32.7631664019,-117.12082386
+51,2014-11-07 13:41:14,"Kin Khao, 55 Cyril Magnin St, San Francisco",37.7850967823,-122.409281731

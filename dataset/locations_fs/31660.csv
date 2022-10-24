@@ -1,0 +1,77 @@
+,time,poi,latitude,longitude
+0,2016-07-03 04:04:19,"Harrisburg International Airport (MDT), 1 Terminal Dr, Middletown",40.1961980322,-76.7559393888
+1,2016-04-24 02:38:30,"Snooze, 1617 Pearl St, Boulder",40.0191102618,-105.274166003
+2,2015-06-14 12:41:11,"South Congress Cafe, 1600 S Congress Ave, Austin",30.2478510623,-97.7505245805
+3,2015-06-14 12:38:59,"Kung Fu Saloon, 510 Rio Grande St, Austin",30.2693666066,-97.7498055593
+4,2015-06-14 12:36:28,"Museum Of The Weird, 412 E 6th St, Austin",30.2670266631,-97.738750056
+5,2015-06-14 08:37:57,"Thirsty Nickel, 325 E 6th St, Austin",30.2670782793,-97.7395516634
+6,2011-08-21 06:04:11,"Barrow Street Ale House, 15 Barrow St, New York",40.7326782894,-74.0026326792
+7,2011-08-13 12:14:01,"The West 79th Street Boat Basin Caf, Henry Hudston Pkwy, New York",40.7858035808,-73.9846587181
+8,2011-07-16 02:24:19,"Sun Wah BBQ, 5039 N Broadway St, Chicago",41.9739586115,-87.659737
+9,2011-04-16 13:39:21,"Ai Fiori, 400 5th Ave Ph 2, New York",40.7499385397,-73.9835567613
+10,2011-03-30 01:20:20,"J.P. Morgan, 383 Madison Ave, New York",40.7556658106,-73.9765376778
+11,2011-03-13 06:30:50,"Shiloh Grill, 123 Shiloh St, Pittsburgh",40.4309025534,-80.0071392961
+12,2010-12-17 05:29:17,"Lakefront Brewery, 1872 N Commerce St, Milwaukee",43.0548720464,-87.9051708724
+13,2010-12-16 13:21:53,"Kopp's Frozen Custard, 5373 N Port Washington Rd, Glendale",43.114611937,-87.9172754288
+14,2010-12-16 04:28:42,"Huan Xi, 2428 N Murray Ave, Milwaukee",43.0619145957,-87.8855451636
+15,2010-12-15 07:30:43,"Denver International Airport (DEN), 8500 Pea Blvd, Denver",39.8502152782,-104.673953409
+16,2010-12-15 06:29:32,"Enterprise Rent-A-Car, 24530 E 78th Ave, Denver",39.8369127537,-104.701133923
+17,2010-12-12 12:33:23,"George Restaurant & Pub, 292 E Meadow Dr, Vail",39.6415339848,-106.373178344
+18,2010-12-09 04:21:01,"Sticky Rice, 85 Orchard St, New York",40.717994322,-73.9903575092
+19,2010-11-23 22:27:02,"Time Warner Cable, 43 W 23rd St, New York",40.7422897925,-73.9914306854
+20,2010-11-14 03:21:57,"Golden Unicorn Restaurant 929fd1a3, 18 E Broadway, New York",40.7135024549,-73.9972087741
+21,2010-11-07 03:14:20,"Patrick's Pub, 26 Bank Row, Pittsfield",42.4481595983,-73.2535079498
+22,2010-11-05 21:57:20,"The Meatball Shop, 84 Stanton St, New York",40.7215451248,-73.9888424267
+23,2010-10-14 02:20:53,"Joe's Shanghai 7f2325, 24 W 56th St, New York",40.7629816629,-73.9758833921
+24,2010-10-11 19:59:17,"Panna II Garden Indian Restaurant, 93 1st Ave, New York",40.7261273606,-73.9862082208
+25,2010-10-10 07:54:07,"Stadium Pizza, 157th, New York",40.825573,-73.926574
+26,2010-09-13 10:53:09,"Hummus Place, 71 7th Ave S, New York",40.732351,-74.003505
+27,2010-09-11 01:19:34,"Dig Inn, 17 E 17th St, New York",40.7373944928,-73.9911839128
+28,2010-09-04 14:06:28,"The 13th Step, 149 2nd Ave, New York",40.7293954704,-73.9871723788
+29,2010-08-22 07:06:17,"Cantina Marina, 600 Water St SW, Washington",38.8756851582,-77.0219497465
+30,2010-08-22 00:15:55,"Ici Urban Bistro @ Sofitel DC, 806 15th St NW, Washington",38.900425,-77.033664
+31,2010-08-13 22:15:33,"Supercuts, 3551 N Oakland Ave, Shorewood",43.0829564466,-87.8876538063
+32,2010-08-12 23:48:56,"Westville Chelsea, 246 W 18th St, New York",40.74204,-73.99999
+33,2010-08-10 04:44:01,"Kumo Sushi, 214 1st Ave, New York",40.7306279097,-73.9830058041
+34,2010-08-09 08:37:36,"Atlantic Grill, 1341 3rd Ave, New York",40.7726809565,-73.9584234722
+35,2010-08-08 21:42:41,"Variety Market, 2 Rector St, New York",40.708425524,-74.0133806974
+36,2010-08-07 02:58:54,"Calexico Cart, Wooster St, New York",40.7254946087,-74.000073265
+37,2010-08-01 21:42:46,"Pamela's P&G Diner, 3703 Forbes Ave, Pittsburgh",40.4412042508,-79.9574371498
+38,2010-07-25 13:22:41,"The Meatball Shop, 84 Stanton St, New York",40.7215451248,-73.9888424267
+39,2010-07-19 02:52:36,"General Mitchell International Airport (MKE), 5300 S Howell Ave, Milwaukee",42.9480401587,-87.9009120195
+40,2010-07-06 02:12:44,"The Cheesecake Factory, 5799 N Bayshore Dr, Milwaukee",43.1225798843,-87.9144297244
+41,2010-07-05 03:14:59,"Harley-Davidson Museum, 400 W Canal St, Milwaukee",43.0314804959,-87.9165130612
+42,2010-07-04 07:04:45,"Bar Louie, 1114 N Water Street, Milwaukee",43.0450733082,-87.9106293619
+43,2010-06-28 09:08:20,"Hop Devil Grill, 129 Saint Marks Pl, New York",40.726819,-73.983331
+44,2010-06-18 06:15:18,"Sheraton Denver Downtown Hotel, 1550 Court Pl, Denver",39.7423190392,-104.98936329
+45,2010-06-12 08:33:16,"Picasso Pizzeria, 303 S End Ave, New York",40.7102197515,-74.0161465071
+46,2010-06-06 10:17:37,"Yoshi Sushi, 131 Avenue A, New York",40.7268961275,-73.9830459781
+47,2010-05-31 10:25:02,"Joe's Shanghai 7fda25, 9 Pell St, New York",40.7146424849,-73.9976419508
+48,2010-05-30 10:26:19,"El Toro Bravo, 50 West St, Annapolis",38.9783101493,-76.4950780385
+49,2010-05-30 02:45:03,"Menchie's, 1905 Towne Centre Blvd, Annapolis",38.980762765,-76.5410399437
+50,2010-05-22 11:58:47,"The Delancey, 168 Delancey St, New York",40.7179765539,-73.9853588395
+51,2010-05-12 09:05:35,"McAleer's Pub & Restaurant, 425 Amsterdam Ave, New York",40.7840318155,-73.9777429352
+52,2010-05-10 07:25:30,"Oakland Gyros, 2867 N Oakland Ave, Milwaukee",43.0709740396,-87.8880659385
+53,2010-05-09 05:08:50,"Park Grill, 11 N Michigan Ave, Chicago",41.8827065896,-87.6237983137
+54,2010-05-07 21:38:11,"Stone Creek Coffee, 4106 N Oakland Ave, Shorewood",43.0917071136,-87.8873205185
+55,2010-05-03 07:45:50,"Morton Williams, 278 Park Ave S, New York",40.7395255566,-73.987117
+56,2010-04-30 10:53:37,"Windfall Restaurant, 23 W. 39th St., New York",40.7522062579,-73.9837289351
+57,2010-04-30 03:38:14,"About.com, 1500 Broadway, New York",40.7564571204,-73.9857490962
+58,2010-04-26 11:15:25,"Chipotle Mexican Grill, 149 8th Ave, New York",40.7419445342,-74.0010890007
+59,2010-04-25 22:50:00,"Tony's Di Napoli, 1606 2nd Ave, New York",40.776141,-73.9530834333
+60,2010-04-24 01:29:50,"KFC, 242 E 14th St, New York",40.7324580636,-73.9851737022
+61,2010-04-15 14:42:43,"Bonchon Chicken, 207 W 38th St, New York",40.753788,-73.989002
+62,2010-04-14 02:48:13,"Morimoto, 88 10th Ave, New York",40.7429630129,-74.0074702229
+63,2010-04-13 05:52:52,"NYU Midtown Campus, 11 W 42nd St, New York",40.7539161272,-73.9819957117
+64,2010-03-18 10:50:19,"El Pescador Fish Market, 627 Pearl St, La Jolla",32.8396368816,-117.276403525
+65,2010-03-17 10:52:23,"Sunday Bistro, 1032 E Valley Blvd, Alhambra",34.07831,-118.112581372
+66,2010-03-16 04:20:23,"Tin Tin Restaurant, 7621 Garvey Ave, Rosemead",34.063346386,-118.102717983
+67,2010-03-16 02:44:01,"The Original Farmers Market, 6333 W 3rd St, Los Angeles",34.0720443106,-118.36032629
+68,2010-03-07 07:51:07,"Clinton St. Baking Co. & Restaurant, 4 Clinton St, New York",40.7213262347,-73.9839757173
+69,2010-02-16 09:26:13,"Peter Luger Steak House, 178 Broadway, Brooklyn",40.710044192,-73.9624757839
+70,2010-02-06 03:15:36,"David H. Koch Theater, Lincoln Center Plaza, New York",40.7719943749,-73.9834785461
+71,2010-01-23 13:21:10,"Upright Citizens Brigade Theatre, 307 W 26th St, New York",40.7473673321,-73.9975195552
+72,2010-01-23 13:16:13,"Del Posto, 85 10th Ave, New York",40.7434854055,-74.0075540543
+73,2009-12-11 11:47:49,"Billy's Bakery, 184 9th Ave, New York",40.7454135359,-74.0020875153
+74,2009-08-30 01:09:35,"Joe's Shanghai 7fda25, 9 Pell St, New York",40.7146424849,-73.9976419508
+75,2009-08-18 10:51:50,"Momofuku Milk Bar, 251 E 13th St, New York",40.7317954706,-73.9856725931

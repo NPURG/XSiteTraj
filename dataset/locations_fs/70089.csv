@@ -1,0 +1,61 @@
+,time,poi,latitude,longitude
+0,2016-10-17 20:15:21,"The Alley, 2512 Hillsborough St, Raleigh",35.7881129992,-78.668790681
+1,2016-07-18 23:14:33,"Shell, 4321 Nannie Helen Burroughs Ave Ne, Washington",38.9006354794,-76.9400453568
+2,2016-06-08 21:17:50,"McDonald's, 601 Corporate Center Dr, Raleigh",35.79013332,-78.7406935067
+3,2016-05-29 21:51:35,"Treforni Pizza, 1125 W NC Highway 54, Durham",35.917984,-78.96102
+4,2016-04-01 12:20:35,"Cracker Barrel Old Country Store, 1440 Handlir Drive I-95 & SR 543, Bel Air",39.4822785965,-76.2512131082
+5,2016-04-01 12:14:40,"Shell, 4321 Nannie Helen Burroughs Ave Ne, Washington",38.9006354794,-76.9400453568
+6,2016-02-12 03:41:27,"Caf Helios, 413 Glenwood Ave, Raleigh",35.7855737862,-78.6475637555
+7,2016-02-11 08:01:11,"Amsterdam Airport Schiphol (AMS), Aankomstpassage, Schiphol",52.309398868,4.76283816355
+8,2016-02-11 07:57:40,"Rijksmuseum, Museumstraat 1, Amsterdam",52.3599097806,4.88530278319
+9,2015-12-30 09:10:30,"Ruckus Pizza & Bar, 2233 Avent Ferry Rd, Raleigh",35.7776968636,-78.6752843857
+10,2015-12-29 22:41:24,"Firestone Complete Auto Care, 5115 NC Highway 55, Durham",35.894449294,-78.8965846113
+11,2015-12-08 02:20:56,"North Carolina Botanical Gardens, 100 Old Mason Farm Rd, Chapel Hill",35.900626985,-79.031932354
+12,2015-12-05 08:10:51,"Shell, 5203 S Miami Blvd, Durham",35.88312397,-78.84963592
+13,2015-10-25 03:40:07,"Panera Bread, 4325 Glenwood Ave, Raleigh",35.8406141485,-78.6810984131
+14,2015-07-31 05:14:56,"Taste Vietnamese Cuisine, 152 Morrisville Square Way, Morrisville",35.8196198078,-78.8292087289
+15,2015-07-12 02:11:26,"Dashi Ramen / Izakaya, 415 E Chapel Hill St, Durham",35.9969487869,-78.8993533976
+16,2015-03-18 09:04:07,"Sapporo Ramen, 1815 Massachusetts Ave, Cambridge",42.3872542466,-71.1186218033
+17,2015-03-08 03:56:41,"Raleigh Convention Center, 500 S Salisbury St, Raleigh",35.7741771032,-78.6410899698
+18,2015-03-01 01:39:10,"Starbucks, 1904 NW Maynard Rd, Cary",35.79874701,-78.79511718
+19,2015-02-27 06:55:58,"Sunrise Biscuit Kitchen, 1305 E Franklin St, Chapel Hill",35.9274905133,-79.0354955809
+20,2015-02-17 11:44:51,"Bonefish Grill, 7820 NC Highway 751, Durham",35.901218,-78.960146
+21,2014-12-31 09:51:11,"Kennedy Space Center Visitor Complex, SR 405, Kennedy Space Center",28.5229631979,-80.6819294124
+22,2014-12-23 11:49:38,"Trader Joe's, 1800 E Franklin St, Chapel Hill",35.9365575003,-79.0247335782
+23,2014-12-17 14:11:04,"Mami Nora's Rotisserie Chicken, 2401 Wake Forest Rd, Raleigh",35.8137646349,-78.6269929059
+24,2014-12-17 14:08:38,"Durham Bulls Athletic Park, 409 Blackwell St, Durham",35.9915319372,-78.9047205448
+25,2014-12-17 11:00:43,"Nature Research Center, 121 W Jones St, Raleigh",35.7824456182,-78.6407575147
+26,2014-12-17 10:57:28,"Jersey Mike's Subs, 2055 Renaissance Park Place, Cary",35.82765672,-78.77197146
+27,2014-12-17 10:56:18,"Dave & Buster's, 1105 Walnut St Ste E101, Cary",35.7742872119,-78.761399171
+28,2014-12-17 10:51:36,"The Flying Biscuit, 2016 Clark Ave, Raleigh",35.7896808,-78.6600924
+29,2014-12-17 06:21:03,"Waraji Japanese Restaurant, 5910 Duraleigh Rd, Raleigh",35.8593156653,-78.712451756
+30,2014-11-06 08:30:07,"Carolina Coffee Shop, 138 E Franklin St, Chapel Hill",35.9135456061,-79.0544723984
+31,2014-09-13 20:11:00,"World of Beer, 2036 Renaissance Park Pl, Cary",35.82712577,-78.77175314
+32,2014-09-09 02:35:20,"Maple View Farm Country Store, 3109 Dairyland Rd, Hillsborough",35.9767950004,-79.1389417648
+33,2014-09-02 06:16:42,"42nd Street Oyster Bar, Raleigh Durham Airport, 1025 Airside Drive, Raleigh",35.8770994868,-78.7931770544
+34,2014-09-02 06:12:24,"Alpaca Peruvian Chicken, 9575 Chapel Hill Rd, Morrisville",35.8048760978,-78.8124114469
+35,2014-09-02 03:17:28,"Sarah P. Duke Gardens, 426 Anderson St, Durham",36.0014273631,-78.9319825172
+36,2014-08-30 08:24:26,"Gate F87, Terminal 1, Mississauga",43.6792577412,-79.6080500784
+37,2014-08-13 08:26:19,"Hunam Chinese Restaurant, 790 Martin Luther King Jr Blvd, Chapel Hill",35.9247127215,-79.0537606286
+38,2014-08-13 08:13:21,"Raleigh-Durham International Airport (RDU), 2400 John Brantley Blvd, Morrisville",35.876414006,-78.7926072121
+39,2014-04-13 02:41:44,"Einstein Bros Bagels, 2040 N. International Pkwy, Dallas Ft. Worth Airport",32.9067616,-97.03697301
+40,2014-03-18 07:39:57,"Walgreens, 1109 W NC Highway 54, Durham",35.918916696,-78.9583030343
+41,2013-12-29 05:45:09,"North Carolina Museum of Life and Science, 433 W Murray Ave, Durham",36.0293535412,-78.8985943794
+42,2013-12-28 05:58:48,"Hair News, 1827 N Harrison Ave, Cary",35.8309240671,-78.7700543042
+43,2013-12-28 05:57:12,"Rockwood Furniture, 2501 University Dr, Durham",35.9744655722,-78.9235783001
+44,2013-12-28 05:54:52,"Sea Depot, 751-G E Chatham St, Cary",35.7916571955,-78.7642371655
+45,2013-11-19 21:14:41,"Mixed Casual Korean Bistro, 1404 E Franklin St, Chapel Hill",35.9282078806,-79.0344139161
+46,2013-10-28 07:00:37,"Bruegger's, 1810 E Franklin St, Chapel Hill",35.93638997,-79.02523756
+47,2013-10-28 06:53:28,"Taste Vietnamese Cuisine, 152 Morrisville Square Way, Morrisville",35.8196198078,-78.8292087289
+48,2013-09-15 06:03:11,"Dim Sum House, 100 Jerusalem Dr, Morrisville",35.8511003844,-78.827252984
+49,2013-03-25 08:20:41,"Finch's Family Restaurant, 401 W Peace St, Raleigh",35.7880052167,-78.6432707667
+50,2013-01-06 04:50:47,"The Cheesecake Factory, 5345 Wisconsin Ave NW, Washington",38.9602597379,-77.0849061012
+51,2012-10-27 04:31:53,"Yum Yum Thai Cuisine, 1861 N Harrison Ave, Cary",35.8314272081,-78.7697303295
+52,2012-10-02 10:05:21,"Cracker Barrel, 955 Airport Blvd Exit 284, I-40 & Airport Blvd, Morrisville",35.858457,-78.82310629
+53,2012-09-02 09:11:46,"Toyo Shokuhin, 748 E Chatham St Ste L, Cary",35.7915832226,-78.7651008368
+54,2012-07-09 18:01:52,"5aa8a4b989fc8193 8f17, 9d27802-1-1, 71ac",35.657022,139.753075
+55,2012-05-29 04:46:14,"Alfredo's Pizza Villa, 201 S Estes Dr, Chapel Hill",35.9287047386,-79.0272842333
+56,2012-04-02 08:13:38,"China Palace, 5210 Garrett Rd, Durham",35.9484789049,-78.9694932103
+57,2010-08-20 02:59:57,"SAS Building R, 500 Sas Campus Dr, Cary",35.8251803659,-78.7588644681
+58,2010-04-25 05:59:51,"8820 Fast Park Drive, 8820 Fast Park Drive, Raleigh",35.903757,-78.76586
+59,2010-04-18 21:15:39,"Raleigh-Durham International Airport (RDU), 2400 John Brantley Blvd, Morrisville",35.876414006,-78.7926072121

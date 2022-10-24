@@ -1,0 +1,44 @@
+,time,poi,latitude,longitude
+0,2016-09-03 03:46:53,"Woody Creek Tavern, 2858 Upper River Road, Woody Creek",39.274885,-106.88723325
+1,2016-08-03 22:01:36,"Grey Lady Nantucket, 2 Chins Way, Nantucket",41.272515269,-70.0912825731
+2,2016-08-03 21:58:46,"The Chanticleer, 9 New Street, Siasconset",41.2631112084,-69.9652492844
+3,2016-08-03 21:56:32,"The Pearl Nantucket, 12 Federal St, Nantucket",41.284247,-70.099068
+4,2016-08-03 21:54:44,"TOPPER's Restaurant At The Wauwinet, 120 Wauwinet Rd, Nantucket",41.3292704422,-69.9970665838
+5,2016-08-03 21:51:18,"Cru Nantucket, 1 Straight Wharf, Nantucket",41.2845444898,-70.0942306024
+6,2016-08-03 00:21:35,"The Corner Table, 22 Federal St, Nantucket",41.285018,-70.099632
+7,2016-08-03 00:20:41,"Murrays Toggery Shop, Main St, Nantucket",41.2831600346,-70.0993824005
+8,2016-08-03 00:20:02,"Le Languedoc, 24 Broad St, Nantucket",41.2849867827,-70.1002370978
+9,2016-08-03 00:19:29,"Galley Beach, 54 Jefferson St, Nantucket",41.295564294,-70.1082902486
+10,2016-08-03 00:14:46,"Something Natural, 50 Cliff Rd, Nantucket",41.2899024836,-70.1071506031
+11,2016-08-03 00:13:15,"Something Natural, 50 Cliff Rd, Nantucket",41.2899024836,-70.1071506031
+12,2016-08-03 00:12:01,"Cisco Brewers, 5 Bartlett Farm Rd, Nantucket",41.263312,-70.131266
+13,2016-08-03 00:11:13,"East Coast Seafood, 167 Hummock Pond Rd, Nantucket",41.2640277805,-70.1346527021
+14,2016-08-03 00:10:19,"East Coast Seafood, 167 Hummock Pond Rd, Nantucket",41.2640277805,-70.1346527021
+15,2016-08-03 00:09:49,"Millie's Restaurant, 326 Madaket Rd, Nantucket",41.27132758,-70.1999518275
+16,2016-07-14 21:14:46,"Gymkhana, 42 Albemarle St, London",51.5085721803,-0.141451656818
+17,2016-07-07 19:55:26,"The Corner Table, 22 Federal St, Nantucket",41.285018,-70.099632
+18,2016-06-30 06:24:15,"Spanky's Clam Shack, 138 Ocean St #115, Hyannis",41.6499558264,-70.2798843384
+19,2016-06-29 22:44:41,"Chez Georges, 1 rue du Mail, Paris",48.8663996861,2.34121985383
+20,2016-06-29 22:41:45,"Breizh Caf, 109 rue Vieille du Temple, Paris",48.86045,2.361791
+21,2016-06-21 00:15:05,"Burgee Bar - Nantucket Yacht Club, 1 S Beach St, Nantucket",41.2860099133,-70.0981787311
+22,2016-06-17 23:45:22,"Anema e Core, Via Sella Orta, 39/a, Isola di Capri",40.550124,14.243822
+23,2016-06-17 23:30:56,"Da Paolino, Via Palazzo a Mare, 11, Isola di Capri",40.557689742,14.2325627743
+24,2016-06-17 23:19:35,"Miki Mak, Via Giuseppe Orlandi, 62, Anacapri",40.5556482635,14.2203516352
+25,2016-06-17 23:17:32,"Ristorante La Fontelina, La Fontelina, Isola di Capri",40.5438509954,14.2507423222
+26,2016-06-17 23:16:51,"La Fontelina, Localit Faraglioni, Isola di Capri",40.5437118568,14.2508729144
+27,2016-06-17 23:11:52,"Villa Verde Ristorante, Via Sella Orta, Isola di Capri",40.550068,14.244529
+28,2016-06-17 23:11:26,"Ristorante Aurora, Via Fuorlovado, 18, Isola di Capri",40.5508354735,14.2451496804
+29,2016-06-17 23:10:31,"Da Paolino, Via Palazzo a Mare, 11, Isola di Capri",40.557689742,14.2325627743
+30,2016-06-17 22:26:45,"Ristorante Roma Life, Via della Vite, 28, Roma",41.9035307226,12.4806511402
+31,2016-06-17 07:00:52,"La Conca del Sogno, Via San Marciano, 9, Massa Lubrense",40.5855758237,14.3641464236
+32,2016-06-17 06:57:41,"Da Adolfo, Via Laurito, 40, Positano",40.622452,14.507185
+33,2016-06-17 05:28:40,"Ristorante Donna Rosa, Via Montepertuso 97-99, Positano",40.6339846535,14.4920825958
+34,2016-06-17 05:13:53,"Next2, Via Pasitea, 242, Positano",40.628338,14.48183
+35,2016-06-17 05:11:24,"Il San Pietro Hotel, Via Laurito 2, Positano",40.6230452615,14.5034699106
+36,2016-06-17 05:08:18,"Al Palazzo, Via dei Mulini 23, Positano",40.6289241991,14.4867489502
+37,2016-06-17 05:02:39,"Chez Black, Via del Brigantino 19, Positano",40.6279589046,14.4869934949
+38,2016-06-07 22:07:45,"La Conca del Sogno, Via San Marciano, 9, Massa Lubrense",40.5855758237,14.3641464236
+39,2016-06-06 16:55:47,"Maccheroni, Piazza delle Coppelle, 44, Roma",41.900675,12.476055
+40,2016-06-06 16:55:32,"Chez Black, Via del Brigantino 19, Positano",40.6279589046,14.4869934949
+41,2016-05-13 23:29:08,"Top Knot, 2817 Maple Ave, Dallas",32.7969859003,-96.8064201894
+42,2016-02-24 00:06:22,"La Bourse et la Vie, 12 Rue Vivienne, Paris",48.8677237209,2.33953431528

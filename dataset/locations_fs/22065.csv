@@ -1,0 +1,48 @@
+,time,poi,latitude,longitude
+0,2015-12-21 11:22:05,"Mare Oyster Bar, 135 Richmond St, Boston",42.3628076256,-71.0550202822
+1,2015-11-08 10:24:28,"Spice Thai Cuisine, 24 Holyoke St, Cambridge",42.3722123857,-71.1184445
+2,2015-08-23 14:04:20,"The Maharaja, 57 JFK St, Cambridge",42.372261,-71.12054973
+3,2015-08-03 05:44:07,"Tempo, 474 Moody St, Waltham",42.3690714177,-71.2372398376
+4,2015-08-03 00:38:39,"Stephanie's On Newbury, 190 Newbury St, Boston",42.3503407705,-71.0796844635
+5,2015-07-29 12:03:15,"Lone Star Taco Bar, 635 Cambridge St, Cambridge",42.3718976599,-71.0870660177
+6,2015-07-20 04:47:07,"New Dong Khanh, 83 Harrison Ave, Boston",42.3507907481,-71.0614098988
+7,2015-07-19 10:00:36,"Crudo, 78 Salem St, Boston",42.363545,-71.05587
+8,2015-05-03 22:14:02,"Izenberg's Deli, 1600 Butler Pike, Conshohocken",40.086859023,-75.2938087062
+9,2015-04-27 21:14:12,"Tenoch, 3 Lewis St, Boston",42.3633475705,-71.0517761064
+10,2015-03-30 11:11:27,"Barcelona Wine Bar - South End, 525 Tremont St, Boston",42.3445592659,-71.0709564153
+11,2015-03-23 10:32:05,"Monica's Mercato, 130 Salem St, Boston",42.365050049,-71.0554497418
+12,2015-03-16 04:16:50,"Regina Pizzeria, 11 Thacher St, Boston",42.3653449859,-71.056749725
+13,2015-03-01 02:17:54,"China House, 331 Hanover St, Boston",42.3642300173,-71.0538545251
+14,2015-02-01 00:29:19,"City Table, 65 Exeter St, Boston",42.3491589933,-71.0793246674
+15,2014-12-16 07:17:48,"Harvest Of India, 1001 Massachusetts Ave, Cambridge",42.369522,-71.11143262
+16,2014-11-24 11:43:02,"Malatesta Trattoria, 649 Washington St, New York",40.7328381369,-74.0084499121
+17,2014-11-24 11:38:41,"Sweet Chick, 178 Ludlow St, New York",40.7217690667,-73.9875052417
+18,2014-11-19 12:57:13,"Gordon Ramsay BurGR, 3667 Las Vegas Blvd S, Las Vegas",36.1108315454,-115.172829129
+19,2014-11-19 12:54:14,"Caonita, 3377 Las Vegas Blvd S, Las Vegas",36.122399658,-115.169083044
+20,2014-11-17 10:35:19,"Guy Fieri's Vegas Kitchen & Bar, 3535 Las Vegas Blvd S, Las Vegas",36.1187223631,-115.17220382
+21,2014-11-14 10:07:16,"Holsteins, 3708 Las Vegas Blvd S, Las Vegas",36.1094889962,-115.174189752
+22,2014-11-10 12:35:34,"Giacomo's, 355 Hanover St, Boston",42.364661377,-71.0536622582
+23,2014-11-05 00:14:24,"Monica's Mercato, 130 Salem St, Boston",42.3651020122,-71.0555617511
+24,2014-09-08 09:43:25,"MiniLuxe, 296 Newbury St, Boston",42.34876476,-71.08484936
+25,2014-09-01 03:49:52,"Alden & Harlow, 40 Brattle St, Cambridge",42.3735894573,-71.1213684082
+26,2014-09-01 03:48:02,"North Street Grille, 229 North St, Boston",42.3634293568,-71.0525509715
+27,2014-08-17 13:44:45,"Echo & Rig, 440 S Rampart Blvd, Las Vegas",36.1666258434,-115.286105459
+28,2014-08-07 20:58:42,"Smith & Wollensky - Boston Atlantic Wharf, 294 Congress St, Boston",42.3528776535,-71.0525828001
+29,2014-06-19 20:49:56,"Dumpling House, 950 Massachusetts Ave, Cambridge",42.3689249161,-71.1098771872
+30,2014-06-19 20:48:08,"Boston Sports Club, 625 Massachusetts Ave, Cambridge",42.3653854149,-71.1034012905
+31,2014-06-19 20:47:26,"Sonsie, 327 Newbury St, Boston",42.348686,-71.086074
+32,2014-05-21 09:06:18,"Max & Leo's, 325 Washington St, Newton",42.356844,-71.186998
+33,2014-05-05 08:14:16,"Lorenzo & Sons Pizza, 305 South St, Philadelphia",39.9415126736,-75.1480765072
+34,2014-03-19 21:30:32,"Drink, 348 Congress St, Boston",42.3503934063,-71.0486268997
+35,2014-03-17 09:34:30,"Warehouse Bar & Grill, 40 Broad St, Boston",42.3581316602,-71.0539484024
+36,2014-02-12 21:00:00,"Thelonious Monkfish, 524 Massachusetts Ave, Cambridge",42.364399,-71.101943
+37,2013-05-01 08:06:02,"Tres Carnes, 688 Avenue of the Americas, New York",40.7421682944,-73.9933302499
+38,2013-04-16 13:46:10,"Literati Cafe, 12081 Wilshire Blvd, Los Angeles",34.044372478,-118.467380513
+39,2013-04-16 13:41:39,"Johnnie's Pastrami, 4017 Sepulveda Blvd, Culver City",34.0081912038,-118.413755894
+40,2013-04-03 10:49:56,"Parm, 248 Mulberry St, New York",40.723019825,-73.995854
+41,2013-04-03 10:34:39,"The Penrose, 1590 2nd Ave, New York",40.7754543044,-73.9533091727
+42,2013-04-03 10:33:46,"Cafe Cluny, 284 W 12th St, New York",40.737406977,-74.0039733052
+43,2012-11-19 11:51:26,"Montville Bagels and Deli, 191 Changebridge Rd, Montville",40.8843380213,-74.36508
+44,2012-10-27 23:41:24,"The Commons Chelsea, 128 7th Ave, New York",40.7409126766,-73.9979155259
+45,2012-10-27 23:32:05,"Telegraphe Caf, 107 W 18th St, New York",40.7400953247,-73.9954134365
+46,2012-10-27 23:31:24,"Barbounia, 250 Park Ave S, New York",40.7382300398,-73.9878323651

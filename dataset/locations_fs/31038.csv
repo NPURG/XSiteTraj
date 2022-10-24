@@ -1,0 +1,79 @@
+,time,poi,latitude,longitude
+0,2014-06-24 07:03:00,"Kaleidoscope Bistro & Pub, 1410 Dresden Dr NE, Brookhaven",33.8608565662,-84.3320310116
+1,2014-06-24 07:02:38,"Kaleidoscope Bistro & Pub, 1410 Dresden Dr NE, Brookhaven",33.8608565662,-84.3320310116
+2,2014-05-31 08:34:44,"Smokebelly BBQ, 128 E Andrews Dr NW, Atlanta",33.8426256985,-84.3830318801
+3,2014-04-10 03:19:41,"Pensacola Beach, Pensacola Beach, Pensacola Beach",30.3320433793,-87.1409038681
+4,2013-07-23 00:31:01,"Periwinkle Cottages of Sanibel, 1431 Jamaica Drive  Sanibel Island, FL 33957, Sanibel",26.455133,-82.142216
+5,2013-07-23 00:24:10,"Blind Pass Beach, Captiva Road, Captiva",26.4827435835,-82.182269102
+6,2013-07-23 00:22:32,"Blind Pass Beach, Captiva Road, Captiva",26.4827435835,-82.182269102
+7,2013-07-23 00:21:52,"Lazy Flamingo Rawbar & Grill, 6520 Pine Ave, Sanibel Island",26.4797806754,-82.1800068105
+8,2013-07-23 00:21:17,"Lazy Flamingo Rawbar & Grill, 6520 Pine Ave, Sanibel Island",26.4797806754,-82.1800068105
+9,2013-07-23 00:20:37,"Lazy Flamingo Rawbar & Grill, 6520 Pine Ave, Sanibel Island",26.4797806754,-82.1800068105
+10,2013-07-23 00:19:54,"Lazy Flamingo Rawbar & Grill, 6520 Pine Ave, Sanibel Island",26.4797806754,-82.1800068105
+11,2013-07-23 00:19:20,"Tower Gallery Art, 751 Tarpon Bay Rd, Sanibel",26.43874,-82.079996
+12,2013-07-23 00:18:55,"George & Wendy's Corner Grill, Tarpon Bay Rd., Sanibel",26.4351886422,-82.0798947986
+13,2013-07-23 00:09:42,"Doc Ford19s Rum Bar & Grille, 2500 Island Inn Rd., Sanibel Island",26.4341486598,-82.0803970098
+14,2013-07-23 00:09:15,"Doc Ford19s Rum Bar & Grille, 2500 Island Inn Rd., Sanibel Island",26.4341486598,-82.0803970098
+15,2013-07-23 00:06:33,"ABC Fine Wine & Spirits, 14725 S. Tamiami Trail, Fort Myers",26.52869317,-81.87046477
+16,2013-06-21 03:24:09,"Casey's General Store, 605 S Grant Ave, Fowler",40.612230044,-87.3143943268
+17,2013-06-20 23:43:14,"Central Illinois Regional Airport (BMI), 3201 Cira Dr, Bloomington",40.483058071,-88.9142310619
+18,2013-05-31 21:15:43,"Moe's Southwest Grill, 367 3rd Ave, New York",40.741077341,-73.9814849244
+19,2013-05-31 21:15:21,"Moe's Southwest Grill, 367 3rd Ave, New York",40.741077341,-73.9814849244
+20,2013-05-21 01:21:17,"Indianapolis International Airport (IND), 7800 Col H Weir Cook Mem Dr, Indianapolis",39.7148794012,-86.2979595381
+21,2013-05-21 01:21:03,"Moe's Southwest Grill, 910 West 10th St, Indianapolis",39.78101964,-86.1736584593
+22,2013-05-21 01:20:12,"Bluebeard, 653 Virginia Ave, Indianapolis",39.757542467,-86.146008593
+23,2013-05-21 01:19:53,"Bluebeard, 653 Virginia Ave, Indianapolis",39.757542467,-86.146008593
+24,2013-05-13 22:45:52,"DoubleTree Suites by Hilton Hotel Boston - Cambridge, 400 Soldiers Field Rd, Boston",42.3603276919,-71.1181014776
+25,2013-05-13 22:32:46,"Newbury Street, Newbury St, Boston",42.3503299741,-71.0799336433
+26,2013-05-13 22:32:25,"Mr. Bartley's Burger Cottage, 1246 Massachusetts Ave, Cambridge",42.3725491211,-71.1161614926
+27,2013-05-13 22:31:48,"Mr. Bartley's Burger Cottage, 1246 Massachusetts Ave, Cambridge",42.3725491211,-71.1161614926
+28,2013-02-05 08:08:52,"MARTA - Lindbergh Center Station, 2424 Piedmont Rd NE, Atlanta",33.8223907735,-84.3697071674
+29,2013-01-30 02:46:28,"Moe's Southwest Grill, 1410 Altamont Avenue, Rotterdam",42.7849496171,-73.9441076847
+30,2013-01-25 04:47:25,"The Beer Garden, 1883 Victory Blvd, Staten Island",40.6130132166,-74.1265565921
+31,2013-01-25 01:02:02,"Moe's Southwest Grill, 2397 Hylan Blvd., Staten Island",40.5727643738,-74.1078602045
+32,2012-12-29 03:20:08,"Sophie's Uptown, 54 Pharr Rd NW, Atlanta",33.837026255,-84.3834475873
+33,2012-12-01 23:48:35,"SIP The Experience, 528 Main St NE, Atlanta",33.8226176321,-84.3696404336
+34,2012-11-14 10:08:55,"U Pick 6 Beer Store, 7520 Peach St, Erie",42.0517861167,-80.085354
+35,2012-08-31 10:37:49,"Locos Grill & Pub, 3167 Peachtree Rd NE, Atlanta",33.8406036632,-84.3758583069
+36,2012-08-23 20:59:15,"Texaco Station Atlanta, 345 Pharr Rd NE, Atlanta",33.8368186993,-84.3766624684
+37,2012-08-12 08:02:02,"Tap: A Gastropub, 1180 Peachtree St NE, Atlanta",33.7870860014,-84.3833120257
+38,2012-08-11 10:14:13,"Midtown Art Cinema, 931 Monroe Dr NE Ste C212, Atlanta",33.7790670722,-84.3671035767
+39,2012-08-06 08:14:01,"Swallow At The Hollow, 1072 Green St, Roswell",34.0280129667,-84.3601951
+40,2012-07-15 00:39:12,"Caribou Coffee, 3261 Peachtree Road NE, Atlanta",33.8439800464,-84.3701640352
+41,2012-06-01 04:20:38,"Westchester County Airport (HPN), 240 Airport Rd, White Plains",41.0686894452,-73.7040623368
+42,2012-05-23 04:25:50,"Illiano's Grill, 257 West Town Street, Yantic",41.5577519187,-72.1131525195
+43,2012-05-21 03:33:46,"Fox Bros. Bar-B-Q, 1238 Dekalb Ave NE, Atlanta",33.7609984083,-84.3474755033
+44,2012-05-14 03:24:45,"Trader Joe's, 3183 Peachtree Rd, Atlanta",33.840751,-84.3748229742
+45,2012-03-02 06:02:42,"Syracuse Hancock International Airport (SYR), 1000 Colonel Eileen Collins Blvd., Syracuse",43.1138274982,-76.1113684249
+46,2012-02-20 21:39:17,"FOCUS Brands Offices, 200 Glenridge Point Pkwy, Atlanta",33.9084916435,-84.3590185303
+47,2012-01-24 22:25:47,"Fox Bros. Bar-B-Q, 1238 Dekalb Ave NE, Atlanta",33.7609984083,-84.3474755033
+48,2012-01-22 23:39:00,"Trader Joe's, 3183 Peachtree Rd, Atlanta",33.840751,-84.3748229742
+49,2012-01-22 01:45:43,"Cafe Agora, 318 E Paces Ferry Rd NE, Atlanta",33.8392934922,-84.3775504293
+50,2011-12-02 04:53:24,"Moe's Southwest Grill, 6090 Roswell Rd NE, Sandy Springs",33.9215486293,-84.379423829
+51,2011-11-30 04:50:21,"Blue Moon Pizza, 325 E Paces Ferry Rd NE, Atlanta",33.8391702647,-84.3770730879
+52,2011-11-30 04:46:57,"Diesel Filling Station, 870 N Highland Ave NE, Atlanta",33.7783269019,-84.3529522419
+53,2011-11-30 04:44:43,"Trader Joe's, 3183 Peachtree Rd, Atlanta",33.840751,-84.3748229742
+54,2011-11-30 04:27:35,"Peachtree Road Farmer's Market, 2744 Peachtree Rd NE, Atlanta",33.8319058267,-84.3860721588
+55,2011-11-30 04:27:07,"Com Vietnamese Grill Restaurant, 4005 Buford Hwy NE Ste E, Atlanta",33.8598638771,-84.3090355588
+56,2011-11-03 01:12:41,"Highland Bakery, 3353 Peachtree Rd NE Ste 150, Atlanta",33.84771877,-84.3667964769
+57,2011-10-18 21:15:11,"Georgia Dome, 1 Georgia Dome Dr NW, Atlanta",33.7576173765,-84.4010603428
+58,2011-10-18 21:14:29,"Verizon Wireless Amphitheatre at Encore Park, 2200 Encore Pkwy, Alpharetta",34.0542594426,-84.3062925339
+59,2011-09-25 22:05:31,"White House Restaurant, 3172 Peachtree Rd NE, Atlanta",33.8409136481,-84.3764674232
+60,2011-09-20 01:50:30,"Highland Bakery, 3353 Peachtree Rd NE Ste 150, Atlanta",33.84771877,-84.3667964769
+61,2011-09-13 04:17:55,"Houston's, 2166 Peachtree Rd NW, Atlanta",33.8134272873,-84.3927617383
+62,2011-08-30 03:39:37,"Criminal Records, 1154-A Euclid Ave NE, Atlanta",33.7651640235,-84.3498325591
+63,2011-08-30 03:39:05,"The Porter Beer Bar, 1156 Euclid Ave NE, Atlanta",33.7652613973,-84.3497925997
+64,2011-08-30 03:38:31,"Eclipse di Luna, 764 Miami Cir NE, Atlanta",33.8319682119,-84.3616318703
+65,2011-08-30 03:38:16,"Blue Moon Pizza, 325 E Paces Ferry Rd NE, Atlanta",33.8391702647,-84.3770730879
+66,2011-08-23 05:08:14,"Verizon Wireless Amphitheatre at Encore Park, 2200 Encore Pkwy, Alpharetta",34.0542594426,-84.3062925339
+67,2011-08-16 03:30:29,"Chastain Park Amphitheater, 4469 Stella Dr., Atlanta",33.8767401062,-84.3962055445
+68,2011-08-16 03:30:09,"GOKickball at Shady Valley, Shady Valley Park, Atlanta",33.8289950314,-84.3518454822
+69,2011-08-09 06:00:36,"Com Vietnamese Grill Restaurant, 4005 Buford Hwy NE Ste E, Atlanta",33.8598638771,-84.3090355588
+70,2011-08-09 06:00:21,"The Vortex Bar & Grill, 878 Peachtree St NE, Atlanta",33.7790670722,-84.3843984604
+71,2011-08-02 19:54:30,"Mellow Mushroom, 1770 Peachtree St NW, Atlanta",33.802331441,-84.3930183057
+72,2010-08-23 09:15:08,"The Galley Restaurant and Pub, Roosevelt Trail, Naples",43.9660087128,-70.5782918812
+73,2010-04-03 23:17:38,"Bagelheads, 916 E Gregory St, Pensacola",30.4187977271,-87.1976796222
+74,2010-01-19 10:50:12,"Whole Foods Market, 77 West Paces Ferry Rd Nw, Atlanta",33.8409422906,-84.3817484379
+75,2010-01-14 01:38:21,"Dog Days Chicago Hotdogs, 6025 Peachtree Pkwy Ste 3, Norcross",33.955768,-84.233129
+76,2009-12-07 08:55:08,"Fox Bros. Bar-B-Q, 1238 Dekalb Ave NE, Atlanta",33.7609984083,-84.3474755033
+77,2009-11-29 22:42:35,"Cafe Agora, 318 E Paces Ferry Rd NE, Atlanta",33.8392934922,-84.3775504293

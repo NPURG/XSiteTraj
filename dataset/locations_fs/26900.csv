@@ -1,0 +1,138 @@
+,time,poi,latitude,longitude
+0,2016-11-17 10:12:01,"KINKA IZAKAYA ORIGINAL, 398 Church Street, Toronto",43.6607320822,-79.3790333182
+1,2016-11-17 09:58:07,"KINTON RAMEN, 396 Church Street, Toronto",43.660662,-79.378935
+2,2016-11-17 09:57:21,"KINTON RAMEN, 396 Church Street, Toronto",43.660662,-79.378935
+3,2016-11-11 04:07:01,"Kennedy Coffee Roasting Co, 2501 SE 14th St, Bentonville",36.356864,-94.1831655502
+4,2016-11-08 07:45:06,"The Original Q-Shack, 2510 University Dr, Durham",35.9745332121,-78.9241504669
+5,2016-11-05 08:27:06,"Shabu and Mein, 168 First Street, Cambridge",42.3665211998,-71.0779609209
+6,2016-10-26 09:20:01,"County Line on the Lake, 5204 Ranch Road 2222, Austin",30.3570640864,-97.785680294
+7,2016-10-25 01:43:21,"Thundercloud Subs, 2521 Rutland Dr, Austin",30.3823227171,-97.7237663596
+8,2016-10-20 10:04:50,"Threadgill's, 6416 N Lamar Blvd, Austin",30.3323887229,-97.7225784083
+9,2016-10-20 10:03:10,"Threadgill's, 6416 N Lamar Blvd, Austin",30.3323887229,-97.7225784083
+10,2016-10-19 09:59:49,"Hula Hut, 3825 Lake Austin Blvd, Austin",30.2947598766,-97.7844116092
+11,2016-10-19 09:50:46,"Hula Hut, 3825 Lake Austin Blvd, Austin",30.2947598766,-97.7844116092
+12,2016-10-18 21:47:33,"Summer Moon Wood-Fired Coffee, 11005 Burnet Rd, Austin",30.3945487141,-97.7203404474
+13,2016-10-18 09:37:27,"Fairfield Inn & Suites Austin Northwest/The Domain Area, 11201 North MoPac Expressway, Austin",30.3998978126,-97.7289139081
+14,2016-10-18 07:20:39,"NoRTH, 11506 Century Oaks Ter Ste 124, Austin",30.4023059076,-97.7260038257
+15,2016-10-06 05:34:41,"Starbucks, 1025 Airside Dr, Raleigh",35.8768152355,-78.7930000163
+16,2016-10-05 07:33:21,"Crook's Corner, 610 W Franklin St, Chapel Hill",35.909873387,-79.0648698807
+17,2016-10-03 03:30:25,"Stylecuts, 138 Worcester St, Natick",42.303411,-71.331704
+18,2016-09-29 05:30:18,"Jetblue Ticket Counter, 1800 Terminal Blvd., RDU Airport",35.8764229559,-78.7926625367
+19,2016-09-28 08:42:36,"The Original Q-Shack, 2510 University Dr, Durham",35.9745332121,-78.9241504669
+20,2016-09-21 06:46:49,"Red Dragon Chinese, 4051 Davis Dr, Morrisville",35.8347743823,-78.8574042192
+21,2016-09-14 08:12:14,"The Original Q-Shack, 2510 University Dr, Durham",35.9745332121,-78.9241504669
+22,2016-09-14 08:10:52,"The Original Q-Shack, 2510 University Dr, Durham",35.9745332121,-78.9241504669
+23,2016-09-13 07:15:54,"Bull City Burger and Brewery, 107 E Parrish St, Durham",35.9955393677,-78.8998949873
+24,2016-09-12 10:41:34,"Terminal 2 Baggage Claim, 2400 Terminal Blvd, Raleigh",35.8764634909,-78.7927565885
+25,2016-09-11 09:33:11,"Not Your Average Joe's, Daniel Webster Highway, Nashua",42.7124768115,-71.4429551738
+26,2016-09-06 04:06:40,"Papagyo, 283 Summer St, Boston",42.3499708899,-71.0498028921
+27,2016-09-05 01:23:18,"ULTA Beauty, 1286 Worcester St, Natick",42.29850776,-71.38224891
+28,2016-08-28 02:25:57,"Lou Lo, Newbury street, Boston",42.3499572177,-71.0811584638
+29,2016-08-28 02:21:32,"Lou Lo, Newbury street, Boston",42.3499572177,-71.0811584638
+30,2016-08-25 05:52:20,"Gate 30, HOU Airport, Houston",29.6526099121,-95.2747195959
+31,2016-08-25 05:47:43,"Dunkin' Donuts / Baskin Robbins, 7800 Airport Blvd, Houston",29.652730566,-95.2754408795
+32,2016-08-24 08:34:26,"Stockyard Bar-B-Q, 6504 Westheimer Rd, Houston",29.737918038,-95.4985797978
+33,2016-08-22 11:24:31,"Spanish Flowers Mexican Restaurant, 4701 N Main St, Houston",29.7971771696,-95.381770454
+34,2016-08-19 07:11:35,"Waxy's - The Modern Irish Bar, 1032 Beacon St, Brookline",42.3460418492,-71.1083742778
+35,2016-08-17 08:43:32,"The West End Gastro Pub, 5320 Westheimer Rd., Houston",29.7396381694,-95.4705239292
+36,2016-08-09 09:32:46,"North Italia, 1700 Post Oak Blvd Ste 190, Houston",29.7485669562,-95.462179929
+37,2016-08-07 09:08:48,"Saxon + Parole, 316 Bowery, New York",40.7251629321,-73.9921595235
+38,2016-08-07 07:50:13,"Maryam Nassir Zadeh, 123 Norfolk St, New York",40.719476,-73.986871
+39,2016-07-24 11:42:44,"Kimball Farm, 400 Littleton Rd, Westford",42.5504563019,-71.4591041207
+40,2016-07-24 11:41:05,"Kimball Farm, 400 Littleton Rd, Westford",42.5504563019,-71.4591041207
+41,2016-07-24 11:40:29,"Kimball Farm, 400 Littleton Rd, Westford",42.5504563019,-71.4591041207
+42,2016-07-24 11:39:42,"Kimball Farm Grand Slam Batting Cages, Kimball Farm, Westford",42.548702323,-71.4591243874
+43,2016-07-24 11:38:39,"Kimball Farm Bumper Boats, Kimball Farm, Westford",42.5500092507,-71.4603186422
+44,2016-07-17 02:53:23,"The Clam Box, 789 Quincy Shore Dr, Quincy",42.2763933167,-71.009268
+45,2016-07-05 22:17:23,"Hilton Garden Inn Portsmouth Downtown, 100 High St, Portsmouth",43.0781435422,-70.7592694583
+46,2016-07-05 03:38:46,"Row 34 NH, 5 Portwalk Pl, Portsmouth",43.0774368365,-70.760512253
+47,2016-07-05 03:27:45,"Row 34 NH, 5 Portwalk Pl, Portsmouth",43.0774368365,-70.760512253
+48,2016-07-05 02:57:41,"Row 34 NH, 5 Portwalk Pl, Portsmouth",43.0774368365,-70.760512253
+49,2016-07-05 01:33:51,"Prescott Park, 105 Marcy St, Portsmouth",43.0771717381,-70.7521677017
+50,2016-07-05 00:49:44,"Annabelle's Ice Cream, 49 Ceres St, Portsmouth",43.07883,-70.75771488
+51,2016-07-05 00:48:44,"Hilton Garden Inn Portsmouth Downtown, 100 High St, Portsmouth",43.0781435422,-70.7592694583
+52,2016-07-05 00:18:22,"Breaking New Grounds, 14 Market Sq, Portsmouth",43.077018922,-70.7573631406
+53,2016-07-04 07:43:47,"Row 34 NH, 5 Portwalk Pl, Portsmouth",43.0774368365,-70.760512253
+54,2016-07-04 06:07:38,"The Franklin Oyster House, 148 Fleet St, Portsmouth",43.076681,-70.759191
+55,2016-07-04 05:52:14,"Hemenway's Seafood Grille & Oyster Bar, 121 S Main St, Providence",41.8243471235,-71.4070254869
+56,2016-07-04 05:47:04,"Attrezzi, 78 Market St, Portsmouth",43.0782968329,-70.757684019
+57,2016-07-04 05:44:42,"Footnotes, 7 Market St., Portsmouth",43.07742,-70.757492
+58,2016-06-27 08:02:54,"Stoney's Restaurant, 1433 P St NW, Washington",38.9097901909,-77.0333057642
+59,2016-06-27 01:32:10,"Terminal C, Boston Logan International Airport (BOS), Boston",42.36656654,-71.0163331032
+60,2016-06-24 11:30:56,"John Glenn Columbus International Airport (CMH), 4600 International Gtwy, Columbus",39.9979808852,-82.8841164194
+61,2016-06-23 08:02:23,"Fish Taco, 7945 MacArthur Blvd, Cabin John",38.9749439528,-77.1626347087
+62,2016-06-23 08:02:09,"Fish Taco, 7945 MacArthur Blvd, Cabin John",38.9749439528,-77.1626347087
+63,2016-06-22 03:52:12,"Resource/Ammirati, 250 High At, Columbus",39.9571316286,-82.9995024696
+64,2016-06-21 09:04:41,"Baggage Claim 5, Port Columbus International Airport, Columbus",39.9980667545,-82.8843056546
+65,2016-06-20 09:42:35,"Hard Times Cafe, 1404 King St, Alexandria",38.8059426038,-77.0548814535
+66,2016-06-12 07:03:41,"Woodman's of Essex, 121 Main St, Essex",42.6305205788,-70.7747344644
+67,2016-06-10 08:47:53,"Gate 32, Ronald Reagan Washington National Airport (DCA), Arlington",38.8539768149,-77.040999867
+68,2016-06-05 09:28:33,"Atlantic Fish Company, 761 Boylston St, Boston",42.348997953,-71.081083023
+69,2016-05-31 07:31:44,"City Tap House, 901 9th St. NW, Washington",38.9010909469,-77.0237007737
+70,2016-05-24 09:23:52,"Mussel Bar & Grille, 7262 Woodmont Ave, Bethesda",38.9817302144,-77.0960426331
+71,2016-05-24 09:14:56,"Bethesda Marriott, 5151 Pooks Hill Rd, Bethesda",39.0163971783,-77.1034426968
+72,2016-05-19 08:51:38,"Rebellion DC, 1836 18th Street NW, Washington",38.915253,-77.041602
+73,2016-05-18 20:31:24,"Foong Lin Restaurant, 4613 Willow Ln, Bethesda",38.9814299729,-77.0919442177
+74,2016-05-12 20:00:32,"Georgetown Bagelry, 5227 River Rd, Bethesda",38.9656342359,-77.104308091
+75,2016-05-12 19:59:23,"Georgetown Bagelry, 5227 River Rd, Bethesda",38.9656342359,-77.104308091
+76,2016-05-07 07:51:47,"Shabu and Mein, 168 First Street, Cambridge",42.3665211998,-71.0779609209
+77,2016-05-03 08:38:23,"Villain & Saint, 7141 Wisconsin Ave, Bethesda",38.980902045,-77.0922650641
+78,2016-04-29 11:05:51,"Plan B Burger Bar, 801 Pennsylvania Ave NW, Washington",38.8942427482,-77.0229956692
+79,2016-04-23 23:00:42,"Delicias @ La Concha Resort, 1077 Ashford Ave, San Juan",18.4577034848,-66.0741557749
+80,2016-04-23 22:59:47,"Delicias @ La Concha Resort, 1077 Ashford Ave, San Juan",18.4577034848,-66.0741557749
+81,2016-04-23 09:10:33,"Jardin del Paseo la Princesa, Paseo de la Princesa, San Juan",18.4637564573,-66.1159799055
+82,2016-04-23 06:42:38,"Acapulco Taquera Mexicana, 2021 Calle Loza, San Juan",18.4506587445,-66.053634211
+83,2016-04-22 01:56:48,"Cueva La Ventana, PR-10, Utuado",18.3743205956,-66.6924138092
+84,2016-04-21 23:04:56,"Pinky's West, 1104 Ashford Ave, San Juan",18.4569693214,-66.0739466632
+85,2016-04-21 09:44:39,"Tops Diner, 500 Passaic Ave, East Newark",40.7505334361,-74.1640240286
+86,2016-04-21 09:38:28,"Lobby Bar @ La Concha Resort, 1077 Ashford Avenue, San Juan",18.457365,-66.074224
+87,2016-04-21 08:11:50,"Serafina, 1077 Ashford Ave, San Juan",18.4569979258,-66.0743416521
+88,2016-04-21 08:11:16,"Serafina, 1077 Ashford Ave, San Juan",18.4569979258,-66.0743416521
+89,2016-04-21 06:02:26,"La Ventana del Mar, 1054 Ave Ashford, San Juan",18.4579465696,-66.0750154574
+90,2016-04-21 01:33:14,"Solera @ La Concha Resort, 1077 Ashford Ave, San Juan",18.4574331969,-66.0742429048
+91,2016-04-18 01:31:54,"Crowne Plaza Boston-Natick, 1360 Worcester St, Natick",42.2982210432,-71.3886041217
+92,2016-04-18 01:30:52,"Crowne Plaza Boston-Natick, 1360 Worcester St, Natick",42.2982210432,-71.3886041217
+93,2016-04-17 01:34:14,"Boston Park Plaza, 50 Park Plz, Boston",42.3507007544,-71.0699302056
+94,2016-04-17 01:31:19,"Dunkin Donuts, 190 Pond Street, Ashland",42.2478692329,-71.4299102773
+95,2016-04-17 01:29:08,"Dunkin Donuts, 190 Pond Street, Ashland",42.2478692329,-71.4299102773
+96,2016-04-17 01:09:24,"Boston Paintball Ashland, 120 Pond St, Ashland",42.2526755756,-71.4292029404
+97,2016-04-15 05:21:46,"Montien Boston - Thai Restaurant, 63 Stuart St, Boston",42.3510695004,-71.0644624869
+98,2016-04-12 07:21:40,"Barrel + Crow, 4867 Cordell Ave, Bethesda",38.9894833101,-77.0980422713
+99,2016-04-11 02:45:48,"Tortoise & Hare Sculpture, Copley Square, Boston",42.349869933,-71.0760864876
+100,2016-04-05 08:35:31,"Abingdon Plantation House Ruins, DCA Terminal A Parking Garage, Arlington",38.8515326231,-77.0439403354
+101,2016-04-05 08:34:28,"Concierge Lounge, 5151 Pooks Hill Rd, Bethesda",39.0164017867,-77.1027852178
+102,2016-04-05 08:33:27,"Brickside Food & Drink, 4866 Cordell Ave, Bethesda",38.9895443858,-77.0976519585
+103,2016-04-03 02:15:35,"Hartford Union Station (HFD) - Amtrak, 1 Union Pl, Hartford",41.7687190865,-72.6813411713
+104,2016-04-03 02:14:15,"Hartford Union Station (HFD) - Amtrak, 1 Union Pl, Hartford",41.7687190865,-72.6813411713
+105,2016-04-03 02:10:46,"Aladdin Halal, 121 Allyn St, Hartford",41.7685113804,-72.6790924232
+106,2016-03-30 07:42:37,"Gate 26, at Terminal B/C, Arlington",38.8538123726,-77.0422697067
+107,2016-03-28 07:47:30,"Medfield Center, Route 109, Medfield",42.1860164982,-71.3071060181
+108,2016-03-28 03:21:14,"Zebra's Bistro And Wine Bar, 21 North St, Medfield",42.187267848,-71.3056936333
+109,2016-03-27 02:36:30,"Robibero Winery, 714 Albany Post Rd, New Paltz",41.7144281344,-74.1629116972
+110,2016-03-27 02:32:16,"Robibero Winery, 714 Albany Post Rd, New Paltz",41.7144281344,-74.1629116972
+111,2016-03-27 01:36:37,"Krause's Chocolates, 2 Church St, New Paltz",41.74805,-74.086292
+112,2016-03-27 01:20:13,"Cocoon, 67 Main St, New Paltz",41.7479294681,-74.0859727429
+113,2016-03-26 23:16:17,"Minnewaska Lodge, 3116 Route 44 55, Gardiner",41.727878,-74.194109
+114,2016-03-26 06:35:56,"Tuthillhouse At The Mill, 20 Gristmill Ln, Gardiner",41.686854551,-74.1750526428
+115,2016-03-26 04:04:33,"Minnewaska Lodge, 3116 Route 44 55, Gardiner",41.727878,-74.194109
+116,2016-03-26 04:03:40,"Minnewaska Lodge, 3116 Route 44 55, Gardiner",41.727878,-74.194109
+117,2016-03-25 08:10:52,"Boca Grande Taqueria, 149 1st St, Cambridge",42.3662890948,-71.0780829191
+118,2016-03-25 00:57:27,"Bobby Burns Statue, Winthrop Square, Boston",42.3548117418,-71.0578697965
+119,2016-03-25 00:56:36,"MBTA Government Center Station, 100 City Hall Plz, Boston",42.3596822629,-71.0595121756
+120,2016-03-22 08:48:25,"Bar Pilar, 1833 14th St NW, Washington",38.9150203284,-77.0317232609
+121,2016-03-14 02:33:42,"Eastern Standard, 528 Commonwealth Ave, Boston",42.3486374807,-71.0960838662
+122,2016-03-08 08:24:01,"Jaleo Bethesda, 7271 Woodmont Ave, Bethesda",38.982135,-77.095923
+123,2016-03-07 08:41:40,"L.L.Bean, 340 Legacy Place, Dedham",42.2321265072,-71.178749622
+124,2016-03-07 04:33:52,"Legal C Bar, 736 Legacy Pl, Dedham",42.2309959551,-71.1779308319
+125,2016-03-06 04:38:22,"Whole Foods Market, 300 Legacy Place, Dedham",42.2326162895,-71.1776530951
+126,2016-03-05 07:59:02,"Shabu and Mein, 168 First Street, Cambridge",42.3665211998,-71.0779609209
+127,2016-03-02 07:27:41,"Jetties, 1609 Foxhall Rd NW, Washington",38.9112162667,-77.084109
+128,2016-03-01 10:53:03,"Meridian Pint, 3400 11th St NW, Washington",38.9319644947,-77.0285207033
+129,2016-03-01 09:17:09,"Kangaroo Boxing Club, 3412 11th St NW, Washington",38.9321352865,-77.0284669346
+130,2016-02-28 08:15:30,"Main Streets Market & Cafe, 42 Main St, Concord",42.4599783736,-71.350192847
+131,2016-02-28 07:52:36,"Nashoba Brooks School, 200 Strawberry Hill Rd, Concord",42.4784772833,-71.380509327
+132,2016-02-20 00:56:40,"Holiday Inn Express & Suites White River Junction, 121 Ballardvale Dr, White River Junction",43.64312,-72.340925
+133,2016-02-19 09:55:40,"Five Guys, 250 Plainfield Rd, West Lebanon",43.6301723984,-72.3244801671
+134,2016-02-19 02:58:22,"Le Petit Cochon Dingue, 24 boulevard Champlain, Qubec",46.812021,-71.20322
+135,2016-02-19 02:57:33,"Le Petit Cochon Dingue, 24 boulevard Champlain, Qubec",46.812021,-71.20322
+136,2016-02-19 02:47:03,"Sapristi, 1001, St-Jean Street, Qubec",46.8127343567,-71.2126478367

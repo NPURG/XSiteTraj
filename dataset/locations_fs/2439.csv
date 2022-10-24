@@ -1,0 +1,123 @@
+,time,poi,latitude,longitude
+0,2016-09-11 02:35:06,"Ices Plain & Fancy, 2256 S 39th St, St Louis",38.610249,-90.246081
+1,2016-09-11 02:34:01,"Cafe Flora, 4344 Shaw Blvd. (inside Missouri Botanical Garden), St Louis",38.6139134887,-90.2572756151
+2,2016-08-21 23:56:35,"Urban Chestnut Brewing Company, 4465 Manchester Ave, St Louis",38.6266682089,-90.2610988039
+3,2016-04-24 22:47:08,"Switch NAP5, 4489 E Sahara Ave, Sahara Lamb Shopping Center, Las Vegas, NV 89104, Las Vegas",36.1428244544,-115.076876196
+4,2016-04-24 22:45:34,"Golden Nugget Pool, 129 Fremont St, Las Vegas",36.1700161945,-115.14573126
+5,2016-04-24 22:45:16,"Downtown Container Park, 707 Fremont St, Las Vegas",36.1677557281,-115.138475821
+6,2016-04-17 03:39:10,"Macklind Avenue Deli, 4721 Macklind Ave, St Louis",38.5861837864,-90.2845555544
+7,2016-04-17 03:38:46,"Retreat Gastropub, 2 N Sarah St, St Louis",38.637185,-90.246534
+8,2016-04-17 03:38:31,"Global Brew Tap House, 9578 Manchester Rd, St Louis",38.6079250664,-90.365271021
+9,2016-04-10 01:28:26,"THE LITTLE DIPPER, 2619 1/2 Cherokee, St Louis",38.593556771,-90.2262135243
+10,2016-01-28 03:26:54,"Randy Ragsdale's Hair Cuts, 6909 Gravois Ave, St Louis",38.5699277309,-90.2855504074
+11,2016-01-19 21:21:15,"Cafe Ventana, 3919 W Pine Blvd, St Louis",38.638031,-90.242069
+12,2015-12-27 23:45:26,"Mama's on the Hill, 2132 Edwards St, St Louis",38.6148920879,-90.2752161026
+13,2015-12-14 00:30:32,"St. Louis Hills Donut Shop, 6917 Hampton Ave, St Louis",38.5737276077,-90.2951824665
+14,2015-12-14 00:30:14,"Lucky's Market Rock Hill, 9550 Manchester Rd, St Louis",38.6080188048,-90.3643792887
+15,2015-12-14 00:29:25,"The Libertine, 7927 Forsyth Blvd, Clayton",38.6503772747,-90.3391709543
+16,2015-02-01 03:34:41,"The Hot Pot, 11215 Manchester Rd, Kirkwood",38.5990337508,-90.41658428
+17,2015-01-19 21:01:27,"Tortillaria, 8 1/2 S Euclid Ave, St Louis",38.639945,-90.262323
+18,2015-01-19 21:01:02,"Corner Bistro, 4993 Loughborough Ave, St Louis",38.571737598,-90.2879542056
+19,2015-01-19 21:00:09,"Insomnia Cookies, 226 N Euclid Ave, St Louis",38.6441184372,-90.2615434917
+20,2014-12-28 05:03:29,"KaKao Maplewood, 7272 Manchester Rd, Maplewood",38.6135443195,-90.3161777833
+21,2014-12-28 05:01:57,"Blueprint Coffee, 6225 Delmar Blvd, St Louis",38.655787,-90.300573
+22,2014-12-07 02:39:20,"EagleMonk Pub & Brewery, 4906 W Mount Hope Hwy, Lansing",42.7122829223,-84.6195101319
+23,2014-12-07 02:38:56,"Yats, 5365 College Ave, Indianapolis",39.8506179661,-86.1455476284
+24,2014-12-07 02:38:06,"The Biergarten AB, 12th & Lynch St, St Louis",38.5991637341,-90.2141046524
+25,2014-11-25 12:39:41,"Sheraton Tysons Hotel, 8661 Leesburg Pike, Tysons Corner",38.9310349976,-77.2458222448
+26,2014-11-25 12:39:06,"Rise Coffeehouse, 4180 Manchester Ave, St Louis",38.6273269653,-90.2533798218
+27,2014-11-25 12:37:49,"Russell's on Macklind, 5400 Murdoch Ave, St Louis",38.5867694312,-90.2844036094
+28,2014-10-18 08:28:25,"America Eats Tavern, 1700 Tysons Blvd, McLean",38.9244318492,-77.2237172257
+29,2014-10-18 08:26:11,"Onesto Pizza & Trattoria, 5401 Finkman St, St Louis",38.5764658794,-90.2868990851
+30,2014-10-18 08:25:20,"Pint Size Bakery & Coffee, 3133 Watson Rd, St Louis",38.5954260947,-90.301177741
+31,2014-10-18 08:24:22,"Grapeseed, 5400 Nottingham Ave, St Louis",38.5859336607,-90.2847292966
+32,2014-09-28 03:39:38,"LeGrand's Market, 4414 Donovan Ave, St Louis",38.5910126532,-90.30296294
+33,2014-08-09 08:17:15,"Lily's Mexican Resturant, 4601 S Kingshighway Blvd, St Louis",38.5868190849,-90.2764411729
+34,2014-08-07 04:50:10,"Kenrick's Meat Market, 4324 Weber Rd, St Louis",38.5491387559,-90.2945065498
+35,2014-08-07 04:49:51,"Tortillaria, 8 1/2 S Euclid Ave, St Louis",38.639945,-90.262323
+36,2014-08-07 04:49:32,"Bar Louie, 14 Maryland Plaza, St Louis",38.6446311308,-90.2622637153
+37,2014-08-07 04:49:07,"The Sweet Divine, 1801 S 9th St, St Louis",38.6131796095,-90.2059327802
+38,2014-08-07 02:11:12,"The Mack, 4615 Macklind Ave, St Louis",38.5872981162,-90.2843034267
+39,2014-08-07 02:10:04,"Sump Coffee, 3700 S Jefferson Ave, St Louis",38.5878438122,-90.2263097102
+40,2013-11-15 14:28:43,"Maya Bay, Koh Phi Phi Ley, 0123301a3548",7.67662821902,98.7662315369
+41,2013-11-15 14:22:41,"Incheon International Airport (ICN), 116c f56d5c 272, 789c11eddc",37.4491309075,126.450763233
+42,2013-11-15 14:21:12,"Roberto's Taco Shop, 850 S Rancho Dr, Las Vegas",36.161722505,-115.173807621
+43,2013-10-23 00:26:15,"Lola's - A Louisiana Kitchen, 231 W Charleston Blvd, Las Vegas",36.1585464304,-115.157902425
+44,2013-09-07 01:20:19,"Umami Burger, 500 Broadway, Santa Monica",34.0154904357,-118.49186182
+45,2013-07-07 23:36:05,"Gordon Ramsay BurGR, 3667 Las Vegas Blvd S, Las Vegas",36.1108315454,-115.172829129
+46,2013-07-07 23:34:54,"Roberto's Taco Shop, 850 S Rancho Dr, Las Vegas",36.161722505,-115.173807621
+47,2013-06-03 11:09:26,"Rachel's Kitchen, 150 Las Vegas Blvd N #160, Las Vegas",36.1701065543,-115.140108743
+48,2013-06-03 11:08:23,"Trump International Hotel Las Vegas, 2000 N Fashion Show Dr, Las Vegas",36.1292789541,-115.172692537
+49,2013-03-11 10:22:27,"Tacos El Gordo, 1724 E Charleston Blvd, Las Vegas",36.1317996609,-115.16473475
+50,2013-03-10 12:57:36,"Luv-It Frozen Custard, 505 E Oakey Blvd, Las Vegas",36.151481309,-115.151433349
+51,2013-03-09 22:56:28,"Whole Foods Market, 7250 W. Lake Mead Blvd., Las Vegas",36.1972991331,-115.25016111
+52,2013-02-24 02:10:58,"Modern Dentistry, 4200 Wisconsin Ave NW #210, Washington",38.9435714108,-77.0773543146
+53,2013-02-24 02:10:20,"Bell Wine & Spirits, 1821 M St NW, Washington",38.905634,-77.042549
+54,2012-12-24 00:21:43,"Taylor Gourmet, 1116 H St NE, Washington",38.9003369817,-76.9908812642
+55,2012-10-06 02:18:00,"eat., 707 E Carson Ave, Las Vegas",36.1669933619,-115.139008548
+56,2012-06-10 14:12:59,"District Commons, 2200 Pennsylvania Ave NW, Washington",38.902261769,-77.0495961786
+57,2012-04-10 04:51:25,"Oola Restaurant & Bar, 860 Folsom St, San Francisco",37.7809613442,-122.4026113
+58,2012-04-10 04:50:53,"Left Bank, 635 Santa Cruz Ave, Menlo Park",37.452786,-122.183361
+59,2012-04-06 22:35:29,"Tied House Brewery & Cafe, 954 Villa St, Mountain View",37.3946882825,-122.080770135
+60,2012-02-12 01:07:48,"Ebenezers Coffeehouse, 201 F St NE, Washington",38.897324065,-77.003504036
+61,2012-02-12 01:06:46,"Taqueria el Poblano, 2400 Mount Vernon Ave, Alexandria",38.827137,-77.058849
+62,2012-02-08 21:51:38,"Pi Pizzeria, 910 F St NW, Washington",38.8971682365,-77.0246583223
+63,2012-01-30 00:25:30,"Caf Grumpy, 224 W 20th St, New York",40.7427878188,-73.9983574053
+64,2012-01-29 03:08:27,"Maya Taqueria, 637 Vanderbilt Ave, Brooklyn",40.678014,-73.968602
+65,2012-01-16 02:50:03,"Pork Barrel BBQ Restaurant, 2312 Mount Vernon Ave, Alexandria",38.8267534044,-77.058984518
+66,2012-01-15 09:25:32,"Bistro Italiano, 320 D St NE, Washington",38.89474291,-77.00120044
+67,2012-01-13 21:34:15,"City Place Caf, 1101 17th St NW, Washington",38.903986,-77.038553
+68,2011-12-25 03:39:08,"The Big Hunt, 1345 Connecticut Ave NW, Washington",38.9084129933,-77.0428819876
+69,2011-12-25 03:35:38,"Capitol City Brewing Company, 1100 New York Ave NW, Washington",38.8998713317,-77.0270386939
+70,2011-12-25 03:32:50,"Square One Brewery & Distillery, 1727 Park Ave, St Louis",38.6168694161,-90.2110764384
+71,2011-12-25 03:30:08,"H. Carl Moultrie I Superior Courthouse, 500 Indiana Ave NW, Washington",38.894529242,-77.0189300159
+72,2011-12-04 22:42:18,"Austin Grill, 801 King St, Alexandria",38.805261,-77.048124
+73,2011-12-04 22:40:47,"Peregrine Espresso, 660 Pennsylvania Ave SE, Washington",38.8850922545,-76.9961812112
+74,2011-12-04 22:40:25,"DC Metro Church, 1200 N Fayette St, Alexandria",38.8172244642,-77.0509600639
+75,2011-12-02 22:13:26,"DC Brau Brewing Co, 3178 Bladensburg Rd NE, Washington",38.9294523393,-76.960644722
+76,2011-11-23 21:47:56,"City Place Caf, 1101 17th St NW, Washington",38.903986,-77.038553
+77,2011-11-17 21:23:45,"Belga Cafe, 514 8th St SE, Washington",38.8822051429,-76.9949269504
+78,2011-11-07 22:47:26,"Gravelly Point Park, George Washington Memorial Pkwy, Arlington",38.8650229959,-77.0401115278
+79,2011-10-17 04:14:06,"Bell Wine & Spirits, 1821 M St NW, Washington",38.905634,-77.042549
+80,2011-10-17 02:06:47,"Amorini Panini, 906 F St NW, Washington",38.8973346223,-77.0246488833
+81,2011-10-14 06:48:14,"Baked & Wired, 1052 Thomas Jefferson St NW, Washington",38.9040065376,-77.0603075624
+82,2011-10-14 06:46:57,"McFadden Art & Glass, 6802 Eastern Ave, Baltimore",39.288392,-76.531137228
+83,2011-10-14 06:46:34,"Wegmans, 9001 McHugh Dr, Glenarden",38.9217059717,-76.8499760212
+84,2011-10-14 06:43:46,"Zeitgeist, 199 Valencia St, San Francisco",37.7701168394,-122.422108054
+85,2011-10-14 06:43:30,"Epicenter Cafe, 764 Harrison St, San Francisco",37.7814803347,-122.398933768
+86,2011-10-14 06:40:51,"Boccalone Salumeria, 1 Ferry Building, #21, San Francisco",37.7954305441,-122.393506104
+87,2011-10-14 06:39:57,"Ghirardelli Square, 900 N Point St, San Francisco",37.8060142413,-122.422434225
+88,2011-10-10 23:15:37,"Carmine's, 425 7th St NW, Washington",38.8956840127,-77.0217266679
+89,2011-10-09 04:23:33,"Baked & Wired, 1052 Thomas Jefferson St NW, Washington",38.9040065376,-77.0603075624
+90,2011-10-07 20:15:53,"Potbelly Sandwich Shop, 1660 L Street NW, Washington",38.90376231,-77.03838543
+91,2011-10-07 20:12:00,"Chinatown Coffee Company, 475 H St NW, Washington",38.8999498304,-77.0186882092
+92,2011-10-02 21:53:00,"Belga Cafe, 514 8th St SE, Washington",38.8822051429,-76.9949269504
+93,2011-10-02 21:52:12,"The Argonaut, 1433 H St NE, Washington",38.9000384827,-76.9842642546
+94,2011-10-02 21:50:33,"Ben's Chili Bowl, 1213 U St NW, Washington",38.9170458695,-77.0288492954
+95,2011-09-26 21:50:17,"Good Stuff Eatery, 303 Pennsylvania Ave SE, Washington",38.8867028579,-77.0018219948
+96,2011-08-21 02:20:27,"R.F.D. Washington, 810 7th St NW, Washington",38.9002806219,-77.0221155882
+97,2011-08-21 02:18:23,"Talay Thai restaurant, 406 1st St SE, #1, Washington",38.8847695273,-77.0057058334
+98,2011-08-21 02:16:33,"Blue Bottle Coffee, 66 Mint Plaza, San Francisco",37.7824639581,-122.407822609
+99,2011-08-21 02:14:46,"Granville Moore's, 1238 H St NE, Washington",38.9002841703,-76.9889816907
+100,2011-08-21 02:10:18,"We, The Pizza, 305 Pennsylvania Ave SE, Washington",38.8866402238,-77.0017012954
+101,2011-08-21 02:08:56,"Five Guys, 1100 New Jersey Ave SE, Washington",38.8770774404,-77.0037531853
+102,2011-08-21 02:07:46,"Seventh Hill, 327 7th St SE, Washington",38.8853123684,-76.9963636994
+103,2011-08-21 02:06:28,"Hill Country Barbecue Market, 410 7th St NW, Washington",38.8951475135,-77.0221182704
+104,2011-03-09 20:03:22,"Northside Social, 3211 Wilson Blvd, Arlington",38.8855629998,-77.0976938484
+105,2011-03-09 20:02:38,"Goose The Market, 2503 N Delaware St, Indianapolis",39.803038,-86.152904
+106,2011-03-09 20:00:27,"Epicenter Cafe, 764 Harrison St, San Francisco",37.7814803347,-122.398933768
+107,2010-10-10 00:59:42,"Miss Shirley's Cafe, 750 E Pratt St, Baltimore",39.2869286494,-76.6053387258
+108,2010-09-29 08:55:23,"St. Germain Bistro & Caf, 156 Cll Sol, Old San Juan",18.4668288142,-66.116595676
+109,2010-09-26 02:26:32,"Skinny Pancake, 60 Lake St, Burlington",44.4770316934,-73.2196330357
+110,2010-09-25 07:56:58,"Taylor Gourmet, 1116 H St NE, Washington",38.9003369817,-76.9908812642
+111,2010-04-24 02:22:57,"Justin's Caf, 1025 1st St SE, Washington",38.8778500274,-77.0061510801
+112,2010-01-31 06:55:28,"A. Litteri, Inc., 517 Morse St NE, Washington",38.9070670512,-76.9984197252
+113,2010-01-25 05:40:44,"Regina Pizzeria, 11 Thacher St, Boston",42.3653449859,-71.056749725
+114,2010-01-24 04:56:58,"Microsoft New England Research & Development Center, 1 Memorial Dr, Cambridge",42.3614168424,-71.0811816764
+115,2010-01-03 03:13:46,"Tunnicliff's Tavern, 222 7th St SE, Washington",38.8865984677,-76.9959586859
+116,2009-12-19 12:18:48,"Capitol City Brewing Company, 1100 New York Ave NW, Washington",38.8998713317,-77.0270386939
+117,2009-09-06 23:53:46,"Peregrine Espresso, 660 Pennsylvania Ave SE, Washington",38.8850922545,-76.9961812112
+118,2009-08-21 11:38:15,"District Chophouse & Brewery, 509 7th St NW, Washington",38.8964483012,-77.0219216302
+119,2009-05-30 19:34:30,"Think Coffee, 248 Mercer St, New York",40.7283802082,-73.9955224732
+120,2009-05-03 06:56:38,"Tunnicliff's Tavern, 222 7th St SE, Washington",38.8865984677,-76.9959586859
+121,2009-04-27 21:49:32,"Buzz 9, 1015 Half Street SE, Washington",38.820627,-77.048708

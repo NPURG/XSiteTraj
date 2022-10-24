@@ -1,0 +1,68 @@
+,time,poi,latitude,longitude
+0,2015-11-27 04:53:52,"Palisades Center Mall, 1000 Palisades Center Dr, West Nyack",41.097341557,-73.9563226652
+1,2015-11-27 04:53:09,"Dave & Buster's, 4661 Palisades Center Dr, West Nyack",41.0971648434,-73.9551287538
+2,2015-11-25 20:04:13,"Cosi, 1298 Boston Post Rd, Larchmont",40.936944,-73.74695
+3,2015-11-24 06:34:36,"Hard Rock Cafe Baltimore, 601 E Pratt St, Baltimore",39.2860591748,-76.6072851419
+4,2015-11-24 06:33:28,"Bubba Gump Shrimp Co., 301 Light St, Baltimore",39.2846361702,-76.6121091026
+5,2015-11-24 06:32:51,"Pratt Street Ale House, 206 W Pratt St, Baltimore",39.2864628143,-76.6178579991
+6,2015-11-24 06:32:05,"Phillips Seafood, 601 E Pratt St, Baltimore",39.2864336417,-76.6076519782
+7,2015-11-24 06:31:05,"Hilton Baltimore, 401 W Pratt St, Baltimore",39.2859592628,-76.6209721117
+8,2015-08-22 02:00:16,"Bagel Time Cafe, 727 Beach Ave, Cape May",38.930889184,-74.9167354514
+9,2015-08-22 01:58:59,"Cape May Lighthouse, 215 Lighthouse Rd, Cape May Point",38.9328304467,-74.9592097746
+10,2015-08-22 01:58:22,"Cape May Brewing Company, 1288 Hornet Rd, Cape May",39.0027006818,-74.9126649615
+11,2015-08-22 01:57:12,"Cracker Barrel Old Country Store, 4 Merritt Blvd. I-84 & US 9, Fishkill",41.52958648,-73.89232324
+12,2015-08-22 01:56:32,"SplashDown Beach, 16 Old Route 9 W, Fishkill",41.5470907219,-73.9068036046
+13,2015-08-07 23:17:33,"Ocean View Service Area, Garden State Parkway, Ocean View",39.1812897706,-74.7232220113
+14,2015-08-07 23:16:26,"Uncle Charley's Ice Cream, 310 Washington St, Cape May",38.932166,-74.923981
+15,2015-07-28 20:07:51,"Seasons Restaurant, 4566 Main St, Manchester Center",43.1733260424,-73.0608221775
+16,2015-05-30 21:33:29,"Up for Breakfast, 4935 Main St, Manchester",43.1773116778,-73.0557782782
+17,2015-05-30 21:32:23,"Mocha Joe's Cafe, 82 Main St, Brattleboro",42.851995,-72.55808
+18,2015-05-18 06:02:03,"Village Square Bagels, 1262 Boston Post Rd, Larchmont",40.938462429,-73.746059005
+19,2015-05-18 05:57:26,"Dos Caminos, 825 3rd Ave, New York",40.7555796428,-73.9708614349
+20,2015-04-08 08:22:46,"Cilantro, 5036 Main St, Manchester",43.1774716911,-73.0539336248
+21,2015-04-01 09:08:35,"Larchmont Tavern, 104 Chatsworth Ave, Larchmont",40.9325273624,-73.7580277159
+22,2015-03-01 05:17:59,"Toy Box, 300 W Boston Post Rd, Mamaroneck",40.946072,-73.735659
+23,2015-03-01 04:54:07,"Dick's Sporting Goods, 1 Maple Avenue, White Plains",41.0292,-73.7589
+24,2015-01-01 08:04:05,"Mr. Darcy's, 31 Route 103 S, Ludlow",43.3949831045,-72.6830414677
+25,2014-11-15 20:14:36,"Polpettina Homestyle Pizza Kitchen, 147 Larchmont Ave, Larchmont",40.928518925,-73.75251174
+26,2014-10-18 05:17:58,"The Craftsman Ale House, 235 Harrison Ave, Harrison",40.9682940071,-73.7126600668
+27,2014-09-13 07:26:10,"Gnarly Vine Wine Bar, 501 Main St, New Rochelle",40.908966,-73.78171
+28,2014-09-13 07:25:07,"Little Mexican Cafe, 581 Main St, New Rochelle",40.907162,-73.7842407
+29,2014-09-05 05:23:34,"Winhall Market, 46 Route 30, Bondville",43.1444621465,-72.8752564503
+30,2014-09-05 05:22:29,"Bar Harbor Grill, 181 E Boston Post Rd, Mamaroneck",40.9493565857,-73.7314577067
+31,2014-09-05 05:20:23,"Cherry Tree Frozen Yogurt, 448 Mamaroneck Ave, Mamaroneck",40.9522174811,-73.7367156752
+32,2014-09-05 05:18:58,"La Herradura, 406 Mamaroneck Ave, Mamaroneck",40.951793,-73.736222
+33,2014-09-05 05:16:15,"Whetstone Station Restaurant and Brewery, 36 Bridge St, Brattleboro",42.8516123668,-72.5561449733
+34,2014-09-05 05:13:49,"Long Trail Brewing Company, 5520 US 4, Bridgewater Corners",43.5884652149,-72.6599525408
+35,2014-08-27 03:45:44,"360 American Grille, 360 Mamaroneck Ave, Mamaroneck",40.9516783333,-73.7358307371
+36,2014-08-27 03:43:52,"Half Time Beverage, 139 Hoyt Ave, Mamaroneck",40.9521919203,-73.7389165109
+37,2014-08-27 03:41:58,"Key West Tacos, 435-451 W Perry St, Cape May",38.9346102333,-74.9282221
+38,2014-08-25 01:57:09,"Canterbury Ales Oyster Bar & Grill, 46 Audrey Ave, Oyster Bay",40.873168525,-73.531642
+39,2014-08-22 09:06:36,"Red Fox Inn, 103 Winhall Hollow Rd, Bondville",43.1533670488,-72.8930932894
+40,2014-08-21 19:59:13,"Gringo Jack's, 5103 Main St, Manchester Center",43.1778178751,-73.0529075299
+41,2014-08-13 20:31:59,"Molly Spillanes, 211 Mamaroneck Ave, Mamaroneck",40.950084,-73.733286
+42,2014-08-13 20:30:47,"Whiskey Dick's, 11 Ameden Rd, Bondville",43.1461427575,-72.8669432945
+43,2014-08-13 20:30:01,"The Home Depot, 121 N Bennington Rd, Bennington",42.9079082052,-73.2190462081
+44,2014-08-13 20:28:54,"Harpoon Henry's, 91 Beach Dr, North Cape May",38.98375295,-74.95934463
+45,2014-08-13 20:28:07,"Coffee Tyme, 315 Beach Ave, Cape May",38.93043209,-74.92231075
+46,2014-08-13 20:26:59,"Bella Vida, 406 Broadway, West Cape May",38.938631,-74.93029595
+47,2014-08-13 20:25:34,"Sherwood's, 2136 Boston Post Rd, Larchmont",40.9273273017,-73.7522876503
+48,2014-08-10 06:16:07,"J.J. Hapgood General Store & Eatery, 305 Main St., Per",43.2301245022,-72.8991674351
+49,2014-08-09 11:44:11,"Panico's, 422 Broadway, West Cape May",38.939231,-74.930292964
+50,2014-08-08 21:38:47,"Family Fun Arcade, 732 Boardwalk, Cape May",38.9304184969,-74.9167240336
+51,2014-08-08 21:38:20,"The ""Grille"" at Sunset Beach, Foot Of Sunset Beach, Cape May",38.9440930429,-74.9699050932
+52,2014-08-08 21:37:44,"Rusty Nail Bar And Grill, 205 Beach Ave, Cape May",38.9303943034,-74.9287408074
+53,2014-08-07 20:02:06,"Cape May Lighthouse, 215 Lighthouse Rd, Cape May Point",38.9328304467,-74.9592097746
+54,2014-08-07 10:48:27,"Moat Mountain Smoke House & Brewing Co., 3378 White Mountain Hwy, North Conway",44.0685842857,-71.1434888279
+55,2014-08-07 10:47:22,"Main Scoop, 140 Main St, Manasquan",40.1228425935,-74.0497978026
+56,2014-08-07 10:46:26,"Northshire Bookstore, 4869 Main St, Manchester Center",43.176812,-73.057173
+57,2014-08-07 10:44:58,"The Lobster House, 906 Schellengers Landing Rd, Cape May",38.949575174,-74.9072184534
+58,2014-08-07 09:52:18,"Brothers pizza, 3860 Bayshore Rd, North Cape May",38.9740994063,-74.9437533946
+59,2014-08-01 20:46:20,"Little Kitchen, 143 Mamaroneck Ave, Mamaroneck",40.9496067667,-73.7334115033
+60,2014-08-01 20:44:46,"Saxon Woods Park Pool, Mamaroneck Ave, White Plains",40.9868278912,-73.7462888477
+61,2014-06-02 08:18:24,"Dudley's, 94 Hudson Pk Rd, New Rochelle",40.9080013714,-73.7707828288
+62,2014-05-25 03:06:28,"Madison Brewing Company Pub & Restaurant, 428 Main St, Bennington",42.8783504593,-73.1964240225
+63,2014-05-18 08:03:00,"Boxcar Cantina, 44 Old Field Point Rd, Greenwich",41.0207759824,-73.6353019085
+64,2013-06-28 22:26:43,"Quality Inn Lake George, 57 Canada St, Lake George",43.4198654213,-73.7146197924
+65,2012-06-09 07:21:52,"Paleteria Fernandez, 350 Mamaroneck Ave, Mamaroneck",40.9515983667,-73.735694
+66,2011-06-30 07:38:42,"Gypsy Cafe, 115 Main St, Lincoln",44.0429662378,-71.6702201766

@@ -1,0 +1,85 @@
+,time,poi,latitude,longitude
+0,2015-03-29 22:26:25,"JW Marriott Austin, 110 E 2nd St, Austin",30.2644691627,-97.7434871586
+1,2015-03-29 22:25:23,"Guero's Taco Bar, 1412 S Congress Ave, Austin",30.2491138399,-97.7501678467
+2,2015-03-29 22:21:23,"Jay Pritzker Pavilion, Millennium Park, Chicago",41.8826141768,-87.621781826
+3,2015-03-29 22:20:09,"Z'Tejas Mexican Restaurant and Grill, 9400 Arboretum Blvd, Austin",30.3891989662,-97.7529874744
+4,2015-03-29 22:19:09,"Republic Square Park, 400 Guadalupe St., Austin",30.2673796478,-97.7470627415
+5,2015-03-29 22:17:16,"The Coppertank, 504 Trinity St, Austin",30.266439,-97.7398306131
+6,2015-03-29 22:16:35,"Central Presbyterian Church, 200 E 8th St, Austin",30.269685,-97.7404260635
+7,2015-03-29 22:15:14,"Chick-fil-A I-35/Parmer Lane, 12901 I-35 N Service Road Bldg. 14, Austin",30.4141939988,-97.6721606022
+8,2015-03-29 22:14:31,"Stateside Theatre @ the Paramount, 719 Congress Ave, Austin",30.2695940578,-97.7419710159
+9,2015-03-29 22:13:30,"The Driskill, 604 Brazos St, Austin",30.2678890805,-97.7416491508
+10,2015-03-29 22:12:18,"The Mohawk, 912 Red River St, Austin",30.2699137378,-97.736107707
+11,2015-03-29 22:10:27,"Four Seasons Hotel Austin, 98 San Jacinto Blvd, Austin",30.2619165625,-97.7424208849
+12,2015-03-29 22:08:37,"Stubb's Bar-B-Q, 801 Red River St, Austin",30.2686176874,-97.7361508854
+13,2015-03-29 22:06:53,"Juan in a Million, 2300 E Cesar Chavez St, Austin",30.25529618,-97.719077
+14,2015-03-29 22:05:40,"1886 Caf & Bakery, 604 Brazos St, Austin",30.2677037551,-97.7418422699
+15,2015-03-29 22:04:57,"Austin Bergstrom International Airport (AUS), 3600 Presidential Blvd, Austin",30.2023005623,-97.6677000016
+16,2015-03-29 22:04:05,"Chicago O'Hare International Airport (ORD), 10000 W Ohare Ave, Chicago",41.97151,-87.89537
+17,2015-03-29 22:02:30,"Chick-fil-A Elmhurst, 235 S Il Route 83, Elmhurst",41.89249455,-87.96176214
+18,2015-03-29 22:01:40,"Sushiya, 261 S Roselle Rd, Schaumburg",42.022448,-88.0793266
+19,2015-03-29 21:59:50,"Millennium Park, 201 E Randolph St, Chicago",41.8828371547,-87.6233162836
+20,2015-03-29 21:58:15,"The Winchester, 1001 N Winchester Ave, Chicago",41.8996418337,-87.6757478714
+21,2015-03-29 21:57:06,"Headquarters Beercade, 213 W Institute Pl, Chicago",41.8971662369,-87.6348602772
+22,2015-03-29 21:54:38,"Naha, 500 N Clark St, Chicago",41.890879,-87.6311585
+23,2015-01-20 05:18:56,"Bouchon Bistro, 3355 Las Vegas Blvd S, Las Vegas",36.1211658366,-115.169575191
+24,2015-01-19 04:32:31,"Grand Lux Cafe, 3327 Las Vegas Blvd S, Las Vegas",36.1252580315,-115.166223049
+25,2014-11-27 00:27:39,"Nu Crepes, 115 W Schiller Ct, Elmhurst",41.9011919381,-87.9405099284
+26,2014-11-17 05:59:31,"The Cheesecake Factory, 2020 Spring Rd, Oak Brook",41.8496481369,-87.949719429
+27,2014-11-03 04:56:20,"Lao Sze Chuan Restaurant, 2172 S Archer Ave, Chicago",41.853391,-87.635051
+28,2014-10-30 01:08:53,"RL Restaurant, 115 E Chicago Ave, Chicago",41.896874181,-87.6247623587
+29,2014-10-25 23:11:03,"Blueberry Hill Breakfast Cafe, 3041 Butterfield Rd, Oak Brook",41.8408848674,-87.9941640859
+30,2014-10-25 10:05:56,"Cantina Laredo, 508 N State St, Chicago",41.8910646789,-87.628133297
+31,2014-10-22 22:50:30,"Blackberry Market, 401 N Main St, Glen Ellyn",41.8740826686,-88.0666127801
+32,2014-10-12 16:28:13,"WestEnd, 1326 W Madison St, Chicago",41.8816977365,-87.6605236878
+33,2014-10-12 11:19:16,"Sunda, 110 W Illinois St, Chicago",41.8908091036,-87.6317167282
+34,2014-10-12 06:22:54,"Wildfire, 232 Oakbrook Ctr, Oak Brook",41.849158195,-87.9505271501
+35,2014-10-12 02:15:05,"Au Cheval, 800 W Randolph St, Chicago",41.8845186012,-87.6474260159
+36,2014-10-12 02:14:35,"Black Dog Gelato, 859 N Damen Ave, Chicago",41.897616,-87.67703
+37,2014-10-12 02:12:46,"Bari, 1120 W Grand Ave, Chicago",41.8911096883,-87.6555866106
+38,2014-10-12 02:12:17,"Butterfly Sushi Bar, 1139 W Grand Ave, Chicago",41.8911433783,-87.6562609746
+39,2014-10-12 02:11:28,"RPM Italian, 52 W Illinois St, Chicago",41.890979815,-87.6297124096
+40,2014-10-12 02:10:40,"Fremont, 15 W Illinois St, Chicago",41.8909255509,-87.62852194
+41,2014-10-12 02:09:22,"Starbucks, 6001 S La Grange Rd, Countryside",41.7811482799,-87.8674450965
+42,2014-10-12 02:08:28,"Ditka's, 2 Mid America Plz, Oakbrook Terrace",41.847090681,-87.9583668709
+43,2014-10-12 01:44:25,"Gibsons Bar & Steakhouse, 2105 Spring Rd, Oak Brook",41.848711911,-87.9478232483
+44,2014-10-12 01:40:26,"Costco Wholesale, 1901 W 22nd St, Oak Brook",41.8457277673,-87.9654459104
+45,2014-10-11 11:30:26,"UP Comedy Club, 230 W North Ave, Chicago",41.9114571177,-87.6354137024
+46,2014-10-11 10:09:52,"Marquee Lounge, 1973 N Halsted St, Chicago",41.9182163045,-87.6484232861
+47,2014-10-11 07:50:01,"Boss Bar, 420 N Clark St, Chicago",41.8899471765,-87.6311871994
+48,2014-10-08 09:52:23,"Smashburger, 538 W Saint Charles Rd, Elmhurst",41.8900453356,-87.9606713021
+49,2014-10-03 02:19:03,"Kuma's Corner, 2900 W Belmont Ave, Chicago",41.9394777504,-87.7003544569
+50,2014-10-02 18:22:13,"David Bowie Is, Museum of Contemporary Art Chicago, Chicago",41.897181407,-87.621349548
+51,2014-02-11 00:11:56,"Pearl Tavern, 180 N Wacker Dr, Chicago",41.885065856,-87.6369172215
+52,2013-10-01 07:52:58,"Elway's Steakhouse, Concourse B, Denver",39.8586022716,-104.673805362
+53,2013-06-20 03:49:39,"Walter E. Washington Convention Center, 801 Mount Vernon Pl NW, Washington",38.9040155274,-77.0230631477
+54,2013-04-26 13:08:53,"Craft, 10100 Constellation Blvd, Los Angeles",34.0588460026,-118.413627148
+55,2013-03-26 02:39:18,"Chill Bubble Tea, 5 Woodfield Mall, Schaumburg",42.0476036335,-88.0377817154
+56,2013-03-24 04:06:47,"Howells & Hood, 435 N Michigan Ave, Chicago",41.8900106016,-87.6233452056
+57,2013-03-18 01:22:40,"Shahi Nihari, 541 W North Ave, Villa Park",41.9048475477,-87.9930549186
+58,2013-01-25 04:46:13,"Best Lumpia, 9305 Thornton Rd, Stockton",38.034664,-121.339123249
+59,2013-01-04 05:45:00,"Grace And Joy Shop, 2411 Main St, Santa Monica",34.003868,-118.485199
+60,2012-12-29 21:40:26,"M&M Donuts, 1614 W Katella Ave, Anaheim",33.8028293817,-117.937760353
+61,2012-12-29 21:34:25,"Cafe Del Rey, 4451 Admiralty Way, Marina del Rey",33.9835434833,-118.4470055
+62,2012-12-27 11:34:48,"King's Hawaiian Bakery & Restaurant, 2808 Sepulveda Blvd, Torrance",33.8228996034,-118.334885538
+63,2012-11-25 09:48:48,"Joy Yee's Noodles, 2159 S China Pl, Chicago",41.854020085,-87.6338282072
+64,2012-11-17 07:25:53,"Circuit of The Americas, 9201 Circuit of the Americas Blvd, Austin",30.1323229514,-97.6411628723
+65,2012-10-30 01:42:41,"Blue Max Coffee, 26 Lathrop Ave, Forest Park",41.885859,-87.8145092726
+66,2012-10-06 08:29:26,"San Soo Kab San, 7901 Golf Rd, Morton Grove",42.0546227946,-87.8227148983
+67,2012-10-04 08:46:08,"DMK Burger Bar, 2370 Fountain Square Dr, Lombard",41.8432223345,-87.9951775074
+68,2012-10-01 03:54:58,"Yama Sushi, 1350 E Flamingo Rd, Las Vegas",36.115537,-115.13497477
+69,2012-09-22 23:56:12,"The Fort Restaurant, 19192 Highway 8, Morrison",39.6289258355,-105.192620467
+70,2012-07-27 06:51:51,"Julius Meinl Coffee House, 3601 N Southport Ave, Chicago",41.947231,-87.664058
+71,2012-07-09 21:16:33,"Naf Naf Grill, 1739 Freedom Dr Ste 109, Naperville",41.8022042845,-88.1271582852
+72,2011-10-11 02:43:49,"AC Hotel Recoletos, Calle Recoletos, 18, Madrid",40.4215174898,-3.68945617152
+73,2011-09-23 00:10:33,"Strat's Restaurant, 231 E North Ave, Villa Park",41.9051318465,-87.9732430179
+74,2011-09-15 07:39:29,"Nagano Japanese Restaurant, 1005 E Saint Charles Rd, Lombard",41.8895424135,-87.9934039268
+75,2011-08-24 08:24:46,"Michael Jordan's Steak House Chicago, 505 N Michigan Ave, Chicago",41.891141,-87.624124
+76,2011-05-19 07:27:33,"U.S. Hotel, 401 S Juniata St, Hollidaysburg",40.4269282699,-78.3916300535
+77,2011-05-13 05:04:22,"Phillip's Seafood, 208 Airport Dr, Harrisburg",40.196050404,-76.7558773992
+78,2011-04-11 07:10:36,"Tom & Eddie's, 348 Yorktown Shopping Ctr, Lombard",41.838032,-88.00953968
+79,2011-03-23 08:00:06,"Tortas Frontera by Rick Bayless, Terminal 1, Concourse B, Chicago",41.9800012159,-87.9066127545
+80,2011-03-18 21:21:43,"Metra - Villa Park, 349 N Ardmore Ave, Villa Park",41.8963860332,-87.9775714973
+81,2010-10-31 09:14:45,"100 South Chop House and Grill, 100 S York St, Elmhurst",41.8992527388,-87.9400312662
+82,2010-07-11 21:37:06,"XSport Fitness Express, 621 W North Ave, Elmhurst",41.9060790124,-87.9642546983
+83,2010-03-04 05:51:11,"Ike's Food & Cocktails, 4500 Glumack Dr, Minneapolis",44.8843899445,-93.2106900215

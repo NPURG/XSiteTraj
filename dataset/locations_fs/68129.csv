@@ -1,0 +1,73 @@
+,time,poi,latitude,longitude
+0,2015-07-08 10:28:57,"Hall's Chophouse, 434 King St, Charleston",32.78846973,-79.93799
+1,2014-08-07 00:56:39,"The French Market & Tavern, 3840 Highway 42, Locust Grove",33.3471973874,-84.1100026067
+2,2014-08-07 00:55:37,"LIFT Digital Media, 330 Himmarshee St #103, Fort Lauderdale",26.1201475117,-80.1473397017
+3,2014-05-25 00:41:28,"Sea Salt, 1186 3rd St S, Naples",26.1323705167,-81.801959
+4,2014-04-08 01:03:17,"AT&T Authorized Retailer, 801 S University Dr #A108, Plantation",26.110625,-80.252118
+5,2014-03-30 23:31:28,"Paramount Hotel, 235 W 46th St, New York",40.7594467099,-73.9871207276
+6,2014-02-08 12:10:00,"Revolution Live, 100 Nugent Ave, Fort Lauderdale",26.1213734148,-80.1461865187
+7,2013-11-24 10:34:27,"Grille 401 at Las Olas, 401 E Las Olas Blvd, Fort Lauderdale",26.1193826931,-80.1387613568
+8,2013-10-05 07:43:50,"Brickell on the River North Tower, 31 SE 5th St, Miami",25.7695642091,-80.193028691
+9,2013-07-18 05:56:15,"Miami Beach City Hall, 1700 Convention Center Dr, Miami Beach",25.7927324916,-80.1352393592
+10,2013-07-13 02:13:28,"Miami Beach City Hall, 1700 Convention Center Dr, Miami Beach",25.7927324916,-80.1352393592
+11,2013-07-11 05:59:02,"Miami Beach Square, 715 Lincoln Ln N, Miami Beach",25.7911683839,-80.1357191445
+12,2013-07-06 08:04:03,"Pepe's Cafe, 806 Caroline St, Key West",24.5604759769,-81.8004469494
+13,2013-06-19 01:48:42,"Musashi Sushi, 6237 N Federal Hwy, Fort Lauderdale",26.2046064489,-80.1093106119
+14,2013-05-17 00:03:01,"Miami Beach Convention Center, 1901 Convention Center Dr, Miami Beach",25.7945006274,-80.1340835019
+15,2013-04-14 06:13:03,"Best Buy, 6325 Naples Blvd, Naples",26.2210556365,-81.7736260492
+16,2013-04-10 09:20:54,"Polaroid Fotobar, 14851 Lyons Rd Ste H100, Delray Beach",26.4553783571,-80.1888496358
+17,2013-04-04 01:11:25,"Ft Lauderdale Country Club, 415 E Country Club Cir, Plantation",26.1151825242,-80.2080922949
+18,2013-04-02 07:00:35,"Mount Sinai Medical Center, 4300 Alton Rd, Miami Beach",25.814094948,-80.1393556115
+19,2013-03-28 09:19:04,"Timpano Chophouse, 450 E Las Olas Blvd, Fort Lauderdale",26.1192202855,-80.1393610634
+20,2013-03-14 21:20:13,"Austin Convention Center, 500 E Cesar Chavez St, Austin",30.2646906293,-97.739439648
+21,2013-03-14 21:18:47,"Friends Bar, 208 E 6th St, Austin",30.2675925597,-97.741048336
+22,2013-03-14 21:17:55,"Austin Bergstrom International Airport (AUS), 3600 Presidential Blvd, Austin",30.2023536212,-97.6670853015
+23,2013-03-10 03:54:50,"Iron Cactus Mexican Restaurant, Grill and Margarita Bar, 606 Trinity St, Austin",30.2674662,-97.7393932
+24,2013-03-01 01:06:49,"Polaroid Fotobar, 14851 Lyons Rd Ste H100, Delray Beach",26.4553783571,-80.1888496358
+25,2013-03-01 01:05:23,"Delray Marketplace, 9025 W Atlantic Ave, Delray Beach",26.4552130613,-80.1889586099
+26,2013-02-13 08:17:07,"Big Pink, 157 Collins Ave, Miami Beach",25.7708808244,-80.1337454652
+27,2013-02-13 08:16:28,"Big Pink, 157 Collins Ave, Miami Beach",25.7708808244,-80.1337454652
+28,2013-01-13 03:56:57,"McCarran International Airport (LAS), 5757 Wayne Newton Blvd, Las Vegas",36.0843658248,-115.147983713
+29,2013-01-13 03:11:00,"New York-New York Hotel & Casino, 3790 Las Vegas Blvd S, Las Vegas",36.1018151021,-115.174236071
+30,2013-01-02 02:38:25,"Portofino Towers, 300 S Pointe Dr, Miami Beach",25.768033376,-80.1348086406
+31,2012-12-30 16:06:41,"Euro, 2-198 SW 3rd Ave, Fort Lauderdale",26.12071894,-80.14626853
+32,2012-12-26 00:52:55,"McDonald's, 13600 Big Bend Rd, Valley Park",38.5669527328,-90.477002922
+33,2012-11-09 02:41:24,"Cleveland Clinic Florida, 2950 Cleveland Clinic Blvd, Weston",26.0825495637,-80.3646986591
+34,2012-10-28 09:09:07,"Grille 401 at Las Olas, 401 E Las Olas Blvd, Fort Lauderdale",26.1193826931,-80.1387613568
+35,2012-10-25 10:52:25,"Starbucks, 749 Lincoln Road, Miami Beach",25.79073473,-80.13641843
+36,2012-10-20 09:33:26,"Grille 401 at Las Olas, 401 E Las Olas Blvd, Fort Lauderdale",26.1193826931,-80.1387613568
+37,2012-08-07 09:46:46,"Tarpon Bend Food & Tackle, 200 SW 2nd St, Fort Lauderdale",26.1204293117,-80.1458049181
+38,2012-07-08 01:56:28,"Fort Sumter National Monument, 1214 Middle St, Sullivans Island",32.7534494011,-79.8752191315
+39,2012-06-06 08:32:41,"Del Frisco's Double Eagle Steak House, 1221 Avenue of the Americas, New York",40.7592576434,-73.9814619676
+40,2012-05-11 20:12:55,"BB&T Center, 1 Panther Pkwy, Sunrise",26.1580282778,-80.324833099
+41,2012-04-21 05:02:48,"Delray Motors, 2102 S Federal Hwy, Delray Beach",26.43575367,-80.07218428
+42,2012-04-08 02:01:43,"Metro Ford, 9000 NW 7th Ave, Miami",25.8576180853,-80.2101241794
+43,2012-03-04 02:07:53,"NINE at Hotel Breakwater, 940 Ocean Dr, Miami Beach",25.7800142053,-80.1308066707
+44,2012-02-25 05:35:03,"Las Olas River House, 333 Las Olas Way, Fort Lauderdale",26.1179993039,-80.141658783
+45,2012-02-23 22:05:10,"Avis Car Rental, 2318 Collins Avenue (at 23rd Street), Miami Beach",25.79884825,-80.12801616
+46,2012-02-23 02:19:13,"Orange County Convention Center, 9800 International Dr, Orlando",28.4257845756,-81.4655297225
+47,2012-01-22 03:31:12,"Harry Truman's Little White House, 111 Front St, Key West",24.5564649577,-81.8067035719
+48,2012-01-09 05:27:12,"Kitchen, 1024 Ocean Dr, Miami Beach",25.7809420956,-80.1305994792
+49,2011-12-11 07:59:43,"On the Ball, 7803 SW 6th Ct, Plantation",26.1126252005,-80.2559512522
+50,2011-12-05 04:13:32,"NINE at Hotel Breakwater, 940 Ocean Dr, Miami Beach",25.7800142053,-80.1308066707
+51,2011-12-05 04:12:10,"NINE at Hotel Breakwater, 940 Ocean Dr, Miami Beach",25.7800142053,-80.1308066707
+52,2011-11-21 05:35:09,"Helipad, Sun Life Stadium, Opa-locka",25.9564399461,-80.2401010944
+53,2011-09-18 16:11:12,"Big Pink, 157 Collins Ave, Miami Beach",25.7708808244,-80.1337454652
+54,2011-07-01 07:42:09,"Portofino Towers, 300 S Pointe Dr, Miami Beach",25.768033376,-80.1348086406
+55,2011-06-13 00:54:41,"The Savoy Hotel, 425 Ocean Dr, Miami Beach",25.7739017634,-80.131499123
+56,2011-04-19 10:08:37,"News Cafe, 800 Ocean Dr, Miami Beach",25.7781265983,-80.1312893629
+57,2011-04-09 03:52:39,"Ultimate Car Wash, 321 S Federal Hwy, Dania Beach",26.045105267,-80.143040989
+58,2011-04-06 06:36:35,"Monty's Sunset, 300 Alton Rd, Miami Beach",25.7713871789,-80.1397808554
+59,2011-01-21 08:48:33,"YOLO, 333 E Las Olas Blvd, Fort Lauderdale",26.1193754094,-80.1394591968
+60,2011-01-06 01:40:38,"Bokamper's Sports Bar & Grill, 1280 S Pine Island Rd, Plantation",26.1077971862,-80.2621328831
+61,2010-10-16 08:57:19,"Islamorada Fish Company And Market, 81532 Overseas Hwy, Islamorada",24.9149590204,-80.6404171822
+62,2010-09-25 14:57:01,"Pinkroom Miami, 739 Washington Ave, Miami Beach",25.777788,-80.1333184
+63,2010-09-19 07:49:13,"Mayors Jewelry, 1000 Lincoln Rd, Miami Beach",25.7902525741,-80.1388812985
+64,2010-07-06 06:55:56,"Islamorada Fish Company And Market, 81532 Overseas Hwy, Islamorada",24.9149590204,-80.6404171822
+65,2010-07-05 06:41:45,"Mr Mojito Truck Bar, 245 Front St, Key West",24.5582965249,-81.8088494919
+66,2010-07-04 09:02:18,"Mallory Square, 1 Whitehead St, Key West",24.5596038972,-81.8072267124
+67,2010-06-18 07:52:56,"YOLO, 333 E Las Olas Blvd, Fort Lauderdale",26.1193754094,-80.1394591968
+68,2010-06-16 08:57:15,"Monty's Sunset, 300 Alton Rd, Miami Beach",25.7713871789,-80.1397808554
+69,2010-05-31 12:22:46,"Nikki Beach Miami, 1 Ocean Dr, Miami Beach",25.7690213197,-80.1319952862
+70,2010-03-02 11:59:59,"Big Pink, 157 Collins Ave, Miami Beach",25.7708808244,-80.1337454652
+71,2009-10-26 07:57:37,"Hard Rock Stadium, 347 Don Shula Dr, Miami Gardens",25.9577802953,-80.2383912131

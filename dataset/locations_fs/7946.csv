@@ -1,0 +1,69 @@
+,time,poi,latitude,longitude
+0,2016-08-19 07:23:39,"Macondo West, 2 Bank St, New York",40.7371016422,-74.0014161009
+1,2016-08-06 09:20:58,"Har, 176 8th Ave, New York",40.742793,-74.000166
+2,2016-08-05 22:37:45,"Dell'anima, 38 8th Ave, New York",40.7380688333,-74.0041132216
+3,2016-07-29 22:18:42,"Whitney Museum of American Art, 99 Gansevoort St, New York",40.7395219222,-74.0089335127
+4,2016-01-14 05:59:59,"Souvla, 517 Hayes St, San Francisco",37.7765223593,-122.424945009
+5,2015-12-31 12:27:42,"Aire Ancient Baths, 88 Franklin St, New York",40.7181437748,-74.0049147606
+6,2015-11-06 10:06:53,"Philz Coffee, 549 Castro St, San Francisco",37.7602037828,-122.434915659
+7,2015-10-12 03:48:04,"The Orange, 37 Pimlico Rd., Belgravia, Greater London",51.490702441,-0.15238386427
+8,2015-07-19 06:59:56,"Local 111, 111 Main St, Philmont",42.2489152353,-73.6493396759
+9,2015-02-15 05:00:56,"Nopa, 560 Divisadero St, San Francisco",37.774948211,-122.437658389
+10,2014-11-07 05:36:53,"Stumptown Coffee Roasters, 30 W 8th St, New York",40.7328149968,-73.9980934256
+11,2014-09-07 20:05:59,"Bar Gagarin, Knaackstr. 22-24, Berlin",52.534687,13.418941
+12,2014-08-01 11:00:33,"Redd Wood, 6755 Washington St, Yountville",38.4060176676,-122.36685533
+13,2014-05-26 13:43:45,"The Tasting Kitchen, 1633 Abbot Kinney Blvd, Venice",33.9896568293,-118.463178277
+14,2014-02-18 14:53:23,"Postcards Cafe, Kuhio Hwy, Hanalei",22.2038465738,-159.492653
+15,2013-10-27 10:10:24,"Sushi Ran, 107 Caledonia St, Sausalito",37.858815,-122.4859201
+16,2013-10-17 09:15:09,"Caff Gio, 1099 Hemphill Ave NW, Atlanta",33.7849096246,-84.4056246459
+17,2013-10-17 08:31:36,"Antico Pizza Napoletana, 1093 Hemphill Ave NW, Atlanta",33.7846424473,-84.4057990736
+18,2013-08-19 04:30:54,"Taqueria El Sombrero, 245 Center St, Healdsburg",38.6102345295,-122.869432497
+19,2013-08-10 09:51:42,"Mill Valley Beerworks, 173 Throckmorton Ave, Mill Valley",37.9052990906,-122.549462859
+20,2013-08-03 11:54:09,"Fish., 350 Harbor Dr, Sausalito",37.868274,-122.49769
+21,2013-07-15 03:27:23,"Windsor Farmers Market, McClelland Dr., Windsor",38.5485811017,-122.813846234
+22,2013-05-18 23:29:33,"Castello di Amorosa, 4045 Saint Helena Hwy, Calistoga",38.5585490524,-122.542154746
+23,2013-05-18 23:27:43,"The French Laundry, 6640 Washington St, Yountville",38.4042949747,-122.36493524
+24,2013-05-18 23:20:27,"Quivira Vineyards and Winery, 4900 W Dry Creek Rd, Healdsburg",38.6562505829,-122.937494516
+25,2013-05-18 23:20:09,"Lambert Bridge Winery, 4085 W Dry Creek Rd, Healdsburg",38.6468999345,-122.927767281
+26,2013-05-18 23:17:57,"DaVero Winery And Farmstand, 766 Westside Rd, Healdsburg",38.60341995,-122.88391
+27,2013-05-18 23:17:02,"Oakville Grocery, 124 Matheson St, Healdsburg",38.6104508587,-122.869107617
+28,2013-05-18 23:16:48,"Mustache, 381 Healdsburg Ave, Healdsburg",38.6115481684,-122.87080359
+29,2013-05-18 23:14:26,"Chateau Montelena, 1429 Tubbs Ln, Calistoga",38.6031045302,-122.598731518
+30,2013-05-18 04:30:58,"Opus One Winery, 7900 Saint Helena Hwy, Oakville",38.4411821458,-122.400011477
+31,2013-05-18 04:30:13,"Frog's Leap Winery, 8815 Conn Creek Rd, Rutherford",38.4743736011,-122.402887874
+32,2013-05-18 04:22:23,"Gott's Roadside, 933 Main St, Saint Helena",38.5019876699,-122.4654466
+33,2013-05-18 04:21:21,"Solage Calistoga, 755 Silverado Trail, Calistoga",38.5839885335,-122.570384523
+34,2013-05-18 04:20:04,"Clos Pegase Winery, 1060 Dunaweal Ln, Calistoga",38.5720713621,-122.55537305
+35,2013-05-18 04:18:59,"Vincent Arroyo Winery, 2361 Greenwood Ave, Calistoga",38.5974007845,-122.588265538
+36,2013-05-18 04:18:14,"Sterling Vineyards, 1111 Dunaweal Ln, Calistoga",38.5670255956,-122.549271584
+37,2013-04-25 10:22:04,"City Beer Store, 1168 Folsom St, San Francisco",37.7756372481,-122.409320761
+38,2013-04-22 02:49:43,"El Paseo Restaurant, 17 Throckmorton Ave, Mill Valley",37.9062527114,-122.546435827
+39,2013-03-04 06:08:27,"PlumpJack Cafe, 1920 Squaw Valley Rd., Squaw Valley",39.1973426263,-120.236186486
+40,2013-02-24 06:57:28,"Paia Fish Market Restaurant, 100 Hana Hwy, Paia",20.915979,-156.381284
+41,2013-02-23 14:46:10,"Hali'imaile General Store, 900 Haliimaile Rd, Makawao",20.8682812047,-156.34000633
+42,2012-12-31 00:26:35,"Barney Greengrass, 541 Amsterdam Ave, New York",40.7879399055,-73.9749076987
+43,2012-11-25 07:02:50,"Sebastian's General Store, 442 SLO San Simeon Road, San Simeon",35.6436020136,-121.191584
+44,2012-09-30 00:31:16,"Philz Coffee, 4298 24th St, San Francisco",37.7511109684,-122.438498888
+45,2012-09-29 07:43:58,"Biergarten, 424 Octavia St, San Francisco",37.7760245512,-122.424165235
+46,2012-09-25 03:44:29,"Ted's Market & Deli, 1530 Howard St, San Francisco",37.77274306,-122.416251024
+47,2012-07-06 08:22:37,"Sugo Trattoria, 5 Petaluma Blvd S, Petaluma",38.233456,-122.63885942
+48,2012-02-07 14:25:07,"The Ritz-Carlton Half Moon Bay, 1 Miramontes Point Rd, Half Moon Bay",37.4337381804,-122.441484332
+49,2012-02-07 14:19:59,"Indian Springs, Calistoga, Calistoga",38.5786166773,-122.579021486
+50,2012-02-07 14:18:51,"Sterling Vineyards, 1111 Dunaweal Ln, Calistoga",38.5670255956,-122.549271584
+51,2012-02-07 14:18:23,"The French Laundry, 6640 Washington St, Yountville",38.4042949747,-122.36493524
+52,2012-02-07 14:17:12,"Bartholomew Park Winery, 1000 Vineyard Ln, Sonoma",38.3015810986,-122.42535425
+53,2012-02-07 14:16:26,"DaVero Winery And Farmstand, 766 Westside Rd, Healdsburg",38.60341995,-122.88391
+54,2012-02-07 14:15:53,"Francis Ford Coppola Winery, 300 Via Archimedes, Geyserville",38.6798062999,-122.887057057
+55,2012-02-07 14:06:36,"Delfina, 3621 18th St, San Francisco",37.7615282532,-122.424336675
+56,2012-01-06 14:04:04,"Locanda, 557 Valencia St, San Francisco",37.7640483497,-122.421809285
+57,2011-12-27 12:42:49,"Daimo Chinese Restaurant, 3288 Pierce St, Richmond",37.8992280269,-122.308578637
+58,2011-07-28 07:30:47,"Sightglass Coffee, 270 7th St, San Francisco",37.7770249037,-122.408529808
+59,2011-07-24 13:21:27,"Absinthe Brasserie & Bar, 398 Hayes St, San Francisco",37.7773294693,-122.423003912
+60,2011-07-11 07:32:51,"Baltimore / Washington International Thurgood Marshall Airport (BWI), 7050 Friendship Road, Bwi Airport",39.1796631354,-76.669930388
+61,2011-07-06 10:11:51,"Nino's Tuscany, 117 W 58th St, New York",40.7653129483,-73.9774100554
+62,2011-03-10 08:45:12,"The Grove, 690 Mission St, San Francisco",37.7865339849,-122.401921749
+63,2011-03-10 05:23:09,"Storify HQ, 717 Market St, San Francisco",37.786929,-122.403847
+64,2010-07-21 04:49:48,"Storify, 795 Folsom St, San Francisco",37.782153,-122.401198
+65,2010-02-06 05:21:24,"Tortas Los Picudos, 2969 24th St, San Francisco",37.752722,-122.4113947
+66,2009-07-27 04:44:57,"Nubl, 62 Avenue C, New York",40.7226705551,-73.979903
+67,2009-07-27 04:43:28,"Employees Only, 510 Hudson St, New York",40.7334764039,-74.0062192447
