@@ -4,7 +4,7 @@ There are 3 datasets in this GitHub repository: Facebook, Foursquare, and Twitte
 
 Each file includes all the trajectories of the corresponding user in the following format:
 
-| header               | description                      |
+| column name               | description                      |
 | -------------------- | -------------------------------- |
 | time                 | the timestamp of this trajectory point |
 | poi                  | the poi of this trajectory point       |
